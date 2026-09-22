@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="4">Nos éclaireurs ont rapporté la présence d'un nouveau type d'argons à proximité de l'{@Rgn:49002}. Ils disent que ces créatures se nourrissent d'éclats d'iteris... Je sais, c'est plutôt incroyable.&lt;BR&gt;&lt;BR&gt;Rendez-vous sur place, tuez les rapaces suulvirs et rapportez-moi les éclats que vous trouverez. Nous devons déterminer si les argons sont capables d'altérer ces éclats à volonté.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1023">
+        <Page social="6">C'est bizarre. Je sens bien la différence, mais je ne parviens pas à me l'expliquer. Bah... Autant laisser ça à nos amis du Mysterium.&lt;BR&gt;&lt;BR&gt;Dans l'immédiat, ces éclats ne serviront pas aux argons et ça me suffit. Bien joué.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1023">
+        <Page social="0">Les éclats d'iteris jouent un rôle déterminant dans cette guerre, que ce soit dans le camp adverse ou dans le nôtre. Tuez les rapaces et rapportez-moi au moins trois éclats pour comparaison.</Page>
+    </Text>
+</QuestDialog>

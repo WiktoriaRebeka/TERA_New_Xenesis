@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous avez une drôle d'odeur. Où est-ce que vous avez traîné&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh non&amp;nbsp;! Ce n'est pas vous, c'est moi&amp;nbsp;! Vous voyez, ça, sur ma botte&amp;nbsp;? De la crotte de ghillie. J'ai dû marcher dedans en allant travailler. Ce n'est pas la première fois.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} a du travail à vous confier, si ça vous intéresse. Moi, je dois aller laver ma botte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Vous arrivez juste à temps. Les Mains ont besoin de matières premières qui se "promènent" pour le moment autour du {@Rgn:23001#Lac des Larmes}.&lt;BR&gt;&lt;BR&gt;Votre mission, si vous l'acceptez, est de traquer des monstres et de nous rapporter des trophées.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Regardez ça&amp;nbsp;! C'est largement assez pour ce qu'on veut en faire.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Allez voir {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Les Mains ont besoin d'armures d'excellente qualité. Le problème, c'est que nous n'en avons pas les moyens.&lt;BR&gt;&lt;BR&gt;Allez au {@Rgn:23001#Lac des Larmes} et réquisitionnez-en auprès des {@LinkCreature:23#9#rejetons à crocs fondus}.&lt;BR&gt;&lt;BR&gt;Si ça suffit à protéger un rejeton à crocs, ça peut nous protéger. Nous saurons comment transformer ce que vous rapporterez en accessoires utiles.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">Merveilleux&amp;nbsp;! Vous êtes vraiment incroyable.&lt;BR&gt;&lt;BR&gt;Dites à {@LinkCreature:63#3003#Elthienne} que j'ai recommandé de vous donner une prime – non pas qu'elle m'écoute, mais on ne sait jamais.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous manquons d'armures. Apparemment, elles s'usent vite quand on se bat contre des arachnéens et des fouaille-tripes.&lt;BR&gt;&lt;BR&gt;Vous pourriez en arracher sur les cadavres de {@LinkCreature:23#13#rejetons brûlants à crocs} près du {@Rgn:23001#Lac des Larmes}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bien sûr, il faudra les transformer en cadavres vous-même.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">Ah, c'est exactement ce qu'il nous fallait. Dites à {@LinkCreature:63#3003#Elthienne} que je me mets tout de suite au travail.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous aimerions que vous alliez au {@Rgn:23001#Lac des Larmes} pour nous rapporter la poussière générée par les {@LinkCreature:23#14#teralithes menaçants}.&lt;BR&gt;&lt;BR&gt;Cette poussière produit une argile riche et solide quand on la mélange à l'eau et à quelques ingrédients secrets.&lt;BR&gt;&lt;BR&gt;Je peux fabriquer tout un tas de choses avec... de la poterie aux instruments contondants. Je me débrouille pas mal, au cas où vous n'auriez pas remarqué.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Parfois, je me demande si les Mains de Velika sont dignes de vos services.</Page>
+    </Text>
+</QuestDialog>

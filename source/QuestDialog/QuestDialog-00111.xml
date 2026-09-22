@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">L'un des grands mystères du Val embrasé réside dans la {@LinkCreature:204#1117#pylône cruental}.&lt;BR&gt;&lt;BR&gt;Elle a manifestement d'immenses pouvoirs. Si seulement nous savions comment les exploiter...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} passe son temps avec cette pierre. Je parie qu'elle sait quelque chose, ou possède quelque chose, qui la relie à la pierre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1117">
+        <Page social="0">(Le pylône est assez chaud pour vous brûler si vous le touchez.)&lt;BR&gt;&lt;BR&gt;(Vous insérez la clé, et une tablette gravée émerge de l'intérieur même de la pierre.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1117">
+        <Page social="0">(Le pylône est trop chaud pour être touché. Peut-être que {@LinkCreature:4#7011#Marakadi} connaît un moyen secret pour le manipuler.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="3" villagerId="1003">
+        <Page social="7">C’était à l’intérieur du pylône cruental&amp;nbsp;? Incroyable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Cette tablette porte des inscriptions magiques des Shurians, mais ils ne frayent pas avec les démons.&lt;BR&gt;&lt;BR&gt;En tous cas, ils ne l’avaient jamais fait jusqu’ici. C’est perturbant. Mais je suppose qu'il vaut mieux ça que de ne rien savoir, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

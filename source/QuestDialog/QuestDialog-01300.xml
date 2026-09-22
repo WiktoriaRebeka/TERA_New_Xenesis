@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1012">
+        <Page social="4">(Cette castanic a été tuée par les argons.)&lt;BR&gt;&lt;BR&gt;(Dans sa main, se trouve un parchemin.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1012">
+        <Page social="6">Plus beaucoup de temps... J'ai froid, je perds mes sensations. Si vous trouvez ceci, prévenez Hekasha de ce qui m'est arrivé.&lt;BR&gt;&lt;BR&gt;Ma chère amie et collègue – j'aurais aimé que nous ayons plus de temps pour débattre des mystères de la vie. Je ne regrette pas mon parcours... mais tu me manqueras.&lt;BR&gt;&lt;BR&gt;-Linkia de Kanstria</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1016">
+        <Page social="6">{@Creature:76#1011} est morte&amp;nbsp;? Je… je n'y crois pas. Jusqu'ici, elle... avait toujours trouvé le moyen de revenir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quelle triste nouvelle. Vous croyez qu'elle a beaucoup souffert&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je ne pense pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est toujours ça. Ses recherches nous ont permis de mieux comprendre les argons et leur technologie.&lt;BR&gt;&lt;BR&gt;Je vous en prie, gardez son journal. Elle aurait certainement souhaité qu'il vous revienne. Elle vous ressemblait plus que vous ne l'imaginez.</Page>
+    </Text>
+</QuestDialog>

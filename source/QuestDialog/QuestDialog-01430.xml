@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="4">Il faut que vous arrêtiez les voleurs arcaniques mekonaris et leurs sbires urisks.&lt;BR&gt;&lt;BR&gt;Ces vermines à plumes tuent notre peuple à petit feu, il faut renverser la situation.&lt;BR&gt;&lt;BR&gt;Trouvez-les et renvoyez-les dans le Rêve.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1026">
+        <Page social="4">Vous avez récupéré ça sur les mekonaris&amp;nbsp;? Bien joué.&lt;BR&gt;&lt;BR&gt;Quoi qu'ils manigancent, j'espère que nous les arrêterons à temps.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1026">
+        <Page social="0">Les mekonaris et leurs sbires doivent être arrêtés, ne revenez pas avant d'avoir terminé votre mission.</Page>
+    </Text>
+</QuestDialog>

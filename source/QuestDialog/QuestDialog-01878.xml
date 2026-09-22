@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="4" voiceTypeId="0">Nous avons essayé, &lt;PCNAME&gt;. Vraiment&amp;nbsp;! Nous avons cru pouvoir libérer de leur supplice les chevaliers sanglants eldritchs. Après tout, ils étaient jadis des êtres comme vous et moi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais l'unique façon de les libérer est de les détruire. Nous ne pouvons pas retransformer les chevaliers sanglants en êtres normaux...&lt;BR&gt;&lt;BR&gt;... mais nous pouvons renvoyer leurs âmes dans le Rêve.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1025">
+        <Page social="4" voiceTypeId="0">Ces âmes ont trouvé la paix dans le Rêve, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

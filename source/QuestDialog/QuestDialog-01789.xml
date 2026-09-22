@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="4">Quand vous serez prêt, utilisez &lt;font color='#FF0000'&gt;"Terrasser" sur l'épouvantail situé là-bas,&lt;/font&gt; et revenez me voir ensuite. Je vous enseignerai alors des techniques encore plus redoutables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">C'est un bon début, mais nous avons encore beaucoup à apprendre.&lt;BR&gt;&lt;BR&gt;Nous allons désormais nous attaquer à la &lt;font color='#FF0000'&gt;Riposte frontale&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

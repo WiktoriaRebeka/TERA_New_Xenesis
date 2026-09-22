@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="4">Au cœur de Raga Shadi, on trouve des argons, bien sûr. Mais ce qui me fascine, ce sont les serviteurs cauchemardesques argonomorphes. Nous pensons que leur sang réagit, d'une façon ou d'une autre, aux mortels qui rêvent. En d'autres termes, ils deviennent plus forts quand nous dormons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1035">
+        <Page social="4">Faites attention à leur sang. Le sang cauchemardesque peut rendre fou, si on y est trop exposé.&lt;BR&gt;&lt;BR&gt;Vous savez retrouver votre chemin dans les tours, non&amp;nbsp;? Vous avez vu la Chambre Déferlâme, à l'est&amp;nbsp;? Eh bien, c'est là que vous allez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1035">
+        <Page social="0">Le sang des {@Creature:46#402#serviteurs cauchemardesques argonomorphes} réagit aux rêves des mortels. Nous devons comprendre comment.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1036">
+        <Page social="4">Flinton n'a pas traîné à vous envoyer ici. Soit vous êtes très efficace, soit... non, ça doit être ça. Vous savez ce que vous faites.</Page>
+    </Text>
+</QuestDialog>

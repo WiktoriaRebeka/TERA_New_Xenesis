@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="4">Une de nos troupes se trouve à {@Rgn:50004} pour explorer l'endroit.&lt;BR&gt;&lt;BR&gt;Nous sommes convaincus que les argons et argons rouges s'y métamorphosent en kargons grâce à l'importante source d'énergie qui s'y trouve.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} aurait bien besoin de votre aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="4">Certains argons sont bâtis pour le combat, mais d'autres, comme le moissonneur suulvir, soutiennent la machine de guerre argone en minant des éclats d'iteris.&lt;BR&gt;&lt;BR&gt;Si nous brisons leur organisation, le reste d'entre eux pourraient s'écrouler.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1016">
+        <Page social="6">Je n'avais jamais vu d'éclats de cette taille. C'est du bon boulot.&lt;BR&gt;&lt;BR&gt;Nous saurons quoi en faire, merci.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" villagerId="1016">
+        <Page social="0">Vous allez devoir tuer les moissonneurs suulvirs pour récupérer leurs éclats.</Page>
+    </Text>
+</QuestDialog>

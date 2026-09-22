@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1032">
+        <Page social="5">Il faudrait que vous chassiez quelques {@LinkCreature:23#10#dents-de-sabre du clair de lune}. On ne peut plus cohabiter avec eux.&lt;BR&gt;&lt;BR&gt;Quand ils ne dévorent pas nos provisions, c'est nous qu'ils essaient de croquer. Et c'est mauvais pour le moral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1032">
+        <Page social="5">Nos patrouilles seront moins dangereuses si ces bêtes disparaissent. Et votre spécialité, c'est bien de tuer toutes sortes de choses, non&amp;nbsp;? Merci&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

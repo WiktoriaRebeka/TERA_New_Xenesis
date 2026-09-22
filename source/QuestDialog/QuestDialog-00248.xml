@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Je comprends bien que vous avez mieux à faire, mais la situation est devenue tellement désespérée que je dois solliciter votre aide.&lt;BR&gt;&lt;BR&gt;Les plaies infligées par les gulas s'infectent instantanément. Je dois donc fabriquer un bandage imprégné d'onguent pour empêcher l'infection de se propager. Pour ce faire, j'ai besoin de &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Vous ne trouverez pas de {@RawItem:206819} dans cette région, mais si vous rentrez bredouille, vous pouvez en acheter pour quelques pièces d'or.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="0">Je me doute que la cueillette de plantes n'était pas votre vocation quand vous avez rejoint l'armée, mais nombre de vos frères d'armes vous devront bientôt la vie, &lt;PCNAME&gt;. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Il nous faut un &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt; de toute urgence. Je compte sur vous.</Page>
+    </Text>
+</QuestDialog>

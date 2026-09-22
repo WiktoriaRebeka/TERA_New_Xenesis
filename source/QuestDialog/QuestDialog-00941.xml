@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="5">Oui, le chariot aurait dû passer par ici, mais je ne l'ai pas vu.&lt;BR&gt;&lt;BR&gt;Si vous remontez vers le nord, en direction d'Allemantheia, vous finirez forcément par tomber dessus.&lt;BR&gt;&lt;BR&gt;Mais attention, s'il n'est pas arrivé à bon port... c'est forcément qu'il lui est arrivé quelque chose. Alors restez sur vos gardes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1026">
+        <Page social="5">(L'équipage est mort, et les fournitures ainsi que la nourriture ont disparu.)&lt;BR&gt;&lt;BR&gt;(Une arme traîne au sol. Vous devriez la rapporter à Tarnan.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1004">
+        <Page social="6">Une attaque&amp;nbsp;? Je me doutais que vous reviendriez avec ce genre de nouvelle.&lt;BR&gt;&lt;BR&gt;Vous avez trouvé une arme&amp;nbsp;? Laissez-moi y jeter un œil.&lt;NEXTPAGEBUTTON&gt;"Bien sûr, tenez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">C'est une arme de Ténébrara&amp;nbsp;! Pourquoi s'en prendraient-ils à nous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ca n'a pas de sens&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

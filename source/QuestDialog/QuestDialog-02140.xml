@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">J'ai besoin de vos services.&lt;BR&gt;&lt;BR&gt;En fait, je pense que vous êtes {@gender:le/la} {@gender:seul/seule} à pouvoir m'aider.&lt;NEXTPAGEBUTTON&gt;"Ah&amp;nbsp;? Quel est le problème&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">L'un des phares s'est éteint&amp;nbsp;! Le glyphe de Balder répand son énergie à travers tout le refuge. Les phares transforment une partie de cette énergie pour... eh bien, nous ne sommes pas sûrs, vraiment. Mais quand ils s'éteignent, les plantes et les animaux meurent et toutes les protections de la zone faiblissent.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} sait peut-être d'où vient le problème. Allez l'aider, et vite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;? Super&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il y a dû avoir un problème avec la {@WorkObject:95}.&lt;BR&gt;&lt;BR&gt;Prenez le téléportail qui se trouve à l'intérieur, rendez-vous en haut de la tour et redémarrez-la. Et surtout, faites attention aux golems&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Superbe. Oui, le champ se stabilise.&lt;BR&gt;&lt;BR&gt;Entre les escaliers d'un côté et les golems de l'autre, c'était pas facile. Quelle chance nous avons eu de vous avoir à nos côtés.</Page>
+    </Text>
+</QuestDialog>

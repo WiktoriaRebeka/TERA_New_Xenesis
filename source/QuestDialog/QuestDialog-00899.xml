@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="4">{@LinkCreature:34#5001#Kaijas} chef des autres wendigos. Lui pas vouloir partager éclats.&lt;BR&gt;&lt;BR&gt;Si vous tuer lui, autres wendigos peut-être d'accord pour écouter Krrevaas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1015">
+        <Page social="4">Honneur plus important que force. Madyar avoir honneur, &lt;PCNAME&gt; aussi.&lt;BR&gt;&lt;BR&gt;Krrevaas va parler aux wendigos. Parlera de partager éclats avec votre peuple.&lt;NEXTPAGEBUTTON&gt;"Je le ferai aussi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Alors nous dire au revoir comme alliés. Quand prochaine rencontre, Krrevaas espérer nous amis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1015">
+        <Page social="0">Deux camps perdants si éclats disparaître. Plus beaucoup de temps pour travailler ensemble.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="3" villagerId="1009">
+        <Page social="4">Vous retournez au poste à la Base de Glace du Rôdeur&amp;nbsp;? Je crois que je ferais mieux de rester ici pour aider les wendigos. Remerciez Lalash de ma part pour s’être inquiété de mon sort.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="5" villagerId="1005">
+        <Page social="4">Tant de luttes et de peine pour des éclats de cristal.&lt;BR&gt;&lt;BR&gt;J’ai bien saisi ce que veut dire Madyar, nous ne sommes pas les seuls habitants de ce monde. Je vais discuter de vos rapports avec le Prétorien. Il peut peut-être changer de politique à temps pour éviter la catastrophe.&lt;BR&gt;&lt;BR&gt;Rompez&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

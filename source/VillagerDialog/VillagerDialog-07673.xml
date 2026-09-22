@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20101" huntingZoneId="2001" voiceTypeId="301" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="301">Vous ne pouvez pas passer votre temps à vous occuper des villageois.&lt;BR&gt;Une mission capitale nous attend : arrêter Exodor !</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Savez-vous que nous n'avons encore rien appris au sujet Exodor ?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Je vais me rallier aux villageois pour explorer Exodor.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Laissez-moi m'en occuper ! Allons-y.</Page>
+    </Text>
+</VillagerDialog>

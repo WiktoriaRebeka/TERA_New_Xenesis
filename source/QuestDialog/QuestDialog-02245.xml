@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="0">Vous êtes allé à la ferme communautaire construite par la confrérie libre autonome, y avez appris à récolter des produits fermiers et avez fait une partie de rodéo de porcidé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="4">Salut, &lt;PCNAME&gt;, êtes-vous un fin gourmet&amp;nbsp;? Si vous avez fait toute cette route pour du lotus céleste, c'est sans doute que oui.&lt;BR&gt;&lt;BR&gt;Vous devriez vous rendre dans la ferme là-bas. Ils ont des produits d'une fraîcheur incomparable, à utiliser pour les plus succulentes des recettes.&lt;BR&gt;&lt;BR&gt;Demandez Karadus. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Entendu.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Bienvenue, étranger. Vous êtes ici pour le festival, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous vous trouvez dans une ferme communautaire, entretenue et partagée par tous les habitants des Terres libres. Nous élevons du bétail et Lein et sa famille s'occupe de l'élaboration des biens de consommation.&lt;BR&gt;&lt;BR&gt;Avez-vous rencontré Tagun&amp;nbsp;? C'est un berger. Il passe son temps à somnoler, mais il a un bon cœur et la viande d'agneau n'a aucun secret pour lui. Si vous voulez de l'agneau de premier choix pour votre recette, allez le voir. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Merci.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7002">
+        <Page social="4">Vous cherchez de l'agneau de qualité ?&lt;BR&gt;&lt;BR&gt;Eh bien, figurez-vous que moi aussi... Je n'ai fermé l'œil qu'un court instant et ils se sont sauvés. Aidez-moi à retrouver mes moutons et je vous donnerai de l'agneau de premier choix. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="702" villagerId="4">
+        <Page social="0">Beeeee&amp;nbsp;! Beeeee&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="4" villagerId="7002">
+        <Page social="4">Vous avez raté votre vocation, &lt;PCNAME&gt;. Vous feriez un excellent berger.&lt;BR&gt;&lt;BR&gt;Mais vous aurez toujours la possibilité de le devenir plus tard. Voilà la viande d'agneau promise. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Quels autres ingrédients puis-je obtenir&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si vous avez besoin de lait ou de bœuf, allez voir Filton dans sa ferme laitière.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="6" villagerId="7003">
+        <Page social="4">Bienvenue, mon ami{@g:/e}. Je ne me rappelle pas de vous avoir déjà vu ici. Vous êtes sous-chef ou vous êtes juste là pour le festival&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien, vous avez loupé la saison de l'abattage des bêtes, mais j'ai du lait frais à foison.&lt;BR&gt;&lt;BR&gt;Bien sûr, la saison de l'abattage du bétail ne s'achève jamais vraiment, avec ces hyènes qui rôdent. Pourriez-vous les chasser pour moi&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ça peut se faire.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="7" villagerId="7003">
+        <Page social="4">Eh bien, vous n'avez pas perdu votre temps&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon je présume que du lait ordinaire est une récompense un peu chiche. Voyons voir&amp;nbsp;: vous cherchez des ingrédients pour vos recettes, n'est-ce pas&amp;nbsp;? Il vous faut parler à Trichi. Il peut vous aider à mettre la main sur les ingrédients très spéciaux dont vous avez besoin. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Merci.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="7004">
+        <Page social="4">C'est Filton qui vous envoie&amp;nbsp;? &lt;BR&gt;&lt;BR&gt;Avez-vous déjà goûté aux œufs de struthio&amp;nbsp;? C'est largement meilleur que les œufs de poule.&lt;BR&gt;&lt;BR&gt;Vous pouvez en prendre autant que vous voulez, mais pourriez vous en amener un de ma part à Tippani&amp;nbsp;? Elle m'en a demandé un, mais j'étais trop occupé pour le lui amener&amp;nbsp;! Merci d'avance&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;OK.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="7005">
+        <Page social="4">Trichi&amp;nbsp;! Vous êtes en retard et je déteste ça&amp;nbsp;! On part sur de bien mauvaises bases&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais... vous n'êtes pas Trichi&amp;nbsp;! Où est donc Trichi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Euh... attendez. Je voulais dire&amp;nbsp;: Bienvenue au rodéo de porcidé&amp;nbsp;! Désirez-vous tenter votre chance&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Je suis juste venu{@g:/e} pour vous amener cet œuf.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oooh! Trichi vous a envoyé m'amener l'œuf que je lui ai demandé&amp;nbsp;! Comme il est attentionné&amp;nbsp;! Vous lui transmettrez un grand &amp;quot;merci.&amp;quot; de ma part.&lt;BR&gt;&lt;BR&gt;Attendez, ne partez pas. Vous devez encore essayer le rodéo de porcidé&amp;nbsp;! Vous pouvez remporter de la viande de porcidé, la meilleure des Terres libres&amp;nbsp;! Vous êtes certain{@g:/e} de ne pas vouloir essayer&amp;nbsp;?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Comment joue-t-on&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, vous êtes intéressé{@g:/e}&amp;nbsp;! Eh bien, c'est nettement plus amusant que le botte-le-foin ringard&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous arrivez à garder les porcidés sous votre contrôle jusqu'à écoulement du chronomètre, vous l'emportez&amp;nbsp;! Lancez-leur du feu fantôme et ils vous suivront à la trace. Mais prenez gare au robot porcher, qui va essayer de vous voler vos porcidés.&lt;BR&gt;&lt;BR&gt;Tentez votre chance, vous allez vite comprendre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" villagerId="7005">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="219" prevId="10" villagerId="7005">
+        <Page social="4">Pas mal, pas mal. Et voici votre récompense&amp;nbsp;: de la viande de porcidé&amp;nbsp;! La meilleure de toutes les Terres libres&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Comment l'accommode-t-on&amp;nbsp;?l&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Melsa, de la ferme de Lein, est réputée pour ses recettes au porcidé.&lt;BR&gt;&lt;BR&gt;Je sais comment fumer la viande de porcidé, mais pour ce qui est de la cuisiner, Melsa est imbattable. Répétez-lui cela et peut-être qu'elle vous révélera une de ses recettes.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="219" prevId="12" villagerId="7000">
+        <Page social="4">Vous revoilà, &lt;PCNAME&gt;&amp;nbsp;! Vous vous êtes bien amusé{@g:/e}&amp;nbsp;? &lt;BR&gt;&lt;BR&gt;Oh, je vois que vous avez de la viande fumée de Tippani.&lt;BR&gt;&lt;BR&gt;Elle n'est pas mauvaise en soi, mais quel gâchis de ne pas la cuisiner correctement. Mais par chance, il se trouve que j'ai une recette, la meilleure de toutes les Terres libres&amp;nbsp;! Voilà, vous avez juste besoin d'un peu de sel. Et maintenant, direction le brasero. &lt;NEXTPAGEBUTTON&gt;&amp;quot;OK.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="219" prevId="13" villagerId="7000">
+        <Page social="4">Eh bien, ça sent vraiment bon&amp;nbsp;! La couleur n'est pas mal non plus et la viande se détache de l'os comme il se doit. J'en ai l'eau à la bouche&amp;nbsp;! Je peux goûter&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Hmm, c'est succulent&amp;nbsp;! Bravo, &lt;PCNAME&gt;&amp;nbsp;! Y avez-vous déjà goûté&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Je pourrais me laisser tenter par une petite bouchée.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous avez des talents cachés, vous savez&amp;nbsp;? Tellement des soi-disant chefs carbonisent le porcidé ou le ne font pas cuire suffisamment et courent ensuite bien vite au &amp;quot;petit coin&amp;quot;...&lt;BR&gt;&lt;BR&gt;Bref, euh... tenez. Voilà la recette pour le barbecue de Kaiator. Je pense vous êtes à la hauteur. Si vous en faites, mettez-m'en un peu de côté&amp;nbsp;!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="219" villagerId="7000">
+        <Page social="0">N'oubliez pas, &lt;PCNAME&gt;&amp;nbsp;: suivez la recette et tout ira bien.</Page>
+    </Text>
+</QuestDialog>

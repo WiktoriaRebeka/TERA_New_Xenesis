@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Dans la Base d'Exodor de la Fédération Valkyon, le commandant Dougal voulait s'entretenir avec vous au sujet des Arkarps de la Zone centrale détruite.&lt;BR&gt;&lt;BR&gt;Vous l'avez donc rejoint dans la Base d'Exodor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">De sa propre initiative, Jelena avait observé les Arkarps d'Exodor et signalé une progression de l'ennemi dans la Zone centrale.&lt;BR&gt;&lt;BR&gt;Dougal vous a prié de rejoindre Jelena et de découvrir ce que les ennemis manigancent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="50000">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ! Jelena nous a signalé que, ces derniers temps, les hauts dragons d'Arkarp massent leurs troupes dans les quartiers d'Arkarp.&lt;BR&gt;&lt;BR&gt;Le noyau a beau être détruit, son pouvoir est encore palpable. Ils manigancent peut-être quelque chose.&lt;NEXTPAGEBUTTON&gt;"Où est Jelena ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Jelena surveille les hauts dragons à Exodor.&lt;BR&gt;&lt;BR&gt;Dans le dernier message qu'elle nous a envoyé, elle mentionne ses observations dans les quartiers d'Arkarp et nous prie de vous appeler à l'aide.&lt;BR&gt;&lt;BR&gt;Merci d'aller trouver Jelena dans les Quartiers des troupes d'Arkarp et de découvrir ce qui s'y trame.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2020" prevId="3" villagerId="10000">
+        <Page social="0" voiceTypeId="0">Je vous attendais, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;En cherchant les commandants des hauts dragons, j'ai pu observer précisément tous les mouvements suspects à Exodor.&lt;BR&gt;&lt;BR&gt;Et bien évidemment, il ne m'a pas échappé que les hauts dragons commencent à se rassembler ici.&lt;BR&gt;&lt;BR&gt;Nous devons découvrir leurs intentions.&lt;BR&gt;&lt;BR&gt;Pourriez-vous m'y aider ?&lt;NEXTPAGEBUTTON&gt;"Bien entendu !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Très bien !&lt;BR&gt;&lt;BR&gt;À nous deux, nous arriverons à percer leurs plans à jour et à venger Élion.&lt;BR&gt;&lt;BR&gt;Dans cette optique, il est impératif d'identifier la personne tire les ficelles.&lt;BR&gt;&lt;BR&gt;Éliminez donc les hauts dragons rassemblés ici et apportez-moi leur missive d'ordre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">Merci de pour les nombreuses missives d'ordre que vous avez déjà récupérées. Elles vont certainement nous révéler ce qui se trame ici.&lt;BR&gt;&lt;BR&gt;Apportez les ordres à Dougal. Il va les examiner puis nous envoyer des renforts. Oh... oh non ! &lt;NEXTPAGEBUTTON&gt;"Qu'y a-t-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Les hauts dragons lèvent le camp !&lt;BR&gt;&lt;BR&gt;Je me lance à leur poursuite pendant que vous apportez les ordres à Dougal.&lt;BR&gt;&lt;BR&gt;Indiquez-lui que je compte contacter la base au plus vite, puis venez me rejoindre.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">Nous avons besoin de leurs missives d'ordre pour apprendre ce qu'ils manigancent !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="0">Jelena vous a demandé de me remettre ces missives d'ordre ?!&lt;BR&gt;&lt;BR&gt;Dans ce cas, je me mets au travail sur-le-champ !&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, retournez auprès de Jelena et gardez les hauts dragons à l'œil.&lt;BR&gt;&lt;BR&gt;Je vous envoie des renforts dès que j'ai étudié les ordres.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20305">
+        <Page social="0">&lt;PCNAME&gt;, je sais désormais où les hauts dragons se rendent !&lt;NEXTPAGEBUTTON&gt;"Où donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">À la Forteresse de Berak !&lt;BR&gt;&lt;BR&gt;Kalligar, le commandant des hauts dragons, compte sans doute remettre la forteresse en état.&lt;BR&gt;&lt;BR&gt;Jelena est déjà sur les talons du commandant. Allez l'aider au plus vite. Si elle s'avise de l'affronter seule...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="8" villagerId="10000">
+        <Page social="0" voiceTypeId="0">Pendant votre absence, j'ai suivi les hauts dragons jusqu'ici.&lt;BR&gt;&lt;BR&gt;Les hauts dragons et leurs sbires reviennent toujours par ici.&lt;NEXTPAGEBUTTON&gt;"Et le sentier dérobé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il mène sans doute à un des commandants.&lt;BR&gt;&lt;BR&gt;Une lutte de pouvoir a éclaté.&lt;NEXTPAGEBUTTON&gt;"Que comptez-vous faire, maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je vais longer le sentier pour voir où il mène.&lt;BR&gt;&lt;BR&gt;Et si le commandant s'avise de se mettre en travers de ma route, je vengerai Élion.</Page>
+    </Text>
+</QuestDialog>

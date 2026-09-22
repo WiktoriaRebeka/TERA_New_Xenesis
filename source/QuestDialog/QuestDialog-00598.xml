@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="4">Vous avez déjà tant fait pour moi que j'ai honte de vous demander une autre faveur.&lt;BR&gt;&lt;BR&gt;Borud est un chercheur de Velika. Malheureusement, il est aussi doué pour le combat qu'un oeuf pour la cuisine. Si vous pouviez l'escorter dans les ruines, vous me rendriez un immense service&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="21" villagerId="33">
+        <Page social="0">Je comprends que vous êtes un soldat aguerri. Et je ferai de mon mieux pour ne pas vous gêner. Allons-y&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" prevId="2" villagerId="1046">
+        <Page social="5">Eh bien, ça a été excitant&amp;nbsp;! Je vais me débrouiller tout seul maintenant, &lt;PCNAME&gt;. J'ai du travail. Dites à Aresk que je suis en sécurité, s'il vous plaît.&lt;BR&gt;&lt;BR&gt;Et merci pour votre aide.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="221" prevId="4" villagerId="1021">
+        <Page social="5">Merci d'avoir aidé Borud. Vivement qu'il nous livre le fruit de ses recherches&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

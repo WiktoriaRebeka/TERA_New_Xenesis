@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="4">Nous avons perdu contact avec nos cousins de Crescentia. Les devans ont réussi à traverser la ligne de défense de nos camps et ils ont coupé la route, interrompant toute forme de commerce.&lt;BR&gt;&lt;BR&gt;Partez vers l'est, traversez la caverne et allez parler à {@LinkCreature:203#1004#Neacal}, au Camp de la Digue. Faites votre possible pour lui prêter main forte. Si vous faites pour les habitants des Bois de l'Oubli ne serait-ce que la moitié de ce que vous avez fait pour nous, vous leur serez déjà d'une aide précieuse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="6">Vous venez rejoindre nos forces&amp;nbsp;? Formidable.&lt;BR&gt;&lt;BR&gt;Les devans ont envahi les bois et ils y ont installé un certain nombre de camps. Avant, ils restaient confinés dans le périmètre de Deva Silva, mais dernièrement, ils se sont enhardis.&lt;BR&gt;&lt;BR&gt;Ce sont des adversaires puissants et sournois, mais avec votre aide, nous finirons par les repousser.</Page>
+    </Text>
+</QuestDialog>

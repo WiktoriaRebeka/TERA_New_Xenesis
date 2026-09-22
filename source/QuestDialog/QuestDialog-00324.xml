@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">Je suis tombé sur un truc intéressant, au cours d'une mission de reconnaissance... un trésor&amp;nbsp;! Et de taille&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Des gardes&amp;nbsp;? Eh bien... hum, oui. Juste un, mais de taille, comme le trésor&amp;nbsp;: il s'agit de {@LinkCreature:11#5001#Belkarius}.&lt;BR&gt;&lt;BR&gt;Tuez-le, et le trésor est à nous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">Alors, vous avez trouvé le trésor&amp;nbsp;? Fort bien.&lt;BR&gt;&lt;BR&gt;Accessoirement, votre diversion m'a permis de faire une reconnaissance avancée de cet endroit.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0">En combattant les gulas dans les Cavernes affamées, vous avez rencontré un soldat nommé Detrian. Celui-ci vous admirait depuis toujours et vous a prié d'aller remettre un cadeau à sa sœur. De son côté, sa sœur vous a prié de remettre à son frère un talisman pour le combat. Detrian s'est emparé du talisman et s'est vaillamment mis en route pour les Cavernes affamées.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" voiceTypeId="0">Les gulas... rien que d'y penser, j'en ai la chair de poule. &lt;BR&gt;&lt;BR&gt;L'épée de Kaia affronte les gulas au front, mais ils ont besoin de renfort.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, par pitié, aidez-nous à vaincre les gulas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Merci bien. Alors je vous envoie officiellement aux Cavernes affamées. &lt;BR&gt;&lt;BR&gt;Mais pourriez-vous me rendre un service avant de partir pour les Cavernes affamées ? &lt;BR&gt;&lt;BR&gt;Detrian est actuellement en permission à Castanica, mais nous avons besoin qu'il revienne au front le plus vite possible. Ramenez-le nous, s'il vous plaît.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1106">
+        <Page social="5" voiceTypeId="0">Ainsi, ils m'ordonnent de revenir. Pfiou... Hé, mais... ? Vous ne seriez pas &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;(Vous hochez la tête.)&lt;BR&gt;&lt;BR&gt;Je le savais ! Quel immense honneur de faire votre connaissance ! Je... Je vous admire ! Je suis enchanté de rencontrer le héros qui a libéré Velika de l'emprise de Samael !&lt;BR&gt;&lt;BR&gt;Vous aussi, vous êtes affecté aux Cavernes affamées, &lt;PCNAME&gt; ?&lt;NEXTPAGEBUTTON&gt;"Tout à fait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je comprends ! La situation est critique dans les Cavernes affamées. Je suis ravi que vous nous rejoigniez, &lt;PCNAME&gt;. Nous devons tout donner ! Mince... Si j'y retourne maintenant, je n'aurai pas l'occasion de remettre ce cadeau à ma sœur.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je dois y aller. Pourriez-vous apporter cette poupée en bois à Hennika, ma petite sœur ?&lt;BR&gt;&lt;BR&gt;Elle vous admire tout autant que moi, &lt;PCNAME&gt; ! Elle sera aux anges si c'est vous qui lui remettez le cadeau.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1107">
+        <Page social="5" voiceTypeId="0">C'est mon frère qui vous envoie ?&lt;BR&gt;&lt;BR&gt;Ah, ma poupée préférée ! Mon grand frère est vraiment le meilleur ! Vous vous appelez comment, déjà ? Ah, c'est ça, &lt;PCNAME&gt;. Vous avez le même nom que l'idole de mon frère.&lt;BR&gt;&lt;BR&gt;J'ai aussi un cadeau pour mon grand frère. Il travaille tellement dur dans les Cavernes affamées. &lt;PCNAME&gt;, c'est aussi là que vous allez, non ? Pourriez-vous apporter ce talisman à mon frère ? Je l'ai bricolé moi-même. Il protégera mon grand frère.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1023">
+        <Page social="5" voiceTypeId="0">Ah, &lt;PCNAME&gt;. Vous voilà enfin !&lt;BR&gt;&lt;BR&gt;Hennika vous a demandé de me remettre ça ? Ahahah, un talisman.&lt;BR&gt;&lt;BR&gt;(Detrian a l'air très heureux.)&lt;BR&gt;&lt;BR&gt;Merci de me l'avoir amené.&lt;BR&gt;&lt;BR&gt;Et maintenant, vous feriez mieux de reprendre la route, &lt;PCNAME&gt;. La préfète Karina vous attend au Refuge des espions. Dépêchez-vous. Et méfiez-vous de l'énergie de Karina.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">La purification des Cavernes affamées doit intervenir au plus vite. Nous devons venger tous ceux qui sont tombés sous les coups des gulas.&lt;BR&gt;&lt;BR&gt;Je m'en remets à vous, &lt;PCNAME&gt;. Vos premières cibles sont les {@linkcreature:8#2021#esclavagistes gulas} et les {@linkcreature:8#2021#mercenaires caïmans}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Excellent. Voilà un don de soi qui fait plaisir à voir. Mais ce n'était qu'un début. Cela ne suffira pas à intimider ces gulas intraitables.&lt;BR&gt;&lt;BR&gt;Il reste encore des Humains dans les Cavernes affamées. Nous devons nous empresser de finir le travail.</Page>
+    </Text>
+</QuestDialog>

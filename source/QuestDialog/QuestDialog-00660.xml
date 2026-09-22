@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="5">Nos terres sacrées sont profanées par ces maudits enfants de Lok&amp;nbsp;! Le Lac des Larmes est un monument à Elinu elle-même&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous devons faire cesser ce scandale&amp;nbsp;! Tuez immédiatement les {@LinkCreature:23#17#tisseurs sanglants} et les {@LinkCreature:23#16#gardes noirs} de Lok. La nature va contre-attaquer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1003">
+        <Page social="5">C'est un soulagement de savoir que ces créatures sont mortes, mais je me demande ce qui les a attirées ici. Il faut que j'y réfléchisse.&lt;BR&gt;&lt;BR&gt;En tout cas, tuer des choses, ce n'est pas votre spécialité pour rien, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

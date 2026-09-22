@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">Vous nous avez déjà été d'une aide précieuse, &lt;PCNAME&gt;. J'aimerais que vous alliez vous aventurer un peu plus profondément dans Deva Silva, pour y travailler avec {@LinkCreature:203#1011#Droyan}, l'un de mes éclaireurs.&lt;BR&gt;&lt;BR&gt;Il est plutôt doué dans son domaine, mais pour le combat, l'aide d'une personne de votre trempe lui serait certainement utile. Exécution, soldat&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Bienvenue à la foire aux devans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne suis pas fâché de croiser enfin un visage amical&amp;nbsp;! Je surveille ces vermines depuis un bon moment. Il faudrait en abattre un certain nombre, mais je ne peux prendre le risque de me faire repérer.&lt;BR&gt;&lt;BR&gt;Un petit combat, ça vous tente&amp;nbsp;? Bon, disons un gros combat, alors&amp;nbsp;? Ha ha&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

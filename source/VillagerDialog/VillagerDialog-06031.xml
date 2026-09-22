@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="408" voiceTypeId="47" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="0">L'énergie malfaisante de Malachai... vous la ressentez&amp;nbsp;? Elle est partout.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0">{@g:Prêt/Prête} à juger de vrais traîtres&amp;nbsp;?&lt;TEXTBUTTON&gt;"Occupons-nous d'eux."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Allons-y."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

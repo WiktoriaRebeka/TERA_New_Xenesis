@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Oh&amp;nbsp;! On vous a confié plein de missions de confection très barbantes, mais c'est parce que votre travail est excellent.&lt;BR&gt;&lt;BR&gt;C'est avec ces rares matériaux d'excellente qualité que nous soutenons la précieuse cause pour laquelle nous nous battons, et nous apprécions l'aide que vous avez apportée aux Mains de Velika.&lt;BR&gt;&lt;BR&gt;Assez parlé. Allez voir {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Pardon de vous demander ça une fois de plus, mais vous pourriez fabriquer quelques objets pour {@LinkCreature:63#3001#Barian}&amp;nbsp;? Nos réserves se vident, et nous devons continuer d'approvisionner la demande.&lt;BR&gt;&lt;BR&gt;Sans commerce, les Mains de Velika n'existeraient plus. Hé oui. C'est dire si nous sommes importants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 4 exemplaires de {@RawItem:206812} et apportez-les ici.&lt;BR&gt;Vous préférez apporter votre soutien aux mercenaires plutôt qu'aux forgerons, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 4 exemplaires de {@RawItem:206813} et apportez-les ici.&lt;BR&gt;Vous préférez apporter votre soutien aux mercenaires plutôt qu'aux forgerons, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 4 exemplaires de {@RawItem:206814} et apportez-les ici.&lt;BR&gt;Vous préférez apporter votre soutien aux mercenaires plutôt qu'aux forgerons, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 4 exemplaires de {@RawItem:206815} et apportez-les ici.&lt;BR&gt;Vous préférez apporter votre soutien aux mercenaires plutôt qu'aux forgerons, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Merci, &lt;PCNAME&gt; !  J'espère pouvoir encore compter sur vous la prochaine fois. &lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} et réclamez votre récompense.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 4 exemplaires de {@RawItem:206816} et apportez-les ici.&lt;BR&gt;Vous préférez apporter votre soutien aux mercenaires plutôt qu'aux forgerons, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. Vous vous débrouillez plutôt bien ! &lt;BR&gt;Vous n'allez pas tarder à me surpasser.&lt;BR&gt;&lt;BR&gt;Je ne m'y attendais pas !</Page>
+    </Text>
+</QuestDialog>

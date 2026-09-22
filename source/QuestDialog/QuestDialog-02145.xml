@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">Hé, ça vous dit de vous lancer dans une mission tranquille&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} manque de médicaments.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">C'est bon de vous voir, mon {@gender:ami/amie}.&lt;BR&gt;&lt;BR&gt;Entre les coupures, les égratignures et les morsures de paresseux, on manque toujours de quelque chose, ici.&lt;BR&gt;&lt;BR&gt;Apportez ce que vous trouverez à Buran. Et merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3005">
+        <Page social="4">Oui, ça fera l'affaire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" villagerId="3005">
+        <Page social="0">L'ombre-de-lune dont {@LinkCreature:71#3003#Ruma} a besoin pousse dans les environs du Jardin de Seren.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="6" villagerId="3005">
+        <Page social="4">Aah, quel doux parfum&amp;nbsp;! Quelle fraîcheur.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" villagerId="3005">
+        <Page social="0">Le lotus du clair de lune est un très bon désinfectant.&lt;BR&gt;&lt;BR&gt;Vous devriez en trouver près du Lac de Seren.</Page>
+    </Text>
+</QuestDialog>

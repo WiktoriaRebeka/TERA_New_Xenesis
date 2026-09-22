@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="0">Vous avez aidé Elion à vaincre Samael, et y avez gagné la reconnaissance de la Fédération et celle de Velik. Cette dernière a également dit que vous veniez de passer un test, mais elle ne s'est pas étendue sur la question.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">J'ai maintenant informé Seir, le commandant de la fédération, des différents agissements de Samael et des descendants de Lok.&lt;BR&gt;&lt;BR&gt;Les dirigeants de la fédération savent désormais aussi que Samael commande les descendants de Lok et représente une menace pour Valkyon.&lt;BR&gt;&lt;BR&gt;Velika et la fédération ont décidé d'infliger à Samael le châtiment qu'il mérite. Mais il se tapit quelque part.&lt;BR&gt;&lt;BR&gt;Il ne faut pas qu'il nous échappe. Dougal pourra vous en dire plus sur l'endroit où il se terre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1032">
+        <Page social="10" voiceTypeId="0">&lt;PCNAME&gt;... Ça faisait une paye. Je n'en reviens pas... Samael a trahi la Fédération Valkyon. J'aimerais pouvoir le nier.&lt;BR&gt;&lt;BR&gt;Excusez-moi ! Trêve de jérémiades...&lt;BR&gt;Velika est prête à prendre des mesures contre Samael. &lt;BR&gt;Nous nous préparons pour une attaque. &lt;BR&gt;&lt;BR&gt;Merci d'éliminer {@linkcreature:9#2100#Kubai Vive-tempête} et {@linkcreature:9#2200#Ladek de la demi-lune sanglante} qui protègent la cachette dans le Labyrinthe d'Azarel. Utilisez ensuite le {@linkcreature:209#1029#téléportail} pour vous y introduire.&lt;NEXTPAGEBUTTON&gt;"Le téléportail ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Le général Samael... ou plutôt, Samael le traître a installé un {@linkcreature:209#1029#téléportail} pour pouvoir rejoindre à sa guise le Labyrinthe d'Azarel depuis sa résidence de Velika. &lt;BR&gt;&lt;BR&gt;Il ne doit surtout pas s'échapper. Sitôt après votre infiltration, nous entrerons aussi dans la Résidence de Samael. &lt;BR&gt;&lt;BR&gt;Alors à bientôt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1029">
+        <Page social="0" voiceTypeId="0">(C'est le téléportail dont Dougal vous a parlé. Vous pouvez l'utiliser pour vous infiltrer dans la résidence de Samael.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="401" prevId="4" villagerId="1001">
+        <Page social="0" voiceTypeId="0">Nous ne nous attendions pas à ça...&lt;BR&gt;&lt;BR&gt;Samael est désormais un ennemi de la fédération et va devoir payer pour ses crimes.&lt;BR&gt;&lt;BR&gt;Nous pouvons commencer quand tout le monde est prêt.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Cliquez sur "Allons-y !", pour lancer l'évènement.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="401" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Bon travail, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Le cas de Samael est une bien triste affaire. C'était autrefois un soldat d'exception de la guerre argonne. Mais il a fait son choix.&lt;BR&gt;&lt;BR&gt;La mort de Samael a dû passablement ébranler les descendants de Lok. Velika vous doit beaucoup. Vous avez sauvé ma ville... et il est même bien possible que je vous doive la vie.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="401" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">Merci à vous ! Sans votre aide et celle d'Élion, nous aurions tout perdu !&lt;BR&gt;&lt;BR&gt;Qui aurait cru que Samael finirait comme ça ? &lt;BR&gt;&lt;BR&gt;Jadis, c'était un héros...&lt;BR&gt;Tout cela est ma faute. &lt;BR&gt;&lt;BR&gt;Je vais charger les éclaireurs de dénicher les descendants de Lok et de les décimer une bonne fois pour toutes.&lt;BR&gt;&lt;BR&gt;Nous devons prendre une décision importante. Mais pour cela, nous devons faire un rapport au consulat.</Page>
+    </Text>
+</QuestDialog>

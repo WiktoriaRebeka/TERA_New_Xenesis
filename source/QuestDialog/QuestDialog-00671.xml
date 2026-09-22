@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="5">Notre puits fournissait assez d'eau pour nous tous, mais la sécheresse est passée par là, et maintenant les fouaille-tripes nous volent nos réserves d'eau.&lt;BR&gt;&lt;BR&gt;Il y a un campement de tentes à l'ouest du village. C'est là qu'était le marché avant, mais il a été abandonné à cause des bandits. Il y reste peut-être encore un peu d'eau, mais personne ici n'a l'étoffe pour affronter les bandits.&lt;BR&gt;&lt;BR&gt;Vous pouvez aller voir et rapporter l'eau que vous trouverez&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1009">
+        <Page social="5">Formidable&amp;nbsp;! C'est beaucoup d'eau. Avec ça, nous tiendrons un bon moment, quoique peut-être pas jusqu'à la fin de la sécheresse.&lt;BR&gt;&lt;BR&gt; Merci. Que la Fédération envoie d'autres gens comme vous, et nous vous rejoindrons peut-être.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Le Campement de tentes abandonné dans le Désert de Rapine à l'ouest du village. Si les bandits y ont laissé de l'eau, rapportez-la-moi avant qu'elle ne s'évapore.</Page>
+    </Text>
+</QuestDialog>

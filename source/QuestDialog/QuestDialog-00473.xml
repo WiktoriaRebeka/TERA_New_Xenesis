@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="5">J'étais parti cueillir avec mon père, et je me suis un peu trop éloigné de lui. C'est là que les {@LinkCreature:16#2209#défenses lugubres} m'ont attaqué, alors j'ai couru me mettre à l'abri.&lt;BR&gt;&lt;BR&gt;Mon père doit se faire un sang d'encre. Vous pourriez tuer ces sales bêtes, histoire de me dégager la route&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1021">
+        <Page social="4">Je ne pensais pas que ce serait si rapide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je déteste imaginer l'inquiétude de mon père, pensez-vous que nous pourrions aller le retrouver tout de suite&amp;nbsp;? S'il vous plait&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

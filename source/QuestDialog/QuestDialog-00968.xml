@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0">Kelsaik est devenu complètement incontrôlable et s'est mis à ravager la région. La déesse Kaia vous a envoyé demander des comptes à Saleron, un dieu emprisonné depuis la fin de la Guerre divine, pour trouver un moyen de vaincre Kelsaik. Dans son jardin céleste, Saleron vous a mis à l'épreuve. Vous avez su vous montrer à la hauteur et Saleron vous a donc remis le premier des quatre fragments de relique requis pour écarter la menace que représente Kelsaik.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, informez-en Tamur et demandez de l'aide à la commandante Fraya. Nous devons tous coopérer.&lt;BR&gt;&lt;BR&gt;Saleron ne va pas faciliter la tâche de Thulsa et Killian. Il ne leur abandonnera pas les reliques sans résistance. Et pourtant, nous devons faire vite.&lt;BR&gt;&lt;BR&gt;Allez d'abord trouver Tamur. Il vous a fait demander.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Me venger de Killian... un luxe que je ne peux pas m'offrir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Killian ne s'est pas contenté d'assassiner mon père, il m'a aussi privé de mon rêve d'enfance : mener le peuple des Amans dans la bataille. Bien sûr, je règne désormais sur Kaiator, mais aucun fils ne devrait être couronné devant le cadavre de son père..&lt;NEXTPAGEBUTTON&gt;"Les Amans ont besoin de vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">En effet. Voilà pourquoi je veux faire de vous l'instrument de ma vengeance, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous essayez d'arrêter Kelsaik et Killian tente de contrôler Kelsaik. Je pressens que vos chemins se croiseront !&lt;BR&gt;&lt;BR&gt;Et ce jour-là, n'oubliez pas : personne ne peut se soustraire à la justice, pas même les dieux !&lt;NEXTPAGEBUTTON&gt;"Je vengerai votre père."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je vous remercie !&lt;BR&gt;Killian et Thulsa...&lt;BR&gt;Efforçons-nous d'exterminer toutes les menaces qui en émanent !&lt;BR&gt;&lt;BR&gt;Je surveille vos arrières ! Demandez aussi le soutien de Fraya, la commandante d'Allemantheia !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Comment Thulsa a-t-il pu faire alliance avec Killian ?&lt;BR&gt;&lt;BR&gt;Mais je suis de votre avis : nous devons anéantir Kelsaik, l'apôtre de la destruction. Vous disiez qu'il vous faut la relique antique de Saleron ?&lt;NEXTPAGEBUTTON&gt;"En effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">J'ai entendu dire que Saleron est d'un naturel extrêmement bourru.&lt;BR&gt;Et comme Killian et Saleron sont loin d'être bons amis, la colère de Saleron n'en sera qu'amplifiée.&lt;BR&gt;&lt;BR&gt;Nous pourrions demander de l'aide aux chercheurs du Mysterium de la Crypte maudite.&lt;BR&gt;&lt;BR&gt;Rendez-vous à Élénea pour parler à Elvar, l'enquêteur en chef du Mysterium.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="74" prevId="4" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Ainsi, vous vous intéressez à Saleron, le dieu emprisonné.&lt;BR&gt;C'est le créateur des prions et le père des dragons.&lt;BR&gt;&lt;BR&gt;Saleron a beau avoir été emprisonné dans la Crypte maudite suite à la guerre des dieux, son esprit est encore bien vivant.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Un des jeunes dieux impliqués dans la capture de Saleron n'était autre que son fils Killian.&lt;NEXTPAGEBUTTON&gt;"Killian !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Tout à fait.&lt;BR&gt;Killian, le dieu du chaos et du supplice, est le fils de Saleron.&lt;BR&gt;&lt;BR&gt;Saleron méprisait les mortels tout autant que les dieux, mais il a une certaine affection pour ses créations, les prions. La plupart de nos connaissances sur Saleron viennent de chercheurs comme Legia, qui ont eu l'occasion de s'entretenir avec les prions.&lt;BR&gt;&lt;BR&gt;Allez parler à l'agent de liaison {@LinkCreature:237#1029#Legia} dans le &lt;A href="markmap:loc=7014#-69381,20408,-1991&amp;type=1&amp;name=Site de recherche de Saleron"&gt;Site de recherche de Saleron&lt;/A&gt; de la Crypte de l'égarement.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1029">
+        <Page social="1" voiceTypeId="0">Un puissant séisme a récemment secoué la Crypte maudite. Ce sont les rugissements de Saleron qui l'ont déclenché.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:237#1027#Torsten}, le prophète est ensuite venu nous trouver, mais la peur l'avait laissé sans voix.&lt;BR&gt;&lt;BR&gt;Pourriez-vous essayer de lui parler ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="237" prevId="6" villagerId="1027">
+        <Page social="1" voiceTypeId="0">Les dieux eux-mêmes vous ont insufflé leur souffle.&lt;BR&gt;&lt;BR&gt;Je perçois la puissance prodigieuse qui vous habite. Je crois pouvoir me confier à vous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="237" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">Le dieu de l'effroi a placé d'innombrables sbires dans ce lieu sacré. &lt;BR&gt;&lt;BR&gt;Éliminez ces traîtres impudents et Saleron vous accordera peut-être sa miséricorde.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="237" prevId="8" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Fragile &lt;PCRACE&gt;, vous avez parcouru bien du chemin. J'ai discerné la disparition des lions de Killian.&lt;BR&gt;&lt;BR&gt;Vous avez donc réussi à les éliminer.&lt;BR&gt;Votre courage est grand.</Page>
+    </Text>
+</QuestDialog>

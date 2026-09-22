@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Consécutivement à l'attaque des fouaille-tripes dans la Vallée des Titans, au sud de Boquillon, le préfet Daven vous a {@gender:envoyé/envoyée} ramener la paix dans la région.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission urgents&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Les fouaille-tripes ont effectué une percée dans la Vallée des Titans.&lt;BR&gt;&lt;BR&gt;Allez chercher vos ordres auprès du préfet Daven, de Boquillon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">C'est cette affaire de fouaille-tripes qui vous amène, n'est-ce pas&amp;nbsp;? Nous avons établi un poste défensif à la Ferme des Deux Chênes, mais j'ignore combien de temps il tiendra le coup.&lt;BR&gt;&lt;BR&gt;Empruntez la sortie sud, rendez-vous à la ferme et trouvez {@LinkCreature:206#1010#Petrina}. Elle aura certainement besoin de vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1010">
+        <Page social="4">Vous venez nous donner un coup de main ? Fort bien... Ces bestioles ont l'air de gros crétins, mais ne vous fiez pas aux apparences. Si vous les sous-estimez, vous risquez de prendre une drôle de raclée.&lt;BR&gt;&lt;BR&gt;En revanche, si leur intelligence est moins limitée qu'elle ne le semble, l'organisation de leur groupe repose entièrement sur leur chef, {@linkcreature:6#7051#Smulch}. Si nous l'abattons, les autres seront plus simples à éliminer.&lt;BR&gt;&lt;BR&gt;Cela dit, soignez votre jeu de jambes... il a la réputation d'aplatir ses adversaires d'un coup et d'un seul.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" prevId="4" villagerId="1010">
+        <Page social="4">Vraiment&amp;nbsp;? Vous avez réussi à lui faire mordre la poussière&amp;nbsp;? J'ai lui ai envoyé mes meilleurs éléments, et ils y sont tous restés&amp;nbsp;! Et vous... vous y allez et vous me l'expédiez en enfer comme si c'était un simple travail de routine&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Cela dit... euh... je ne voudrais pas que vous pensiez qu'il s'agissait d'une mission suicide. Je veux dire... j'ai toujours eu foi en vous... depuis le début. Daven n'a pas tari d'éloges à votre sujet.&lt;BR&gt;&lt;BR&gt;D'ailleurs, si vous souhaitez poursuivre sur votre lancée, j'ai un autre service à vous demander. &lt;NEXTPAGEBUTTON&gt;"Quel genre de service&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eh bien, nous sommes en train de reprendre le contrôle de la situation, mais la Ferme de l'écho nous a fait parvenir une demande d'aide.&lt;BR&gt;&lt;BR&gt;Pendant que nous remettons le pied à l'étrier, je vais vous demander de vous rendre à la Ferme de l'écho et de voir en quoi vous pouvez vous y rendre utile.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="5" villagerId="1005">
+        <Page social="4">Il était temps que les renforts arrivent. Faites route vers l'est pour rallier les ruines de Colchester et allez à la rencontre de {@LinkCreature:206#1003#Sozia}. Elle est sérieusement débordée.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1003">
+        <Page social="4">Si vous n'êtes pas ici pour nous aider, la sortie... c'est par là. Les traîne-savates ne sont pas les bienvenus dans le coin.&lt;BR&gt;&lt;BR&gt;Si vous faites partie des renforts, je vais vous demander d'aller rechercher les survivants, en ville, et de faire en sorte qu'ils me rejoignent. Tâchez de faire vite.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="6" villagerId="1">
+        <Page social="0">A l'aide&amp;nbsp;! Par ici&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1003">
+        <Page social="4">Nombre de personnes vous doivent une fière chandelle&amp;nbsp;! Veuillez accepter ceci.&lt;BR&gt;&lt;BR&gt;Sans vous, nous ne serions pas parvenus à les sauver.</Page>
+    </Text>
+</QuestDialog>

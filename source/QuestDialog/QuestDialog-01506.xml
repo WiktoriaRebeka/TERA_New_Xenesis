@@ -1,0 +1,110 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="0" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, je vous prie de venir au laboratoire du Mysterium.&lt;BR&gt;J'ai un service à vous demander.&lt;BR&gt;&lt;BR&gt;Ryshan</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Il est difficile d'anticiper le comportement de cette chose qui engendre des monstres provoquant la cristallisation. Cependant, les villageois et toutes les créatures d'Arborea ont souffert de la cristallisation et les créatures déjà affectées par le phénomène cristallisaient leur environnement. &lt;BR&gt;Vous êtes allé dans la Station de quarantaine et avez aidé les villageois souffrant de cristallisation. Dans le Bastion, vous avez également aidé à la fabrication d'une pierre magique de bannissement capable de détecter la chose.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="1" villagerId="1111">
+        <Page social="0" voiceTypeId="0">Vous avez fait le déplacement, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dans le laboratoire du Mysterium que voici, j'ai étudié les parfs et les parfons, ou plutôt la poussière de gemme provenant des ailes de ces créatures.&lt;BR&gt;&lt;BR&gt;Vous avez sans doute déjà quelques théories et je vais donc directement passer au bilan de mes recherches.&lt;NEXTPAGEBUTTON&gt;"De quel type de substance s'agit-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les ailes de ces créatures diffusent une substance qui n'a encore jamais été identifiée à Arborea. Il s'agit plus ou moins d'une poudre de roche extrêmement fine.&lt;BR&gt;&lt;BR&gt;Si un monstre l'inhume, la poussière attaque son système nerveux et le rend ainsi particulièrement agressif.&lt;BR&gt;&lt;BR&gt;Mais il y a pire encore.&lt;NEXTPAGEBUTTON&gt;"Quoi donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le plus inquiétant est que les créatures entrant en contact avec cette poussière voient tout d'abord un de leur membre, puis leur corps tout entier se transformer progressivement en gemme. &lt;BR&gt;Par ailleurs, quand d'autres créatures entrent à leur tour en contact avec ces êtres cristallisés, elles sont également contaminées par la cristallisation.&lt;BR&gt;&lt;BR&gt;Il serait sans doute préférable que vous voyiez ça de vos propres yeux. &lt;BR&gt;&lt;BR&gt;Je vous donne un insecte ordinaire et une poudre obtenue à partir d'un insecte cristallisé. Placez ces deux éléments dans l'appareil de recherche à côté de moi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="6000">
+        <Page social="0" voiceTypeId="0">(Vous placez l'insecte dans la sphère gauche et la poudre dans la sphère droite. L'appareil commence à vrombir et semble se mettre en route.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="6000">
+        <Page social="0">Cet appareil vous permettra de mesurer à quel point la poudre de cristal que secrètent les ailes de parf et de parfon est dangereuse.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="4" villagerId="6000">
+        <Page social="0" voiceTypeId="0">(L'insecte qui en ressort s'est transformé en une gemme jaunâtre.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="6" villagerId="1111">
+        <Page social="0" voiceTypeId="0">Certes, j'ai concassé un insecte cristallisé pour accélérer le processus, mais peu import qu'il s'agisse de poudre de cristal ou d'un être cristallisé : chaque créature ordinaire qui l'effleure finit par se transformer en gemme. Plus le contact est prononcé, plus la métamorphose est rapide.&lt;BR&gt;&lt;BR&gt;Malheureusement, je n'ai pas pu déterminer quels principes régissent la cristallisation. L'ensemble des chercheurs du Mysterium se penchent sur la question.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Des chercheurs du Mysterium ont été envoyés à proximité de la Station de quarantaine. Ils s'efforcent tous d'enrayer la cristallisation au plus vite. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, joignez-vous à eux et vous leur serez certainement très utile. Allez retrouver Kelik dans le Quartier de la falaise aux perchoirs.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="72" villagerId="1111">
+        <Page social="0">Avez-vous pu examiner l'appareil de recherche ?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="238" prevId="7" villagerId="3003">
+        <Page social="0" voiceTypeId="0">Ah, bien le bonjour. &lt;BR&gt;Je me présente : Kelin, chercheur du Mysterium. &lt;BR&gt;Ryshan vous a sans doute instruit avant de vous envoyer ici. Je vous remercie du fond du cœur. &lt;BR&gt;&lt;BR&gt;La Station de quarantaine établie non loin d'ici abrite les patients affectés par la cristallisation. Nous étions censés obtenir un échantillon prélevé sur le corps d'un patient, mais le charriot de transport n'est toujours pas arrivé, alors que le délai convenu est écoulé depuis longtemps.&lt;BR&gt;&lt;BR&gt;Si ce n'est pas trop vous demander, pourrais-je vous prier d'aller vérifier si tout est en ordre dans la Station de quarantaine ?&lt;NEXTPAGEBUTTON&gt;"Je m'y rends de ce pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Un grand merci. &lt;BR&gt;La Station de quarantaine est située au sud du Quartier de la falaise aux perchoirs. &lt;BR&gt;&lt;BR&gt;Longez la route vers le sud et essayez d'apprendre où se trouve le charriot de transport.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="38" prevId="9" villagerId="126">
+        <Page social="0" voiceTypeId="0">Nous ne sommes pas au bout de nos ennuis... Oh, bienvenue à vous. &lt;BR&gt;&lt;BR&gt;Des hyènes ont surgi de nulle part pour nous attaquer.&lt;BR&gt;Le charriot de transport s'est renversé pendant l'assaut. Quand les hyènes ont compris qu'elles ne trouveraient rien de comestible dans le charriot, elles sont reparties.&lt;NEXTPAGEBUTTON&gt;"Vous êtes indemne ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai bien quelques griffures, mais rien de bien sérieux. &lt;BR&gt;Mais je suis surtout soulagé de voir que les échantillons chargés sur le charriot sont intacts.&lt;BR&gt;&lt;BR&gt;En revanche, le vent a emporté les protocoles d'analyse. Pourriez-vous m'aider à récupérer les protocoles éparpillés ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="38" prevId="10" villagerId="126">
+        <Page social="0" voiceTypeId="0">Merci bien. &lt;BR&gt;Le charriot est un peu endommagé, mais il est en état de marche. Je pense pouvoir rejoindre le Quartier de la falaise aux perchoirs sans trop de difficultés pour remettre les échantillons et les protocoles d'analyse à Kelik. &lt;BR&gt;&lt;BR&gt;Mais il y a fort à faire dans la Station de quarantaine. Voulez-vous bien vous y rendre utile ?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="38" prevId="11" villagerId="103">
+        <Page social="0" voiceTypeId="0">Oh, un visage inconnu. &lt;BR&gt;Vous êtes ici pour nous aider ? Merci. &lt;BR&gt;&lt;BR&gt;Presque tout le monde est terrorisé à l'idée d'y mettre ne serait-ce qu'un pied. &lt;BR&gt;La chose au scintillement pourpre a également été aperçue dans le Refuge de Balder. &lt;BR&gt;&lt;BR&gt;Que les Humains souffrent, c'est une chose, mais il serait inacceptable que les reliques et les vestiges que nous ont laissés les dieux soient endommagés.&lt;NEXTPAGEBUTTON&gt;"Ne vous en faites pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Puisqu'il n'y a pas d'autre solution, nous allons devoir faire avec. À propos : les tentes que j'avais commandées ne sont toujours pas arrivées. &lt;BR&gt;&lt;BR&gt;Nous manquons de place pour accueillir les patients dans la station. Pourriez-vous nous aider ? &lt;BR&gt;&lt;BR&gt;Nous devons tout d'abord construire des piliers de soutien pour les tentes. &lt;BR&gt;Mais les arbres de la région sont centenaires et il serait dommage de les utiliser pour nos tentes.&lt;NEXTPAGEBUTTON&gt;"Y a-t-il une autre solution ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Par un heureux hasard, des enchanteurs arbosks se trouvent actuellement dans les parages.&lt;BR&gt;Capturez-les et procurez-nous du bois. &lt;BR&gt;&lt;BR&gt;Grâce à eux, nous pourrons obtenir du bois sans devoir abattre les arbres.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="38" prevId="12" villagerId="103">
+        <Page social="0" voiceTypeId="0">Merci bien. &lt;BR&gt;Nous voilà maintenant en mesure de fabriquer les piliers de soutien pour les tentes. &lt;BR&gt;&lt;BR&gt;Voilà une boîte à outils. &lt;BR&gt;Plantez les piliers de soutien de ce côté-ci.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="38" villagerId="103">
+        <Page social="0">Je vous prie de me fournir le bois.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="38" prevId="13" villagerId="103">
+        <Page social="0" voiceTypeId="0">Par bonheur, nous n'allons pas devoir abattre les arbres centenaires. &lt;BR&gt;&lt;BR&gt;Puisque, grâce à vous, nous avons pu fabriquer les piliers de soutien, il nous faut maintenant du cuir pour l'enrouler autour des piliers. Les environs pullulent de hyènes des ruines. Chassez-les et nous aurons alors suffisamment de cuir.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="38" prevId="15" villagerId="103">
+        <Page social="0" voiceTypeId="0">Merci. Avec ce cuir, nous allons pouvoir terminer les tentes. &lt;BR&gt;Merci de maintenir les piliers de soutien en position pendant que je les enveloppe de cuir.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="38" villagerId="103">
+        <Page social="0">Merci de nous procurer du cuir de hyène. Nous avons besoin de cuir pour les tentes.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="38" prevId="16" villagerId="103">
+        <Page social="0" voiceTypeId="0">Grâce à vous, nous avons pu considérablement améliorer la situation des patients. Merci beaucoup. &lt;BR&gt;&lt;BR&gt;Ah ! Il faut continuellement administrer des soins aux patients.&lt;BR&gt;Pourriez-vous nous y aider ? &lt;NEXTPAGEBUTTON&gt;"Vous pouvez compter sur moi." &lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les médicaments se trouvent dans la caisse, là devant. &lt;BR&gt;Nous les avons répartis en doses individuelles.&lt;BR&gt;Merci de prendre les doses une par une pour les administrer aux patients.&lt;BR&gt;&lt;BR&gt;Commencez par la tente située juste devant vous.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="38" prevId="18" villagerId="117">
+        <Page social="0" voiceTypeId="0">Hein, &lt;PCNAME&gt; ?&lt;BR&gt;Mais c'est... !&lt;BR&gt;&lt;BR&gt;Non, je ne veux pas de médicament !&lt;BR&gt;&lt;BR&gt;Je refuse d'avaler ça ! Allez-vous en !&lt;NEXTPAGEBUTTON&gt;"Si vous voulez guérir, vous devez immédiatement prendre ce médicament."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Non, je refuse de l'avaler !&lt;BR&gt;Vous me faites constamment avaler des choses répugnantes ! J'en ai assez !&lt;BR&gt;&lt;BR&gt;(Elle semble contrariée.)&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire pour que vous preniez votre médicament ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hum ... euh... &lt;BR&gt;Si vous me donnez un bonbon, je vais y songer !</Page>
+    </Text>
+    <Text id="20" huntingZoneId="38" prevId="19" villagerId="117">
+        <Page social="0" voiceTypeId="0">C'est un bonbon ? Vous m'avez apporté un bonbon ?&lt;BR&gt;&lt;BR&gt;J'adore les bonbons !&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous aurez votre bonbon une fois que vous aurez pris votre médicament !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je déteste les médicaments. Mais les bonbons, c'est bon.&lt;BR&gt;&lt;BR&gt;(Ameldas hésite un instant, puis avale le médicament en fermant les yeux.)&lt;BR&gt;&lt;BR&gt;Voilà, je l'ai pris ! Et maintenant, je veux des bonbons.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="38" prevId="20" villagerId="108">
+        <Page social="0" voiceTypeId="0">Ah, vous avez aidé les chercheurs du Mysterium dans la Station de quarantaine. Merci, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Nous n'avons trouvé aucun document mentionnant la maladie qui provoque la poudre de cristal. Les chercheurs travaillent nuit et jour pour trouver un remède permettant de ramener les corps cristallisés à leur état initial. &lt;BR&gt;&lt;BR&gt;Mais puisque ce projet mobilise la plupart des chercheurs, nous avons du mal à récupérer assez de matériaux de recherche. &lt;BR&gt;Pourriez-vous nous aider à collecter des matériaux de recherche ? &lt;NEXTPAGEBUTTON&gt;"Que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci bien. Vous n'auriez pas vu un basilic à proximité de la Station de quarantaine ? Les basilics de cette région ont le pouvoir de se décontaminer d'eux-mêmes. Même les scorpions les plus venimeux sont inoffensifs face aux basilics du désert. &lt;BR&gt;&lt;BR&gt;Procurez-moi du sang de basilic du désert.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="38" prevId="21" villagerId="120">
+        <Page social="0" voiceTypeId="0">Ah, vous revoilà, &lt;PCNAME&gt;. Excellent travail. &lt;BR&gt;Grâce à vous, les chercheurs peuvent se consacrer entièrement à leurs recherches. &lt;BR&gt;Nous allons faire tout notre possible pour trouver un remède. &lt;NEXTPAGEBUTTON&gt;"J'espère que vous parviendrez à développer un remède."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien entendu. Il est hors de question que cette infâme maladie continue à se propager.&lt;BR&gt;Mais nous n'arrivons pas à prédire où et quand les parfs répandent la poudre et c'est assez problématique. &lt;BR&gt;&lt;BR&gt;Il n'y a pas que les habitants d'Essenia, ceux des autres régions aussi craignent jour et nuit pour leur santé. Dans le Bastion, nous travaillons à un projet de pierre magique de bannissement capable de reconnaître cela. Que diriez-vous d'aller faire un petit tour dans le Bastion, &lt;PCNAME&gt; ? &lt;NEXTPAGEBUTTON&gt;"Le Bastion ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Affirmer que le Refuge de Balder est un vestige des anciens dieux n'a rien d'exagéré. C'est d'ailleurs pour cette raison que la région est constamment sous la menace des puissances impures qui cherchent à mettre la main sur les reliques habitées par la force des dieux. &lt;BR&gt;&lt;BR&gt;Depuis toujours, le Bastion abrite la confection de pierres magiques de bannissement visant à éloigner de tels dangers. Le Bastion sera certainement en mesure de fabriquer une pierre magique de bannissement capable de détecter le phénomène. &lt;BR&gt;&lt;BR&gt;Rendez-vous dans le Bastion et allez parler à Larive.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="38" villagerId="120">
+        <Page social="0">Apportez-moi le sang de basilic du désert. &lt;BR&gt;Je vous en supplie.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="71" prevId="22" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Qu'est-ce qui vous amène, &lt;PCNAME&gt; ?&lt;BR&gt;Apparemment, Ryshan a mentionné les pierres magiques de bannissement. Mais votre présence est une bonne chose. Nous devons terminer les pierres magiques de bannissement avant que la chose ne réapparaisse dans le Refuge de Balder. &lt;BR&gt;&lt;BR&gt;Vous vous y connaissez en les pierres magiques de bannissement ? &lt;NEXTPAGEBUTTON&gt;"Je m'y connais."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les pierres magiques de bannissement sont des pierres magiques fort utiles. Quand certaines conditions sont réuniess, elles réagissent et étendent un cercle de bannissement protecteur.&lt;BR&gt;&lt;BR&gt;Admettons par exemple qu'un paresseux veuille voler une banane. Il nous suffirait alors de placer une pierre magique de bannissement qui s'active en présence de paresseux ou d'autres animaux amateurs de bananes.  &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Larive vous regarde d'un air méfiant.)&lt;BR&gt;&lt;BR&gt;Je me méfie des Humains, &lt;PCNAME&gt;. &lt;BR&gt;Le mieux serait de s'en convaincre par soi-même. Je viens d'assister à la confection d'une pierre magique de bannissement.&lt;BR&gt;Nous pouvons utiliser celle-ci. &lt;BR&gt;&lt;BR&gt;Voici un peu de poudre de cristal.&lt;BR&gt;Prenez-la et rendez-vous auprès de la pierre magique située à l'entrée du bâtiment voisin.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="71" prevId="24" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Comme vous pouvez le voir, la pierre magique a détecté la poudre présente dans votre main et a activé le cercle de bannissement. &lt;BR&gt;&lt;BR&gt;Mais n'oubliez pas que la pierre magique de bannissement n'est pas encore au point. &lt;BR&gt;Les pierres magiques que nous disposerons le long d'une route doivent disposer d'un rayon d'action bien plus large. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si, en plus de la poudre de cristal, la pierre magique peut interagir avec un autre élément, l'activation du cercle de bannissement pourra être plus rapide et plus précise. &lt;BR&gt;&lt;BR&gt;Que savez-vous d'autres au sujet de cette chose énorme, hormis cette histoire de parfs ? &lt;NEXTPAGEBUTTON&gt;"Je l'ai vue diffuser une puissante lueur violette."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Très bien. Dans ce cas, nous devrions définir la longueur d'onde émise par cette lumière violette comme condition alternative à la poudre de cristal. Votre aide s'est avérée précieuse.&lt;BR&gt;&lt;BR&gt;En plus du Refuge de Balder, nous comptons aussi positionner cette pierre magique dans d'autres villes et vestiges. Pourriez-vous nous aider à récupérer des matériaux pour la fabrication des pierres magiques ?&lt;NEXTPAGEBUTTON&gt;"Je veux bien vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci bien. Allez trouver Arelle, dans le Camp de la curiosité situé à l'est du Refuge de Balder.&lt;BR&gt;Tout comme moi, c'est une magicienne du Cercle pour qui les pierres magiques de bannissement n'ont aucun secret.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="71" villagerId="1010">
+        <Page social="0">Avez-vous vérifié la pierre magique de bannissement ?</Page>
+    </Text>
+    <Text id="27" huntingZoneId="230" prevId="25" villagerId="1029">
+        <Page social="0" voiceTypeId="0">C'est vous, &lt;PCNAME&gt; ? Ne prenez pas cet air étonné. &lt;BR&gt;Il ne doit pas y avoir un seul chercheur du Mysteriim qui n'a jamais entendu parler de vous. &lt;BR&gt;&lt;BR&gt;Je m'appelle Arelle et je suis une magicienne du Cercle. &lt;NEXTPAGEBUTTON&gt;"Je suis ici pour vous aider à fabriquer les pierres magiques de bannissement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous vous sommes infiniment reconnaissants de l'aide que vous nous offrez par les temps qui courent. &lt;BR&gt;Pour fabriquer les pierres magiques de bannissement, il nous faut du minerai capable d'absorber la magie. &lt;BR&gt;&lt;BR&gt;Les alentours du Temple de l'autorité regorgent de minerai pouvant servir de matériaux pour les pierres magiques de bannissement, mais les jardiniers courroucés rendent son extraction particulièrement difficile. Cependant, il est hors de question de s'en débarrasser avec des sorts d'attaque car cela risquerait d'endommager le temple. &lt;BR&gt;&lt;BR&gt;Pourriez-vous éliminer les jardiniers ?</Page>
+    </Text>
+    <Text id="28" huntingZoneId="230" prevId="27" villagerId="1029">
+        <Page social="0" voiceTypeId="0">Merci bien. Avec votre soutien, la fabrication des pierres magiques de bannissement devrait s'avérer bien plus facile.&lt;BR&gt;&lt;BR&gt;Tenez, prenez ça. &lt;BR&gt;C'est une pierre magique de bannissement que je viens de fabriquer. &lt;BR&gt;Que diriez-vous d'installer la pierre vous-même ?</Page>
+    </Text>
+    <Text id="29" huntingZoneId="230" prevId="28" villagerId="1029">
+        <Page social="0" voiceTypeId="0">Le Bastion va tout mettre en œuvre pour fabriquer au plus vite une pierre magique de bannissement capable de reconnaître la chose.&lt;BR&gt;Par ailleurs, nous allons veiller à installer les pierres magiques de bannissement dans les villes environnantes et dans les vestiges.&lt;NEXTPAGEBUTTON&gt;"J'espère pouvoir me rendre utile."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les patients victimes de cristallisation sont traités dans une Station de quarantaine spéciale, n'est-ce pas ? &lt;BR&gt;&lt;BR&gt;Mais il n'y a pas grand monde pour s'en occuper, car tout le monde a peur d'être contaminé par la cristallisation. &lt;BR&gt;J'espère vraiment que nous trouverons un remède au plus vite.</Page>
+    </Text>
+</QuestDialog>

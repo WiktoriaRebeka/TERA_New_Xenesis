@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">L'atmosphère du village a radicalement changé au moment où les créatures inconnues ont surgi.&lt;BR&gt;Quand vous avez repris conscience, les autres gardiens étaient engagés dans une lutte sans merci contre les monstres.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Alors que &lt;PCNAME&gt; aidait Anya à vaporiser la sève sur l'arbre de Tiaran, des créatures inconnues ont attaqué le village. Même si personne ne sait comment ils sont arrivés là, il semble indiscutable que c'étaient des argons. Vous avez terrassé les argons à l'aide des autres gardiens. Mais, alors que vous vous pensiez déjà en sécurité, un gigantesque prédateur argon a soudain surgi.&lt;BR&gt;&lt;BR&gt;Il vous a assommé d'un seul coup. Avant de définitivement perdre connaissance, vous avez aperçu un homme suspect au milieu des argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="828" prevId="1" villagerId="101">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;le village est entièrement détruit !!&lt;BR&gt;&lt;BR&gt;Les autres gardiens sont aussi en pleine bataille ! Je vous en prie, prêtez-nous main-forte !&lt;NEXTPAGEBUTTON&gt;"C'est d'accord. Prenez donc soin des enfants."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien entendu.&lt;BR&gt;Je vais emmener les enfants en lieu sûr.&lt;NEXTPAGEBUTTON&gt;"Je préfère ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="828" prevId="3" villagerId="102">
+        <Page social="4" voiceTypeId="0">Pfiou, l'ordre semble revenu.&lt;BR&gt;Je n'avais encore jamais vu ces ennemis.&lt;BR&gt;Les dégâts sont considérables.&lt;BR&gt;&lt;BR&gt;Mais... et les enfants !&lt;BR&gt;Où sont les enfants ?&lt;NEXTPAGEBUTTON&gt;"Ils sont en lieu sûr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vais aller voir si les enfants et les villageois se portent bien !&lt;BR&gt;Les gardiens devraient se disperser et chercher les villageois disparus !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="132">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;&amp;nbsp;! Vous avez finalement réussi à ressortir sain{@g:/e} et sau{@gender:f/ve} de votre confrontation avec cette chose&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous ne pouvez pas savoir à quel point je suis soulagé. Vous avez vraiment fait preuve d'un grand courage&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé&amp;nbsp;? Qui était cet homme&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">J'ai encore réussi à congédier les enfants et à me cacher.&lt;BR&gt;Quand le calme est revenu, je suis sorti et j'ai vu qu'un grand nombre de gardiens, chercheurs et villageois ont péri.&lt;BR&gt;&lt;BR&gt;Et voilà que les enfants ont disparu... les enfants... nous n'avons trouvé ni leur cadavre, ni la moindre trace.&lt;BR&gt;&lt;BR&gt;Et Anya...&lt;NEXTPAGEBUTTON&gt;"Anya se porte bien ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Anya a... disparu, elle aussi.&lt;BR&gt;Elle était pourtant juste là, à chanter.&lt;BR&gt;&lt;BR&gt;J'ai dû me laisser distraire un instant. Et elle n'était soudain plus là.&lt;BR&gt;&lt;BR&gt;Émun et les autres gardiens se sont immédiatement mis en route pour chercher Anya, mais nous n'avons plus eu de nouvelles d'eux.&lt;NEXTPAGEBUTTON&gt;"Je me mets immédiatement en route."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

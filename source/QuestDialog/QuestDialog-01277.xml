@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="4">Hé ! Vous ne ressemblez pas aux bras cassés que j'ai l'habitude de croiser. Vous pourriez me donner un coup de main ?&lt;BR&gt;&lt;BR&gt;J'ai pour mission de récupérer des pierres magiques, mais si j'y vais, je me ferai écharper par les créatures de type {@LinkCreature:49#2} et {@LinkCreature:49#101} qui y vivent. Je n'ose m'aventurer dans l'{@Rgn:49002}.&lt;BR&gt;&lt;BR&gt;Pourriez-vous éliminez chaque {@LinkCreature:49#101} ? Il suffit d'esquiver les créatures de type {@LinkCreature:49#2}. En récompense, je vous propose de la {@RawItem:206811} !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1021">
+        <Page social="6">Vous avez fait vite ! Vous avez éliminé les créatures de type {@LinkCreature:49#101} ? Merci beaucoup !&lt;BR&gt;&lt;BR&gt;Je n'aurai plus peur maintenant. Voici de la {@RawItem:206811}. J'ai sélectionné le meilleur gisement.</Page>
+    </Text>
+</QuestDialog>

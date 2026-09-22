@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bruke a ordonné l'exécution de Jelena et c'est à vous qu'il a confié la mission. Mais au lieu de lui rapporter la tête de Jelena, vous avez averti cette dernière, qui s'est empressée de prendre la fuite.&lt;BR&gt;&lt;BR&gt;Vous êtes {@gender:rentré/rentrée} à Velika pour vous présenter à Samael au moment même où le rapport de Bruke détaillant vos exploits à Popolion ainsi que vos manquements au devoir lui parvenait. Vous avez évité le blâme, mais Samael vous surveille désormais de près.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="4">[Quartier général de la Fédération Valkyon, ordre de mission de l'unité spéciale]&lt;BR&gt;&lt;BR&gt;Jelena a fait son apparition à proximité de la garde de Poporia.&lt;BR&gt;Nous la suspectons de faire cause commune avec nos ennemis. &lt;BR&gt;L'ensemble des forces armées de la Fédération Valkyon sont sommées d'arrêter Jelena sur-le-champ ou de faire un rapport à Bruke, le préfet de l'unité spéciale envoyé à Popolion !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1032">
+        <Page social="4" voiceTypeId="0">Quoi ? Mince... l'unité spéciale ne doit surtout pas apprendre où je me trouve.&lt;BR&gt;&lt;BR&gt;Je suis très touchée de voir que vous ne croyez pas que je suis une ennemie de la fédération. Merci de m'avoir mise en garde contre ce préfet insensé. Je vous jure sur la déesse Velik que vous avez fait le bon choix, &lt;PCNAME&gt;. Vous verrez bien.&lt;NEXTPAGEBUTTON&gt;"Que comptez-vous faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ce que je vais faire&amp;nbsp;? Prendre la poudre d'escampette, évidemment.&lt;BR&gt;&lt;BR&gt;Dites à vos supérieurs que vous n'avez pas réussi à me trouver. Et si vous fermez les yeux ne serait-ce que cinq secondes, ce ne sera qu'un pieu mensonge.&lt;BR&gt;&lt;BR&gt;A bientôt... Nous nous reverrons, vous pouvez en être {@gender:sûr/sûre}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Pardon !? Vous l'avez laissée s'échapper ? Vous n'avez donc vraiment rien dans la cervelle ? &lt;BR&gt;&lt;BR&gt;Vous laissez cette dangereuse traîtresse s'échapper et exigez par-dessus le marché que je me montre magnanime ? &lt;BR&gt;&lt;BR&gt;Vos exploits dans le Manoir sinistre n'ont aucune valeur si vous laissez cette criminelle s'en tirer !&lt;NEXTPAGEBUTTON&gt;"Personne n'est parfait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vais faire un rapport spécial à Samael. Allez le voir en personne et demandez-lui de vous pardonner vos péchés. &lt;BR&gt;&lt;BR&gt;Si vous ne vous êtes pas encore présenté quand il lira mon rapport, vous risquez fort de passer en cour martiale.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">J'ai déjà lu le rapport du préfet de Popolion. Il m'informe que vous avez laissé une traîtresse notoire s'échapper. C'est vrai ? Si c'est vrai, alors vous devez être puni...&lt;BR&gt;&lt;BR&gt;Mais je viens aussi de recevoir une lettre de remerciement du préfet et de l'administrateur de Popolion. Il explique que vous avez joué un rôle décisif dans la résolution de la crise qui déstabilisait Popolion.&lt;NEXTPAGEBUTTON&gt;"C'est exact."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">À vrai dire, les Poporis ne sont pas vraiment avares en louanges et je ne sais donc pas si je dois m'y fier. &lt;BR&gt;&lt;BR&gt;Je vais toutefois renoncer à vous punir et vous remettre plutôt une récompense.&lt;BR&gt;&lt;BR&gt;J'espère pouvoir compter sur votre gratitude.</Page>
+    </Text>
+</QuestDialog>

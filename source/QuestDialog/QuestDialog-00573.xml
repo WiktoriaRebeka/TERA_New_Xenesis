@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">Nous avons peu de chances de retrouver des survivants, mais tant que vous serez dans les mines, tâchez de vous assurer qu'il n'y reste plus âme qui vive.&lt;BR&gt;&lt;BR&gt;Je ne peux pas retourner là-bas. C'est... trop m'en demander. Mais si jamais je laissais des survivants derrière moi, je ne me le pardonnerais jamais.&lt;BR&gt;&lt;BR&gt;Mon pauvre frère... Il était si jeune. J'aurais dû y rester... pas lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1016">
+        <Page social="0">(Un pendentif est accroché au cou de ce corps mutilé. Au dos, il porte l'inscription "Pattek". Vous le mettez dans votre poche.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1006">
+        <Page social="4">Ils sont tous morts&amp;nbsp;? C'est bien ce que je craignais.&lt;BR&gt;&lt;BR&gt;Dire qu'il y a quelques heures de cela, ils étaient encore de ce monde&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Oh, ce pendentif. Je le connais. Il appartenait à Pattek.&lt;BR&gt;&lt;BR&gt;Bon, je... je vais faire en sorte qu'il revienne à sa famille.</Page>
+    </Text>
+</QuestDialog>

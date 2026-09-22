@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="5">Ces pirates du Fouet rouge... ils prennent Silva à la légère. S'ils ont laissé le Port Coupe-gorge à Silva, pourquoi continuent-ils d'essayer de se mêler de ses affaires&amp;nbsp;? Par ici, quand on ne peut pas régler les problèmes par le dialogue, on les règle dans le sang&amp;nbsp;; c'est comme ça que ça marche.&lt;BR&gt;&lt;BR&gt;Sur la Côte déchiquetée, vous trouverez des {@LinkCreature:12#22#hommes de main du Fouet rouge}. Tuez-les et arrachez-leur les yeux. Ce sera un bon avertissement. Oh&amp;nbsp;! Et rapportez les yeux à {@LinkCreature:212#1002$$Sidara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">Ce sont les... insignes de Dirken&amp;nbsp;? Eh bien, oui, c'est une façon comme une autre d'assoir sa domination.&lt;BR&gt;&lt;BR&gt;Enfin, bon travail quand même.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Qu'est-ce que vous faites&amp;nbsp;? Allez vous occuper de ces pirates&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

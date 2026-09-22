@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez reçu une invitation à la "soirée plage Castanica" de la part d'Elesa de l'Île Serpentis.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Eh, &lt;PCNAME&gt;&amp;nbsp;! Vous vous souvenez de moi&amp;nbsp;? Je ne vous ai pas vu depuis des lustres&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;En ce moment, je traîne du côté de Castanica, pour la soirée plage&amp;nbsp;! Vous comptez également vous y rendre&amp;nbsp;? Ce serait un plaisir de vous revoir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous ne me voyez pas sur la plage, faites donc une halte dans la Taverne à l'Ouest de la Plage et demandez à la tavernière si elle sait où je suis.&lt;BR&gt;&lt;BR&gt;Je brûle d'impatience&amp;nbsp;!&lt;BR&gt;‐S</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2008">
+        <Page social="4">Bienvenue {@gender:cher/chère} &lt;PCRACE:lcase&gt;&amp;nbsp;! Vous venez pour la première fois, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Est-ce que vous avez votre invitation&amp;nbsp;? Je plaisante&amp;nbsp;! Vous n'en avez pas besoin, tout le monde est invité&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Laissez-moi vous raconter tout ce qu'il y a de chouette à faire pendant la soirée plage&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

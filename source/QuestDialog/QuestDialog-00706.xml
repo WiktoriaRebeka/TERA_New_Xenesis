@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">Si nous parvenons à mettre la main sur une chaîne de contrôle mental puissante, nous pourrons en extraire le sort qu'elle renferme. Vous devriez pouvoir en trouver sur les {@LinkCreature:25#1032#défenseurs squelettiques}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">Vous voilà de retour. Une lettre est arrivée en votre absence.&lt;BR&gt;&lt;BR&gt;J'ai trouvé le sort d'extraction.&lt;NEXTPAGEBUTTON&gt;"J'ai la chaîne."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Parfait... si nous parvenons à en extraire le sort, nous pourrons trouver un moyen de le contrer. Allez apporter ça à Deigan. C'est le mieux placé pour effectuer ce genre de boulot. Et pensez à lui donner cette lettre quand vous le verrez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Extraire le maléfice contenu dans la chaîne nous permettra de créer un sort susceptible de le contrer.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1020">
+        <Page social="4">Si nous trouvons un moyen de contrer le sort efficacement, nous serons en mesure de repousser les cultistes... c'est plutôt un bon plan&amp;nbsp;! Je vais me mettre au boulot.&lt;BR&gt;&lt;BR&gt;Qu'est-ce que c'est que cette lettre&amp;nbsp;? Quel charabia... attendez... c'est signé Davina.&lt;NEXTPAGEBUTTON&gt;"C'est important&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Davina est ma cousine. Elle travaille pour Elion. Je me demande pourquoi elle me fait parvenir cette lettre illisible. Elsine pourra peut-être la traduire... elle s'y connaît bien en langages codés. Elle en aurait même créé quelques-uns, d'après ce que j'ai entendu dire.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1022">
+        <Page social="4">C'est assez inattendu. Il s'agit d'un code que j'ai créé pour communiquer avec Elion et Lian. Si la signature est authentique, ça signifie qu'Elion doit avoir transmis les secrets de ce code à d'autres personnes. Si Davina est la cousine de Deigan, elle doit également être la sœur de Jelena. Il ne devrait pas être bien compliqué de traduire la lettre.&lt;BR&gt;&lt;BR&gt;"Nous avons découvert le sous-sol de la Cathédrale sombre et je compte m'y rendre."&lt;BR&gt;&lt;BR&gt;Bon sang... cette lettre a été rédigée avant le départ d'Elion et de son équipe. On dirait que Davina a pris les devants.</Page>
+    </Text>
+</QuestDialog>

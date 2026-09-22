@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="4" voiceTypeId="0">C'est vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nous avons pu retrouver la plupart des soldats éparpillés suite au ricochet de notre attaque sur Exodor, mais un grand nombre d'entre eux est encore introuvable.&lt;BR&gt;&lt;BR&gt;Pourriez-vous essayer de les retrouver ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="6101">
+        <Page social="4" voiceTypeId="0">Je vous remercie de votre aide.&lt;BR&gt;&lt;BR&gt;Il est fort regrettable que tant de soldats aient péri, mais vous avez au moins pu récupérer leurs dépouilles et nous allons pouvoir les remettre à leur famille.&lt;BR&gt;Cependant, des tâches encore plus importantes nous attendent. Nous avons sous-estimé l'ennemi et l'avons payé cher.&lt;BR&gt;&lt;BR&gt;Certes, nous ne savons toujours pas que faire face à cette forteresse géante, mais nous ne pouvons pas rester les bras croisés.</Page>
+    </Text>
+</QuestDialog>

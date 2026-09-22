@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">Pendant votre discussion avec les Khiriens, Madat a disparu et c'est vous qu'on accuse.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">Hatishna&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ce n'est qu'une légende. Nous sommes les Khiriens. Nous n'avons pas besoin d'un quelconque élu pour nous donner la victoire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Très bien, "élu{@g:/e}". Les arachnéens ne laissent pas notre camp en paix. Débarrassez-nous en et nous pourrons parler.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1006">
+        <Page social="4">Perfide démon&amp;nbsp;! Au lieu de gagner notre confiance, vous avez enlevé Madat&amp;nbsp;! Où est-il&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mes soldats vont vous arracher les yeux pour vous punir de cette traîtrise&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Comment&amp;nbsp;? Madat a disparu&amp;nbsp;?Je vais le retrouver&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Soit. Ramenez-nous Madat sain et sauf et je vous croirai peut-être.&lt;BR&gt;&lt;BR&gt;Mais je vous préviens&amp;nbsp;: s'il est mort où vous accuse, vous irez nourrir les arachnéens sans autre forme de procès.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1010">
+        <Page social="4">(Quelques morceaux d'écaille scintillants jonchent l'intérieur de la boîte.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1011">
+        <Page social="4">(Un mucus à l'odeur âcre entache les tessons.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">Pouah&amp;nbsp;! Cette puanteur&amp;nbsp;! Je la reconnaîtrais entre mille.&lt;BR&gt;&lt;BR&gt;Nous devons lorgner du côté des guwangis.</Page>
+    </Text>
+</QuestDialog>

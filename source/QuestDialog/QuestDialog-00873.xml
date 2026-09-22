@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="4">Comment cette bande de monstres ose-t-elle se faire appeler "Garde sanglante"&amp;nbsp;? Ça me rend malade.&lt;BR&gt;&lt;BR&gt;A chaque fois que je les vois jouer les soldats, c’est un peu de mon âme qui meurt. Ce sont des monstres&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, montrez-leur à quoi ressemble un vrai soldat. Chassez les {@LinkCreature:33#12#lanciers} et les {@LinkCreature:33#62#champions} de la Garde sanglante et prélevez leurs emblèmes. Ils ne méritent pas d’en porter&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1004">
+        <Page social="4">Je m’en vais brûler moi-même chacun de ces emblèmes, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1004">
+        <Page social="0">Les {@LinkCreature:33#12#lanciers} et les {@LinkCreature:33#62#champions} de la Garde sanglante nous narguent avec ces emblèmes. Vous allez laisser faire ça&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

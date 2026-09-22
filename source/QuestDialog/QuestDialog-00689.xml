@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="5">Ces {@LinkCreature:24#62#vulcains ardents} nous massacreraient s'ils s'organisaient. Même sans ça, ils ont déjà décimé un quart de mes effectifs.&lt;BR&gt;&lt;BR&gt;L'heure est venue de leur montrer ce que peut faire une attaque organisée. Rassemblez vos alliés et massacrez ces monstres&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Je vais peut-être pouvoir dormir cette nuit sans tous ces hurlements.</Page>
+    </Text>
+</QuestDialog>

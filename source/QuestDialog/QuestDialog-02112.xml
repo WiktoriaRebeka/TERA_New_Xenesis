@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Un rapport provenant du front m'inquiète un peu. On y parle d'un argon rouge étrange... Plus puissant qu'à l'accoutumée...&lt;BR&gt;&lt;BR&gt;Allez voir Drokhir à la Citadelle de Khanovar. Il prépare une attaque éclair.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">Oui, un de nos agents a utilisé un nouvel appareil argon et c'est comme ça que ces argons rouges sont apparus. Nous ne savons rien de plus. J'ai tout un tas de parchemins de l'Invalesco me harcelant pour avoir plus de détails.&lt;BR&gt;&lt;BR&gt;Rendez-vous dans la Vallée du Carnage, trouvez cet engin et voyez de quoi il retourne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">Cette armure est différente. Elle a l'air plus robuste.&lt;BR&gt;&lt;BR&gt;Je vais envoyer quelqu'un apporter ces composants à l'Invalesco.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" villagerId="3002">
+        <Page social="0">Aider l'Invalesco, c'est une bonne stratégie. Eux aussi veulent arrêter les argons.&lt;BR&gt;&lt;BR&gt;Trouvez ces argons rouges, &lt;PCNAME&gt;, et tuez-les tous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="6" villagerId="3002">
+        <Page social="4">Cette armure est différente. Elle a l'air plus robuste.&lt;BR&gt;&lt;BR&gt;Je vais envoyer quelqu'un apporter ces composants à l'Invalesco.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" villagerId="3002">
+        <Page social="0">Aider l'Invalesco, c'est une bonne stratégie. Eux aussi veulent arrêter les argons.&lt;BR&gt;&lt;BR&gt;Trouvez cesargons rouges, &lt;PCNAME&gt;, et tuez-les tous.</Page>
+    </Text>
+</QuestDialog>

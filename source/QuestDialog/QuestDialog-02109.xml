@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Oh, ça&amp;nbsp;? C'est mon insigne du Shariar. C'est pour que les gens sachent que je combats chaque jour pour mettre fin à la tyrannie des argons.&lt;NEXTPAGEBUTTON&gt;"Comment faire pour en avoir un&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eh bien, il faut le mériter au combat.&lt;BR&gt;&lt;BR&gt;Aller voir Naveld à la {@Rgn:48002}. Il vous expliquera comment faire si vous en voulez un.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">Un insigne du Shariar&amp;nbsp;? Bien sûr. Vous avez tué des dieux&amp;nbsp;! Vous en êtes plus que digne.&lt;BR&gt;&lt;BR&gt;Allez récupérer des cristaux de mana sur les {@LinkCreature:48#7#assommeuses zariiks}, des noyaux sur les {@LinkCreature:48#5#aplatisseurs hulraps}, ou même du cyasma sur les {@LinkCreature:48#13#argousins syndrenes}.&lt;BR&gt;&lt;BR&gt;Rapportez-moi ça, et vous aurez votre insigne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">En tuant ces argons, vous avez prouvé que vous étiez l'un des nôtres. Grâce à cet insigne, vous le prouverez aux yeux du monde.&lt;BR&gt;&lt;BR&gt;Beau travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Les cristaux de mana des {@LinkCreature:48#7#assommeuses zariiks} ne sont pas faciles à trouver, mais prouvez-moi donc que vous êtes quelqu'un d'obstiné.&lt;BR&gt;&lt;BR&gt;Pensez-vous pouvoir m'en rapporter&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="7" villagerId="3001">
+        <Page social="4">En tuant ces argons, vous avez prouvé que vous étiez l'un des nôtres. Grâce à cet insigne, vous le prouverez aux yeux du monde.&lt;BR&gt;&lt;BR&gt;Beau travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Les noyaux d'{@LinkCreature:48#5#entailleurs hulraps} seraient parfaits. Mais vous pourriez les scalper et nous rapporter uniquement les noyaux.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="9" villagerId="3001">
+        <Page social="4">En tuant ces argons, vous avez prouvé que vous étiez l'un des nôtres. Grâce à cet insigne, vous le prouverez aux yeux du monde.&lt;BR&gt;&lt;BR&gt;Beau travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Le cyasma des {@LinkCreature:48#13#argousins syndrenes} conviendra parfaitement. Même si le cyasma semble un peu étrange.</Page>
+    </Text>
+</QuestDialog>

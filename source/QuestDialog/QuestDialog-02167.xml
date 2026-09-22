@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous voulez gagner un peu d'argent de poche, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} vous dira ce qu'il faut faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Je devrais sans doute confier cette mission aux Mains, mais vous êtes mille fois plus fiable.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller à la Montagne Fyr aujourd'hui&amp;nbsp;? Si j'envoie un de mes hommes, je ne le reverrai jamais – soit il se sera enfui, soit il se sera fait massacré.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Je n'en reviens pas qu'elle vous envoie à la {@Rgn:4001#Montagne Fyr}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Que se serait-il passé si nous ne vous avions jamais {@gender:rencontré/rencontrée}&amp;nbsp;? Nous serions sans doute tous morts.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Je sais qu'il m'arrive d'être pénible, mais la vie est difficile en ce moment. Vous n'avez qu'à demander à {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Elthienne a promis à un de nos contacts que nous nous occuperions de quelques-uns des dangers qui rôdent près de la {@Rgn:4001#Montagne Fyr}, alors chassez les {@LinkCreature:4#1011#rejetons à crocs} qui s'y trouvent. Oh, et ils veulent une preuve de leur mort. Je ne sais pas ce qu'ils entendent par là, alors rapportez-nous leurs ongles de pied, ou quelque chose dans ce genre.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">J'imagine que ce n'était pas de tout repos.&lt;BR&gt;&lt;BR&gt;Allez vous faire payer par {@LinkCreature:63#3003#Elthienne} et détendez-vous en ville. Il faut vous reposer, c'est bon pour le teint, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Chassez des {@LinkCreature:4#1021#groknars sulfureux} à la {@Rgn:4001#Montagne Fyr} et rapportez-moi la preuve de leur mort pour le contact d'Elthienne.&lt;BR&gt;&lt;BR&gt;Je ne sais pas ce qu'il veut, ni pourquoi, mais vous trouverez sans doute quelque chose... quelque chose de dégoûtant, j'imagine.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">Vous savez, {@LinkCreature:63#3003#Elthienne} est quelqu'un de sympathique, en fait. Mes paroles ont sans doute dépassé ma pensée.&lt;BR&gt;&lt;BR&gt;Elle est coriace. Je pense que c'est difficile, pour deux personnes de caractère de travailler ensemble. Surtout quand l'une des deux est aussi vieille, et... et voilà que je recommence&amp;nbsp;! C'est plus fort que moi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je pense qu'elle sait qu'on parle d'elle. Vous devriez aller voir.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Tuez des {@LinkCreature:4#2011#rejetons voraces à crocs} dans la {@Rgn:4001#Montagne Fyr} et rapportez-moi la preuve de leur mort. Elthienne en a besoin pour la personne qui nous a engagés. Faites en sorte que ce soit sale et poisseux. C'est ironique, bien sûr.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">Vous avez réussi, une fois de plus, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, vous l'avez bien gagné.</Page>
+    </Text>
+</QuestDialog>

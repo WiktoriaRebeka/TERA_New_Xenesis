@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Un bâtiment gigantesque érigé par les argons se dresse dans les montagnes du centre d'Argonea. Vous êtes tout d'abord allé voir Ronalt et avez appris que cet endroit est saturé d'énergie vitale. Il devrait donc être possible de contrecarrer les plans des argons en détruisant ce lieu.&lt;BR&gt;Vous êtes entré clandestinement dans l'Aiguille de cyasma et avez démoli l'appareil de transfert. Pendant qu'on vous remerciait, personne n'a remarqué que quelqu'un observait la scène en secret.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Message d'Hasmina]&lt;BR&gt;&lt;BR&gt;Nous devons nous infiltrer dans l'{@Rgn:49003$$Aiguille de cyasma}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:249#2006#Celtan} affirme que toujours plus d'argons surgissent depuis l'apparition de cette structure étrange. Nous en apprendrons sans doute plus en explorant l'intérieur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="2006">
+        <Page social="4" voiceTypeId="0">Au fait, &lt;PCNAME&gt;, en tant que personne extérieure, vous ne savez pas tout de la situation. &lt;BR&gt;&lt;BR&gt;L'apparition de ces structures inconnues et l'augmentation soudaine du nombre d'argons se sont plus ou moins produites en même temps. &lt;BR&gt;&lt;BR&gt;Nous cherchons à explorer l'{@Rgn:49003$$Aiguille de cyasma}. Je l'ai déjà dit à Hasmina, mais nous trouverons probablement quelque chose à l'intérieur.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="2006">
+        <Page social="0" voiceTypeId="0">Vous me plaisez, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Nous connaissions à peu près l'emplacement de nos éclaireurs avant de perdre contact.&lt;BR&gt;&lt;BR&gt;Je vais vous y emmener. Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="3" villagerId="2006">
+        <Page social="4" voiceTypeId="0">Faites bien attention à vous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" prevId="3" villagerId="2004">
+        <Page social="4" voiceTypeId="0">Oh, &lt;PCNAME&gt;. Ça faisait une paye. &lt;BR&gt;Certains des chercheurs ont rejoint le front.&lt;BR&gt;&lt;BR&gt;Il nous faut à tout prix des informations sur l'ennemi. Nous aussi, nous arrivons tout juste.&lt;BR&gt;&lt;BR&gt;L'énergie des argons est sans doute emmagasinée ici. &lt;BR&gt;&lt;BR&gt;En détruisant ce site, nous pourrons peut-être faire pencher le cours de la guerre en notre faveur.&lt;BR&gt;&lt;BR&gt;Mais malheureusement l'énergie est trop puissante et les argons trop nombreux, et nous faisons donc du sur-place. Je vous en prie, aidez-nous !&lt;NEXTPAGEBUTTON&gt;"Je suis déjà en route !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, j'ai encore un cadeau pour vous. &lt;BR&gt;Ce sont les fruits de nos recherches sur les argons.&lt;BR&gt;&lt;BR&gt;Vous êtes la première personne à déployer ceci au combat. Je suis quand même un peu nerveux à ce sujet...&lt;BR&gt;Les argons que nous avons affrontés jusqu'à présent étaient somme toute assez petits. Nous avons pu les vaincre sans trop de peine. &lt;BR&gt;Mais les argons situés à l'intérieur sont différents.&lt;BR&gt;&lt;BR&gt;D'ici, je détecte déjà leur énergie prodigieuse.&lt;BR&gt;Avec cet objet, vous pouvez modifier le flux d'énergie. Cela entraîne une surcharge qui inflige des dégâts.&lt;BR&gt;&lt;BR&gt;Essayez-le donc.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="249" prevId="6" villagerId="2011">
+        <Page social="9" voiceTypeId="0">Nous avons bien progressé, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Espérons pouvoir bientôt mettre fin à cette guerre abjecte. &lt;BR&gt;&lt;BR&gt;Ne vous inquiétez pas pour les chercheurs du Mysterium.&lt;BR&gt;Je vais m'occuper d'eux.&lt;BR&gt;Bonne chance !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="249" prevId="7" villagerId="2014">
+        <Page social="0" voiceTypeId="0">(Vous percevez une énergie moite).</Page>
+    </Text>
+    <Text id="9" huntingZoneId="413" prevId="8" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Argh... Qui êtes-vous ?&lt;BR&gt;Vous devriez déguerpir au plus vite.&lt;BR&gt;&lt;BR&gt;Pour ma part, j'ai pris cher.&lt;BR&gt;&lt;BR&gt;Vous êtes ici pour chercher ou pour détruire quelque chose ? Avec une petite escouade, vous feriez mieux d'avancer à pas feutrés.&lt;BR&gt;&lt;BR&gt;Or, j'ai découvert qu'on peut passer inaperçu en utilisant l'obscurité des couloirs annexes.&lt;BR&gt;&lt;BR&gt;Vous devriez exploiter cela.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="249" prevId="9" villagerId="2002">
+        <Page social="8" voiceTypeId="0">Oh ! Quelle chance ! Le nombre d'argons a chuté ?&lt;BR&gt;&lt;BR&gt;Si nous arrivons à arrêter les argons et si la fédération débarque, les habitants de {@Rgn:76001$$Kanstria} pourront enfin mener à nouveau leur vie d'autrefois.&lt;BR&gt;&lt;BR&gt;Nous sommes disposés à vous transmettre toutes les informations que nous avons recueillies au sujet des argons. Luttons ensemble pour une victoire commune !&lt;NEXTPAGEBUTTON&gt;"Oui, ça me convient !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le Quartier général de la Fédération Valkyon se trouve à Kaiator.&lt;BR&gt;&lt;BR&gt;Hasmina m'a demandé de vous remettre ce parchemin. Ces messages doivent rejoindre à Kaiator au plus vite. &lt;BR&gt;&lt;BR&gt;Elle a immédiatement tourné les talons pour aller protéger les chercheurs du Mysterium.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="528" prevId="10" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Oh ! Je savais bien que vous y arriveriez, &lt;PCNAME&gt; ! Vous avez fait pencher la balance en notre faveur. &lt;BR&gt;&lt;BR&gt;Je tiens à vous remercier au nom de la Fédération Valkyon, vous et Hasmina. Vous vous êtes surpassé.&lt;NEXTPAGEBUTTON&gt;"Ce n'est pas encore terminé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Bien sûr, j'ai déjà eu vent de Shandra Manaya. &lt;BR&gt;&lt;BR&gt;La nouvelle s'est déjà répandue dans tout {@Rgn:76001$$Kanstria}. Apparemment, le village voisin de {@Rgn:50001$$Granarkus} abriterait quelque chose qui contrôle les argons. &lt;BR&gt;&lt;BR&gt;Pour en savoir plus, vous allez devoir vous y rendre en personne.&lt;BR&gt;&lt;BR&gt;Si nous éliminons cette sorcière, la fin de la guerre argonne ne sera plus qu'une question de temps. &lt;BR&gt;Bénie soit la Fédération Valkyon !</Page>
+    </Text>
+</QuestDialog>

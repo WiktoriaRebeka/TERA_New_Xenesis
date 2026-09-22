@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tandis qu'{@gender:il/elle} combattait l'armée impériale archidevanne, &lt;PCNAME&gt; a remarqué qu'ils s'efforçaient de protéger de mystérieux chariots de minerai.&lt;BR&gt;Supposant que ces derniers contenaient sans doute quelque chose d'important, &lt;PCNAME&gt; s'est emparé{@g:/e} de quelques fragments des "pierres devannes" qui se trouvaient à l'intérieur.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Les élites parthes semblent tenir absolument à protéger ces chariots de minerai. Que peuvent-ils bien contenir de si précieux&amp;nbsp;?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Décidément, vous êtes mali{@gender:n/gne}, &lt;PCNAME&gt;&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;N'importe qui d'autre aurait débarrassé le plancher pour revenir plus tard&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais montrer ces pierres à Hagand. Peut-être qu'il arrivera à déterminer à quoi elles peuvent bien servir.&lt;NEXTPAGEBUTTON&gt;"Tout le plaisir est pour moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">Le {@LinkCreature:10#17#maître-griffu naga} est capable de réduire une petite division de soldats à l'état de viande hachée en moins de temps qu'il n'en faut pour le dire.&lt;BR&gt;&lt;BR&gt;Mais si j'en crois les rapports qui m'ont été envoyés depuis le continent, vous n'êtes pas une recrue ordinaire, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Prouvez-le, eliminez ces nagas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Je vous ai lancé un défi, et vous avez su vous montrer à la hauteur. J'aimerais avoir plus de combattants de votre trempe sous la main, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1003">
+        <Page social="0">La perspective d'affronter les {@LinkCreature:10#17#maîtres-griffus} doit vous terrifier.&lt;BR&gt;&lt;BR&gt;En tout cas, ça a l'air de vous faire plus peur que les sanctions encourues pour manquement au devoir, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

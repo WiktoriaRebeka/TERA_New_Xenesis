@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Je ne me lasse jamais de voir votre visage rayonnant, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous m'ôtez les mots de la bouche."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'aime bien parler de tout et de rien, pas vous&amp;nbsp;? Restons là toute la journée à raconter des banalités.&lt;BR&gt;&lt;BR&gt;Ou alors, vous pouvez aller voir si {@LinkCreature:63#3002#Taratia} a une mission pour vous. Je sais que vous aimez partir à l'aventure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;C'est {@linkcreature:63#3003#Elthienne} qui vous envoie ?&lt;BR&gt;&lt;BR&gt;Vous pourriez récupérer des matériaux ?&lt;BR&gt;Ce n'est pas bien difficile pour vous !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">De la fibre de toira. Ce matériau peut s'avérer extrêmement utile si on sait bien l'utiliser.&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;! Allez dire à {@LinkCreature:63#3003#Elthienne} que je vais fabriquer ce qu'elle demande en un rien de temps.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Apportez-moi la fibre de toira, ou alors je vous préviens, je vais hurler comme un bébé. Et vous ne voulez pas voir ça, croyez-moi.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">{@LinkCreature:63#3003#Elthienne} pense que ceci appartient à un dent-de-sabre. Elle n'y connait pas grand-chose en artisanat. Vous devriez la voir dans un atelier. C'est assez amusant, en fait.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">{@RawItem:206801}... Ce matériau peut s'avérer extrêmement utile si on sait bien l'utiliser.&lt;BR&gt;&lt;BR&gt;Merci ! Allez dire à {@linkcreature:63#3003#Elthienne} que je vais fabriquer son objet en un tournemain.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Je vous en prie, prenez votre temps pour l'{@RawItem:206801}. Si vous n'avez rien d'autre à faire, vous devriez songer à donner votre sang.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci pour le {@RawItem:206802} !&lt;BR&gt;On peut vraiment compter sur vous !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3003#Elthienne} pour lui dire que j'ai tout reçu.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Je vous en prie, prenez votre temps pour le {@RawItem:206802}. Si vous n'avez rien d'autre à faire, vous devriez songer à donner votre sang.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci pour le {@RawItem:206803} !&lt;BR&gt;On peut vraiment compter sur vous !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3003#Elthienne} pour lui dire que j'ai tout reçu.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Je vous en prie, prenez votre temps pour le {@RawItem:206803}. Si vous n'avez rien d'autre à faire, vous devriez songer à donner votre sang.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci pour la {@RawItem:206804} !&lt;BR&gt;On peut vraiment compter sur vous !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3003#Elthienne} pour lui dire que j'ai tout reçu.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Je vous en prie, prenez votre temps pour la {@RawItem:206804}. Si vous n'avez rien d'autre à faire, vous devriez songer à donner votre sang.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci pour la {@RawItem:206805} !&lt;BR&gt;On peut vraiment compter sur vous !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3003#Elthienne} pour lui dire que j'ai tout reçu.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Je vous en prie, prenez votre temps pour la {@RawItem:206805}. Si vous n'avez rien d'autre à faire, vous devriez songer à donner votre sang.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Vous avez bien tout apporté à {@linkcreature:63#3002#Taratia ?&lt;BR&gt;Merci. Si seulement tout le monde pouvait être aussi fiable que vous.&lt;BR&gt;à la prochaine fois.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="4">Sur le champ de bataille, l'hésitation entraîne souvent une mort prématurée. Mais qui n'aurait pas un instant d'hésitation légitime en s'apercevant que son adversaire n'est autre qu'un ancien frère d'arme corrompu par les ténèbres&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Certains de nos proches ont rejoint les rangs des {@LinkCreature:32#12#templiers sihrans}. Il est impossible de les raisonner, et jamais je ne serai capable de tuer mon propre frère... mais pour vous, ce ne sont que des étrangers&amp;nbsp;! L'ennemi&amp;nbsp;! Pouvons-nous compter sur vous pour les libérer de l'emprise de Kaidun&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1015">
+        <Page social="4">Vous avez réussi&amp;nbsp;? C'est... une bonne chose. Merci…&lt;BR&gt;&lt;BR&gt;Je sais que tuer d'anciens frères d'armes n'est jamais chose aisée.&lt;BR&gt;&lt;BR&gt;J'ai besoin d'un peu de recueillement.</Page>
+    </Text>
+</QuestDialog>

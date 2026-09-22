@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1026">
+        <Page social="5">Mes sœurs ont découvert un autel dans les catacombes.&lt;BR&gt;&lt;BR&gt;C'est Mahagi qui est tombée dessus. Elle se cache dans les Laboratoires maléfiques, à l'est d'ici.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:22#23#sorciers mekonaris}, les {@LinkCreature:22#24#serviteurs farfadets d'ébène} et les {@LinkCreature:22#25#tisseurs sombres mekonaris} nous bloquent la voie. Eliminez-les et trouvez-la&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1020">
+        <Page social="5">Les autres m'ont beaucoup parlé de vous.&lt;BR&gt;&lt;BR&gt;Vos mains sont couvertes du sang de mes sœurs, mais en ce jour, qui n'a pas les mains sales&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mettons un terme à cette folie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

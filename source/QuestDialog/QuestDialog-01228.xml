@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="4">Tamur a envoyé un ordre difficile, je pense que vous êtes la personne idéale pour le mener à bien.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:48#14} déjoue tous nos plans. Réunissez des alliés et tuez-le.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">A présent que Darmayan est mort, nous devrions rencontrer une résistance plus faible. Excellent.&lt;BR&gt;&lt;BR&gt;Votre courage fait la fierté de la Fédération Valkyon, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

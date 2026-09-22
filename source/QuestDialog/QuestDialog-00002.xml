@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">Au cours d'une vision, Klaon a entrevu le Bois des stigmates, un rituel qui s'y déroulait, et il vous a appelé à l'aide. Il a évoqué des pierres flottantes et un groupe d'intrus qui se livrait à un rituel. Il connaissait le nom de leur chef, Garkior, mais n'a su vous dire ce que ses serviteurs étaient venus faire au Bois des stigmates.&lt;BR&gt;&lt;BR&gt;Klaon vous a demandé d'aller détruire les pierres en question et de tuer Garkior. Une fois la mission accomplie, vous êtes retourné auprès de Klaon, qui vous a dit que sa vision s'était dissipée, mais que le mystère était loin d'être résolu. Vous avez également appris le nom des ennemis auxquels vous étiez confronté... les descendants de Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">&lt;PCNAME&gt;&amp;nbsp;! Klaon vous cherchait. Je crois qu'il est parti pour le Camp d'Aron&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1024">
+        <Page social="4">Merci d'être {@gender:venu/venue}, &lt;PCNAME&gt;. Je commence à me sentir dépassé par les évènements.&lt;BR&gt;&lt;BR&gt;Je suis un humble mystique. Quand je suis en quête de réponses, je médite et je laisse le Rêve m'envahir. Dernièrement, j'ai vu le Bois des Stigmates... et un groupe d'intrus.&lt;NEXTPAGEBUTTON&gt;"Qui sont-ils&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Difficile à dire. Je les ai vus en train d'accomplir un rituel. J'ai également vu des pierres flottantes. Ils étaient en train de créer des {@LinkCreature:2#209#éclats de vortex}.&lt;BR&gt;&lt;BR&gt;Ces choses avaient l'air... affamées. J'ai vu des genres de tentacules en émerger et dévorer la forêt. J'ai aperçu la personne qui dirigeait le rituel et j'ai entendu son nom... {@LinkCreature:2#259#Garkior}.&lt;BR&gt;&lt;BR&gt;Arrêtez-le et détruisez ces choses&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1024">
+        <Page social="4">Je n'avais jamais croisé de créatures de ce type auparavant. Pas plus que je n'avais entendu parler des descendants de Lok.&lt;BR&gt;&lt;BR&gt;La vision que j'ai reçue est en train de s'estomper, nous pouvons donc espérer que vos efforts pour mettre un terme à cette folie se sont révélés payants. Cependant, j'ai bien peur que la fin de cet épisode ne présage que le début d'un autre.&lt;BR&gt;&lt;BR&gt;Restez sur vos gardes, &lt;PCNAME&gt;... et merci encore.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1024">
+        <Page social="0">Je me demande ce que ces sbires prélèvent dans la forêt, et pourquoi ils le font ?&lt;BR&gt;&lt;BR&gt;Tellement de questions... à votre retour, j'espère avoir de nouveaux éléments de réponse.</Page>
+    </Text>
+</QuestDialog>

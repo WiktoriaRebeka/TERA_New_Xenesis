@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="4">Il faut absolument que je rentre chez moi&amp;nbsp;! Je refuse de moisir ici un instant de plus. Je n'en peux plus.&lt;BR&gt;&lt;BR&gt;Si vous croisez {@LinkCreature:209#1011$$Jascus}, dites-lui que je vais prendre mes cliques et mes claques.&lt;BR&gt;&lt;BR&gt;Je refuse de finir en casse-croûte&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Il croit qu'il va sortir&amp;nbsp;? Ce pauvre soldat a été rendu fou par cet endroit. Si seulement c'était le premier.&lt;BR&gt;&lt;BR&gt;Nous ne pouvons pas l'extraire, si c'est ce qu'il espère. Il peut fuir vers Castanica ou le Port Coupe-gorge si ça lui chante, mais il devra se débrouiller tout seul.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1014">
+        <Page social="4">Vous l'avez trouvé&amp;nbsp;? Pas moyen de sortir&amp;nbsp;? Ah... Et il voudrait que je gobe ça...&lt;BR&gt;&lt;BR&gt;Il est de leur côté&amp;nbsp;! Avec les gulas... Je le savais&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;S'il me trouve, il me livrera à l'ennemi pour se débarrasser de moi&amp;nbsp;! Je dois filer&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

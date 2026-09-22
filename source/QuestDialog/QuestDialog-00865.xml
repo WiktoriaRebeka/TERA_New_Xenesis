@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">Thulsa nous a transformés en monstres, après avoir envoyé le {@LinkCreature:33#54#nobles vampires maudits} et les {@LinkCreature:33#55#bouffons infernaux} nous attaquer.&lt;BR&gt;&lt;BR&gt;Je crois que j’entendrai leur rire malsain jusqu’à la fin de mes jours. Vous devez les arrêter avant qu’ils n’attaquent la nouvelle brigade.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1012">
+        <Page social="0">Ils ne tortureront plus jamais de soldats.&lt;BR&gt;&lt;BR&gt;J’ai encore quelque chose pour vous. J’espère que cela vous sera utile.</Page>
+    </Text>
+</QuestDialog>

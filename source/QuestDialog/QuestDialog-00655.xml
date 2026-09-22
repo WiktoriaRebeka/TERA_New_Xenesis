@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">J'ai mené une patrouille sur la rive sud du lac et j'ai repéré des {@LinkCreature:23#11#bouffons malveillants} vêtus d'habits ridicules qui aidaient des {@LinkCreature:23#12#mercenaires kobolds}.&lt;BR&gt;&lt;BR&gt;C'est une alliance que nous ne pouvons pas tolérer. Brisez-la&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">Combattre les kobolds, c'est une chose, mais combattre ces bouffons, c'est une autre paire de manches. Je déteste ces saletés&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci. De nombreux soldats auraient perdu la vie si vous n'aviez pas réglé le problème.</Page>
+    </Text>
+</QuestDialog>

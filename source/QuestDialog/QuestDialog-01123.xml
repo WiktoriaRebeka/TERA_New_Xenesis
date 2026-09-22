@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Les nagas cherchent à ressusciter Dagon et se sont mis en quête de ses tablettes.&lt;BR&gt;&lt;BR&gt;Ces pierres sont censées ressusciter Dagon et augmenter ses pouvoirs.&lt;BR&gt;&lt;BR&gt;Nous devons mettre la main dessus à tout prix. Vous vous sentez une âme de {@gender:pilleur/pilleuse} de tombes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="0">Impressionnant. Que ces tablettes aient les pouvoirs qu'on leur prête ou pas, elles sont fascinantes.&lt;BR&gt;&lt;BR&gt;Vous avez fait du bon travail, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Nous ne pouvons laisser les tablettes de Dagon aux griffes des nagas. Je ne sais pas si elles peuvent faire ce qu'on dit, mais les nagas en sont persuadés. Contrecarrer leur plan nous fera forcément marquer des points.</Page>
+    </Text>
+</QuestDialog>

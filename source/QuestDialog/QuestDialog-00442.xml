@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="5">Des plantes bizarres ont commencé à pousser dans le coin juste avant que ces pestesangs n'arrivent. Ces fleurs ressemblent à s'y méprendre à des pétales de sang.&lt;BR&gt;&lt;BR&gt;Ce n'est peut-être qu'une coïncidence, mais nous devons étudier ces plantes. Vous pourriez aller m'en chercher, tant que vous courrez la lande&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1024">
+        <Page social="5">Oui, c'est bien la plante en question. Les fleurs prennent une teinte rouge sang aussitôt qu'on les cueille. A première vue, elles sont tout ce qu'il y a de plus anodines, mais les apparences sont trompeuses.&lt;BR&gt;&lt;BR&gt;Voici un humble témoignage de ma gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1024">
+        <Page social="0">Méfiez-vous bien des pestesangs, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

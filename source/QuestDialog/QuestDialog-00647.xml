@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="5">Les Poporis ont besoin de ravitaillement et Velika met un temps fou à acheminer le nécessaire. Je crois qu'il va falloir que nous prenions les choses en main.&lt;BR&gt;&lt;BR&gt;Abattez quelques {@LinkCreature:23#2#ghilliedhus bois-ferreux} et récupérez leur écorce. Avec ce truc-là, on peut faire des boucliers acceptables&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1012">
+        <Page social="5">Avec ça, je vais pouvoir faire fabriquer des boucliers.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, vous avez sauvé des vies, &lt;PCNAME&gt;. J'espère pour vous que ça vous vaudra une mutation dans une région où il y a plus d'action qu'ici.&lt;BR&gt;&lt;BR&gt;Mais bon, ce sont les petits efforts d'aujourd'hui qui préparent les grandes victoires de demain.&lt;BR&gt;&lt;BR&gt;Tout du moins, je l'espère.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1012">
+        <Page social="0">Je sais que ce n'est pas une tâche très glorieuse, mais les Poporis sont nos alliés. Nous devons faire de notre mieux pour les aider.&lt;BR&gt;&lt;BR&gt;Alors, remettez-vous au travail et rapportez-moi de l'écorce&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

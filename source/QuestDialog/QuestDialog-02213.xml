@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">Vous connaissez Dirken ? Il possède de nombreux bateaux dans ce port.&lt;BR&gt;Et voilà qu'il nous réclame une redevance pour l'exploitation du site de pêche ! Quel toupet ! &lt;BR&gt;&lt;BR&gt;Je n'ai aucune envie de céder aux caprices d'un tel énergumène ! Vous pourriez aller le voir pour lui parler ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez arrêté les pirates aux côtés de Dirken, du Port Coupe-gorge. Vous avez utilisé les plantes illusoires cueillies pour attirer les pirates avec des poissons abyssaux. Après quoi, vous leur avez donné une bonne leçon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Qu'y a-t-il ? Vous aussi, vous êtes pêcheur ? Il est encore question de la redevance ?&lt;BR&gt;&lt;BR&gt;Pour attraper des poissons, nous devons apprêter nos navires et partir en mer et vous voulez vous contenter de jeter vos lignes dans le port ? Mettez-vous donc à ma place ? &lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que vous exigez donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Hum... Il y a quelque temps, la recette du poisson étuvé m'est tombée entre les mains.&lt;BR&gt;Mais je ne connais pas un pêcheur capable de le préparer. &lt;BR&gt;Si je vous donne la recette, vous voulez bien m'apporter du poisson étuvé ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Je ne pensais pas que vous y arriveriez. Merci ! &lt;BR&gt;Vous me permettez d'y goûter sur-le-champ ?&lt;NEXTPAGEBUTTON&gt;"Avec grand plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Miam ! Cette odeur d'olives et ce filet de poisson fondant ! Quel délice ! Il n'y a rien de plus divin. &lt;BR&gt;La taxe de pêche ? Il y a bien une explication. &lt;BR&gt;Et comme de bien entendu, les pirates sont derrière tout ça. Ils ressemblent eux-mêmes à des poissons et dès qu'ils en découvrent, ils veulent tout s'approprier. &lt;BR&gt;Et nous ne sommes pas beaucoup mieux lotis. &lt;NEXTPAGEBUTTON&gt;"Dites m'en donc plus."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ils nous mènent aussi la vie dure. &lt;BR&gt;Si vous voulez y remédier, nous allons devoir coopérer. &lt;BR&gt;Vous voulez bien m'aider à donner une leçon aux pirates ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" villagerId="1024">
+        <Page social="0">Vous avez le poisson étuvé ? Hum...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1024">
+        <Page social="1" voiceTypeId="0">Je sais comment bien leur montrer de quel bois nous nous chauffons.&lt;BR&gt;Mais pour ça, il me faut un pêcheur capable, comme vous.&lt;BR&gt;&lt;BR&gt;En longeant la côte vers le sud depuis le Port Coupe-gorge, vous tomberez sur le Camp des patrouilleurs de la jungle, sur votre droite.&lt;BR&gt;Vous y trouverez un vieux bateau.&lt;BR&gt;Récupérez les plantes illusoires qui poussent sous le bateau.&lt;BR&gt;Mais prenez garde à ne pas succomber aux illusions.&lt;BR&gt;Vous devez soigneusement cueillir les pétales un à un.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Vous n'avez pas traîné pour récupérer les plantes illusoires.&lt;BR&gt;Utilisez-les comme appât dans le Port Coupe-gorge.&lt;BR&gt;C'est le seul moyen de capturer des poissons abyssaux.&lt;BR&gt;Leur puanteur est telle que les gens ordinaires la supportent à peine. Mais les pirates du Fouet rouge en raffolent.&lt;BR&gt;Trois poissons abyssaux devraient suffire à les attirer.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" villagerId="1024">
+        <Page social="0">Vous avez examiné les plantes illusoires ?&lt;BR&gt;Vous devez m'en apporter 3 pétales si vous comptez m'aider.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Beau travail ! Leur odeur est vraiment abominable.&lt;BR&gt;Et maintenant, nous allons les utiliser pour attirer les pirates.&lt;BR&gt;En effet, tant qu'ils restent tapis dans la Grotte des pirates, ils sont intouchables.&lt;BR&gt;Mais ils sont tellement férus de poissons abyssaux qu'ils se jetteront gaiment dans la gueule du loup, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Allez voir mon assistante {@linkcreature:62#1043#Zaira}.&lt;BR&gt;Elle a préparé un autel.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" villagerId="1024">
+        <Page social="0">Vous avez capturé les poissons abyssaux ?&lt;BR&gt;Si vous avez perdu les pétales en route, vous devez aller en chercher d'autres.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Vous êtes prêt à aller à l'autel, au sud du port ?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Suivez-moi le long de la côte vers le sud.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="62" prevId="11" villagerId="1043">
+        <Page social="1" voiceTypeId="0">Parfait !&lt;BR&gt;J'ai préparé un autel. Étendez-y les poissons abyssaux pour que leur puanteur se répande partout.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="62" prevId="13" villagerId="1043">
+        <Page social="1" voiceTypeId="0">Pouah ! Vous avez vraiment vaincu les pirates ! Allez vite voir mon chef.&lt;BR&gt;Moi, il faut que je range tout ça.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="62" prevId="14" villagerId="1024">
+        <Page social="1" voiceTypeId="0">Vous avez donné une bonne leçon aux pirates !&lt;BR&gt;Désormais, ils n'oseront plus se montrer dans le port. Vous êtes incroyable.&lt;BR&gt;&lt;BR&gt;Je vais immédiatement entrer en contact avec la fédération de pêche. &lt;BR&gt;Après tout, nous sommes comme une grande famille, dans une même galère. Haha !</Page>
+    </Text>
+</QuestDialog>

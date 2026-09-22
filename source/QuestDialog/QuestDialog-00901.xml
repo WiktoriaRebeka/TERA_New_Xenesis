@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="4">Nous autres les amans avons nos propres traditions et épreuves rituelles. Chaque guerrier aman doit gagner le titre de glacecroc en chassant une bête meurtrière.&lt;BR&gt;&lt;BR&gt;J'ai eu la malchance de tomber sur les {@LinkCreature:34#920#patriarches garde-givre}. Je n'ai peur de rien, mais je n'ai pas envie de mourir bêtement.&lt;BR&gt;&lt;BR&gt;Si j'avais sa griffe, l'épreuve serait terminée et nous pourrions combattre les wendigos. Vous accepteriez de m'aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1011">
+        <Page social="4">Une griffe de mugato. Tellement simple, mais tellement importante.&lt;BR&gt;&lt;BR&gt;Je vous suis redevable, &lt;PCNAME&gt;. C’est une dette de sang. Sauf si vous préférez un porcelet rôti si nous nous retrouvons à Kaiator&amp;nbsp;! Haha&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1011">
+        <Page social="0">Je ne peux pas quémander. Cela va à l’encontre de ma nature. Kaia n’approuve pas cela.</Page>
+    </Text>
+</QuestDialog>

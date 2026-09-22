@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="4">Ces maudits géants de glace nous empêchent de récupérer les corps de nos morts.&lt;BR&gt;&lt;BR&gt;Nous avons un devoir de mémoire à respecter envers nos frères.&lt;BR&gt;&lt;BR&gt;Rendez-vous à Raseri Festning et récupérez ce que vous pourrez sur les dépouilles de nos frères d'armes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1014">
+        <Page social="4">J'apprécie votre dévouement, &lt;PCNAME&gt;. C'est seul que chacun doit faire face à la mort, et c'est ce sacrifice qui justifie le devoir de mémoire. Avec ces objets, il sera moins pénible aux familles de nos morts de faire leur deuil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1014">
+        <Page social="0">Rapportez-moi les bijoux, insignes ou amulettes que vous trouverez. Je les ferai parvenir aux familles en même temps que les lettres de condoléances.</Page>
+    </Text>
+</QuestDialog>

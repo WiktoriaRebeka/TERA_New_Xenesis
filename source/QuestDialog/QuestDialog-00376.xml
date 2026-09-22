@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Lian a demandé à Jehan de rédiger un rapport sur la corruption démoniaque pour la Base de la Tour. Vous avez apporté le rapport au Tribun Adria et au Conseiller Teil.&lt;BR&gt;&lt;BR&gt;Tous deux ont bien pris conscience de la gravité de la situation et commencent à envisager les mesures à prendre concernant les Démons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Jehan adore rédiger des rapports. Son travail m'est aussi utile qu'il peut l'être à Adria. Il a fini d'en rédiger un&amp;nbsp;; allez donc le remettre à Adria.&lt;BR&gt;&lt;BR&gt;Et sachez que vous avez toute la gratitude de Lian d'Allemantheia, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">J'ai beaucoup de respect pour Lian, mais une chose est sûre&amp;nbsp;: il déteste la paperasse. Sauf quand c'est pour une revue académique. Publier ou périr, vous connaissez la chanson.&lt;BR&gt;&lt;BR&gt;Enfin bon, de quel rapport s'agit-il&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Celui qui concerne la corruption démoniaque."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah oui, celui-là... entendu.&lt;BR&gt;&lt;BR&gt;Lisez-le attentivement. Il y a du pain sur la planche.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1001">
+        <Page social="4">Je n'ai aucune raison de douter des conclusions de Lian, surtout après ce que nous avons pu endurer.&lt;BR&gt;&lt;BR&gt;Allez remettre ce rapport au &lt;font color='#660000'&gt;conseiller Teil&lt;/font&gt; au plus vite. Vous le trouverez au sommet des escaliers.&lt;BR&gt;&lt;BR&gt;Il doit être mis au courant de la situation.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1009">
+        <Page social="4">La Vallée maudite&amp;nbsp;? Ça ne m'étonne pas. J'ai toujours eu une sainte horreur de cet endroit. Vous nous avez été d'une aide inappréciable, &lt;PCNAME&gt;. C'est du bon travail.&lt;BR&gt;&lt;BR&gt;Retournez voir Adria et remerciez-la pour moi. Elle vous remettra vos prochains ordres de mission.</Page>
+    </Text>
+</QuestDialog>

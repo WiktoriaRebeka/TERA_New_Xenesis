@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="1">&lt;PCCLASS&gt;, j'aimerais vous parler.&lt;BR&gt;&lt;BR&gt;Les ghilliedhus racine-azur sont en fleurs, et leur pollen peut causer des irritations à ceux qui y sont allergiques.&lt;BR&gt;&lt;BR&gt;Pouvez-vous demander à Lashinuk s'il existe un traitement&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Ah, oui. Le pollen est un mécanisme de défense. Heureusement, il existe un traitement.&lt;BR&gt;&lt;BR&gt;Je peux le fabriquer si vous allez au {@Rgn:30005$$Jardin de Seren} pour trouver quelques ombres-de-lune.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">Il y en a plein.&lt;BR&gt;&lt;BR&gt;Les Hauts-Elfes font du thé avec leurs feuilles séchées, mais si vous les écrasez encore fraîches, elles donnent une pommade apaisante.&lt;BR&gt;&lt;BR&gt;Laissez-moi les broyer.&lt;NEXTPAGEBUTTON&gt;"Quel arôme."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">N'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Appliquez ceci deux fois par jour. Cela devrait diminuer l'irritation très rapidement.&lt;BR&gt;&lt;BR&gt;Oh, c'est pour un ami à vous&amp;nbsp;? Je n'en doute pas.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Avez-vous trouvé des ombres-de-lune&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1006">
+        <Page social="1">Que les titans soient remerciés, vous êtes là. La démangeaison me rendait fou.&lt;BR&gt;&lt;BR&gt;Pardonnez ma brusquerie, mais acceptez tous mes remerciements. Partez maintenant, je dois étaler ça sur moi.</Page>
+    </Text>
+</QuestDialog>

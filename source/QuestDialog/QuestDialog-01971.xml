@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai un service à vous demander. &lt;BR&gt;Venez me voir à Hautegarde.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La grande fête allait bientôt avoir lieu.&lt;BR&gt;Mirriva souhaitait surprendre la déesse Velik en lui offrant la couronne d'éternité.&lt;BR&gt;&lt;BR&gt;Vous n'avez pas ménagé vos efforts pour trouver la couronne, mais elle avait perdu son éclat...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Ah, bienvenue !&lt;BR&gt;&lt;BR&gt;Je suis Mirriva, l'organisatrice de la fête. Voudriez-vous bien me faire une faveur ?&lt;br&gt;&lt;br&gt;Vous savez qu'une grande fête aura bientôt lieu à Velika ?&lt;BR&gt;Je suis débordée, car ce sera un très grand évènement.&lt;BR&gt;&lt;br&gt;En effet, même la déesse Velik sera présente.&lt;BR&gt;C'est pour cela que je fais des pieds et des mains pour que la fête soit parfaite.&lt;br&gt;&lt;br&gt;Pourtant, j'ai oublié de préparer un cadeau pour la déesse Velik.&lt;NEXTPAGEBUTTON&gt;"Un cadeau ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oui, je souhaite lui offrir la &lt;b&gt;&lt;font color='#FF0000'&gt;couronne d'éternité&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;&lt;br&gt;D'après les textes anciens, c'est un trésor sacré.&lt;BR&gt;La couronne est réputée pour son éclat extraordinaire.&lt;br&gt;&lt;BR&gt;Personne ne sait où la trouver. Après la guerre d'Argon, elle fut mise en sécurité dans la Forteresse de Raqnan. Depuis, elle a disparu.&lt;NEXTPAGEBUTTON&gt;"Et comment comptez-vous vous y prendre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Heureusement, Halran est parvenu à déchiffrer une partie des &lt;b&gt;&lt;font color='#FF0000'&gt;tablettes du souvenir&lt;/font&gt;&lt;/b&gt;. Il nous est donc possible de voyager dans le passé de la Forteresse de Raqnan.&lt;BR&gt;&lt;BR&gt;Vous voyez ce que je veux dire, non ?&lt;BR&gt;&lt;BR&gt;...&lt;br&gt;&lt;br&gt;Exactement.&lt;br&gt;&lt;BR&gt;Je souhaiterais que vous voyagiez dans le temps à l'aide des tablettes du souvenir pour récupérer la couronne d'éternité dans la Forteresse de Raqnan.&lt;BR&gt;&lt;BR&gt;Vous feriez ça pour moi ?&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci !&lt;br&gt;&lt;br&gt;La couronne d'éternité est le cadeau idéal en cette occasion !&lt;br&gt;&lt;br&gt;Je compte sur vous !&lt;br&gt;&lt;BR&gt;[Allez voir {@linkcreature:183#7004#Murakan}, le gardien des tablettes du souvenir, et &lt;BR&gt;immiscez-vous dans les "souvenirs de la Forteresse de Raqnan"].</Page>
+    </Text>
+    <Text id="4" huntingZoneId="469" prevId="3" villagerId="500">
+        <Page social="0" voiceTypeId="0">(Vous avez trouvé la couronne d'éternité rayonnante dans le coffret de Myula.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="469" villagerId="500">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">C'est... c'est la couronne d'éternité ?&lt;br&gt;&lt;BR&gt;Elle est complètement rouillée !&lt;NEXTPAGEBUTTON&gt;"Quand je l'ai trouvée, elle était vraiment rayonnante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Elle rayonnait encore ?&lt;br&gt;&lt;BR&gt;Nous devons demander conseil à Halran.&lt;BR&gt;Peut-être qu'il saura expliquer ce phénomène.&lt;br&gt;&lt;BR&gt;S'il vous plaît, apportez la couronne d'éternité à {@linkcreature:183#1025#Halran}.&lt;br&gt;&lt;BR&gt;J'arrive dans un instant.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1025">
+        <Page social="0" voiceTypeId="0">C'est... C'est...&lt;br&gt;&lt;BR&gt;Ah, je sais d'où vient le problème.&lt;BR&gt;&lt;br&gt;Les &lt;font color='#FF0000'&gt;&lt;b&gt;sept pierres précieuses&lt;/b&gt;&lt;/font&gt; qui confèrent sa force à la couronne sont manquantes.&lt;BR&gt;&lt;BR&gt;Je pense que c'est ce qui a dû se passer quand vous êtes revenu dans le présent.&lt;NEXTPAGEBUTTON&gt;"Comment pouvez-vous en être si sûr ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je le sais, car je possède l'une de ces pierres précieuses, à savoir celle de la régénération.&lt;BR&gt;&lt;BR&gt;La voilà. Essayez de la fixer à la couronne d'éternité.&lt;br&gt;&lt;BR&gt;Si vous êtes si puissant, la pierre précieuse de régénération trouvera sa place sur la couronne.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1025">
+        <Page social="0" voiceTypeId="0">Ah, elle commence déjà à briller un peu !&lt;br&gt;&lt;BR&gt;La couronne d'éternité sera renforcée par votre pouvoir et adoptera sa forme véritable.&lt;br&gt;&lt;br&gt;Vous savez à quoi ressemblait la couronne d'éternité par le passé, n'est-ce pas ?&lt;BR&gt;Chacune des sept pierres précieuses lui donne de l'énergie.&lt;br&gt;&lt;br&gt;Vous devez toutes les retrouver.&lt;NEXTPAGEBUTTON&gt;"Comment faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Comme je vous l'ai dit, vous avez besoin des sept pierres précieuses. Mais si vous ne gagnez pas en puissance, la couronne ne réagira pas aux pierres précieuses.&lt;br&gt;&lt;BR&gt;Vous devez réunir toutes les pierres précieuses et améliorer vos compétences pour que la couronne d'éternité reprenne sa forme originelle.&lt;BR&gt;&lt;BR&gt;Je n'en sais pas plus, malheureusement...&lt;br&gt;&lt;BR&gt;Que la sagesse d'Oriyn vous accompagne, gardien !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1031">
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt; ! Je vous attendais. &lt;BR&gt;Qu'est-ce qu'Halran a dit ?&lt;br&gt;&lt;br&gt;&lt;NEXTPAGEBUTTON&gt;"Je vais vous raconter."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, vous devez réunir les sept pierres précieuses et gagner en force pour que la couronne d'éternité retrouve son éclat ?&lt;BR&gt;&lt;BR&gt;Je vais vous y aider !&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Me voilà plus sereine.&lt;BR&gt;Je vous fais confiance !&lt;br&gt;&lt;br&gt;Voici une petite attention de ma part.&lt;br&gt;&lt;br&gt;Je me renseigne pour savoir où les pierres précieuses se trouvent actuellement.&lt;br&gt;À bientôt, gardien.</Page>
+    </Text>
+</QuestDialog>

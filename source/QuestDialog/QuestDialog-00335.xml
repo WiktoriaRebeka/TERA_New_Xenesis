@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">Orless est toujours entouré d'un groupe de gardes du corps plutôt costauds. Ce sont les {@LinkCreature:11#1011#quartiers-maîtres}, les {@LinkCreature:11#2008#boucaniers} et les {@LinkCreature:11#4005#intendants} du Fouet rouge.&lt;BR&gt;&lt;BR&gt;Commencez par éliminer la garde rapprochée d'Orless. Il n'y aura par la même occasion personne pour prendre la relève quand Orless mourra.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs plaques. J'ai une idée...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Ça fait un bon paquet de plaques. Je vais donner ça à mes gars... Je sens que ça va leur faire plaisir.&lt;BR&gt;&lt;BR&gt;Bien joué, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Ce sont les {@LinkCreature:11#1011#maîtres d'équipage}, les {@LinkCreature:11#2008#boucaniers} et les {@LinkCreature:11#4005#intendants} du Fouet rouge qui sont chargés de protéger le capitaine. Le meilleur moyen de "tromper leur vigilance" est encore de les tuer... tout simplement.</Page>
+    </Text>
+</QuestDialog>

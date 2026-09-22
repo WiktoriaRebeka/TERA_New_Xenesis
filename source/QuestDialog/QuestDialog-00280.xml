@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="4">Bon sang de temps&amp;nbsp;! Une tempête toute bête mais implacable a coulé mon vaisseau, éparpillant ma cargaison.&lt;BR&gt;&lt;BR&gt;Nous devrions pouvoir récupérer certaines des caisses d'armes qui se sont échouées sur la Plage de la Tortue dragon. Vous pourriez aller récupérer ces vestiges&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin... "vestiges" c'est peut-être un peu ronflant pour de simples caisses de bois.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">Le navire me manque, mais je peux au moins vendre sa cargaison, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">Vous ne pouvez pas les louper. Des espèces de malles remplies d'armes... sur la plage.</Page>
+    </Text>
+</QuestDialog>

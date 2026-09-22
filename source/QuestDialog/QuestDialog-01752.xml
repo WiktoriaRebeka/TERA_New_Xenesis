@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt; a informé le Sagegarde Braga que Verikam s'est fait enlever et que les tablettes des titans sont entre les mains de Lakan. &lt;BR&gt;Sur demande de Braga, Skald Omero a composé un poème afin de diffuser la nouvelle, qui a profondément bouleversé tous les Barakas de Hautegarde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ! &lt;BR&gt;Voici ce que vous devez faire pour moi : allez parler à Braga, le sagegarde de la ville et expliquez-lui que Verikam s'est fait enlever et que les tablettes des titans ont été volées !  &lt;BR&gt;Je vais contacter le commandant Seir et lui demander des renforts.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Ah, quelle triste journée que celle où j'apprends que Verikam a été enlevé.&lt;BR&gt;&lt;BR&gt;J'ai été bien sot de ne pas rester aux côtés du Vénérable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si seulement j'avais été avec lui...&lt;NEXTPAGEBUTTON&gt;"J'étais là&amp;nbsp;: vous n'auriez rien pu faire pour le sauver."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Essaye de réprimer ses émotions.) ... Absolument. &lt;BR&gt;&lt;BR&gt;Puisque les tablettes des titans ont été dérobées, il est impératif de prévenir tous les Barakas et de leur faire mesurer l'ampleur du danger.&lt;BR&gt;Pourriez-vous aller à Agora et y retrouver Skald Omeros pendant que je me charge de cette tâche ? Dites-lui ce qui est arrivé et demandez-lui de répandre l'information dans tout Agora et ses environs.&lt;BR&gt;La nouvelle doit se répandre comme une traînée de poudre. Ses poèmes auront tôt fait de mettre chaque Baraka du continent dans la confidence.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Je... vois. C'est une journée tragique pour tout Hautegarde et nous devons tout mettre en œuvre pour retrouver le Vénérable sain et sauf.&lt;BR&gt;&lt;BR&gt;Je vais m'adresser aux miens et leur demander de répandre la nouvelle.&lt;BR&gt;&lt;BR&gt;Veuillez informer le Sagegarde Braga que je lui enverrai toutes les personnes qui se manifesteront.&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Merci, &lt;PCNAME&gt;. J'ai fait quelques arrangements pour réunir un bilan des forces en présence ici.&lt;BR&gt;&lt;BR&gt;Avec la disparition de deux de nos entités culturelles parmi les plus importantes, j'ai bien peur que Hautegarde ne soit fort vulnérable.&lt;BR&gt;&lt;BR&gt;Vous devriez vous préparer également.&lt;NEXTPAGEBUTTON&gt;"Je vais me préparer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

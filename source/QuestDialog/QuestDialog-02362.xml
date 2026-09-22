@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2504">
+        <Page social="4" voiceTypeId="0">Je m'appelle Élion.&lt;BR&gt;&lt;BR&gt;Thro et moi sommes occupés à arrêter l'invasion d'Exodor.&lt;BR&gt;&lt;BR&gt;Nous avons besoin de votre aide.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez aidé Élion à détruire Exodor.&lt;BR&gt;&lt;BR&gt;Toutefois, personne ne sait où demeure l'autre Élion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2504">
+        <Page social="4">Merci.&lt;BR&gt;&lt;BR&gt;Sans vous, ça aurait pu s'avérer dangereux.&lt;NEXTPAGEBUTTON&gt;"Je vous en prie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Au fait : mon autre moi était d'une telle force que je ne faisais pas le poids.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Je dois redoubler d'effort à l'entraînement.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1607">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1607">
+        <Page social="0">Nous avons les matériaux, vous avez les compétences.&lt;BR&gt;&lt;BR&gt;Nos officiers sont en manque de pièces d'armures. Fabriquez-leur des hauberts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1607">
+        <Page social="0">C'est du travail de qualité, &lt;PCNAME&gt;. Le forgeron légendaire lui-même n'aurait pas fait mieux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1607">
+        <Page social="0">Vous avez le plan et les kits, parlez aux vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+</QuestDialog>

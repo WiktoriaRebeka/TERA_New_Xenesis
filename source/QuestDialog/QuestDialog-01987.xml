@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="0">Himmul et Laaran, le magistrat de Tria, s'efforçaient de découvrir les causes de la cristallisation, mais aussi un antidote.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Si les révolutionnaires disent vrai, nous devons arrêter ce qui cause ce phénomène : la poudre.&lt;BR&gt;&lt;BR&gt;Himmul est du même avis.&lt;BR&gt;Nous étudions actuellement la poudre orangée de plus près. &lt;BR&gt;Je vous prierais d'aider Himmul dans cette tâche. &lt;BR&gt;&lt;BR&gt;Allez donc trouver Himmul.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Oh !&lt;BR&gt;Si vous venez m'aider en personne, nous trouverons peut-être une solution plus vite que prévu.&lt;BR&gt;&lt;BR&gt;Le magistrat vous a sans doute déjà expliqué que j'étudie actuellement la poudre orangée qui a été identifiée comme étant à l'origine de l'épidémie de cristallisation. &lt;NEXTPAGEBUTTON&gt;"Je vais faire de mon mieux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci bien.&lt;BR&gt;&lt;BR&gt;Hum...&lt;BR&gt;Nous devrions tenter de détruire cette poudre selon diverses méthodes.&lt;BR&gt;&lt;BR&gt;Vous pouvez prélever cette poudre sur les monstres des environs de Tria. Vous n'avez qu'à capturer les monstres et extraire la poudre de leur corps.&lt;BR&gt;Apportez-moi ensuite la poudre.&lt;BR&gt;&lt;BR&gt;Commencez par les licornes sombres et les loups ligneux patte-fumée.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Merci. &lt;BR&gt;&lt;BR&gt;Je vais tout d'abord effectuer quelques expériences sur cette poudre. &lt;BR&gt;Mais cette quantité de poudre ne suffira peut-être pas pour obtenir un résultat fiable. &lt;BR&gt;&lt;BR&gt;Pourriez-vous m'en procurer encore un peu ?&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci beaucoup. &lt;BR&gt;&lt;BR&gt;Cette fois-ci, j'aimerais vous prier de prélever la poudre auprès des marchespores argileux de la Crête esséniane.&lt;BR&gt;Pour une meilleure efficacité, il est préférable d'utiliser de la poudre de monstres divers.&lt;BR&gt;&lt;BR&gt;Ces derniers temps, les marchespores aussi se font bien plus farouches, ils sont donc sans doute aussi affectés par la poudre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Du bon travail.&lt;BR&gt;Grâce à vous, j'ai pu réaliser plusieurs expériences avec ces différentes poudres.&lt;BR&gt;&lt;BR&gt;Ne tournons pas autour du pot : je n'ai pas trouvé de méthode permettant d'enrayer la prolifération de la poudre. &lt;BR&gt;&lt;BR&gt;En revanche, je peux confirmer que les révolutionnaires disaient vrai.&lt;BR&gt;&lt;BR&gt;Toutes les créatures qui entrent en contact avec cette poudre sont criblées de douleurs atroces qui s'amplifient progressivement jusqu'à ce qu'ils perdent la tête et enragent. &lt;BR&gt;&lt;BR&gt;L'effet est similaire à celui d'un poison. Je ne crois pas qu'un antidote puisse...&lt;NEXTPAGEBUTTON&gt;"Il n'y a vraiment aucune solution ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Eh bien, il me reste encore quelques tests à réaliser, mais je ne sais pas combien de temps il nous reste.&lt;BR&gt;&lt;BR&gt;Je vous prie de bien vouloir transmettre les résultats de mes recherches au magistrat.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="5" villagerId="1011">
+        <Page social="4" voiceTypeId="0">C'est désespérant...&lt;BR&gt;Donc il n'y a encore aucune méthode permettant de l'arrêter ?&lt;BR&gt;Et pendant ce temps, la poudre se propage toujours plus.&lt;BR&gt;&lt;BR&gt;Que pouvons-nous faire ?&lt;BR&gt;Combien de temps nous reste-t-il ?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous allez bien ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, toutes mes excuses.&lt;BR&gt;Je dois m'empresser de trouver une autre solution.&lt;BR&gt;Je ne peux pas rester inactif pendant que tant de gens meurent.&lt;BR&gt;&lt;BR&gt;Je vous remercie d'avoir aidé Himmul dans ses recherches.</Page>
+    </Text>
+</QuestDialog>

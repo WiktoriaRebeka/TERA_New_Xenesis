@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3006" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Cette requête spéciale émane d'Uriela, qui aide les gardiens dans leur quête de croissance.&lt;BR&gt;&lt;BR&gt;Rendez-vous au Front d'Arborea et éliminez les monstres.&lt;BR&gt;&lt;BR&gt;Si vous acceptez la quête, la requête "[évènement] à l'assaut du Repaire d'Akasha ! (solo)" disparaît.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4">&lt;PCNAME&gt;, grâce à vous, nous avons pu stabiliser le Front d'Arborea.&lt;BR&gt;&lt;BR&gt;Voici une récompense pour vos efforts.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="4">Laissez-moi vous dire les choses clairement&amp;nbsp;: je crois que Krudo est fou.&lt;BR&gt;&lt;BR&gt;Mais il n'est pas stupide. Et quand il dit qu'il peut transformer des cornes de farfadets en or, je pense qu'il raconte des balivernes, mais on ne sait jamais&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors, faites plaisir à cet illuminé&amp;nbsp;! Rapportez-lui des cornes de {@LinkCreature:8#1031#farfadets caprins}, et voyons ce qui se passera. Allez au sud de Castanica, puis dirigez-vous vers la caverne à l'ouest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4">Des cornes de farfadet&amp;nbsp;! Des cornes de farfadet&amp;nbsp;! Hourra&amp;nbsp;! Je vais les transformer... en or&amp;nbsp;! Vous voulez de l'or, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Dans à peine quarante ans... Vous aurez de l'or, oui&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous n'avez pas le temps d'attendre&amp;nbsp;? La jeunesse d'aujourd'hui... (Il soupire) Alors, prenez tout de même ça, en guise de récompense. Et repassez dans quarante ans&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Je peux vous aider&amp;nbsp;? Ou plutôt l'inverse&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

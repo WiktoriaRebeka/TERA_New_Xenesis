@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Voici le linceul d'humidification.&lt;BR&gt;&lt;BR&gt;Servez-vous-en pour rester au sec quand vous vous mouillez ! Il s'avère tout particulièrement utile en cas d'attaques électriques.&lt;BR&gt;&lt;BR&gt;Il fait penser à une serviette confectionnée à partir de fibres de poils de paresseux ! &lt;BR&gt;&lt;BR&gt;C'est vraiment génial.&lt;BR&gt;Je n'arrête pas de vanter les mérites de ce produit.&lt;BR&gt;&lt;BR&gt;Pourriez-vous l'apporter au {@linkcreature:230#1017$$mineur itinérant vétéran} ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1017">
+        <Page social="1">Quoi&amp;nbsp;? {@LinkCreature:230#1016$$Leshoff} a dit que j'en voudrais&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il m'arrive, de temps en temps, de faire affaire avec des, hum, relations commerciales indépendantes d'Allemantheia, mais Leshoff est fou&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous me comprenez&amp;nbsp;? Il est au milieu de nulle part, à fabriquer des linceuls en poils de paresseux. Ne me dites pas que c'est une activité saine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1017">
+        <Page social="0">Quelle histoire. On m'avait dit un tas de choses à propos de Leshoff. Je ne sais pas si "fou" est un qualificatif assez fort, cela dit.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1016">
+        <Page social="1">(Vous lui parlez du {@linkcreature:230#1017$$vétéran des mineurs}).&lt;BR&gt;&lt;BR&gt;Hahaha, c'est un malentendu.&lt;BR&gt;&lt;BR&gt;Regardez-moi. Est-ce que j'ai l'air d'être un marchand malhonnête ? Nous avons rencontré des problèmes car ils demandaient beaucoup à un prix dérisoire.&lt;BR&gt;&lt;BR&gt;La qualité se paye, voilà tout. La sécurité à un prix. J'ai pourtant bien prévenu que la qualité souffrirait en cas de prix trop bas.&lt;BR&gt;&lt;BR&gt;Mais rien à faire. Tenez, prenez ceci car après tout, vous avez récupéré les matériaux. &lt;BR&gt;&lt;BR&gt;Vous en avez de la chance ! &lt;BR&gt;&lt;BR&gt;Ce n'est pas tous les jours que le meilleur élève d'Oshar fait un cadeau !</Page>
+    </Text>
+</QuestDialog>

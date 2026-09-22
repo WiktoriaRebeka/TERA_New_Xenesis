@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mystel vous a aidé à voyager dans le passé.&lt;BR&gt;Le commandant Seir vous a informé que des dragons ont attaqué Élénea. Vous vous êtes donc rendu à Élénea pour retrouver Berdash.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Notre fête de la paix a connu une fin tragique avec l'attaque des dragons.&lt;BR&gt;Tous ceux qui ont assisté en personne à la mort de Velik sont encore traumatisés. C'est au cours de ces heures funestes que Mystel, la déesse de la destinée, est apparue pour vous conférer son pouvoir, &lt;PCNAME&gt;. Une vive lueur vous a téléporté à un autre endroit.&lt;BR&gt;&lt;BR&gt;Quand vous avez ouvert les yeux, Velika s'étalait devant vous dans une paix sereine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Oh, &lt;PCNAME&gt;. Comment allez-vous ?&lt;BR&gt;J'ai fort à faire, comme toujours, mais à part ça, rien à signaler.&lt;BR&gt;&lt;BR&gt;La destruction du RK-9 dans le hangar de Randun a sans doute donné le coup de grâce à Lakan, le Prince des enfers. Vous êtes d'une grande bravoure. Les sbires qui s'étaient rangés du côté de Lakan ne font plus non plus parler d'eux.&lt;BR&gt;&lt;BR&gt;Mais ça ne signifie pas pour autant qu'il n'y a aucun problème...&lt;NEXTPAGEBUTTON&gt;"Que se passe-t-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Des dragons ont subitement attaqué Élénea. Velika a envoyé des troupes supplémentaires à Élénea, pour prêter main forte à l'armée débordée.&lt;BR&gt;&lt;BR&gt;Nous n'avions encore jamais assisté un assaut de dragons sur un rassemblement d'Humains. Nous savons que les disciples du prince des enfers n'y sont pour rien. C'est toujours ça de pris.&lt;BR&gt;&lt;BR&gt;Je regrette de devoir vous faire une telle demande alors que la fête se prépare, mais pourriez-vous vous rendre à Élénea ?&lt;BR&gt;&lt;BR&gt;Allez voir Maius. Il vous donnera d'autres instructions.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1604">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Vous êtes en route pour Élénea ?&lt;BR&gt;Allez voir Munstak Beklenun. Une partie des soldats de Velika vient de prendre la route et les autres sont déjà sur place.&lt;BR&gt;&lt;BR&gt;Munstak Beklenun va vous aider à rejoindre Élénea.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1133">
+        <Page social="0" voiceTypeId="0">Vous souhaitez rejoindre Élénea ?&lt;BR&gt;De nombreux soldats y sont mobilisés car des dragons y ont soudain attaqué les Humains.&lt;BR&gt;&lt;BR&gt;Je me réjouis de pouvoir compter sur votre soutien, gardien. Je peux vous emmener directement à Élénea.&lt;BR&gt;&lt;BR&gt;Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="833" prevId="5" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Apparemment, une troupe de Velika est déjà arrivée à Élénea. Le soutien dont nous bénéficions est une bénédiction.&lt;BR&gt;&lt;BR&gt;Berdash ? Ça ne me dit rien.&lt;BR&gt;Un membre de la famille ?&lt;BR&gt;Un des blessés ?</Page>
+    </Text>
+</QuestDialog>

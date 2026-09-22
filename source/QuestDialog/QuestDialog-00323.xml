@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">C'est bien joli d'éradiquer les pirates du Fouet rouge de la grotte, mais nous allons devoir nous assurer qu'ils seront dans l'incapacité de reprendre la mer.&lt;BR&gt;&lt;BR&gt;Le plus gros de la flotte du Fouet rouge est revenue pour réparations, c'est donc le moment idéal pour frapper.&lt;BR&gt;&lt;BR&gt;Ce sont les {@LinkCreature:11#3003#injenirs du Fouet rouge} qui sont chargés de l'entretien. Tuez-les et emparez-vous de leurs outils.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Je leur souhaite bien du plaisir pour réparer leurs navires sans techniciens ni outils. Ça sent le chômage technique chez les pirates&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">Vous devez tuer les {@LinkCreature:11#3003#Injenirs du Fouet rouge}. Sans eux, les navires pirates ne seront jamais en état de reprendre la mer.</Page>
+    </Text>
+</QuestDialog>

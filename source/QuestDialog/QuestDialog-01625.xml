@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Vous ici&amp;nbsp;? A la bonne heure. Nous avons besoin d'armes de prêtres à Chebika. J'ai des matériaux qui n'attendent que vous si vous voulez fabriquer des bâtons d'ouvrier en magie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Cela fera parfaitement l'affaire.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller remettre ça à Jakarian, de Chebika&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits, parlez aux vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="65" prevId="3" villagerId="1009">
+        <Page social="0">Cela nous aidera à sauver bon nombre de vies. Merci à vous.</Page>
+    </Text>
+</QuestDialog>

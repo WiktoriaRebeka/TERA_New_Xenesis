@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1008">
+        <Page social="5">Hé&amp;nbsp;! Vous pouvez m'aider&amp;nbsp;? Il faudrait vraiment que je répare cette barrière pour mon père, mais je n'arrive pas à trouver les matériaux.&lt;BR&gt;&lt;BR&gt;Je n'ai pas le droit de m'éloigner, mais je pense que &lt;font color='#660000'&gt;le métal, le bois et la corde&lt;/font&gt; dont j'ai besoin sont dans les &lt;font color='#660000'&gt;boîte de détritus&lt;/font&gt; qui se trouvent dans les parages.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller y jeter un œil pour moi et me rapporter ce que vous trouverez&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1038">
+        <Page social="0">Il y a des cordes dans cette boîte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1036">
+        <Page social="0">Il y a du métal dans cette boîte.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" prevId="4" villagerId="1037">
+        <Page social="0">Il y a du bois dans cette boîte.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="5" villagerId="1008">
+        <Page social="8">Oh, super&amp;nbsp;! Merci, merci beaucoup&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quand il verra ce que j'ai fait, mon père sera drôlement surpris&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" villagerId="1008">
+        <Page social="0">Les matériaux&amp;nbsp;? Vous n'avez pas réussi à les trouver&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;S'il vous plaît, vous devez continuer de chercher.</Page>
+    </Text>
+</QuestDialog>

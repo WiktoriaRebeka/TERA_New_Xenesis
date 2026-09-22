@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Grâce à vous, nous avons pu résoudre le problème de la nourriture et des couchettes, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mais nous n'avons aucune arme et cela me préoccupe un peu. Pourriez-vous nous aider à nous procurer des armes ?&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous avez sans doute vu les nagas de la mine de cristal ouest.&lt;BR&gt;&lt;BR&gt;Éliminez-les et dérobez-leur leurs armes et nous pourrons ensuite protéger cet endroit comme il se doit.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">Vous avez récupéré toutes les armes. Me voilà rassuré.&lt;BR&gt;&lt;BR&gt;Avec ces armes, nous allons pouvoir repousser les éventuels dangers.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">Nous manquons encore d'armes. Rapportez-m'en un peu plus.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[Lettre de Dougal]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; ! C'est moi, Dougal. &lt;BR&gt;Ici aussi, votre bravoure éveille une grande admiration. &lt;BR&gt;C'est pourquoi je souhaiterais vous présenter un endroit digne d'intérêt. &lt;BR&gt;Venez me trouver à Hautegarde si vous êtes intéressé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal vous a décrit le Champ de bataille souterrain.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Je suis parfaitement au fait de votre bravoure et de vos compétences. &lt;BR&gt;Je suis même certain que vous êtes largement à la hauteur. &lt;BR&gt;&lt;BR&gt;Les héros d'Arborea se sont secrètement associés pour créer un endroit où éprouver leurs forces.&lt;BR&gt;Il ne s'agit pas de faire s'affronter les membres d'une même fédération. Écoutez donc tout ce que j'ai à vous dire. &lt;BR&gt;&lt;BR&gt;Ne serait-ce pas formidable de pouvoir montrer aux autres guerriers ce dont vous êtes capable ? Eh bien, dans le &lt;b&gt;Champ de bataille souterrain&lt;/b&gt;, c'est possible. Les héros les plus puissants s'y retrouvent pour prouver leur valeur via une compétition !&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous ? Ne trépignez-vous pas d'impatience ? &lt;BR&gt;Voulez-vous vous rendre dans cet endroit ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Je le savais, &lt;PCNAME&gt; ! Je savais bien que cela piquerait votre curiosité ! &lt;BR&gt;Il ne peut en aller autrement pour quiconque aspire à la puissance. &lt;BR&gt;&lt;BR&gt;Mais pensez bien que de nombreux guerriers fougueux se réunissent dans le Champ de bataille souterrain et que les combats qu'ils s'y livrent peuvent donc être particulièrement acharnés. Vous devez donc soigneusement vous péparer.&lt;BR&gt;&lt;BR&gt;Je tiens à vous remettre ceci, en guise de cadeau de bienvenue. &lt;BR&gt;C'est un livre que j'apprécie moi-même fortement.&lt;BR&gt;Il vous sera très utile pour les combats qui font rage là-bas.</Page>
+    </Text>
+</QuestDialog>

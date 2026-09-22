@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="4">Les machines sont devenues folles&amp;nbsp;! D'abord, les épouvantails... et maintenant, les golems&amp;nbsp;! On dirait qu'ils ont été reprogrammés.&lt;BR&gt;&lt;BR&gt;Si vous me rapportez des &lt;font color='#660000'&gt;cœurs de pierre&lt;/font&gt; de {@LinkCreature:19#2003#golems moissonneurs sauvages} et de {@LinkCreature:19#2001#golems moissonneurs fous}, je pourrai vous en dire plus. Ces composants contiennent le programme qui les dirige. Si ce dernier a été modifié, nous le verrons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1036">
+        <Page social="4">Pas la moindre instruction. Ni le programme original, ni un nouveau... ils sont juste parfaitement vierges.&lt;BR&gt;&lt;BR&gt;Comment peuvent-ils fonctionner sans programme&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Plus de questions que de réponses, j'ai horreur de ça. En tout cas, merci de me les avoir apportés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1036">
+        <Page social="0">Si nous voulons découvrir le fin mot de l'histoire, je vais vraiment avoir besoin de ces cœurs.</Page>
+    </Text>
+</QuestDialog>

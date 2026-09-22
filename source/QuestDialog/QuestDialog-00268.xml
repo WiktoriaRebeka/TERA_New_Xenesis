@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Un de mes amis est mort au combat, il y a quelques jours de cela. Pour moi, c'est une tragédie, mais la guerre continue et le devoir nous appelle. Prendre le temps de pleurer nos morts est un luxe que nous ne pouvons nous offrir.&lt;BR&gt;&lt;BR&gt;Il m'est donc impossible d'aller prévenir sa femme, et elle est condamnée à rester dans l'ignorance.&lt;BR&gt;&lt;BR&gt;J'ai conscience de vous en demander beaucoup, mais pourriez-vous aller avertir {@LinkCreature:62#1023$$Wynne} pour moi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1023">
+        <Page social="4">Je vois... Et Tryphena ne pouvait pas me faire part de la nouvelle en personne&amp;nbsp;? J'apprécie sa "sollicitude".&lt;BR&gt;&lt;BR&gt;Enfin... Cela n'aurait rien changé. Merci... Et maintenant, s'il vous plaît... laissez-moi.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7005">
+        <Page social="0">Vous avez pris part au mini-jeu rodéo de porcidé de Tippani.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7005">
+        <Page social="4">On ne se lasse jamais du rodéo de porcidé&amp;nbsp;! Et aujourd'hui, un cadeau spécial attend le vainqueur&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;Lancer le mini-jeu rodéo de porcidé.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7005">
+        <Page social="0">Bien joué&amp;nbsp;! Mais vous ne pouvez décrocher qu'un cadeau par jour. Je vous en prie, revenez demain&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

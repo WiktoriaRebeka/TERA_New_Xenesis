@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="5">Nous préparons des quantités impressionnantes de bandages et voilà que les matériaux commencent à nous manquer. Vous n'auriez pas un peu de {@RawItem:206800} sous la main ?&lt;BR&gt;Non ? Vous pourriez m'en procurer ? Si vous trouvez un peu de {@RawItem:206800}, revenez me voir à toute vitesse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1011">
+        <Page social="5">Ca c'est un coup de main&amp;nbsp;! Voici un petit quelque chose pour vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1011">
+        <Page social="0">Je vous ai dit que nous allions tomber à court de Bandages&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

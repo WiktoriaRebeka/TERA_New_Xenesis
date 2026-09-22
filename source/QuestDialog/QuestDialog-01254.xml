@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1020">
+        <Page social="4">Bien que coupés de Kaiator, nous continuons tant bien que mal nos travaux de recherche.&lt;BR&gt;&lt;BR&gt;Nous devons comprendre la nature du cyasma pour déterminer son importance dans la logistique ennemie. Allez récupérer une demi-douzaine de cylindres et rapportez-les-nous.&lt;BR&gt;&lt;BR&gt;Merci d'avance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1020">
+        <Page social="4">Le cyasma est une substance riche en énergie.&lt;BR&gt;&lt;BR&gt;Son omniprésence en territoire ennemi démontre à quel point il joue un rôle important dans la vie des argons.&lt;BR&gt;&lt;BR&gt;Nous vous sommes très redevables.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1020">
+        <Page social="0">Vous trouverez des cylindres cyasma en quantité à l'extérieur de {@Rgn:76001}.</Page>
+    </Text>
+</QuestDialog>

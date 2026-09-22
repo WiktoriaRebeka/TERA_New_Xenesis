@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">Vous vous êtes assuré la reconnaissance de la Fédération Valkyon en éliminant les devans fuyards et les descendants de Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Nous ne devrions pas nous contenter de cette maigre victoire. Nous ne savons pas quand les descendants de Lok vont resurgir. Nous ne pouvons donc pas encore nous passer du soutien de la fédération. De plus, il faut répandre partout le récit de vos exploits à Crescentia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Voici un rapport concernant Crescentia. &lt;BR&gt;&lt;BR&gt;Vos faits d'armes y sont également mentionnés. &lt;BR&gt;Velika va maintenant être en mesure de dénicher les forces qui tirent les ficelles dans l'ombre et menacent le sud d'Arun. &lt;BR&gt;&lt;BR&gt;Vous pouvez compter sur une généreuse récompense. &lt;BR&gt;Merci de votre aide !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">(Dougal lit le rapport de Jodoc.)&lt;BR&gt;&lt;BR&gt;D'après ces documents, vous avez réalisé des exploits prodigieux ! Vous avez éliminé les devans fuyards et les descendants de Lok. &lt;BR&gt;Vous avez presque entièrement écarté la menace du sud d'Arun. &lt;BR&gt;&lt;BR&gt;Samael a beau ne pas être très impressionnable, il sera certainement enchanté de vos faits d'armes. Et dire que vous venez tout juste de rejoindre la Fédération Valkyon ! C'est vraiment remarquable ! &lt;BR&gt;&lt;BR&gt;Bref, allez-y. Amenez-lui le rapport.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Qu'est-ce que c'est ?&lt;BR&gt;&lt;BR&gt;(Le rapport de Jodoc semble surprendre Samael.)&lt;BR&gt;&lt;BR&gt;Qui aurait cru que les devans fuyards s'allieraient aux descendants de Lok ?! Apparemment, vous n'êtes pas l'imposteur pour lequel je vous prenais. Je vous ai sous-estimé.&lt;BR&gt;&lt;BR&gt;(Samael reste brièvement silencieux.)&lt;BR&gt;&lt;BR&gt;Bien joué. Vous êtes décidément fort capable. Nous apprécions ce que vous avez fait pour nous. Vos services seront récompensés à leur juste valeur.&lt;BR&gt;&lt;BR&gt;Allez donc attendre sur l'Escalier de Velik. Je vais vous remettre une récompense à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1137">
+        <Page social="0">Vous avez un rapport à me présenter ? Sinon, disparaissez !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1138">
+        <Page social="4" voiceTypeId="0">Ah, vous voilà, &lt;PCNAME&gt;.&lt;BR&gt;Commençons la cérémonie.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1138">
+        <Page social="4" voiceTypeId="0">Je vous donne un destrier volant.&lt;BR&gt;&lt;BR&gt;C'est un peu plus que ce que vous méritez pour la destruction de la base secrète des descendants de Lok...&lt;BR&gt;&lt;BR&gt;Mais il vous sera utile pour vos missions futures. &lt;BR&gt;&lt;BR&gt;Continuez à tout donner !</Page>
+    </Text>
+</QuestDialog>

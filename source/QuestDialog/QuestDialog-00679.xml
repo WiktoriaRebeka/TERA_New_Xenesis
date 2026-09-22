@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="5">Vous n'avez pas l'air du genre à... vous poser des problèmes moraux. Ça vous dit de gagner un joli paquet d'or&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les kumas portent un collier orné d'un énorme cristal. Et j'ai des arcanistes qui en veulent un et qui sont prêts à payer un tas de pièces d'or. Si vous tuez un {@LinkCreature:24#9#kumas de foudre du désert} et que vous me rapportez le cristal, je serai très généreux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1021">
+        <Page social="5">Quelle pierre&amp;nbsp;! C'est un plaisir de faire affaire avec vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1021">
+        <Page social="0">Allons, vous n'allez pas me dire que vous n'avez pas été capable de trouver un kumas grand comme une maison&amp;nbsp;? Dépêchez-vous de me rapporter ce collier&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tamur n'a pas l'air au mieux. Nous devrions lui demander ce qui se passe.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le Mysterium emploie aussi quelques chercheurs auprès des Trois tours. Vous avez fait progresser les recherches d'Adeldur et avez aidé la troupe de reconnaissance qui cherchait des personnes disparues dans la région.&lt;BR&gt;Vous avez lu le journal d'un disparu que Sleitak vous avait remis. Vous y avez découvert une liste mentionnant une personne qui pourrait bien être Yasring. Sous la direction de Greyden, le commandant de la troupe de reconnaissance, vous avez continué les recherches auprès des {@Rgn:9012001$$Aiguilles des Trois tours}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="1" villagerId="5005">
+        <Page social="10" voiceTypeId="0">&lt;PCNAME&gt;, avez-vous entendu parler des Trois tours dans la Forteresse de la servitude ? Les argons les ont érigées après avoir conquis le nord de Shara. La Fédération Valkyon considère ces tours comme une ligne de front vitale.&lt;BR&gt;&lt;BR&gt;Suite à la résurrection avortée de Kelsaik, les argons ont soudain battu en retraite et les chercheurs du Mysterium et la fédération ont réussi à reprendre du terrain.&lt;BR&gt;&lt;BR&gt;Mais apparemment, ils ont besoin d'aide.&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est une lettre du Mysterium.&lt;BR&gt;Ils souhaitent que vous veniez auprès des Trois tours.&lt;BR&gt;Lisez vous-même.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="10" voiceTypeId="0">Le technicien qui s'est enfui de la fournaise divine ne s'est pas encore réveillé.&lt;BR&gt;&lt;BR&gt;Qu'à cela ne tienne, si nous voulons gagner la guerre argonne, nous devons en savoir plus sur les argons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, allez auprès des Trois tours et adressez-vous à Adeldur.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="4" villagerId="2001">
+        <Page social="10" voiceTypeId="0">C'est donc vous, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Nous devons saisir l'aubaine et nous concentrer immédiatement sur les recherches.&lt;BR&gt;&lt;BR&gt;Je vous ai fait appeler car vous avez la confiance de la Mystique Yasring.&lt;BR&gt;&lt;BR&gt;Les argons qui surveillent cet endroit ont certes réduit leurs défenses, mais la tour elle-même est également argonne. Notre infiltration était donc très risquée.&lt;NEXTPAGEBUTTON&gt;"La tour est argonne ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aha, quelle curiosité !&lt;BR&gt;Les argons se confondent et prennent une nouvelle forme.&lt;BR&gt;Je suis en train d'étudier ce phénomène.&lt;BR&gt;&lt;BR&gt;Or, je commence à être sûr de moi.&lt;BR&gt;&lt;BR&gt;Nous pourrons peut-être empêcher le monde entier d'être argonisé.&lt;BR&gt;&lt;BR&gt;Mais le seul moyen de trouver une parade ou un antidote est de faire les recherches ici, en plein territoire argon.&lt;BR&gt;Pourriez-vous l'explorer pour moi ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Je le savais ! Notre théorie principale est que les argons utilisent l'énergie vitale pour construire et alimenter ces tours.&lt;BR&gt;&lt;BR&gt;Nous en avons enfin trouvé la preuve. Cependant, les recherches doivent continuer.&lt;BR&gt;&lt;BR&gt;Vous n'auriez pas croisé Yasring dans les tours, par hasard ?&lt;NEXTPAGEBUTTON&gt;"Malheureusement pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vois. Elle s'éloigne constamment toute seule. Il en devient difficile d'obtenir ses informations.&lt;BR&gt;&lt;BR&gt;J'espérais la rencontrer ici.&lt;BR&gt;&lt;BR&gt;Je n'ai plus eu de nouvelles d'elle depuis bien longtemps. Je commence à m'inquiéter.&lt;BR&gt;&lt;BR&gt;J'espère que l'équipe de recherche pourra bientôt nous en dire plus à son sujet.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2002">
+        <Page social="1" voiceTypeId="0">Je suis à la recherche de personnes disparues. La guerre m'est encore étrangère, mais j'ai rejoint les éclaireurs parce que ma famille est concernée.&lt;BR&gt;&lt;BR&gt;Les soldats chevronnés sont déjà tous déployés au front et il ne reste que nous, les novices. Nous ne sommes ni capables de trouver les disparus, ni de tenir tête aux argons.&lt;BR&gt;&lt;BR&gt;De plus, certains des éclaireurs qui cherchaient les éclaireurs manquants ont également disparu. J'ai tout juste réussi à m'enfuir.&lt;BR&gt;&lt;BR&gt;Vous cherchez quelqu'un ?&lt;NEXTPAGEBUTTON&gt;"Avez-vous déjà rencontré Yasring ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hum...&lt;BR&gt;Vous pouvez consulter notre registre.&lt;BR&gt;&lt;BR&gt;Il n'est pas encore tout à fait complet, mais il contient une entrée pour toutes les personnes que nous avons sauvées ou que nous cherchons encore.&lt;BR&gt;Ce serait déjà un bon début, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2002">
+        <Page social="1" voiceTypeId="0">Vous cherchez quelqu'un ?&lt;BR&gt;Alors vous devriez vous dépêcher.&lt;BR&gt;&lt;BR&gt;D'autres éclaireurs ont perdu la vie en cherchant les disparus.&lt;BR&gt;&lt;BR&gt;Nous utilisons un appareil spécial qui nous permet de remonter nos pas.&lt;BR&gt;&lt;BR&gt;Suivez les traces de pas et vous finirez bien par les trouver.&lt;BR&gt;&lt;BR&gt;Ramenez leurs insignes au commandant.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2003">
+        <Page social="0" voiceTypeId="0">Ah bon... Voilà pourquoi les membres ne se sont pas montrés.&lt;BR&gt;&lt;BR&gt;Merci beaucoup. Des argons ont attaqué les éclaireurs qui cherchaient les personnes disparues. &lt;BR&gt;&lt;BR&gt;Les argons ont déjà coûté la vie à un grand nombre de nos camarades.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="2003">
+        <Page social="0">Secourez tous ceux qui peuvent encore l'être.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="2003">
+        <Page social="10" voiceTypeId="0">Malheureusement, le registre est incomplet. Nous n'avons pas d'informations sur les niveaux inférieurs, car c'est bien trop dangereux, là-dessous.&lt;BR&gt;&lt;BR&gt;Toute aide est la bienvenue.&lt;NEXTPAGEBUTTON&gt;"Je ferai mon possible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Merci beaucoup ! &lt;BR&gt;La troupe de reconnaissance se trouve au dernier sous-sol.&lt;BR&gt;Merci d'y aller lui prêter main-forte.&lt;BR&gt;&lt;BR&gt;{@linkcreature:246#2004#Greyden}, le capitaine de la troupe de reconnaissance, pourra vous en dire plus.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" prevId="11" villagerId="2004">
+        <Page social="4" voiceTypeId="0">Bonjour. Je m'appelle {@linkcreature:246#2004#Greyden}, commandant de la troupe de reconnaissance.&lt;BR&gt;&lt;BR&gt;Je suis tombé sur cette salle inconnue en cherchant les disparus.&lt;BR&gt;Ne perdons surtout pas de temps. Sleitak m'a déjà parlé de vous.&lt;BR&gt;&lt;BR&gt;Nous ferions bien de n'y aller tout d'abord qu'à deux. Sans quoi, nous risquons d'être à l'étroit.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;[Vous ne pouvez pas rejoindre ce donjon à plusieurs.]&lt;/font&gt;</Page>
+    </Text>
+</QuestDialog>

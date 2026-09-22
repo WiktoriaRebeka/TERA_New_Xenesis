@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">Ça fait un moment que je suspecte les ténébraras. J'ai envoyé un éclaireur garder un œil sur eux au cas où.&lt;BR&gt;&lt;BR&gt;Allez à la rencontre de Pastin et demandez-lui ce qui se passe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1028">
+        <Page social="5">Hmm&amp;nbsp;? Oh, Tarnan vous envoie aux nouvelles&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien, j'observe ces prêtres de Ténébrara depuis plusieurs jours. Ils ont passé leur temps à pratiquer la magie... jeter des sorts. Certains ont l'air épuisés.&lt;BR&gt;&lt;BR&gt;J'ignore quelles sont leurs motivations, mais je pense que leurs sorts sont à l'origine du changement de comportement de la faune locale. Nous devons couper court à leurs manigances.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1028">
+        <Page social="10">Ils ont dû vous donner du fil à retordre. Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maintenant que nous avons réglé ce problème de sorts, nous allons devoir découvrir pourquoi les ténébraras ont décidé de s'en prendre à nous.&lt;BR&gt;&lt;BR&gt;Cherchez des documents dans l'enceinte de leur base. Voyez si vous pouvez obtenir des informations.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1111">
+        <Page social="1">(Un parchemin est rangé dans ce coffre.)&lt;NEXTPAGEBUTTON&gt;Lire le parchemin&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2">(Sur le parchemin, on peut lire&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Thulsa ne vous a pas abandonnés, mais votre affaiblissement prête à conséquences.&lt;BR&gt;&lt;BR&gt;Vous devez vous regrouper et reprendre des forces avant de pouvoir envisager la suite.&lt;BR&gt;&lt;BR&gt;- Killian)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="236" prevId="5" villagerId="1028">
+        <Page social="9">Killian&amp;nbsp;? Il doit avoir trouvé un moyen de rallier les chefs des ténébraras à sa cause. Ça explique tout.&lt;BR&gt;&lt;BR&gt;Malheureusement, ça signifie également que la situation est plus grave encore que je ne le pensais.&lt;BR&gt;&lt;BR&gt;Pouvez-vous aller avertir Tarnan&amp;nbsp;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="236" prevId="6" villagerId="1004">
+        <Page social="10">Killian&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, mauvaises nouvelles. Je dois immédiatement prévenir Melrasa.&lt;BR&gt;&lt;BR&gt;Merci... sans vous, nous ignorerions encore tout de cette... catastrophe en devenir.</Page>
+    </Text>
+</QuestDialog>

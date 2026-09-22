@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="5">C'est Dirken qui vous envoie&amp;nbsp;? J'y crois moyennement.&lt;BR&gt;&lt;BR&gt;Sauf votre respect, &lt;PCCLASS:lcase&gt;, vous ne m'avez pas l'air d'être le genre de personne à laquelle Dirken ferait appel. Vos mains sont trop propres.&lt;BR&gt;&lt;BR&gt;Allez donc vous les salir un peu en massacrant quelques {@LinkCreature:12#2#kamaras bais} et {@LinkCreature:12#3#rôdeurs arachnéens}. Ensuite, nous pourrons discuter. Peu importe pour qui vous travaillez&amp;nbsp;; une plage propre, tout le monde aime ça, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="5">Vous avez nettoyé cette plage comme je vous l'avais demandé.&lt;BR&gt;&lt;BR&gt;J'avoue que dans le genre obéissance aveugle, vous vous posez là, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Je reviens sur ce que j'ai dit&amp;nbsp;; une personne aussi disciplinée que vous peut tout à fait travailler pour Dirken. Dans son équipage, les libres penseurs et les mutins ont une espérance de vie très limitée.</Page>
+    </Text>
+</QuestDialog>

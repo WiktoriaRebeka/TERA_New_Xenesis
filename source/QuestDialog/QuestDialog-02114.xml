@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Nous avons une cible disponible dans les {@Rgn:9018001$$Catacombes argones}. Allez à sa rencontre.&lt;BR&gt;&lt;BR&gt;Parlez à {@LinkCreature:418#2003#Arigma}, il saura vous aider à la trouver.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Il y a deux commandants argons là-dessous. Ils sont prudents, mais nous pouvons anticiper leurs mouvements.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à tuer l'un d'entre eux, cela devrait désorganiser les argons et nous aurons une chance de prendre l'avantage.&lt;BR&gt;&lt;BR&gt;Bonne chance. Nous comptons sur vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Oh, j'aurais bien voulu voir ça. Réussir à tuer une cible de choix comme celle-ci, ça ne s'oublie pas.&lt;BR&gt;&lt;BR&gt;Bien joué, &lt;PCNAME&gt;. Le Shariar chantera ce jour glorieux. A tue-tête, et le godet rempli.</Page>
+    </Text>
+</QuestDialog>

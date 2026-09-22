@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="5">Vous en avez fait beaucoup pour nous et nous vous en sommes extrêmement reconnaissants, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Si nous le pouvions, nous vous demanderions de rester à nos côtés, mais ce serait injuste pour les autres. Les troupes de l'Avant-poste de l'Epine ardente ont grand besoin d'aide. Il s'agit d'une base temporaire établie par les soldats revenant de la Vallée de la mort.&lt;NEXTPAGEBUTTON&gt;"Je vais voir ce que je peux faire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Génial&amp;nbsp;! Le chemin menant à l'avant-poste est envahi par les gardiens des runes du désert.&lt;BR&gt;&lt;BR&gt;Voyez si vous pouvez en éliminer quelques-uns en cours de route.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1005">
+        <Page social="5">C'est vous qu'Elenea nous envoie en renfort&amp;nbsp;? Merci d'être {@gender:venu/venue}.&lt;BR&gt;&lt;BR&gt;Nous sommes à bout de forces et notre moral est au plus bas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="4">Thulsa était extrêmement méfiant. Il aura pris soin de dissimuler le téléportail. Allez voir Jerad et, ensemble, tâchez de trouver ce téléportail.&lt;BR&gt;&lt;BR&gt;N'oubliez pas&amp;nbsp;: personne ne doit être mis au courant, pas même les Elfes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1448">
+        <Page social="4">Thulsa était un dieu, mais pas exactement un maître du camouflage.&lt;BR&gt;&lt;BR&gt;Je peux réactiver le téléportail que Thulsa employait pour se rendre dans la Galerie de Sirjuka, mais je vais devoir le faire depuis le Laboratoire de Malachai.&lt;BR&gt;&lt;BR&gt;Je vais remettre le téléportail en fonction, mais attention&amp;nbsp;: je ne saurais dire quels types de pièges Thulsa a pris soin d'installer de l'autre côté.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="428" prevId="3" villagerId="1017">
+        <Page social="4">Le téléportail est prêt. Vous allez avoir la chance de contempler le passé de la civilisation elfique.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1448">
+        <Page social="4">Le téléportail menant à la Galerie de Sirjuka est opérationnel.&lt;BR&gt;&lt;BR&gt;Rendez-vous sur place et trouvez comment Thulsa comptait s'y prendre pour diviser la puissance du Noyau.</Page>
+    </Text>
+</QuestDialog>

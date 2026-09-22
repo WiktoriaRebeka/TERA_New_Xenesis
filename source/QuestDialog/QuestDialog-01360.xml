@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="4">Nous commençons à manquer de provisions, et manifestement, nous ne sommes pas près de recevoir du ravitaillement. Enfin, pas tant que nous serons cernés par l'ennemi.&lt;BR&gt;&lt;BR&gt;Pourtant, il y a bien du ravitaillement qui circule, dans le coin.&lt;BR&gt;&lt;BR&gt;Simplement, ce n'est pas le nôtre.&lt;BR&gt;&lt;BR&gt;Allez donc réquisitionner de force une partie des fournitures destinées aux troupes de Thulsa, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1011">
+        <Page social="4">Ces fournitures nous seront d'une aide précieuse. Si Thulsa continue d'en envoyer et qu'on s'en empare à chaque fois, nous pourrons tenir indéfiniment&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1011">
+        <Page social="0">L'idée d'employer l'équipement des morts-vivants me répugne, mais quand on est dans notre situation, on ne fait pas la fine bouche, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="4">Le climat local est déjà difficile à supporter, et maintenant, nous devons composer avec une invasion de spectres vengeurs et de farfadets osseux attachés appartenant à l'armée de Thulsa.&lt;BR&gt;&lt;BR&gt;Leurs cris nous font perdre le sommeil, et les villageois vont finir par céder à la panique.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, rapportez-moi les cristaux qui semblent les animer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1029">
+        <Page social="4">Bon travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maintenant, les villageois vont pouvoir fermer l'œil.&lt;BR&gt;&lt;BR&gt;Et c'est grâce à vous, &lt;PCNAME&gt;. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1029">
+        <Page social="0">Ce sont ces cristaux qui semblent animer les spectres et les farfadets. Emparez-vous des cristaux et exterminez les morts-vivants... c'est aussi simple que ça.</Page>
+    </Text>
+</QuestDialog>

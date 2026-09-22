@@ -1,0 +1,1929 @@
+<StrSheet_Npc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc">
+    <String id="1" string="Dialogue" />
+    <String id="2" string="Quête" />
+    <String id="3" string="Magasin" />
+    <String id="4" string="Banque" />
+    <String id="5" string="Créer une guilde" />
+    <String id="6" string="Apprendre des compétences" />
+    <String id="7" string="Quêtes disponibles" />
+    <String id="8" string="Poste" />
+    <String id="9" string="Accéder à l'hôtel des ventes" />
+    <String id="11" string="Amélioration d'objets" />
+    <String id="12" string="Rejoindre la destination" />
+    <String id="13" string="Enregistrement du candidat" />
+    <String id="14" string="Politique" />
+    <String id="15" string="Taxes" />
+    <String id="16" string="Ouvrir incubateur" />
+    <String id="17" string="Equiper le familier" />
+    <String id="18" string="Artisanat" />
+    <String id="19" string="Téléportation" />
+    <String id="20" string="Gérer le château céleste" />
+    <String id="21" string="Voir la liste de groupes de combat" />
+    <String id="22" string="Taxe" />
+    <String id="23" string="Téléportation" />
+    <String id="24" string="Échange de médailles" />
+    <String id="25" string="Montée de niveau de la guilde" />
+    <String id="26" string="Accepter Aura de bravoure" />
+    <String id="27" string="Restaurer endurance" />
+    <String id="28" string="Accéder à l'hôtel des ventes" />
+    <String id="29" string="Réinitialiser les points" />
+    <String id="30" string="Agrandir l'inventaire" />
+    <String id="31" string="Emblème de guilde" />
+    <String id="32" string="Liste de missions terminée" />
+    <String id="33" string="Remanier équipement" />
+    <String id="34" string="Restaurer l'apparence de l'équipement" />
+    <String id="35" string="Banque de guilde" />
+    <String id="36" string="Point politique" />
+    <String id="37" string="Soigner les PV" />
+    <String id="38" string="Restaurer les PM" />
+    <String id="39" string="Restaurer PV et PM" />
+    <String id="40" string="Restaurer PV et PM" />
+    <String id="41" string="Téléportation" />
+    <String id="42" string="Inventaire personnel" />
+    <String id="43" string="Boutique de points politiques" />
+    <String id="44" string="Retirer le drapeau" />
+    <String id="45" string="Informations de l'alliance" />
+    <String id="46" string="Rejoindre le Collectif de libre Échange" />
+    <String id="47" string="Rejoindre l'Union des Éclairés" />
+    <String id="48" string="Rejoindre l'Ordre de Fer" />
+    <String id="49" string="Quitter l'alliance" />
+    <String id="50" string="Organiser l'alliance" />
+    <String id="51" string="Se présenter comme candidat au poste d'Exarque" />
+    <String id="52" string="Affecter le Magasin de spécialités" />
+    <String id="53" string="Pouvoirs de l'Exarque" />
+    <String id="54" string="Distribuer des Points politiques" />
+    <String id="55" string="Distribuer des Fonds d'activité" />
+    <String id="56" string="Essayer l'enchantement" />
+    <String id="57" string="Collecter les taxes" />
+    <String id="58" string="Modifier les chances de l'enchanteur" />
+    <String id="59" string="En route pour le crépuscule" />
+    <String id="60" string="Magasin de points de champ de bataille" />
+    <String id="61" string="Recherche d'instances" />
+    <String id="62" string="Ajuster l'avantage d'enchantement" />
+    <String id="63" string="Pari monstrueux" />
+    <String id="64" string="Rédiger un message" />
+    <String id="66" string="Apogée" />
+    <String id="67" string="Retourner à la ville proche" />
+    <String id="68" string="Enchantement d'apogée" />
+    <String id="78" string="Drapeau de guilde" />
+    <String id="79" string="Vous téléporte dans votre château céleste" />
+    <String id="81" string="Téléportation" />
+    <String id="82" string="Donjon des épreuves" />
+    <String id="83" string="Réserve de costumes" />
+    <String id="84" string="Consulter la liste de la Tablette du souvenir" />
+    <String id="85" string="Afficher le classement de la guerre de guilde" />
+    <String id="86" string="Participer à la guerre de guilde" />
+    <String id="87" string="Vérifier le budget d'État actuel" />
+    <String id="88" string="Magasin de guilde" />
+    <String id="89" string="Participer au quiz OX" />
+    <String id="90" string="Quittez le quiz OX" />
+    <String id="95" string="Retour à l'entrée" />
+    <String id="96" string="Fabrication d'équipement mythique" />
+    <String id="100" string="Acheter des cristaux" />
+    <String id="110" string="Acheter des cristaux" />
+    <String id="111" string="Échange de matériaux magiques" />
+    <String id="120" string="Objets GcG" />
+    <String id="130" string="Acheter des familiers" />
+    <String id="140" string="Obtenir des moulages de glaives en cuivre" />
+    <String id="141" string="Boutique de Bellicarium" />
+    <String id="142" string="Magasin" />
+    <String id="143" string="Echanger un insigne d'Hivera" />
+    <String id="144" string="Boutique du Champ de bataille" />
+    <String id="151" string="Réclamer des récompenses de soutien" />
+    <String id="152" string="Réclamer des récompenses de progression" />
+    <String id="153" string="Réclamer des récompenses de dévouement" />
+    <String id="154" string="Réclamer des récompenses de lignes de front" />
+    <String id="160" string="Acheter des articles généraux" />
+    <String id="161" string="Acheter des articles généraux" />
+    <String id="170" string="Magasin de guilde" />
+    <String id="171" string="Accessoires de mariage" />
+    <String id="180" string="Livraison de poisson" />
+    <String id="181" string="Livraison de caisses de poisson" />
+    <String id="182" string="Livraison spéciale d'articles de pêche de Glenn" />
+    <String id="190" string="Magasin d'anoblissement" />
+    <String id="191" string="Magasin de raffinage" />
+    <String id="192" string="Magasin d'eaux-fortes" />
+    <String id="193" string="Magasin d'alchimie" />
+    <String id="194" string="Boutique de maître" />
+    <String id="210" string="Acheter une armure" />
+    <String id="211" string="Acheter une arme" />
+    <String id="221" string="Armes de mêlée avec insigne de soutien" />
+    <String id="222" string="Armes de mêlée avec insigne de progression" />
+    <String id="223" string="Armes de mêlée avec insigne de dévouement" />
+    <String id="224" string="Armes de mêlée avec insigne de ligne de front" />
+    <String id="231" string="Arme à distance avec insigne de soutien" />
+    <String id="232" string="Arme à distance avec insigne de progression" />
+    <String id="233" string="Arme à distance avec insigne de dévouement" />
+    <String id="234" string="Arme à distance avec insigne de ligne de front" />
+    <String id="240" string="Boutique de matériaux pour teintures" />
+    <String id="250" string="Magasin de spécialités" />
+    <String id="251" string="Magasin de vainqueur" />
+    <String id="260" string="Magasin d'objets d'apparence" />
+    <String id="270" string="Obtenir des insignes de l'ancien méandre" />
+    <String id="271" string="Obtenir des insignes d'épreuve" />
+    <String id="272" string="Obtenir des insignes nécrotiques" />
+    <String id="273" string="Obtenir des insignes de dualité" />
+    <String id="274" string="Obtenir des insignes eldritch" />
+    <String id="275" string="Obtenir des insignes d'entraînement" />
+    <String id="276" string="Échanger des fragments brisés de Shandra" />
+    <String id="277" string="Échanger des fragments complets de Shandra" />
+    <String id="280" string="Obtenir le justificatif de défi" />
+    <String id="281" string="Obtenir le cadeau de Yoki" />
+    <String id="282" string="Obtenir le cadeau de Shan" />
+    <String id="283" string="Obtenir le cadeau de Nepir" />
+    <String id="286" string="Modes luxueuses" />
+    <String id="287" string="Modes élégantes" />
+    <String id="288" string="Modes branchées" />
+    <String id="289" string="Modes fantastiques" />
+    <String id="290" string="Echange de matières premières" />
+    <String id="291" string="Insignes grippe-sou" />
+    <String id="292" string="Boutique de bons de mode" />
+    <String id="293" string="Echanger des Médailles d'Or" />
+    <String id="294" string="Echanger des Lettres d'Or" />
+    <String id="295" string="Boutique du Jour blanc" />
+    <String id="296" string="Boutique du Jour noir" />
+    <String id="297" string="Magasin d'échange pour les tampons de présence" />
+    <String id="298" string="Boutique d'échange lettre d'or II" />
+    <String id="299" string="Boutique de bons d'avoir de miles" />
+    <String id="300" string="Magasin de spécialités" />
+    <String id="302" string="Magasin d'échange pour les combattants noirs" />
+    <String id="303" string="Magasin d'échange pour les combattants bleus" />
+    <String id="304" string="Magasin d'échange pour les combattants rouges" />
+    <String id="305" string="Insigne grippe-sou" />
+    <String id="306" string="Boutique lettre d'or" />
+    <String id="308" string="Boutique de bons d'avoir de miles saison 2" />
+    <String id="310" string="Échange des insignes du Practicum" />
+    <String id="311" string="Échange des insignes terribles" />
+    <String id="312" string="Échange des insignes terribles" />
+    <String id="314" string="Echange d'insignes de Valkyon" />
+    <String id="315" string="Échanger des tikats" />
+    <String id="316" string="Magasin" />
+    <String id="317" string="Magasin" />
+    <String id="318" string="Magasin" />
+    <String id="319" string="Magasin" />
+    <String id="320" string="Magasin" />
+    <String id="321" string="Magasin" />
+    <String id="322" string="Magasin" />
+    <String id="323" string="Magasin" />
+    <String id="324" string="Magasin" />
+    <String id="325" string="Magasin" />
+    <String id="326" string="Magasin" />
+    <String id="327" string="Magasin" />
+    <String id="328" string="Échanger {@RawItem:45312}" />
+    <String id="329" string="Échanger cheveux de Downy" />
+    <String id="330" string="Échanger des plumes d'Arkai" />
+    <String id="331" string="Accessoires" />
+    <String id="332" string="Accessoires rares" />
+    <String id="333" string="Montures et familiers" />
+    <String id="334" string="Echange de tickets spéciaux" />
+    <String id="335" string="Echange du Festival de la Pleine lune" />
+    <String id="336" string="Echange de l'évènement" />
+    <String id="337" string="Echange d'insignes de Banyakas" />
+    <String id="338" string="Echange de ticket de l'évènement d'octobre" />
+    <String id="339" string="Echange d'équipement du conquérant" />
+    <String id="340" string="Echange de sucettes sucrées" />
+    <String id="341" string="Echange de gemmes spéciales du conquérant" />
+    <String id="342" string="Echange de gemmes spéciales du conquérant" />
+    <String id="343" string="Echange de cristaux de l'unité spéciale d'Helkan" />
+    <String id="344" string="Echange de bijoux du retour du héros" />
+    <String id="345" string="4e anniversaire : échange de pièces d'Elin" />
+    <String id="347" string="Échange de pièces d'or" />
+    <String id="348" string="Échange d'insigne du gentleman dandy" />
+    <String id="349" string="Échange d'Essence d'Arken" />
+    <String id="350" string="Eau-forte d'arme" />
+    <String id="351" string="Eau-forte de gant" />
+    <String id="352" string="Eau-forte d'armure" />
+    <String id="353" string="Eau-forte de chaussure" />
+    <String id="354" string="Échange de la Saint-Valentin 2015" />
+    <String id="355" string="Échange de boîte de récompense d'utilisateur existant" />
+    <String id="356" string="Échange d'avatar des festivités de l'Artilleuse" />
+    <String id="357" string="Échange du Jour blanc 2015" />
+    <String id="358" string="Boutique d'échange de la Lettre dorée" />
+    <String id="359" string="[Évènement] Échange de rubis" />
+    <String id="360" string="Échange de délestage d'objet 2015" />
+    <String id="361" string="Échange de nécessaire de pionniers" />
+    <String id="362" string="Échange d'insigne du héros" />
+    <String id="363" string="Échange d'essences de Banyakas 2015" />
+    <String id="364" string="Boutique de vétérans d'Elion" />
+    <String id="365" string="Échange des cartes dorées de mai" />
+    <String id="366" string="Échange des cartes secrètes de Durian" />
+    <String id="367" string="Boutique de bons de connexion" />
+    <String id="368" string="" />
+    <String id="369" string="" />
+    <String id="370" string="Chasseur d'ombre&amp;nbsp;: Boutique d'échange de casier à armes" />
+    <String id="371" string="" />
+    <String id="372" string="Pack VIP : boutique d'échange d'armes de Bourrask (1 mois)" />
+    <String id="373" string="Pack VIP : boutique d'échange d'armes de Bourrask (3 mois)" />
+    <String id="374" string="Pack VIP : boutique d'échange de costumes pour Bourrask (1 mois)" />
+    <String id="375" string="Pack VIP : boutique d'échange de costumes pour Bourrask (3 mois)" />
+    <String id="376" string="Boutique d'échange de promotions" />
+    <String id="377" string="Boutique d'échange de promotions" />
+    <String id="378" string="Boutique d'échange de caisses de l'Île délaissée" />
+    <String id="379" string="" />
+    <String id="381" string="Échange de bons de cybercafé" />
+    <String id="382" string="" />
+    <String id="383" string="" />
+    <String id="384" string="Échange des cartes secrètes de Durian" />
+    <String id="385" string="" />
+    <String id="386" string="" />
+    <String id="387" string="" />
+    <String id="388" string="" />
+    <String id="389" string="" />
+    <String id="390" string="" />
+    <String id="391" string="" />
+    <String id="392" string="" />
+    <String id="393" string="" />
+    <String id="394" string="" />
+    <String id="397" string="" />
+    <String id="398" string="" />
+    <String id="399" string="" />
+    <String id="400" string="Boutique d'échange de gages d'amitié" />
+    <String id="401" string="Boutique d'échange d'équipement du Cuirassé" />
+    <String id="402" string="" />
+    <String id="403" string="" />
+    <String id="404" string="[Évènement] Boutique d'échange de nivéots de pleine lune" />
+    <String id="405" string="[Évènement] Boutique d'échange de Montori" />
+    <String id="406" string="" />
+    <String id="407" string="" />
+    <String id="408" string="" />
+    <String id="409" string="" />
+    <String id="510" string="Dépenser les talents d'argent" />
+    <String id="511" string="Dépenser les talents d'or" />
+    <String id="512" string="Dépenser les talents d'or" />
+    <String id="513" string="Magasin" />
+    <String id="514" string="Magasin" />
+    <String id="515" string="Magasin" />
+    <String id="600" string="Boutique du colporteur" />
+    <String id="609" string="Provisions de l'avant-garde" />
+    <String id="1001" string="Précédent" />
+    <String id="1002" string="Suivant" />
+    <String id="1003" string="Annuler" />
+    <String id="1111" string="Matériaux d'équipement" />
+    <String id="1201" string="Articles généraux" />
+    <String id="1301" string="Familiers" />
+    <String id="1302" string="Entraînement de familier" />
+    <String id="1401" string="Armes" />
+    <String id="1402" string="Armure" />
+    <String id="1403" string="Accessoires" />
+    <String id="1404" string="Ravitaillement" />
+    <String id="1411" string="Équipement de Lynch" />
+    <String id="1412" string="Équipement d'Eufonie" />
+    <String id="1413" string="Équipement du mur d'acier" />
+    <String id="1414" string="Divers" />
+    <String id="1431" string="Matériau d'enchantement" />
+    <String id="1432" string="Consommable" />
+    <String id="1433" string="Spécial" />
+    <String id="1441" string="Arme" />
+    <String id="1442" string="Armure" />
+    <String id="1443" string="Glyphes" />
+    <String id="1511" string="Armes" />
+    <String id="1512" string="Armure" />
+    <String id="1521" string="Armes" />
+    <String id="1522" string="Armure" />
+    <String id="1531" string="Armes" />
+    <String id="1532" string="Armure" />
+    <String id="1541" string="Armes" />
+    <String id="1542" string="Armure" />
+    <String id="1551" string="Consommable" />
+    <String id="1601" string="Articles généraux" />
+    <String id="1602" string="Combat" />
+    <String id="1603" string="Leçons d'extraction" />
+    <String id="1604" string="Parchemins" />
+    <String id="1605" string="Canne à pêche" />
+    <String id="1606" string="Appât spécial" />
+    <String id="1607" string="Plan d'appât collant" />
+    <String id="1608" string="Plan de paquet de livraison" />
+    <String id="1609" string="Articles de pêche" />
+    <String id="1610" string="Parchemin de téléportation : site de pêche" />
+    <String id="1611" string="Ingrédients de cuisine et livres" />
+    <String id="1612" string="Plan de cuisine" />
+    <String id="1701" string="Plan de construction" />
+    <String id="1711" string="Articles généraux" />
+    <String id="1801" string="Matériau de fabrication" />
+    <String id="1811" string="Matériau de fabrication" />
+    <String id="1821" string="Matériau de fabrication" />
+    <String id="1831" string="Matériau de fabrication" />
+    <String id="1901" string="Matériaux et livres" />
+    <String id="1902" string="Plan de matériaux d'enchantement" />
+    <String id="1903" string="Plans divers" />
+    <String id="1904" string="Plan d'outil de collecte" />
+    <String id="1911" string="Matériaux et livres" />
+    <String id="1912" string="Plan de matériaux d'enchantement" />
+    <String id="1913" string="Plan de raffinage de cristal" />
+    <String id="1914" string="Plans divers" />
+    <String id="1921" string="Matériaux et livres" />
+    <String id="1922" string="Plan de pierre naturelle" />
+    <String id="1923" string="Plan d'eau-forte : arme/armure" />
+    <String id="1924" string="Plan d'eau-forte : accessoires" />
+    <String id="1931" string="Matériaux et livres" />
+    <String id="1932" string="Plan de gemme" />
+    <String id="1933" string="Plan de potion" />
+    <String id="1934" string="Plan d'additif" />
+    <String id="1935" string="Livre de maître" />
+    <String id="1936" string="Collecte" />
+    <String id="2001" string="Glyphes" />
+    <String id="2002" string="Glyphes" />
+    <String id="2003" string="Glyphes" />
+    <String id="2004" string="Glyphes" />
+    <String id="2005" string="Glyphes" />
+    <String id="2006" string="Glyphes" />
+    <String id="2007" string="Glyphes" />
+    <String id="2008" string="Glyphes" />
+    <String id="2101" string="Armure en métal" />
+    <String id="2102" string="Armure en cuir" />
+    <String id="2103" string="Armure en tissu" />
+    <String id="2111" string="Armes de mêlée" />
+    <String id="2112" string="Arme à distance" />
+    <String id="2211" string="Lames doubles" />
+    <String id="2212" string="Lances" />
+    <String id="2213" string="Espadons" />
+    <String id="2214" string="Haches" />
+    <String id="2221" string="Lames doubles" />
+    <String id="2222" string="Lances" />
+    <String id="2223" string="Espadons" />
+    <String id="2224" string="Haches" />
+    <String id="2231" string="Lames doubles" />
+    <String id="2232" string="Lances" />
+    <String id="2233" string="Espadons" />
+    <String id="2234" string="Haches" />
+    <String id="2241" string="Lames doubles" />
+    <String id="2242" string="Lances" />
+    <String id="2243" string="Espadons" />
+    <String id="2244" string="Haches" />
+    <String id="2311" string="Disques" />
+    <String id="2312" string="Arcs" />
+    <String id="2313" string="Bâtons" />
+    <String id="2314" string="Sceptres" />
+    <String id="2321" string="Disques" />
+    <String id="2322" string="Arcs" />
+    <String id="2323" string="Bâtons" />
+    <String id="2324" string="Sceptres" />
+    <String id="2331" string="Disques" />
+    <String id="2332" string="Arcs" />
+    <String id="2333" string="Bâtons" />
+    <String id="2334" string="Sceptres" />
+    <String id="2341" string="Disques" />
+    <String id="2342" string="Arcs" />
+    <String id="2343" string="Bâtons" />
+    <String id="2344" string="Sceptres" />
+    <String id="2401" string="Flacons vides" />
+    <String id="2402" string="Nécessaires de teinture" />
+    <String id="2501" string="Fournitures de combat" />
+    <String id="2502" string="Fournitures arcaniques" />
+    <String id="2503" string="Cristaux d'arme" />
+    <String id="2504" string="Cristaux d'armure" />
+    <String id="2505" string="Parchemin de téléportation" />
+    <String id="2511" string="Liste d'échanges" />
+    <String id="2590" string="Emblème du bannissement" />
+    <String id="2591" string="Objets" />
+    <String id="2601" string="Arme" />
+    <String id="2602" string="Armure de métal" />
+    <String id="2603" string="Armure de cuir" />
+    <String id="2604" string="Armure en tissu" />
+    <String id="2721" string="Equipement" />
+    <String id="2731" string="Equipement" />
+    <String id="2741" string="Equipement" />
+    <String id="2751" string="Equipement" />
+    <String id="2801" string="Costume" />
+    <String id="2811" string="Equipement" />
+    <String id="2821" string="Equipement" />
+    <String id="2831" string="Equipement" />
+    <String id="2861" string="Cuir" />
+    <String id="2862" string="Métal" />
+    <String id="2863" string="Tissu" />
+    <String id="2864" string="&lt;font color='#80e71c'&gt;Clic gauche&lt;/font&gt; sur les modes pour &lt;font color='#80e71c'&gt;les essayer&lt;/font&gt;." />
+    <String id="2871" string="Cuir" />
+    <String id="2872" string="Métal" />
+    <String id="2873" string="Tissu" />
+    <String id="2874" string="&lt;font color='#80e71c'&gt;Clic gauche&lt;/font&gt; sur les modes pour &lt;font color='#80e71c'&gt;les essayer&lt;/font&gt;." />
+    <String id="2880" string="Spécial" />
+    <String id="2881" string="Cuir" />
+    <String id="2882" string="Métal" />
+    <String id="2883" string="Tissu" />
+    <String id="2884" string="&lt;font color='#80e71c'&gt;Clic gauche&lt;/font&gt; sur les modes pour &lt;font color='#80e71c'&gt;les essayer&lt;/font&gt;." />
+    <String id="2890" string="Spécial" />
+    <String id="2891" string="Cuir" />
+    <String id="2892" string="Métal" />
+    <String id="2893" string="Tissu" />
+    <String id="2894" string="&lt;font color='#80e71c'&gt;Clic gauche&lt;/font&gt; sur les modes pour &lt;font color='#80e71c'&gt;les essayer&lt;/font&gt;." />
+    <String id="2900" string="Marchandises" />
+    <String id="2901" string="Armes supérieures" />
+    <String id="2902" string="Armure supérieure" />
+    <String id="2903" string="Armes rares" />
+    <String id="2904" string="Armure rare" />
+    <String id="2910" string="Coffre scellé" />
+    <String id="2911" string="Guerrier" />
+    <String id="2912" string="Lancier" />
+    <String id="2913" string="Pourfendeur" />
+    <String id="2914" string="Berserker" />
+    <String id="2915" string="Sorcier" />
+    <String id="2916" string="Archer" />
+    <String id="2917" string="Prêtre" />
+    <String id="2918" string="Mystique" />
+    <String id="2919" string="Matière première" />
+    <String id="2931" string="Costumes" />
+    <String id="2932" string="Armes" />
+    <String id="2933" string="Spécial grippe-sou" />
+    <String id="2934" string="Consommables" />
+    <String id="2935" string="Liste d'échanges" />
+    <String id="2936" string="Liste d'échanges" />
+    <String id="2937" string="Liste d'échanges" />
+    <String id="2938" string="Parchemin grippe-sou" />
+    <String id="2939" string="Liste d'échanges" />
+    <String id="2940" string="Echange de gages d'amour" />
+    <String id="2941" string="Costumes" />
+    <String id="2942" string="Armes" />
+    <String id="2943" string="Consommables" />
+    <String id="2944" string="Echange d'insignes du champ de bataille" />
+    <String id="2946" string="Echange de certificats de participation" />
+    <String id="2947" string="Armes du conquérant" />
+    <String id="2948" string="Armure du conquérant" />
+    <String id="2949" string="Echange d'insigne du Coléoptère" />
+    <String id="2950" string="Echange d'insignes de Banyakas" />
+    <String id="2951" string="Echange de ticket de l'évènement d'octobre" />
+    <String id="2952" string="Armes du conquérant" />
+    <String id="2953" string="Armure du conquérant" />
+    <String id="2954" string="Objet évènementiel" />
+    <String id="2955" string="Echange de gemmes spéciales du conquérant" />
+    <String id="2956" string="Echange de gemmes spéciales du conquérant" />
+    <String id="2957" string="Echange de gemmes spéciales du conquérant" />
+    <String id="2958" string="Échange de l'évènement" />
+    <String id="2959" string="Consommables" />
+    <String id="2960" string="Talismans" />
+    <String id="2961" string="Cristaux" />
+    <String id="2962" string="Échange d'arme de Fulminar" />
+    <String id="2963" string="Échange d'armure de Fulminar" />
+    <String id="2964" string="Échange du feu de Tarkan" />
+    <String id="2969" string="Échange de l'évènement" />
+    <String id="2970" string="Évènement" />
+    <String id="2971" string="Objets d'échange" />
+    <String id="2972" string="" />
+    <String id="2973" string="" />
+    <String id="2977" string="Costumes permanents" />
+    <String id="2978" string="Costumes pour 7 jours" />
+    <String id="2979" string="Accessoires permanents" />
+    <String id="2980" string="Accessoires pour 7 jours" />
+    <String id="2981" string="Échange de l'évènement" />
+    <String id="2982" string="" />
+    <String id="2983" string="" />
+    <String id="2984" string="" />
+    <String id="2987" string="Consommables" />
+    <String id="2988" string="Mode" />
+    <String id="2989" string="Échange de l'évènement" />
+    <String id="2990" string="Équipement" />
+    <String id="2993" string="Eau-forte d'arme" />
+    <String id="2994" string="Eau-forte de gants" />
+    <String id="2995" string="Eau-forte d'armure" />
+    <String id="2996" string="Eau-forte de chaussures" />
+    <String id="2997" string="Échangeable uniquement le 15 juillet" />
+    <String id="3000" string="Offres à saisir" />
+    <String id="3001" string="Combat" />
+    <String id="3002" string="Croissance, confort" />
+    <String id="3003" string="Pêche, assistants, divers" />
+    <String id="3006" string="Arme premium de Bourrask" />
+    <String id="3007" string="Arme premium de Bourrask" />
+    <String id="3008" string="Costume premium de Bourrask" />
+    <String id="3009" string="Costume premium de Bourrask" />
+    <String id="3010" string="Objets rares" />
+    <String id="3013" string="Cristaux" />
+    <String id="3014" string="Articles Invalesco" />
+    <String id="3015" string="Objets rares" />
+    <String id="3018" string="Cristaux" />
+    <String id="3019" string="Articles Shariar" />
+    <String id="3020" string="Objets rares" />
+    <String id="3023" string="Cristaux" />
+    <String id="3024" string="Articles Valsekyr" />
+    <String id="3025" string="Objets rares" />
+    <String id="3028" string="Cristaux" />
+    <String id="3029" string="Articles Hyderad" />
+    <String id="3030" string="Cristaux" />
+    <String id="3031" string="Articles des Mains de Velika" />
+    <String id="3032" string="Neutre" />
+    <String id="3033" string="Favorable" />
+    <String id="3034" string="Amical" />
+    <String id="3035" string="Fiable/vénéré" />
+    <String id="3036" string="Armes" />
+    <String id="3037" string="Armure" />
+    <String id="3038" string="Objets rares" />
+    <String id="3039" string="Articles généraux" />
+    <String id="3040" string="Articles généraux" />
+    <String id="3041" string="Articles généraux" />
+    <String id="3042" string="Broches" />
+    <String id="3043" string="Ceintures" />
+    <String id="3044" string="Confident" />
+    <String id="3045" string="Révéré" />
+    <String id="3046" string="Equipement de faction" />
+    <String id="3047" string="Ensemble du Renoncement" />
+    <String id="3048" string="Ensemble du Moloch" />
+    <String id="3050" string="Armure" />
+    <String id="3051" string="Armure" />
+    <String id="3052" string="Révéré" />
+    <String id="3060" string="Boutique de crédits de ????" />
+    <String id="3061" string="Boutique d'échange" />
+    <String id="3100" string="Boutique d'échange d'arme" />
+    <String id="3101" string="Boutique d'échange d'accessoire" />
+    <String id="3102" string="Boutique d'échange de casier à armes" />
+    <String id="3103" string="Échange de l'évènement" />
+    <String id="3106" string="Boutique d'échange de bons de cybercafé" />
+    <String id="3121" string="" />
+    <String id="3122" string="" />
+    <String id="3123" string="" />
+    <String id="3124" string="" />
+    <String id="3125" string="Boutique d'échange d'évènement" />
+    <String id="3126" string="Boutique d'échange d'accessoires d'armes de siège de la Fédération Valkyon" />
+    <String id="3400" string="" />
+    <String id="3401" string="" />
+    <String id="3402" string="" />
+    <String id="3403" string="" />
+    <String id="6090" string="Cristal de l'avant-garde" />
+    <String id="6091" string="Equipement" />
+    <String id="6092" string="Glyphe supérieur" />
+    <String id="6093" string="Spécial" />
+    <String id="6094" string="Costumes" />
+    <String id="6095" string="Armes" />
+    <String id="6096" string="Armure" />
+    <String id="6097" string="Accessoires" />
+    <String id="6098" string="Spécial" />
+    <String id="6110" string="Magasin du petit marchand des points de réputation de gardien" />
+    <String id="6111" string="Magasin du marchand moyen des points de réputation de gardien" />
+    <String id="6112" string="Magasin du grand marchand des points de réputation de gardien" />
+    <String id="6160" string="Magasin de réputation (Riveran)" />
+    <String id="6162" string="Carte" />
+    <String id="6163" string="Plan" />
+    <String id="6170" string="Magasin de réputation (unité spéciale d'Exodor)" />
+    <String id="7000" string="Mini-jeu &quot;Canon pulvérisant&quot;" />
+    <String id="7001" string="Mini-jeu &quot;Frappez les pastèques&quot;" />
+    <String id="7002" string="Mini-jeu &quot;Frappez les serpents&quot;" />
+    <String id="7003" string="Mini-jeu &quot;Canon pulvérisant&quot;" />
+    <String id="7005" string="[Mini-jeu] Botte-le-foin" />
+    <String id="7006" string="[Mini-jeu] Rodéo de porcidé" />
+    <String id="7007" string="Mini-jeu Tambour va-t'en" />
+    <String id="9121" string="Produits de raid" />
+    <String id="9122" string="Infuseurs" />
+    <String id="9123" string="Recettes de fusion d'arme" />
+    <String id="9124" string="Recettes de fusion de l'armure" />
+    <String id="9125" string="Uniquement pour les officiers" />
+    <String id="9126" string="Uniquement pour les officiers" />
+    <String id="9127" string="Uniquement pour les officiers" />
+    <String id="9128" string="Uniquement pour les officiers" />
+    <String id="9129" string="Uniquement pour les officiers" />
+    <String id="9130" string="Uniquement pour les officiers" />
+    <String id="9131" string="Uniquement pour les officiers" />
+    <String id="9132" string="Uniquement pour les officiers" />
+    <String id="9133" string="Uniquement pour les officiers" />
+    <String id="9134" string="Uniquement pour les officiers" />
+    <String id="9135" string="Uniquement pour les officiers" />
+    <String id="9136" string="Uniquement pour les officiers" />
+    <String id="9137" string="Uniquement pour les officiers" />
+    <String id="9138" string="Uniquement pour les officiers" />
+    <String id="9139" string="Uniquement pour les officiers" />
+    <String id="9140" string="" />
+    <String id="9387" string="Magasin de liste d'échanges pour cubes du combattant" />
+    <String id="9388" string="Liste d'échanges" />
+    <String id="10001" string="Arme" />
+    <String id="10002" string="Armure" />
+    <String id="16000" string="Magasin" />
+    <String id="16001" string="Marchandises" />
+    <String id="16058" string="Acheter des articles généraux" />
+    <String id="16059" string="Acheter des articles généraux" />
+    <String id="16060" string="Acheter des articles généraux" />
+    <String id="16061" string="Acheter des articles généraux" />
+    <String id="16062" string="Acheter des articles généraux" />
+    <String id="16063" string="Acheter des articles généraux" />
+    <String id="16064" string="Acheter des articles généraux" />
+    <String id="16065" string="Acheter des articles généraux" />
+    <String id="16066" string="Acheter des articles généraux" />
+    <String id="16067" string="Acheter des articles généraux" />
+    <String id="16068" string="Acheter des articles généraux" />
+    <String id="16069" string="Acheter des articles généraux" />
+    <String id="16070" string="Acheter des articles généraux" />
+    <String id="16071" string="Acheter des articles généraux" />
+    <String id="16072" string="Acheter des articles généraux" />
+    <String id="16073" string="Acheter des articles généraux" />
+    <String id="16074" string="Acheter des articles généraux" />
+    <String id="16075" string="Acheter des articles généraux" />
+    <String id="16076" string="Acheter des articles généraux" />
+    <String id="16077" string="Acheter des articles généraux" />
+    <String id="16078" string="Acheter des articles généraux" />
+    <String id="16079" string="Acheter des articles généraux" />
+    <String id="16080" string="Acheter des articles généraux" />
+    <String id="16081" string="Acheter des articles généraux" />
+    <String id="16083" string="Acheter des articles généraux" />
+    <String id="16084" string="Acheter des articles généraux" />
+    <String id="16085" string="Acheter des articles généraux" />
+    <String id="16086" string="Acheter des articles généraux" />
+    <String id="16087" string="Acheter des articles généraux" />
+    <String id="16091" string="Acheter des articles généraux" />
+    <String id="16092" string="Acheter des articles généraux" />
+    <String id="16094" string="Magasin d'insignes de pêche" />
+    <String id="29201" string="Arme de style" />
+    <String id="29202" string="Armure de style" />
+    <String id="29203" string="Ustensile pour teinture" />
+    <String id="29204" string="Réservé aux Mortiféras" />
+    <String id="29205" string="Réservé aux Mortiféras" />
+    <String id="40000" string="Liste des équipements" />
+    <String id="40001" string="Armes" />
+    <String id="40002" string="Armure" />
+    <String id="40003" string="Accessoires" />
+    <String id="40004" string="Articles généraux" />
+    <String id="40005" string="Cristaux" />
+    <String id="40006" string="Articles généraux" />
+    <String id="45474" string="Monture dragon" />
+    <String id="50009" string="Apparences d'arme" />
+    <String id="50010" string="Accessoires" />
+    <String id="50011" string="Accessoires dorsaux" />
+    <String id="50012" string="Costumes (Elin, Aman, Baraka)" />
+    <String id="50013" string="Costumes (Humain, Haut-elfe)" />
+    <String id="50014" string="Costumes (Castanic, Popori)" />
+    <String id="50015" string="Installations du château céleste" />
+    <String id="52910" string="Poudre d'additif" />
+    <String id="52911" string="Additif d'alchimie" />
+    <String id="52912" string="Additif d'anoblissement" />
+    <String id="52913" string="Additif de raffinage" />
+    <String id="52914" string="Additif d'eau-forte" />
+    <String id="59019" string="Glyphes inhabituels" />
+    <String id="59901" string="Marchand" />
+    <String id="60901" string="Glyphe de lancier" />
+    <String id="60902" string="Glyphe de guerrier" />
+    <String id="60903" string="Glyphe de pourfendeur" />
+    <String id="60904" string="Glyphe de berserker" />
+    <String id="60905" string="Glyphe d'archer" />
+    <String id="60906" string="Glyphe de sorcier" />
+    <String id="60907" string="Glyphe de prêtre" />
+    <String id="60908" string="Glyphe de mystique" />
+    <String id="60909" string="Glyphe de mortiféra" />
+    <String id="60910" string="Glyphe de l'Artilleuse" />
+    <String id="60912" string="[Ninja] Échange de glyphes de la Témérité" />
+    <String id="61000" string="Boutique de médailles pour le Donjon des épreuves" />
+    <String id="61002" string="Matériau d'enchantement" />
+    <String id="61003" string="Boîte de glyphes" />
+    <String id="61004" string="Eaux-fortes doubles permanentes" />
+    <String id="61101" string="Matériau d'enchantement médiocre" />
+    <String id="61111" string="Matériau d'enchantement normal" />
+    <String id="61121" string="Matériau d'enchantement supérieur" />
+    <String id="61122" string="Glyphe" />
+    <String id="61130" string="Magasin clandestin de Petil" />
+    <String id="61131" string="Information" />
+    <String id="61140" string="Magasin clandestin d'Essart" />
+    <String id="61141" string="Aiguille spectrale" />
+    <String id="61150" string="Échange de matériaux" />
+    <String id="61151" string="Liste d'échanges" />
+    <String id="70001" string="Nécessaire pour le dessert" />
+    <String id="70002" string="Sets de jeux" />
+    <String id="70003" string="Plaisirs de la Party" />
+    <String id="70004" string="Échanger des Insignes en Fusion" />
+    <String id="70013" string="Tickets pour Bamarama" />
+    <String id="70014" string="Marchand des Campagnes en fête" />
+    <String id="70015" string="Recettes des Campagnes en fête" />
+    <String id="70016" string="Ingrédients de cuisine" />
+    <String id="70017" string="Marchand de la fête de l'étang" />
+    <String id="70018" string="Parchemins" />
+    <String id="70019" string="Échange d'insignes rubra" />
+    <String id="70311" string="Marchand" />
+    <String id="70312" string="Boutique d'échange de bons de Meruma" />
+    <String id="70313" string="Objet de mode" />
+    <String id="70314" string="Objet cubique" />
+    <String id="70315" string="Costume" />
+    <String id="70316" string="Boutique d'échange de tikats 01" />
+    <String id="70317" string="Consommable" />
+    <String id="70318" string="Boutique d'échange de tikats 02" />
+    <String id="70319" string="Boutique généraliste" />
+    <String id="80000" string="Exclusif" />
+    <String id="80001" string="Articles généraux" />
+    <String id="80002" string="Articles généraux" />
+    <String id="84322" string="Serre-tête" />
+    <String id="152001" string="Articles généraux" />
+    <String id="152002" string="Magasin d'accessoires de combat" />
+    <String id="152282" string="Gage d'amitié (Europe)" />
+    <String id="155023" string="Os d'ancienne vouivre" />
+    <String id="155310" string="Pierres runiques mystérieuses" />
+    <String id="155311" string="Sélection de prix" />
+    <String id="155312" string="Dummy Token 1" />
+    <String id="155313" string="Dummy Token 2" />
+    <String id="155314" string="Dummy Token 3" />
+    <String id="155315" string="Dummy Token 4" />
+    <String id="155316" string="Dummy Token 5" />
+    <String id="155488" string="Magasin de comètes" />
+    <String id="200000" string="Magasin de fragments du Cuirassé" />
+    <String id="200001" string="Équipement du Cuirassé" />
+    <String id="200002" string="Accessoires du Cuirassé" />
+    <String id="200003" string="Eaux-fortes doubles/triples permanentes" />
+    <String id="200004" string="Marchandises" />
+    <String id="201037" string="Boutique d'échange d'accessoires de l'éclat" />
+    <String id="201038" string="Boutique d'échange d'amplificateur d'accessoire II" />
+    <String id="201041" string="Magasin du festival de l'été" />
+    <String id="201042" string="Maillot de bain et bouée canard colorée" />
+    <String id="201043" string="Maillot de bain et bouée piailleur" />
+    <String id="201230" string="[Évènement]" />
+    <String id="201255" string="Magasin du festival automnal" />
+    <String id="201256" string="Coiffure de mode" />
+    <String id="201257" string="Familier" />
+    <String id="201258" string="Monture" />
+    <String id="201259" string="" />
+    <String id="201260" string="" />
+    <String id="202678" string="Magasin d'insigne de croissance" />
+    <String id="206769" string="Boutique PUBG" />
+    <String id="206770" string="Divers" />
+    <String id="209120" string="Boutique d'échange de cristaux de succube" />
+    <String id="209122" string="Accessoire de Lachelitas" />
+    <String id="209130" string="(vétuste) Magasin pour essences mineures d'Arborea" />
+    <String id="209131" string="Équipement de Verno" />
+    <String id="209132" string="Accessoires des perles de sang" />
+    <String id="209133" string="Boîte de glyphes pour glyphes rares" />
+    <String id="209134" string="Articles généraux" />
+    <String id="209140" string="(vétuste) Magasin pour essences médianes d'Arborea" />
+    <String id="209141" string="Équipement de Lilitas" />
+    <String id="209142" string="Accessoire de Lachelitas" />
+    <String id="209143" string="Boîte de glyphes pour glyphes rares" />
+    <String id="209144" string="Articles généraux" />
+    <String id="209150" string="(vétuste) Magasin pour essences supérieures d'Arborea" />
+    <String id="209151" string="Accessoire légendaire de Lachelitas" />
+    <String id="209152" string="Boîte de glyphes pour glyphes rares" />
+    <String id="209153" string="Glyphes inhabituels/rares" />
+    <String id="209154" string="Articles généraux" />
+    <String id="212120" string="Boutique d'échange pour pierres de souveraineté de Lakan" />
+    <String id="212121" string="Équipement de Lilitas" />
+    <String id="212122" string="Accessoires de Lakan" />
+    <String id="212123" string="Boîte de glyphes pour glyphes rares" />
+    <String id="212130" string="Magasin pour essences mineures d'Arborea" />
+    <String id="212131" string="Équipement de Lilitas" />
+    <String id="212132" string="Accessoire de Lachelitas" />
+    <String id="212133" string="Boîte de glyphes pour glyphes rares" />
+    <String id="212134" string="Articles généraux" />
+    <String id="212140" string="Magasin pour essences médianes d'Arborea" />
+    <String id="212141" string="Équipement de Veldeg" />
+    <String id="212142" string="Accessoires de Lakan" />
+    <String id="212143" string="Boîte de glyphes pour glyphes rares" />
+    <String id="212144" string="Articles généraux" />
+    <String id="212150" string="Magasin pour essences supérieures d'Arborea" />
+    <String id="212151" string="Accessoire légendaire de Lakan" />
+    <String id="212152" string="Boîte de glyphes pour glyphes rares" />
+    <String id="212153" string="Glyphes inhabituels/rares" />
+    <String id="212154" string="Articles généraux" />
+    <String id="213230" string="Essence de Vergos" />
+    <String id="213320" string="Serre-tête" />
+    <String id="213560" string="Boutique d'échange des reliques" />
+    <String id="213561" string="Liste d'échanges" />
+    <String id="213570" string="Boutique d'échange des reliques" />
+    <String id="213571" string="Liste d'échanges" />
+    <String id="213580" string="Boutique d'échange des reliques" />
+    <String id="213581" string="Liste d'échanges" />
+    <String id="213590" string="Boutique d'échange des reliques" />
+    <String id="213591" string="Liste d'échanges" />
+    <String id="213600" string="Boutique d'échange des sacramentaux" />
+    <String id="213601" string="Liste d'échanges" />
+    <String id="213610" string="Boutique d'échange des sacramentaux" />
+    <String id="213611" string="Liste d'échanges" />
+    <String id="213620" string="Boutique d'échange des sacramentaux" />
+    <String id="213621" string="Liste d'échanges" />
+    <String id="213630" string="Boutique d'échange des sacramentaux" />
+    <String id="213631" string="Liste d'échanges" />
+    <String id="300021" string="" />
+    <String id="300022" string="" />
+    <String id="467310" string="Magasin de fragments de pierre obscure" />
+    <String id="500091" string="Apparences d'arme" />
+    <String id="500101" string="Accessoires" />
+    <String id="500111" string="Accessoires dorsaux" />
+    <String id="500121" string="Elin" />
+    <String id="500122" string="Aman, homme" />
+    <String id="500123" string="Aman, femme" />
+    <String id="500124" string="Baraka" />
+    <String id="500131" string="Humain, homme" />
+    <String id="500132" string="Humain, femme" />
+    <String id="500133" string="Haut-elfe, homme" />
+    <String id="500134" string="Haut-elfe, femme" />
+    <String id="500141" string="Castanic, homme" />
+    <String id="500142" string="Castanic, femme" />
+    <String id="500143" string="Popori" />
+    <String id="500151" string="Tous" />
+    <String id="500152" string="Bastion" />
+    <String id="500153" string="Enceinte" />
+    <String id="500154" string="Ailes" />
+    <String id="500155" string="PNJ" />
+    <String id="609011" string="Inhabituel" />
+    <String id="609012" string="Inhabituel" />
+    <String id="703110" string="Marchandises générales" />
+    <String id="703111" string="Combat" />
+    <String id="703112" string="Extraction" />
+    <String id="703113" string="Parchemins" />
+    <String id="703114" string="Parchemin de téléportation" />
+    <String id="812300" string="Gage d'amitié" />
+    <String id="887880" string="Boutique du &quot;masque du début&quot;" />
+    <String id="887890" string="Boutique du &quot;masque de l'infini&quot;" />
+    <String id="887900" string="Boutique du &quot;masque de transcendance&quot;" />
+    <String id="888370" string="Boutique d'amplificateurs" />
+    <String id="888371" string="Amplificateur I" />
+    <String id="888372" string="Amplificateur II" />
+    <String id="888400" string="Boutique d'amplificateurs" />
+    <String id="889970" string="Magasin d'échange d'équipement rouillé du serment héroïque" />
+    <String id="897370" string="Boutique d'échange pour équipement éternel" />
+    <String id="897890" string="Magasin de glyphes pour Guerrier" />
+    <String id="897900" string="Magasin de glyphes pour Lancier" />
+    <String id="897910" string="Magasin de glyphes pour Pourfendeur" />
+    <String id="897920" string="Magasin de glyphes pour Berserker" />
+    <String id="897930" string="Magasin de glyphes pour Sorcier" />
+    <String id="897940" string="Magasin de glyphes pour Archer" />
+    <String id="897950" string="Magasin de glyphes pour Prêtre" />
+    <String id="897960" string="Magasin de glyphes pour Mystique" />
+    <String id="897970" string="Magasin de glyphes pour Mortiféra" />
+    <String id="897980" string="Magasin de glyphes pour Artilleuse" />
+    <String id="897990" string="Magasin de glyphes pour Bourrask" />
+    <String id="898000" string="Magasin de glyphes pour Ninja" />
+    <String id="898010" string="Magasin de glyphes pour Danselune" />
+    <String id="898150" string="Boutique d'échange de fragments de PF" />
+    <String id="898151" string="Liste d'échanges" />
+    <String id="898160" string="Magasin de mission du donjon (aléatoire)" />
+    <String id="898161" string="Liste d'échanges" />
+    <String id="898170" string="Magasin de mission du donjon" />
+    <String id="898171" string="Liste d'échanges" />
+    <String id="898500" string="Boutique d'échange de livret de bataille" />
+    <String id="898501" string="Liste d'échanges" />
+    <String id="899650" string="Pierre solaire noble" />
+    <String id="899651" string="Eau-forte d'arme" />
+    <String id="899660" string="Pierre volcanique noble" />
+    <String id="899661" string="Eau-forte de gants" />
+    <String id="899670" string="Pierre glaciaire noble" />
+    <String id="899671" string="Eau-forte d'armure" />
+    <String id="899680" string="Pierre algide noble" />
+    <String id="899681" string="Eau-forte de chaussures" />
+    <String id="899690" string="Pierre d'éclair noble (anneau)" />
+    <String id="899691" string="Eau-forte d'anneau" />
+    <String id="899700" string="Pierre d'éclair noble (boucle d'oreille)" />
+    <String id="899701" string="Eau-forte de boucle d'oreille" />
+    <String id="899710" string="Pierre d'éclair noble (collier)" />
+    <String id="899711" string="Eau-forte de collier" />
+    <String id="899720" string="Pierre d'éclair noble (ceinture)" />
+    <String id="899721" string="Eau-forte de ceinture" />
+    <String id="899730" string="Pierre d'éclair noble (broche)" />
+    <String id="899731" string="Eau-forte de broche" />
+    <String id="912100" string="Boutique du quartier-maître" />
+    <String id="912200" string="Boutique des officiers" />
+    <String id="912300" string="Boutique des officiers" />
+    <String id="912400" string="Boutique des officiers" />
+    <String id="912500" string="Marchandises de réputation de la société du Noctenium" />
+    <String id="952100" string="" />
+    <String id="952101" string="" />
+    <String id="952102" string="" />
+    <String id="952103" string="" />
+    <String id="952110" string="" />
+    <String id="952111" string="" />
+    <String id="952112" string="" />
+    <String id="952113" string="" />
+    <String id="952114" string="" />
+    <String id="964610" string="Equipement d'envergure" />
+    <String id="964611" string="Armes" />
+    <String id="964612" string="Armure" />
+    <String id="968150" string="Magasin de pierres spatiotemporelles" />
+    <String id="968151" string="Équipement JcE" />
+    <String id="968152" string="Équipement JcJ" />
+    <String id="968153" string="Accessoires" />
+    <String id="968154" string="Boutique d'insigne de Desolarus" />
+    <String id="968160" string="Échange de médaillon" />
+    <String id="968161" string="Armes" />
+    <String id="968162" string="Armure" />
+    <String id="968163" string="Chaussures/gants" />
+    <String id="968164" string="Ceinture" />
+    <String id="968170" string="Échange de médaillon" />
+    <String id="968171" string="Colliers" />
+    <String id="968172" string="Anneaux" />
+    <String id="968173" string="Boucles d'oreilles" />
+    <String id="968180" string="Remède de combat VI" />
+    <String id="968190" string="Remède de combat VI" />
+    <String id="968200" string="Consommables de donjon" />
+    <String id="968210" string="Boutique de coquillages" />
+    <String id="968211" string="Mode" />
+    <String id="968212" string="Consommables" />
+    <String id="968213" string="Objets utiles" />
+    <String id="968214" string="Divers" />
+    <String id="968220" string="Boutique d'insignes du soleil" />
+    <String id="968221" string="Mode" />
+    <String id="968222" string="Consommables" />
+    <String id="968223" string="Objets utiles" />
+    <String id="968224" string="Divers" />
+    <String id="968300" string="Consommables de donjon" />
+    <String id="973120" string="Boutique d'insigne de Desolarus" />
+    <String id="973121" string="Équipement de dissidence" />
+    <String id="973122" string="Accessoires du Cuirassé" />
+    <String id="973123" string="Glyphes rares" />
+    <String id="973124" string="Équipement du Cuirassé" />
+    <String id="973125" string="Accessoires des perles de sang" />
+    <String id="973126" string="Glyphes rares" />
+    <String id="973130" string="Boutique d'échange de Pierres de sang" />
+    <String id="973941" string="Équipement de dissidence" />
+    <String id="973942" string="Accessoire temporel" />
+    <String id="973943" string="Boîte de glyphes des Glyphes rares" />
+    <String id="973944" string="Matériaux d'artisanat et divers" />
+    <String id="973951" string="Équipement du Cuirassé" />
+    <String id="973952" string="Accessoire du Cuirassé" />
+    <String id="973953" string="Boîte de glyphes des Glyphes rares" />
+    <String id="973954" string="Matériaux d'artisanat et divers" />
+    <String id="973961" string="Accessoire du Capitaine" />
+    <String id="973962" string="Glyphes inhabituels/rares" />
+    <String id="973963" string="Matériaux d'artisanat et divers" />
+    <String id="973964" string="Caisse contenant des glyphes rares" />
+    <String id="982900" string="Essence de Vergos" />
+    <String id="983000" string="Échanger de l'équipement (niveau 20)" />
+    <String id="983001" string="Équipement (niveau 20)" />
+    <String id="983010" string="Échanger de l'équipement (niveau 26)" />
+    <String id="983011" string="Équipement (niveau 26)" />
+    <String id="983020" string="Échanger de l'équipement (niveau 38)" />
+    <String id="983021" string="Équipement (niveau 38)" />
+    <String id="983030" string="Échanger de l'équipement (niveau 44)" />
+    <String id="983031" string="Équipement (niveau 44)" />
+    <String id="983040" string="Échanger de l'équipement (niveau 50)" />
+    <String id="983041" string="Équipement (niveau 50)" />
+    <String id="983050" string="Échanger de l'équipement (niveau 55)" />
+    <String id="983051" string="Équipement de niveau 55" />
+    <String id="983060" string="Échanger de l'équipement (niveau 32)" />
+    <String id="983061" string="Équipement (niveau 32)" />
+    <String id="983070" string="Équipement de niveau 58, échange de glyphes" />
+    <String id="983071" string="Équipement de niveau 58" />
+    <String id="983072" string="Glyphes inhabituels" />
+    <String id="983080" string="Échanger des glyphes, de l'équipement de niveau 60 et 62" />
+    <String id="983081" string="Équipement de niveau 60" />
+    <String id="983082" string="Équipement (niveau 62)" />
+    <String id="983083" string="Glyphes inhabituels" />
+    <String id="983090" string="Échanger de l'équipement (niveau 20)" />
+    <String id="983091" string="Armure" />
+    <String id="983092" string="Accessoires" />
+    <String id="983093" string="Cristaux" />
+    <String id="983100" string="Échanger de l'équipement (niveau 26)" />
+    <String id="983101" string="Armure" />
+    <String id="983102" string="Accessoires" />
+    <String id="983103" string="Cristaux" />
+    <String id="983110" string="Échanger de l'équipement (niveau 32)" />
+    <String id="983111" string="Armure" />
+    <String id="983112" string="Accessoires" />
+    <String id="983113" string="Cristaux" />
+    <String id="983120" string="Échanger de l'équipement (niveau 38)" />
+    <String id="983121" string="Armure" />
+    <String id="983122" string="Accessoires" />
+    <String id="983123" string="Cristaux" />
+    <String id="983130" string="Échanger de l'équipement (niveau 44)" />
+    <String id="983131" string="Armure" />
+    <String id="983132" string="Accessoires" />
+    <String id="983133" string="Cristaux" />
+    <String id="983140" string="Échanger de l'équipement (niveau 50)" />
+    <String id="983141" string="Armure" />
+    <String id="983142" string="Accessoires" />
+    <String id="983143" string="Cristaux" />
+    <String id="983150" string="Échanger de l'équipement (niveau 55)" />
+    <String id="983151" string="Armure" />
+    <String id="983152" string="Accessoires" />
+    <String id="983153" string="Cristaux" />
+    <String id="983160" string="Échanger des glyphes, de l'équipement de niveau 58" />
+    <String id="983161" string="Armure" />
+    <String id="983162" string="Accessoires" />
+    <String id="983163" string="Cristaux" />
+    <String id="983164" string="Glyphes inhabituels" />
+    <String id="983170" string="Échanger des glyphes, de l'équipement de niveau 60" />
+    <String id="983171" string="Armure" />
+    <String id="983172" string="Accessoires" />
+    <String id="983173" string="Cristaux" />
+    <String id="983174" string="Glyphes inhabituels" />
+    <String id="983180" string="Échanger des glyphes, de l'équipement de niveau 62" />
+    <String id="983181" string="Armure" />
+    <String id="983182" string="Accessoires" />
+    <String id="983183" string="Cristaux" />
+    <String id="983184" string="Glyphes inhabituels" />
+    <String id="984140" string="Boutique d'essences crépusculaires mineures" />
+    <String id="984141" string="Glyphe" />
+    <String id="984142" string="Divers" />
+    <String id="985220" string="Magasin d'insignes de mutation" />
+    <String id="985221" string="Matériau d'amélioration d'équipement" />
+    <String id="985222" string="Consommables" />
+    <String id="985223" string="Matériau d'amélioration d'équipement (vétuste)" />
+    <String id="985230" string="Magasin de preuves de mutation" />
+    <String id="985231" string="Matériau d'amélioration d'équipement" />
+    <String id="985490" string="Boutique d'essences crépusculaires intermédiaires" />
+    <String id="985491" string="Eau-forte" />
+    <String id="985492" string="Glyphes" />
+    <String id="985493" string="Divers" />
+    <String id="985500" string="Boutique d'essences crépusculaires de rang supérieur" />
+    <String id="985501" string="Eau-forte" />
+    <String id="985502" string="Divers" />
+    <String id="985503" string="Glyphe" />
+    <String id="985950" string="Boutique de bons de bataille" />
+    <String id="985951" string="Eau-forte" />
+    <String id="985952" string="Boîte de glyphes" />
+    <String id="985953" string="Glyphe" />
+    <String id="985954" string="Divers" />
+    <String id="985970" string="Magasin de médailles de bataille" />
+    <String id="985971" string="Objets disponibles" />
+    <String id="986490" string="Boutique d'échange de médailles du combattant" />
+    <String id="986500" string="Boutique d'échange de masque du début" />
+    <String id="986510" string="Boutique d'échange de masque de l'infini" />
+    <String id="986520" string="Magasin d'insignes de vainqueurs" />
+    <String id="986630" string="Magasin d'insignes héroïques" />
+    <String id="987100" string="" />
+    <String id="987110" string="" />
+    <String id="987871" string="" />
+    <String id="987872" string="" />
+    <String id="987873" string="" />
+    <String id="987881" string="" />
+    <String id="987882" string="" />
+    <String id="987883" string="" />
+    <String id="987884" string="" />
+    <String id="988100" string="" />
+    <String id="988141" string="" />
+    <String id="988142" string="" />
+    <String id="988143" string="" />
+    <String id="988410" string="" />
+    <String id="988411" string="" />
+    <String id="988412" string="" />
+    <String id="988560" string="Magasin de trophées (JcJ)" />
+    <String id="999770" string="Magasin d'insignes de maître de vol" />
+    <String id="999771" string="S'envoler" />
+    <String id="999772" string="Eau-forte" />
+    <String id="999773" string="Boîte de glyphes" />
+    <String id="999774" string="Divers" />
+    <String id="1011030" string="Insigne du Coléoptère" />
+    <String id="1011040" string="Insigne du Coléoptère II" />
+    <String id="1022327" string="Magasin" />
+    <String id="1425640" string="Magasin de sous-vêtements en soie de Sirus" />
+    <String id="1425641" string="Liste d'échanges" />
+    <String id="1520001" string="Guerre de guilde" />
+    <String id="1522820" string="Gage d'amitié (Europe)" />
+    <String id="1550230" string="Compétence d'équitation" />
+    <String id="1550231" string="Objets utiles" />
+    <String id="1550232" string="Consommables" />
+    <String id="1550233" string="Fortifiants" />
+    <String id="1550234" string="Récompenses" />
+    <String id="1550235" string="Consommables" />
+    <String id="1550236" string="Ordinaire" />
+    <String id="1550237" string="Inhabituel" />
+    <String id="1550238" string="Rare" />
+    <String id="1550239" string="Supérieur" />
+    <String id="1553100" string="Grande combinaison" />
+    <String id="1553101" string="Combinaison de 3" />
+    <String id="1553102" string="Case de lettre" />
+    <String id="1553110" string="Récompenses" />
+    <String id="1553111" string="Shop" />
+    <String id="1553112" string="Shop" />
+    <String id="1553113" string="Shop" />
+    <String id="1553114" string="Shop" />
+    <String id="1553115" string="Shop" />
+    <String id="1553116" string="Rare Weapons" />
+    <String id="1553117" string="Rare Costumes" />
+    <String id="1554790" string="Rêves éveillés" />
+    <String id="1554791" string="Compétences de vol" />
+    <String id="1554792" string="Consommables" />
+    <String id="1554793" string="Modification physique" />
+    <String id="1554794" string="Équipement" />
+    <String id="1554795" string="Supérieur" />
+    <String id="1554796" string="Effroyable" />
+    <String id="2010180" string="Boutique de sous-vêtements du défenseur archidevan" />
+    <String id="2010181" string="Sous-vêtements luxueux" />
+    <String id="2010370" string="Liste d'échanges" />
+    <String id="2010380" string="Liste d'échanges" />
+    <String id="2010480" string="Équipement d'Arkarp" />
+    <String id="2012303" string="Cadeau perdu" />
+    <String id="2012304" string="Don des anciens" />
+    <String id="2012305" string="Cadeau volé" />
+    <String id="2021410" string="Boutique d'insignes du Guerrier de premier plan" />
+    <String id="2024510" string="Boutique de mode de Meruma" />
+    <String id="2024520" string="Boutique de mode de Meruma (supérieure)" />
+    <String id="2024530" string="[Évènement] Magasin d'œufs rouges" />
+    <String id="2024540" string="[Évènement] Magasin de Pazha" />
+    <String id="2024550" string="Magasin de pièces fantasmagoriques" />
+    <String id="2024560" string="Magasin de lingots fantasmagoriques" />
+    <String id="2040050" string="" />
+    <String id="2040051" string="" />
+    <String id="2040220" string="Boutique d'échange de sous-vêtements de gardien" />
+    <String id="2040221" string="Objets disponibles" />
+    <String id="2042560" string="Magasin de pièces de Valkyon" />
+    <String id="2042561" string="Matériau d'enchantement" />
+    <String id="2042562" string="Glyphe" />
+    <String id="2042563" string="Coffre d'équipement" />
+    <String id="2056740" string="Boutique d'échange de parchemins" />
+    <String id="2056741" string="Liste d'échanges" />
+    <String id="2063000" string="Poudre incendiaire I" />
+    <String id="2063001" string="Eau-forte d'arme" />
+    <String id="2063002" string="Eau-forte de gants" />
+    <String id="2063010" string="Poudre incendiaire II" />
+    <String id="2063020" string="Poudre incendiaire III" />
+    <String id="2063030" string="Poudre incendiaire IV" />
+    <String id="2063050" string="Poudre abyssale I" />
+    <String id="2063051" string="Eau-forte d'armure" />
+    <String id="2063052" string="Eau-forte de chaussures" />
+    <String id="2063060" string="Poudre abyssale II" />
+    <String id="2063070" string="Poudre abyssale III" />
+    <String id="2063080" string="Poudre abyssale IV" />
+    <String id="2063100" string="Poudre terrestre I" />
+    <String id="2063101" string="Eau-forte de collier" />
+    <String id="2063102" string="Eau-forte de boucle d'oreille" />
+    <String id="2063110" string="Poudre terrestre II" />
+    <String id="2063120" string="Poudre terrestre III" />
+    <String id="2063130" string="Poudre terrestre IV" />
+    <String id="2063150" string="Poudre de tempête I" />
+    <String id="2063151" string="Eau-forte d'anneau" />
+    <String id="2063152" string="Eau-forte de ceinture" />
+    <String id="2063160" string="Poudre de tempête II" />
+    <String id="2063170" string="Poudre de tempête III" />
+    <String id="2063180" string="Poudre de tempête IV" />
+    <String id="2068540" string="Cristal des mondes" />
+    <String id="2068541" string="Liste d'échanges" />
+    <String id="2068990" string="Magasin d'insignes de gardien naval" />
+    <String id="2069160" string="Fragment de lumière stellaire" />
+    <String id="2069161" string="Liste d'échanges" />
+    <String id="2069162" string="Insigne du passé" />
+    <String id="2069164" string="" />
+    <String id="2069165" string="" />
+    <String id="2069166" string="" />
+    <String id="2069167" string="" />
+    <String id="2069168" string="" />
+    <String id="2069169" string="" />
+    <String id="2069170" string="" />
+    <String id="2069171" string="" />
+    <String id="2069172" string="" />
+    <String id="2069173" string="Armes" />
+    <String id="2069174" string="Armure" />
+    <String id="2069175" string="Accessoires" />
+    <String id="2069176" string="Divers" />
+    <String id="2069177" string="Magasin d'insignes du nouvel an" />
+    <String id="2069178" string="Magasin d'insignes du nouvel an" />
+    <String id="2069610" string="Souffle d'Arborea" />
+    <String id="2069611" string="Souffle d'Arborea" />
+    <String id="2069691" string="Magasin de cristaux somptueux" />
+    <String id="2069770" string="Souffle sacré d'Arborea" />
+    <String id="2069771" string="Liste d'échanges" />
+    <String id="2069800" string="Plan d'album de cartes de Lenarive (petit)" />
+    <String id="2069801" string="PNJ" />
+    <String id="2069802" string="Monstre" />
+    <String id="2069803" string="Collecte/pêche" />
+    <String id="2069804" string="Panorama" />
+    <String id="2069810" string="Plan d'album de cartes de Lenarive (grand)" />
+    <String id="2069811" string="PNJ" />
+    <String id="2069812" string="Monstre" />
+    <String id="2069813" string="Collecte/pêche" />
+    <String id="2069814" string="Panorama" />
+    <String id="2070000" string="Boutique d'insignes pour équipement ordinaire" />
+    <String id="2070001" string="Eaux-fortes" />
+    <String id="2070002" string="Arme" />
+    <String id="2070003" string="Armure" />
+    <String id="2070010" string="Boutique d'insignes pour équipement supérieur" />
+    <String id="2070020" string="Boutique d'insignes pour équipement rare" />
+    <String id="2070030" string="Boutique d'insignes pour équipement légendaire" />
+    <String id="2070040" string="Boutique d'insignes pour équipement factice" />
+    <String id="2070050" string="Boutique d'insignes pour équipement d'apparence (ordinaire)" />
+    <String id="2070060" string="Boutique d'insignes pour équipement d'apparence (supérieur)" />
+    <String id="2072090" string="Emblème des titans" />
+    <String id="2072091" string="Objet de valeur" />
+    <String id="2072170" string="" />
+    <String id="2075810" string="Ticket d'accessoire" />
+    <String id="2075811" string="Liste d'échanges" />
+    <String id="2075820" string="Magasin d'insignes de donjon" />
+    <String id="2075821" string="Liste d'échanges" />
+    <String id="2075840" string="Insigne de chasse aux monstres" />
+    <String id="2075841" string="Liste d'échanges" />
+    <String id="2075870" string="Bon d'échange de cape" />
+    <String id="2075871" string="Liste d'échanges" />
+    <String id="2076620" string="Boutique d'échange pour âmes du combattant" />
+    <String id="2076621" string="Armure" />
+    <String id="2076622" string="Foulard" />
+    <String id="2076623" string="Accessoires" />
+    <String id="2076624" string="Divers" />
+    <String id="2090910" string="Magasin de Mahrnak" />
+    <String id="2091020" string="Magasin de poussière d'ailes" />
+    <String id="2091022" string="Amplificateur" />
+    <String id="2091170" string="Magasin de fragments de dranium d'Abion" />
+    <String id="2091220" string="Magasin de morceaux d'ornementation" />
+    <String id="2091230" string="Magasin d'insignes d'identification d'Arkarp" />
+    <String id="2091240" string="Magasin de sceaux d'Arkarp" />
+    <String id="2091270" string="Magasin d'emblèmes de conquête d'Arkarp" />
+    <String id="2091830" string="Repaire de Draka" />
+    <String id="2091831" string="Drakas flamboyants" />
+    <String id="2091840" string="Repaire de Draka" />
+    <String id="2091841" string="Drakas flamboyants" />
+    <String id="2100000" string="Magasin d'insignes de la Fédération Valkyon" />
+    <String id="2100001" string="Requête pour le niveau 65" />
+    <String id="2100002" string="Requête pour les niveaux 20 à 64" />
+    <String id="2100003" string="Requête du champ de bataille" />
+    <String id="2100004" string="Magasin réservé aux cybercafés" />
+    <String id="2100005" string="Arme" />
+    <String id="2100006" string="Armure" />
+    <String id="2100007" string="Gants/Chaussures/Ceinture" />
+    <String id="2100008" string="Divers" />
+    <String id="2100009" string="Costume (1 jour)" />
+    <String id="2100010" string="Arme (1 jour)" />
+    <String id="2100011" string="Accessoire (1 jour)" />
+    <String id="2100012" string="Champion de kart" />
+    <String id="2100015" string="Magasin de parchemins d'enchantement de rang 9 +12" />
+    <String id="2100016" string="Parchemin d'enchantement de rang 9 +12" />
+    <String id="2100017" string="Boutique de vol de Midian" />
+    <String id="2100018" string="Boutique de vol" />
+    <String id="2100019" string="Boutique de montures de Bahaar" />
+    <String id="2100020" string="Boutique de montures" />
+    <String id="2100021" string="Échange de montures" />
+    <String id="2100022" string="" />
+    <String id="2100023" string="Échange de mode" />
+    <String id="2100024" string="Boutique de matériaux pour équipement vindicatif du Forgeron" />
+    <String id="2100025" string="" />
+    <String id="2100026" string="" />
+    <String id="2100031" string="" />
+    <String id="2100034" string="" />
+    <String id="2100035" string="" />
+    <String id="2100036" string="" />
+    <String id="2100037" string="" />
+    <String id="2100038" string="" />
+    <String id="2100039" string="" />
+    <String id="2100040" string="" />
+    <String id="2100041" string="" />
+    <String id="2100042" string="" />
+    <String id="2100043" string="" />
+    <String id="2100044" string="" />
+    <String id="2100045" string="" />
+    <String id="2100046" string="" />
+    <String id="2100047" string="" />
+    <String id="2100048" string="" />
+    <String id="2100049" string="" />
+    <String id="2100050" string="" />
+    <String id="2100051" string="" />
+    <String id="2100052" string="" />
+    <String id="2100053" string="" />
+    <String id="2100054" string="" />
+    <String id="2100055" string="" />
+    <String id="2100056" string="" />
+    <String id="2100057" string="" />
+    <String id="2100058" string="" />
+    <String id="2100059" string="" />
+    <String id="2100060" string="" />
+    <String id="2100061" string="" />
+    <String id="2100062" string="" />
+    <String id="2100063" string="" />
+    <String id="2100064" string="" />
+    <String id="2100065" string="" />
+    <String id="2100066" string="" />
+    <String id="2100067" string="" />
+    <String id="2100068" string="" />
+    <String id="2100069" string="" />
+    <String id="2100070" string="" />
+    <String id="2100071" string="" />
+    <String id="2100072" string="" />
+    <String id="2100073" string="" />
+    <String id="2100074" string="Magasin de bons avantageux" />
+    <String id="2100075" string="Magasin de bons spéciaux" />
+    <String id="2100076" string="" />
+    <String id="2100077" string="" />
+    <String id="2100078" string="[Évènement] Boutique de ticket de vente d'armes" />
+    <String id="2100079" string="Magasin de bons de gardien" />
+    <String id="2100080" string="Boutique d'échange de sous-vêtements de gardien" />
+    <String id="2100081" string="" />
+    <String id="2100082" string="" />
+    <String id="2100083" string="" />
+    <String id="2100084" string="" />
+    <String id="2100085" string="" />
+    <String id="2100086" string="Boutique légendaire de bons de gardien" />
+    <String id="2100087" string="Magasin de fragments de lettres" />
+    <String id="2100088" string="Magasin d'insignes de gardien céleste" />
+    <String id="2100089" string="Boutique de bons de baleine céleste" />
+    <String id="2100090" string="Magasin de dés de Demoroth" />
+    <String id="2100091" string="Magasin de costumes stylés" />
+    <String id="2100092" string="Magasin d'armes stylées" />
+    <String id="2100093" string="Magasin d'accessoires stylés" />
+    <String id="2100094" string="Magasin de monture" />
+    <String id="2100095" string="Magasin de dragon du monde lumineux/costume de flammes" />
+    <String id="2100096" string="Magasin de costumes à la mode" />
+    <String id="2100101" string="" />
+    <String id="2100102" string="" />
+    <String id="2100103" string="" />
+    <String id="2100104" string="" />
+    <String id="2100105" string="" />
+    <String id="2100106" string="Boutique d'échange d'évènement" />
+    <String id="2100107" string="Boutique d'accessoires de transcendance" />
+    <String id="2100108" string="Boutique d'accessoires" />
+    <String id="2100109" string="" />
+    <String id="2100110" string="Magasin de ticket bonus du champ de bataille" />
+    <String id="2100111" string="" />
+    <String id="2100112" string="" />
+    <String id="2100113" string="" />
+    <String id="2100114" string="" />
+    <String id="2100115" string="" />
+    <String id="2100118" string="" />
+    <String id="2100119" string="" />
+    <String id="2100120" string="" />
+    <String id="2100121" string="" />
+    <String id="2100122" string="" />
+    <String id="2100123" string="" />
+    <String id="2100124" string="" />
+    <String id="2100125" string="" />
+    <String id="2100126" string="" />
+    <String id="2100127" string="" />
+    <String id="2100129" string="" />
+    <String id="2100130" string="" />
+    <String id="2100131" string="" />
+    <String id="2100132" string="Boutique d'insigne spéciale" />
+    <String id="2100133" string="Spécial" />
+    <String id="2100135" string="" />
+    <String id="2100140" string="" />
+    <String id="2100141" string="" />
+    <String id="2100142" string="" />
+    <String id="2100143" string="" />
+    <String id="2100144" string="" />
+    <String id="2100145" string="" />
+    <String id="2109998" string="Matériaux pour équipement vindicatif du Forgeron" />
+    <String id="2109999" string="Magasin de tikats" />
+    <String id="2110000" string="Liste d'échanges" />
+    <String id="2110001" string="Attaque de mêlée" />
+    <String id="2110002" string="Attaque à distance" />
+    <String id="2110003" string="Récupération" />
+    <String id="2110004" string="Protection" />
+    <String id="2110005" string="Magasin de tickets de Noël 2015" />
+    <String id="2110006" string="Boutique de ticket d'échange de glyphes (sceau rare)" />
+    <String id="2110007" string="" />
+    <String id="2110011" string="" />
+    <String id="2110013" string="" />
+    <String id="2110015" string="" />
+    <String id="2110022" string="Bon de chasse au trésor céleste A" />
+    <String id="2110023" string="Bon de chasse au trésor céleste B" />
+    <String id="2110024" string="Bon de chasse au trésor céleste C" />
+    <String id="2110025" string="Bon de chasse au trésor céleste D" />
+    <String id="2110026" string="Bon de chasse au trésor céleste E" />
+    <String id="2110027" string="Bon de chasse au trésor céleste F" />
+    <String id="2110028" string="Bon de chasse au trésor céleste G" />
+    <String id="2110029" string="Bon de chasse au trésor céleste H" />
+    <String id="2110030" string="Bon de chasse au trésor céleste (débutant)" />
+    <String id="2110031" string="Consommables" />
+    <String id="2110032" string="[4e anniversaire] Échange de pièces d'Élin" />
+    <String id="2110033" string="Boutique d'échange de pièces de Tarski raffinées" />
+    <String id="2110034" string="" />
+    <String id="2110035" string="Magasin de patrons" />
+    <String id="2110036" string="" />
+    <String id="2110037" string="" />
+    <String id="2110038" string="" />
+    <String id="2110039" string="" />
+    <String id="2110040" string="" />
+    <String id="2110041" string="" />
+    <String id="2110042" string="" />
+    <String id="2110043" string="" />
+    <String id="2110044" string="" />
+    <String id="2110045" string="" />
+    <String id="2110046" string="" />
+    <String id="2110047" string="" />
+    <String id="2110048" string="" />
+    <String id="2110049" string="" />
+    <String id="2110050" string="" />
+    <String id="2110051" string="" />
+    <String id="2110052" string="" />
+    <String id="2110053" string="" />
+    <String id="2110054" string="" />
+    <String id="2110055" string="" />
+    <String id="2110056" string="" />
+    <String id="2110057" string="" />
+    <String id="2110058" string="" />
+    <String id="2110059" string="" />
+    <String id="2110060" string="" />
+    <String id="2110061" string="" />
+    <String id="2110062" string="" />
+    <String id="2110063" string="" />
+    <String id="2110064" string="" />
+    <String id="2110065" string="" />
+    <String id="2110066" string="" />
+    <String id="2110067" string="" />
+    <String id="2110068" string="" />
+    <String id="2110069" string="" />
+    <String id="2110070" string="" />
+    <String id="2110071" string="" />
+    <String id="2110072" string="" />
+    <String id="2110073" string="" />
+    <String id="2110074" string="" />
+    <String id="2110075" string="" />
+    <String id="2110076" string="" />
+    <String id="2110077" string="" />
+    <String id="2110078" string="" />
+    <String id="2110079" string="" />
+    <String id="2110080" string="" />
+    <String id="2110081" string="" />
+    <String id="2110082" string="" />
+    <String id="2110083" string="" />
+    <String id="2110084" string="" />
+    <String id="2110085" string="" />
+    <String id="2110086" string="" />
+    <String id="2110087" string="" />
+    <String id="2110088" string="" />
+    <String id="2110089" string="" />
+    <String id="2110090" string="" />
+    <String id="2110091" string="" />
+    <String id="2110092" string="" />
+    <String id="2110093" string="" />
+    <String id="2110094" string="" />
+    <String id="2110095" string="" />
+    <String id="2110096" string="" />
+    <String id="2110097" string="" />
+    <String id="2110098" string="" />
+    <String id="2110099" string="" />
+    <String id="2110100" string="" />
+    <String id="2110101" string="" />
+    <String id="2110102" string="" />
+    <String id="2110103" string="" />
+    <String id="2110104" string="" />
+    <String id="2110105" string="" />
+    <String id="2110106" string="" />
+    <String id="2110107" string="" />
+    <String id="2110108" string="" />
+    <String id="2110109" string="" />
+    <String id="2110110" string="" />
+    <String id="2110111" string="" />
+    <String id="2110112" string="" />
+    <String id="2110113" string="" />
+    <String id="2110114" string="" />
+    <String id="2110115" string="" />
+    <String id="2110116" string="" />
+    <String id="2110117" string="" />
+    <String id="2110118" string="" />
+    <String id="2110119" string="" />
+    <String id="2110120" string="" />
+    <String id="2110121" string="" />
+    <String id="2110122" string="Boutique d'échange des larmes de Lilitas" />
+    <String id="2110123" string="Équipement et parchemins" />
+    <String id="2110124" string="Échanger des glyphes" />
+    <String id="2110125" string="Parchemins de PEX" />
+    <String id="2110126" string="Cristaux/articles divers" />
+    <String id="2110127" string="Consommables : combat/divers" />
+    <String id="2110128" string="Habits de poupée (1 jour)" />
+    <String id="2110153" string="" />
+    <String id="2110154" string="" />
+    <String id="2110155" string="" />
+    <String id="2110156" string="" />
+    <String id="2110157" string="" />
+    <String id="2110158" string="" />
+    <String id="2110159" string="" />
+    <String id="2110160" string="" />
+    <String id="2110161" string="" />
+    <String id="2110162" string="" />
+    <String id="2110163" string="" />
+    <String id="2110164" string="" />
+    <String id="2110165" string="" />
+    <String id="2110166" string="" />
+    <String id="2110167" string="" />
+    <String id="2110168" string="" />
+    <String id="2110169" string="" />
+    <String id="2110170" string="" />
+    <String id="2110171" string="" />
+    <String id="2110172" string="" />
+    <String id="2110173" string="" />
+    <String id="2110174" string="" />
+    <String id="2110175" string="" />
+    <String id="2110176" string="" />
+    <String id="2110181" string="" />
+    <String id="2110183" string="" />
+    <String id="2110184" string="" />
+    <String id="2110185" string="" />
+    <String id="2110186" string="" />
+    <String id="2110187" string="" />
+    <String id="2110188" string="" />
+    <String id="2110189" string="" />
+    <String id="2110190" string="" />
+    <String id="2110191" string="" />
+    <String id="2110192" string="" />
+    <String id="2110193" string="" />
+    <String id="2110194" string="" />
+    <String id="2110195" string="" />
+    <String id="2110196" string="" />
+    <String id="2110197" string="" />
+    <String id="2110198" string="" />
+    <String id="2110199" string="" />
+    <String id="2110200" string="" />
+    <String id="2110201" string="" />
+    <String id="2110202" string="" />
+    <String id="2110203" string="" />
+    <String id="2110204" string="" />
+    <String id="2110205" string="" />
+    <String id="2110206" string="" />
+    <String id="2110207" string="" />
+    <String id="2110208" string="" />
+    <String id="2110209" string="" />
+    <String id="2110210" string="" />
+    <String id="2110211" string="" />
+    <String id="2110212" string="" />
+    <String id="2110216" string="" />
+    <String id="2110217" string="" />
+    <String id="2110218" string="" />
+    <String id="2110219" string="" />
+    <String id="2110220" string="" />
+    <String id="2110221" string="" />
+    <String id="2110222" string="" />
+    <String id="2110223" string="" />
+    <String id="2110224" string="" />
+    <String id="2110225" string="" />
+    <String id="2110226" string="" />
+    <String id="2110227" string="" />
+    <String id="2110228" string="" />
+    <String id="2110229" string="" />
+    <String id="2110230" string="" />
+    <String id="2110231" string="" />
+    <String id="2110232" string="" />
+    <String id="2110233" string="" />
+    <String id="2110234" string="" />
+    <String id="2110235" string="" />
+    <String id="2110236" string="" />
+    <String id="2110237" string="" />
+    <String id="2110238" string="" />
+    <String id="2110239" string="" />
+    <String id="2110240" string="" />
+    <String id="2110241" string="" />
+    <String id="2110242" string="" />
+    <String id="2110243" string="" />
+    <String id="2110244" string="" />
+    <String id="2110250" string="" />
+    <String id="2110251" string="" />
+    <String id="2110252" string="" />
+    <String id="2110253" string="" />
+    <String id="2110254" string="" />
+    <String id="2110255" string="" />
+    <String id="2110256" string="Général" />
+    <String id="2110257" string="(Uniquement pour femmes)" />
+    <String id="2110258" string="(Uniquement pour homme)" />
+    <String id="2110259" string="" />
+    <String id="2110260" string="" />
+    <String id="2110261" string="" />
+    <String id="2110262" string="" />
+    <String id="2110263" string="" />
+    <String id="2110264" string="" />
+    <String id="2110265" string="" />
+    <String id="2110266" string="" />
+    <String id="2110267" string="" />
+    <String id="2110268" string="" />
+    <String id="2110269" string="" />
+    <String id="2110270" string="" />
+    <String id="2110271" string="" />
+    <String id="2110272" string="" />
+    <String id="2110273" string="" />
+    <String id="2110274" string="" />
+    <String id="2110275" string="" />
+    <String id="2110276" string="" />
+    <String id="2110277" string="" />
+    <String id="2110278" string="" />
+    <String id="2110281" string="" />
+    <String id="2110284" string="" />
+    <String id="2110285" string="" />
+    <String id="2110286" string="" />
+    <String id="2110287" string="" />
+    <String id="2110288" string="" />
+    <String id="2110289" string="" />
+    <String id="2110290" string="" />
+    <String id="2110291" string="" />
+    <String id="2110292" string="" />
+    <String id="2110293" string="" />
+    <String id="2110294" string="" />
+    <String id="2110295" string="" />
+    <String id="2110296" string="" />
+    <String id="2110297" string="" />
+    <String id="2110298" string="" />
+    <String id="2110299" string="" />
+    <String id="2110300" string="" />
+    <String id="2110301" string="" />
+    <String id="2110302" string="" />
+    <String id="2110303" string="" />
+    <String id="2110304" string="" />
+    <String id="2110305" string="" />
+    <String id="2110306" string="" />
+    <String id="2110307" string="" />
+    <String id="2110308" string="" />
+    <String id="2110309" string="" />
+    <String id="2110310" string="" />
+    <String id="2110311" string="" />
+    <String id="2110312" string="" />
+    <String id="2110315" string="" />
+    <String id="2110316" string="" />
+    <String id="2110317" string="" />
+    <String id="2110318" string="" />
+    <String id="2110319" string="" />
+    <String id="2110320" string="" />
+    <String id="2110321" string="" />
+    <String id="2110322" string="" />
+    <String id="2110323" string="" />
+    <String id="2110324" string="" />
+    <String id="2110325" string="" />
+    <String id="2110326" string="" />
+    <String id="2110327" string="" />
+    <String id="2110328" string="" />
+    <String id="2110329" string="" />
+    <String id="2110330" string="" />
+    <String id="2110332" string="" />
+    <String id="2110333" string="" />
+    <String id="2110334" string="" />
+    <String id="2110335" string="" />
+    <String id="2110336" string="" />
+    <String id="2110337" string="" />
+    <String id="2110338" string="" />
+    <String id="2110339" string="" />
+    <String id="2110340" string="" />
+    <String id="2110341" string="" />
+    <String id="2110342" string="" />
+    <String id="2110343" string="" />
+    <String id="2110344" string="" />
+    <String id="2110345" string="" />
+    <String id="2110347" string="" />
+    <String id="2110351" string="" />
+    <String id="2110352" string="" />
+    <String id="2110353" string="" />
+    <String id="2110354" string="" />
+    <String id="2110355" string="" />
+    <String id="2110356" string="" />
+    <String id="2110357" string="" />
+    <String id="2110358" string="" />
+    <String id="2110359" string="" />
+    <String id="2110361" string="" />
+    <String id="2110362" string="" />
+    <String id="2110363" string="" />
+    <String id="2110364" string="" />
+    <String id="2110365" string="" />
+    <String id="2110366" string="" />
+    <String id="2110367" string="" />
+    <String id="2110368" string="" />
+    <String id="2110369" string="Boutique d'échange d'Halloween" />
+    <String id="2110370" string="Boutique d'échange" />
+    <String id="2110381" string="Boutique d'échange" />
+    <String id="2110382" string="" />
+    <String id="2110383" string="" />
+    <String id="2110384" string="" />
+    <String id="2110385" string="" />
+    <String id="2110386" string="" />
+    <String id="2110387" string="" />
+    <String id="2110400" string="" />
+    <String id="2110402" string="" />
+    <String id="2110404" string="" />
+    <String id="2110405" string="" />
+    <String id="2110406" string="" />
+    <String id="2110407" string="" />
+    <String id="2110422" string="" />
+    <String id="2110423" string="" />
+    <String id="2110424" string="" />
+    <String id="2110425" string="" />
+    <String id="2110426" string="" />
+    <String id="2110427" string="" />
+    <String id="2110428" string="" />
+    <String id="2110429" string="" />
+    <String id="2110430" string="" />
+    <String id="2110431" string="" />
+    <String id="2110432" string="" />
+    <String id="2110433" string="" />
+    <String id="2110434" string="" />
+    <String id="2110435" string="" />
+    <String id="2110436" string="" />
+    <String id="2110437" string="" />
+    <String id="2110438" string="" />
+    <String id="2110439" string="" />
+    <String id="2110440" string="" />
+    <String id="2110441" string="" />
+    <String id="2120001" string="Shop" />
+    <String id="2120002" string="Shop" />
+    <String id="2120003" string="Shop" />
+    <String id="2120004" string="Shop" />
+    <String id="2120005" string="Shop" />
+    <String id="2120006" string="Shop" />
+    <String id="2120007" string="Shop" />
+    <String id="2120008" string="Shop" />
+    <String id="2120009" string="Shop" />
+    <String id="2120010" string="Shop" />
+    <String id="2120036" string="" />
+    <String id="2120037" string="Magasin de médailles de Batu" />
+    <String id="2120038" string="Pêcher" />
+    <String id="2120039" string="Montures" />
+    <String id="2120040" string="Spécial" />
+    <String id="2120041" string="Magasin d'écus classiques" />
+    <String id="2120042" string="Récompenses" />
+    <String id="2120043" string="Consommables" />
+    <String id="2120044" string="Magasin de ducats d'or" />
+    <String id="2120045" string="Ordinaire" />
+    <String id="2120046" string="Inhabituel" />
+    <String id="2120047" string="Rare" />
+    <String id="2120048" string="Supérieur" />
+    <String id="2120049" string="[Event] Easter Bunny Token" />
+    <String id="2120050" string="Rewards" />
+    <String id="2120051" string="Useable" />
+    <String id="2120052" string="Valuable" />
+    <String id="2120053" string="Insigne de plage" />
+    <String id="2120054" string="Récompenses" />
+    <String id="2120055" string="Consommables" />
+    <String id="2120056" string="Objet de valeur" />
+    <String id="2120057" string="Magasin d'évènement" />
+    <String id="2120058" string="Apparences d'arme" />
+    <String id="2120059" string="Costumes" />
+    <String id="2120060" string="Teintures" />
+    <String id="2120061" string="Pour Mortiféras" />
+    <String id="2122500" string="Shop" />
+    <String id="2122501" string="Weapons" />
+    <String id="2122502" string="Costumes" />
+    <String id="2122503" string="Accessories" />
+    <String id="2122504" string="" />
+    <String id="2122516" string="Choix de mission" />
+    <String id="2122517" string="Choix de mission" />
+    <String id="2122518" string="Sous-vêtements" />
+    <String id="2122519" string="Livret de combat" />
+    <String id="2122520" string="Selection Battleground Ticket Shop" />
+    <String id="2122522" string="Magical Token" />
+    <String id="2125001" string="Event Shop" />
+    <String id="2125002" string="Event Shop" />
+    <String id="2125003" string="Event Shop" />
+    <String id="2125004" string="Event Shop" />
+    <String id="2125005" string="Event Shop" />
+    <String id="2125006" string="Event Shop" />
+    <String id="2125007" string="Event Shop" />
+    <String id="2125008" string="Event Shop" />
+    <String id="2125009" string="Event Shop" />
+    <String id="2125010" string="Event Shop" />
+    <String id="2125020" string="Boutique des damnés" />
+    <String id="2125021" string="L'Attaque des Titans" />
+    <String id="2125022" string="Magasin d'évènement" />
+    <String id="2125023" string="Magasin d'évènement" />
+    <String id="2125024" string="" />
+    <String id="2125025" string="Spécial" />
+    <String id="2127500" string="Event Shop" />
+    <String id="2127501" string="Event Shop" />
+    <String id="2130000" string="" />
+    <String id="2130001" string="" />
+    <String id="2130002" string="" />
+    <String id="2130003" string="Exclusive" />
+    <String id="2130004" string="Premium" />
+    <String id="2130005" string="Consumables" />
+    <String id="2130006" string="Miscellaneous" />
+    <String id="2130007" string="Enchant materials" />
+    <String id="2130008" string="Accessories" />
+    <String id="2130009" string="" />
+    <String id="2130010" string="Медаль высшего ранга" />
+    <String id="2130011" string="Медаль претендента" />
+    <String id="2130012" string="Жетон события" />
+    <String id="2130013" string="Жетон события" />
+    <String id="2130014" string="Жетон события" />
+    <String id="2130015" string="Жетон события" />
+    <String id="2130016" string="Жетон события" />
+    <String id="2130017" string="Жетон события" />
+    <String id="2130018" string="Жетон события" />
+    <String id="2130019" string="Жетон события" />
+    <String id="2130020" string="Жетон события" />
+    <String id="2130021" string="Часть буквы" />
+    <String id="2130022" string="Эссенция Дракона" />
+    <String id="2130023" string="Волшебный расщепитель" />
+    <String id="2130024" string="Перо" />
+    <String id="2130025" string="Кость дракона" />
+    <String id="2130026" string="Жетон приручения" />
+    <String id="2130027" string="Билет поддержки" />
+    <String id="2130028" string="Лоскут ткани" />
+    <String id="2130029" string="Шелковый лоскут" />
+    <String id="2130030" string="Магическая сталь" />
+    <String id="2130031" string="Самоцвет" />
+    <String id="2130032" string="Жетон листопада" />
+    <String id="2130033" string="Жетон снегопада" />
+    <String id="2130034" string="Ассортимент" />
+    <String id="2130035" string="Костюмы" />
+    <String id="2130036" string="Питомцы" />
+    <String id="2130037" string="Аксессуары" />
+    <String id="2130038" string="Разное" />
+    <String id="2130039" string="Costumes" />
+    <String id="2130040" string="Skill Books" />
+    <String id="2130041" string="Weapon Skins" />
+    <String id="2130042" string="Miscellaneous" />
+    <String id="2130050" string="Colorful Token" />
+    <String id="2130052" string="Weapon" />
+    <String id="2130053" string="Armor" />
+    <String id="2130054" string="Accessories" />
+    <String id="2130055" string="Miscellaneous" />
+    <String id="2130060" string="Essence of Dragon" />
+    <String id="2130061" string="Item List" />
+    <String id="2130070" string="Essence of Wyvern" />
+    <String id="2130071" string="Item List" />
+    <String id="2130080" string="Essence of Phoenix" />
+    <String id="2130081" string="Item List" />
+    <String id="2130090" string="Jewelry Token" />
+    <String id="2130091" string="Item List" />
+    <String id="2130100" string="Abyss Token" />
+    <String id="2130101" string="Item List" />
+    <String id="2130110" string="Candy Token" />
+    <String id="2130111" string="Item List" />
+    <String id="2130120" string="Ice Cream Token" />
+    <String id="2130121" string="Item List" />
+    <String id="2130130" string="Echo of the Past" />
+    <String id="2130131" string="Item List" />
+    <String id="2130140" string="Craft Token" />
+    <String id="2130141" string="Item List" />
+    <String id="2130150" string="Enchantment Token" />
+    <String id="2130151" string="Item List" />
+    <String id="2130160" string="Wealth Token" />
+    <String id="2130161" string="Item List" />
+    <String id="2130170" string="Engraving Token" />
+    <String id="2130171" string="Item List" />
+    <String id="2130180" string="Food Token" />
+    <String id="2130181" string="Item List" />
+    <String id="2130190" string="Lucky Coin" />
+    <String id="2130191" string="Item List" />
+    <String id="2130200" string="Mysterious Coin" />
+    <String id="2130201" string="Item List" />
+    <String id="2130210" string="Netherblade" />
+    <String id="2130211" string="Item List" />
+    <String id="2130220" string="Precious Gem" />
+    <String id="2130221" string="Item List" />
+    <String id="2130230" string="Easter token" />
+    <String id="2130231" string="Awards" />
+    <String id="2130240" string="Star egg" />
+    <String id="2130241" string="Costumes" />
+    <String id="2130242" string="Weapon skins" />
+    <String id="2130250" string="Star egg" />
+    <String id="2130251" string="Back accessories" />
+    <String id="2130252" string="Stamps" />
+    <String id="2130260" string="Flower egg" />
+    <String id="2130261" string="Masks" />
+    <String id="2130262" string="Head accessories" />
+    <String id="2130300" string="Reward: Legendary mount" />
+    <String id="2130310" string="Reward: Special mount" />
+    <String id="2130320" string="Reward: Rare costume" />
+    <String id="2130330" string="Reward: Rare weapon skin" />
+    <String id="2130340" string="Reward: Costume" />
+    <String id="2130350" string="Reward: Weapon" />
+    <String id="2130360" string="Reward: Accessory" />
+    <String id="2130361" string="Feather of Phoenix" />
+    <String id="2130362" string="Celestial token" />
+    <String id="2130363" string="Fang of Vyvern" />
+    <String id="2130364" string="Items" />
+    <String id="2130365" string="Token of Collector" />
+    <String id="2130366" string="Useful items" />
+    <String id="2130367" string="Other" />
+    <String id="2130370" string="[Event] Helloween token" />
+    <String id="2130371" string="Token rare innerwear 2019" />
+    <String id="2130372" string="Innerwear" />
+    <String id="2130373" string="[Event] NY token" />
+    <String id="2130374" string="Gift" />
+    <String id="2130375" string="Consumables" />
+    <String id="2130376" string="Lunar token" />
+    <String id="2130377" string="Misc" />
+    <String id="2130378" string="Happy B-day token" />
+    <String id="2130379" string="Gifts" />
+    <String id="2130380" string="Consumables" />
+    <String id="2130381" string="Fighter's token" />
+    <String id="2130382" string="Consumables" />
+    <String id="2130383" string="Misc" />
+    <String id="2130384" string="Gladitor's token" />
+    <String id="2130385" string="Consumables" />
+    <String id="2130386" string="Misc" />
+    <String id="2130387" string="Pirate's token" />
+    <String id="2130388" string="Consumables" />
+    <String id="2130389" string="Misc" />
+    <String id="2150006" string="Magasin de promotion payant" />
+    <String id="2150017" string="" />
+    <String id="2150018" string="" />
+    <String id="2150019" string="" />
+    <String id="2150020" string="" />
+    <String id="2150021" string="" />
+    <String id="2150022" string="" />
+    <String id="2150024" string="" />
+    <String id="2150028" string="" />
+    <String id="2150029" string="" />
+    <String id="2150032" string="" />
+    <String id="2160000" string="" />
+    <String id="2160001" string="" />
+    <String id="2160010" string="" />
+    <String id="2160020" string="" />
+    <String id="6020940" string="Boutique d'échange spatiotemporelle" />
+    <String id="8562460" string="" />
+    <String id="8562461" string="hair" />
+    <String id="8562462" string="back" />
+    <String id="8562470" string="" />
+    <String id="8562471" string="" />
+    <String id="8562472" string="" />
+    <String id="8562473" string="" />
+    <String id="8562474" string="" />
+    <String id="8562475" string="" />
+    <String id="8564080" string="" />
+    <String id="8998501" string="Dranium noble" />
+    <String id="8998502" string="Arme" />
+    <String id="8998503" string="Armure" />
+    <String id="8998601" string="Dranium puissant" />
+    <String id="8998602" string="Arme" />
+    <String id="8998603" string="Armure" />
+    <String id="8998701" string="Liste d'échanges" />
+    <String id="8998801" string="Liste d'échanges" />
+    <String id="8998901" string="Liste d'échanges" />
+    <String id="9122001" string="Boutique des officiers" />
+    <String id="9122002" string="Boutique des officiers" />
+    <String id="9122003" string="Boutique des officiers" />
+    <String id="9122004" string="Boutique des officiers" />
+    <String id="9123001" string="Boutique des officiers" />
+    <String id="9123002" string="Boutique des officiers" />
+    <String id="9123003" string="Boutique des officiers" />
+    <String id="9123004" string="Boutique des officiers" />
+    <String id="9124001" string="Boutique des officiers" />
+    <String id="9124002" string="Boutique des officiers" />
+    <String id="9124003" string="Boutique des officiers" />
+    <String id="9124004" string="Boutique des officiers" />
+    <String id="9125001" string="Provisions de combat" />
+    <String id="9999001" string="Boutique des fantômes du passé" />
+    <String id="9999002" string="Coffres" />
+    <String id="20726100" string="Boutique d'échange pour ancien équipement héroïque" />
+    <String id="20726101" string="Arme" />
+    <String id="20726102" string="Armure" />
+    <String id="20744400" string="Échange de dranium pâle" />
+    <String id="20744401" string="Arme" />
+    <String id="20744402" string="Armure" />
+    <String id="20744500" string="Échange de dranium radieux" />
+    <String id="20744501" string="Arme" />
+    <String id="20744502" string="Armure" />
+    <String id="21001091" string="" />
+    <String id="21001092" string="" />
+    <String id="21500350" string="" />
+    <String id="21500351" string="" />
+    <String id="21500360" string="" />
+    <String id="21500361" string="" />
+    <String id="41150171" string="Equipement d'apogée." />
+    <String id="41150172" string="Enchanter de l'équipement d'apogée." />
+</StrSheet_Npc>

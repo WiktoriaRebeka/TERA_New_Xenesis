@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les gulas dans le Labyrinthe d'Or restent une menace, même derrière leurs murs.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:472#4#porte-morts gulas}, les {@LinkCreature:472#207#gulas brutaux}, les {@LinkCreature:472#24#ravageurs gulas} et les {@LinkCreature:472#11#sauvages gulas}.&lt;BR&gt;&lt;BR&gt;Faites votre rapport au coordinateur le plus proche une fois la mission terminée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

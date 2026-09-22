@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Velik, la divinité protectrice de Velika, a fait part de son désir de vous rencontrer. Au terme d'un bref entretien avec la prêtresse Ciebel, vous avez obtenu audience auprès de Velik. Cette dernière vous a averti de l'existence d'une menace occulte planant sur Velika et a fait appel à votre aide.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Rentrez à Velika immédiatement et allez présenter votre rapport au commandant Samael. Ceci est un ordre prioritaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Hum... apparemment vos actes insignifiants sont aussi arrivés aux oreilles de Velik. La déesse a demandé à vous rencontrer.&lt;BR&gt;&lt;BR&gt;Rendez-vous auprès de l'escalier avec la statue de la déesse. Regardez devant vous depuis la Plateforme du pégase et vous verrez alors l'endroit en question. Une fois sur place, allez parler à la {@linkcreature:63#1167#Prêtresse Ciebel}. Elle vous emmènera jusqu'au Sanctuaire de Velik.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4" voiceTypeId="0">C'est un honneur de vous accueillir ici, &lt;pcname&gt;. La déesse m'a déjà beaucoup parlé de vous.&lt;BR&gt;&lt;BR&gt;Sans vouloir être malpolie, j'aimerais vous poser une question avant de vous amener auprès de la déesse.&lt;NEXTPAGEBUTTON&gt;"Que voulez-vous savoir ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Imaginez que vous vous retrouviez dans une situation critique sans pouvoir vous en sortir par vos propres moyens. Vous êtes à deux doigts de la mort...&lt;BR&gt;&lt;BR&gt;Votre ennemi se trouve juste à côté de vous. &lt;BR&gt;&lt;BR&gt;Si vous continuez à l'affronter, vous mourez tous les deux. Mais si vous l'épargnez, vous payez de votre vie.&lt;BR&gt;&lt;BR&gt;Au final, voudriez-vous mourir avec votre ennemi ?&lt;BR&gt;Ou lui laisseriez-vous la vie sauve ?&lt;NEXTPAGEBUTTON&gt;"Où voulez-vous en venir ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Héhé, c'est tentant, n'est-ce pas ? &lt;BR&gt;Je n'exige pas de réponse immédiate.&lt;BR&gt;&lt;BR&gt;Mais nous aurions bien besoin de quelqu'un de votre calibre. &lt;BR&gt;&lt;BR&gt;Quelle que soit votre décision, elle aura un impact majeur sur votre futur.&lt;NEXTPAGEBUTTON&gt;"Il faut que j'y songe encore un peu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">L'essentiel, c'est de ne jamais regretter votre décision. &lt;BR&gt;&lt;BR&gt;Quand le moment sera venu, vous comprendrez ma question et saurez quoi y répondre.&lt;BR&gt;&lt;BR&gt;Bien, vous êtes prêt pour la déesse ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="409" prevId="4" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Nous nous rencontrons enfin, &lt;PCNAME&gt;. Votre incorporation est encore toute récente, mais vous êtes une recrue des plus prometteuses. Vous avez servi avec courage et honneur, mais au-delà de ça, vous l'avez fait avec compassion.&lt;BR&gt;&lt;BR&gt;J'ai besoin de soldats aussi méritants que vous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1167">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, remémorez-vous toujours les paroles de la déesse. &lt;BR&gt;&lt;BR&gt;Vous devez sauver Velika. Que Shara et Arun vous bénissent. &lt;BR&gt;&lt;BR&gt;Et maintenant, retournez auprès de Samael. Il vous attend sans doute déjà.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Avez-vous rencontré la déesse ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Quel immense honneur ! Quelle que soit l'ampleur de vos exploits... rencontrer la déesse Velik aussi tôt dans une carrière a tout d'un miracle.</Page>
+    </Text>
+</QuestDialog>

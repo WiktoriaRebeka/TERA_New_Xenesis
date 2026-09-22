@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="5">Le Syndicat Kazuur est en train de déplacer ses réserves d'esclaves... il doit savoir que nous sommes à ses trousses.&lt;BR&gt;&lt;BR&gt;Eliminez les gardes de la Plage des Bancs de Sable. Si un navire se pointe et tombe sur un tas de cadavres de {@LinkCreature:12#14#trafiquants gulas}, ça découragera l'équipage de poursuivre son entreprise.&lt;BR&gt;&lt;BR&gt;Qui plus est, tuer des esclavagistes devrait être reconnu d'intérêt public, non&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1007">
+        <Page social="5">Nous allons démanteler tout ça étape par étape, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ça me donne l'impression de retirer les pièces d'un puzzle une par une. Au fur et à mesure, l'image devient de plus en plus fragmentaire.&lt;BR&gt;&lt;BR&gt;Et au bout d'un moment, rien n'a plus de sens. Hah&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

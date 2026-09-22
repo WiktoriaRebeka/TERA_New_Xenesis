@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7003">
+        <Page social="0">Vous avez chassé les hyènes de la ferme de Filton.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7003">
+        <Page social="4">Bonjour &lt;PCNAME&gt;&amp;nbsp;! J'espérais bien vous revoir.&lt;BR&gt;&lt;BR&gt;Les hyènes sont de retour. Puis-je vous demander de les chasser à nouveau&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Oui.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7003">
+        <Page social="4">Vous êtes vraiment impressionant{@g:/e}, &lt;PCNAME&gt;. Vous êtes sûr{@g:/e} de ne pas vouloir vous fixer et travailler à la ferme&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bon, tant pis. Acceptez donc ce lait frais en récompense. Notre porte vous sera toujours grande ouverte&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ce n'était pas grand-chose&amp;nbsp;!&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="4">(Sur la couverture, on peut lire&amp;nbsp;: "Notes de {@LinkCreature:76#1011}". Il s'agit d'un rapport de recherche détaillant un certain nombre de découvertes relatives aux argons. Vous devriez aller montrer ça à une connaissance de {@Creature:76#1011}.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1016">
+        <Page social="6">Oh oui, je connais bien Linkia. Une grande fille, plutôt précoce dans son genre.&lt;BR&gt;&lt;BR&gt;Ses parents sont morts au cours d'une attaque des argons. Depuis, l'étude de ces créatures a pris chez elle un caractère obsessionnel.&lt;NEXTPAGEBUTTON&gt;"J'ai trouvé une partie de ses notes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Linkia est partie travailler sur le terrain. Elle est d'un naturel intrépide, mais il lui arrive d'être distraite. Au cours de vos pérégrinations, vous tomberez certainement sur d'autres notes ou rapports rédigés de sa main. Elle a pris l'habitude de semer derrière elle différents indices, rapports et autres informations. Typiquement, elle va s'asseoir sur une tombe pour rédiger ses notes et elle les oublie là.&lt;BR&gt;&lt;BR&gt;Quand vous en trouverez, rapportez-les-moi. Nous verrons ce qu'elles peuvent nous apprendre&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

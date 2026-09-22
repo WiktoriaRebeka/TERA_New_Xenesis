@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Très bien... vous avez l'alkahest, une arme qui peut être enchantée, ainsi qu'une arme à sacrifier.&lt;BR&gt;&lt;BR&gt;Au travail.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Enchanter un objet permet de l'améliorer, mais seules les pièces d'équipement qu'il est possible d'enchanter peuvent bénéficier de ce traitement.&lt;BR&gt;&lt;BR&gt;Un objet peut atteindre ainsi trois niveaux de puissance distincts, mais en attendant que vous ayez vous-même gagné en puissance, concentrez-vous sur le premier.&lt;NEXTPAGEBUTTON&gt;"Compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Quand vous enchantez un objet, vous devez sacrifier un autre objet du même type et du même niveau. Je vous ai remis une arme rare de niveau 5, deux armes normales, et deux armes inhabituelles.&lt;BR&gt;&lt;BR&gt;Tout d'abord, accédez au menu d'enchantement en appuyant sur la touche "T". Effectuez un clic droit sur l'objet que vous souhaitez enchanter, suivi de l'objet à sacrifier et de l'alkahest, avant de cliquer sur le bouton Enchanter.&lt;BR&gt;&lt;BR&gt;Mais attention, plus vous enchantez un objet, plus il devient difficile à enchanter. Si jamais vous échouez, retentez votre chance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Vous y êtes&amp;nbsp;? Bien...&lt;BR&gt;&lt;BR&gt;Plus votre équipement gagne en puissance, plus il devient difficile de l'enchanter, mais l'emploi de matériel de qualité supérieure peut vous faciliter la tâche. Essayez d'enchanter une nouvelle fois votre arme en employant l'arme de qualité inhabituelle.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1605">
+        <Page social="0">Vous avez réussi&amp;nbsp;! Bien joué.&lt;BR&gt;&lt;BR&gt;Il n'est pas nécessaire de chercher à atteindre directement le potentiel maximal de vos objets, mais un jour ou l'autre, cela vous sera utile.&lt;BR&gt;&lt;BR&gt;Vous faites {@gender:un/une} {@gender:bon/bonne} {@gender:étudiant/étudiante}, &lt;PCNAME&gt;. J'espère vous avoir été utile.</Page>
+    </Text>
+</QuestDialog>

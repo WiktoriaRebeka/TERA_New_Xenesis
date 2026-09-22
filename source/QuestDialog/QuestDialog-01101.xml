@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1004">
+        <Page social="5">Le Temple de Dagon est un sanctuaire sacré pour les nagas, ce qui le rend particulièrement dangereux pour l’expédition qui s’y trouve actuellement.&lt;BR&gt;&lt;BR&gt;Je voudrais que vous alliez leur prêter main-forte, si vous êtes d’accord. Allez voir Liyaqat à l'Ecdysi Atrium. Bonne chance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="5">Grâce aux dieux, vous voilà&amp;nbsp;! Les besharans se sont apparemment alliés aux nagas pour nous chasser d’ici. C’est le genre d’alliance qui fait peur, alors j’espère de tout cœur que je me trompe.&lt;BR&gt;&lt;BR&gt;Eliminez quelques {@LinkCreature:42#400#coureurs besharans} et essayez de découvrir s'ils se sont vraiment associés ou non.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1033">
+        <Page social="4">Bon travail. Nous allons étudier ceci.&lt;BR&gt;&lt;BR&gt;Oh, et j’ai une récompense pour vous.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" villagerId="1033">
+        <Page social="0">Vous avez trouvé des preuves d'une alliance entre les gulas et les nagas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors continuez à tuer des gulas, ça ne nous fera pas de mal.</Page>
+    </Text>
+</QuestDialog>

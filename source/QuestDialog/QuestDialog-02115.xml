@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Nos éclaireurs sont tombés sur des {@LinkCreature:418#2008#condensateurs vendrons} dans les Catacombes argones. Ces appareils fournissent l'énergie nécessaire aux unités argones en surface.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} sait où les trouver.&lt;BR&gt;&lt;BR&gt;Votre mission consistera à les détruire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2002">
+        <Page social="4">Les {@LinkCreature:418#2008#condensateurs vendrons}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ils se trouvent au nord d'ici, mais attention, ce ne sont pas de simples tas de ferraille qu'on peut fendre d'un coup d'épée. Les argons feront tout pour les protéger.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2002">
+        <Page social="4">Hah&amp;nbsp;! Leurs condensateurs sont hors-service&amp;nbsp;! Les argons n'auront peut-être pas l'avantage, la prochaine fois&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Longue vie au Shariar&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

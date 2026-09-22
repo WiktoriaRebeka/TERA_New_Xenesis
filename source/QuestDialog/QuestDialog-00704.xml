@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">Les hyènes nous ont laissé trop peu de vivres pour tenir jusqu'à ce que le ravitaillement nous parvienne de Tulufan.&lt;BR&gt;&lt;BR&gt;Il va falloir improviser. Nos éclaireurs ont découvert un jardin d'églantines parfumées dans la partie nord des friches. Elles donnent un fruit amer... l'églantine, qui a un petit arrière-goût de crotte de lézard... mais elle est pleine de protéines. Si vous pouviez aller en chercher pendant que je m'occupe de la caravane de ravitaillement, vous me rendriez service.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1006">
+        <Page social="4">Pouah&amp;nbsp;! Quand je parlais de "crotte de lézard", c'était un euphémisme&amp;nbsp;! Enfin... ces trucs nous éviteront de mourir de faim les jours prochains. Sinon, on peut toujours compter sur le goût pour couper l'appétit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1006">
+        <Page social="0">On est loin du compte, là&amp;nbsp;! Remettez-vous au boulot et allez m'en chercher plus&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

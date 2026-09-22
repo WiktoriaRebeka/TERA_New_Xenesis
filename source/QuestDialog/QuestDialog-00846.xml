@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Le campement de mercenaires reçoit régulièrement des renforts, mais nous ignorons d'où ils arrivent. Nous avons beau les tuer, leurs effectifs se renouvellent sans cesse.&lt;BR&gt;&lt;BR&gt;Cependant, quel que soit leur nombre, sans leurs commandants, les mercenaires ne valent rien.&lt;BR&gt;&lt;BR&gt;Nous somme en quête d'informations pour identifier les endroits où pourraient se trouver les camps des commandants. Voici une liste des secteurs qui pourraient être fouillés, mais vous aurez besoin du consentement d'Uzair.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">J'aimerais pouvoir mettre le plan de Nashwa à exécution... C'est une riche idée... mais les éclaireurs que j'ai envoyés dans cette zone ne sont pas revenus.&lt;BR&gt;&lt;BR&gt;Cela dit, c'est peut-être dans vos cordes. Allez trouver {@LinkCreature:32#20#Baalark}, leur commandant, et éliminez-le avant que les mercenaires ne prennent d'autres initiatives.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1003">
+        <Page social="4">Ce bâtard a eu ce qu'il méritait... Je jure sur le nom des soldats qu'il a tués que je vais faire accrocher sa tête pour que les corbeaux s'en délectent et que les mercenaires méditent la leçon.&lt;BR&gt;&lt;BR&gt;Ces nouvelles vont faire des heureux. J'ai hâte d'annoncer à Nashwa que son plan s'est révélé payant.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" villagerId="1003">
+        <Page social="0">Le campement de mercenaires se trouve au nord. Il n'y a pas de temps à perdre.</Page>
+    </Text>
+</QuestDialog>

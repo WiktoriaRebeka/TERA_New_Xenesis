@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">Non seulement cet alcool rend les membres de la Griffe noire plus violents, mais aussi plus forts. Je crois que les marchands besharans utilisent les orkans de la tribu de la Griffe noire comme armes contre la Fédération. Il faut prévenir Karba.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">Ils ont bu une sorte d’alcool pour devenir plus puissants&amp;nbsp;? Ils ne méritent pas le titre de guerriers&amp;nbsp;! Pourchassez les {@LinkCreature:41#3004#écraseurs Griffe noire} et les {@LinkCreature:41#3005#enragés Griffe noire}, et reprenez leurs insignes de guerriers, afin que toutes les tribus sachent qu’ils se sont laissés utiliser par les marchands besharans&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1021">
+        <Page social="0">La mort était encore un sort trop doux. Quand je montrerai ces insignes aux autres tribus, et que je leur raconterai le déshonneur de la tribu de la Griffe noire, elles sauront que c'est la vérité.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" villagerId="1021">
+        <Page social="0">La tribu de la Griffe noire ne mérite pas de porter des insignes de guerriers. Aidez-moi à les déshonorer aux yeux de tous les orkans.</Page>
+    </Text>
+</QuestDialog>

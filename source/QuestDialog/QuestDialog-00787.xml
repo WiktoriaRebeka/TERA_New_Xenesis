@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Vous avez rassemblé des informations qui devraient être partagées avec les générations futures. Heureusement, nous avons juste ce qu'il faut pour le faire&amp;nbsp;: les {@LinkCreature:230#1058#dépositaires de Langsyne}.&lt;BR&gt;&lt;BR&gt;Dans la {@Rgn:30015$$Forteresse des Archives}, il vous suffit de parler à voix haute à tous les dépositaires de Langsyne que vous trouverez et ils enregistreront vos paroles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1058">
+        <Page social="1">(Des mots apparaissent sur le dépositaire&amp;nbsp;: la déesse Elinu a caché pendant des siècles les Poporis et les Elins du reste du monde, puis elle les a installés près de Pora Elinu et a disparu. Les Elins et les Poporis ont rapidement rejoint les rangs de la Fédération Valkyon et ont combattu contre les argons.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1059">
+        <Page social="1">(Des mots apparaissent sur le dépositaire&amp;nbsp;: les elfes avaient un grand empire, qui a été ravagé lorsqu'ils ont perdu le contrôle de la Fleur de vie. C'est uniquement en créant un artefact vivant appelé le Noyau qu'ils ont sauvé le continent de la destruction. Leur quasi-destruction les ayant rendus un peu plus humbles, les Hauts-Elfes ont rejoint la Fédération Valkyon, par nécessité, lorsque les argons se sont approchés d'Allemantheia.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1060">
+        <Page social="1">(Des mots apparaissent sur le dépositaire&amp;nbsp;: sur le {@LinkCreature:226#1102$$cénotaphe} du {@Rgn:26001$$Bassin béni}, le nom de &lt;PCNAME&gt; est inscrit. {@gender:Ce/Cette} &lt;PCCLASS:lcase&gt; sans peur a tué les dieux Akasha, Killian et Thulsa, les faisant trembler au même titre que les mortels.)&lt;NEXTPAGEBUTTON&gt;"Je ne m'attendais pas à ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Des mots apparaissent sur le dépositaire&amp;nbsp;: &lt;PCNAME&gt; a également vaincu la forme corrompue du dieu Sikander, Kelsaik, mais cette victoire a été incomplète, car...)&lt;BR&gt;&lt;BR&gt;(Arrivé à ce passage, les mots s'effacent.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1061">
+        <Page social="1">(Des mots apparaissent sur le dépositaire&amp;nbsp;: à l'origine, les géants vénéraient le dieu du soleil, Balder, et le dieu de la connaissance, Oriyn, à l'emplacement du niveau inférieur des archives. Les pacifiques géants qui recherchaient le savoir ici sont devenus des barakas. Il ne reste que quelques barakas ici. La plupart sont partis à Allemantheia, certains vivent peut-être encore à Balderon, une ville baraka dans la partie nord d'Arun, désormais sous le coup d'un blocus magique des devans.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">Votre position est enviable, &lt;PCNAME&gt;. Vous avez à la fois fait l'histoire et aidé à l'enregistrer.&lt;BR&gt;&lt;BR&gt;Dans les siècles à venir, peut-être qu'un être du futur se tiendra ici et contemplera ce qu'un seul mortel peut accomplir, s'il a suffisamment de talent, de volonté et de sagesse.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Toute victoire s'appuie sur un équipement bien entretenu.&lt;BR&gt;Voici quelque chose qui devrait vous convenir, gardien.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Puisque vous avez combattu les forces maléfiques à maintes reprises, Marmundam, le capitaine de la garde principale de Val d'Oriyn, a tenu à vous aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2024">
+        <Page social="0" voiceTypeId="0">Une épée de qualité devrait toujours être maniée par un grand guerrier.&lt;BR&gt;&lt;BR&gt;J'ai ici un article de premier choix à vous offrir.&lt;BR&gt;La plupart des gens ont du mal à en faire bon usage, mais ce ne sera probablement pas votre cas.&lt;BR&gt;&lt;BR&gt;Essayez donc !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2024">
+        <Page social="0" voiceTypeId="0">Je suis ravi que cela vous plaise.&lt;BR&gt;Vous savez sans doute comment desceller un objet et choisir une option d'équipement ?&lt;BR&gt;&lt;BR&gt;Ah oui !&lt;BR&gt;L'&lt;font color='#FF0000'&gt;option d'équipement orange&lt;/font&gt; est l'attribut de base d'un guerrier. J'espère ne pas vous donner l'impression de vous dédaigner, gardien.</Page>
+        <Page social="0" voiceTypeId="0">Je vais vous donner d'autres équipements.&lt;BR&gt;Si vous désignez la couleur &lt;font color='#FF0000'&gt;orange&lt;/font&gt; comme option pour tout l'équipement que vous portez, votre force s'en trouvera immédiatement décuplée.&lt;BR&gt;&lt;BR&gt;Ha ha !</Page>
+    </Text>
+</QuestDialog>

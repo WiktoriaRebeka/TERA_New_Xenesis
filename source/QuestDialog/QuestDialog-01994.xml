@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="0">Vous avez aidé les gens dans la Station de quarantaine.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="1" voiceTypeId="0">Oui, Ryshan m'en a déjà informé. &lt;BR&gt;Apparemment, parmi les Humains d'ici, quelqu'un a commis un acte abject pour être admis comme patient. &lt;BR&gt;Qui peut bien oser...&lt;BR&gt;&lt;BR&gt;Je crois que nous ferions bien de dénicher cette personne, &lt;PCNAME&gt;, et j'ai bien peur d'avoir besoin de votre aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="103">
+        <Page social="4" voiceTypeId="0">C'est moi qui ai concocté cette prodigieuse potion du souvenir. Celui qui la boit n'a qu'à entendre un mot quelconque pour se souvenir tout d'un coup de tout ce qui a un rapport avec ce mot. &lt;br&gt;&lt;br&gt;En amplifiant son effet, la personne est complètement plongée dans ses souvenirs et les revit mentalement en se comportant exactement comme au moment du souvenir.&lt;BR&gt;C'est un peu comme être en plein rêve.&lt;BR&gt;&lt;BR&gt;À l'origine, cette potion était une petite plaisanterie entre chercheurs du Mysterium, elle est donc parfaitement inoffensive.&lt;BR&gt;Mélangeons-la donc au remède et observons ce qui se passe. &lt;NEXTPAGEBUTTON&gt;"Ce n'est pas une mauvaise idée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pas vrai ? J'ai donc besoin du sang d'un basilic et de l'écorce calcinée d'un ghilliedhu.&lt;BR&gt;&lt;BR&gt;Les ghilliedhus d'ici ont beau avoir tous brûlé, trouver leur écorce calcinée n'est pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Or, il m'en faut une grande quantité si nous voulons que tous les patients ingurgitent de la potion. Faites de votre mieux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="103">
+        <Page social="4" voiceTypeId="0">Formidable. &lt;BR&gt;Cette quantité devrait amplement suffire. &lt;BR&gt;&lt;BR&gt;Celui qui la boit et entend ensuite un mot quelconque, se souvient immédiatement de tout ce qui a un rapport avec ce mot.&lt;BR&gt;&lt;BR&gt;Il est alors tellement absorbé par ses souvenirs qu'il réitère le comportement jadis adopté.&lt;NEXTPAGEBUTTON&gt;"Nous verrons bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Prenez cette potion et distribuez-la aux gens d'ici. &lt;BR&gt;&lt;BR&gt;Vous vous souvenez bien du mot-clé, n'est-ce pas ? Herbe de profession.&lt;BR&gt;&lt;BR&gt;Donnez la potion aux Humains et prononcez clairement "herbe de profession", nous démasquerons alors le suspect.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="103">
+        <Page social="0">Il m'en faut bien plus. Avec ça, impossible de préparer assez de potion.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="148">
+        <Page social="4" voiceTypeId="0">Oh... Je sens une grande force m'envahir le corps. &lt;BR&gt;C'est nettement meilleur que l'immonde remède de l'autre fois. &lt;NEXTPAGEBUTTON&gt;"Herbe de profession !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Daniel prend soudain un air attentionné.)&lt;BR&gt;&lt;BR&gt;Nanni, vous ne devriez pas cueillir d'herbe de profession. &lt;BR&gt;Certes, elle est jolie, mais aussi très toxique. &lt;BR&gt;&lt;BR&gt;Je vais vous chercher une fleur qui vous ira bien mieux, ma chérie.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="147">
+        <Page social="1" voiceTypeId="0">Oh... C'est bien meilleur. Le remède précédent avait un goût atroce. Quels sont les ingrédients du nouveau remède ?&lt;NEXTPAGEBUTTON&gt;"De l'herbe de profession !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Hennika prend soudain une mine grave.)&lt;BR&gt;&lt;BR&gt;Ce n'est pas comme ça que nous arriverons à entrer dans la station.&lt;BR&gt;Vous en êtes conscients ? Nos symptômes à tous sont bien trop faibles. &lt;br&gt;&lt;br&gt;Nous devons à tout prix recevoir un traitement. &lt;BR&gt;Hors de question de se laisser mourir.&lt;BR&gt;&lt;BR&gt; ... J'ai entendu dire que l'herbe de profession pourrait nous être utile.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="147">
+        <Page social="4" voiceTypeId="0">(Le visage de la femme blêmit.)&lt;BR&gt;&lt;BR&gt;Non, c'est faux... c'était une erreur ! &lt;BR&gt;&lt;BR&gt;Mon besoin de traitement était bien plus urgent ! &lt;BR&gt;J'avais tout aussi peur de ne pas être choisie comme patiente et de rester sans traitement pour la cristallisation !&lt;BR&gt;&lt;BR&gt;Cet imbécile a juste voulu trop en faire.&lt;NEXTPAGEBUTTON&gt;"J'ai trouvé ceci sous un tas de pierres."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Non, non ! &lt;pcname&gt;, je vous en supplie.&lt;BR&gt;Ne me renvoyez pas !&lt;BR&gt;Je ne veux pas mourir.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="38" prevId="8" villagerId="146">
+        <Page social="4" voiceTypeId="0">Je n'arrive pas à croire qu'Hennika ait pu faire une chose pareille.&lt;br&gt;&lt;br&gt;Comptez-vous nous bannir ?&lt;BR&gt;Je ferai tout ce que vous voulez ! &lt;BR&gt;&lt;BR&gt;Même si vous décidez de châtier ma sœur, donnez-lui une chance de guérir, je vous en supplie.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="38" prevId="9" villagerId="120">
+        <Page social="4" voiceTypeId="0">Vous avez trouvé le malfaiteur. C'était donc cette patiente, là-bas ? &lt;BR&gt;&lt;BR&gt;Certes, son comportement est répréhensible, mais elle n'en reste pas moins victime de la cristallisation.&lt;BR&gt;&lt;BR&gt;Dès que l'état de votre sœur cadette sera stable, je vais la remettre à l'Initiative de l'avant-garde.&lt;NEXTPAGEBUTTON&gt;"Je suis du même avis."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous aussi, au Mysterium, nous allons tout mettre en œuvre pour trouver un antidote au plus vite. &lt;BR&gt;&lt;BR&gt;Ces tragédies continueront à se répéter tant que nous n'aurons pas de remède.&lt;BR&gt;&lt;BR&gt;Vous avez fait du bon travail.</Page>
+    </Text>
+</QuestDialog>

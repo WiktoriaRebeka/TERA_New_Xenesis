@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="4">Il y aurait toutefois moyen de calmer un peu Lennert. Nous pourrions récupérer le bois abandonné par la dernière équipe quand elle a pris la fuite, par exemple.&lt;BR&gt;&lt;BR&gt;Et quand je dis "nous," je pense à "vous".&lt;BR&gt;&lt;BR&gt;Allez inspecter la zone, en bas de la colline, et rapportez-moi tout le bois que vous trouverez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1001">
+        <Page social="4">Vous avez récupéré plus de bois que je ne l'espérais&amp;nbsp;! Je vais prendre les mesures et mettre tout ça en forme. Lennert parviendra certainement à atteindre son précieux "quota".&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Si jamais vous finissez par quitter l'armée, repassez me voir. Nous avons besoin de bras, par ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1001">
+        <Page social="0">Ma dernière équipe a laissé en plan l'équivalent d'une journée de travail quand les Centaures ont attaqué. Ça ne devrait pas être bien difficile à trouver.&lt;BR&gt;&lt;BR&gt;Je veux dire... du bois... vous savez à quoi ça ressemble, tout de même&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

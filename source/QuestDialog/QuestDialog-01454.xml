@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="4">Les mekonaris, les devans, les morts-vivants, et maintenant les fouaille-tripes&amp;nbsp;? Ca a assez duré&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Cette tribu du Rocher de la Désolation n'est qu'une bande de voyous, ils ne cherchent sûrement qu'à s'en mettre plein les poches. Je veux qu'on les arrête&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Partez vers l'est, et tuez autant de leurs précieux chamanes que vous pourrez. Ne faites pas quartier&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">Ca, c'est du travail bien fait&amp;nbsp;! Donnez leurs bâtons à Keallach. Le malheur des uns fait le bonheur des autres&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1006">
+        <Page social="0">Les chamanes sont les chefs des fouaille-tripes. Massacrez-en une bonne dizaine et ces brutes retourneront se cacher sous leur rocher&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1023">
+        <Page social="4">Oh, ils sont très puissants&amp;nbsp;! Hmm, oui, nous pouvons les utiliser&amp;nbsp;! Merci bien, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

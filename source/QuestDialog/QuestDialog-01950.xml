@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1016">
+        <Page social="4" voiceTypeId="0">Plus profondes et obscures que les ténèbres... Les abysses abritent certains livres. Ces livres prennent possession du cœur de leur lecteur, puis de leur corps et enfin de leur âme. &lt;BR&gt;&lt;BR&gt;Seuls les {@linkcreature:489#3706#êtres de haut rang} de l'Atel Akaad portent ces livres sur eux. &lt;BR&gt;&lt;BR&gt;En analysant la force magique de ces livres, je peux accéder à la source magique de l'Atel Akaad. Ramenez-moi donc un de ces livres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1016">
+        <Page social="4" voiceTypeId="0">C'est ça. Je perçois une force magique inconnue. Plus j'approfondirai mes recherches, plus nous en saurons.  Bien joué !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3003" villagerId="1016">
+        <Page social="0">Ils sont surnommés les livres des Abysses. Si vous en trouvez, ramenez-les moi, je vous prie.</Page>
+    </Text>
+</QuestDialog>

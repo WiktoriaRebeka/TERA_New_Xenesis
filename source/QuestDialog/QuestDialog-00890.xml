@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="4">Les éclats eldritch font la valeur stratégique de cette région. Autrefois, c’était tellement facile.&lt;BR&gt;&lt;BR&gt;Nous avions de bons rapports avec les wendigos, tout du moins jusqu’à l’arrivée des géants.&lt;BR&gt;&lt;BR&gt;Entre les géants, les mercenaires devans et les wendigos en colère, c’est un endroit problématique.&lt;BR&gt;&lt;BR&gt;Il est temps de passer à l’offensive. Allez voir Dena. Elle aura vos ordres de mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1010">
+        <Page social="4">Salutations. Vous avez beaucoup à faire.&lt;BR&gt;&lt;BR&gt;Les junaidars ont attaqué un campement d’exploitation il y a quelques jours. De nombreux mineurs ont été tués, et une bonne quantité d’éclats eldritch a été volée.&lt;BR&gt;&lt;BR&gt;Vous devez riposter et récupérer les éclats. Tuez les {@LinkCreature:34#300#voleuses}, les {@LinkCreature:34#400#fléaux} et les {@LinkCreature:34#310#bandits} junaidars et reprenez les lots d’éclats.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1010">
+        <Page social="4">Merci pour vos efforts. Ces cristaux particuliers entrent dans la fabrication des boucliers magiques.&lt;BR&gt;&lt;BR&gt;A grande échelle, cette technique permettra au Mysterium de protéger toutes les villes de la Fédération en leur fournissant des appareils de ce genre.&lt;BR&gt;&lt;BR&gt;Nous ferons en sorte que les familles des mineurs reçoivent un dédommagement.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" villagerId="1010">
+        <Page social="0">Beaucoup de sang a été gâché pour obtenir ces éclats. Si vous les récupérez, je m’assurerai que les familles reçoivent une compensation.</Page>
+    </Text>
+</QuestDialog>

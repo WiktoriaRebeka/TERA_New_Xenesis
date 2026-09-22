@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">Paesyn a essayé de se racheter pour la capture de Zolyn, mais a fini par avoir lui-même besoin d'être sauvé. Vous l'avez calmé puis aidé à rapporter le ravitaillement à l'avant-poste de la Tempête.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">Paesyn a pris les devants. Cette boule de poils éberluée n'arrêtait pas de répéter&amp;nbsp;: "Tout est ma faute, tout est ma faute."&lt;NEXTPAGEBUTTON&gt;"Par où est-il parti&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il s'est saisi de ses clefs à molettes pour se ruer dans la vallée. Au diable les dents-de-sabre. Il est peut-être parti protéger les chariots de ravitaillement.&lt;BR&gt;&lt;BR&gt;Prenez soin de lui. C'est un ingénieur hors pair, mais il n'est pas taillé pour le combat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Je.. Je voulais la sauver. Je voulais protéger Zolyn, mais j'ai échoué.&lt;BR&gt;&lt;BR&gt;Mon cœur est lourd de chagrin. Je ne suis pas un héros, juste un bricoleur de choses mécaniques. C'est de ma faute si elle s'est fait capturer.&lt;NEXTPAGEBUTTON&gt;"Non, ce n'est pas vrai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bien sûr que ça l'est&amp;nbsp;! Il lui fallait un héros, pas un ami.&lt;BR&gt;&lt;BR&gt;Mais je parie que si nous nous y mettons ensemble, nous la retrouverons. Vous êtes fort{@g:/e} et je suis courageux. Enfin, un peu.&lt;BR&gt;&lt;BR&gt;Mettons ces chariots en route, puis allons trouver Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">(Plusieurs composants mécaniques se trouvent à l'intérieur. Il semblerait qu'ils rentreraient bien dans un aéronef.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">Merci de nous avoir acheminés le ravitaillement. Nos aéronefs sont cloués au sol et nous perdons du terrain sur les Archidevans.&lt;BR&gt;&lt;BR&gt;Mais nous voilà fin prêts.</Page>
+    </Text>
+</QuestDialog>

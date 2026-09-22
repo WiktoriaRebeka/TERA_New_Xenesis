@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">C'est le journal d'un archéologue prion.&lt;NEXTPAGEBUTTON&gt;"Ca dit quoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ecoutez un peu ça... "Nous espérions capturer le géant que nous avons découvert dans l'enceinte de la pyramide, mais la férocité de sa riposte a réduit nos espoirs à néant. Le peu d'entre nous qui ont survécu à l'affrontement peuvent certainement se targuer d'être des élus de Saleron, notre père."&lt;BR&gt;&lt;BR&gt;C'est absolument incroyable, &lt;PCNAME&gt;&amp;nbsp;! Un géant aurait survécu tout ce temps&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Incroyable... et effrayant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Vous avez raison. Imaginez un peu ce qui nous arriverait si leur empire renaissait. Le géant doit encore se trouver dans l'enceinte de la pyramide du Repaire du Tonnerre. Il ne doit pas s'en échapper.&lt;BR&gt;&lt;BR&gt;Vous vous sentez de taille à l'affronter&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1026">
+        <Page social="5">Ce téléportail vous permettra d'entrer dans la pyramide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1027">
+        <Page social="5">Cette menace a cessé de peser sur nous, mais si un géant a trouvé le moyen de survivre ici, qui nous dit qu'il n'y en a pas ailleurs&amp;nbsp;? Espérons qu'il s'agissait d'un cas isolé.</Page>
+    </Text>
+</QuestDialog>

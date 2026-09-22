@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">Le Campement des voyageurs a demandé de l’aide. Je ne peux pas leur envoyer l’un de mes soldats, mais vous, vous n’êtes pas sur ma liste, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allez donc leur apporter votre soutien. Entrez en jeu&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Cet immonde endroit va me tuer, c’est certain.&lt;BR&gt;&lt;BR&gt;Par le Noyau, les sables chauds de chez moi me manquent. C’est dangereux de laisser ce genre de pensées détourner notre attention des dangers que nous affrontons.&lt;BR&gt;&lt;BR&gt;J’ai demandé de l’aide pour que les choses soient un peu moins risquées. Allez parler à Kahuere. Elle a des ordres pour vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1004">
+        <Page social="4">Le froid rend Lucael grognon, mais cet endroit n’est pas si affreux que ça&amp;nbsp;! Nous servons la Fédération et nous nous efforçons de rendre le monde meilleur.&lt;BR&gt;&lt;BR&gt;Bien sûr, ce serait mieux si nous n’avions pas à nous battre pour survivre, mais bon, la vie n'est pas toujours rose. Ni blanche. Pas comme cette neige qui recouvre tout.</Page>
+    </Text>
+</QuestDialog>

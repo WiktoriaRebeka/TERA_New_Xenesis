@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="4">Ce n'était pas dans mon contrat&amp;nbsp;! Je suis là pour relever les niveaux de mana, pas pour me chicorer avec ces saletés d'{@LinkCreature:31#25#hydrages d'onyx}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est bien pour ça que j'ai choisi de travailler ici, et pas au Maelstrom. Cela dit, il va bien falloir que j'y descende à un moment ou un autre.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller en éliminer quelques-uns pour moi&amp;nbsp;? Quand vous les aurez tué, pensez à prélever un peu de musc. Les autres monstres prennent leurs jambes à leur cou quand ils sentent un Hydrage. Ca devrait me protéger.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1042">
+        <Page social="4">Merci&amp;nbsp;! Ce musc me sera des plus utiles&amp;nbsp;! Le Maelstrom n'a qu'à bien se tenir, j'arrive&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1042">
+        <Page social="0">Restez sur vos gardes, mais débarrassez-moi de ces {@LinkCreature:31#25#Hydrages d'onyx}&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

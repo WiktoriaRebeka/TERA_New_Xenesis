@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="0">Vous avez aidé les gens dans la Station de quarantaine.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="1" voiceTypeId="0">(Un journal et une assiette sont enfouis sous le tas de pierres.&lt;BR&gt;Qu'est-ce que c'est ?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="145">
+        <Page social="1" voiceTypeId="0">Je sens bien que mon état corporel n'arrête pas d'empirer depuis ma confrontation avec les papillons. &lt;BR&gt;&lt;BR&gt;Apparemment, le Mysterium a érigé une Station de quarantaine pour traiter séparément les patients aux symptômes particulièrement graves. Mais vu le nombre de patients, je doute fort qu'ils acceptent de traiter quelqu'un présentant mes symptômes.&lt;NEXTPAGEBUTTON&gt;"Qu'y a-t-il d'écrit sur la page suivante ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hennika affirme qu'en manipulant un peu les symptômes, nous recevrons le traitement. &lt;BR&gt;&lt;BR&gt;J'ai entendu dire qu'en consommant un peu d'herbe de profession, le corps se raidit pendant un certain temps. En revanche, l'esprit reste lucide. &lt;BR&gt;&lt;BR&gt;Si je consomme un peu d'herbe de profession, ils m'accepteront sans doute comme patient.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="140">
+        <Page social="1" voiceTypeId="0">(Une sensation macabre vous submerge tandis qu'une brise souffle à proximité du tas de pierres.) Une odeur répugnante émanant des herbes que vous avez récoltées vous monte aux narines).&lt;BR&gt;&lt;BR&gt;(Ce phénomène vous semble étrange et vous décidez donc d'interroger un chercheur du Mysterium à ce sujet.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="140">
+        <Page social="0">(Ce tas de pierres semble abandonné.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="144">
+        <Page social="4" voiceTypeId="0">Une gemme... mensonge !&lt;BR&gt;&lt;BR&gt;(Il étend péniblement deux doigts puis le bras et désigne quelque chose.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="120">
+        <Page social="4" voiceTypeId="0">Mais c'est de l'herbe de profession ! &lt;BR&gt;C'est une herbe empoisonnée qui provoque des paralysies. &lt;BR&gt;&lt;BR&gt;Elle peut s'avérer particulièrement dangereuse pour les Humains entrés en contact avec la poudre de cristal des parfs et parfons. Apparemment, une fausse rumeur se propage et affirme que l'herbe de profession est bonne contre la cristallisation. &lt;BR&gt;&lt;BR&gt;C'est d'autant plus inquiétant que nous n'avons toujours pas de remède efficace pour tout le monde.&lt;NEXTPAGEBUTTON&gt;"Je n'étais momentanément plus moi-même, moi non plus."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'était dangereux. Mais vous êtes indemne et c'est tant mieux.&lt;BR&gt;&lt;BR&gt;Vous semblez avoir un organisme particulièrement résistant, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, vous devriez commencer par prendre ce médicament. &lt;BR&gt;Ses effets ne sont que provisoires, mais c'est déjà ça de pris.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="120">
+        <Page social="4" voiceTypeId="0">Mais qui peut bien se cacher derrière tout cela ? Pour être admis comme patient ?&lt;BR&gt;&lt;BR&gt;Ainsi, un spectre a pointé ceci du doigt avant de crier "Mensonge" ? &lt;NEXTPAGEBUTTON&gt;"C'est bien ce qui s'est passé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous ne pouvons pas croire tout ce que dit un spectre, mais ça semble plausible. Nous devrions examiner les Humains qui se trouvent dans le camp. &lt;BR&gt;&lt;BR&gt;Si le spectre dit vrai, alors quelqu'un a volé la place d'un autre patient pour être admis à sa place.. &lt;BR&gt;&lt;BR&gt;Voilà où nous en sommes rendus...&lt;BR&gt;Nous devons vraiment tout faire pour trouver un remède pour tous.</Page>
+    </Text>
+</QuestDialog>

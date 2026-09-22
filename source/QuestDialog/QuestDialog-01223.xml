@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">Savez-vous comment fabriquer un {@RawItem:206816} ? Certes, l'endroit est riche en {@RawItem:206811} mais la collecter n'est pas chose facile. Par les temps qui courent, même un peu de pyrite ne serait pas de refus. Pourriez-vous me procurer une {@RawItem:206811} ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="4">Oh, c'est parfait. Merci beaucoup, &lt;PCNAME&gt;. Mais soyez aimable et passez la chose sous silence. Je... préfère ne pas être mis en rapport avec cette histoire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1025">
+        <Page social="0">Oh, se pourrait-il que vous n'ayez pas la moindre idée du minage et du raffinage ?</Page>
+    </Text>
+</QuestDialog>

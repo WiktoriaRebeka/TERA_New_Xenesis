@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="4" voiceTypeId="0">Le système de défense de la forteresse a infligé des dégâts colossaux à nos soldats.&lt;BR&gt;&lt;BR&gt;Nous avons bien pris des précautions pour les différents scénarios, mais ce n'est là qu'une Base avancée et nous n'avons donc pas assez de médicaments.&lt;BR&gt;&lt;BR&gt;Pourriez-vous nous aider à récupérer des herbes médicinales, &lt;PCNAME&gt; ?&lt;NEXTPAGEBUTTON&gt;"Je vais vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vous remercie.&lt;BR&gt;&lt;BR&gt;Commencez par aller trouver Verikam, le capitaine de Hautegarde, et demandez-lui s'il peut nous envoyer des médicaments pour les soldats blessés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">J'ai compris.&lt;BR&gt;&lt;BR&gt;Nous allons vous envoyer toute l'aide dont nous pouvons nous passer, mais vu le nombre de blessés, les biens entreposés à Hautegarde ne suffiront jamais.&lt;BR&gt;&lt;BR&gt;Pour compenser les produits médicaux manquants, nous devons récolter des plantes médicinales dans les environs de Hautegarde. Je vais envoyer des cueilleurs récupérer les quantités manquantes.&lt;BR&gt;&lt;BR&gt;Mais puisque la chose est urgente, vous devriez aussi ramasser autant d'herbes de soin que possible en retournant vers la Base avancée.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="6016">
+        <Page social="4" voiceTypeId="0">Vous avez vraiment fait du bon travail.&lt;BR&gt;&lt;BR&gt;Une grande quantité de remèdes vient tout juste d'arriver en provenance de Hautegarde. Cela devrait être suffisant pour soigner tous les soldats blessés.&lt;BR&gt;&lt;BR&gt;Les herbes de soin que vous avez récolté en route nous seront aussi d'une aide précieuse, gardien.&lt;NEXTPAGEBUTTON&gt;"J'espère que les soldats seront vite sur pieds."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

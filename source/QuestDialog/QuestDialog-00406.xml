@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine vous a demandé de remettre le codex de Kugai à Lian pour traduction. Ce dernier n'y a pas trouvé mention de son frère, mais il a découvert l'identité du démon qui supervisait les forces du mal opérant sur l'île&amp;nbsp;: Karascha. Un autre passage parlait de Lok... un dieu prétendument mort depuis longtemps.&lt;BR&gt;&lt;BR&gt;Quel que soit le commanditaire qui se cachait derrière lui, Lian et Sersine ont pris la décision d'éliminer Karascha.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Allez remettre ce codex à Lian. Son esprit sait discerner l'ordre au milieu du chaos, et nous devons percer les secrets de ce document.&lt;BR&gt;&lt;BR&gt;Nous devons lui faire parvenir ce codex avant que celui ou celle qui donne ses ordres à Kugai n'ait vent de sa capture. Gregor garde la passe sud... c'est le chemin le plus court pour retourner à l'avant-poste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Ça fait plaisir de croiser un visage qui n'a pas été défiguré par des coups de hache ou une magie maléfique.&lt;BR&gt;&lt;BR&gt;Les démons ont l'air à leur aise dans la vallée, mais il faut également se méfier des patrouilles d'orkans qui circulent dans les hauteurs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Content de vous revoir, &lt;PCNAME&gt;. En quoi puis-je vous être utile&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Un codex&amp;nbsp;? Ce document nous permettra peut-être enfin de faire une avancée significative&amp;nbsp;! Donnez-moi ça&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Hélas... aucune trace de son nom...&lt;NEXTPAGEBUTTON&gt;"Vous pensiez à Elion&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui... toutefois, le codex mentionne un autre nom&amp;nbsp;: Karascha... qui serait en train de rassembler des forces pour mener à bien un projet malveillant. Attendez... c'est impossible... impensable... Lok est mort&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez remettre ce document à Sersine. Quels que soient ses projets, Karascha doit être arrêté... le tuer reste la meilleure option.&lt;NEXTPAGEBUTTON&gt;"Quel est le problème&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La plupart des démons sont des mercenaires. Ils travaillent pour le plus offrant. La personne qui s'est adjoint les services de Karascha représente une grande menace. Certaines informations de ce codex sont certainement fausses, mais que ce soit le cas ou pas, nous devons arrêter Karascha.&lt;BR&gt;&lt;BR&gt;Qui plus est, cette vermine est responsable de ce qui a pu arriver... à Elion.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1025">
+        <Page social="4">Lian a fait une découverte&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il a raison. Lok est mort au cours de la Guerre divine. Il ne peut pas se cacher derrière tout ça&amp;nbsp;! Le codex faisait vraiment mention de tout ça&amp;nbsp;? Très intéressant.&lt;NEXTPAGEBUTTON&gt;"Lian a dit que Karascha devait mourir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eh bien, je suis parfaitement d'accord avec lui.&lt;BR&gt;&lt;BR&gt;Verus pense qu'il est possible d'accéder au repaire de Karascha via le sanctuaire situé au nord-ouest. Ce sera donc votre destination suivante.&lt;BR&gt;&lt;BR&gt;En souvenir d'Elion... et dans l'intérêt de la Fédération, Karascha doit mourir.</Page>
+    </Text>
+</QuestDialog>

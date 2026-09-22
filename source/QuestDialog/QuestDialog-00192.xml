@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">&lt;PCNAME&gt;&amp;nbsp;! J'ai reçu une demande de renforts émanant des Collines célestes. Drustan, du Poste de Casidhe, a besoin d'aide en urgence. Je n'ai pas de soldats à lui envoyer, mais puisque vous êtes là...&lt;BR&gt;&lt;BR&gt;Il est un peu nerveux, mais c'est un brave homme. Faites votre possible pour l'aider. Pour la Fédération&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">C'est vous, la solution miracle&amp;nbsp;? Une seule recrue&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Daven a perdu le sens des réalités. Nous avons besoin de bien plus que ça, mais puisque vous êtes là, nous allons vous trouver du boulot. Les orkans sont en train de se regrouper pour attaquer. Nous allons devoir procéder à une frappe préventive. Eliminez les {@LinkCreature:7#5#orkans} et les {@LinkCreature:7#6#combattants} crocs-rouges, et rapportez-moi leurs crocs.&lt;BR&gt;&lt;BR&gt;Ca nous permettra peut-être de souffler un peu. Au travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">Bien joué&amp;nbsp;! Ça fait un bon paquet de crocs.&lt;BR&gt;&lt;BR&gt;Ca devrait leur coller les miquettes pour un moment, mais ils finiront par revenir. Avec un peu de chance, d'ici là, nous aurons reçu des renforts plus conséquents.&lt;BR&gt;&lt;BR&gt;Nous avons de la chance d'être tombés sur vous, &lt;PCNAME&gt;. Continuez comme ça.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">Vous avez vos ordres, soldat. Au travail.</Page>
+    </Text>
+</QuestDialog>

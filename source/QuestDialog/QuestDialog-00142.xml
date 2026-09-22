@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">Tuwangi ! Vous allez nous aider ?&lt;BR&gt;&lt;BR&gt;Pangari est un grand magicien puissant, mais sans &lt;font color='#660000'&gt;{@RawItem:206818}&lt;/font&gt; dont il a besoin pour ses potions, il ne peut rien faire !&lt;BR&gt;&lt;BR&gt;Le {@RawItem:206818} est extrait des cristaux rouge orangé qu'on ne trouve pas ici. Si vous ne trouvez rien en route, vous pouvez aussi acheter les ressources, mais elles ne sont pas données, Tuwangi !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1022">
+        <Page social="0" voiceTypeId="0">Super ! Vite fait, bien fait ! Pangari vous doit une fière chandelle.&lt;BR&gt;&lt;BR&gt;Merci, merci beaucoup !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1022">
+        <Page social="0">Les ingrédients ? Où sont les essences de vent ? Vous les avez récupérées ?</Page>
+    </Text>
+</QuestDialog>

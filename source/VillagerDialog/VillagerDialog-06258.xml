@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="123" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="1" voiceTypeId="26">N'hésitez pas à me faire savoir comment je peux vous aider.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="1" voiceTypeId="26">Vous voulez plus de renforts de proximité au poste central&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes de proximité au centre.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="4">
+        <Page social="1" voiceTypeId="26">Vous voulez plus de renforts à distance au poste central&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes à distance au centre.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" endSocial="1">
+        <Page social="4" voiceTypeId="26">Vous voulez plus de renforts de proximité au poste est&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes de proximité à l'est.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="1">
+        <Page social="14" voiceTypeId="26">Vous voulez plus de renforts à distance au poste est&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes à distance à l'est.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" endSocial="1">
+        <Page social="14" voiceTypeId="26">Vous voulez plus de renforts de proximité au poste ouest&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes de proximité à l'ouest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" endSocial="1">
+        <Page social="14" voiceTypeId="26">Vous voulez plus de renforts à distance au poste ouest&amp;nbsp;?&lt;TEXTBUTTON&gt;Envoyer des gardes à distance à l'ouest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" endSocial="1">
+        <Page social="14" voiceTypeId="26">Vous voulez augmenter l'endurance de tous les gardes&amp;nbsp;?&lt;TEXTBUTTON&gt;Augmenter l'endurance de tous les gardes.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" endSocial="1">
+        <Page social="14" voiceTypeId="26">Je peux soigner tous les gardes.&lt;TEXTBUTTON&gt;Soigner tous les gardes.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Demander des renforts.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

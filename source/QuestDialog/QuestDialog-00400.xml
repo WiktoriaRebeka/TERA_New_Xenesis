@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">Ce que vous voyez autour de vous est le résultat d'une situation inévitable. Les Orkans qui essayaient de voler nos caisses de ravitaillement ont provoqué le crash de l'aéronef, et à présent ils vendent ces caisses aux leurs.&lt;BR&gt;&lt;BR&gt;Nous devons impérativement les récupérer. Si vous voulez nous aider, récupérez-en au moins quatre et apportez-les-moi ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">J'espérais vraiment que vous auriez retrouvé une caisse en particulier... celle qui contenait les artefacts demandés par &lt;b&gt;Sersine&lt;/b&gt;. Mais bien entendu, j'apprécie vos efforts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Toute la Vallée maudite attend la livraison de ces marchandises. Avec impatience, pour tout dire.&lt;BR&gt;&lt;BR&gt;Mais ne vous inquiétez pas... que ce soit injuste ou pas, c'est à moi que tout le monde en veut.</Page>
+    </Text>
+</QuestDialog>

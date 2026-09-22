@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="4">Nous mourons de faim, ici-bas. Normalement, une livraison de victuailles est censée nous parvenir une fois toutes les deux semaines, mais vous connaissez la chanson.&lt;BR&gt;&lt;BR&gt;Écoutez, on ne trouve pas de minerai de xermétal dans la région, mais avez-vous déjà entendu parler de {@RawItem:206809} ? Il m'en faut beaucoup, car sans ce métal, impossible de faire la guerre convenablement.&lt;BR&gt;&lt;BR&gt;Je suis prêt à vous le payer au-dessus de sa valeur ! Rapportez-moi assez de {@RawItem:206809}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="4">Oh, voilà de quoi nous approvisionner le temps que le ravitaillement nous parvienne. Notre dernière cargaison n'est jamais arrivée&amp;nbsp;! Merci encore.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1007">
+        <Page social="0">Vous n'avez pas encore trouvé de {@RawItem:206809} ? Je vais finir par perdre la boule !</Page>
+    </Text>
+</QuestDialog>

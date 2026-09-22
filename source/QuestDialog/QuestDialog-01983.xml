@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Braga, le capitaine des gardiens, vous a fait appeler.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Braga, le capitaine des gardiens de Hautegarde, vous a fait appeler.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2106">
+        <Page social="0" voiceTypeId="0">J'ai beaucoup entendu parler de vous ces derniers temps.&lt;BR&gt;J'imagine que Redorn et Marmundam vous ont causé quelques désagréments. &lt;BR&gt;Tout dans les muscles, rien dans la tête.&lt;BR&gt;&lt;BR&gt;Et alors ? Vous avez reçu quelque chose de potable ?&lt;BR&gt;Si oui, puis-je y jeter un œil ?&lt;NEXTPAGEBUTTON&gt;"Ils m'ont donné beaucoup de choses."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pas mal du tout.&lt;BR&gt;&lt;BR&gt;Ils vous ont donné de l'&lt;font color='#FF0000'&gt;équipement évolutif&lt;/font&gt;.&lt;BR&gt;Apparemment, ils vous tiennent tous deux en haute estime.&lt;BR&gt;&lt;BR&gt;Mais il manque quelque chose que je tiens à vous remettre.&lt;BR&gt;&lt;BR&gt;Vous avez encore besoin d'une broche, d'un serre-tête et de sous-vêtements.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2106">
+        <Page social="0" voiceTypeId="0">Je vous donne un bon d'échange pour des sous-vêtements et cette broche.&lt;BR&gt;&lt;BR&gt;Un &lt;font color='#FF0000'&gt;niveau d'équipement de 428&lt;/font&gt; est impératif pour être considéré comme un vrai guerrier.&lt;BR&gt;&lt;BR&gt;En dotant votre équipement d'évolutions et d'enchantements réguliers, vous pourriez même le transformer en &lt;font color='#FF0000'&gt;équipement de saturne&lt;/font&gt;.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que c'est, au juste ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je crois avoir entendu dire que c'est à partir d'un &lt;font color='#FF0000'&gt;équipement de saturne doté d'un niveau d'équipement de 439&lt;/font&gt; que l'on rejoint la véritable élite de la Fédération Valkyon.&lt;BR&gt;&lt;BR&gt;Celle-ci a accès à des missions bien plus difficiles.&lt;BR&gt;&lt;BR&gt;Mais ça ne devrait vous poser aucun problème, pas vrai ?</Page>
+    </Text>
+</QuestDialog>

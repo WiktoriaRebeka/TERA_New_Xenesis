@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">J'ai observé quelque chose de troublant dans la &lt;font color='#660000'&gt;Vallée des Hurlements&lt;/font&gt;. Deux créatures de la même espèce se sont battues et le vainqueur a dévoré la chair du perdant.&lt;BR&gt;&lt;BR&gt;C'est un comportement très atypique et il faudrait enquêter.&lt;NEXTPAGEBUTTON&gt;"Que pouvons-nous faire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Notre magie pourrait nous aider à comprendre ce phénomène. Chassez des {@LinkCreature:21#4#orisk brutaux} et effectuez des prélèvements.&lt;BR&gt;&lt;BR&gt;Puis rapportez-les-moi et nous essaierons de comprendre ce qui peut expliquer un tel comportement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">J'espère que ça n'a pas été trop dur. Le désert est si vaste et dangereux.&lt;BR&gt;&lt;BR&gt;Vous avez les prélèvements&amp;nbsp;? Donnez-les-moi. A présent, reculez&amp;nbsp;! Ca pourrait être dangereux.&lt;BR&gt;&lt;BR&gt;Par les dieux&amp;nbsp;! L'odeur contenue dans ces prélèvements a bien failli me submerger&amp;nbsp;! Je dois me reposer, incroyable. Mon nez ne me pardonnera peut-être jamais.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">Je sais que ces créatures sont dégoûtantes et qu'elles empestent, mais sans ces prélèvements, je ne peux rien faire. Rien du tout.</Page>
+    </Text>
+</QuestDialog>

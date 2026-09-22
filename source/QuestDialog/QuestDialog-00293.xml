@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">Au combat, les {@LinkCreature:10#18#léviathans nagas} ont l'air de catalyser la colère de leurs pairs.&lt;BR&gt;&lt;BR&gt;En éliminant ces créatures, je me demande si nous pourrions affecter la volonté de combattre. Nous devons découvrir comment y parvenir.&lt;BR&gt;&lt;BR&gt;Il n'existe qu'un moyen d'en avoir le cœur net. Essayez de tuer les léviathans, &lt;PCNAME&gt;, ça devrait plonger les nagas dans le "désarroi".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Il doit y avoir quelque chose dans ces jarres. Je vais les envoyer à l'un de ces érudits qui pourra s'amuser à découvrir ce qu'elles contiennent.&lt;BR&gt;&lt;BR&gt;Bon travail, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1003">
+        <Page social="0">Ecoutez, il n'y a pas de danger. Ne vous fiez pas au nom des {@LinkCreature:10#18#léviathans nagas}.&lt;BR&gt;&lt;BR&gt;Vous pouvez vous y frotter.</Page>
+    </Text>
+</QuestDialog>

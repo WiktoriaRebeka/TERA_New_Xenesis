@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">{@LinkCreature:77#3008#Varaz} est probablement l'un des botanistes les plus éminents de ce siècle.&lt;BR&gt;&lt;BR&gt;Cependant, comme beaucoup de membres de l'Invalesco, c'est un érudit, pas un soldat.&lt;BR&gt;&lt;BR&gt;Il a donc besoin de vos compétences en combat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, merveilleux&amp;nbsp;! Quelqu'un pour m'assister&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ma mission consiste à étudier la flore locale, car la plupart des espèces végétales de la région ont subi une mutation due à la présence des argons.&lt;BR&gt;&lt;BR&gt;Rassurez-vous, au moins, elles ne sont pas devenues carnivores. Par contre, je ne peux pas en dire autant des argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, splendide&amp;nbsp;! De parfaits spécimens.&lt;BR&gt;&lt;BR&gt;Vous êtes botaniste, vous aussi&amp;nbsp;? Si ce n'est pas le cas, vous devriez envisager de vous reconvertir.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Avoir quelques plantes mutantes de l'{@Rgn:46010$$Aiguille de Raga Evala} viendrait agrémenter nos recherches de manière très pertinente.&lt;BR&gt;&lt;BR&gt;Puisque vous allez justement dans cette direction, pourriez-vous nous en rapporter quelques-unes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="7" villagerId="3008">
+        <Page social="4">Oh, splendide&amp;nbsp;! De parfaits spécimens.&lt;BR&gt;&lt;BR&gt;Vous êtes botaniste, vous aussi&amp;nbsp;? Si ce n'est pas le cas, vous devriez envisager de vous reconvertir.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" villagerId="3008">
+        <Page social="0">J'ai entendu dire que des champignons mutants poussaient dans les {@Rgn:46007$$Profondeurs de Raga Evala}.&lt;BR&gt;&lt;BR&gt;Si je pouvais étudier certains de ces spécimens, j'arriverais peut-être à trouver leur utilité pour les argons.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="9" villagerId="3008">
+        <Page social="4">Oh, splendide&amp;nbsp;! De parfaits spécimens.&lt;BR&gt;&lt;BR&gt;Vous êtes botaniste, vous aussi&amp;nbsp;? Si ce n'est pas le cas, vous devriez envisager de vous reconvertir.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Un de mes collègues m'a affirmé que des fleurs mutantes poussaient à l'{@Rgn:46010$$Aiguille de Raga Evala}.&lt;BR&gt;&lt;BR&gt;Je ne vous remercierais jamais assez si vous pouviez m'en apporter quelques-unes, j'aimerais les étudier.</Page>
+    </Text>
+</QuestDialog>

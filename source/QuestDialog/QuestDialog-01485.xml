@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="4">&lt;PCNAME&gt;, Khulil dit que deux guerriers sikandaris, Ctholak et Pothika, nous séparent de Sonacria au Camp du Pont brisé.&lt;BR&gt;&lt;BR&gt;Ils auraient massacré tous ceux qui ont tenté de les défier. Mais peu importe, il faut les affronter. Il faut prévenir Sonacria de l'implication de Killian et de la présence grandissante de l'Atel Akaad.&lt;BR&gt;&lt;BR&gt;Pour la Fédération&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4">Vous avez réussi à passer&amp;nbsp;? Décidément, rien ne vous résiste&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je soupçonnais Killian, ce monstre ne vit que pour le chaos, mais le lien avec l'Atel Akaad m'inquiète de plus en plus.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, nous ne pouvons rien faire d'autre que notre devoir. {@gender:Prêt/Prête} à vous battre&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Muhrak le Forgeron légendaire vous a demandé des matériaux pour renouveler les stocks de son atelier. Vous les lui avez rapportés, et il se chargea de créer une arme incroyable&amp;nbsp;: la Torche des dieux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Passez à mon atelier. J'ai besoin de matériaux !&lt;BR&gt;&lt;BR&gt;Le forgeron&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Ah, vous voilà enfin. Je vous attendais ! &lt;BR&gt;&lt;BR&gt;Si nous avions une fournaise divine, nous n'aurions pas besoin de ces matériaux, mais la fusion des reliques antiques et de l'essence du noyau nécessite une chaleur intense et de l'eau pure pour tremper les matériaux incandescents !&lt;BR&gt;&lt;BR&gt;Merci de récupérer de la moelle de glace, de la moelle de feu et des fragments de glacier. &lt;BR&gt;Vous trouverez tous ces objets dans la Vallée des aiguilles.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Où, exactement ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La moelle de glace et la moelle de feu sont des sortes de cristaux engendrés dans le noyau des anciens géants de glace. &lt;BR&gt;&lt;BR&gt;Le chef est sans doute assez vieux. Vous le trouverez à Raseri Festning. &lt;BR&gt;&lt;BR&gt;Récupérez des fragments de glacier sous le pont qui mène à la Crique de Glacecroc. Allez, en route !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Bien. Avec ceci, je vais pouvoir fusionner les reliques antiques et l'essence du noyau.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">J'ai besoin de matériaux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Enfin ! Nous avons réussi à fusionner les reliques antiques et l'essence du noyau. &lt;BR&gt;&lt;BR&gt;Nous allons maintenant pouvoir éliminer Kelsaik ! &lt;BR&gt;&lt;BR&gt;Allez-y et réglez-lui son compte ! &lt;BR&gt;&lt;BR&gt;Allez vous adresser à l'Ingénieur castanic, à Habere, avant de partir pour la Tour d'ébène.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1" voiceTypeId="0">C'est Muhrak qui vous envoie ? Vous souhaitez entrer dans la Tour d'ébène ?&lt;BR&gt;&lt;BR&gt;Jusqu'à présent, personne n'est parvenu à y entrer car un poison puissant la protège.&lt;BR&gt;&lt;BR&gt;*tousse* Mais, à la demande de Muhrak, j'ai installé des appareils dans les parages pour neutraliser le poison ! &lt;BR&gt;&lt;BR&gt;Celui-ci s'est donc considérablement affaibli.&lt;BR&gt;Et pourtant, aucun Humain ordinaire n'est entré en ces lieux. Mais tel que je vous connais, vous supporterez bien un peu de poison.</Page>
+    </Text>
+</QuestDialog>

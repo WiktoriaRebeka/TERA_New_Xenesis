@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Saviez-vous que les {@LinkCreature:21#1#basilics mat vicieux} sont recouverts des écailles les plus légères et néanmoins les plus épaisses&amp;nbsp;? Si vous m'en rapportez, je pourrais renforcer l'armure de nos soldats. De nombreuses vies seront épargnées&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ça vous dit&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">On ne m'avait pas raconté de salades&amp;nbsp;! Vous faites un combattant hors pair&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci pour les écailles. On en fera bon usage&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Ce n'est pas facile, mais je ne vous l'aurais pas demandé si ce n'était pas aussi important&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

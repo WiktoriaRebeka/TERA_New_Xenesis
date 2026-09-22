@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="4">Vous voyez la tour qui se trouve là-haut, celle qui recrache cette espèce de saleté bleutée&amp;nbsp;? C'est l'Aiguille de Cyasma.&lt;BR&gt;&lt;BR&gt;Je dois l'étudier pour trouver un moyen de nuire à l'ennemi, mais l'entrée est lourdement gardée. J'ai besoin que vous alliez tuer le maître de l'aiguille et ses défenseurs kalashs. Si vous parvenez à les occuper, je pourrai effectuer toutes mes recherches en même temps.&lt;BR&gt;&lt;BR&gt;Allez voir Ginea quand vous aurez fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1024">
+        <Page social="6">Grâce à vous, nous avons tenu bon, tout en affaiblissant considérablement l'ennemi. Je doutais du succès d'une telle entreprise.&lt;BR&gt;&lt;BR&gt;Nous sommes également sur le point de localiser la reine argone... Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"Des nouvelles d'elle&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ma sœur cadette est en train de remonter sa piste et je compte sur vous pour l'assister. Allez prendre contact avec {@LinkCreature:250#1006}, à l'Avant-poste du Linceul.&lt;BR&gt;&lt;BR&gt;Et s'il vous plaît, veillez sur ma sœur.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1006">
+        <Page social="6">Bienvenue à la frontière du territoire argon. Mon frère parle de vous en termes très élogieux.&lt;BR&gt;&lt;BR&gt;Passons aux choses sérieuses.</Page>
+    </Text>
+</QuestDialog>

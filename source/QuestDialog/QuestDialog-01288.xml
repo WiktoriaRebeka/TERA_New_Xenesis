@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les chercheurs du Mysterium ont découvert que les argons avaient transféré une grande quantité d'énergie provenant de l'Aiguille de cyasma détruite à Granarkus. En cherchant la destination exacte de cette énergie, vous êtes {@gender:tombé/tombée} sur des argons qui drainaient le corps de Kelsaik. Dans la foulée, la reine argone Shandra Manaya s'est emparée du Feu de Sikander.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">L'opération de destruction de l'Aiguille de cyasma est une réussite. Allez présenter votre rapport au commandant Tamur, à {@Rgn:84001$$Kaiator}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="1" voiceTypeId="0">Vous avez infligé une cuisante défaite aux argons en détruisant l'appareil de transfert principal de l'Aiguille de cyasma !&lt;BR&gt;&lt;BR&gt;Leurs nombres sont partout en recul et ils faiblissent à vue d'œil.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous avez eu un impact décisif sur le déroulement de ce conflit. &lt;BR&gt;La Fédération Valkyon vaincra !&lt;BR&gt;&lt;BR&gt;Il ne nous reste plus qu'à réussir à dénicher et anéantir Shandra Manaya et il n'y aura plus personne pour commander les argons !&lt;BR&gt;&lt;BR&gt;Merci de vous charger d'éliminer Shandra Manaya ! Vous êtes la seule personne à qui je peux confier cette mission prestigieuse !&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver Shandra Manaya ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les chercheurs du Mysterium de l'Aiguille de cyasma remontent actuellement la trajectoire du flux d'énergie.&lt;BR&gt;&lt;BR&gt;Ils espèrent ainsi découvrir où Shandra Manaya se terre à Granarkus.&lt;BR&gt;&lt;BR&gt;Oh, quand on parle du loup...&lt;BR&gt;Voilà Adeldur, le directeur de l'enquête.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5039">
+        <Page social="1" voiceTypeId="0">Saviez-vous que nos chercheurs remontent le flux d'énergie des argons ?&lt;BR&gt;&lt;BR&gt;Et que l'étude de l'appareil de transfert principal a indiqué que d'importants volumes d'énergie ont afflué vers Granarkus ?&lt;BR&gt;&lt;BR&gt;En revanche, nous n'avons pas encore pu identifier la destination exacte de l'énergie. &lt;BR&gt;&lt;BR&gt;En remontant le flux d'énergie, nous trouverons certainement la cachette de Shandra Manaya. Le quartier général des argons !&lt;BR&gt;&lt;BR&gt;L'idéal serait d'étudier le flux d'énergie sur place. Pouvez-vous nous y aider ?&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nos chercheurs vont se rendre en personne à Granarkus et remonter le flux d'énergie.&lt;BR&gt;&lt;BR&gt;Sans escorte, ils courent à une mort certaine. Les lieux grouillent d'argons.&lt;BR&gt;&lt;BR&gt;Je vous prie donc d'accompagner nos chercheurs pendant leurs recherches.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5039">
+        <Page social="0" voiceTypeId="0">Vous me plaisez, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Vous obtiendrez des informations plus détaillées auprès de la chercheuse Virienne, qui attend dans l'Avant-poste du Linceul, à proximité de Granarkus.&lt;BR&gt;&lt;BR&gt;Je vous amène auprès d'elle. Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="4" villagerId="5039">
+        <Page social="4" voiceTypeId="0">Allez parler à la chercheuse Virienne. Elle se cache sans doute aux yeux des argons.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="4" villagerId="1031">
+        <Page social="1" voiceTypeId="0">Êtes-vous là pour nous aider ?&lt;BR&gt;&lt;BR&gt;Ça alors ! Mais vous êtes bien &lt;PCNAME&gt;, la personne qui a libéré Kanstria.&lt;BR&gt;&lt;BR&gt;Quelle joie de travailler avec vous !&lt;BR&gt;J'ai un bien meilleur pressentiment, tout d'un coup !&lt;BR&gt;&lt;BR&gt;Allons ! &lt;BR&gt;Mettons-nous au travail !&lt;NEXTPAGEBUTTON&gt;"Ça marche."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">L'énergie qui émane de l'appareil de transfert principal placé dans l'Aiguille de cyasma s'accumule tout d'abord dans le purificateur d'énergie de Granarkus. Elle est ensuite acheminée ailleurs.&lt;BR&gt;&lt;BR&gt;Commençons par remonter le flux d'énergie.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, assurez la sécurité dans les environs du purificateur d'énergie au sud-est de l'Extracteur noyul et aidez les chercheurs à emprunter le portail.&lt;BR&gt;&lt;BR&gt;Utilisez pour cela le téléportail situé à proximité du purificateur d'énergie.&lt;BR&gt;&lt;BR&gt;Je compte sur vous, &lt;PCNAME&gt; !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" prevId="7" villagerId="1024">
+        <Page social="1" voiceTypeId="0">Bien joué ! &lt;BR&gt;Nous pouvons lancer les recherches immédiatement. Les chercheurs vont suivre les racines des argons.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, vous avez sans doute vu ces racines circulaires dans l'Aiguille de cyasma, non ? Ce sont elles qui assurent le flux d'énergie.&lt;NEXTPAGEBUTTON&gt;"Je les ai vues."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous pensons que l'énergie circule jusqu'à Shandra Manaya.&lt;BR&gt;&lt;BR&gt;Aidez-nous donc, &lt;pcname&gt;.&lt;BR&gt;&lt;BR&gt;Dadoam est déjà parti pour la destination probable. Emboîtez-lui donc le pas pour aller l'aider. &lt;BR&gt;&lt;BR&gt;Puisque c'est sans doute là que l'énergie est la plus intense, les argons y sont probablement particulièrement redoutables.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="8" villagerId="1025">
+        <Page social="1" voiceTypeId="0">Par ici, &lt;PCNAME&gt; ! &lt;BR&gt;&lt;BR&gt;Comme prévu, je mesure ici une forte concentration d'énergie, protégée par des argons surpuissants. &lt;BR&gt;&lt;BR&gt;Les énergies plus faibles s'apparentent aux incubateurs argons.&lt;BR&gt;&lt;BR&gt;Je parie qu'ils y produisent des argons. Nous devons les anéantir au plus vite. Vous pourriez vous en charger ?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" prevId="9" villagerId="1032">
+        <Page social="1" voiceTypeId="0">Kelsaik !&lt;BR&gt;Que fait donc Kelsaik ici ?&lt;BR&gt;&lt;BR&gt;Et le monstre, là, c'était Shandra Manaya ?&lt;BR&gt;La reine des Argons ?&lt;BR&gt;&lt;BR&gt;C'est donc à un adversaire aussi redoutable que nous nous attaquons ?&lt;NEXTPAGEBUTTON&gt;"Allons, c'est dans nos cordes !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'est quoi au juste, ce feu de Sikander dont Shandra Manaya s'est emparée ?&lt;BR&gt;&lt;BR&gt;Je sais bien que Sikander est l'ancien nom de Kelsaik, avant sa mutation. Mais je ne trouve aucune mention du feu de Sikander dans les documents des Barakas.&lt;BR&gt;&lt;BR&gt;J'ai bien peur que la déesse Kaia soit la seule à pouvoir nous répondre.&lt;BR&gt;&lt;BR&gt;Voici un parchemin de téléportation. Commencez par rentrer à {@Rgn:76001$$Kanstria}.</Page>
+    </Text>
+</QuestDialog>

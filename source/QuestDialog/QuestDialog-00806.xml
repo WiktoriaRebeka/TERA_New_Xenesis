@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="4">Quelle plaie&amp;nbsp;! Les villageois qui participent aux efforts de reconstruction se font sans cesse attaquer par les {@LinkCreature:31#2#seigneurs des glaces ossugons} et les {@LinkCreature:31#5#serviteurs squelettiques de givre}.&lt;BR&gt;&lt;BR&gt;Qui plus est, ils m'ont fait savoir qu'ils étaient à court de cendre&amp;nbsp;: un ingrédient essentiel pour le ciment qu'ils emploient&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Essayez donc de faire d'une pierre deux coups&amp;nbsp;; tuez ces morts-vivants et récupérez leurs os. Nous verrons s'il est possible de les utiliser.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1009">
+        <Page social="4">Bien joué, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ce n'est pas le genre de cendre que nous avons l'habitude d'employer, mais elles devraient donner un ciment des plus solides, sachant à quel point les morts-vivants sont tenaces. Ha ha&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1009">
+        <Page social="0">Nous aurons le temps de discuter une fois que ces monstres seront morts.</Page>
+    </Text>
+</QuestDialog>

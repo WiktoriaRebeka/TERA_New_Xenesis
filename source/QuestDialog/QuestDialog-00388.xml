@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Votre "arsenal" en dit long sur vous. Vous êtes ici pour combattre, pas pour apprendre. Toutefois, je vous crois capable de faire les deux.&lt;BR&gt;&lt;BR&gt;Les &lt;b&gt;essences&lt;/b&gt; de ces {@LinkCreature:13#300933#ghilliedhus} sont anormales. Avant de pouvoir faire ce qui est juste, vous allez devoir apprendre à reconnaître ce qui ne l'est pas.&lt;BR&gt;&lt;BR&gt;Vous croyez-vous de taille à prendre votre première leçon avec un peu de bûcheronnage improvisé&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">Après tout, vous vous en sortiriez peut-être bien au milieu des chercheurs... si vous appreniez à vous passer de votre arme.&lt;BR&gt;&lt;BR&gt;Mes "chiens de garde" Helier et Clovis ont dit qu'ils souhaitaient vous parler. Quand vous le pourrez, allez voir ce qu'ils veulent.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Je vais être franc, &lt;PCCLASS:lcase&gt;. Si vous ne voyez pas ce qui rend ces {@LinkCreature:13#300930#ghilliedhus anciens} "spéciaux", vous n'êtes d'aucune utilité à la Fédération ou à moi-même. Continuez d'accomplir votre devoir de soldat jusqu'à ce que vous sachiez reconnaître une authentique &lt;b&gt;essence de cœur de bois&lt;/b&gt;.</Page>
+    </Text>
+</QuestDialog>

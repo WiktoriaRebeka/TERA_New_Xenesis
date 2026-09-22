@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="489" voiceTypeId="18" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="489" endSocial="14" prevId="0" villagerId="1007">
+        <Page social="4">Je vous en prie, ne me tuez pas. Je ne suis qu'un prisonnier. Sauvez-moi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="489" endSocial="12" prevId="0" villagerId="1007">
+        <Page social="9">Croyez-moi, je n'ai rien fait de mal&amp;nbsp;!&lt;TEXTBUTTON&gt;"Je ne sais pas…"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Vous mentez."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

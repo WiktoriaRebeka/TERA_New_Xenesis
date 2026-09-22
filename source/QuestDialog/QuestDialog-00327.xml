@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Aucun navire pirate n'a pris la mer. Le psycholithe doit donc se trouver quelque part à l'étage, et nous allons mettre la main dessus.&lt;BR&gt;&lt;BR&gt;Adressez-vous à Piarto, à l'étage. Il est en train d'y réunir des informations. Au passage, profitez-en pour tuer quelques {@LinkCreature:11#2007#pourfendeurs du Fouet rouge}, ça nous assurera un peu de tranquillité au deuxième étage.&lt;BR&gt;&lt;BR&gt;Oh, encore un détail&amp;nbsp;: Piarto est un maître du déguisement. Il peut ressembler à n'importe quoi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">C'est Otus qui vous envoie&amp;nbsp;? Bien, je commençais à penser qu'on m'avait oublié.&lt;BR&gt;&lt;BR&gt;Un psycholithe&amp;nbsp;? Non, ça ne me dit rien du tout.&lt;BR&gt;&lt;BR&gt;Mais si vous voulez fouiller un peu le coin, ne vous en privez pas.</Page>
+    </Text>
+</QuestDialog>

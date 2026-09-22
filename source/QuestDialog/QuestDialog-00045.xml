@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="60" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0">Toutes les fées n'ont pas cédé aux effets du vent de folie qui balaie la Forêt féerique.&lt;BR&gt;&lt;BR&gt;Les fées encore loyales se trouvent à l'Étang des Fées, mais les rebelles se préparent à lancer une offensive de grande envergure.&lt;BR&gt;&lt;BR&gt;Nous allons être assaillis par des hordes de {@LinkCreature:2#2#fées furieuses}, les {@LinkCreature:2#152#insurgés féeriques}, les {@LinkCreature:2#62#rebelles féeriques} et autres {@LinkCreature:2#52#protecteurs féeriques}. &lt;NEXTPAGEBUTTON&gt;"Comment les arrêter&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'espérais vraiment que nous n'en arriverions pas à ces extrémités. L'humus de la forêt a suffisamment bu le sang de notre peuple.&lt;BR&gt;&lt;BR&gt;Il va pourtant devoir couler de nouveau&amp;nbsp;; il n'y a pas d'autre solution. Allez exterminer les fées rebelles qui se rassemblent près de l'Étang des Fées et récupérez leurs armes. Nous pourrons nous en servir pour armer ceux d'entre nous qui ont encore toute leur raison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="0">Chaque fée qui meurt emporte avec elle une partie de la magie du Rêve, &lt;PCNAME&gt;. Cette mission a dû être un crève-cœur, mais elle était nécessaire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1034">
+        <Page social="0">Je sais qu'il s'agit d'un sale boulot, mais allez tuer les fées avant qu'elles n'exterminent les esprits sains de l'Étang des Fées&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

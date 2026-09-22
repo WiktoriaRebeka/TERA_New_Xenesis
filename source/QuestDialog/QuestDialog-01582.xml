@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Shoju Punhan a perdu toute sa fortune en jouant contre le seigneur de la roulette. Mais il ne parvient pas à résister à l'appel du jeu et quémande une dernière pièce d'or auprès du gardien.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">Dans la Roulette de Demoroth, vous rencontrez un Humain qui semble être un villageois.&lt;BR&gt;Vous lui demandez ce qui s'est passé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Hé, vous ! Aidez-moi, je vous en prie.&lt;BR&gt;J'ai perdu toute ma fortune en misant contre Demoroth.&lt;BR&gt;En reprenant mes esprits, j'ai compris que j'avais perdu tout mon or et que je n'avais même plus les moyens de rentrer chez moi.&lt;BR&gt;&lt;BR&gt;Une carte dorée suffirait amplement. Vous accepteriez de m'aider ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Très bien... Avec ça, je vais pouvoir m'offrir une dernière partie...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">S'il vous plaît ! Je vous en supplie. Il faut bien que je trouve un moyen de rentrer.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="466" prevId="3" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Merci ! Cette carte fera l'affaire.&lt;BR&gt;&lt;BR&gt;Mais attendez... et si je gagnais ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="466" villagerId="1078">
+        <Page social="0">S'il vous plait, donnez-moi de quoi rentrer chez moi...</Page>
+    </Text>
+</QuestDialog>

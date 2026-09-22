@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="9">Vous faites partie des soldats de l'épée de Kaia&amp;nbsp;? Vous pourriez m'aider&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mes fils ont quitté le domicile familial il y a quelques jours de cela et je commence à me faire un sang d'encre. Pourriez-vous aller prendre de leurs nouvelles&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">Vous cherchez Zebedah et Zebulon, les fils de Wynne&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Pardon, je ne voulais pas vous donner de faux espoirs. Je ne les ai pas vus. J'essaie de surveiller ce qui se passe dans le coin, mais je ne suis pas Balder. Je ne peux pas tout voir.&lt;BR&gt;&lt;BR&gt;Allez poser la question à {@LinkCreature:212#1001#Munam}. Et ne le laissez pas vous embobiner. Dans le genre commère, on ne fait pas mieux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1001">
+        <Page social="4">Vous êtes ici à la demande de Wynne&amp;nbsp;? Et vous dites que les enfants ont disparu&amp;nbsp;? Il se passe bien des choses, en ce moment, mais je n'ai pas eu vent de cette affaire. Il y a bien un enfant qui traînait dans le coin, il y a quelques jours. Vous devriez poser la question aux gardes en faisant le tour du campement. Je crains bien de ne rien pouvoir vous dire de plus. En tout cas, c'est un plaisir de vous voir revenir parmi nous en un seul morceau.</Page>
+    </Text>
+</QuestDialog>

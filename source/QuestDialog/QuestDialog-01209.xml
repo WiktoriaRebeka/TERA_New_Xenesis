@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les Barakas de Hautegarde vous ont aidé à rejoindre le Front de Khanovar. Vous y avez rencontré le commandant {@linkcreature:528#5005#Tamur} qui vous a remercié et a souhaité vous voir mettre fin à cette terrible guerre.&lt;BR&gt;&lt;BR&gt;Cet interminable conflit réclamait toujours plus de victimes et un nouveau champ de bataille a donc été ouvert sur le Front de Khanovar, afin de former de nouveaux soldats. En vous servant du canon de siège, vous avez finalement réussi à repousser les gigantesques argons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Télégramme de la Citadelle de Khanovar]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ainsi, vous avez reçu ma lettre. &lt;BR&gt;Venez vite !&lt;BR&gt;&lt;BR&gt;Tamur</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Quelle joie de vous voir, &lt;PCNAME&gt; !&lt;BR&gt;Malheureusement, la situation n'est pas reluisante, sur le front.&lt;BR&gt;Et tout s'est bien passé pour vous ?&lt;NEXTPAGEBUTTON&gt;"En quoi puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">(Tamur semble effrayé.)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous ne cessez de m'impressionner. &lt;BR&gt;&lt;BR&gt;Je suis bien content du soutien que nous offre Hautegarde dans cette guerre. Ils vont nous aider à étudier les argons et leurs vestiges dans les régions inconnues. &lt;BR&gt;&lt;BR&gt;Pour l'heure, nous n'avons aucune idée de ce qu'ils manigancent. &lt;BR&gt;&lt;BR&gt;Le quartier général vous attendait avec impatience. &lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous avons appris que des argons ont attaqué les forgerons du {@Rgn:48008$$Cratère de Magthulk}. &lt;BR&gt;&lt;BR&gt;Nous avons envoyé des médicaments pour les blessés, mais apparemment, il leur en faut plus. De plus, les argons les encerclent. &lt;NEXTPAGEBUTTON&gt;"La situation a l'air très dangereuse."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous devons les aider.&lt;BR&gt;&lt;BR&gt;Ravitaillez {@LinkCreature:248#2009#Caerok} dans la zone de combat et éliminez les argons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Je le savais ! Vous avez l'esprit vif.&lt;BR&gt;Ne perdons pas de temps, la situation est critique sur le front. &lt;BR&gt;&lt;BR&gt;Nous avons appris que des argons ont attaqué les forgerons du {@Rgn:48008$$Cratère de Magthulk}. Nous devons les aider.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">{@LinkCreature:248#2009#Caerok} a rejoint la zone de combat. Il a besoin de ravitaillement et les argons l'empêchent par ailleurs de secourir les forgerons. &lt;BR&gt;&lt;BR&gt;Merci de le ravitailler et d'éliminer les argons. Pour les biens de ravitaillement, adressez-vous à {@LinkCreature:248#1025#Jeruka}, le forgeron du camp.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="1025">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, vous avez donc accepté le contrat.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#2009#Caerok} se trouve là-bas. La situation y est explosive. &lt;BR&gt;&lt;BR&gt;Faites bien attention à vous.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="6" villagerId="2009">
+        <Page social="4" voiceTypeId="0">Kaia soit louée ! Des secours, enfin !!&lt;BR&gt;&lt;BR&gt;Merci ! Nos réserves sont épuisées et nous ne pouvons plus traiter les blessés. Même les forgerons mettent la main à la pâte parce que nous manquons de main-d'œuvre.&lt;BR&gt;&lt;BR&gt;Quelle joie de pouvoir compter sur vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="2005">
+        <Page social="4" voiceTypeId="0">Merci de votre aide ! Les argons vont bientôt débarquer. &lt;BR&gt;&lt;BR&gt;Nous avons déjà installé notre canon de siège devant la {@Rgn:48002$$Citadelle de Khanovar}. Je ne peux malheureusement pas vous promettre que les armes fonctionnent encore.&lt;BR&gt;&lt;BR&gt;Pourriez-vous y aller pour que nous ayons au moins l'ombre d'une chance.&lt;BR&gt;&lt;BR&gt;Nous allons essayer de tenir bon ici ! Allez, en route. Vite !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="2006">
+        <Page social="4" voiceTypeId="0">Ah, vous voilà, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Muhrak, mon père, m'a déjà beaucoup parlé de vous et de vos exploits.&lt;BR&gt;&lt;BR&gt;J'ai construit un canon de siège pour chasser les argons.&lt;BR&gt;Et vous avez l'honneur insigne d'être le premier membre de la Fédération Valkyon à l'essayer. Qu'en dites-vous, ça vous tente ?&lt;NEXTPAGEBUTTON&gt;"Avec plaisir !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien entendu, vous n'en avez pas tout à fait la primeur, des fois que l'appareil soit défectueux !&lt;BR&gt;&lt;BR&gt;Servez-vous en pour anéantir les argons !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="48" prevId="9" villagerId="2000">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="2006">
+        <Page social="8" voiceTypeId="0">Ha ha ha ha ! Ce canon de siège est un de mes chefs-d'œuvre. J'avais peur qu'il finisse broyé avant même d'être vraiment déployé, mais il s'est avéré extrêmement robuste ! Mon père serait très fier de moi !&lt;BR&gt;&lt;BR&gt;Grâce à cette arme, nous allons pouvoir empêcher les argons de nous submerger, pour le moment du moins. Un grand merci.&lt;BR&gt;&lt;BR&gt;Je vais m'occuper de tout le reste. Retournez auprès du commandant Helkan et faites-lui votre rapport.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Je vais avoir du mal à retourner faire mon rapport à Otus. Les {@LinkCreature:11#2003#sentinelles du Fouet rouge} ne sont peut-être pas malignes, mais elles ont l'œil.&lt;BR&gt;&lt;BR&gt;Elles ont dû repérer des invraisemblances dans mon déguisement. A moins que ce ne soit le langage du corps&amp;nbsp;? Difficile à dire.&lt;BR&gt;&lt;BR&gt;S'ils étaient trop occupés à donner la chasse à {@g:un/une} &lt;PCCLASS:lcase&gt; comme vous pour se soucier de moi, je pourrais peut-être... hé, ça c'est une idée&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Quel soulagement. Fabriquer ce déguisement m'a demandé beaucoup de boulot. Mais il suffit d'une sentinelle trop curieuse pour que ça foire complètement.</Page>
+    </Text>
+</QuestDialog>

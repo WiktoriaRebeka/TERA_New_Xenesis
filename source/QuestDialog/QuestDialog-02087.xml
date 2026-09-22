@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">Afin de limiter les visites surprises des argons, nous avons placé ici et là des capteurs d'activité. Malheureusement, avant de nous être expédiés, les appareils n'ont pas été testés avec une... rigueur exceptionnelle, dirons-nous.&lt;BR&gt;&lt;BR&gt;Nous avons besoin que quelqu'un armé jusqu'aux dents localise les appareils et les répare sur place.&lt;BR&gt;&lt;BR&gt;Vous semblez correspondre au profil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3001">
+        <Page social="4">Ils fonctionnent du tonnerre. Mille mercis, &lt;PCNAME&gt;. Personne n'aime se faire surprendre par ces fichus argons.&lt;BR&gt;&lt;BR&gt;Nous devrions retourner à nos recherches... C'est que les mystères ne vont pas se résoudre tout seuls, vous savez.</Page>
+    </Text>
+</QuestDialog>

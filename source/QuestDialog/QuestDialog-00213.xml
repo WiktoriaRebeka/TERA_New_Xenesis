@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0">Malgré des efforts acharnés, les gulas continuaient à ravir des Humains. Vous avez appris qu'Hennika, la sœur de Detrian, faisait partie des victimes d'un rapt. Mais Detrian s'était lancé à sa poursuite avant même que vous n'ayez l'occasion de l'en informer. Sur le Marché aux esclaves, vous n'avez réussi à libérer qu'Hennika. Il ne restait rien de son frère, hormis son épée que vous avez récupérée et remise à Hennika, comme souvenir. Devant l'épée de Detrian, elle a fait le serment de rejoindre l'épée de Kaia et de venger son frère.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Il est temps d'y mettre un terme ! Les gulas sont devenus complètement incontrôlables ! Ils doivent avoir creusé un Passage secret quelque part.&lt;BR&gt;&lt;BR&gt;Nous devons libérer les otages. Prenez cet ordre de libération et retrouvez toutes les personnes de la liste. Lisez bien l'ordre de libération avant d'y aller.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Si vous cherchez Detrian... Il a appris l'enlèvement de sa sœur et est parti sur-le-champ. Il cherche sans doute à retrouver les otages. Si vous partez à leur recherche, vous tomberez certainement sur Detrian.&lt;BR&gt;&lt;BR&gt;Le Poste alpha de l'Avant-garde se trouve sur la route menant aux Catacombes des Cavernes affamées. Les éclaireurs réunissent déjà des informations pour libérer les victimes des gulas. Allez trouver Loxetrius pour qu'il vous donne plus d'informations et libérez ensuite les otages !&lt;BR&gt;&lt;BR&gt;Il saura peut-être même quelque chose sur Detrian. &lt;BR&gt;&lt;BR&gt;Allons, faites vite. Il serait dommage d'arriver trop tard.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Vous vous chargez de la libération ? Je croyais que c'était la mission de Detrian.&lt;BR&gt;&lt;BR&gt;(Vous lui expliquez que Detrian est parti de son propre chef pour libérer sa sœur Hennika.)&lt;BR&gt;&lt;BR&gt;Sa sœur ! Karina n'aurait jamais confié une mission aussi dangereuse à novice comme Detrian. J'aurais dû y penser. Argh, nous devons faire vite !&lt;BR&gt;&lt;BR&gt;Le deuxième étage de la Caverne de la faim abrite des cuisines où les Humains finissent dans les marmites des cuisiniers gulas. Fouillez ces pièces ! Par la grâce de Kaia ! J'espère que vous n'arriverez pas trop tard !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1031">
+        <Page social="5" voiceTypeId="0">(Ces cadavres portent des marques de morsures.)&lt;BR&gt;&lt;BR&gt;Les gulas les ont sur la conscience. Ils sont morts depuis un certain temps déjà. Ce ne sont pas les victimes des enlèvements récents.&lt;BR&gt;&lt;BR&gt;Là-bas, il y en a d'autres. Il n'y a pas le moindre survivant, par ici. Retournez faire votre rapport à Loxetrius, au Poste alpha de l'Avant-garde.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Vous n'avez pas trouvé de dépouilles des victimes des enlèvements récents ? Alors ils sont sans doute au troisième sous-sol. Les gulas y enferment ceux qu'ils ne comptent pas encore dévorer ou vendre.&lt;BR&gt;&lt;BR&gt;Vous y trouverez aussi le Poste de l'Avant-garde. La préfète Rendia a peut-être plus d'informations sur les disparus. Allez la trouver.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Je pense aussi que les otages sont emprisonnés dans le cachot du troisième sous-sol. Longez ce chemin pour rejoindre la zone que les gulas nomment la "Caverne des larmes". Vous y trouverez deux prisons. Vous arriverez tout d'abord à la {@linkcreature:208#1024#première prison}.&lt;BR&gt;&lt;BR&gt;Elle est gardée par des gulons anormaux. Éliminez-les et examinez les cellules. Vous pourrez peut-être libérer les otages.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1024">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt; ! *tousse*&lt;BR&gt;&lt;BR&gt;(Detrian a du mal à respirer.)&lt;BR&gt;&lt;BR&gt;Je n'avais pas l'ombre d'une chance. &lt;PCNAME&gt;, je n'ai pu sauver personne. J'ai trouvé Hennika et les autres victimes des enlèvements, mais je n'ai rien pu faire.&lt;BR&gt;&lt;BR&gt;Les {@linkcreature:8#4011#gulons anormaux} les ont transférés dans la deuxième prison. J'ai besoin d'un petit répit... Je vous en supplie, éliminez-les... et libérez ma sœur. S'il vous plaît, aidez-moi. &lt;BR&gt;&lt;BR&gt;La &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#78829,63010,-3794&amp;type=1&amp;name=deuxième prison"&gt;deuxième prison&lt;/A&gt;&lt;/font&gt; est située... là-bas... Je vous en supplie... sauvez... ma sœ... sœur...&lt;NEXTPAGEBUTTON&gt;"Je vous le promets !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, je compte... sur vous.&lt;BR&gt;&lt;BR&gt;Je dois me reposer un peu...&lt;BR&gt;&lt;BR&gt;Juste un moment...&lt;BR&gt;&lt;BR&gt;(Detrian rend son dernier soupir et son pouls s'arrête. Ses yeux sont encore ouverts, comme s'il cherchait encore sa sœur du regard.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1027">
+        <Page social="5" voiceTypeId="0">Comme je suis heureuse de vous voir !&lt;BR&gt;&lt;BR&gt;Quel bonheur ! Je me voyais déjà finir en ragoût ! Vous faites partie de la même unité que ce jeune soldat qui nous a trouvés ? Il a combattu si vaillamment...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1028">
+        <Page social="5" voiceTypeId="0">Merci de m'avoir sauvé la vie ! Merci à vous !</Page>
+    </Text>
+    <Text id="11" huntingZoneId="208" prevId="8" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Merci bien. Heureusement que nous n'avons pas abandonné tout espoir d'être libérés. Qu'est-il advenu du jeune homme qui a été blessé en tentant de nous libérer ?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="208" prevId="8" villagerId="1005">
+        <Page social="5" voiceTypeId="0">Merci de nous avoir secourus. Hennika... quelle tragédie. Le soldat qui a tenté de nous secourir, c'était son frère, n'est-ce pas ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="208" prevId="8" villagerId="1026">
+        <Page social="5" voiceTypeId="0">Merci de votre aide précieuse. Je croyais vraiment finir dans une poêle à frire des gulas. Qu'est-il advenu du jeune homme qui a tenté de nous libérer ? Non, c'est impossible !</Page>
+    </Text>
+    <Text id="14" huntingZoneId="208" prevId="9" villagerId="1025">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, mon frère, Detrian !&lt;BR&gt;&lt;BR&gt;(Vous racontez à Hennika que son frère est mort.)&lt;BR&gt;&lt;BR&gt;Mon frère est... mort ? Vous mentez, n'est-ce pas ? *snif* &lt;NEXTPAGEBUTTON&gt;"Ses dernières pensées étaient pour vous..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">*snif* &lt;PCNAME&gt; !  Vengez mon frère ! Il a combattu avec une telle bravoure pour nous arracher aux griffes de gulas...&lt;BR&gt;&lt;BR&gt;Ce vil inquisiteur l'a lâchement poignardé dans le dos. Il a dérobé l'épée de mon frère.&lt;BR&gt;&lt;BR&gt;*snif* Je vous en prie, allez la récupérer ! &lt;BR&gt;&lt;BR&gt;L'inquisiteur a fui vers le nord ! Éliminez l'{@linkcreature:8#4051#inquisiteur vulgaire} et ramenez-moi son épée.&lt;NEXTPAGEBUTTON&gt;"Je vais vous la rapporter !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Vous avez juré de récupérer l'épée de Detrian. Vous priez Hennika de suivre les autres à l'abri, dans l'Avant-poste du vengeur.)&lt;BR&gt;&lt;BR&gt;Très bien. Promettez-le moi... l'épée de mon frère...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1030">
+        <Page social="5" voiceTypeId="0">(Vous remettez l'épée de Detrian à Hennika.)&lt;BR&gt;&lt;BR&gt;L'épée de Detrian... Je vous remercie ! Je jure sur cette épée que je vais rejoindre l'épée de Kaia, comme Detrian. Je vais suivre son exemple et le vôtre et sauver des Humains. J'en fais le serment !</Page>
+    </Text>
+    <Text id="16" huntingZoneId="208" villagerId="1030">
+        <Page social="0">Je vous en prie, vengez mon frère ! Éliminez l'inquisiteur vulgaire et rapportez-moi l'épée de mon frère !</Page>
+    </Text>
+    <Text id="17" huntingZoneId="208" prevId="15" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Vous avez libéré les victimes d'enlèvement. Je vous en suis infiniment reconnaissante. Mais nous avons perdu un bon soldat.&lt;BR&gt;&lt;BR&gt;(Karina se recueille un instant.)&lt;BR&gt;&lt;BR&gt;Detrian avait un avenir radieux devant lui. Je prie pour le salut de son âme. Je vous remercie d'avoir secouru les Humains et vengé Detrian.</Page>
+    </Text>
+</QuestDialog>

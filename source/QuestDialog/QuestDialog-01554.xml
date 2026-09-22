@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">Les progrès que vous accomplissez entre chacune de nos rencontres n'ont de cesse de m'impressionner, &lt;PCNAME&gt;. Malheureusement, de son côté, l'ennemi aussi gagne en puissance. Nous devons à tout prix conserver l'avantage dont nous disposons sur lui.&lt;BR&gt;&lt;BR&gt;Pour ce faire, j'ai un petit cadeau à vous remettre. Il s'agit d'un glyphe de compétence... le genre d'objet que les soldats les plus aguerris emploient pour s'améliorer encore.&lt;BR&gt;&lt;BR&gt;Phidias, l'un de nos maîtres des glyphes de guerriers, se chargera de vous le remettre et de vous expliquer comment en faire usage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1217">
+        <Page social="10">Seir vous a promis un glyphe, c'est ça&amp;nbsp;? C'est tout lui... il fait le connaisseur parce qu'il a une idée de leur valeur, mais il serait bien incapable d'expliquer à quoi ils servent&amp;nbsp;! Ha&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les glyphes vous permettent de renforcer ou de modifier vos compétences. Pour les apprendre, il vous suffit de cliquer dessus dans votre inventaire, mais pour les activer, vous devez passer par la liste de compétences.&lt;BR&gt;&lt;BR&gt;Gagner en niveau et en expérience vous rapporte des points de glyphe qui vous aideront à activer vos glyphes.&lt;NEXTPAGEBUTTON&gt;"Je vois."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si vous activez le mauvais glyphe par erreur, vous n'avez qu'à réinitialiser vos points de glyphe. Ça vous coûtera une certaine somme, mais tout un chacun doit payer pour ses erreurs, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, voilà votre glyphe. Merci d'avoir pris la peine de venir me voir&amp;nbsp;! C'est toujours un plaisir de faire la connaissance de vétérans&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

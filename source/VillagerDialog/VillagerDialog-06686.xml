@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7001" huntingZoneId="508" voiceTypeId="145" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="145">Gardien, il s'agit là de votre monde intérieur.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="145">&lt;BR&gt;Cette salle reflète votre intérieur.&lt;BR&gt;Brisez les derniers reliquats des ténèbres qui vous habitent. Pour ce faire, il vous faudra malheureusement faire ressurgir la peur enfouie au plus profond de vous.&lt;BR&gt;Tenez bon.&lt;TEXTBUTTON&gt;"Entendu."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Se souvenir de la peur enfouie&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

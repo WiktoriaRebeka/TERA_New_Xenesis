@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Voilà les matériaux. Nous avons besoin de cuirasses de tanneur. Il nous en faut beaucoup. Il n'y a pas de temps à perdre.&lt;BR&gt;&lt;BR&gt;Apportez-les-moi dès qu'elles seront prêtes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Bien... très bien, même. C'est du travail de qualité, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le genre d'équipement dont nous avons besoin sur le terrain. Allez remettre les cuirasses au préfet Daven, de Boquillon. Il a besoin de toutes les pièces d'armures sur lesquelles il pourra mettre la main.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits, parlez aux vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="3" villagerId="1014">
+        <Page social="0">Voilà de belles pièces d'armures, et fabriquées en un rien de temps. J'ai une troupe d'archers sous la main qui pourra en faire bon usage. Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

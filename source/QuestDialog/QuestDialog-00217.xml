@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="4">Prochains sur la liste&amp;nbsp;: les {@LinkCreature:8#2021#mercenaires caïmans} et {@LinkCreature:8#2042#gardes caïmans}&lt;BR&gt;&lt;BR&gt;Nous limitons leur nombre et nous envoyons à tous un message&amp;nbsp;: travailler pour les gulas est une mauvaise idée&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Balayez-les. Arrachez-leur les crocs aussi. J'en ferai un collier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1002">
+        <Page social="4">Excellente nouvelle&amp;nbsp;! Ces saletés me donnaient la chair de poule&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1002">
+        <Page social="0">Nous devons leur faire parvenir un message. Faites en sorte que ce soit sanglant.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="4">Nous sommes terrifiés et nous manquons de forces. Des gens disparaissent en pleine nuit, sans que personne ne voie quoi que ce soit. Et puis, les bois n'ont jamais été aussi dangereux, ce qui n'arrange rien.&lt;BR&gt;&lt;BR&gt;Si vous cherchez à faire une bonne action, nous sommes intéressés.&lt;BR&gt;&lt;BR&gt;Allez voir Yedwin, le Maître de la &lt;font color='0000ff'&gt;Guilde des Explorateurs&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">La situation est critique. Entre les disparitions et les impies, rien ne va plus. Nous sommes coincés ici, s'aventurer dans les Bois de Susurrus ou à Amena Quatla serait trop dangereux.&lt;BR&gt;&lt;BR&gt;Nous avons besoin de provisions de base. Apportez quelques peaux de hyène à Thaqib et il pourra mieux protéger les troupes.&lt;BR&gt;&lt;BR&gt;Les hyènes rôdent autour du village, vous ne pourrez pas les manquer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1017">
+        <Page social="4">Merci, je vais pouvoir m'en servir. Je ne sais pas si ça va vraiment aider, mais bon... Peu importe le nombre de soldats qu'on met sur le terrain, les gens disparaissent tout autant.&lt;BR&gt;&lt;BR&gt;Que Kaia me donne du courage, je ne veux pas vivre dans la peur.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1017">
+        <Page social="0">Ces hyènes rendent tout ravitaillement presque impossible, même aux autres avant-postes. S'en débarrasser, ce serait faire d'une pierre deux coups.</Page>
+    </Text>
+</QuestDialog>

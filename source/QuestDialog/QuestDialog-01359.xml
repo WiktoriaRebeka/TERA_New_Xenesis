@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="4">&lt;PCNAME&gt;, vous arrivez à point nommé. Laissez-moi vous mettre au courant de la situation.&lt;BR&gt;&lt;BR&gt;Nous sommes cernés par la cavalerie de Thulsa.&lt;BR&gt;&lt;BR&gt;Heureusement pour nous, logistiquement parlant, elle n'est pas encore prête à attaquer. C'est l'occasion rêvée d'éliminer la cavalerie et son chef, Selvereth.&lt;BR&gt;&lt;BR&gt;J'imagine qu'à partir de là, vous savez quoi faire...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1037">
+        <Page social="4">Vous êtes à la hauteur de votre réputation&amp;nbsp;! Avec un plus grand nombre de recrues dans votre genre, nous aurions tôt fait de gagner la guerre, &lt;PCCLASS:lcase&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

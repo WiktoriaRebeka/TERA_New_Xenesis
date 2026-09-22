@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1020">
+        <Page social="0">Des phacochères longues-défenses sont à la tête de ces porcelets. Lorsque l'un d'eux attaque quelqu'un, tous les porcelets le suivent.&lt;BR&gt;&lt;BR&gt;Si nous parvenons à en tuer au moins un, nous pouvons leur porter un coup au moral. Vous pensez que c'est dans vos cordes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Et bien&amp;nbsp;! Vous êtes bien plus {@g:fort/forte} que ce à quoi je m'att… je veux dire, bien sûr que je savais que vous reviendriez en un morceau&amp;nbsp;! Bon boulot&amp;nbsp;! Je n'ai jamais douté de vos capacités.</Page>
+    </Text>
+</QuestDialog>

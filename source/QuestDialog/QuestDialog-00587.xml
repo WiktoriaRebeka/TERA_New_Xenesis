@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">J'ai envoyé un éclaireur espionner les fouaille-tripes rôdeurs d'escarpement, voilà deux jours. Depuis, aucune nouvelle. N'ayant pas d'autre éclaireur sous la main, c'est vous que je compte envoyer sur place.&lt;BR&gt;&lt;BR&gt;Sortez par la porte ouest et cherchez {@LinkCreature:221#1047#Hebbin}. Si elle est en vie, qu'elle vous fasse son rapport. Sinon, espionnez-les vous-même et venez me rapporter vos découvertes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">Le capitaine s'inquiétait&amp;nbsp;? Ah&amp;nbsp;! En fait, je ne pouvais pas bouger sans risquer de me faire repérer, c'est tout.&lt;BR&gt;&lt;BR&gt;Bizarrement, les fouaille-tripes ne font rien de spécial. Tout est étrangement calme.</Page>
+    </Text>
+</QuestDialog>

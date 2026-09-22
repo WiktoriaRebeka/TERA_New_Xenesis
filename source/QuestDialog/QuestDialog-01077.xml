@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">La tribu de la Griffe noire est l'un des groupes d'orkans les plus hostiles des environs. Il leur arrive même d'attaquer Frontera de temps à autre. Il faut que cela cesse.&lt;BR&gt;&lt;BR&gt;Je voudrais que vous chassiez quelques {@LinkCreature:41#2004#combattants} et {@LinkCreature:41#2005#pillards} de la Griffe noire… et apportiez leurs bras à {@LinkCreature:241#1003$$Jaebel}. Il les pendra autour du campement en guise d'avertissement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">Bon travail. Avec ça, ils devraient y réfléchir à deux fois avant de nous attaquer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1003">
+        <Page social="0">Vous trouverez la tribu de la Griffe noire à l'extrémité nord de la Vallée sauvage. Rapportez-moi des bras, ça leur servira de mise en garde.</Page>
+    </Text>
+</QuestDialog>

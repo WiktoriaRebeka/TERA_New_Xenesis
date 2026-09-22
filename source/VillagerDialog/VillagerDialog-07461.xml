@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9003" huntingZoneId="950" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Oh ! Vous avez réussi à éliminer les dragons !&lt;BR&gt;Il est malheureusement encore trop tôt pour se reposer. Le dragon géant va remarquer la mort de ses disciples.&lt;BR&gt;Or, je ne suis pas certain que vous réussirez à sortir vainqueur de ce combat.&lt;BR&gt;Vous êtes prêt ? Si ce n'est pas le cas, vous devriez vous dépêcher. Je vais vous accompagner jusqu'aux alentours du Passage du royaume des dieux pour que vous puissiez vous préparer au combat.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Vous avez entendu ce beuglement ? Le gigantesque dragon semble se trouver dans les parages.&lt;TEXTBUTTON&gt;Préparer le combat contre le dragon géant.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Lancer le combat contre le dragon géant.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

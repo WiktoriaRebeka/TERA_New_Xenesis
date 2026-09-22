@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">Je sais que vous avez du pain sur la planche, &lt;PCCLASS:lcase&gt;, mais {@LinkCreature:76#1018} m'a demandé de vous parler, si vous aviez un peu de temps à m'accorder.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#1036} est parti pour Kaiator, ce matin. J'admire sa persévérance et je tenais à vous remercier de votre générosité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1018">
+        <Page social="6">Quand {@LinkCreature:84#1222} a débarqué pour la première fois à {@Rgn:76001}, son ambition m'a impressionné. S'il était né à Castanica, un rite de passage spectaculaire aurait sans doute été organisé en son honneur.&lt;BR&gt;&lt;BR&gt;Pourriez-vous remettre cette poignée d'épée à {@LinkCreature:84#1222} en témoignage de mon estime ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="3" villagerId="1222">
+        <Page social="6">Je suis terriblement nerveux. Mon hushang débutera dans une heure... Tout le monde aura les yeux rivés sur moi. Kaia elle-même m'a accordé sa bénédiction. Elle m'a dit que j'avais fière allure.&lt;BR&gt;&lt;BR&gt;On ne peut pas faire plus chanceux que moi.&lt;NEXTPAGEBUTTON&gt;"En effet, et regardez ça..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Quoi&amp;nbsp;? C'est incroyable... Je vais la monter sur mon épée. Ainsi, je n'oublierai jamais ceux qui m'ont aidé à faire de mon hushang une réussite.&lt;BR&gt;&lt;BR&gt;Merci beaucoup, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

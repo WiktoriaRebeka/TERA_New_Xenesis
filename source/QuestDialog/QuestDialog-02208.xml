@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Alors, la pêche, ça se passe bien ?&lt;BR&gt;C'est maintenant que les choses commencent à être amusantes !&lt;BR&gt;&lt;BR&gt;Nous allons d'abord vous montrer tout ce que vous pouvez faire avec vos poissons.&lt;BR&gt;Allez voir mon ami dans le Port Coupe-gorge et il vous en dira plus à ce sujet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dans le Port Coupe-gorge, vous avez appris à apprêter le poisson.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Le Port Coupe-gorge est un bien bel endroit où l'on peut pleinement profiter du vent et des vagues.&lt;BR&gt;Vous voulez y aller ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Alors saluez bien le responsable du Site de pêche du Port Coupe-gorge de ma part.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="9904">
+        <Page social="2" voiceTypeId="0">Bienvenue ! Le responsable de Murica m'a déjà parlé de vous ! &lt;BR&gt;C'est en préparant un mets délicieux avec le poisson que vous avez attrapé que vous prendrez pleinement conscience des joies de la pêche !&lt;BR&gt;Il n'y a rien de plus divin que les plats de poisson ! &lt;BR&gt;&lt;BR&gt;Je vais vous donner la recette du poisson poêlé et un filet de poisson. &lt;BR&gt;C'est un des poissons précieux que Jeremy Wayn nous a donnés ! &lt;BR&gt;&lt;font color='#FF0000'&gt;Pour utiliser la recette du "poisson poêlé", il vous suffit d'ouvrir la fenêtre d'artisanat (J) puis de cliquer sur "Cuisiner" et enfin sur "Poisson poêlé".&lt;/font&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ces histoires de poisson poêlé m'ont donné faim. &lt;BR&gt;Vous pourriez me préparer du poisson poêlé ?&lt;BR&gt;Contentez-vous de suivre la recette que je vous ai donnée. &lt;BR&gt;&lt;BR&gt;Vous pouvez obtenir le filet de poisson dont vous avez besoin en découpant n'importe quel poisson et vous obtiendrez les autres ingrédients de cuisine auprès du marchand d'articles de pêche. &lt;BR&gt;Si vous avez assez d'or, vous pouvez aussi directement acheter les mets auprès de l'hôtel de ventes.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Pour utiliser la recette du "poisson poêlé", il vous suffit d'ouvrir la fenêtre d'artisanat (J) puis de cliquer sur "Cuisiner" et enfin sur "Poisson poêlé".&lt;/font&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Merci bien ! Déguster du poisson poêlé a toujours le don de me revigorer.&lt;BR&gt;De nos jours, les plats de poisson sont toujours plus populaires et rapportent beaucoup d'or auprès de l'hôtel des ventes.&lt;BR&gt;&lt;BR&gt;Vous pouvez obtenir les recettes d'autres plats de poisson auprès d'un expert en consommables.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Certains plats vous demandent de cueillir des plantes en Arborea. En récompense, je vous donne des outils de collecte. Ces outils vous permettent d'être encore plus efficace pendant la collecte.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" villagerId="9904">
+        <Page social="0">Contentez-vous de suivre la recette que je vous ai donnée. Vous pouvez obtenir le filet de poisson dont vous avez besoin en découpant n'importe quel poisson et vous obtiendrez les autres ingrédients de cuisine auprès du marchand d'articles de pêche. Si vous avez assez d'or, vous pouvez aussi directement acheter les mets auprès de l'hôtel de ventes.</Page>
+    </Text>
+</QuestDialog>

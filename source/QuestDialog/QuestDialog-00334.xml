@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0">Je parierais que votre pierre magique se trouve juste à côté d'{@LinkCreature:11#5003#Orless}, le capitaine des pirates du Fouet rouge.&lt;BR&gt;&lt;BR&gt;Mais ce n'est pas le genre à se laisser faire sans combattre. Cela dit, vous avez l'air d'avoir une certaine expérience du combat, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Descendez les escaliers qui se trouvent au nord et vous tomberez sur la cabine d'Orless. Donnez-lui une bonne raclée et faites-le parler&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Bon, les notes sur la carte sont rédigées dans un langage codé, et à l'école, les maths n'ont jamais été mon fort.&lt;BR&gt;&lt;BR&gt;Allez remettre tout ça à Ilaria, sur la Côte déchiquetée. Elle en a dans la tête, qu'elle a d'ailleurs fort jolie, et...&lt;BR&gt;&lt;BR&gt;Mais je digresse...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">{@LinkCreature:11#5003#Orless} est la clé de tout. Vous voulez connaître le fin mot de l'histoire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="3" villagerId="1005">
+        <Page social="4">Puisse le destin vous sourire, &lt;PCNAME&gt;. Des nouvelles de la grotte&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Comment&amp;nbsp;? Une psycholithe&amp;nbsp;? Des bombes&amp;nbsp;? Que les titans nous protègent&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Laissez-moi jeter un œil à cette carte. Elle a été dessinée par des pirates. Leur code ne doit pas être bien compliqué.&lt;NEXTPAGEBUTTON&gt;"Tenez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Ilaria marmonne quelque chose dans sa barbe.)&lt;BR&gt;&lt;BR&gt;Les pirates rouges ont transporté une pierre magique rageuse au mouillage obscur et essayé de la transporter.&lt;BR&gt;&lt;BR&gt;Quand nos troupes ont détruit leur bateau, ils se sont mis à chercher un autre moyen de transport. Le texte affirme qu'ils ont essayé par voie terrestre !&lt;BR&gt;&lt;BR&gt;Il faut impérativement que je le signale ! Merci de nous avoir procuré cette précieuse information.</Page>
+    </Text>
+</QuestDialog>

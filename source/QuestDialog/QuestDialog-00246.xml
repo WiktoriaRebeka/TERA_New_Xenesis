@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">Les crocutas ont encore attaqué notre caravane de ravitaillement&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous avons d'abord eu affaire aux {@LinkCreature:9#300#crocutas cuirassés}, puis nous avons dû doubler la taille du groupe d'escorte. Maintenant, ce sont les {@LinkCreature:9#310#crocutas alpha} qui s'y mettent... et à leurs yeux, les gardes sont des casse-croûtes, rien de plus.&lt;BR&gt;&lt;BR&gt;Et non, ce n'est pas une image.&lt;BR&gt;&lt;BR&gt;Débarrassez-nous de ces crocutas et rapportez-moi leurs peaux, &lt;PCNAME&gt;. Nous trouverons certainement le moyen d'en faire des couvertures ou des articles utiles pour pallier le manque de ravitaillement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1007">
+        <Page social="4">Nous devrions pouvoir les tanner avant le prochain coup de froid, qui ne manquera pas de frapper des lustres avant que nous ne recevions du ravitaillement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1007">
+        <Page social="0">Le ravitaillement n'est pas notre seul souci. Les {@LinkCreature:9#300#crocutas cuirassés} et les {@LinkCreature:9#310#crocutas alpha} font quotidiennement des morts, et nous avons trop peu de soldats pour leur donner la chasse.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">Je me suis fait prendre en embuscade par un {@LinkCreature:25#2091$$zélote de Lok} dans les {@Rgn:25003$$Transepts}. J'ai pris mes jambes à mon cou, mais j'ai perdu une petite boîte dans ma fuite.&lt;BR&gt;&lt;BR&gt;Elle contient un anneau que je compte offrir à ma compagne, restée au pays. Vous pourriez aller la récupérer pour moi&amp;nbsp;? Je ne suis pas en état d'affronter de nouveau un serviteur de Lok.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">Oui&amp;nbsp;! C'est bien ça. Je tiens à cet objet comme à la prunelle de mes yeux.&lt;BR&gt;&lt;BR&gt;Je ne sais comment vous exprimer ma gratitude... Merci infiniment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1028">
+        <Page social="0">S'il vous plaît, aidez-moi. Cet objet est cher à mon cœur.</Page>
+    </Text>
+</QuestDialog>

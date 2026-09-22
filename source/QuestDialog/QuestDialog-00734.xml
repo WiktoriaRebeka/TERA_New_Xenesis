@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1010">
+        <Page social="5">J'ai entendu une rumeur intéressante concernant les eaux sacrées de la Fontaine de Shara. D'après un chercheur du Mysterium, il s'agirait en fait des larmes de Shara, si ce genre de légendes vous parle... et elles auraient d'incroyables vertus médicinales.&lt;BR&gt;&lt;BR&gt;Mon fils est dans l'incapacité de marcher et personne ne saurait dire pourquoi au juste.&lt;BR&gt;&lt;BR&gt;Pourriez-vous me rapporter un peu de cette eau&amp;nbsp;? Je serais capable d'essayer n'importe quoi pour soulager mon fils.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1027">
+        <Page social="5">(Cette eau est légèrement iridescente.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="226" prevId="3" villagerId="1010">
+        <Page social="4">Vous avez trouvé la fontaine et prélevé de son eau&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh... Vous avez réussi&amp;nbsp;! Laissez-moi voir ça.&lt;BR&gt;&lt;BR&gt;Elle... brille. Cette eau est forcément bénite. Merci, &lt;PCNAME&gt;&amp;nbsp;! Je ne serai jamais en mesure de m'acquitter de ma dette.</Page>
+    </Text>
+</QuestDialog>

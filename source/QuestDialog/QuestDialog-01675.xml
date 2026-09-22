@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1605">
+        <Page social="0">Voici les matériaux nécessaires pour fabriquer les lances d'armurier. Une fois terminées, apportez-les ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1605">
+        <Page social="0">Vos efforts nous aideront à gagner cette guerre. Allemantheia vous remercie&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1605">
+        <Page social="0">Vous avez le plan et les kits. Et si vous avez besoin de matériaux supplémentaires, n'hésitez pas à aller voir les vendeurs d'artisanat.</Page>
+    </Text>
+</QuestDialog>

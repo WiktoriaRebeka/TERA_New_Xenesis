@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="439" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Le chariot est en mauvais état.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Il faut protéger le chariot&amp;nbsp;!&lt;TEXTBUTTON&gt;Protéger le charriot de ravitaillement&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Continuer la quête&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Vous vous êtes infiltré{@g:/e} sur le territoire orkan grâce aux indices que vous avez obtenu dans les Bois perdus. Dans la demeure de Rahto, située au cœur du territoire orkan, vous avez obtenu des renseignements sur l'invasion de Pora Elinu par les Orkans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Ainsi, vous comptez vous aventurer dans le territoire orkan&amp;nbsp;? Je connais un espion qui pourrait vous y aider. &lt;BR&gt;&lt;BR&gt;Il est déguisé en orcan, mais je pense qu'avec vos sens affûtés, vous arriverez à le repérer en un clin d'œil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Psst&amp;nbsp;! Hé, par ici&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne suis pas vraiment un Orkan. Je suis un espion, au service de Mirvan. Ce déguisement me sert à récupérer des renseignements.&lt;BR&gt;&lt;BR&gt;Mirvan a emprunté ce sentier, vers le Repaire Orkan. Si elle commence à y faire du grabuge, elle aura besoin de votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1027">
+        <Page social="4" voiceTypeId="0">Quelle bataille ! Estimez-vous heureux d'être encore en vie !&lt;BR&gt;&lt;BR&gt;Apparemment, cet endroit a une signification particulière pour les orkans. Il est bien gardé, mais ils se tiennent à distance de cet autel. Il faut que j'en découvre la cause.&lt;BR&gt;&lt;BR&gt;Rahto fait la loi dans le territoire des orkans. Apparemment, il occupe un bâtiment atypique à proximité de l'autel. &lt;BR&gt;&lt;BR&gt;Vous y trouverez sans doute quelques indices importants. Pourriez-vous y aller et explorer l'endroit ?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1028">
+        <Page social="4" voiceTypeId="0">[Le journal est surtout un charabia sans queue ni tête, mais il y a quelques passages intéressants mentionnant un sceau rouge que Rahto aurait reçu des mains de quelqu'un, devant l'autel. Et puis soudain, les écrits attestent d'une intelligence toute nouvelle. Le journal de Rahto parle d'utiliser le sceau pour prendre le commandement de sa tribu et lui conférer de la puissance. Mais cela provoque un appétit vorace chez Rahto.]</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1027">
+        <Page social="4" voiceTypeId="0">J'ai examiné l'autel de plus près et il semble s'agir d'une sorte de téléportail. Je présume que les orkans s'en servent pour rapatrier leurs troupes sans se faire remarquer. &lt;BR&gt;&lt;BR&gt;Rahto s'est débrouillé pour acquérir des pouvoirs spéciaux. Il se sert de ces pouvoirs et du sceau rouge pour commander les orkans. &lt;BR&gt;&lt;BR&gt;Mais ces pouvoirs ont un effet secondaire non négligeable : un intense sentiment de vacuité. Pour combler ce vide intérieur, Rahto recourt toujours plus souvent à ses pouvoirs, ce qui accentue le sentiment de vacuité. C'est un cercle vicieux. Pour finir, il a besoin de piller !&lt;BR&gt;&lt;BR&gt;Bref... il faudrait éliminer le chef pour affaiblir les orkans ! Cela nous permettra peut-être de sauver Pora Élinu.&lt;NEXTPAGEBUTTON&gt;"C'est bien possible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Commençons tout d'abord par déguerpir d'ici. &lt;BR&gt;&lt;BR&gt;Je vais essayer d'apprendre où se terre le chef des orkans. &lt;BR&gt;&lt;BR&gt;Éliminez les chamanes d'élite du rocher de la désolation et allez retrouver l'espion. &lt;BR&gt;Il faut qu'il informe Rida de notre découverte.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Eh bien, si Rahto ne se trouve pas en territoire Orkan, il supervise peut-être directement l'invasion de Pora Elinu.&lt;BR&gt;&lt;BR&gt;Je vais livrer le rapport de Mirvan à la princesse. Vous devriez aller au Nord et y retrouver Mirvan.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Vous avez réussi ? Malheureusement, Rahto avait déjà quitté le repaire orkan à mon arrivée. Il est probablement en route vers Pora Élinu avec ses orkans. &lt;BR&gt;&lt;BR&gt;J'ai appris qu'ils comptent déployer des basilics domptés comme arme secrète pour leur prochaine attaque sur Pora Élinu. S'il nous est impossible d'arrêter Rahto, nous devons au moins empêcher les basilics d'arriver à Pora Élinu, sans quoi les victimes seront innombrables. &lt;BR&gt;&lt;BR&gt;Les basilics rôdent de l'autre côté de l'arène. Allez donc en décimer autant que possible. Je vais essayer de dénicher un chemin sûr pour rejoindre Pora Élinu.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" prevId="8" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Bien joué. Décidément, vous ne faites pas les choses à moitié, héhé !&lt;BR&gt;&lt;BR&gt;Le sentier derrière nous est la seule route qui mène à Pora Élinu. Je pars devant pour essayer de dénicher Rahto. &lt;BR&gt;&lt;BR&gt;Allez trouver Arin à Pora Élinu pour l'informer de nos découvertes. &lt;BR&gt;&lt;BR&gt;J'ai trouvé ces choses dans la zone que les orkans occupaient. Je n'en ai pas la moindre utilité, alors vous pouvez les avoir. Bonne chance !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Je ne vis que pour connaître une mort juste. Les gulas ont... anéanti tout le reste.&lt;BR&gt;&lt;BR&gt;Mes amis... dévorés&amp;nbsp;! Ma famille... dévorée&amp;nbsp;! Ma vie tout entière... dévorée&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais sachez ceci, &lt;PCNAME&gt;&amp;nbsp;: de nombreux gulas retourneront dans le Rêve avant moi&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;"Je suis avec vous, Kurak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">J'épie les gulas depuis des années, mais je ne peux pas atteindre le cœur de leur organisation&amp;nbsp;: le Labyrinthe d'Or.&lt;BR&gt;&lt;BR&gt;Un téléportail y mène dans les Catacombes des Cavernes affamées, mais pour une raison qui m'échappe, il m'est impossible de l'utiliser&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Accepteriez-vous de devenir l'instrument de la justice, &lt;PCCLASS:lcase&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous iriez tuer ces {@LinkCreature:472#4#porte-morts gulas}, {@LinkCreature:472#24#ravageurs gulas}, {@LinkCreature:472#11#sauvages gulas} et autres {@LinkCreature:472#207#gulas brutaux}&amp;nbsp;? S'il vous plaît, allez prendre leurs cœurs comme ils ont pris le mien&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Merci, &lt;PCNAME&gt;. Merci pour ces cœurs.&lt;BR&gt;&lt;BR&gt;Maintenant, si vous voulez bien m'excuser, j'ai une petite... faim.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Ils seront tués par le pouvoir de la justice&amp;nbsp;! Je les anéantirai comme ils m'ont anéanti&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

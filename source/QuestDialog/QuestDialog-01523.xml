@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Un casque d'aviateur&amp;nbsp;? J'ai vendu les derniers l'année passée.&lt;BR&gt;&lt;BR&gt;C'est à cause du cuir infusé de cyasma, voyez-vous. On trouve de la peau brute et de la peau de tombe en abondance mais personne ne fait plus de cuir infusé de cyasma, donc ne m'en parler pas. &lt;NEXTPAGEBUTTON&gt;"Mais j'en ai déjà..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Vous avez du cuir infusé de cyasma&amp;nbsp;? Eh bien, je suppose que je peux faire un casque d'aviateur si vous êtes sûr d'en vouloir un.&lt;NEXTPAGEBUTTON&gt;"J'en suis {@gender:sûr/sûre}&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Même l'Invalesco ne vend plus de cuir infusé de cyasma, et si vous n'en avez pas, personne n'en aura.</Page>
+    </Text>
+</QuestDialog>

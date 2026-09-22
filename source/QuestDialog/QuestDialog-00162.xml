@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="5">À force d'affronter les Kuzads sans relâche, nos armes sont bien esquintées. Nous devons à tout prix les remettre en état, mais nous n'avons pas le minerai d'ombremétal nécessaire.&lt;BR&gt;&lt;BR&gt;J'ai tellement d'autres choses à faire que je ne peux pas m'absenter pour aller chercher le &lt;font color='#660000'&gt;{@RawItem:206808}&lt;/font&gt; requis. &lt;pcclass&gt;, si vous n'avez rien d'urgent à faire, pourriez-vous m'en procurer ? Je me moque de savoir d'où il provient... Tant que vous m'en ramenez !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1011">
+        <Page social="5">Excellent&amp;nbsp;! C'est exactement ce qu'il me fallait pour les réparations&amp;nbsp;! Merci beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1011">
+        <Page social="0">Je vous en supplie. Sans {@RawItem:206808}, nos soldats ne peuvent plus combattre !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="4">Je ne sais pas exactement ce que ces mekonaris sont en train de faire, mais c'est monstrueux.&lt;BR&gt;&lt;BR&gt;Ces légats spectraux ? Des âmes torturées, forcées à se nourrir de la souffrance des autres, qui chassent les cadavres encore frais pour retourner dans le Rêve.&lt;BR&gt;&lt;BR&gt;Peut-être est-ce Killian qui les a invoqués, ou peut-être qu'ils ont juste été attirés par la nourriture. Quoi ce que soit, il faut les arrêter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1020">
+        <Page social="4">Joli travail, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;! Ces rebuts de la nature me donnaient des poils blancs&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1020">
+        <Page social="0">&lt;PCCLASS&gt;, vous avez déjà vu un esprit arraché au Rêve&amp;nbsp;? Vous n'en dormiriez plus.&lt;BR&gt;&lt;BR&gt;La nature pleure. Eradiquez ces spectres&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

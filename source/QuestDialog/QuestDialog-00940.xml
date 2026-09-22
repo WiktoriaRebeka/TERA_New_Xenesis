@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="10">Le chariot de ravitaillement en provenance d'Allemantheia a beaucoup de retard... j'ignore ce qui peut le retenir.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller avertir le capitaine Cerenon&amp;nbsp;? Nous sommes en sous nombre et je ne peux me permettre de quitter mon poste.&lt;BR&gt;&lt;BR&gt;Le capitaine devrait se trouver à proximité des portes de la Résidence du Magistrat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="74" prevId="2" villagerId="1007">
+        <Page social="6">Oui, ça fait un moment que nous attendons ce chariot.&lt;BR&gt;&lt;BR&gt;Pourriez-vous faire un saut au Guet du Coureur pour voir ce qui le retarde&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh... je dois vous avertir que nous avons subi des attaques de dents-de-sabre à défenses râpeuses, dernièrement. Il vous faudra peut-être en éliminer un certain nombre pour vous frayer un chemin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1010">
+        <Page social="6">Vous arrivez d'Elenea&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, le chariot&amp;nbsp;? Hmm...&lt;BR&gt;&lt;BR&gt;Vous devriez aller parler de ça à Tarnan.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1004">
+        <Page social="6">Le chariot de ravitaillement&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, bon sang...</Page>
+    </Text>
+</QuestDialog>

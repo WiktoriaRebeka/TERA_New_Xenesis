@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="5">La Princesse Arin m'a commandé des herbes pour fabriquer des breuvages curatifs destinés aux soldats, mais avec tous ces ours autour du lac, je me ferais tuer&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous pouviez éliminer quelques {@LinkCreature:23#1#ours dos-de-crin}, je pourrais achever ma tâche en toute sécurité.&lt;BR&gt;&lt;BR&gt;Vous voulez bien m'aider&amp;nbsp;? Après tout, c'est pour vos collègues soldats&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1016">
+        <Page social="5">Maintenant que ces ours sont morts ou en fuite, je vais pouvoir livrer la commande à temps. Merci pour votre aide&amp;nbsp;! Je sais que ce n'était pas sans risques&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

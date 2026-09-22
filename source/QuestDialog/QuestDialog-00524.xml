@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">Les serviteurs de Lok contrôlent les {@LinkCreature:18#18#gladiateurs géants} de l'Arène des Inspirés. S'ils décident de les retourner contre nous, je ne donne pas cher de nos peaux. Allez en éliminer quelques-uns et revenez me présenter votre rapport. Je veux savoir de quoi ils sont faits.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Vous pouvez aller en parler à Anaka&amp;nbsp;? Ça fait un moment qu'elle attend de mes nouvelles à propos des géants.</Page>
+    </Text>
+</QuestDialog>

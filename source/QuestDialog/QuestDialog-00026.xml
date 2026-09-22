@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1033">
+        <Page social="4">En suivant cette route vers l'ouest, vous trouverez le Camp d'Aron.&lt;BR&gt;&lt;BR&gt;Si vous vous intéressez réellement au sort de la Forêt féerique, &lt;PCCLASS:lcase&gt;, c'est là que vous devez vous rendre. Sur place, aidez Nemir à cerner l'origine du vent de folie qui balaie la forêt et fait sombrer son peuple dans cette folie meurtrière.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1044">
+        <Page social="4">Toute cette violence, ce n'est pas... dans la nature des Fées... si je puis dire. Un mal puissant est à l'œuvre.&lt;NEXTPAGEBUTTON&gt;"Un genre de vent de folie&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Exactement&amp;nbsp;! Mais le seul hic, avec le vent en question...&lt;BR&gt;&lt;BR&gt;... c'est que j'ignore complètement d'où il provient.</Page>
+    </Text>
+</QuestDialog>

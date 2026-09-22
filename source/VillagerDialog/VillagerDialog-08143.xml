@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="3002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="3002" endSocial="0" prevId="0" villagerId="1003">
+        <Page social="0">(Cet engin mécanique peut dégager le passage.)</Page>
+    </Text>
+    <Text id="2" huntingZoneId="3002" endSocial="0" prevId="0" villagerId="1003">
+        <Page social="0">(Ce vieil engin devrait pouvoir dégager l'entrée du Manoir sinistre.)&lt;TEXTBUTTON&gt;Engin mécanique&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Activer l'engin mécanique&lt;/EVENTPAGEBUTTON&gt;.</Page>
+    </Text>
+</VillagerDialog>

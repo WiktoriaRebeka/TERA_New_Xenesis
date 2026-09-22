@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="5">Bon, je dois avouer que ça fait un moment que je n'ai pas préparé cette potion. J'espère que ça va fonctionner comme prévu.&lt;BR&gt;&lt;BR&gt;Je veux dire... ça va marcher, c'est sûr&amp;nbsp;! C'est juste que... comment dire...&lt;BR&gt;&lt;BR&gt;Enfin, aucune importance. Allez, à votre santé, alors&amp;nbsp;? Bonne chance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1004">
+        <Page social="12">Vous avez bu la potion&amp;nbsp;? Comment était-ce&amp;nbsp;? Je pensais que vous alliez me la rapporter. Cela dit, par un caprice du vent, l'odeur qu'elle vous a conférée est arrivée ici avant vous, et du coup, je suis plutôt content que ce soit vous qui l'ayez bue.&lt;BR&gt;&lt;BR&gt;Maintenant, reste à savoir si vous allez pouvoir tirer quoi que ce soit du tuwangi captif. Vous devriez aller parler au {@LinkCreature:205#1020#prisonnier baba tuwangi Tangmo} et voir ce que vous pouvez en tirer.&lt;BR&gt;&lt;BR&gt;Faites-moi ensuite part de vos découvertes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1020">
+        <Page social="0">Hmm. Qu'est-ce que c'est que ça&amp;nbsp;? Ça sent la viande... et le désespoir.&lt;NEXTPAGEBUTTON&gt;"Le désespoir a une odeur&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hmm&amp;nbsp;? On dirait que ça me comprend. Vous voulez savoir ce qui se passe&amp;nbsp;? Vous voulez savoir pourquoi le marais gagne du terrain&amp;nbsp;? Osez me dire que vous n'avez jamais rêvé d'une maison plus grande&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tout cela est notre œuvre, évidemment... nous sommes en pleine expansion&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="1004">
+        <Page social="5">Oh non&amp;nbsp;! Les tuwangis sont donc bel et bien les responsables&amp;nbsp;? Ce n'est pas bon du tout. Ca signifie... oh, misère.&lt;BR&gt;&lt;BR&gt;Enfin, quoi qu'il en soit, merci de votre aide. Veuillez accepter ceci.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">Tous les étages de ce bâtiment grouillent de créatures cauchemardesques.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:33#5#bouffons maudits} semblent être les pires... jusqu’à ce que l’on voie les {@LinkCreature:33#51#marmots bouchers}.&lt;BR&gt;&lt;BR&gt;Et si vous rencontrez à la fois les clowns et les poupées, bon courage pour retrouver le sommeil. En avant&amp;nbsp;! Essayez de les tuer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1001">
+        <Page social="0">Vous avez survécu&amp;nbsp;? Oh. Vous avez plus de cran que je ne l’aurais cru. Enfin, allons... C’EST UNE POUPEE AVEC UN COUTEAU DERRIERE VOUS&amp;nbsp;!?!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">La férocité avec laquelle l'Atel Akaad a combattu est inquiétante. On aurait cru les troupes possédées par quelque chose.&lt;BR&gt;&lt;BR&gt;Allez tuer les {@LinkCreature:25#1021#prélats devans} et les {@LinkCreature:25#1022#gardiens squelettiques}, et voyons si cela entraîne un changement. Ce sont peut-être eux qui contrôlent les créatures.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">Une chaîne de contrôle mental! C'est donc ainsi qu'ils auraient pris le contrôle de l'Atel Akaad&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Ces chevaliers de l'effroi sont certainement sous l'emprise de quelque chose.</Page>
+    </Text>
+</QuestDialog>

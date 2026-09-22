@@ -1,0 +1,99 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Votre première mission a consisté à soutenir Crescentia, menacée par les bandits devans. Vous avez été envoyé{@g:/e} dans les Bois de l'Oubli pour aider à soigner les soldats blessés.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Le peuple des fées d'Arcadia s'en prend aux bûcherons et compromet l'acheminement du bois vers Velika.&lt;BR&gt;&lt;BR&gt;Allez vous présenter à Samael, le commandant de la garnison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Un appel à l'aide vient de nous parvenir d'Arcadia.&lt;BR&gt;&lt;BR&gt;Des bandits devans ayant jadis appartenu à l'empire sombre et qui ont été bannis de Velika se cachent dans les Bois de l'oubli, au nord de Crescentia.  &lt;BR&gt;&lt;BR&gt;Ces derniers temps, ces devans reprennent les armes et menacent Crescentia.&lt;BR&gt;&lt;BR&gt;Allez aider Neacal, dans le Camp de la digue des Bois de l'oubli.&lt;BR&gt;&lt;BR&gt;Montrez de quoi vous êtes capable.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je m'y rendre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Comment vous y rendre ?&lt;BR&gt;&lt;BR&gt;Vous ne voulez pas que je vous porte sur mon dos, si ?&lt;BR&gt;Prenez un pégase, cherchez un parchemin de téléportation ou allez-y à pied.&lt;BR&gt;&lt;BR&gt;Votre soutien est demandé de toute urgence, alors arrêtez donc de lambiner ici.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Allez donc voir Dougal, qui vous a déjà apporté son aide à Tiarania.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Getty est toujours de bon conseil et peut sans doute vous aider.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Uriela se trouve devant le Quartier général et pourra sans doute vous aider.&lt;BR&gt;Dougal semble très occupé et, tout compte fait, Getty n'est pas si intelligente que ça.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">(Elle vous adresse un clin d'œil accompagné d'un sourire.)&lt;BR&gt;&lt;BR&gt;D'après ce qu'on m'a dit, vous avez fait du bon travail sur l'Île de l'Aube. &lt;BR&gt;&lt;BR&gt;Je suis ravie que vous ayez rejoint la troupe de Garnison de Velika. Alors, que puis-je faire pour vous ? Je peux vous être utile ?&lt;NEXTPAGEBUTTON&gt;"Comment puis-je me rendre au Camp de la digue, dans les Bois de l'oubli ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Au Camp de la digue, dans les Bois de l'oubli ? &lt;BR&gt;C'est vrai. Une demande nous est parvenue de là-bas.&lt;BR&gt;&lt;BR&gt;Il y a certainement un pégase menant à Crescentia. Une fois là-bas, vous n'avez qu'à utiliser un téléportail. &lt;BR&gt;&lt;BR&gt;Vous connaissez Ferus, non ? Vous pouvez lui transmettre mes salutations.&lt;BR&gt;&lt;BR&gt;Allez donc tout d'abord voir le maître de vol.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Au Camp de la digue, dans les Bois de l'oubli ?&lt;BR&gt;&lt;BR&gt;Il n'y a malheureusement pas de pégase y menant directement.&lt;BR&gt;Le moyen le plus rapide d'atteindre votre destination est le téléportail de Crescentia.&lt;BR&gt;&lt;BR&gt;[Sélectionnez un pégase et rendez-vous à Crescentia.]&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">N'oubliez pas ! Vous devez aller à Crescentia.&lt;BR&gt;Ne vous trompez pas de destination ! Sans quoi, vous devrez revenir ici.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="59" prevId="8" villagerId="1025">
+        <Page social="4" voiceTypeId="0">Ah, vous êtes &lt;PCNAME&gt;. Dougal a parlé de vous.&lt;BR&gt;&lt;BR&gt;Vous avez fait du bon travail sur l'Île de l'aube ! Un grand merci de bien vouloir aider Crescentia.&lt;BR&gt;&lt;BR&gt;Dougal m'a remis cet objet à votre intention.&lt;BR&gt;Il vous sera utile pendant le combat.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le téléportail qui vous emmènera au "Camp de la digue" se trouve sur ma droite. Neacal vous y accueillera. &lt;BR&gt;&lt;BR&gt;Bonne chance.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="59" prevId="9" villagerId="1017">
+        <Page social="4" voiceTypeId="0">Ce téléportail est&lt;BR&gt;&lt;BR&gt;relié à divers endroits dans Arcadia.&lt;BR&gt;&lt;BR&gt;[Sélectionnez "Camp de la digue, Bois de l'oubli" pour vous y téléporter.]</Page>
+    </Text>
+    <Text id="11" huntingZoneId="203" prevId="10" villagerId="1004">
+        <Page social="4" voiceTypeId="0">De l'aide, enfin ! Je m'appelle Neacal et je suis responsable de la protection du Camp de la digue.&lt;BR&gt;&lt;BR&gt;Nous nous trouvons à l'ouest de Crescentia et, puisque cette route mène jusqu'à Boquillon, c'est une voie de ravitaillement importante.&lt;BR&gt;&lt;BR&gt;De temps en temps, une poignée de bandits devans faisait irruption pour dévaliser une cargaison. Mais ces derniers temps, ils se regroupent et menacent tout le village.&lt;BR&gt;&lt;BR&gt;Si ça continue ainsi, les habitants de Crescentia risquent d'y passer.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La tâche la plus urgente est l'assistance aux soldats blessés.&lt;BR&gt;Nous avons épuisé le stock de médicaments du village.&lt;BR&gt;&lt;BR&gt;Nous devons donc nous contenter de plantes médicinales des environs pour traiter nos soldats.&lt;BR&gt;Allez donc nous chercher quelques orties aux fleurs bleues.&lt;BR&gt;&lt;BR&gt;Cependant, des dents-de-sabre rôdent dans les environs, alors soyez sur vos gardes en cherchant les orties.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Voici une faucille surannée.&lt;BR&gt;Elle est en bien piteux état, mais elle devrait tout juste faire l'affaire pour cueillir les orties aux fleurs bleues.&lt;BR&gt;&lt;BR&gt;Certes, vous pouvez les cueillir sans outil, mais je vous le déconseille. Ça ira plus vite ainsi.&lt;BR&gt;&lt;BR&gt;Vous n'avez qu'à vous approcher d'un objet de collecte pour voir par quel moyen le récolter au plus vite.&lt;BR&gt;&lt;BR&gt;Allez, en route.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="203" prevId="11" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Oh, ils sont frais et en bon état !&lt;BR&gt;&lt;BR&gt;Ces orties sont certes très efficaces, mais ils ont un goût répugnant.&lt;BR&gt;&lt;BR&gt;C'est très difficile à avaler.&lt;BR&gt;Aidez-moi donc à les administrer aux soldats.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Vous n'avez pas encore les orties aux fleurs bleues ?&lt;BR&gt;Des dents-de-sabre rôdent dans les parages, alors soyez sur vos gardes pendant votre cueillette.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ! Je me réjouis de vous revoir !&lt;BR&gt;Votre inventaire serait-il déjà plein ?&lt;BR&gt;&lt;BR&gt;Comment ? Le Camp de la digue, dans les Bois de l'oubli ?&lt;BR&gt;&lt;BR&gt;Eh bien ! L'atmosphère me semblait bien un peu tendue et en voilà donc la raison !&lt;BR&gt;Vous avez reçu une besogne importante.&lt;NEXTPAGEBUTTON&gt;"Malheureusement, je n'ai pas la moindre idée de comment m'y rendre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Le parchemin de téléportation est le meilleur moyen de voyager !&lt;BR&gt;Si vous souhaitez vous rendre dans le Camp de la digue, passez d'abord par Boquillon.&lt;BR&gt;&lt;BR&gt;Laissez-moi vérifier. Où est-il donc passé ?&lt;BR&gt;Ah ! Le voilà !&lt;BR&gt;&lt;BR&gt;Prenez ce parchemin de téléportation.&lt;BR&gt;Inutile de me remercier.&lt;NEXTPAGEBUTTON&gt;"Merci quand même."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="60" prevId="14" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Bienvenue à Boquillon.&lt;BR&gt;&lt;BR&gt;Je m'appelle Arn et suis le magistrat de Boquillon.&lt;BR&gt;Vous faites partie de la Fédération Valkyon ? Qu'est-ce qui vous amène ici ?&lt;NEXTPAGEBUTTON&gt;"Je dois aller au Camp de la digue, dans les Bois de l'oubli."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Arn vous écoute en hochant la tête.)&lt;BR&gt;&lt;BR&gt;Alors vous êtes au bon endroit. En partant d'ici, vous arriverez plus vite au Camp ouest que depuis Crescentia.  &lt;BR&gt;&lt;BR&gt;Longez tout simplement cette route en direction de la Plateforme du pégase jusqu'aux Bois de l'oubli. &lt;BR&gt;&lt;BR&gt;Latton connaît l'endroit comme sa poche. Demandez-lui votre route.&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="60" prevId="15" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Attendez ! Où voulez-vous aller ?&lt;BR&gt;&lt;BR&gt;Par là, c'est les Bois de l'oubli ! Si j'étais vous, je n'y mettrais pas les pieds. L'endroit pullule de monstre.&lt;BR&gt;&lt;BR&gt;Sans compter les nombreux devans qui y rôdent. &lt;BR&gt;&lt;BR&gt;Je vous aiderais bien, mais...&lt;NEXTPAGEBUTTON&gt;"On m'a fait appeler en renfort."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, c'est donc que vous faites partie de la Fédération Valkyon !?&lt;BR&gt;&lt;BR&gt;Pourquoi ne pas le dire d'entrée ?&lt;BR&gt;Neacal sera sans doute ravi de vous voir.&lt;BR&gt;&lt;BR&gt;Traversez tout simplement la grotte, là-bas, et vous arriverez dans les Bois de l'oubli.&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Latton vous donne un sachet de médicaments.)&lt;BR&gt;&lt;BR&gt;Pourriez-vous apporter ça à Neacal ?&lt;BR&gt;Il doit en avoir bien besoin, vue la durée de sa mission.&lt;BR&gt;&lt;BR&gt;J'aimerais vous en donner plus, mais c'est un peu la disette. Prenez plutôt encore un peu d'orties aux fleurs bleues.  &lt;BR&gt;&lt;BR&gt;Profitez de l'occasion pour éliminer quelques-uns des dents-de-sabre qui rôdent devant la grotte. Ils attaquent sans cesse les Humains. Il y en a beaucoup trop.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous trouverez aussi sans doute des orties aux fleurs bleues sur la route. J'en aurais bien besoin, parce que celles que j'ai dans ma sacoche ne suffiront certainement pas.&lt;BR&gt;&lt;BR&gt;Voici une faucille surannée.&lt;BR&gt;Elle est en bien piteux état, mais elle devrait tout juste faire l'affaire pour cueillir les orties aux fleurs bleues.&lt;BR&gt;&lt;BR&gt;Certes, vous pouvez les cueillir sans outil, mais je vous le déconseille. Ça ira plus vite ainsi.&lt;BR&gt;&lt;BR&gt;Vous n'avez qu'à approcher d'un objet de collecte pour voir par quel moyen le récolter au plus vite.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="203" prevId="16" villagerId="1004">
+        <Page social="4" voiceTypeId="0">De l'aide, enfin ! Je m'appelle Neacal et je suis responsable de la protection du Camp de la digue.&lt;BR&gt;&lt;BR&gt;Nous nous trouvons à l'ouest de Crescentia et, puisque cette route mène jusqu'à Boquillon, c'est une voie de ravitaillement importante.&lt;BR&gt;&lt;BR&gt;De temps en temps, une poignée de bandits devans faisait irruption pour dévaliser une cargaison. Mais ces derniers temps, ils se regroupent et menacent tout le village.&lt;BR&gt;&lt;BR&gt;Si ça continue ainsi, les habitants de Crescentia risquent d'y passer.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La tâche la plus urgente est de soigner les soldats blessés.&lt;BR&gt;Nous avons épuisé le stock de médicaments du village.&lt;BR&gt;&lt;BR&gt;Nous devons donc trouver des orties aux fleurs bleues dans les environs pour soigner nos soldats. &lt;NEXTPAGEBUTTON&gt;"Voici un sachet de médicaments que Latton m'a confié."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, ce bon vieux Latton !&lt;BR&gt;&lt;BR&gt;(Neacal marque un temps d'arrêt.)&lt;BR&gt;&lt;BR&gt;Je suis tellement reconnaissant de toute l'aide qui nous parvient.&lt;BR&gt;&lt;BR&gt;Pourriez-vous apporter ces médicaments aux soldats blessés, afin qu'ils reprennent des forces ?&lt;BR&gt;&lt;BR&gt;Je prendrai grand soin des orties aux fleurs bleues.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Vous n'avez pas encore les orties aux fleurs bleues ?&lt;BR&gt;Des dents-de-sabre rôdent dans les parages, alors soyez sur vos gardes pendant votre cueillette.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="203" prevId="17" villagerId="1038">
+        <Page social="4" voiceTypeId="0">Enfin des vrais médicaments !&lt;BR&gt;&lt;BR&gt;Les orties aux fleurs bleues commençaient à me sortir par les yeux&lt;BR&gt;Je vais déjà nettement mieux.&lt;NEXTPAGEBUTTON&gt;"Tenez bon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="20" huntingZoneId="203" prevId="19" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Merci bien. &lt;BR&gt;Je vais déjà mieux, grâce à vous.&lt;BR&gt;&lt;BR&gt;Dès que je serai remis, je vais montrer à ces devans de quel bois je me chauffe !&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous allez y arriver !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="21" huntingZoneId="63" prevId="3" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Vous allez à Arcadia ?&lt;BR&gt;&lt;BR&gt;Ah, ça a un rapport avec les problèmes de Crescentia ? &lt;BR&gt;Ça tombe bien&lt;BR&gt;J'ai ici quelques parchemins de téléportation pour vous.&lt;BR&gt;&lt;BR&gt;Ils vous emmèneront directement au Camp de la digue, dans les Bois de l'oubli.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="203" prevId="21" villagerId="1004">
+        <Page social="4" voiceTypeId="0">De l'aide, enfin ! Je m'appelle Neacal et je suis responsable de la défense du Camp de la digue.&lt;BR&gt;&lt;BR&gt;Nous nous trouvons à l'ouest de Crescentia. Puisque cette route mène jusqu'à Boquillon, c'est une voie de ravitaillement importante.&lt;BR&gt;&lt;BR&gt;De temps en temps, une poignée de bandits devans faisait irruption pour dévaliser les convois. Mais ces derniers temps, ils se regroupent et menacent tout le village.&lt;BR&gt;&lt;BR&gt;Si ça continue ainsi, les habitants de Crescentia risquent d'y passer.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La tâche la plus urgente est l'assistance aux soldats blessés.&lt;BR&gt;Nous avons épuisé le stock de médicaments du village.&lt;BR&gt;&lt;BR&gt;Nous devons donc nous contenter de plantes médicinales des environs pour traiter nos soldats.&lt;BR&gt;Allez donc nous chercher quelques orties aux fleurs bleues.&lt;BR&gt;&lt;BR&gt;Cependant, des dents-de-sabre rôdent dans les environs, alors soyez sur vos gardes en cherchant les orties.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Voici une faucille surannée.&lt;BR&gt;Elle est en bien piteux état, mais elle devrait tout juste faire l'affaire pour cueillir les orties aux fleurs bleues.&lt;BR&gt;&lt;BR&gt;Certes, vous pouvez les cueillir sans outil, mais je vous le déconseille. Ça ira plus vite ainsi.&lt;BR&gt;&lt;BR&gt;Vous n'avez qu'à vous approcher d'un objet de collecte pour voir par quel moyen le récolter au plus vite.&lt;BR&gt;&lt;BR&gt;Allez, en route.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="203" prevId="22" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Oh, ils sont frais et en bon état !&lt;BR&gt;&lt;BR&gt;Ces orties sont certes très efficaces, mais ils ont un goût répugnant.&lt;BR&gt;&lt;BR&gt;C'est très difficile à avaler.&lt;BR&gt;Aidez-moi donc à les administrer aux soldats.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Vous n'avez pas encore les orties aux fleurs bleues ?&lt;BR&gt;Des dents-de-sabre rôdent dans les parages, alors soyez sur vos gardes pendant votre cueillette.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="203" prevId="23" villagerId="1038">
+        <Page social="4" voiceTypeId="0">*pouah*... *beurk*... ! &lt;BR&gt;C'est vraiment censé être aussi dégoûtant ?&lt;BR&gt;&lt;BR&gt;J'ai l'impression d'aller encore plus mal...&lt;BR&gt;&lt;BR&gt;(Avec la plus grande peine, le soldat parvient à avaler en secouant la tête.)&lt;NEXTPAGEBUTTON&gt;"Courage, vous vous en sortirez".&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="26" huntingZoneId="203" prevId="25" villagerId="1039">
+        <Page social="4" voiceTypeId="0">(Le soldat goûte les orties et vous regarde d'un œil sombre.)&lt;BR&gt;&lt;BR&gt;Vous n'avez tout de même pas l'intention de m'achever... si ?&lt;BR&gt;&lt;BR&gt;Je peux encore combattre, laissez-moi en vie...&lt;NEXTPAGEBUTTON&gt;"Ne vous en faites pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="27" huntingZoneId="203" prevId="26" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Quel toupet ! Après tout, moi aussi, j'en ai avalé !&lt;BR&gt;&lt;BR&gt;Vous serez très bientôt sur pieds !&lt;BR&gt;&lt;BR&gt;Ah, &lt;PCNAME&gt;, vous avez fait du bon travail.&lt;BR&gt;&lt;BR&gt;Vous avez utilisé la {@RawItem:206600} pour cueillir les orties aux fleurs bleues ?&lt;BR&gt;&lt;BR&gt;Pour chaque objet de collecte, il existe des outils qui en facilitent la récolte. En vous approchant d'un objet de collecte, vous voyez quel outil est approprié.&lt;BR&gt;&lt;BR&gt;Pour vous récompenser, je vous donne un outil de collecte qui vous sera certainement utile dans vos voyages.&lt;BR&gt;Merci encore, &lt;PCNAME&gt; !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">Des {@Creature:47#4003#écraseurs gulas argonomorphes} se sont emparés d'un camp, au nord d'ici. J'aimerais bien savoir pourquoi, mais je n'ai aucune envie de me faire dévorer, et tout le monde ici partage mon sentiment.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller jeter un coup d'œil sur place, et éventuellement repousser un peu l'envahisseur&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="5">Ils avaient de cette terre sur leurs chaussures&amp;nbsp;? Elle n'a rien de particulier, mais j'y ai trouvé des graines peu communes. Elles viennent de la {@Rgn:45001$$Forteresse de la servitude}.&lt;BR&gt;&lt;BR&gt;Rendez-vous immédiatement à l'Avant-poste du Pionnier et présentez-vous à Borskan. Les gulas argonomorphes sont en mouvement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1021">
+        <Page social="0">Vous avez repoussé les gulas&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">Ainsi donc, les gulas arrivaient de la Forteresse de la Servitude. Je ne m'attendais pas à ça.&lt;BR&gt;&lt;BR&gt;Je vais devoir approfondir cette enquête et j'aimerais savoir si vous êtes {@gender:disposé/disposée} à m'aider.</Page>
+    </Text>
+</QuestDialog>

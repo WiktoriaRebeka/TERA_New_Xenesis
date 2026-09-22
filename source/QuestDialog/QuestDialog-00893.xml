@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="4">Il n’existe rien de plus terrifiant qu’une attaque massive de wendigos. Leur audace augmente de jour en jour.&lt;BR&gt;&lt;BR&gt;Nous devons sécuriser cette zone si nous voulons réussir. Allez donc tuer quelques {@LinkCreature:34#610#enragés} et {@LinkCreature:34#710#seigneurs de guerre} wendigos pour les affaiblir.&lt;BR&gt;&lt;BR&gt;Déplacez-vous rapidement et ne les attirez pas vers notre position.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Beau travail. Pendant que les wendigos lèchent leurs blessures, nous pouvons renforcer notre position.</Page>
+    </Text>
+</QuestDialog>

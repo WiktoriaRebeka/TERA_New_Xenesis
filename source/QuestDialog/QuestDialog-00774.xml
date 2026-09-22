@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="1">Un décurion doit s'acquitter des devoirs d'un décurion. Vous n'êtes pas décurion, mais vous pouvez certainement aider.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:30#520#mandrills vilpattes} sont devenus fous. Non seulement, ils attaquent de paisibles archéologues, mais ils commettent aussi un crime impardonnable. Ils retournent les pierres !&lt;BR&gt;&lt;BR&gt;Nous devons les chasser, sans quoi le {@Rgn:30008$$Temple de l'autorité} ressemblera bientôt aux {@Rgn:30009$$Ruines du temple} !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">Un bon mandrill est un mandrill mort.&lt;BR&gt;&lt;BR&gt;Je sais jauger les gens, et je peux dire à votre regard que les {@LinkCreature:30#520#mandrills vilpattes} font désormais partie du passé.</Page>
+    </Text>
+</QuestDialog>

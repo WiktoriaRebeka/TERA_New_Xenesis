@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1106">
+        <Page social="4">Je parie que tout le monde dans le coin vous a demandé de vous occuper des prédateurs incontrôlables&amp;nbsp;? L'armée est monopolisée ailleurs, la plupart des civils ont pris la fuite, plus rien n'empêche ces bêtes sauvages de proliférer.&lt;BR&gt;&lt;BR&gt;Je ne saurais donc trop vous encourager à poursuivre vos efforts. En ce moment, ce sont les {@LinkCreature:10#21#dents-de-sabre ébènes} qui nous posent le plus de problèmes.&lt;BR&gt;&lt;BR&gt;Vous savez quoi faire, &lt;PCCLASS:lcase&gt;. Au boulot&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1106">
+        <Page social="4">Déjà de retour&amp;nbsp;? Vous avez un sacré coup de main. Pour un peu, j'aurais de la peine pour les dents-de-sabre.&lt;BR&gt;&lt;BR&gt;Au fait, je me suis toujours demandé pourquoi on disait "dent" de sabre au singulier, ils en ont deux, non&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

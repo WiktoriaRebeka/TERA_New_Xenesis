@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">Les basilics sont en période de ponte. La Vallée de la Bête est déjà envahie par ces monstres. Nous devons les empêcher de proliférer de la sorte.&lt;BR&gt;&lt;BR&gt;Si vous alliez me récupérer quelques œufs, nous pourrions réduire le nombre de naissances et nous livrer à un certain nombre d'expériences. Ces œufs ont des propriétés magiques puissantes. Nous pourrions en tirer quelque chose d'utile.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="4">Beurk... enfin, beau travail&amp;nbsp;! Regardez un peu ces œufs. La coquille est si fine qu'on peut voir quelque chose bouger à l'intérieur. Ils ne vont peut-être pas tarder à éclore&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils vont nous permettre de mettre la dernière touche à notre élixir de résurrection. Je vais essayer d'en créer un échantillon. Donnez-moi quelques instants.&lt;BR&gt;&lt;BR&gt;(Il mélange les ingrédients et prépare quelque chose.)&lt;BR&gt;&lt;BR&gt;Et voilà&amp;nbsp;! J'ai enfin réussi à concocter mon élixir de résurrection. J'aurais aimé pouvoir vous en donner la primeur, mais pour cela, il faudrait que vous ne soyez plus de ce monde.&lt;BR&gt;&lt;BR&gt;(Il est enthousiaste.)&lt;BR&gt;&lt;BR&gt;Eh bien, vous n'avez plus qu'à tenter de l'utiliser sur une {@LinkCreature:203#1023#victime malchanceuse}. Tenez, prenez-le.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">Vous trouverez principalement les œufs dans le Nid de la Bête.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1023">
+        <Page social="0">(Ce cadavre est partiellement recouvert de mousse. La mort n'est pas récente. Vous ouvrez la fiole et versez son contenu dans la bouche.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1024">
+        <Page social="0">Aussitôt que vous appliquez le réactif sur le corps, ce dernier se dissout littéralement&amp;nbsp;! En quelques instants, il ne reste plus que des fragments d'os à la surface du sol. La victime était peut-être morte depuis trop longtemps.&lt;BR&gt;&lt;BR&gt;Hmm... à moins que le remède de Parlan ne soit pas encore au point.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, il est temps d'aller lui raconter ce qui s'est passé.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1009">
+        <Page social="4">Eh bien, il aurait été surprenant qu'un élixir aussi complexe fonctionne du premier coup. Ce n'était qu'une expérience, et je vais certainement en apprendre quelque chose.&lt;BR&gt;&lt;BR&gt;Peut-être serons-nous bientôt en mesure de sauver les victimes des basilics.</Page>
+    </Text>
+</QuestDialog>

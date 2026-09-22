@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="4">Nous sommes peut-être en sous nombre, mais nous ne manquons pas de provisions, &lt;PCNAME&gt;. Une bonne partie de tout ça va finir par pourrir dans la jungle.&lt;BR&gt;&lt;BR&gt;Ça ne profite à personne&amp;nbsp;! Un tel gâchis est intolérable.&lt;BR&gt;&lt;BR&gt;C'est moi qui doit faire le fourrier, cette semaine, et je viens de recevoir cette "lettre" anonyme&amp;nbsp;: "Vous avez des provisions, j'ai de l'argent... rendez-vous au passage secret, à l'ouest".&lt;BR&gt;&lt;BR&gt;Vous devriez aller faire un tour sur place, trouver le fameux "passage secret" et voir qui s'y montre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1009">
+        <Page social="4">C'est de la bonne marchandise... Merci.&lt;BR&gt;&lt;BR&gt;Vous devez apprécier de travailler pour Dirken, pas vrai&amp;nbsp;? On peut dire qu'il a la bosse des affaires&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1009">
+        <Page social="0">Mais... vous n'êtes pas Dirken&amp;nbsp;! Et vous n'avez pas la marchandise&amp;nbsp;? Quel affront&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous allons nous plaindre auprès de Dirken&amp;nbsp;! Cette histoire va vous coûter cher&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="3" villagerId="1008">
+        <Page social="4">Attendez... ils ont cru que vous travailliez pour Dirken&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Hum, voilà qui risque d'entacher salement notre réputation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Attendez... ça signifie que Dirken revend des fournitures de la Fédération aux pirates&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

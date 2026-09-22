@@ -1,0 +1,76 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Élion vous cherche pour répartir les rôles dans l'opération de sauvetage de Thro et des villageois enlevés.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous vous êtes mis en route pour aller sauver Thro et les villageois enlevés dans le Manoir de Rogash. Aurl vous a prié de retrouver sa fiancée. Vous l'avez retrouvée dans l'enclos des larves. Mais vous n'avez plus rien pu faire pour la fiancée d'Aurl.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20104">
+        <Page social="4" voiceTypeId="0">D'après Jelena, cet endroit comprend un manoir et un jardin et appartient sans doute à un personnage important.&lt;BR&gt;&lt;BR&gt;Elle présume également que Thro et les autres prisonniers sont enfermés quelque part à l'intérieur.&lt;BR&gt;&lt;BR&gt;Vous pourriez peut-être attirer l'attention des nagas pour que je puisse y jeter un œil.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ne sous-estimez pas les nagas : Armande ferait mieux de nous attendre ici.&lt;BR&gt;&lt;BR&gt;Essayez donc de la convaincre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="20403">
+        <Page social="4" voiceTypeId="0">Vous voulez me laisser seule ici et me priver d'une occasion d'observer ce nouveau peuple ?&lt;BR&gt;&lt;BR&gt;Je préfère vous suivre en me tenant à l'écart du danger et je vous prie donc de me laisser vous accompagner.&lt;NEXTPAGEBUTTON&gt;"Ce ne sera pas simple, cette fois-ci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je pourrais peut-être me faire passer pour une simple chercheuse pacifique &lt;BR&gt;&lt;BR&gt;(Vous faites non de la tête.)&lt;BR&gt;&lt;BR&gt;Vous avez raison, bien sûr, ce plan n'aurait jamais fonctionné. Je vais vous attendre ici. Vous devez à tout prix sauver Thro et les villageois.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2000" prevId="4" villagerId="20105">
+        <Page social="4" voiceTypeId="0">Par ici ! &lt;PCNAME&gt;, grâce à vous, j'ai pu explorer le jardin sans être inquiété.&lt;BR&gt;&lt;BR&gt;Je suis convaincu que les villageois sont retenus prisonniers derrière cette porte.&lt;BR&gt;&lt;BR&gt;Pour y accéder, nous avons besoin de l'insigne d'identification d'un naga.&lt;BR&gt;&lt;BR&gt;Or, je pense qu'un seul naga bien précis possède cet insigne. Pourriez-vous essayer de le dénicher ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="20105">
+        <Page social="4" voiceTypeId="0">Avez-vous trouvé l'insigne d'identification ? C'est bien ça. Cet insigne vous permettra de vous infiltrer.&lt;BR&gt;&lt;BR&gt;Entrez-vite.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="5" villagerId="20105">
+        <Page social="4" voiceTypeId="0">Vous n'avez pas encore trouvé l'insigne d'identification ? Nous devons sauver les prisonniers au plus vite !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2100" prevId="6" villagerId="20101">
+        <Page social="0">&lt;PCNAME&gt;, donnez-moi la clé, je vous prie. Je vais ouvrir la porte.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2100" prevId="6" villagerId="20101">
+        <Page social="0">Nous devons vaincre ce haut dragon, là-bas, et lui dérober sa clé.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2100" prevId="8" villagerId="20300">
+        <Page social="4" voiceTypeId="0">Qu'est-ce qui vous a pris si longtemps ?&lt;BR&gt;&lt;BR&gt;Le souvenir de l'affront que vous ont infligé les nagas n'a pas suffi à vous motiver ?&lt;BR&gt;&lt;BR&gt;Bref, je suis tout de même ravi de votre présence. Les nagas m'ont pris mes outils les plus précieux et les ont rangés dans une caisse. Leur instinct a dû leur dire à quel point je suis redoutable avec ces outils en mains.&lt;BR&gt;&lt;BR&gt;Nous devons les retrouver au plus vite.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2100" prevId="10" villagerId="20500">
+        <Page social="4" voiceTypeId="0">Merci du sauvetage, &lt;PCNAME&gt;. Beaucoup d'autres prisonniers ont été transférés dans la couveuse.&lt;BR&gt;&lt;BR&gt;Alena, ma fiancée, en fait partie. Sauvez-la, je vous en supplie.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2100" prevId="11" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Voyons voir... Un, deux... Parfait, tous les outils sont encore intacts.&lt;BR&gt;&lt;BR&gt;Et le hasard faisant bien les choses, nous avons même des matériaux pour faire une bombe... Qu'en dites-vous ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2100" prevId="12" villagerId="20102">
+        <Page social="0">Disparaissons au plus vite avant que d'autres ennemis n'apparaissent.&lt;BR&gt;&lt;BR&gt;Nous devons retrouver Jelena et Armande.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2000" prevId="13" villagerId="20201">
+        <Page social="0">Je vous ai suivi, &lt;PCNAME&gt;. Ainsi, vous avez réussi ! Tout le monde est sain et sauf, non ?&lt;BR&gt;&lt;BR&gt;J'ai trouvé une plateforme menant à une autre île et aux villageois prisonniers.&lt;BR&gt;&lt;BR&gt;Mais nous devons être prudents. Qu'allons-nous faire ?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2000" prevId="14" villagerId="20201">
+        <Page social="0">Alors allons sauver les villageois prisonniers !&lt;BR&gt;&lt;BR&gt;Suivez-moi, je vais vous indiquer l'entrée.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="2000" prevId="15" villagerId="20203">
+        <Page social="4" voiceTypeId="0">C'est ici.&lt;BR&gt;&lt;BR&gt;Cette entrée mène à un endroit qui pullule de larves, mais j'ai aussi vu les villageois y être emprisonnés.&lt;BR&gt;&lt;BR&gt;Descendons avec cet ascenseur et nous pourrons les sauver.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="2000" prevId="16" villagerId="20205">
+        <Page social="0" voiceTypeId="0">Cet endroit est bien plus grand qu'il n'y semblait de là-haut. Que de larves et de nagas...&lt;BR&gt;Trouver les villageois ne sera pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Attendez ! Avez-vous entendu cette voix, vous aussi ?&lt;NEXTPAGEBUTTON&gt;"Quelle voix ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quelqu'un appelle à l'aide.&lt;BR&gt;Suivez-moi !&lt;BR&gt;&lt;BR&gt;Vite !</Page>
+    </Text>
+    <Text id="18" huntingZoneId="2000" prevId="17" villagerId="20700">
+        <Page social="4" voiceTypeId="0">Je suis sauvé !&lt;BR&gt;&lt;BR&gt;Je pensais déjà finir en pâté pour larves... *snif* ... Merci de votre aide.&lt;BR&gt;&lt;BR&gt;Cet endroit est vraiment répugnant. Il reste d'autres survivants au sous-sol.&lt;NEXTPAGEBUTTON&gt;"Avez-vous vu Aléna ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oui, elle s'y trouve aussi.&lt;BR&gt;&lt;BR&gt;Je les ai vus l'emmener au sous-sol.&lt;BR&gt;Aurl est son fiancé. Il est indemne ?&lt;BR&gt;(Vous hochez la tête.)&lt;BR&gt;Tant mieux. Je vous en supplie, sauvez Aléna et les autres villageois.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="2000" prevId="18" villagerId="20600">
+        <Page social="4" voiceTypeId="0">(Vous secouez Aléna et l'appelez par son nom, mais elle reste inerte.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="2000" prevId="19" villagerId="20502">
+        <Page social="13" voiceTypeId="0">Je... Je vais sortir Aléna d'ici.&lt;BR&gt;Exterminez donc ces abominables nagas qui ont Aléna sur la conscience, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Je vous en supplie !</Page>
+    </Text>
+    <Text id="21" huntingZoneId="2000" prevId="20" villagerId="20303">
+        <Page social="4" voiceTypeId="0">Nous avons libéré tous les prisonniers.&lt;BR&gt;Partons d'ici au plus vite.&lt;BR&gt;&lt;BR&gt;Qu'est-il advenu de la fiancée d'Aurl ?&lt;NEXTPAGEBUTTON&gt;"Nous n'avons plus rien pu faire pour elle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh non !&lt;BR&gt;Les choses ont pris une tournure si tragique...&lt;BR&gt;Je voudrais bien pouvoir raser cet endroit, mais nous avons besoin des explosifs pour d'autres projets...&lt;BR&gt;&lt;BR&gt;Allons-nous en.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="2000" prevId="21" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Ils semblent tous être ici.&lt;BR&gt;&lt;BR&gt;Mais je m'inquiète quand même pour Aurl. Je peux tout à fait comprendre sa colère, mais je crains qu'il soit en train de perdre les pédales.&lt;BR&gt;&lt;BR&gt;Vous feriez bien de vous entretenir avec Élion à son sujet.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="2000" prevId="22" villagerId="20109">
+        <Page social="4" voiceTypeId="0">Vous craignez qu'Aurl n'ait plus les idées claires ?&lt;BR&gt;&lt;BR&gt;Quand quelqu'un perd sa famille, il ressent un chagrin d'une violence difficile à concevoir. De telles plaies ne se résorbent pas sans peine.&lt;BR&gt;&lt;BR&gt;Assurons-nous qu'il ne reste plus le moindre prisonnier pour épargner une telle douleur aux autres familles.</Page>
+    </Text>
+</QuestDialog>

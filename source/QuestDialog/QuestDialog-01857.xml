@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="4">Il faut que je voie les monstres aliénés de mes propres yeux.&lt;BR&gt;Suivez cette route et vous finirez par tomber sur le Camp du Collectif de libre Échange.&lt;BR&gt;Je vous retrouverai là-bas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8027">
+        <Page social="4">Certes, nous devons apprendre la vérité concernant cet arbre, mais nous ne pouvons pas non plus laisser ces monstres attaquer des innocents.&lt;BR&gt;&lt;BR&gt;Nous devons donc sécuriser la route jusqu'à la Base de la Tour.&lt;BR&gt;Aidez-nous donc à réduire le nombre de basilics malades, d'orisks malades et d'ovolithes malades.&lt;BR&gt;&lt;BR&gt;Retrouvons-nous ensuite au Poste de guet du Nord.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8028">
+        <Page social="4">La Base de la Tour n'est plus bien loin.&lt;BR&gt;&lt;BR&gt;Les monstres semblent encore plus puissants. Pourriez-vous nous débarrasser des Basilics brutaux, des Orisks brutaux et des Arachnaeas brutales ?&lt;BR&gt;&lt;BR&gt;Venez me rejoindre en haut de la colline quand vous aurez fini.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="8029">
+        <Page social="4">Certes, la Base de la Tour est en piteux état, mais grâce à vous, notre route est à nouveau sûre, &lt;PCNAME&gt;. Un grand merci.&lt;BR&gt;&lt;BR&gt;Ah oui, si vous éliminez des monstres sur l'Île de l'Aube, la Fédération vous récompensera. J'espère que vous continuerez à nous aider.&lt;BR&gt;&lt;BR&gt;Et voici un petit gage de notre reconnaissance.&lt;BR&gt;J'espère qu'il vous sera utile, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

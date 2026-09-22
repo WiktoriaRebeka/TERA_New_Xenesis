@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="4">Quelqu'un ravitaille l'armée de Kaidun en secret. Si nous la laissons récupérer, nos attaques ne servent à rien.&lt;BR&gt;&lt;BR&gt;Vous allez devoir dérober ces provisions et les ramener ici. Si quelqu'un doit profiter des richesses de Westonia, ce doit être nous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1031">
+        <Page social="4">Bien joué&amp;nbsp;! Nous n'aurons pas de problème de nourriture avant un moment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1031">
+        <Page social="0">Les provisions sont certainement distribuées parmi les bâtiments du Passage de l'Intimidation.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">Comme vous le savez, s'infiltrer dans la forteresse n'est pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Mais il y a bien quelques astuces pour vous faciliter la tâche.&lt;NEXTPAGEBUTTON&gt;"Par exemple ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Éliminer ces hauts dragons. Quoi d'autre ? Les hauts dragons s'enorgueillissent de leur puissance. Si vous les éliminez, personne n'en saura rien hors de ces murs.&lt;BR&gt;&lt;BR&gt;Éliminez les adversaires sur place et rendez-vous dans la Salle des machines. Les renforts se feront attendre et vous pourrez en profiter pleinement.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tant que vous mettez un pied devant l'autre, vous ne pouvez pas vous tromper. Éliminez le dévastateur haut dragon à l'entrée de la Forteresse de Berak et revenez ensuite.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">Excellent travail. Je détermine vos prochaines cibles. Merci de patienter quelques instants !</Page>
+    </Text>
+</QuestDialog>

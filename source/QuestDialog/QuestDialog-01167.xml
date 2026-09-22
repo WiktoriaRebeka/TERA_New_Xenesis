@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="4">Les argons préparaient quelque chose ici, à Raga Shadi. Je le sens. &lt;BR&gt;&lt;BR&gt;Mais je manque d'indices. Tout ce dont je dispose, c'est la peau épaisse et kératinisée des {@LinkCreature:46#303#pestesangs argonomorphes}. C'est un travail salissant, mais si vous pouviez me rapporter des carapaces, euh... "fraîches", je pourrais les comparer avec les exemplaires, disons... "anciens" que j'ai déjà.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1028">
+        <Page social="4">Maintenant, je peux mettre à profit les compétences de taxidermie que mon oncle m'a enseignées. Ce n'est pas vraiment comme ça que j'imaginais les employer, mais bon…&lt;BR&gt;&lt;BR&gt;Raga Evala a davantage besoin de votre aide que moi… à moins que vous ayez été taxidermiste avant la guerre&amp;nbsp;? Non&amp;nbsp;? Cela ne m'étonne pas vraiment…&lt;BR&gt;&lt;BR&gt;Apportez-leur ça. C'est une simple fleur des champs qui a été argonisée. C'est inquiétant, mais assez intéressant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1028">
+        <Page social="0">Rapportez-moi la peau kératinisée de pestesangs argons. Pour mes recherches, pas pour m'en faire un trophée.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1029">
+        <Page social="4">Vous disposez d'une fleur des champs argonisée intacte&amp;nbsp;? Jusqu'à maintenant, nous n'avons trouvé que des fragments.&lt;BR&gt;&lt;BR&gt;Les argons sont clairement capables de transformer la végétation de toute une région, mais nous ne savons pas comment ils font… et encore moins comment les en empêcher.</Page>
+    </Text>
+</QuestDialog>

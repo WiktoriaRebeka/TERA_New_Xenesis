@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="5">Ce bosquet est sacré pour notre royaume.&lt;BR&gt;&lt;BR&gt;Malheureusement, ces horribles {@LinkCreature:23#13#rejetons brûlants à crocs} sont en train de le dévaster.&lt;BR&gt;&lt;BR&gt;Mais mes troupes se feront carboniser si elles interviennent. Je veux que vous vous en chargiez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1009">
+        <Page social="5">Bon, ces abominations cracheuses de feu ne devraient plus nous ennuyer pendant quelque temps.&lt;BR&gt;&lt;BR&gt;Merci. Notre héritage est une partie de ce que nous sommes, nous devons le protéger.</Page>
+    </Text>
+</QuestDialog>

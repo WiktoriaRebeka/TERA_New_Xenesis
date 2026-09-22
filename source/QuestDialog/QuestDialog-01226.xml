@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="4">Pour essayer de sécuriser les routes de ravitaillement et de déplacer des troupes sans interférence argone, nous avons employé des ingénieurs castanics pour creuser un tunnel jusqu'à Granarkus.&lt;BR&gt;&lt;BR&gt;Je vais vous téléporter auprès d'{@LinkCreature:249#1015} quand vous voudrez partir. Remettez-lui ces ordres et aidez-le comme vous le pourrez. Retournons au combat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1015">
+        <Page social="4">Nous venons de détruire les derniers rochers il y a quelques heures.&lt;BR&gt;&lt;BR&gt;Les argons ont compliqué le ravitaillement régulier et les missions de secours, surtout à Kanstria.&lt;NEXTPAGEBUTTON&gt;"C'est une ville&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Kanstria&amp;nbsp;? Oui. Beaucoup de castanics y sont installés. J'ai entendu une Elin l'appeler "La petite Castanica".&lt;BR&gt;&lt;BR&gt;Malheureusement, les argons ont perturbé la plateforme de vol et ils sont coincés là-bas. J'aimerais que vous portiez cette pierre de vol à leur responsable de vol. Cela leur permettra de repartir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1006">
+        <Page social="6">Oh, une nouvelle pierre de vol&amp;nbsp;! Merveilleux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous allons pouvoir reprendre nos vols vers Kaiator ou la Forteresse de Zulfikar. Je vous remercie.</Page>
+    </Text>
+</QuestDialog>

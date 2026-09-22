@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Les argons ont attaqué l'un de nos convois de ravitaillement et ont détruit une cargaison entière de provisions. Nos soldats ne tiendront pas le coup s'ils ne peuvent pas reprendre leur force.&lt;BR&gt;&lt;BR&gt;Récupérez des provisions d'urgence auprès d'{@LinkCreature:78#3008#Artur} et amenez-les à nos troupes sur le terrain&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">Inutile de rappeler à quelqu'un possédant votre expérience qu'il est vital de protéger les lignes de ravitaillement sur le champ de bataille.&lt;BR&gt;&lt;BR&gt;Tenez, prenez ces provisions d'urgence et apportez-les à nos hommes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="4">Il n'y a pas de temps à perdre. Apportez ces provisions aux soldats, ils en ont besoin.&lt;BR&gt;&lt;BR&gt;Que la peste m'emporte si un soldat était amené à mourir de faim&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="4" villagerId="3008">
+        <Page social="4">Oh, merci, bonté divine&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je me demandais si je n'allais pas bientôt devoir croquer un mollet d'argon.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="4" villagerId="3006">
+        <Page social="4">Jamais je n'aurais cru un jour me lécher les babines en face d'une ration militaire.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3004">
+        <Page social="4">Merci de ne pas nous avoir oubliés.&lt;BR&gt;&lt;BR&gt;Se sentir abandonnés, c'est le pire des sentiments auxquels on peut être confronté.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="3005">
+        <Page social="4">Bon, c'est pas du filet mignon, mais que c'est bon d'avoir un truc à se mettre sous la dent. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="3010">
+        <Page social="4">Le Shariar n'oublie jamais ses frères d'armes. Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="3011">
+        <Page social="4">On va s'en tirer, grâce à vous.&lt;BR&gt;&lt;BR&gt;Avec ça, on pourra tenir jusqu'au prochain ravitaillement.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="3003">
+        <Page social="4">Quelle joie d'apprendre que vous avez pris soin de nos soldats, &lt;PCNAME&gt;. C'est un petit geste, mais qui a de grandes répercussions sur le moral de ceux qui risquent leur vie tous les jours.</Page>
+    </Text>
+</QuestDialog>

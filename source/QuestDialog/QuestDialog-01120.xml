@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="5">Nous avons détecté un niveau inquiétant d'énergie magique en provenance du quart sud-est du troisième niveau. Honnêtement, cela semble dépasser tout ce sont les nagas sont capables. Je soupçonne les mekonaris.&lt;BR&gt;&lt;BR&gt;Et plus particulièrement les {@LinkCreature:42#910#sorciers mekonaris}. Ils sont doués.&lt;BR&gt;&lt;BR&gt;Si on en tue assez, cela devrait mettre leur plan en péril, quel qu’il soit. Espérons-le.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Je ne comprends toujours pas. D’accord, de l’énergie magique. En quantité. Mais c’est loin d’être suffisant pour ressusciter un dieu-serpent mort, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin, nous avons fait ce qu’il y avait de mieux à faire. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

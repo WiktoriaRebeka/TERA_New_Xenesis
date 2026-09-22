@@ -1,0 +1,66 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">À la demande de {@linkcreature:528#5005$$Tamur}, vous avez secrètement remis les pylônes d'Aeonalis à Dougal et Paesyn. &lt;BR&gt;&lt;BR&gt;Dans la résidence du généralissime, à Velika, vous apprenez que les forces armées de l'ancien empire devan, qui ont jadis cherché refuge dans le nord d'Arun, sont devenues de puissants archidevans avides de conquêtes, sous la houlette de Lakan. &lt;BR&gt;&lt;BR&gt;Les archidevans et Grapine, l'agent secret de la Fédération Valkyon, ouvrent des failles spatiotemporelles et des demokrons s'infiltrent dans la résidence du commandant. Vous avez analysé les insignes arichdevans sur les demokrons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Ordre de mobilisation du Quartier général de Kaiator]&lt;BR&gt;&lt;BR&gt;À tous les guerriers de Kaiator !&lt;BR&gt;Kaiator vous demande.&lt;BR&gt;&lt;BR&gt;L'heure est enfin venue ! &lt;BR&gt;Il est temps de châtier, au nom de Kaia, les argons qui ont envahi notre patrie !&lt;BR&gt;&lt;BR&gt;(Le Quartier général de Kaiator est toujours ouvert.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, saisissez votre chance de prendre les armes pour Kaiator dans la guerre argonne. &lt;BR&gt;&lt;BR&gt;J'aurais aimé que vous puissiez déployer vos talents sur le champ de bataille...&lt;BR&gt;&lt;BR&gt;(L'expression de Tamur a quelque chose de maussade.)&lt;BR&gt;&lt;BR&gt;Vous devez me rendre un service, &lt;PCNAME&gt;. &lt;BR&gt;Remettez les pylônes d'Aeonalis aux invités qui arrivent à Velika. Ils donnent le pouvoir de voler.&lt;NEXTPAGEBUTTON&gt;"Pourquoi les pylônes d'Aeonalis ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Malheureusement, les argons repèrent trop facilement les aéronefs qui volent à l'aide de pylônes d'Aeonalis et il est donc préférable de ne pas s'en servir. Mais je ne pouvais pas faire autrement que de le demander à Seir. Si les guerriers de la fédération qui luttent contre les argons l'apprennent, la confiance dont jouit le quartier général risque de sérieusement en pâtir. &lt;BR&gt;&lt;BR&gt;Partez donc seul et donnez les pylônes d'Aeonalis aux visiteurs de Velika. Revenez ensuite ici pour me dire ce qu'il est advenu du Quartier général de Velika. &lt;BR&gt;&lt;BR&gt;Le &lt;A href="markmap:loc=84#-11510,5921,4105&amp;type=1&amp;name=Lieu de rendez-vous"&gt;Lieu de rendez-vous&lt;/A&gt; est ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="3" villagerId="10036">
+        <Page social="4" voiceTypeId="0">Je me présente, Paesyn, ingénieur de la fédération Valkyon.&lt;BR&gt; Je suis aux anges !&lt;BR&gt;&lt;BR&gt;Avec ces pylônes d'Aeonalis, mon invention géniale va fonctionner à merveille !&lt;BR&gt;Merci de me les avoir apportés. &lt;NEXTPAGEBUTTON&gt;"Quelle invention ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'aimerais vous révéler quelque chose. &lt;BR&gt;&lt;BR&gt;Mais c'est confidentiel et je ne sais pas si j'en ai le droit. Parlez à Dougal, à côté de moi.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" villagerId="10036">
+        <Page social="0">Hein ? Je sens que vous êtes quelqu'un de bien !&lt;BR&gt;Je cherche des pylones d'Aeonalis. Vous n'en auriez pas, par hasard ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="4" villagerId="10037">
+        <Page social="4" voiceTypeId="0">Oh, &lt;PCNAME&gt;.&lt;BR&gt;Vous êtes bien parti pour gagner la confiance de la fédération.&lt;BR&gt;Merci pour le pylône d'Aeonalis.&lt;BR&gt;&lt;BR&gt;Si le commandant Helkan vous a envoyé seul, c'est qu'il se doute bien que le moral de l'armée est en berne. &lt;BR&gt;&lt;BR&gt;Le Quartier général de Kaiator recrute actuellement des guerriers pour les envoyer combattre dans la guerre argonne. Essayez de paraître le plus calme possible.&lt;NEXTPAGEBUTTON&gt;"Nous pourrions envoyer une lettre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il serait trop risqué d'envoyer les pylônes d'Aeonalis par la poste !&lt;BR&gt;&lt;BR&gt;Les murs ont des oreilles.&lt;BR&gt;&lt;BR&gt;(Dougal baisse la voix.)&lt;BR&gt;&lt;BR&gt;Le Quartier général de la Fédération Valkyon est en danger sur le continent d'Arun.&lt;BR&gt;&lt;BR&gt;Pora Élinu s'est fait attaquer et des informations confidentielles viennent de nous signaler des espions à Arun.&lt;BR&gt;&lt;BR&gt;J'aimerais que vous rejoigniez la résidence du général, à Velika.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="6" villagerId="10036">
+        <Page social="4" voiceTypeId="0">Vous êtes prêt ?&lt;BR&gt;&lt;BR&gt;Avec mon invention exceptionnelle, je vais vous envoyer à Velika sans attirer l'attention.&lt;BR&gt;&lt;PCNAME&gt; n'a sans doute jamais rien vu de semblable !&lt;BR&gt;Préparez-vous à tomber des nues !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="503" prevId="7" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Merci de votre visite, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Seule une poignée de membres de la fédération est au courant de ce que vous allez entendre maintenant.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="503" prevId="8" villagerId="1012">
+        <Page social="0" voiceTypeId="0">Les avis divergeaient fortement au sein de la fédération concernant la fabrication d'un aéronef géant capable de franchir la muraille noire.&lt;BR&gt;&lt;BR&gt;Comme vous le savez, nous avons déjà bien du mal à tenir tête aux argons dans le nord de Shara. &lt;BR&gt;&lt;BR&gt;C'est pourquoi les agents de Crescentia, qui contrôlaient les devans vaincus, ont cherché des preuves pour les convaincre que l'empire devan réfugié dans le nord d'Arun était la cause de tout cela.&lt;BR&gt;&lt;BR&gt;Je ne veux en aucun cas que des tensions éclatent au sein de la fédération.&lt;NEXTPAGEBUTTON&gt;"Mais que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">L'état de l'agent Grapine, qui s'était infiltré parmi les devans, s'est aggravé et le plan a donc échoué.&lt;BR&gt;&lt;BR&gt;La seule information qui m'est parvenue est que les monstres portaient des insignes, mais nous n'avons pas réussi à mettre la main sur les insignes des archidevans.&lt;BR&gt;&lt;BR&gt;Les informations de l'agent Grapine ont convaincu l'opposition. Nous devons apprendre ce que sont ces informations.&lt;BR&gt;&lt;BR&gt;Utilisez ceci.&lt;BR&gt;&lt;BR&gt;L'agente Kamia vous expliquera ce qui est advenu à Grapine.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="503" prevId="9" villagerId="1008">
+        <Page social="4" voiceTypeId="0">Grapine et moi nous sommes déguisés en devans pour documenter les mouvements de leurs troupes.&lt;BR&gt;&lt;BR&gt;Après la chute des descendants de Lok, ils ont semblé se déliter d'eux-mêmes. &lt;BR&gt;&lt;BR&gt;Mais la situation a soudain changé quand d'autres devans ont fait leur apparition. Ils ressemblent à des devans ordinaires, mais sont bien plus puissants. &lt;BR&gt;&lt;BR&gt;Ils se faisaient appeler archidevans et ont ordonné aux devans de prêter allégeance à Lakan.  &lt;NEXTPAGEBUTTON&gt;"Lakan ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Oui. Lakan, le dieu de l'avidité et du pouvoir. &lt;BR&gt;La miséricorde de Lakan a fait renaître les archidevans et ils ont établi un empire surpuissant. &lt;BR&gt;&lt;BR&gt;Les rescapés devans ont décidé de se joindre à eux. Ils ont été triés sur le volet avant d'être emportés quelque part. &lt;BR&gt;&lt;BR&gt;Grapine s'est porté volontaire pour cette sélection... Et comme vous pouvez le voir...&lt;BR&gt;&lt;BR&gt;Le mieux à faire pour moi, dans cette situation, était de m'enfuir avec les blessés.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="0" voiceTypeId="0">... Je ne peux pas parler... Tout va bien... Je suis déjà...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ? Héhéhé ...&lt;BR&gt;&lt;BR&gt;... &lt;PCNAME&gt;, donc... &lt;PCRACE&gt;...&lt;BR&gt;&lt;BR&gt;Ils m'ont dit que j'ai l'étoffe d'un devan d'élite... Avez-vous vu les archidevans ?&lt;BR&gt;&lt;BR&gt;Ceux qui ont embrassé le plan de Lakan et ont obtenu sa bénédiction ? Tous ceux qui ne sont pas dignes sont transformés en matériaux pour demokrons. J'ai une mission exceptionnelle...&lt;NEXTPAGEBUTTON&gt;"Dites m'en plus sur les demokrons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Arrêtez de chuchoter !&lt;BR&gt;Je n'oublie pas ma mission...&lt;BR&gt;Je compte rester un Castanic honorable...&lt;BR&gt;&lt;BR&gt;(Il marmonne quelque chose, les yeux perdus dans le vide. Il semble impossible d'en tirer quoi que ce soit d'autre.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Arrêtez de chuchoter !&lt;BR&gt;Je n'oublie pas ma mission...&lt;BR&gt;Je compte rester un Castanic honorable...&lt;/NEXTPAGEBUTTON&gt;"Finira-t-il par retrouver ses esprits ?"&lt;NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">... &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Les archidevans... Ils m'ont montré la grande miséricorde de Lakan. Je vais vous faire une offre alléchante, pauvres êtres inférieurs.&lt;BR&gt;&lt;BR&gt;Vous pouvez embrasser le plan de Lakan ou finir en matériaux pour demokrons...&lt;BR&gt;&lt;BR&gt;Ils m'ont ensuite donné... Argh !</Page>
+    </Text>
+    <Text id="14" huntingZoneId="503" prevId="11" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Ils correspondent aux insignes des devans d'autrefois.&lt;BR&gt;&lt;BR&gt;Avec des preuves aussi solides, j'imagine que plus personne au sein de la fédération n'osera se plaindre de l'envoi de quelques éclaireurs dans le nord d'Arun.&lt;BR&gt;&lt;BR&gt;En unissant les forces de la fédération, nous serons à la hauteur de cette mission.  &lt;NEXTPAGEBUTTON&gt;"Officiellement ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pour le moment, nous faisons la guerre contre les argons. &lt;BR&gt;&lt;BR&gt;Si nous privons la guerre argonne de forces armées pour les déployer à Arun, nous serons confrontés à un vent de protestations venant de Shara. &lt;BR&gt;&lt;BR&gt;Même s'ils combattent aujourd'hui sous la bannière de la fédération, ils pourraient se retourner contre nous une fois la guerre terminée.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="503" villagerId="1012">
+        <Page social="0">Ainsi, ils envoient ces monstres par des failles.&lt;BR&gt;Ces archidevans sont décidément bien perfides.&lt;BR&gt;&lt;BR&gt;Je vous laisse vous en occuper.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="503" prevId="11" villagerId="1012">
+        <Page social="4" voiceTypeId="0">C'est... ça ressemble à un insigne de l'empire devan déchu. Qui aurait cru qu'ils pourraient ériger une muraille noire dans le nord d'Arun et fomenter un tel plan ? &lt;BR&gt;&lt;BR&gt;Maintenant que nous avons des preuves concrètes, nous allons enfin pouvoir convaincre ceux qui rechignaient à envoyer des éclaireurs dans le nord d'Arun.&lt;BR&gt;&lt;BR&gt;Cette mission est officiellement menée sous l'égide de la fédération. Avec l'approbation de tous !&lt;NEXTPAGEBUTTON&gt;"Officiellement ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pour le moment, nous faisons la guerre contre les argons. &lt;BR&gt;&lt;BR&gt;Si les évènements d'Arun impliquent une réduction des renforts dans la guerre argonne, nous serons confrontés à un vent de protestations venant de Shara. &lt;BR&gt;&lt;BR&gt;Même s'ils combattent aujourd'hui sous la bannière de la fédération, ils risquent de se retourner contre nous une fois la guerre terminée.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="503" villagerId="1012">
+        <Page social="0">Ainsi, ils envoient ces monstres par des failles.&lt;BR&gt;Ces archidevans sont décidément bien perfides.&lt;BR&gt;&lt;BR&gt;Je vous laisse vous en occuper.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="503" prevId="16" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Ha ha, tout se déroule à la perfection.&lt;BR&gt;J'ai une mission pour vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Faites savoir aux commandants des villes du continent de Shara qu'une avant-garde de Valkyon est en route pour le nord d'Arun.&lt;BR&gt;&lt;BR&gt;Prenez également part à l'expédition.</Page>
+    </Text>
+</QuestDialog>

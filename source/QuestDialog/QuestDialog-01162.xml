@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1103">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1103">
+        <Page social="4">Commençons par le commencement&amp;nbsp;: dégagez les couloirs. On ne peut pas mener de recherches si les argons essaient de nous argonifier toutes les dix minutes.&lt;BR&gt;&lt;BR&gt;Attaquez-vous d'abord aux émetteurs tholzak&amp;nbsp;; ils donnent des ordres comme "récolter" et "exterminer" aux golems argons qui patrouillent dans les couloirs.&lt;BR&gt;&lt;BR&gt;Mais gardez les émetteurs brisés. Les chercheurs de la Chambre grondebête pourront peut-être s'en servir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1025">
+        <Page social="5">Cela fait beaucoup d'émetteurs. Les couloirs doivent être bien dégagés maintenant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1025">
+        <Page social="0">Si vous pouvez nous apporter des émetteurs brisés, nous pourrons peut-être les démonter et comprendre comment les faire fonctionner… ou comment faire en sorte qu'ils ne fonctionnent pas, si vous voyez ce que je veux dire.</Page>
+    </Text>
+</QuestDialog>

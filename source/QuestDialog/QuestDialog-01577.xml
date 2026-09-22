@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">{@gender:Cher/Chère} &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;A l'heure qu'il est, une douzaine de commandants doivent être en train de s'arracher vos services, mais je dois faire face à un problème de taille.&lt;BR&gt;&lt;BR&gt;L'affaire implique un vieil ennemi, Thulsa, ainsi que le Noyau... autant dire que je prends tout ça extrêmement à cœur.&lt;BR&gt;&lt;BR&gt;Rejoignez-moi à Allemantheia aussitôt que vous le pourrez, et je vous expliquerai tout.&lt;BR&gt;&lt;BR&gt;- Fraya, commandant d'Allemantheia.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="4">Vous m'avez l'air en bonne forme, &lt;PCNAME&gt;. Peut-être un peu {@gender:échevelé/échevelée} par vos derniers combats, mais qui pourrait vous en vouloir, avec la vie que vous menez&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;La décontraction... un luxe qui m'est interdit. L'incarnation du Noyau doit apparaître sereine et maîtresse d'elle-même en toutes circonstances.&lt;BR&gt;&lt;BR&gt;C'est également pour cette raison que cette affaire doit rester secrète. En effet, si Thulsa est bel et bien mort, il n'a pas cessé pour autant de représenter une menace pour le Noyau. Mettez-vous à l'aise... je vais tout vous expliquer.</Page>
+    </Text>
+</QuestDialog>

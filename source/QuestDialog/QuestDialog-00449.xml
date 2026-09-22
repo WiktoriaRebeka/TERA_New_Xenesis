@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="5">Pfiou&amp;nbsp;! J'ai passé ma journée à préparer des plans d'évacuation. Je n'ai même plus le temps de faire mon boulot correctement.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, je n'ai pas réussi à donner suite à la requête de... Gumbi, euh... Gamilon&amp;nbsp;? Bref, la bleusaille qui travaille à la porte sud.&lt;BR&gt;&lt;BR&gt;Ca avait l'air assez urgent. Vous pourriez rendre service à un vieil homme&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="5">Merci d'avoir fait le déplacement. Le vieux Bisi est débordé&amp;nbsp;; j'ai de la chance qu'il se soit souvenu de moi&amp;nbsp;! Le Camp de la Vigilance, au sud d'ici, est occupé par des chercheurs venus enquêter sur le mal qui ronge la région, mais une bande de {@LinkCreature:15#3#dents-de-sabre noirs fulminants} les a isolés. Est-ce que vous pourriez dégager un chemin&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1009">
+        <Page social="5">Des crocs de dent-de-sabre&amp;nbsp;! Je préfère les voir là que dans leurs gueules, pas vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Dites, vous auriez le temps de nous aider à régler un autre problème&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1009">
+        <Page social="0">Je préfère avoir douze crocs de dents-de-sabre dans ma main, plutôt que dans la nuque, si vous voyezce que je veux dire. Vous vous en occupez, n'est-ce pas&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

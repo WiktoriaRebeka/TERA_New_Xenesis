@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1016">
+        <Page social="5">Les descendants de Lok sont loin d'être des crétins. Nous... les avons sous-estimés. Avec les orkans, les nagas et autres kumas qui nous harcèlent et nous ralentissent, ils ont eu le champ libre pour agir.&lt;BR&gt;&lt;BR&gt;Si vous pouviez aller tuer d'autres nagas, nous aurions une petite chance de rattraper notre retard. Rendez-vous sur le terrain et éliminez quelques {@LinkCreature:7#23#mercenaires mastodontes}. Ca devrait les perturber.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1016">
+        <Page social="5">Maintenant que ces nagas sont morts, les cultistes sont vulnérables. Si seulement j'avais plus de troupes pour exploiter immédiatement cet avantage.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, vous avez fait du bon boulot. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

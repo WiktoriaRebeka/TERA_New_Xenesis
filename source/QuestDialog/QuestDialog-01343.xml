@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1088">
+        <Page social="0">Thulsa a des vues sur la fournaise divine. Sans elle et le forgeron légendaire Muhrak, les fragments de relique antiques et l'essence du noyau ne servent à rien. Vous avez pris la route pour la fournaise divine dans l'espoir d'y secourir Muhrak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1088">
+        <Page social="4" voiceTypeId="0">Un messager d'Habere et passé par ici.&lt;BR&gt;&lt;BR&gt;Il vous a fait demander, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Entrez vite !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Je vous cherchais, &lt;PCNAME&gt;.&lt;BR&gt;Le messager a apporté une bonne et une mauvaise nouvelle. &lt;BR&gt;&lt;BR&gt;Le technicien d'Habere qui s'est évadé de la fournaise divine s'est enfin réveillé. &lt;BR&gt;&lt;BR&gt;Par ailleurs, un rapport nous a informés que les soldats de Thulsa ont conquis toute la Plaine des damnés.&lt;BR&gt;Nous avons besoin de vous.&lt;NEXTPAGEBUTTON&gt;"Qu'est-il advenu du forgeron ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous ne savons pas s'il est encore en vie. Mais comprenez bien une chose : &lt;BR&gt;nous devons à tout prix le sauver.&lt;BR&gt;Même si nous devons abandonner la fournaise divine.&lt;BR&gt;&lt;BR&gt;Vous êtes la personne idéale pour cette mission, &lt;PCNAME&gt;. &lt;BR&gt;Allez tout d'abord trouver le préfet d'Habere. Il pourra vous en dire plus.&lt;BR&gt;&lt;BR&gt;Tenez, voici un parchemin de téléportation. Faites vite, je vous prie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Par chance, le technicien humain d'Habere qui s'est évadé de la fournaise divine s'est enfin réveillé. &lt;BR&gt;&lt;BR&gt;Quelle honte ! Comment Thulsa peut-il oser profaner cette terre ? &lt;BR&gt;&lt;BR&gt;Nous devons à tout prix les exterminer !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="79" prevId="4" villagerId="1100">
+        <Page social="4" voiceTypeId="0">T... Thulsa a pris possession de la Chambre en fusion dans la fournaise divine. Il a ordonné à tous nos forgerons de travailler pour lui. Mais les forgerons et les ingénieurs Amans ont refusé. &lt;BR&gt;&lt;BR&gt;Il les a tous exécutés. Seul Muhrak lui a échappé...&lt;BR&gt;&lt;BR&gt;Ils nous ont forcés à ériger un bouclier tout autour de la Chambre en fusion. Quand nous avons fini, ils nous ont emmenés quelque part. &lt;BR&gt;&lt;BR&gt;Et j'ai profité d'un moment de relâche dans la surveillance pour m'enfuir. M... Mes camarades se trouvent encore à l'intérieur !&lt;BR&gt;Libérez-les, je vous en supplie !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="79" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Il y a d'autres techniciens ? &lt;BR&gt;Alors nous devons les libérer au plus vite ! &lt;BR&gt;&lt;BR&gt;Nous avons repéré ces camarades auprès de la porte ouest d'Habere. Ils devraient passer tout près d'ici d'un moment à l'autre.&lt;BR&gt;&lt;BR&gt;Dépêchez-vous ! Vous êtes désormais responsable de l'opération de sauvetage !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="52" villagerId="1">
+        <Page social="0">Je ne veux être un poids mort pour personne.&lt;BR&gt;&lt;BR&gt;Nous devons informer Habere au plus vite des évènements de la fournaise divine.&lt;BR&gt;&lt;BR&gt;Pour y entrer, vous allez devoir franchir nos boucliers...&lt;BR&gt;&lt;BR&gt;Mais d'abord, Habere... Je vous en supplie...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="6" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Pff...&lt;BR&gt;&lt;BR&gt;Tous les ingénieurs Amans qui ont refusé d'obéir à Thulsa ont péri. Vous le saviez ? &lt;BR&gt;Mais Muhrak, le forgeron légendaire, a réussi à s'enfuir. &lt;BR&gt;&lt;BR&gt;Il ne va tout de même pas...&lt;BR&gt;Oh non, il va tenter de détruire lui-même l'aiguille grellok.&lt;BR&gt;Nous devons courir à son aide.&lt;NEXTPAGEBUTTON&gt;"C'est parti pour une opération de sauvetage..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Merci bien. Je vous fais entièrement confiance.&lt;BR&gt;Pour atteindre la Chambre en fusion, vous devez d'abord percer le bouclier qui l'entoure.&lt;BR&gt;&lt;BR&gt;Tout à fait, celui que nous avons érigé &lt;BR&gt;Nous n'avons pas eu autant de courage que les Amans.&lt;BR&gt;&lt;BR&gt;Nous avions peur d'y passer. Thulsa nous a menacés...&lt;BR&gt;Argh...&lt;BR&gt;&lt;BR&gt;Apportez ces plans de construction à Gaicus.&lt;BR&gt;Il vous dira comment détruire les boucliers.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="79" prevId="8" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Qu'est-ce que vous avez là ?&lt;BR&gt;Comment ? Ces plans de construction ? À quoi peut bien servir un bouclier puissant si la pierre magique est située à l'extérieur ? Si vous la détruisez, le reste sera un jeu d'enfant !&lt;BR&gt;&lt;BR&gt;Qui a bien pu dessiner un plan aussi lamentable ? Si j'étais le commanditaire, je lui aurais fait la peau depuis longtemps !&lt;BR&gt;&lt;BR&gt;À moins que ce ne soit pas de la négligence ? Ils étaient forcés de fabriquer ces boucliers ? Ah, quel idiot je fais !&lt;BR&gt;&lt;BR&gt;Ils ont volontairement ajouté une faille permettant de les détruire de l'extérieur !&lt;NEXTPAGEBUTTON&gt;"Comment puis-je détruire les boucliers ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Il suffit de détruire la pierre magique et les boucliers se briseront. &lt;BR&gt;Elle ne sera pas facile à détruire, mais quelque chose me dit que vous avez une certaine expérience des boulots de démolition.&lt;BR&gt;&lt;BR&gt;La pierre magique de Thulsa est fixée à l'{@linkcreature:252#1501#Entrée de la Chambre en fusion} ! &lt;BR&gt;&lt;BR&gt;Détruisez vite les boucliers et libérez le forgeron Muhrak !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="464" prevId="9" villagerId="5013">
+        <Page social="4" voiceTypeId="0">Fuir ? Bah ! Notre objectif est de vaincre Thulsa ! &lt;BR&gt;&lt;BR&gt;Ce maudit Thulsa... Il avait l'intention d'aménager la fournaise divine pour fabriquer quelque chose à partir des fragments de relique antiques. Mais il peut toujours courir ! &lt;BR&gt;&lt;BR&gt;Nous pouvons facilement empêcher Thulsa d'utiliser la fournaise divine pour ses sombres desseins. Couvrez-moi pendant que je détruis les commandes. Bonne chance avec une fournaise incontrôlable, Thulsa ! Ha ha ha !</Page>
+    </Text>
+    <Text id="11" huntingZoneId="411" prevId="10" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Parfait. Voilà une bonne chose de faite ! &lt;BR&gt;Mes apprentis sont vengés ! &lt;BR&gt;Malheureusement, la fournaise divine est maintenant détruite et ne peut plus nous servir.&lt;BR&gt;&lt;BR&gt;Nous avons trois fragments de relique antiques et l'essence du noyau... Ah, si seulement la fournaise fonctionnait... Essayons quand même. &lt;BR&gt;Je vous fais signe quand j'ai besoin de matériaux.&lt;BR&gt;&lt;BR&gt;Utilisez le {@linkcreature:79#1501#téléportail} pour rejoindre mon atelier.</Page>
+    </Text>
+</QuestDialog>

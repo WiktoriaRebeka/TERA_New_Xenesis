@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez bénéficié d'une seconde chance de profiter des festivités en compagnie des personnes que vous n'avez pas pu sauver par le passé. Et voici venir l'homme providentiel...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">C'est un honneur de vous souhaiter la bienvenue ici. Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;Vous êtes ici pour participer à la fête de Velika, je présume ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1134">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt;.&lt;BR&gt;J'ai entendu parler du grand courage dont vous avez fait preuve en détruisant l'éclat de sang de Lakan et le terrifiant RK-9 dans le hangar aux robots de Randun. C'est grâce à vous que nous pouvons organiser cette fête en paix. &lt;BR&gt;&lt;BR&gt;Le temps est absolument splendide aujourd'hui, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Ah, la fête va bientôt commencer.&lt;BR&gt;Merci de vous rendre dans la Salle de banquet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="509" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, c'est vous n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Moi aussi, j'ai reçu une invitation en remerciement pour ma contribution pendant l'invasion des dragons.&lt;BR&gt;&lt;BR&gt;Allez, allez ! Tout le monde vous attend, alors rendez-vous immédiatement dans la Salle de banquet !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="509" prevId="4" villagerId="7500">
+        <Page social="0" voiceTypeId="0">Vous seul vous souvenez de la mort de Velik.&lt;BR&gt;Grâce à vous, la paix est revenue à Velika et dans tout Arborea.&lt;BR&gt;&lt;BR&gt;J'étais autrefois connue comme la déesse de la destinée, mais cette fois-ci, je me suis trop investie dans le destin des mortels... Je vous prédis une longue vie.&lt;BR&gt;&lt;BR&gt;Je vous prie d'oublier un instant le funeste futur dont vous avez été témoin et de vous détendre.&lt;BR&gt;&lt;BR&gt;C'est la deuxième fois que vous participez à la fête.&lt;BR&gt;Entrez vite. Ils sont nombreux à vous attendre.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="509" prevId="5" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Je vérifie la liste des invités.&lt;BR&gt;Pourrais-je voir votre invitation ?&lt;BR&gt;&lt;BR&gt;Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;Le commandant Seir vous attend, gardien.&lt;BR&gt;&lt;BR&gt;Je vous prie de passer par le Quartier général avant de profiter de la fête.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="509" prevId="6" villagerId="3001">
+        <Page social="0" voiceTypeId="0">Salutations.&lt;BR&gt;Vous aussi, vous êtes ici pour la fête, n'est-ce pas ?&lt;BR&gt;Haha. J'étudie les monstres. Je suis venu à la fête pour présenter les résultats de mes recherches à Seir.&lt;NEXTPAGEBUTTON&gt;"Vous venez d'Élénea ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Comment le savez-vous ? Je mène désormais mes recherches à un autre endroit.&lt;BR&gt;J'ai un frère jumeau plus âgé qui vit encore à Élénea.&lt;BR&gt;Ses recherches sont tellement étranges que je ne sais moi-même pas exactement ce qu'il étudie.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="509" prevId="7" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Si tout s'est bien passé, c'est à vous que nous le devons. &lt;BR&gt;Le fait qu'un tel nombre de dragons ait pu apparaître d'un seul coup suscite encore bien des interrogations, mais pour le moment, la situation s'est apaisée.&lt;BR&gt;J'ai reçu l'ordre de rédiger un rapport sur cet incident. &lt;BR&gt;&lt;BR&gt;Profitez bien de la fête, &lt;PCNAME&gt;.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="509" prevId="8" villagerId="2100">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt; !&lt;BR&gt;Profitez bien de la fête.&lt;BR&gt;&lt;BR&gt;Vous y découvrirez de nombreuses activités : danse, nourriture, caisses de fortune, théâtre et bien plus encore.&lt;BR&gt;&lt;BR&gt;La pièce de théâtre commence bientôt.&lt;BR&gt;Voulez-vous la regarder ?&lt;NEXTPAGEBUTTON&gt;"Je compte assister à la pièce de théâtre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous voyez le théâtre derrière moi ?&lt;BR&gt;Il y a assez de place devant la scène.&lt;BR&gt;&lt;BR&gt;Au fait, Seir tiendra ensuite un discours.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="509" prevId="9" villagerId="5026">
+        <Page social="0" voiceTypeId="0">La pièce de théâtre était vraiment intéressante.&lt;BR&gt;Et dire qu'il y a quelqu'un qui a inventé les personnages, les scènes et les décors de toutes pièces ! &lt;BR&gt;La mise en scène fait s'estomper la frontière entre fiction et réalité.&lt;BR&gt;&lt;BR&gt;Cela donne l'impression d'avoir vécu ces expériences soi-même...&lt;BR&gt;&lt;BR&gt;J'ai une soudaine envie d'écrire ma propre pièce de théatre.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Quel genre de pièce de théâtre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">On dirait que j'ai piqué votre curiosité ?&lt;BR&gt;Ne le dites à personne, je vous prie.&lt;BR&gt;Vous seul êtes au courant.&lt;BR&gt;&lt;BR&gt;Il s'agira d'une histoire dans laquelle un héros sauve le monde. &lt;BR&gt;Vous voyez le genre, une histoire de héros classique. &lt;BR&gt;Mais le clou, c'est que personne ne sait que le héros a sauvé le monde. &lt;BR&gt;&lt;BR&gt;Le héros est le seul à le savoir. &lt;BR&gt;Qu'en dites-vous ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="509" prevId="10" villagerId="2019">
+        <Page social="0" voiceTypeId="0">Salutations.&lt;BR&gt;La nourriture est-elle à votre goût ? &lt;BR&gt;La nourriture proposée à cette fête est succulente.&lt;NEXTPAGEBUTTON&gt;"Qu'avez-vous mangé ? "&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai mangé des ailes lugubres.&lt;BR&gt;Le mariage entre les blancs de struthios et la sauce spéciale était tout simplement divin. Je ne comprends tout simplement pas comment ils font pour transformer les blancs de struthios plutôt fades en une telle explosion d'arômes.&lt;BR&gt;&lt;BR&gt;La seule chose qui me gêne dans ce plat, c'est son nom, "ailes lugubres". &lt;BR&gt;&lt;BR&gt;Lugubre est vraiment le dernier mot qui me viendrait à l'esprit pour décrire ce plat.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="509" prevId="11" villagerId="2026">
+        <Page social="0" voiceTypeId="0">Un grand merci pour vos louanges.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="12" villagerId="1102">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt; !&lt;BR&gt;Vous n'avez pas encore obtenu votre souvenir.&lt;BR&gt;J'ai présumé que vous l'aviez oublié et je l'ai donc empoché pour vous.&lt;BR&gt;&lt;BR&gt;Tenez, prenez-le.</Page>
+    </Text>
+</QuestDialog>

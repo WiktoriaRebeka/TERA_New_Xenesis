@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Il est temps de mettre un terme aux ambitions des gulas. Allez abattre leur chef, {@LinkCreature:8#8011#Glauka}, histoire de montrer aux gulas qui fait la loi, dans la région.&lt;BR&gt;&lt;BR&gt;Attention, Glauka est un dur à cuire. D'ailleurs, s'il ne l'était pas, il ne se serait jamais hissé jusqu'à la position qu'il occupe. Evitez de nous revenir dans un cercueil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Ca a l'air… lourd. La prochaine fois, je vous demanderai de rapporter un trophée moins encombrant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Glauka se trouve dans la Caverne du massacre. Il est intimidant, mais pour tout dire, pas autant que vous.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="216" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="216" endSocial="14" prevId="0" villagerId="1014">
+        <Page social="4">J'ai suivi votre parcours. Très impressionnant. Vous avez du talent, une tête bien remplie, et plutôt belle allure.&lt;BR&gt;&lt;BR&gt;&lt;PCCLASS:lcase&gt;, qu'est-ce que vous venez faire dans les parages&amp;nbsp;?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" endSocial="14" prevId="0" villagerId="1014">
+        <Page social="4">Vous n'arriverez jamais à franchir les portes de devant. Le Manoir sinistre est une vraie forteresse. Mais bon, il paraît aussi que rien n'est impossible..."&lt;BR&gt;&lt;BR&gt;Vous voulez entrer&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;(Groupes de trois joueurs ou plus requis)&lt;TEXTBUTTON&gt;Manoir sinistre&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Entrer dans le Manoir&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

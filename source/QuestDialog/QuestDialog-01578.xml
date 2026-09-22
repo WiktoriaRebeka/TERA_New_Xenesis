@@ -1,0 +1,56 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="4">Si je dis "Malachai", ça vous évoque quelque chose&amp;nbsp;? Le nom d'emprunt de Thulsa quand il se cachait à Allemantheia&amp;nbsp;? Bien.&lt;BR&gt;&lt;BR&gt;Nous nous sommes longtemps demandés pour quelle raison Thulsa était venu se cacher parmi nous et nous avons peut-être enfin trouvé la réponse.&lt;BR&gt;&lt;BR&gt;Thulsa n'avait qu'une idée en tête... récupérer la puissance dont il avait été privé au terme de la Guerre divine. Avec l'aide du Mysterium, il avait entrepris de trouver un moyen de siphonner la puissance du Noyau ou de corrompre ce dernier.&lt;BR&gt;&lt;BR&gt;A l'époque, c'était Serion qui tenait lieu d'enveloppe charnelle au Noyau. Mais aujourd'hui, c'est moi qui joue ce rôle et je ne tiens pas à ce que les recherches de Thulsa finissent entre de mauvaises mains.&lt;NEXTPAGEBUTTON&gt;"Quel est mon rôle, dans cette affaire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous avons surmonté ensemble bon nombre d'épreuves, et vous avez gagné ma confiance, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, je suis l'incarnation du Noyau et je ne tiens pas à ce que les recherches de Thulsa suscitent la convoitise de personnes mal intentionnées, dieux ou mortels.&lt;BR&gt;&lt;BR&gt;Je vais être franche... j'ai peur que quelqu'un exploite les recherches de Thulsa dans l'idée de prendre le contrôle de ma personne ou de me corrompre.&lt;NEXTPAGEBUTTON&gt;"Vous croyez cela possible&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous autres, les Elfes, sommes souvent d'un naturel ambitieux. Inutile de développer...&lt;BR&gt;&lt;BR&gt;Pour en apprendre plus sur les travaux de Malachai... enfin, de Thulsa... rendez-vous au Sanctum Mysterium et cherchez un Baraka du nom de Jerad. Il connaît bien la langue des dieux anciens ainsi que celle des dragons... nous pouvons donc recourir à son aide pour traduire les documents scientifiques que vous pourrez trouver.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1448">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;C'est vous, "l'aide extérieure" dont parlait le commandant Fraya&amp;nbsp;?&lt;BR&gt;Je ne m'attendais pas à voir débarquer un soldat, mais peu importe. Vous et moi n'avons pas notre place dans les jeux de pouvoir dont Allemantheia fait les frais, et c'est certainement ce qui nous vaut la confiance de Fraya.&lt;BR&gt;&lt;BR&gt;Pour l'instant, voici ce que je suis parvenu à apprendre...&lt;NEXTPAGEBUTTON&gt;"Je vous écoute."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Malachai, pardon... Thulsa... cherchait entre autres choses à diviser la puissance du Noyau.&lt;BR&gt;&lt;BR&gt;Fraya ne parle pour ainsi dire jamais des dissensions politiques de son peuple, mais c'est bien l'objet de ses craintes, dans le cas présent. Elle voit les querelles qui surviendront quand les Elfes envisageront la manière de se répartir la puissance du Noyau. Des querelles qui pourraient bien voir la fin de la cité&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Malachai a fait savoir au Mysterium que ses recherches s'étaient soldées par un échec, mais nous savons aujourd'hui qu'il n'en était probablement rien.&lt;BR&gt;&lt;BR&gt;A présent, au sein du peuple des Elfes, certaines factions manigancent pour gagner l'accès au Laboratoire de Malachai... nous devons donc agir promptement.&lt;NEXTPAGEBUTTON&gt;"Le Laboratoire de Malachai&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Depuis que le masque de Malachai est tombé pour révéler le visage de Thulsa, son labo a été interdit au public. Même le Mysterium s'est vu refuser le droit d'y pénétrer.&lt;BR&gt;&lt;BR&gt;En revanche, quand le Noyau demande quelque chose, on lui répond rarement "non". Fraya s'est débrouillée pour nous obtenir un passe-droit. Armis, mon assistant, peut vous faire accéder au Laboratoire de Malachai.&lt;BR&gt;&lt;BR&gt;Sur place, vous aurez peu de temps devant vous... nous ne tenons pas à ce que votre présence attire l'attention. Vous devrez donc mener vos recherches à bien aussi vite que possible.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="4">Ne traînez pas&amp;nbsp;! Mettez-vous en quête des recherches de Thulsa aussi vite que possible.&lt;BR&gt;&lt;BR&gt;Revenez me voir quand vous serez {@gender:prêt/prête}, et je vous ferai accéder au labo.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Une seule personne peut accéder au Laboratoire de Malachai.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="13" huntingZoneId="428" prevId="3" villagerId="1007">
+        <Page social="4">Ce journal d'expérience contient les résultats des recherches de Thulsa concernant la division de l'énergie du Noyau.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="13" villagerId="1448">
+        <Page social="4">C'est le journal d'expérience de Thulsa&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Voyons un peu ça...&lt;BR&gt;&lt;BR&gt;La Galerie de Sirjuka... bon sang, mais c'est bien sûr&amp;nbsp;! La résonnance... tout s'explique.&lt;NEXTPAGEBUTTON&gt;"Quel est cet endroit&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La Galerie de Sirjuka est... un musée dédié à la magie ancestrale des Elfes. L'endroit lui-même est si ancien que la plupart des Elfes ont oublié son existence. Certains objets présentés en ces lieux sont porteurs d'une magie immémoriale. Ils ont été conçus avant même que les Elfes n'entrent en possession du Noyau.&lt;BR&gt;&lt;BR&gt;Si Thulsa avait dans l'idée de diviser le Noyau ou de le corrompre, il est logique qu'il ait tenté d'expérimenter un principe de résonnance entre la magie du Noyau et une forme de magie plus ancienne encore.&lt;BR&gt;&lt;BR&gt;Nous devons avertir Fraya de notre découverte. Pas besoin d'être un génie pour deviner où elle vous demandera de vous rendre... la Galerie de Sirjuka.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" villagerId="1448">
+        <Page social="0">Nous devons récupérer le journal d'expérience de Thulsa.&lt;BR&gt;&lt;BR&gt;Et il doit se trouver quelque part dans le Laboratoire de Malachai.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="518" prevId="14" villagerId="1001">
+        <Page social="4">La Galerie de Sirjuka&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je le savais&amp;nbsp;! Les recherches de Thulsa avaient donc abouti à quelque chose.&lt;BR&gt;&lt;BR&gt;Trouvez le téléportail menant à la Galerie de Sirjuka, &lt;PCNAME&gt;. D'autres personnes ne tarderont pas à aboutir aux mêmes déductions que vous.</Page>
+    </Text>
+</QuestDialog>

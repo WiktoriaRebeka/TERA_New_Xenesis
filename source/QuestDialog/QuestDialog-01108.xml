@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Les rapports du deuxième étage parlent de grands êtres à plumes noires qui travaillent avec les nagas. Il n'y a que moi qui pense aux mekonaris&amp;nbsp;? Comme si on avait besoin de ça...&lt;BR&gt;&lt;BR&gt;Tuez un {@LinkCreature:42#1010#zélote mekonari} et rapportez-moi un souvenir, d’accord&amp;nbsp;? Nous devons être absolument certains de ce que nous affrontons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">Les mekonaris, comme je le craignais. Mais que font-ils là&amp;nbsp;? Si seulement j'en savais plus sur eux. J'aurais dû être plus attentif à l'académie. Retournez chasser les {@LinkCreature:42#1010#mekonaris} jusqu’à ce que vous découvriez ce qui se trame. Ne vous inquiétez pas, ça en vaudra la peine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">Que manigancent les mekonaris&amp;nbsp;? Vous l’avez découvert&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

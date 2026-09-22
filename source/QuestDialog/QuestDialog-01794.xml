@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Les évènements du Fort des Corsaires dégénèrent sérieusement. Toute la zone s'en trouve déstabilisée.&lt;BR&gt;&lt;BR&gt;Aidez-nous à y remettre de l'ordre et nous vous offrirons une émeraude d'une valeur inestimable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">Ainsi, c'est vous qui avez aidé à remettre les choses en ordre dans le Fort des Corsaires&amp;nbsp;? Du bon travail&amp;nbsp;! Vous avez bien mérité cette récompense.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="4">Les monstres qui menacent cet avant-poste de la Vallée maudite ont bien des noms. Sersine, fille de Karas, les connaît tous, mais &lt;b&gt;Gregor&lt;/b&gt; a donné des petits noms à ceux que nous rencontrons le plus souvent.&lt;BR&gt;&lt;BR&gt;Parmi les plus redoutables, on trouve ces poids lourds qu'il appelle "Destructeurs". Leur chef Kugai patrouille dans toute la vallée, mais Gregor a remarqué une activité anormale des destructeurs au nord d'ici.&lt;BR&gt;&lt;BR&gt;Allez lui parler et déterminez l'ampleur de la menace pour notre mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Ces horreurs à deux têtes sont une véritable menace. Je suis surpris que vous soyez indemne. Perrin a raison de s'inquiéter&amp;nbsp;: les {@LinkCreature:13#9#destructeurs} ont joué un grand rôle dans l'attaque qui s'est produite lors de la première expédition.&lt;BR&gt;&lt;BR&gt;Il y en a un tel nombre... ce n'est qu'une question de temps avant qu'ils ne repassent à l'attaque. Vous voulez nous rendre un grand service et faire vraiment partie des nôtres&amp;nbsp;? Allez en tuer un paquet.&lt;BR&gt;&lt;BR&gt;Faites-leur passer le message&amp;nbsp;: nous comptons bien rester ici. Cet endroit nous a trop coûté pour que nous le quittions.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1028">
+        <Page social="4">Je suis fier de servir à vos côtés, camarade. La moitié de la population de la Base de la Tour n'en est jamais sortie. Ils n'ont rien fait, comparés à nous.&lt;BR&gt;&lt;BR&gt;Nous continuons à occuper cet avant-poste pour montrer notre mépris des forces démoniaques présentes dans la Vallée maudite&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez faire part de vos exploits à Perrin, il vous dira la même chose.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1143">
+        <Page social="4">&lt;PCNAME&gt;, vous faites la fierté de la Fédération Valkyon. Personne ne peut dire que vous n'avez pas mérité votre place parmi nous, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Quelqu'un a remarqué que ces nexus apparaissent uniquement sur le territoire argon, il y a peut-être une relation de cause à effet. Nous avons également repéré un étrange appareil entre les mains de certains argons.&lt;BR&gt;&lt;BR&gt;Votre mission est de quadriller {@Rgn:49001}, {@Rgn:50001} et le {@Rgn:48001}, de tuer les argons, et de récupérer ces appareils pour que nous les étudions.&lt;BR&gt;&lt;BR&gt;Revenez {@gender:sain et sauf/saine et sauve}. Nous avons besoin de toute l'aide possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">Excellent travail. Nous entamons les recherches dès maintenant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">Il nous faut ces appareils. Ils se révèleront peut-être cruciaux pour mettre un terme à ces nexus.</Page>
+    </Text>
+</QuestDialog>

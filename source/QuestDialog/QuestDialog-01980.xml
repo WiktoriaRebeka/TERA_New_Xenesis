@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt;, vous vous êtes vraiment surpassé ces derniers temps.&lt;BR&gt;Je tiens à vous faire un petit cadeau et j'aimerais vous rencontrer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Marmundam, le capitaine la garde principale de Val d'Oriyn voulait vous aider à affronter les dangers à venir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2024">
+        <Page social="0" voiceTypeId="0">C'est un honneur de faire votre connaissance, &lt;pcname&gt;. Je vous ai contacté car j'aimerais vous faire un cadeau.&lt;BR&gt;&lt;BR&gt;Tenez, voici un hongre bai et un glyphe aussi rare qu'inhabituel.&lt;BR&gt;J'espère qu'ils vous seront tous deux utiles.&lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

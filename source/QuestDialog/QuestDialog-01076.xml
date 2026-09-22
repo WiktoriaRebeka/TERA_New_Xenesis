@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Les orkans de Karba ont bien du courage de s'opposer à un tel nombre de bellicistes au sein de leur peuple. Ils feraient de bons soldats au service de la Fédération, si le commandement était d'accord.&lt;BR&gt;&lt;BR&gt;Ils boivent du sang de cullar pour devenir plus forts, mais la tribu de la Griffe noire a coupé leur accès aux cullars qui vivent dans les grottes du sud. Si jamais vous vous trouvez près de ces &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=grottes"&gt;grottes&lt;/A&gt;&lt;/font&gt;, rapportez un peu de sang de cullar à {@LinkCreature:241#1019$$Hoorik}. J'aimerais prouver à ces orkans que nous les apprécions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="4">Du sang de cullar&amp;nbsp;? Comment l'avez-vous obtenu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous avez dû risquer votre peau&amp;nbsp;! Je ne sais comment vous remercier…</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">Le goût du sang de cullar me manque.&lt;BR&gt;&lt;BR&gt;Je comprends, ce n'est pas votre genre, mais pour mon peuple, c'est une boisson sacrée.</Page>
+    </Text>
+</QuestDialog>

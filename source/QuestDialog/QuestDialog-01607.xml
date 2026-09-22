@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Après avoir apaisé les esprits de ceux qui ont péri dans la guerre contre les orkans, vous vous êtes mis{@g:/e} en route pour Kaiator à la recherche de batailles plus prestigieuses.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Les orkans sont désormais privés de leur commandant. Ce n'est donc plus qu'une horde éparse. Il ne faut pas que leurs combattants rescapés deviennent des ennemis de Pora Élinu. &lt;BR&gt;&lt;BR&gt;J'ai une demande urgente à vous adresser, vous qui avez sauvé Pora Élinu. Il s'agit de consoler les âmes de ceux à qui cette tragédie a coûté la vie. Votre compassion leur mettra du baume au cœur, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Retournez donc à Pora Élinu pour y retrouver Sujai et célébrer le rite funèbre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1024">
+        <Page social="4" voiceTypeId="0">L'heure de la guérison est arrivée. Placez cette fleur dans l'encensoir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1025">
+        <Page social="5" voiceTypeId="0">(Une fois que vous avez placé la fleur dans l'encensoir, une odeur pure et délicate se répand.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Vous vous débrouillez vraiment bien, &lt;PCNAME&gt; ! Merci beaucoup.&lt;BR&gt;&lt;BR&gt;Il va falloir de la patience avant que tout ne retrouve son lustre d'antan, mais au moins le contact est rétabli entre Pora Élinu et Rida. &lt;BR&gt;&lt;BR&gt;Rida s'est rendue à Kaiator pour demander du soutien et a chargé Arin de reconstruire Pora Élinu. Elle a affirmé qu'elle vous attendrait là-bas, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je vais rassembler toute mon énergie pour vous envoyer à Kaiator. Saluez Rida pour moi.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="5" villagerId="10031">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ! &lt;BR&gt;Je ne vous aurais jamais cru capable de sauver Pora Élinu. Mais je suis désormais ravie de vous avoir fait confiance.&lt;br&gt;&lt;br&gt;Vous avez toute ma gratitude de princesse des Élins.</Page>
+    </Text>
+</QuestDialog>

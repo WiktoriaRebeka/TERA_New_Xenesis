@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="5">Nous avons un mal fou à repousser l'ennemi, mais nous ne pouvons pas nous permettre de battre en retraite. L'ennemi est en train de rassembler ses troupes, et si nous leur tournons le dos pour nous enfuir, ce sera un véritable massacre.&lt;BR&gt;&lt;BR&gt;Whimnia est convaincue que des {@LinkCreature:6#3031#ravageurs} et des {@LinkCreature:6#3032#mystiques} de Lok frayent dans les parages de la base.&lt;BR&gt;&lt;BR&gt;Vous allez devoir vérifier ses dires sur le terrain, et si ce qu'elle affirme est exact... eh bien, je pense que vous voyez où je veux en venir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">Génial, merci beaucoup. Nous allons avoir le temps de nous regrouper pour tenir bon.</Page>
+    </Text>
+</QuestDialog>

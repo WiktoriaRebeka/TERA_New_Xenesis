@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">Malgré tous les efforts des argons pour éradiquer la flore autochtone de Val Kaeli, certaines espèces survivent et s'adaptent. Nous devons comprendre ces adaptations florales si nous voulons garder l'espoir de purger la corruption argone qui souille notre monde.&lt;BR&gt;&lt;BR&gt;Plusieurs éclaireurs ont parlé d'une plante isolée, la campanule des pluies, près de l'extracteur noyul. Frayez-vous un chemin dans les rangs des kalashs pour trouver ce spécimen important, et rapportez-le nous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1015">
+        <Page social="6">(Cette fleur a l'air tout ce qu'il y a de plus ordinaire, pour une plante ayant poussé à proximité de machines argones aussi imposantes.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1014">
+        <Page social="6">Cette fleur renferme une force... Un genre d'énergie pure.&lt;BR&gt;&lt;BR&gt;Des propriétés remarquables... Nous allons immédiatement les étudier. Merci.</Page>
+    </Text>
+</QuestDialog>

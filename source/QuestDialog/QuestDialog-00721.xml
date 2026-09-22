@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">Les {@LinkCreature:25#3021#primitifs de Lok} attisent la folie des cultistes du crû. Nous devons nous débarrasser d'eux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Hé, vous vous en sortez mieux que je ne le pensais. Voyez-vous, les emblèmes de ces fanatiques sont chargés de mana. En l'analysant, nous découvrirons peut-être comment ils se sont retrouvés sous contrôle mental. C'est du bon travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">Sans un nombre suffisant d'emblèmes, je ne peux rien faire.</Page>
+    </Text>
+</QuestDialog>

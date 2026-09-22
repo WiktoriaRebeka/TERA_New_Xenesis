@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Vous avez été envoyé{@g:/e} dans les Bois de l'Oubli pour aider à inspecter le Bastion de Lok. Mais vous êtes arrivé{@g:/e} en retard et Hendry avait déjà déployé les troupes. Vous vous êtes empressé{@g:/e} de les rejoindre, mais n'avez trouvé que les cadavres des éclaireurs... et un seul survivant.&lt;BR&gt;&lt;BR&gt;La mission s'est soldée par un échec, mais l'éclaireur vous a transmis ses notes avant de jurer de ne jamais reprendre son service. Hendry s'est montré reconnaissant de recevoir les notes et a décidé de laisser le déserteur en paix.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Que les devans aient pactisé avec les descendants de Lok, voilà qui est dur à avaler... &lt;BR&gt;Et il est tout aussi choquant d'apprendre que leur base de ravitaillement se dressait en plein Bois de l'oubli.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, c'est grâce à vous que nous avons pu apprendre tout cela.&lt;BR&gt;Et maintenant, il ne nous reste plus qu'à éliminer les descendants de Lok.&lt;NEXTPAGEBUTTON&gt;Acquiescer.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">J'ai envoyé une escouade d'éclaireurs chevronnés dans la Vallée de la Bête.&lt;BR&gt;&lt;BR&gt;Allez y retrouver Isla et aidez-la dans son opération contre le Basion de Lok.&lt;NEXTPAGEBUTTON&gt;"J'y vais de ce pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, je vous attendais.&lt;BR&gt;Nous avons un problème. Nous avons perdu le contact avec les éclaireurs qui ont été envoyés dans la Vallée de la Bête.&lt;BR&gt;&lt;BR&gt;Ceci semble confirmer que le Bastion secret de Lok se trouve quelque part dans cette vallée. S'il vous plaît, allez retrouver les éclaireurs disparus.&lt;NEXTPAGEBUTTON&gt;"Je me mets en route sur le champ."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1026">
+        <Page social="0" voiceTypeId="0">(Un membre de l'équipe de reconnaissance disparue.&lt;BR&gt;&lt;BR&gt;Son corps est criblé de blessures.&lt;BR&gt;Il semble avoir combattu jusqu'à la mort.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1027">
+        <Page social="0" voiceTypeId="0">(Un membre de l'équipe de reconnaissance disparue.&lt;BR&gt;&lt;BR&gt;Tout autour du cadavre, vous voyez des indices d'un combat acharné.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="3" villagerId="1034">
+        <Page social="0" voiceTypeId="0">(Un membre de l'équipe de reconnaissance disparue.&lt;BR&gt;&lt;BR&gt;Une plaie béante traverse son échine de part en part. Quelle brutalité...)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="4" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Vous êtes des nôtres ? A... Aidez-moi ! &lt;BR&gt;Mes camarades... Tous mes camarades !&lt;NEXTPAGEBUTTON&gt;"Du calme. Que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tenez, prenez ça ! Ce sont mes notes sur le Bastion. Nous avons réussi à y entrer, mais ils nous ont repérés. Apportez les notes à Isla.&lt;BR&gt;&lt;BR&gt;Je vais essayer de vous rejoindre, mais ceci... doit parvenir à Isla au plus vite !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1006">
+        <Page social="0" voiceTypeId="0">Quoi ? Morts ?&lt;BR&gt;&lt;BR&gt;Bon sang ! J'étais persuadé qu'ils ne se feraient pas repérer !&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, leur sacrifice nous a permis d'en savoir plus sur le Bastion.&lt;BR&gt;&lt;BR&gt;Et pour ce qui est d'Ausdan... tout le monde a un seuil de tolérance. Il a tout donné durant cette mission. Quand nous aurons fini, je ferai un rapport indiquant qu'il est tombé au combat. Merci de votre aide !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" villagerId="1006">
+        <Page social="0">Quel est le problème ?</Page>
+    </Text>
+</QuestDialog>

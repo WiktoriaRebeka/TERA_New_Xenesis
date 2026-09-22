@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="4">Puisque vous êtes là... les {@Creature:45#3004#rôdeurs athakelas} et les {@Creature:45#3003#éventreurs kelbas} se rapprochent un peu trop à mon goût.&lt;BR&gt;&lt;BR&gt;Je me sentirais mieux si vous pouviez freiner un peu leur ardeur... et si vous partez vers le sud, passez donc voir Pokara au {@Rgn:45009$$Camp de la Folie}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">C'est Setahl qui vous envoie&amp;nbsp;? Voilà ce que j'appelle un vrai ami. Et un bon scientifique, en plus. Merci</Page>
+    </Text>
+</QuestDialog>

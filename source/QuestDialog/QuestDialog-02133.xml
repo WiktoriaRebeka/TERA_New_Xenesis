@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Vous avez vu les paresseux&amp;nbsp;? Vous les aimez bien&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Non&amp;nbsp;? Vous voulez... vous occuper d'eux&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:71#3014#Arura}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Hé, voilà notre {@gender:valeureux/valeureuse} {@gender:héros/héroïne}&amp;nbsp;! Alors, vous avez eu votre lot de morsures de paresseux&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Et si vous rétablissiez l'équilibre&amp;nbsp;? Vous connaissez les fruits qu'ils affectionnent tant&amp;nbsp;? Rapportez m'en le plus possible.&lt;BR&gt;&lt;BR&gt;C'est facile&amp;nbsp;! Vous n'aurez qu'à secouer quelques {@WorkObject:75}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Du bon boulot. Passons à la tâche la plus amusante, qui consiste à... les empoisonner&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ne vous inquiétez pas, il n'y a que les paresseux qui en mangent dans le coin&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et moi, parfois.</Page>
+    </Text>
+</QuestDialog>

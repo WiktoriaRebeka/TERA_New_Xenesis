@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">Vous avez aidé les tuwangis et avez rejoint la fête de l'étang.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">La fête de l'étang est une cérémonie pour les tuwangis qui fêtent leurs sept ans. Les rituels tuwangis sont étonnamment complexes pour une espèce aussi primitive&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Parlez au chamane Haroso. Il vous permettra peut-être d'observer les jeunes tuwangis, voire même participer à la cérémonie. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Jeune tuwangi a peur. Se cache. Doit trouver. Doit rendre courageux&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;Comment puis-je vous aider&amp;nbsp;?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Haroso bat tambour. &lt;BR&gt;Boum, boum tambour&amp;nbsp;! Tape le tambour pour rendre tuwangi courageux.&lt;BR&gt;&lt;BR&gt;Trouve tuwangi&amp;nbsp;! Boum tambour. Donne courage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2006">
+        <Page social="4">Du... cou... rage.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="4">Merci&amp;nbsp;! Vous travailler dur. Nous festin&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grand festin pour votre travail&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;Je n'ai pas fait grand-chose.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous apporter festin&amp;nbsp;! Apporter viande de dragon&amp;nbsp;! Tous les tuwangis festin&amp;nbsp;! Viande de dragon meilleure viande&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="5" villagerId="2001">
+        <Page social="4">Viande de dragon&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Viande de dragon&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

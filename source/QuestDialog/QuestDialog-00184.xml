@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="5">Satanés {@LinkCreature:6#1061#bandits} et {@LinkCreature:6#1062#pilleurs} fouaille-tripes&amp;nbsp;! Nous n'avons pas tué suffisamment de ces créatures.&lt;BR&gt;&lt;BR&gt;Maintenant, c'est avec ces deux groupes que nous avons maille à partir. On peut encore discuter des tenants et des aboutissants pendant quelques heures... sinon, vous pouvez aussi directement aller faire un tour sur place et nous débarrasser d'eux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">Fantastique&amp;nbsp;! Merci... Je me demande qui seront les prochains à venir nous chercher des crosses.&lt;BR&gt;&lt;BR&gt;On pourrait peut-être faire quelque chose avec ces coiffes. Un truc qui serve d'avertissement aux autres.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1003">
+        <Page social="0">Je vois que vous tentez de régler le problème à l'aide de votre force d'inertie. Et... ça marche bien&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

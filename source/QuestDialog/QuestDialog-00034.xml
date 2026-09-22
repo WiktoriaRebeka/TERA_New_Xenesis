@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0">Des lettres du Domaine abandonné rapportent qu'ils ne reçoivent aucun chargement de bois à cause des attaques des fées.&lt;BR&gt;&lt;BR&gt;Allez-vous occuper d'elles et apportez leurs colliers à Keta. Elle a eu la drôle d'idée de…&lt;BR&gt;&lt;BR&gt;Enfin, ce n'est pas si drôle que ça, si vous n'avez pas eu à faire avec les fées depuis longtemps. Oubliez ça. Mais apportez-les-lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1046">
+        <Page social="4">Ha. Bien.&lt;BR&gt;&lt;BR&gt;J'ai une idée quant à ce que je vais en faire. Ne me demandez pas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1046">
+        <Page social="0">Ce problème de bois est particulièrement embêtant. Je veux juste que vous vous débarrassiez des fées se trouvant sur le chemin.</Page>
+    </Text>
+</QuestDialog>

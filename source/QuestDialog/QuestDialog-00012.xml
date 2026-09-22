@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">Je sais que vous avez promis de venir jouer un peu avec moi, mais mon père a vraiment besoin d'aide pour régler son problème de porcidés.&lt;BR&gt;&lt;BR&gt;Ils n'arrêtent pas de se faire la malle...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="4">C'est un bon gars, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous avions domestiqué quelques porcidés piglings, mais ils se sont enfuis quand les fées sont devenues folles.&lt;BR&gt;&lt;BR&gt;Si vous voulez vous rendre utile, prenez ces fléchettes de phéromones pour en faire revenir quelques-uns par ici.&lt;BR&gt;&lt;BR&gt;Attirez leur attention puis utilisez les fléchettes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2" villagerId="27">
+        <Page social="0">(Menez les porcidés à Maon.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="4">Merci beaucoup. Le compte n'y est pas encore, mais c'est un bon début. J'espère pouvoir compter encore sur votre aide.</Page>
+    </Text>
+</QuestDialog>

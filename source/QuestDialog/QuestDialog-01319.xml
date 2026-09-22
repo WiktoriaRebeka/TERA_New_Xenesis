@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="4">J'ai remarqué que les chamanes dominés étaient tous porteurs de cristaux bleus. C'est peut-être ce qui les rend sensibles aux effets des pylônes draelkars, contrairement à vous ou moi.&lt;BR&gt;&lt;BR&gt;Rapportez-moi quelques-uns de ces cristaux, ça devrait suffire. S'il existe un lien entre ces cristaux et les pylônes, nous trouverons peut-être une faille à exploiter dans le système.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1006">
+        <Page social="4">Voyons un peu ça...&lt;BR&gt;&lt;BR&gt;Eh bien, je ne suis pas arcaniste, mais ce sont bien les cristaux que j'avais aperçus. Je vais envoyer tout ça à Habere... on verra s'ils peuvent nous apprendre quelque chose.&lt;BR&gt;&lt;BR&gt;Tout effort susceptible de sauver les nôtres mérite d'être consenti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1006">
+        <Page social="0">Vous trouverez ces cristaux sur les chamanes wendigos dominés, ainsi que sur les orkans du Hurlement du Wendigo. Faites vite&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

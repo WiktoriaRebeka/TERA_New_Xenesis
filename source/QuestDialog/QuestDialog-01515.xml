@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="0">En votre qualité de membre officiel de la Fédération Valkyon, vous avez été appelé{@g:/e} à rejoindre le quartier général à Velika. Le commandant Seir vous y a accueilli{@g:/e} et a annoncé qu'il plaçait de grands espoirs en vous. Mais le commandant Samael, qui tient les rênes des forces armées, n'a pas semblé partager son enthousiasme. Il considérait que vos exploits n'étaient qu'une succession de coups de chance..</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="4" voiceTypeId="0">Vous avez besoin de nouveaux emplacements pour votre inventaire ?&lt;BR&gt;Malheureusement, les prochains ne sont plus gratuits.&lt;BR&gt;&lt;BR&gt;Ah, vous voulez rejoindre le Quartier général de la Fédération Valkyon ? Vous le trouverez là-bas.&lt;BR&gt;&lt;BR&gt;Allez voir Uriela et dites-lui que vous souhaitez parler au commandant.&lt;BR&gt;&lt;BR&gt;Et n'hésitez pas à revenir me voir si vous souhaitez élargir votre inventaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Vous êtes bien &lt;PCNAME&gt; ?&lt;br&gt;Dougal m'a dit bien des choses à votre sujet. J'ai entendu parler de vos exploits sur l'Île de l'Aube. La Fédération Valkyon était impatiente de vous compter dans ses rangs.&lt;BR&gt;&lt;BR&gt;Elle recrute actuellement des gens capables, comme vous.&lt;BR&gt;&lt;BR&gt;Est-ce la première fois que vous venez dans une grande ville comme celle-ci ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Comment ? Vous n'avez vraiment encore jamais entendu parler de la Fédération Valkyon ? Qu'est-ce qui ne tourne pas rond, chez vous ?&lt;BR&gt;Et l'attaque des argons à Shara, ça vous dit quelque chose ? La Fédération Valkyon est composée des peuples honorables d'Arborea qui se sont alliés contre les argons.&lt;BR&gt;&lt;BR&gt;Je présume que vous avez juste un moment d'égarement, &lt;PCNAME&gt; ?&lt;NEXTPAGEBUTTON&gt;"C'est bien possible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Bon, c'est vrai qu'en arrivant dans une telle ville, il peut arriver de tout oublier, sous le coup de l'émotion. Je peux le comprendre.&lt;BR&gt;&lt;BR&gt;Le commandant Seir vous attend à l'intérieur. &lt;BR&gt;&lt;BR&gt;Ah oui. Dougal m'a chargé de vous remettre quelque chose à votre arrivée au quartier général. &lt;BR&gt;&lt;BR&gt;Où est-ce que je l'ai mis, déjà... Attendez un instant !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Vous êtes bien modeste, &lt;PCNAME&gt;.&lt;BR&gt;Dougal m'a déjà informé de vos exploits sur l'Île de l'aube.&lt;BR&gt;&lt;BR&gt;Par ailleurs, vous avez aussi retrouvé des traces d'&lt;font color='#0000FF'&gt;Élion&lt;/font&gt;, le héros de Valkyion porté disparu depuis la guerre argonne !&lt;BR&gt;&lt;BR&gt;Grâce à vous, les soldats de la Fédération Valkyon reprennent espoir dans leur lutte contre les argons.&lt;BR&gt;&lt;BR&gt;La fédération remue ciel et terre pour retrouver Élion, mais nous n'avons encore aucun indice digne de ce nom.&lt;NEXTPAGEBUTTON&gt;"Ah, je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La modestie est une noble qualité. Je me réjouis d'avance d'entendre le récit de vos prochains exploits, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le commandant Seir vous attend à l'intérieur. &lt;BR&gt;&lt;BR&gt;Ah oui. Dougal m'a chargé de vous remettre quelque chose à votre arrivée au quartier général. &lt;BR&gt;Où est-ce que je l'ai mis, déjà... Attendez un instant !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Je suis impatient de collaborer avec vous au sein de la fédération, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le commandant Seir vous attend à l'intérieur. &lt;BR&gt;&lt;BR&gt;Ah oui. Dougal m'a chargé de vous remettre quelque chose à votre arrivée au quartier général. &lt;BR&gt;Mais où l'ai-je mis, déjà ? Attendez un instant !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="3" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Pfiou, j'ai eu peur. &lt;BR&gt;&lt;BR&gt;Il y a tellement d'allées et venues par ici... Enfin, ce n'est pas une excuse.&lt;BR&gt;&lt;BR&gt;Tenez ! Dougal tenait à ce que vous lisiez ceci.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1310">
+        <Page social="4" voiceTypeId="0">Vous croisez l'élite de la Garnison de Velika et faites semblant de ne pas me reconnaître, moi, le préfet de l'unité spéciale Bruke ? Aha, vous êtes sans doute le novice qui souhaite rejoindre la Fédération Valkyon.&lt;BR&gt;&lt;BR&gt;Selon Dougal, vous n'avez pas ménagé vos efforts pour la fédération sur l'Île de l'aube ?&lt;BR&gt;J'en ai déjà bien trop entendu. &lt;NEXTPAGEBUTTON&gt;"Puisse notre collaboration être fructueuse."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Eh bien, nous verrons bien si je peux compter sur vous.&lt;BR&gt;&lt;BR&gt;Ha ha ha ! Ne faites pas cette tête d'enterrement. Je plaisantais ! Juste une petite blague. &lt;BR&gt;Combien gagnez-vous en tant que mercenaire itinérant ?&lt;BR&gt;&lt;BR&gt;Allez, vous m'attendrissez et je vais donc vous donner un petit conseil avant que vous ne vous engagiez : ne vous vantez pas tant d'avoir terrassé quelques malheureux monstres sur l'Île de l'aube.&lt;BR&gt;&lt;BR&gt;Ici, ce ne sont pas les gens talentueux qui manquent et si le général Samael ne vous choisit pas pour son unité spéciale, c'est que vous n'avez rien de spécial. &lt;BR&gt;Allez ! Ne faites pas attendre vos supérieurs.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Apparemment, la route n'était pas de tout repos.&lt;BR&gt;Vous avez désormais officiellement rejoint l'Initiative de l'avant-garde et les membres de la Garnison d'Arun.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Je sais que vous revenez tout juste d'une lutte acharnée, mais à partir de maintenant, ce n'est pas le travail qui manque. J'espère que vous avez eu le temps de reprendre des forces.&lt;NEXTPAGEBUTTON&gt;"Absolument."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">À partir de maintenant, vous devez accomplir votre devoir et vos obligations de soldat des défenseurs fédérés de Velika. &lt;BR&gt;&lt;BR&gt;À l'avenir, vous répondrez au général Samael, commandant de la garnison de Velika. Adressez-vous au commandant Samael, que voici à côté de moi.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Vous êtes au courant, non ? La situation de notre Garnison de Velika est fort précaire, mais nous ne prenons pas le premier venu pour autant.&lt;BR&gt;&lt;BR&gt;Alors descendez de votre petit nuage et commencez votre mission.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">J'ai fait une découverte intéressante !&lt;BR&gt;&lt;BR&gt;Nous avons déjà appris que les crabes moussus mangent les parfons cristallisés. Les épinocles, quant à eux, mangent les crabes.&lt;BR&gt;&lt;BR&gt;Cela semble indiquer qu'en mangeant les crabes, les épinocles ont eux aussi développé une résistance aux parfons, non ?&lt;BR&gt;&lt;BR&gt;Procurez-moi donc des coquilles de crabes moussus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">J'aimerais analyser les composants de la poudre présente sur leur coquille. Par ailleurs, j'aimerais savoir si les épinocles ont produit des anticorps en consommant les crabes.&lt;BR&gt;&lt;BR&gt;Merci de votre aide, &lt;PCNAME&gt;. Il ne nous reste plus qu'à sauver Thro et les villageois. Bon courage !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Je vous en prie, apportez-moi les coquilles des crabes moussus. Il me faut un nombre suffisant d'échantillons, sans quoi je ne pourrais pas faire d'analyse fiable.</Page>
+    </Text>
+</QuestDialog>

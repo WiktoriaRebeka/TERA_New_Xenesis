@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">Les porcelets adorent tout ce qui brille, notamment les perles.&lt;BR&gt;&lt;BR&gt;Ils ont réussi à me les prendre hier et se sont enfuis dans la forêt.&lt;BR&gt;&lt;BR&gt;Elles sont dans ma famille depuis des générations. Ramenez-les moi, s'il vous plaît.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="4">Ah&amp;nbsp;! Les revoilà&amp;nbsp;! Oui, ce sont bien celles-là. Merci beaucoup&amp;nbsp;! Je n'aurais pas supporté de les avoir perdues.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1021">
+        <Page social="0">Horreur, vous n'arrivez pas à les retrouver&amp;nbsp;? C'est terrible&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

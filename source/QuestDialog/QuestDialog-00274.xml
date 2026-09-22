@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0">Les nagas commencent à s'enhardir et sortent de leurs nids sur l'Ile Serpentis, &lt;PCCLASS:lcase&gt;. Et ça ne présage rien de bon pour nous.&lt;BR&gt;&lt;BR&gt;Nous voulons les contenir. Allez parler à {@LinkCreature:61#1010#Zesine}, et trouvez un moyen de régler le problème au plus vite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1010">
+        <Page social="0">Les nagas peuvent bien siffler tout ce qu'ils veulent au sujet de Dagon, je ne compte pas les laisser s'échapper de l'Ile Serpentis.&lt;BR&gt;&lt;BR&gt;D'un autre côté, je m'inquiète pour les réfugiés de la côte est de l'île, c'est pourquoi j'ai envoyé un contingent de soldats de l'épée de Kaia éradiquer les nagas.&lt;BR&gt;&lt;BR&gt;Rendez-vous au Camp de la Vipère et prêtez-leur votre force.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1006">
+        <Page social="0">Vous avez réussi à tromper la vigilance des sentinelles nagas et des kamaras, &lt;PCCLASS:lcase&gt;&amp;nbsp;? Eh bien, on peut dire que vous avez du talent. A moins que ce ne soit de la chance... ou un peu des deux.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, allez voir Briale avant que ce ne soit elle qui vous mette la main dessus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="1007">
+        <Page social="0">Oui, Latas n'est pas le plus diplomate de nos soldats, mais sous l'effet de la fatigue, tout un chacun peut parfois avoir des propos regrettables, et nous sommes tous épuisés.&lt;BR&gt;&lt;BR&gt;Nous essayons de protéger à la fois le Rivage du Boa, l'Ile Kerozen et la Jungle Adderkin, mais autant essayer d'empêcher la mer de monter avec les mains. Vous allez pouvoir nous être très utile.</Page>
+    </Text>
+</QuestDialog>

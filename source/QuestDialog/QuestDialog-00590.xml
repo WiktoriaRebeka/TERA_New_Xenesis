@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="4">Oui, les fouaille-tripes sont une épine dans notre flanc, mais nous avons d'autres problèmes. Les {@LinkCreature:21#7#hyènes yurklags} et les {@LinkCreature:21#14#travailleurs arachnéens du désert} constituent une menace immédiate.&lt;BR&gt;&lt;BR&gt;On dit que votre spécialité, c'est de tuer des créatures. Eh bien, prouvez-le&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1033">
+        <Page social="4">Maintenant que nous ne risquons plus de finir dans l'estomac d'une bête, nous allons pouvoir travailler. Vous êtes un excellent soldat, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+</QuestDialog>

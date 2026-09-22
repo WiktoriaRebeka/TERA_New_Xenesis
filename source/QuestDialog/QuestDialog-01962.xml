@@ -1,0 +1,137 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Exécutez la demande de Seir et rendez-vous à Élénea, &lt;PCNAME&gt;. Cherchez-y Berdash, qui avait prévenu de la menace pensant sur Arborea et tentez de changer le futur en sa compagnie.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le nombre de soldats blessés pendant l'assaut des dragons sur Élénea ne cesse de croître. Vous vous êtes souvenu de l'invasion du dragon noir à Velika et avez vainement tenté de convaincre Cerenon, le Capitaine de la garde, de renvoyer les renforts à Velika.&lt;BR&gt;&lt;BR&gt;En chassant les dragons, vous êtes tombé sur Berdash. Ensemble, vous avez découvert que les suspects étaient des disciples de Vergos qui en avaient après Velika et la déesse Velik.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="833" prevId="1" villagerId="1081">
+        <Page social="0" voiceTypeId="0">Le soldat que vous recherchez ne fait pas partie des blessés, gardien.&lt;BR&gt;Cerenon, le capitaine de la garde, sait peut-être où il est.&lt;BR&gt;&lt;BR&gt;Cerenon commande les renforts en provenance de Velika. Il risque d'être difficile de lui parler quand les troupes seront au complet.&lt;BR&gt;&lt;BR&gt;Mieux vaut aller le voir sur-le-champ.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt; ! &lt;BR&gt;Merci de votre aide.&lt;BR&gt;&lt;BR&gt;Berdash... je n'ai jamais entendu ce nom.&lt;BR&gt;Il n'a pas l'air bien célèbre par ici. &lt;BR&gt;&lt;BR&gt;Qu'est-ce que vous racontez ? Renvoyer les troupes à Velika serait insensé. &lt;BR&gt;Les forces d'Élénea ne parviendront pas à repousser les dragons à elles seules.&lt;BR&gt;&lt;BR&gt;Renvoyer les troupes de Velika chez elles serait notre arrêt de mort.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Je sais bien que la défense de Velika est affaiblie parce qu'une partie de ses troupes nous a rejoints. Mais si nous voulons survivre à un assaut de cette envergure, nous ne pouvons pas nous passer des troupes d'élite venues de Velika. &lt;BR&gt;&lt;BR&gt;Nous devons tout d'abord remédier au problème survenu ici.&lt;BR&gt;Après quoi, vous pourrez reprendre votre mission comme bon vous semble. &lt;BR&gt;&lt;BR&gt;Éliminez les alkus verts et sécurisez la route de ravitaillement. Les forces de défense situées sur la route de ravitaillement sont confrontées à des difficultés.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Je suis au courant des exploits prodigieux que vous avez accomplis, &lt;PCNAME&gt;, mais même vous ne pourrez pas affronter autant de dragons ! &lt;BR&gt;&lt;BR&gt;Dès que nous aurons repoussé cette invasion de dragons sans précédent, je remettrai les troupes de Velika en selle. Voilà pourquoi j'ai besoin de votre aide, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Éliminez les dracoloths pour que les soldats puissent se déplacer sans danger le long de la route de ravitaillement. Après quoi, vous pourrez reprendre votre mission comme bon vous semble.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">J'ai beaucoup entendu parler de vous, &lt;PCNAME&gt;, mais le commandement des troupes ne revient qu'à moi.&lt;BR&gt;&lt;BR&gt;Les troupes de Velika nous sont indispensables pour venir à bout des dragons.&lt;BR&gt;Nous ne pouvons pas nous en passer pour le moment. &lt;BR&gt;&lt;BR&gt;Aidez-nous et les soldats pourront rentrer plus vite et en meilleure condition, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Prêtez main-forte aux soldats sur la route de ravitaillement.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Le temps presse !&lt;BR&gt;Sécuriser la route de ravitaillement est notre priorité absolue.&lt;BR&gt;&lt;BR&gt;Vous rendriez un grand service aux soldats en vous occupant des dracoloths et des alkus.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Merci bien.&lt;BR&gt;Alors éliminez les alkus.&lt;BR&gt;&lt;BR&gt;Les dragons empêchent Geiran, l'intendant de ravitaillement, d'arriver ici.&lt;BR&gt;Allez donc l'aider.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Ne présumez pas de vos forces. &lt;BR&gt;&lt;BR&gt;Les soldats ont bien du mal à faire face aux dracoloths.&lt;BR&gt;Pourriez-vous éliminer les dracoloths ? &lt;BR&gt;&lt;BR&gt;Les dragons empêchent Geiran, l'intendant de ravitaillement, d'arriver ici.&lt;BR&gt;Allez donc l'aider.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="833" prevId="8" villagerId="1048">
+        <Page social="0" voiceTypeId="0">Le chariot s'est fait attaquer en chemin...&lt;BR&gt;Par des hommes vêtus de noir...&lt;BR&gt;&lt;BR&gt;Ils parlaient de venger Vergos...&lt;BR&gt;&lt;BR&gt;(Il rend l'âme.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">Cela ressemble à un charriot de ravitaillement... un charriot de ravitaillement carbonisé. &lt;BR&gt;&lt;BR&gt;Vous êtes les renforts envoyés par la Fédération ?&lt;BR&gt;Je m'appelle Berdash. J'ai étudié les alkus à Sylvanoth, avant qu'un immense dragon ne surgisse.&lt;BR&gt;&lt;BR&gt;Avez-vous déjà aperçu ce gigantesque dragon noir de jais ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">Je n'ai encore jamais croisé ce grand dragon de toute mon existence.&lt;BR&gt;Étrangement, les alkus ont subitement disparu de Sylvanoth quand le dragon est apparu.&lt;BR&gt;&lt;BR&gt;C'est depuis ce jour que j'appelle ce dragon le "seigneur obscur".&lt;BR&gt;En effet, tout semble indiquer qu'il commande les alkus.&lt;BR&gt;Sans cela, pourquoi auraient-ils attaqué Élénea ?&lt;BR&gt;&lt;BR&gt;Il n'y a pas de doute à avoir sur le fait que le dragon noir s'en sert pour attaquer Élénea.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">Ce dragon noir semble extrêmement dangereux.&lt;BR&gt;Il est bien plus imposant que les autres dragons...&lt;BR&gt;&lt;BR&gt;Il est à peine apparu que tous les alkus ont disparu de Sylvanoth. C'est depuis ce jour que je l'appelle le "seigneur obscur".&lt;BR&gt;&lt;BR&gt;Tout semble indiquer que les alkus ont attaqué Élénea. Il est évident que le dragon noir se sert des alkus pour attaquer Élénea.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">Je ne vous parle pas d'un dragon noir ordinaire. &lt;BR&gt;&lt;BR&gt;Je passais le plus clair de mon temps à Sylvanoth.&lt;BR&gt;Un beau jour, un gigantesque dragon noir a surgi et tous les alkus ont subitement disparu.&lt;BR&gt;&lt;BR&gt;C'est la raison pour laquelle je le nomme le "seigneur obscur".&lt;BR&gt;Je me suis lancé à ses trousses et ai appris que les alkus ont lancé l'assaut sur Élénea.&lt;BR&gt;&lt;BR&gt;Le dragon noir semble commander les alkus pour attaquer les Humains !</Page>
+    </Text>
+    <Text id="16" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">Mais comment est-ce possible ?&lt;BR&gt;Seul un capitaine des dragons peut donner des ordres aux autres dragons. La magie ne semble pas avoir quoi que ce soit à voir là-dedans.&lt;BR&gt;&lt;BR&gt;Si je ne me trompe pas, j'ai entendu prononcer le nom de Vergos.&lt;BR&gt;&lt;BR&gt;Que savez-vous au sujet de Vergos ?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">Vous n'avez vraiment aucune patience !&lt;BR&gt;Très bien, penchons-nous sur le présent.&lt;BR&gt;&lt;BR&gt;Le dragon dans le ciel est le même dragon noir que celui que j'ai vu à Sylvanoth. Nous devons découvrir quel rapport existe entre lui et les suspects.&lt;NEXTPAGEBUTTON&gt;"Où dois-je me rendre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vergos... Les suspects ont parlé de Vergos,&lt;BR&gt;le premier dragon.&lt;BR&gt;Tous les dragons du continent sont ses descendants.&lt;BR&gt;&lt;BR&gt;La légende prétend que les ossements de Vergos se trouvent ici.&lt;BR&gt;&lt;BR&gt;Il me semble probable que des disciples fanatiques tentent de trouver ses os. Allez dans la vallée.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">Le dragon n'est pas seulement gigantesque et puissant.&lt;BR&gt;Vergos était le tout premier dragon.&lt;BR&gt;Tous les dragons d'Arborea sont ses descendants. &lt;BR&gt;&lt;BR&gt;La légende prétend que les ossements de Vergos sont enfouis ici.&lt;BR&gt;Si vous étiez un disciple fanatique, ne tenteriez-vous pas de trouver les os de Vergos ?&lt;NEXTPAGEBUTTON&gt;"Où sont les os de Vergos ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah ! Des bruits courent au sujet de la Vallée de la mort et prétendent que Lakan, le prince des enfers, a apporté les ossements de Vergos au Sanctuaire de Zaeltarazad.&lt;BR&gt;&lt;BR&gt;Pourriez-vous entamer des recherches dans la vallée ?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">Un chercheur qui, comme moi, se spécialise dans les dragons connaît forcément le nom de "Vergos".&lt;BR&gt;&lt;BR&gt;Nous devons à tout prix trouver le dragon noir et les disciples de Vergos.&lt;BR&gt;&lt;BR&gt;Cap sur la vallée ! &lt;NEXTPAGEBUTTON&gt;"Pourquoi aller dans la vallée ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Une rumeur prétend que c'est là que gisent les ossements de Vergos, le premier dragon.&lt;BR&gt;Si vous étiez un disciple fanatique, n'essayeriez-vous pas de retrouver les os de Vergos ?&lt;BR&gt;&lt;BR&gt;Allez, rendez-vous dans la vallée !</Page>
+    </Text>
+    <Text id="20" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Je me doutais bien que vous n'étiez pas un simple mortel, mais vos facultés sont vraiment impressionnantes !&lt;BR&gt;&lt;BR&gt;Le dragon apparaît sitôt que vous vous approchez de la plante.&lt;BR&gt;Pourquoi en est-il ainsi ?</Page>
+    </Text>
+    <Text id="21" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Vous avez raison. Il s'agit probablement d'une sorte d'alerte.&lt;BR&gt;Un système d'alarme sophistiqué.&lt;BR&gt;Au moindre mouvement de la plante, le dragon accourt. &lt;BR&gt;&lt;BR&gt;Vérifions donc encore une fois cette hypothèse. Approchez-vous à nouveau de la plante !</Page>
+    </Text>
+    <Text id="22" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Mes soupçons sont donc avérés. Mais quelque chose ne tourne pas rond ici. Il doit s'agit d'un piège...&lt;BR&gt;&lt;BR&gt;Le dragon semble épier le moindre mouvement de la plante. Apparemment, il s'agit d'une sorte de système d'alarme. &lt;BR&gt;&lt;BR&gt;Pourriez-vous vous approcher à nouveau de la plante ?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Je sais que vous disposez de compétences exceptionnelles, mais économisez vos forces pour le moment où vous croiserez les disciples de Vergos.&lt;BR&gt;&lt;BR&gt;Le dragon apparaît à une telle vitesse quand on s'approche de la plante, qu'il ne peut s'agir que d'un mécanisme d'alerte.&lt;BR&gt;&lt;BR&gt;Je sais que ça devient pénible, mais pourriez-vous réessayer ?</Page>
+    </Text>
+    <Text id="24" huntingZoneId="833" prevId="20" villagerId="1236">
+        <Page social="0" voiceTypeId="0">Les dracoloths semblent faire office de sentinelles.&lt;BR&gt;Qu'est-ce que la vallée peut-elle bien cacher pour justifier un tel déploiement de force devant l'entrée ?&lt;BR&gt;&lt;BR&gt;L'assaut sur Élénea visait-il donc vraiment à retrouver les os de Vergos ?! Il semble clair qu'ils poursuivent un objectif d'une tout autre envergure. La chose est autrement plus complexe.&lt;BR&gt;&lt;BR&gt;Je n'ai pas saisi votre nom.&lt;BR&gt;Comment vous appelez-vous ?&lt;NEXTPAGEBUTTON&gt;"Je m'appelle &lt;PCNAME&gt;."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;... Tiens donc.&lt;BR&gt;Il me semble déjà avoir entendu ce nom quelque part, haha.&lt;BR&gt;&lt;BR&gt;Infiltrons-nous donc plus avant dans la vallée.&lt;BR&gt;Nous devons découvrir ce que les disciples de Vergos manigancent.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">Les disciples de Vergos veulent la tête de la déesse Velik !&lt;BR&gt;Mais pourquoi donc ? Ce n'est tout de même pas...</Page>
+    </Text>
+    <Text id="26" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">Pourquoi ont-ils fomenté tout cela dans la Gorge du Wyrm ? Pourquoi pas à Allemantheia ou Velika ?&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, nous devons nous occuper de ce problème au plus vite.&lt;BR&gt;Je n'ose pas imaginer ce qu'il adviendrait si quelque chose arrivait à la déesse Velik.&lt;BR&gt;&lt;BR&gt;Commençons donc par explorer le camp à la recherche d'indices sur les disciples de Vergos.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">Par tous les dieux ! Ne dites pas de choses pareilles !&lt;BR&gt;&lt;BR&gt;Ce qui est toutefois certain, c'est que les disciples contrôlent les dragons et en ont après la déesse Velik. &lt;BR&gt;&lt;BR&gt;Commençons donc par explorer le camp à la recherche d'indices sur les disciples de Vergos.</Page>
+    </Text>
+    <Text id="28" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">Comment de tels énergumènes peuvent-ils bien contrôler les dragons...&lt;BR&gt;Je ne sais pas grand-chose à leur sujet, mais le fait qu'ils en aient après la déesse Velik n'augure rien de bon.&lt;BR&gt;&lt;BR&gt;Commençons donc par explorer le camp à la recherche d'indices sur les disciples de Vergos.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="833" prevId="25" villagerId="1114">
+        <Page social="0" voiceTypeId="0">Des hommes noirs encagoulés, des dragons...&lt;BR&gt;Nous ont attaqués... ont emporté... des gens...&lt;BR&gt;Vers le Sanctuaire de Zaeltarazad...&lt;BR&gt;&lt;BR&gt;(Il rend son dernier soupir.)</Page>
+    </Text>
+    <Text id="30" huntingZoneId="833" prevId="29" villagerId="1261">
+        <Page social="0" voiceTypeId="0">Ces hommes en noir désignent les disciples de Vergos, ça ne fait pas l'ombre d'un doute. Ils sont impitoyables.&lt;BR&gt;&lt;BR&gt;Nous devons tout d'abord sauver tout le monde.&lt;BR&gt;En route pour le Sanctuaire de Zaeltarazad !</Page>
+    </Text>
+    <Text id="31" huntingZoneId="833" prevId="30" villagerId="1086">
+        <Page social="0" voiceTypeId="0">C'est un chemin bordé de plantes ! &lt;BR&gt;Les disciples de Vergos sont sans doute rassemblés derrière la colline.&lt;BR&gt;&lt;BR&gt;Mais n'oubliez pas ce qui est arrivé à l'entrée de la gorge...&lt;BR&gt;Dès que nous nous approcherons d'une plante, le dragon surgira.&lt;BR&gt;Et puisque le chemin est bordé de plantes, nous n'avons pas d'autre choix que de courir.&lt;BR&gt;&lt;BR&gt;Courez et ne vous retournez pas !</Page>
+    </Text>
+    <Text id="32" huntingZoneId="833" prevId="31" villagerId="1267">
+        <Page social="0" voiceTypeId="0">Cette personne vêtue de noir vénère Vergos comme un dieu. Et apparemment, elle peut parler avec les dragons.&lt;BR&gt;&lt;BR&gt;Elle peut approcher les dragons sans se faire attaquer. Elle semble même capable de donner des ordres aux dragons !&lt;BR&gt;&lt;BR&gt;Il y a d'autres prisonniers à l'intérieur.&lt;BR&gt;Pourriez-vous sauver tout le monde ? Je vous en supplie...</Page>
+    </Text>
+    <Text id="33" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">Si les rumeurs concernant la déesse Velik et Vergos disent vrai, cela expliquerait pourquoi les disciples de Vergos tuent les gens avec une telle cruauté.&lt;BR&gt;&lt;BR&gt;Ça expliquerait aussi pourquoi ils veulent la tête de Velik.</Page>
+    </Text>
+    <Text id="34" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">Malheureusement, je n'ai pas non plus cette information de première main.&lt;BR&gt;Des rumeurs prétendent que Vergos, le premier dragon, est réapparu un beau jour en Arborea.&lt;BR&gt;&lt;BR&gt;La déesse Velik a alors donné l'ordre à ses gardiens d'élite de mettre fin aux agissements de Vergos.&lt;NEXTPAGEBUTTON&gt;"Qu'est-il arrivé ensuite ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous connaissons maintenant la raison pour laquelle les disciples de Vergos crient vengeance.&lt;BR&gt;&lt;BR&gt;Commencez par sauver les autres puis essayez d'en savoir plus sur les disciples de Vergos.</Page>
+    </Text>
+    <Text id="35" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">J'ai toujours cru que l'histoire de Vergos n'était qu'une légende. C'est alors que ces bruits me sont parvenus aux oreilles&lt;BR&gt;&lt;BR&gt;Un beau jour, Vergos, le premier dragon, est réapparu en Arborea.&lt;BR&gt;&lt;BR&gt;Et...&lt;BR&gt;&lt;BR&gt;La déesse Velik a alors donné l'ordre à ses gardiens d'élite de mettre fin aux agissements de Vergos.&lt;NEXTPAGEBUTTON&gt;"Il semblerait qu'ils cherchent à venger Vergos ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous connaissons maintenant la raison pour laquelle les disciples de Vergos crient vengeance.&lt;BR&gt;&lt;BR&gt;Commencez par sauver les autres puis essayez d'en savoir plus sur les disciples de Vergos.</Page>
+    </Text>
+    <Text id="36" huntingZoneId="833" prevId="33" villagerId="1271">
+        <Page social="0" voiceTypeId="0">Cette personne vêtue de noir vénère Vergos comme un dieu. Et apparemment, elle peut parler avec les dragons.&lt;BR&gt;&lt;BR&gt;Elle peut approcher les dragons sans se faire attaquer. Elle semble même capable de donner des ordres aux dragons !&lt;BR&gt;&lt;BR&gt;Il y a d'autres villageois emprisonnés à l'intérieur.&lt;BR&gt;Pourriez-vous sauver tout le monde ? Je vous en supplie...</Page>
+    </Text>
+    <Text id="37" huntingZoneId="833" prevId="36" villagerId="1274">
+        <Page social="0" voiceTypeId="0">Un grand merci pour votre aide.&lt;BR&gt;&lt;BR&gt;L'homme en noir ne cessait de répéter qu'il lui fallait tuer la déesse Velik.&lt;BR&gt;&lt;BR&gt;Je ne sais pas ce qui se trame ici...&lt;BR&gt;Nous devrions tout d'abord mettre les villageois en sécurité.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="38" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">(Il tient le document entre ses mains.) Le plan consistait donc à prétendre lancer une attaque sur Élénea tout en attaquant Velika avec d'autres dragons.&lt;BR&gt;&lt;BR&gt;Une invasion de Velika... visant à tuer la déesse Vel...&lt;BR&gt;&lt;BR&gt;Nous devons immédiatement faire parvenir cette information à Velika !</Page>
+    </Text>
+    <Text id="39" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">J'ai vu cet homme en noir envoyer les dragons ailleurs avec cet appareil étrange.&lt;BR&gt;&lt;BR&gt;Il semble s'agir d'une sorte de téléportail.&lt;BR&gt;Mais nous n'avons pas d'autres choix.&lt;BR&gt;&lt;BR&gt;Cet appareil est notre seul lien avec la personne qui agit dans l'ombre des disciples de Vergos. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Essayons l'appareil ensemble !&lt;BR&gt;Cet appareil semble être relié à un endroit et nous devons découvrir lequel.&lt;BR&gt;&lt;BR&gt;Dès que j'aurai pris mes repères, je retournerai à Velika pour faire mon rapport.</Page>
+    </Text>
+    <Text id="40" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">Vous voulez retourner au village ?&lt;BR&gt;Et revenir ensuite avec des renforts ?&lt;BR&gt;&lt;BR&gt;Il n'y a pas de temps à perdre.&lt;BR&gt;Il nous faut tout d'abord découvrir où est cet endroit puis demander des renforts.&lt;BR&gt;&lt;BR&gt;Même si je me méfie de cet appareil, je ne vois pas d'autre solution.&lt;BR&gt;J'ai vu cet homme en noir téléporter des dragons à l'aide de cet engin.&lt;BR&gt;&lt;BR&gt;Nous devons nous en servir !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Essayons l'appareil ensemble !&lt;BR&gt;Cet appareil semble être relié à un endroit et nous devons découvrir lequel.&lt;BR&gt;&lt;BR&gt;Dès que j'aurai pris mes repères, je retournerai à Velika pour faire mon rapport.</Page>
+    </Text>
+    <Text id="41" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">J'ai vu cet homme en noir téléporter des dragons à l'aide de cet engin.&lt;BR&gt;&lt;BR&gt;Je comprends vos inquiétudes au sujet de cet appareil, mais nous n'avons pas le choix.&lt;BR&gt;&lt;BR&gt;Il devrait nous permettre de découvrir qui se cache derrière les disciples de Vergos. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Essayons l'appareil ensemble !&lt;BR&gt;Cet appareil semble être relié à un endroit et nous devons découvrir lequel.&lt;BR&gt;&lt;BR&gt;Dès que j'aurai pris mes repères, je retournerai à Velika pour faire mon rapport.</Page>
+    </Text>
+    <Text id="42" huntingZoneId="4" prevId="38" villagerId="3000">
+        <Page social="0" voiceTypeId="0">Je crois qu'il s'agit de la Montagne Fyr.&lt;BR&gt;&lt;BR&gt;Comme je m'en doutais, ils ont préparé l'invasion de Velika depuis un endroit retiré. Les disciples de Vergos et une armée de dragons sont sans doute stationnés quelque part dans les environs.&lt;BR&gt;&lt;BR&gt;Regardez là-bas, c'est la plante que nous avons vue dans la Gorge du Wyrm !&lt;BR&gt;Nous devrions avancer plus avant dans les abysses de la Montagne Fyr.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="4">Vous avez déjà étudié des reliques&amp;nbsp;? Vous devriez essayer. L'archéologie est une discipline fascinante et plus instructive qu'on le croit généralement.&lt;BR&gt;&lt;BR&gt;Allons&amp;nbsp;! C'est facile&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Eh bien, je n'ai jamais..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Soyez sans crainte&amp;nbsp;! Ce n'est pas sorcier&amp;nbsp;! Regardez bien autour de vous et ramassez les &lt;font color='#660000'&gt;fragments de reliques&lt;/font&gt; disséminés autour de l'&lt;font color='#660000'&gt;entrée des Restes de piliers de pierre&lt;/font&gt;, puis rapportez-les-moi.&lt;BR&gt;&lt;BR&gt;Il en reste beaucoup à retrouver. Et si j'ai vu juste, ils révéleront un grand secret&amp;nbsp;! Ce qui me vaudra des articles dans la Dépêche de Velika ou Castanica Matin&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1021">
+        <Page social="4">Je vous avais dit que c'était un jeu d'enfant.&lt;BR&gt;&lt;BR&gt;Ce sont de jolis fragments. Le jour où vous en aurez assez de la vie de soldat, vous pourrez vous reconvertir dans l'archéologie.&lt;BR&gt;&lt;BR&gt;Ils sont fascinants. Pour les étudier, laissez-moi faire, vous manquez encore d'expérience, vous ne croyez pas&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1021">
+        <Page social="0">Ca n'a pas l'air épanouissant, mais oublier le passé, c'est hypothéquer l'avenir&amp;nbsp;! Essayez au moins&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">Bon, j'ai peut-être été un peu trop… désinvolte quant à l'énorme monstre-citrouille. Toutes mes excuses.&lt;BR&gt;&lt;BR&gt;Mais j'ai découvert l'origine des attaques&amp;nbsp;: Jack-O'-Lantern.&lt;BR&gt;&lt;BR&gt;La plupart du temps, il n'est qu'un esprit sans mauvaises intentions, mais lorsque la saison des moissons approche, sa puissance s'accroît et il a alors un penchant pour les invocations. Nous allons finir noyés sous ses sbires à ce rythme.&lt;BR&gt;&lt;BR&gt;Nous devons apaiser Jack-O'-Lantern d'une manière ou d'une autre. Vous savez, calmer la fureur de l'esprit en colère, comme dans les histoires de fantôme. Vous savez le faire&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je préfère généralement taper."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Franchement, je suis prêt à accepter n'importe quelle aide. Empêchez toutes les personnes n'ayant pas été invitées d'entrer dans la salle des fêtes.&lt;BR&gt;&lt;BR&gt;Si vous apercevez Jack-O'-Lantern, débarrassez-vous de lui et nous n'en entendrons plus parler jusqu'à l'année prochaine.&lt;BR&gt;&lt;BR&gt;Encore une chose&amp;nbsp;: prenez ceci avec vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="5">Vous feriez un très bon videur pour toutes nos autres soirées, &lt;PCNAME&gt;. Enfin, pour les quelques autres soirées. Nous n'avons pas le temps à cause des études, du travail, études, travail… mais vous êtes plutôt {@g:doué/douée} quand il s'agit de garder les intrus dehors.&lt;BR&gt;&lt;BR&gt;Puisque nous fêtons Halloween, vous méritez une récompense&amp;nbsp;! Prenez ceci et allez vous amuser&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="8001">
+        <Page social="0">Empêchez les tuwangis d'atteindre les bonbons&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et si vous apercevez Jack-O'-Lantern, débarrassez-vous de lui. Il ne fait définitivement pas partie de la liste des invités.</Page>
+    </Text>
+</QuestDialog>

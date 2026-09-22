@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Jelena cherchait Thro à l'entrée de la Salle des machines. Vous l'avez aidée.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Pendant que vous essayiez de détruire le noyau sombre dans la Salle des machines, Rukmia a augmenté ses performances pour provoquer une vaste explosion. Élion a fait en sorte de contenir l'explosion et vous êtes ensuite parti pour Velika avec sa dépouille.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="113">
+        <Page social="4" voiceTypeId="0">Je le sens. Élion est ici, je le sais.&lt;BR&gt;&lt;BR&gt;Dès que vous êtes d'attaque, allons dans la Salle des machines pour sauver Élion et arrêter Exodor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2103" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">Comme Thro l'a déjà mentionné, nous devons détruire l'appareil de contrôle.&lt;BR&gt;&lt;BR&gt;Pour cela, nous devons monter à l'étage...&lt;BR&gt;Partons chacun de notre côté pour trouver un moyen de monter. &lt;BR&gt;&lt;BR&gt;Thro et moi allons chercher sur la droite.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2103" prevId="4" villagerId="101">
+        <Page social="4" voiceTypeId="0">Parfait.&lt;BR&gt;&lt;BR&gt;La destruction de cet endroit et de l'appareil de contrôle principal devrait suffire à arrêter Exodor, non ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2103" prevId="5" villagerId="110">
+        <Page social="4" voiceTypeId="0">C'est vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aaah... ma tête ! Je reprends peu à peu mes esprits.&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Excusez-moi. Je ne me souviens plus de rien depuis le combat contre les hauts dragons, dans le Marécage de Viridian.&lt;BR&gt;&lt;BR&gt;Quand j'ai repris mes esprits, je me trouvais soudain ici. Comme j'ai honte.&lt;BR&gt;&lt;BR&gt;Où sommes-nous ?&lt;NEXTPAGEBUTTON&gt;"Dans la Salle des machines d'Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est la Salle des machines d'Exodor ?!&lt;BR&gt;&lt;BR&gt;Si c'est bien le cas, nous devons détruire cet endroit au plus vite.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2103" prevId="6" villagerId="102">
+        <Page social="24" voiceTypeId="0">Suite à la déflagration, Jelena ne parvient pas à maîtriser ses spasmes.&lt;BR&gt;&lt;BR&gt;("Tout va bien ?")&lt;BR&gt;&lt;BR&gt;Argh...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2103" prevId="7" villagerId="111">
+        <Page social="1" voiceTypeId="0">(Élion semble avoir rendu son dernier soupir au moment même où il protégeait le noyau sombre de l'explosion.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2103" prevId="8" villagerId="120">
+        <Page social="4" voiceTypeId="0">Bonne idée ! Ça, là... !&lt;BR&gt;&lt;BR&gt;(Thro a brusquement activé quelque chose.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="20005">
+        <Page social="4" voiceTypeId="0">Pfiou, nous sommes encore en vie...&lt;BR&gt;&lt;BR&gt;Certes, pas tous, mais bon...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="20007">
+        <Page social="4" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;Pardon...&lt;BR&gt;&lt;BR&gt;Maintenant...&lt;BR&gt;Laissez-moi...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="11" villagerId="1102">
+        <Page social="4" voiceTypeId="0">J'ai entendu parler des évènements à Exodor, &lt;PCNAME&gt;. Je sais aussi que, sans le sacrifice d'Élion, l'explosion de la forteresse aurait affecté tout Arborea.&lt;BR&gt;&lt;BR&gt;Mais qui aurait imaginé qu'Élion nous quitterait aussi vite... Une autre étoile d'Arborea vient de s'éteindre. Quel immense gâchis.</Page>
+    </Text>
+</QuestDialog>

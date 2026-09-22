@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Keezar a promis de réparer le pendentif brisé avec une colle spéciale. Vous avez récolté de nombreux ingrédients, pour finalement réussir à réparer le pendentif.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Trouvez Keezar, qui s'est enfuie de la caverne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Comme vous vous en doutez, la colle ne pousse pas sur les arbres. A moins que vous ne me parliez de sève, auquel cas, je serai bien folle de discuter avec vous.&lt;NEXTPAGEBUTTON&gt;”Je ne parle pas de sève&amp;nbsp;!”&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Et donc, vous parlez bien de colle. Entendu.&lt;BR&gt;&lt;BR&gt;Eh bien, pour que cette colle fonctionne, nous allons avoir besoin de chaux. Je vous parle de chaux minérale et non pas de ce que vous entreposez dans votre croiseur céleste pour lutter contre le scorbut. Il y a beaucoup de dépôts de chaux autour des sources chaudes derrière. Sauf si votre ami popori a déjà tout pris pour se détendre les muscles.&lt;BR&gt;&lt;BR&gt;Ramenez-moi de la chaux, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Le croiseur...&amp;nbsp;? Popori...&amp;nbsp;? De la chaux&amp;nbsp;! D'accord, je vous ramène de la chaux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Bon, ce n'était pas si difficile, si&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mais reconstituer le pendentif était la partie la plus simple. Il nous faut encore l'accorder avec les talismans de demokrons pour qu'il fonctionne. Vous allez devoir tuer des francs-archers parthes, des guerriers parthes et des cavaliers parthes pour récupérer les mystérieux talismans...&lt;NEXTPAGEBUTTON&gt;"Comme ceux-ci&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous les possédiez déjà avant même de venir me voir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bon sang&amp;nbsp;! Ça fait si longtemps que j'en avais oublié ce que c'est que d'avoir affaire à des professionnels&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maintenant, attendez ici pendant que je réalise cette procédure extrêmement délicate et complexe...&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" villagerId="2036">
+        <Page social="0">Les sources chaudes sont justes derrières moi. Des grands machins blancs&amp;nbsp;? Avec un grand machin bleu au milieu&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="4" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Mais combien de temps tout cela va-t-il prendre&amp;nbsp;? Je vous ai déjà dit&amp;nbsp;: j'ai besoin de cornes de devans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne peux pas travailler avec vous lorsque vous êtes comme ça. Je ne sais même plus qui vous êtes. Vous n'êtes certainement plus la personne dont je suis tombée amoureuse. Il faut vraiment que je me concentre sur ma carrière maintenant.&lt;BR&gt;&lt;BR&gt;Pourquoi n'allez-vous pas parler à Dandit, mon assistant de production&amp;nbsp;? Il est un peu plus loin sur la route qui mène vers le sud.&lt;BR&gt;&lt;BR&gt;Oui, il vous confirmera.&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2042">
+        <Page social="4" voiceTypeId="0">C'est Keezar qui vous envoie&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;C'est... bizarre. Elle n'est pas du genre à aider autrui...&lt;BR&gt;&lt;BR&gt;Eh bien, voyons voir pourquoi elle vous envoie.&lt;NEXTPAGEBUTTON&gt;"Keezar s'apprêtait à réparer ce pendentif pour moi..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Bon. Elle avait presque fini. La colle a juste besoin d'un peu de Larmes d'Esprit.&lt;BR&gt;&lt;BR&gt;Heureusement, les Larmes d'Esprit ne sont pas bien dures à trouver. Les chamanes de guerre parthes en ont toujours avec eux et, comble de la chance, il y en a tout un groupe derrière moi, plus haut sur la colline.&lt;NEXTPAGEBUTTON&gt;"D'accord..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Du beau travail.&lt;BR&gt;&lt;BR&gt;Mélanger la chaux et les Larmes d'Esprit permet de fixer les morceaux du pendentif entre eux tout en concentrant la magie&lt;BR&gt;&lt;BR&gt;Ça ne devrait prendre que quelques secondes.&lt;NEXTPAGEBUTTON&gt;"Pas de problèmes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2042">
+        <Page social="0">Sans Larme d'Esprit, la chaux n'est qu'un minerai blanchâtre.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Et vous voilà paré{@g:/e}.&lt;BR&gt;&lt;BR&gt;Assurez-vous que vous avez bien rassemblé tous les morceaux du pendentif, puis collez-les à l'aide de la colle puissante.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Voyons voir.&lt;BR&gt;&lt;BR&gt;Oui, il fonctionne à nouveau correctement. Mais il est préférable que vous n'essayiez pas de l'activer, sauf si vous tenez à le casser une deuxième fois. &lt;BR&gt;&lt;BR&gt;Oh, au fait, les personnes qui sont près de la plate-forme de téléportation vous cherchaient tout à l'heure. Ce sont des amis&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je vais aller voir, merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez préparé un plat et l'avez donné à Melsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">Vous revoilà, &lt;PCNAME&gt;&amp;nbsp;! De retour au festival des Campagnes en fête pour vous amuser encore un peu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous est-il possible de revenir plus tard&amp;nbsp;? Je suis débordé&amp;nbsp;: nous avons épuisé tous les vivres de l'arène hier, donc il faut que j'en prépare bien plus aujourd'hui.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je peux vous aider&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, eh bien... vous êtes sûr{@g:/e}&amp;nbsp;? Dans ce cas, oui&amp;nbsp;! Avec plaisir&amp;nbsp;! J'ai entendu dire que vous cuisinez fort bien, &lt;PCNAME&gt;, un peu d'aide serait donc la bienvenue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Pour le moment, je n'ai besoin de rien de bien compliqué, mais je n'ai pas le temps de m'en occuper. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Dites-moi de quoi vous avez besoin.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Nos épigrains soufflés ont fait un tabac hier. Que diriez-vous d'en préparer une fournée&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">La salade de rutabaga des marais est également bien partie, en avoir d'avantage ne serait donc pas de refus&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Le porcidé a toujours du succès. Faites chauffer le barbecue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Oh, cet épigrain soufflé est vraiment délicieux&amp;nbsp;! Moelleux et salé à souhait, ce qui fait que l'on va également vendre de la racinette par palettes&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allons, &lt;PCNAME&gt;, puisque vous m'avez aidé, acceptez cette récompense. Vous pouvez vous en servir quand bon vous semble. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ce n'était rien.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Et n'oubliez pas&amp;nbsp;: gardez la recette a portée de mains et rien ne pourra vous arriver&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Vous avez fait assez de salade de rutabaga des marais pour nourrir un bataillon, &lt;PCNAME&gt;&amp;nbsp;! Excellent travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Écoutez&amp;nbsp;: puisque vous m'avez aidé, je m'en vais vous donner ceci. Vous pouvez vous en servir quand bon vous semble. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ce n'était pas grand-chose.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Au moindre doute, consultez toujours la recette.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Je ne sais pas pourquoi ces combats de monstres donnent aux gens de telles envies de porcidé grillé, mais nous avons là de quoi les rassasier&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, &lt;PCNAME&gt;, puisque vous m'avez bien aidé, je m'en vais vous donner ceci. Vous pouvez vous en servir quand bon vous semble. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ce n'était pas grand-chose.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Au moindre doute, un coup d'œil à la recette. C'est mon petit secret&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

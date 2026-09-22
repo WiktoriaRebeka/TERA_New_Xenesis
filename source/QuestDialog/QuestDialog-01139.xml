@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1005">
+        <Page social="4">Les {@LinkCreature:45#3002#ravageurs de Lok argonomorphes} qui se sont installés dans la région après le départ des gulas inquiètent les chercheurs. Ce serait bien si vous pouviez les aider… Et si vous pouviez aussi prendre des nouvelles de Setahl au {@Rgn:45011$$Camp du Guet du Marais}. Vérifiez juste qu'il ne s'est pas attiré d'ennuis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1026">
+        <Page social="4">Merci de votre sollicitude. Lahiah aime veiller sur moi… et franchement, ça ne me dérange pas.</Page>
+    </Text>
+</QuestDialog>

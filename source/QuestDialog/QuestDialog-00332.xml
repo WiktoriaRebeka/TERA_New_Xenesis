@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">La bonne nouvelle, c'est qu'il y a en bas une équipe permanente. Ca signifie que tous les {@LinkCreature:11#1001#maîtres d'équipage} ou {@LinkCreature:11#2006#pillards} du Fouet rouge auront vu passer votre psycholithe quand elle a été entreposée ici.&lt;BR&gt;&lt;BR&gt;Les pirates ne sont pas d'un naturel bavard, même lors des interrogatoires "poussés". Ils ont tous de curieux "trous de mémoire".&lt;BR&gt;&lt;BR&gt;Mais allez donc en cogner quelques-uns. Vous aurez peut-être un coup de chance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Vous avez trouvé ça sur les corps&amp;nbsp;? Pourquoi auraient-ils extrait des fragments de cette pierre avant de les distribuer&amp;nbsp;? A moins que...&lt;BR&gt;&lt;BR&gt;Et si ces fragments permettaient de protéger leurs porteurs de sa puissance&amp;nbsp;?!&lt;BR&gt;&lt;BR&gt;Je pense que vous allez devoir chercher des explications en haut lieu, &lt;PCNAME&gt;... du côté d'Orless, le capitaine des Pirates du Fouet rouge.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Les {@LinkCreature:11#1001#maîtres d'équipage} et les {@LinkCreature:11#2006#pillards} du Fouet rouge disposent certainement d'informations relatives à cette psycholithe... sinon, je ne vois pas qui d'autre.</Page>
+    </Text>
+</QuestDialog>

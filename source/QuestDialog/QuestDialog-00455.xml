@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1019">
+        <Page social="4">Aussi incroyable que cela puisse paraître, ces {@LinkCreature:15#5#recrues amans} et {@LinkCreature:15#4#recrues castanics} sont des survivants du contingent de la Fédération qui se trouvait en faction ici quand le mal nous a frappés. Leur folie semble malheureusement irréversible.&lt;BR&gt;&lt;BR&gt;J'ai de la peine pour eux et leurs familles.&lt;BR&gt;&lt;BR&gt;J'ai bien peur que le seul service que nous puissions leur rendre consiste à mettre un terme à leurs souffrances. Nous devons leur permettre de reposer en paix aux côtés des héros morts au service de Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1010">
+        <Page social="5">Vous avez fait du bon travail, &lt;PCNAME&gt;. Je vais faire parvenir ces amulettes aux familles des défunts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1010">
+        <Page social="0">C'était le seul choix qui vaille, &lt;PCNAME&gt;. Croyez-moi.</Page>
+    </Text>
+</QuestDialog>

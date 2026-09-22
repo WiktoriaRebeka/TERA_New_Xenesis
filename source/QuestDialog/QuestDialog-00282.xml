@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="4">Les nagas nous ont envoyé les {@LinkCreature:10#8#maîtres de combat nagas}, leurs troupes d'élite. Et nous comptons bien leur répondre avec ce que nous avons de mieux, à savoir vous.&lt;BR&gt;&lt;BR&gt;Si vous récupérez leurs écailles, nous serons en mesure de confectionner des armures pour remplacer les nôtres. J'aime l'idée d'affronter les nagas dans une armure obtenue en dépeçant leurs semblables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="4">Vous avez su vous montrer à la hauteur, &lt;PCNAME&gt;. Bon travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1001">
+        <Page social="0">Nous avons tous des ordres, &lt;PCNAME&gt;. Tâchez donc d'exécuter les vôtres.</Page>
+    </Text>
+</QuestDialog>

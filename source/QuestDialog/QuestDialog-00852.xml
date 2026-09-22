@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">En examinant les points indiqués sur les autres cartes que vous avez trouvées, nos éclaireurs ont découvert une structure rouge des plus étranges dans la partie centrale de la base de Kaidun.&lt;BR&gt;&lt;BR&gt;Les forces sihran les avons chassés de là avant qu'ils n'aient le temps de l'examiner dans le détail. Je vais vous demander de m'en rapporter un fragment... et de détruire l'objet, si nécessaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1008">
+        <Page social="0">(En portant quelques coups bien placés, vous parvenez à détacher un fragment de l'objet.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">Intéressant... c'est tout ce que vous avez réussi à récupérer&amp;nbsp;? Les sorciers du camp arrière vont devoir étudier ça de près.&lt;BR&gt;&lt;BR&gt;Bien joué, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:230#3026#Lilis} se trouve en haut du {@Rgn:9017001$$Phare du Soleil} et n'arrive pas à maîtriser l'un des golems qui se trouve à l'intérieur.&lt;BR&gt;&lt;BR&gt;Vous pouvez faire quelque chose&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;, le {@LinkCreature:417#2001#vieux gardien} qui se trouve en haut de la tour ne me laissera pas approcher du démarreur, alors qu'il a besoin d'être nettoyé. Sinon, il risque encore de tomber en panne.&lt;BR&gt;&lt;BR&gt;Trouvez-le et éteignez-le.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Merci.&lt;BR&gt;&lt;BR&gt;La tour est déjà assez instable comme ça, pas besoin d'ajouter des soucis de propreté&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

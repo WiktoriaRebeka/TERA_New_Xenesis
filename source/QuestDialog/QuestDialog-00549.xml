@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="4">Si vous vous demandez ce que ces cadavres font là, c'est facile, c'est moi qui ai tué ces types. Ils étaient de la Confrérie libre.&lt;NEXTPAGEBUTTON&gt;"La Confrérie libre&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, vous n'avez jamais entendu parler d'elle&amp;nbsp;? Elle était composée de fermiers qui s'étaient fédérés pour exiger des marchands de Velika une revalorisation de leurs salaires. J'ignore ce qui s'est passé ensuite... mais depuis peu, ils se sont mis à attaquer tous ceux qui ont le malheur de les approcher. On dirait qu'ils ont complètement perdu la tête.&lt;NEXTPAGEBUTTON&gt;"Quelqu'un les manipulerait&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est possible.&lt;BR&gt;&lt;BR&gt;Nous obtiendrons peut-être des informations en examinant les cadavres...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1025">
+        <Page social="4">(Ce corps est très mutilé.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="1026">
+        <Page social="4">(Cette personne a eu la gorge tranchée.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="1027">
+        <Page social="4">(Ce cadavre présente une plaie ouverte à la poitrine. Un objet brillant attire votre attention.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="3" villagerId="1033">
+        <Page social="4">Vous avez trouvé ceci à l'intérieur de l'un d'entre eux&amp;nbsp;? Je me demande ce que ça peut être.&lt;BR&gt;&lt;BR&gt;Je le transmettrai au Préfet dès que possible.</Page>
+    </Text>
+</QuestDialog>

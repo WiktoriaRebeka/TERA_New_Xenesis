@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="4">Nous ne pouvons plus gérer seuls les attaques des {@LinkCreature:39#140#gardiens d’esclaves} et des {@LinkCreature:39#150#esclaves délirants} aux alentours du camp.&lt;BR&gt;&lt;BR&gt;Nous aimerions que vous les ralentissiez un peu.&lt;BR&gt;&lt;BR&gt;A moins que vous ne soyez là que pour admirer le paysage...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1009">
+        <Page social="0">Vous avez bien travaillé, &lt;PCNAME&gt; Si vous restiez, nous pourrions renvoyer un pauvre hère chez lui. Qui sait... Ce pourrait même être moi&amp;nbsp;! Ou Chamane. Les dieux savent qu’elle l’a bien mérité.</Page>
+    </Text>
+</QuestDialog>

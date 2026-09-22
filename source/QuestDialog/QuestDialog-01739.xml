@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="0">Le vol vers le Nord d'Arun n'est pas de tout repos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="4">Je combine les saveurs pour des résultats comme vous n'en avez jamais goûté. Des fraises à l'ail, du caramel au raifort&amp;nbsp;! Je vais vous transporter au paradis des arômes&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ce qui signifie que je n'ai pas le temps de livrer des commandes spéciales. Si Paesyn veut manger, Paesyn peut manger avec le reste des troupes.&lt;NEXTPAGEBUTTON&gt;"Je le lui dirai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah bon&amp;nbsp;? Voilà qui semble attentionné.&lt;BR&gt;&lt;BR&gt;Bizarre.&lt;BR&gt;&lt;BR&gt;Bon, apportez-lui ce panier-repas de fin gourmet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Nous sommes en route vers le nord d'Arun&amp;nbsp;! N'est-ce pas formidable&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"On va dire que ça stimule légèrement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ça sent la nourriture. Vous m'apportez mon déjeuner&amp;nbsp;? Quelle joie&amp;nbsp;! Vous devez vraiment m'apprécier&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Miam&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;Bon, et maintenant... Qui vais-je bien pouvoir amener à m'aimer&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je sais&amp;nbsp;! Zolyn&amp;nbsp;! Vous pensez que je devrais aller lui parler maintenant&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1001">
+        <Page social="4">Je n'ai pas pu. Son regard m'a fait baisser les oreilles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous pourriez me rendre service&amp;nbsp;? Je lui ai écrit un poème pour l'égayer, mais je n'arrive pas à le lui donner. Vous pouvez le faire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1002">
+        <Page social="4">Oui, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Paesyn a écrit ceci pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">"Il était, en Ischia, une vieillarde, qui chaque jour devenait plus gaillarde." Mais qu'est-ce que ça peut bien vouloir dire. Je viens de Popolion. &lt;BR&gt;&lt;BR&gt;Pas le temps pour de telles âneries, nous avons une mission à accomplir.&lt;BR&gt;&lt;BR&gt;N'encouragez pas Monsieur Dupelage. Rendez-vous donc utile et allez demander un rapport de la situation à Haruho, en bas.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1003">
+        <Page social="4">Tout à l'air bien ici, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pico monte aussi la garde. Allez lui demander.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1004">
+        <Page social="4">Qu'est-ce qui pourrait bien mal tourner&amp;nbsp;? Nous sommes en plein ciel&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le ciel est dégagé, la vitesse est stable, il ne peut rien nous arriver. &lt;NEXTPAGEBUTTON&gt;"Attention, vous allez nous porter la poisse."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Qu'est-ce que c'est que ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;On nous attaque&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1004">
+        <Page social="4">Qui étaient-ce&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ils doivent être sur le pont. Vous devez les arrêter.&lt;BR&gt;&lt;BR&gt;Trouvez Lekul&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1100">
+        <Page social="4">&lt;PCNAME&gt;, nous avons une bataille sur les bras&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

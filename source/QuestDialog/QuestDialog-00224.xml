@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Pour l'instant, &lt;PCNAME&gt;, vous avez botté le train des gulas, mais nous devons réduire leurs forces.&lt;BR&gt;&lt;BR&gt;Pour ce faire, nous allons devoir frapper les {@LinkCreature:8#3041#surveillants gulas} et les {@LinkCreature:8#3042#bandits kobolds}. Tout ce qu'ils peuvent enchaîner, ils le réduisent en esclavage... et l'esclavage constitue leur principal apport en or&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Ces livres... une vraie mine d'informations&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Noms des partenaires commerciaux, ceux des familles séparées… Tout y est&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais envoyer tout ça immédiatement au haut commandement. Bien joué&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Si nous les empêchons de capturer de nouveaux esclaves, il leur sera impossible d'en vendre. C'est aussi simple que ça.</Page>
+    </Text>
+</QuestDialog>

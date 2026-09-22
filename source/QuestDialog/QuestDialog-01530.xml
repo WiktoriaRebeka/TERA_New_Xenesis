@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">A moins que vous n'ayez un morceau de cuir eldritch enfouie quelque part, vous pouvez l'oublier. Je ne peux pas faire de haut-de-forme sans ce cuir et on en trouve pas n'importe où.&lt;NEXTPAGEBUTTON&gt;"Justement, j'en ai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Waouh, vous en avez vraiment&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien dans ce cas&amp;nbsp;! Quel couvre-chef spectaculaire vous irait le mieux&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Laissez-moi donc voir votre assortiment."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">S'il vous faut du cuir eldritch, vous n'avez pas de chance. Croyez-moi, vendez votre peau de sang et votre peau brute au marché pour minimiser les pertes.</Page>
+    </Text>
+</QuestDialog>

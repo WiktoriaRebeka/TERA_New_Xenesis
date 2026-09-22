@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="4">Depuis que les {@LinkCreature:40#11#éclaireuses selvaras} sont arrivées, des gens disparaissent. Ils sont peut-être vendus comme esclaves, en tous cas personne n’a demandé de rançon.&lt;BR&gt;&lt;BR&gt;Si on en tue quelques-unes, elles y réfléchiront peut-être à deux fois, alors j’offre une récompense en échange des insignes d’identification que l’on trouve sur elles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1016">
+        <Page social="4">Vous n’avez vu aucun disparu&amp;nbsp;? Pas un seul&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors ils sont sûrement déjà loin.&lt;BR&gt;&lt;BR&gt;Mais merci pour votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1016">
+        <Page social="0">Les {@LinkCreature:40#11#éclaireuses selvaras} portent certainement des insignes d’identification. C’est ce qu’il me faut.</Page>
+    </Text>
+</QuestDialog>

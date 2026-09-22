@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Vous vous rendez au labyrinthe&amp;nbsp;? Prudence, certaines statues sont en réalité des pièges.&lt;BR&gt;&lt;BR&gt;Je suis ici au nom de Kanmur, mon... ancien... commandant.&lt;BR&gt;&lt;BR&gt;Je vadrouille dans le coin depuis plusieurs jours à la recherche du misérable chien qui a découpé les cornes de Kanmur. Il s'agit d'un clown fou nommé Aleister. &lt;NEXTPAGEBUTTON&gt;"Je me souviens de lui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Vous... vous êtes &lt;PCNAME&gt;&amp;nbsp;! Oui, j'ai entendu dire que vous étiez là quand Aleister est venu à Kaiator.&lt;BR&gt;&lt;BR&gt;Je ne trouverai le repos que lorsqu'on aura mis la main sur Aleister et que les cornes du général auront retrouvé leur place.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Mer... merci.&lt;BR&gt;&lt;BR&gt;Le corps d'un Aman est incomplet sans ses cornes.&lt;BR&gt;&lt;BR&gt;Le général peut enfin reposer en paix.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1015">
+        <Page social="0">Avez-vous trouvé Aleister&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Si vous le trouvez, il est à vous. Sinon, une fois guéri, j'irai traquer ce clown pour le dépecer&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

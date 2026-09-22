@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="4">Hé, &lt;PCCLASS:lcase&gt;... Vous avez la bosse des affaires&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bon, c'est sans importance&amp;nbsp;! De toute façon, j'ai le sens des affaires pour deux. Je sens que c'est le début d'une belle amitié... lucrative... pas vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Voyez-vous, je connais un certain Hemming, de la Vallée Faevine, qui cherche des &lt;font color='#660000'&gt;champignons nébuleux&lt;/font&gt;. Étant mycologue de profession, je n'ai d'ordinaire pas de problème pour répondre à ce genre de commande, mais les bonnets-rouges ont envahi la vallée, et je ne peux pas approcher de mon coin à champignons&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Les bonnets-rouges, je les bouffe tout crus."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bien dit&amp;nbsp;! Bon, alors allez chercher ces champignons et remettez-les à Hemming, avec mes salutations.&lt;BR&gt;&lt;BR&gt;Vous n'aurez qu'à garder son paiement. Hemming étant un client fidèle, vous me rendez un grand service... Vous méritez bien une petite "prime de risque".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1007">
+        <Page social="4">Des bonnets-rouges&amp;nbsp;? Dans la vallée&amp;nbsp;? La situation avec les fées est donc encore pire que je ne le pensais&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, on peut dire qu'Hailas s'y connaît en champignons. Ceux-ci sont parfaits&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Voici la somme convenue. Merci à vous... et à Hailas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1007">
+        <Page social="0">Les &lt;font color='#660000'&gt;champignons nébuleux&lt;/font&gt; de la Vallée Faevine sont un régal. Depuis que j'y ai goûté, je ne peux plus m'en passer&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

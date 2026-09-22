@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="4">Nous avons un quota de production de bois à respecter, et ces derniers jours, nous n'avançons pas.&lt;BR&gt;&lt;BR&gt;Lennert de Boquillon ne veut rien savoir. D'un côté, ça peut avoir l'air impitoyable, mais dans un sens, je le comprends. Les soldats qui se battent sur le front se moquent de savoir si nous avons ou pas des excuses.&lt;BR&gt;&lt;BR&gt;Si nous ne parvenons pas à remettre nos équipes au travail...&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous n'avez pas l'air de vous y connaître en bûcheronnage, mais de toute façon, un bûcheron ne sert à rien s'il ne peut approcher des arbres.&lt;BR&gt;&lt;BR&gt;Donc, plutôt que d'abattre des arbres, que diriez-vous d'aller abattre quelques {@LinkCreature:2#3#centaures}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Rapportez-moi des mèches de leurs crinières, et je vous paierai. Si vous en tuez suffisamment, ils comprendront peut-être le message.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">Je n'ai jamais vu les centaures galoper aussi vite. Ils finiront par revenir, mais je leur enverrai du monde.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, nous avons obtenu de bons résultats, aujourd'hui... et c'est grâce à vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1047">
+        <Page social="0">Tuez les {@LinkCreature:2#3#centaures}, d'accord&amp;nbsp;? Ce n'est pourtant pas compliqué&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

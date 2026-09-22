@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="0">La transformation des khiriens en demokrons mettait Rhodos hors de lui et il a donc décidé de continuer à aller de l'avant avec ses troupes. Malgré l'arme de siège, l'assaut a tourné court à l'entrée de la Forteresse de Raqnan et il a donc été forcé d'élaborer une nouvelle stratégie.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="4">Maudits archidevans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il doit bien y avoir un moyen de sauver les Parthes. Si ce n'est pas le cas, nous allons devoir patauger dans le sang de nos semblables pour pouvoir vaincre nos ennemis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">C'est vrai&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vos magiciens doivent être aussi forts que les Archidevans. Ne pourraient-ils pas trouver un moyen d'annuler leur magie&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2141">
+        <Page social="4">Malheureusement, le processus de transfiguration est irréversible. Nous devons trouver un moyen de modifier ou d'empêcher l'asservissement, mais il est impossible de sauver ceux qui ont succombé.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2110">
+        <Page social="4">Si nous ne pouvons les sauver, alors il nous faut les venger.&lt;BR&gt;&lt;BR&gt;Venez, &lt;PCNAME&gt;&amp;nbsp;! Choisissez un canon de siège et escortez-le jusqu'à la travée infernale.&lt;BR&gt;&lt;BR&gt;Nous allons lancer l'assaut sur la forteresse&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="7">
+        <Page social="0">(Une arme de siège robuste. Elle vrombit en attendant un opérateur.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="191" prevId="5" villagerId="2138">
+        <Page social="4">Avant de pouvoir prendre leur forteresse d'assaut, nous devons exterminer leurs canons de siège. &lt;BR&gt;&lt;BR&gt;Réparez-en un, prenez-en les commandes et faites feu. Mais pensez bien à viser haut. La crevasse est plus large qu'elle n'en a l'air.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="191" prevId="7" villagerId="1601">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="191" prevId="8" villagerId="2138">
+        <Page social="4">Malheureusement, nous ne pouvons pas tirer sur les canons situés en haut de la muraille.&lt;BR&gt;&lt;BR&gt;Allez le rapporter à Rhodos. Il va devoir prendre une décision à ce sujet.</Page>
+    </Text>
+</QuestDialog>

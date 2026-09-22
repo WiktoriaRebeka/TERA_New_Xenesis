@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">C'est quand même un comble... le nombre de créatures qui finissent par nous tomber dessus à cause des fouaille-tripes. Maintenant, nous devons faire face aux {@LinkCreature:6#2021#phacochères grandes-défenses}.&lt;BR&gt;&lt;BR&gt;Cette histoire commence à me fatiguer. Vous iriez chasser ces bestiaux&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">Merci. Avec un peu de chance, nous allons pouvoir souffler un peu, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

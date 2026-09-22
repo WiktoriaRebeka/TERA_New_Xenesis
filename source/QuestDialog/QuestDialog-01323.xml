@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Balrug va devoir s'occuper des apprentis lui-même pendant quelques jours. Je ne peux pas encore rentrer. Je suis fauché et je dois faire parvenir un gros chargement en ville.&lt;NEXTPAGEBUTTON&gt;"Je pourrais peut-être vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hé, je n'étais pas en train de faire la charité&amp;nbsp;! C'est juste que... misère...&lt;BR&gt;&lt;BR&gt;Ecoutez, ma fille est gravement malade. Les guérisseurs disent qu'elle survivra, pour peu que je puisse lui procurer un remède spécial concocté par le Mysterium, mais il coûte un bras. Si je parviens à revendre en ville un bon nombre de peaux de premier choix, j'aurai peut-être enfin les moyens de l'acheter. Si vous voulez vraiment m'aider, allez me chasser des dents-de-sabre... Il me faut des peaux d'une qualité irréprochable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">Je n'ai pas l'habitude de devoir remercier les gens. J'ai toujours essayé de m'en sortir sans l'aide de personne, mais ces peaux vont me rapporter de quoi acheter le remède dont ma fille a besoin.&lt;BR&gt;&lt;BR&gt;J'ai une dette envers vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1032">
+        <Page social="0">Le remède dont ma fille a besoin est hors de prix. S'il vous plaît... tuez ces dents-de-sabre et rapportez-moi leurs peaux.</Page>
+    </Text>
+</QuestDialog>

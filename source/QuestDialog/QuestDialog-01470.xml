@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Le Croisement Dakonan est une route marchande essentielle.&lt;BR&gt;&lt;BR&gt;Débarrassez-la des {@LinkCreature:56#4#argousins ossombres}, des {@LinkCreature:56#5#façonneurs de sort}, {@LinkCreature:56#6#faucheuses}, {@LinkCreature:56#55#vizirs} et {@LinkCreature:56#56#ravageuses} devans, et des {@LinkCreature:56#22#chamanes} et {@LinkCreature:56#20#destructeurs} du Rocher de la Désolation.&lt;BR&gt;&lt;BR&gt;Une fois la mission terminée, faites votre rapport à Emya, à la Chute du Dragon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

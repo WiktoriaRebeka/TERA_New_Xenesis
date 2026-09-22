@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">Je comprends qu'on puisse hésiter à s'en prendre à aussi forte partie que les pirates du Fouet rouge, mais si nous ne pouvons nous remettre à pêcher, nous ferons bientôt faillite avant de mourir tout simplement de faim.&lt;BR&gt;&lt;BR&gt;Vous n'avez pas l'air d'avoir particulièrement le pied marin, mais si vous pouviez aller nous débarrasser des {@LinkCreature:11#4003#corsaires du Fouet rouge} sur la Côte déchiquetée, ça donnerait peut-être le courage aux pêcheurs de reprendre la mer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">Maintenant que les pirates de la Côte déchiquetée se sont calmés, Nerth va pouvoir motiver les pêcheurs à se remettre au travail.&lt;BR&gt;&lt;BR&gt;Cela dit, les nagas sont tenaces et ce n'est certainement pas la dernière fois que nous entendons parler des pirates du Fouet rouge.&lt;BR&gt;&lt;BR&gt;Si nous voulons assurer la sécurité des pêcheurs sur le long terme, nous allons devoir chasser les nagas de leur base située dans la Grotte des Pirates une fois pour toutes.&lt;BR&gt;&lt;BR&gt;J'ai dit "nous"&amp;nbsp;? Je voulais dire "vous".</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">Chaque chose en son temps. Commencez par vous débarrasser des templiers mekonaris sur les marches de l'autel. Ce sont les combattants mekonaris les plus redoutables, et Killian leur a donné des amulettes protectrices pour gagner leur confiance. Imaginez leur humiliation si vous les subtilisez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">De puissantes amulettes. Pour une fois que c'est nous qui les affaiblissons.&lt;BR&gt;&lt;BR&gt;La voie est libre jusqu'à l'autel, ou presque&amp;nbsp;! Ces horreurs seront bientôt terminées.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">Allez, &lt;PCCLASS&gt;&amp;nbsp;! Ces templiers nous barrent la route&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

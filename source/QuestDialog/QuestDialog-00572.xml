@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">Mon frère fait partie des mineurs qui ne sont jamais revenus. Ces monstres... Ils les ont probablement tous tués à l'heure qu'il est.&lt;BR&gt;&lt;BR&gt;Enfin... Je garde toujours cette pioche, en souvenir de lui. J'aimerais pouvoir faire parvenir ce genre de souvenirs aux familles des autres mineurs disparus.&lt;BR&gt;&lt;BR&gt;Dites, si d'aventure vous tombez sur les... dépouilles d'anciens mineurs, vous pourriez récupérer leurs effets personnels&amp;nbsp;? Ces objets apporteraient certainement du réconfort aux familles des disparus.&lt;BR&gt;&lt;BR&gt;Allez remettre tout ce que vous trouverez à Nemuro, à l'Avant-poste des Ténèbres. Il s'occupera du reste.&lt;BR&gt;&lt;BR&gt;Cela représenterait beaucoup pour nous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="2002">
+        <Page social="4">C'est gentil de votre part, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Je remettrai ces objets aux familles endeuillées dès que je serai de retour à Chebika.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="2002">
+        <Page social="0">J'ai un emploi du temps chargé, &lt;PCCLASS:lcase&gt;. Si vous avez des choses à envoyer à Chebika, faites vite.</Page>
+    </Text>
+</QuestDialog>

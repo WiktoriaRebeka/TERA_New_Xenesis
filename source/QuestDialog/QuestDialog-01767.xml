@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; a laissé Zolyn et Paesyn et s'est mis{@g:/e} en route pour percer le mystère entourant le contrôle de la Muraille des tempêtes. {@gender:Il/Elle} a découvert une grotte cachée.&lt;BR&gt;&lt;BR&gt;A l'intérieur de cette grotte se trouvait une porte inconnue gardée par l'armée impériale archidevanne.&lt;BR&gt;&lt;BR&gt;Après avoir vaincu les gardes, &lt;PCNAME&gt; a découvert que la porte était reliée à l'Energia Celo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">C'est un endroit fétide et pitoyable. Cela ne présage rien de bon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="818" prevId="2" villagerId="1112">
+        <Page social="4" voiceTypeId="0">Je vous ai vu disposer de ces Archidevans, là-bas, &lt;PCNAME&gt;. Désolé de n'avoir pas pu vous aider, mais je comptais aller chercher de l'aide si nécessaire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Zolyn est en route.&lt;NEXTPAGEBUTTON&gt;"Parfait. Quand elle arrivera, dites-lui que j'ai pris les devants."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

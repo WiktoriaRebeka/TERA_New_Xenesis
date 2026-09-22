@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="4">Faites bien attention, je ne le répéterai pas.&lt;BR&gt;&lt;BR&gt;Au centre du repaire, vous allez tomber sur des {@LinkCreature:39#130#matriarches arachnéennes}. Ce ne sont pas les créatures les plus fortes de la région, mais elles ont une carapace très dure, ce qui pourrait nous servir.&lt;BR&gt;&lt;BR&gt;Collectez des carapaces et rapportez-les à Paicha, à l'Avant-poste du Scélérat. Il s'occupera du reste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1010">
+        <Page social="4">Des carapaces arachnéennes, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oui, ça pourrait me permettre de réparer certaines armures lourdes. Merci pour le coup de main&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1010">
+        <Page social="0">Vous avez quelque chose pour moi&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

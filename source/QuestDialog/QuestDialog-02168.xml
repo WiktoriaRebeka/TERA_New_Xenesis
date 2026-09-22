@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Nos vivres commencent à diminuer. Enfin, on en a presque plus, même. {@LinkCreature:63#3003#Elthienne} veut que quelqu'un aille tout de suite aux {@Rgn:7001#Collines célestes} pour nous rapporter des rations.&lt;BR&gt;&lt;BR&gt;Dites-lui que vous êtes disponible, puisque ça a l'air d'être le cas. Regardez-moi comme je tremble&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, Taratia vous a-t-elle dit que quelqu'un doit se rendre aux {@Rgn:7001#Collines célestes} pour une bonne partie de chasse à l'ancienne&amp;nbsp;? Vous pourriez vous en charger&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Youpi&amp;nbsp;! {@LinkCreature:63#3003#Elthienne} va être tellement contente de vous revoir. Nous sommes presque morts de faim.&lt;BR&gt;&lt;BR&gt;C'est quand même inimaginable, non, dans une grande ville&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Allez chasser des {@LinkCreature:7#1#mercenaires naga} dans les {@Rgn:7001#Collines célestes} et rapportez-moi de la viande fraîche.&lt;BR&gt;&lt;BR&gt;Vite&amp;nbsp;! Je n'ai jamais eu aussi faim de ma vie. C'est inimaginable comme les gens sont égoïstes, par ici. Pour la solidarité, on a déjà vu mieux.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Elle est fraîche, hein&amp;nbsp;? Elle sent bon.&lt;BR&gt;&lt;BR&gt;Prévenez {@LinkCreature:63#3003#Elthienne} de votre retour. Parce qu'elle ne peut sans doute pas vous voir. Je plaisante.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Allez chasser des {@LinkCreature:7#3#kumas indolents} dans les {@Rgn:7001#Collines célestes} et rapportez-moi de la graisse de kuma.&lt;BR&gt;&lt;BR&gt;C'est vraiment bon, vous savez. Et puis, ce n'est pas comme si je pouvais jouer la fine bouche.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">J'ai hâte de nous cuisiner ça. Merci, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} a votre récompense.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Allez chasser des {@LinkCreature:7#4#kumas amorphes} dans les {@Rgn:7001#Collines célestes} et rapportez-moi de la graisse de kuma.&lt;BR&gt;&lt;BR&gt;Si on n'avait pas aussi faim, on pourrait en faire du rouge à lèvres. Il faut le teindre, bien sûr, si vous voulez vraiment avoir des lèvres pulpeuses. Enfin, ça vous irait peut-être pas si bien que ça, hein.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Merci, &lt;PCNAME&gt;. C'est merveilleusement frais. Vous voulez revenir pour le dîner&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} se fera une joie de rajouter un couvert à table si c'est pour vous.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Allez chasser des {@LinkCreature:7#23#mercenaires mastodontes} dans les {@Rgn:7001#Collines célestes} et rapportez-moi de la viande. C'est du coriace, mais séché et salé, c'est mangeable.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Que les dieux soient loués de vous avoir fait venir jusqu'à nous, &lt;PCNAME&gt;. Vous nous avez sauvés.</Page>
+    </Text>
+</QuestDialog>

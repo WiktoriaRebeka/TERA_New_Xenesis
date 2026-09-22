@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">Combien d'atrocités ont été commises au nom de cette guerre&amp;nbsp;? Chaque nuit, je revis l'attaque des {@LinkCreature:32#6#défenseurs sihrans} et je revois les actes de barbarie qu'ils ont commis lors du siège d'Acarum.&lt;BR&gt;&lt;BR&gt;Si personne ne s'occupe d'eux, ils reviendront un jour ou l'autre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">J'espère que ça mettra un terme à mes cauchemars... mais au pire, mieux vaut cauchemarder des défenseurs sihrans que de se faire démembrer par ces monstres dans la réalité des choses.&lt;BR&gt;&lt;BR&gt;Maintenant, allez parler à {@LinkCreature:232#1002#Hallaj}, du Fortin des Irréductibles situé sur le versant sud du Mont Tyrannas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">Chaque coup dur pour les sihrans joue en notre faveur. Votre réussite, c'est celle de la Fédération.</Page>
+    </Text>
+</QuestDialog>

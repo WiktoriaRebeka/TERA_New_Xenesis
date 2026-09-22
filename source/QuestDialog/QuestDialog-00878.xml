@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">On s'est assez battu couloir par couloir, escalier par escalier. Il est temps de régler le problème à la façon du Mysterium.&lt;BR&gt;&lt;BR&gt;Prenez ce brouilleur et installez-le sur chacun des trois appareils d'écèse... dans le bon ordre.&lt;BR&gt;&lt;BR&gt;Cela devrait priver d'énergie les fantômes invisibles. Et sans ces fantômes, Thulsa perdra le contrôle des morts-vivants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1015">
+        <Page social="0">(Vous installez le brouilleur. L'appareil d'écèse arrête de bourdonner, gémit comme un animal blessé, puis c'est le silence. L'atmosphère de la pièce semble soudain moins étouffante.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1016">
+        <Page social="0">(Vous installez le brouilleur. L'appareil d'écèse arrête de bourdonner, gémit comme un animal blessé, puis c'est le silence. L'atmosphère de la pièce semble soudain moins étouffante.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="4" villagerId="1017">
+        <Page social="0">(Vous installez le brouilleur. L'appareil d'écèse arrête de bourdonner, gémit comme un animal blessé, puis c'est le silence. L'atmosphère de la pièce semble soudain moins étouffante.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1008">
+        <Page social="4">A présent, Thulsa va avoir beaucoup de mal à donner aux morts-vivants la magie nécromantique dont ils ont besoin.&lt;BR&gt;&lt;BR&gt;C’est une victoire sur toute la ligne, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

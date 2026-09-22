@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="4">C'est une catastrophe, &lt;PCNAME&gt;, la situation est encore pire que je ne le pensais. Les tuwangis s'en prennent maintenant à tous ceux qui s'aventurent dans leur réserve&amp;nbsp;! Un {@LinkCreature:205#1006#marchand} y est entré dernièrement pour affaires... vous pourriez aller le chercher&amp;nbsp;? Ramenez-le ici ou faites au moins en sorte qu'il puisse sortir de là. Il se nomme Boermas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="4">Jaedon vous envoie me protéger&amp;nbsp;? C'est fort gentil, mais il s'y prend un peu tard.&lt;BR&gt;&lt;BR&gt;Quand je suis arrivé ici, les tuwangis m'ont accueilli à bras ouverts. Ils m'ont offert de la nourriture... je n'ai compris que trop tard qu'elle était empoisonnée.</Page>
+    </Text>
+</QuestDialog>

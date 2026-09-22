@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez fait savoir à Seir que vous avez convaincu le commandant Tamur. Le commandant Seir en était ravi et vous a indiqué que l'aéronef était prêt à vous emmener dans le nord d'Arun avec l'avant-garde de Valkyon. Seir vous a prié d'aller retrouver l'avant-garde de Valkyon sur l'Embarcadère, à proximité de Velika. Sur l'Embarcadère, les préparatifs de l'expédition du croiseur céleste l'Intrépide battaient déjà leur plein. Vous avez rendu un service à Tonas, un marchand que vous avez rencontré là, et êtes ensuite retourné sur l'Embarcadère du croiseur céleste l'Intrépide.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Lettre de Dougal]&lt;BR&gt;&lt;BR&gt;Vous faites maintenant partie de l'Avant-garde de Valkyon. &lt;BR&gt;Je soupçonnais Kaiator de prévoir une grande offensive sur les argons, mais il s'avère que mes craintes étaient infondées. &lt;BR&gt;J'ai entendu dire que Kaia vous a autorisé à vous rendre dans le Nord. &lt;BR&gt;La paix d'Arborea dépend du succès de notre expédition. &lt;BR&gt;&lt;BR&gt;J'attends votre arrivée. &lt;BR&gt;&lt;BR&gt;Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1507">
+        <Page social="4" voiceTypeId="0">N'hésitez pas à poser toutes les questions qui vous préoccupent.&lt;BR&gt;À condition de ne pas me demander mon âge... héhéhé !&lt;NEXTPAGEBUTTON&gt;"J'ai besoin d'un moyen de transport pour voyager au nord d'Arun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Un aéronef ! C'est un engin volant créé pour fendre les airs grâce à un propulseur prodigieux ! &lt;BR&gt;&lt;BR&gt;Le croiseur céleste l'Intrépide est même le premier aéronef à pouvoir accueillir toute une escouade d'exploration. Il a été créé pour le voyage au nord d'Arun... un endroit inconnu que la muraille noire rendait jusqu'à présent inaccessible. &lt;BR&gt;&lt;BR&gt;N'est-ce pas extrêmement enthousiasmant ? La première aventure dans un monde inconnu ?&lt;NEXTPAGEBUTTON&gt;"Et où se trouve donc le croiseur céleste l'Intrépide ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pardon !? Vous voulez partir sur-le-champ ? Je voulais tout d'abord vous demander un service !&lt;BR&gt;&lt;BR&gt;Pff ! Ne prenez pas la mouche et aidez-moi donc. D'autant que le croiseur céleste met du temps à décoller !&lt;NEXTPAGEBUTTON&gt;"En quoi puis-je vous être utile ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous sommes en train d'organiser le ravitaillement du croiseur céleste, mais nous sommes tombés sur quelques os.&lt;BR&gt;&lt;BR&gt;Hemo peut vous assigner quelques tâches. Tout cela concerne votre nouvelle mission. Assez parlé.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1242">
+        <Page social="4" voiceTypeId="0">Quel plaisir de vous voir&amp;nbsp;! Si nous n'arrivons pas à charger ces provisions, j'en perdrai ma fourrure&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le chariot de ravitaillement est parti avant que nous n'ayons pu récupérer l'huile de fleurs d'ambre. Elle se consume lentement et ne fume pas, ce qui en fait le combustible idéal pour les aéronefs.&lt;NEXTPAGEBUTTON&gt;"Il vous en faut combien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pas grand-chose !&lt;BR&gt;&lt;BR&gt;Vous voyez ces moutons ? Ils adorent manger des fleurs d'ambre. Cueillez-en quelques-unes et ramenez-les moi.&lt;BR&gt;&lt;BR&gt;Je m'occuperai du reste.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1242">
+        <Page social="4" voiceTypeId="0">Bien, bien. Voilà qui devrait suffire. On aplatit tout ça...&lt;BR&gt;&lt;BR&gt;Et voilà&amp;nbsp;! Une caisse, conformément à la demande du quartier-maître.&lt;BR&gt;&lt;BR&gt;Il ne reste qu'une petite étape.&lt;NEXTPAGEBUTTON&gt;"La livraison&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Tout à fait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Un commerçant du nom de Tonas vient tout juste de se mettre en route pour la plate-forme de l'aéronef. Mais sa charrette n'avance pas bien vite. Vous n'aurez sans doute aucun mal à le rattraper.&lt;NEXTPAGEBUTTON&gt;"Ce sera tout&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Rien à ajouter.&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1242">
+        <Page social="0">Vous n'en avez pas encore assez. Continuez à cueillir des fleurs d'ambre.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1534">
+        <Page social="4" voiceTypeId="0">Je ne l'ai pas vu venir. C'est arrivé de nulle part et a percuté ma charrette.&lt;BR&gt;&lt;BR&gt;Les chevaux ont été pris de panique et ont arraché leurs harnais.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je peux peut-être vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous avez ma gratitude, mais l'impact a brisé les essieux. Il me faut tout d'abord réparer le chariot.&lt;BR&gt;&lt;BR&gt;Le problème c'est que je n'ai rien qui me permette de faire une réparation de fortune.&lt;NEXTPAGEBUTTON&gt;"Et donc, vous avez besoin de bois&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tout à fait&amp;nbsp;! Ces ghilliedus et ces mycanars feront l'affaire, mais ils ne se laisseront pas faire.&lt;BR&gt;&lt;BR&gt;J'ai besoin de quelques branches bien solides. Voyez ce que vous pouvez faire, pendant que je cherche mes outils.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1534">
+        <Page social="4" voiceTypeId="0">Ils sont partis&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Qui ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ces satanés ours ont attaqué ma charrette&amp;nbsp;! Ils ont mangé des provisions, ont cassé mon siège et m'ont poussé à mouiller mon pantalon avant que les gardes ne les chassent&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il faut que je trouve un moyen de remplacer la nourriture perdue.&lt;NEXTPAGEBUTTON&gt;"Est-ce que de la viande d'ours ferait l'affaire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ha&amp;nbsp;! Effectivement&amp;nbsp;! Que Velik vous bénisse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci, un grand merci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous me ramenez un peu de viande et je m'occupe de réparer ces essieux.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Il me faut au moins 5 branches pour pouvoir finir mes réparations. Vous pouvez m'en rapporter encore quelques-unes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="1534">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, vous êtes {@gender:le/la} meilleur{@g:/e}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais livrer cette cargaison au quai aéronaval puis acheter des nouveaux chevaux.&lt;BR&gt;&lt;BR&gt;Un grand merci. Que Velik vous guide dans votre aventure&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Le temps presse, soldat.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="4">Les gulas ont bien évidemment laissé à des esclaves le soin de creuser cet endroit&amp;nbsp;! Ils les ont asservis grâce à la magie, et les souffrances endurées par les esprits des esclaves les empêchent de rejoindre l'au-delà... le Rêve... ils sont piégés ici.&lt;BR&gt;&lt;BR&gt;Allez tuer les {@LinkCreature:8#4021#poporis ranimés} et rapportez moi leurs pioches. Elles pourraient bien m'être utiles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1035">
+        <Page social="4">J'espère juste que ces pauvres esprits vont enfin pouvoir retourner dans le Rêve.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1035">
+        <Page social="0">Si vous deviez revenir d'entre les morts sous la forme d'un esclave, je n'hésiterais pas à vous tuer. C'est ce que vous attendriez de moi, non&amp;nbsp;?!</Page>
+    </Text>
+</QuestDialog>

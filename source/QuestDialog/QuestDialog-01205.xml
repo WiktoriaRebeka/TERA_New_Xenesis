@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Ces saletés de {@LinkCreature:47#2003#gulas argonomorphes} rôdent toujours à proximité de la {@Rgn:47003$$Tête de pont} de la {@Rgn:47001$$Forêt de Tirkai}. Sans parler des {@LinkCreature:47#1003#mugatos argonomorphes} et des {@LinkCreature:47#2002#fées argonomorphes}.&lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine}, de la {@Rgn:47006$$Base de la Folie}, tient à les voir disparaître. Honnêtement, on la comprend.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez la prévenir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Vous nous avez été d'une aide précieuse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">Occupez-vous de ces {@LinkCreature:47#1003#mugatos argonomorphes}, {@LinkCreature:47#2002#fées argonomorphes} et autres {@LinkCreature:47#2003#gulas argonomorphes}. Repassez une fois que vous aurez atteint vos objectifs.</Page>
+    </Text>
+</QuestDialog>

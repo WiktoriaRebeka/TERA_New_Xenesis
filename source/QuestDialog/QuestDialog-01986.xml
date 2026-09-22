@@ -1,0 +1,110 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Laaran, le magistrat de Tria, vous recherche.&lt;BR&gt;Allez parler à Laaran.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez appris que la Forteresse sanglante, où les villageois s'étaient réfugiés face à l'épidémie, n'était plus sûre non plus.&lt;BR&gt;Un nouveau camp a donc été érigé en collaboration avec les hommes de Jordal, pour sauver et protéger les villageois. Mais sur la route menant à la Forteresse sanglante, ils ont aperçu une gigantesque forteresse volante.&lt;BR&gt;Des papillons semblables à ceux aperçus dans le rêve de Velik se sont échappés de la forteresse pour attaquer l'aéronef.&lt;BR&gt;Vous êtes accouru sur le site du crash et avez sauvé les survivants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="1" villagerId="1011">
+        <Page social="0" voiceTypeId="0">J'ai décidé d'envoyer les villageois dans la Forteresse sanglante.&lt;BR&gt;Nous avons affrété un aéronef à leur intention et je vous serais reconnaissant de les aider à y embarquer.&lt;BR&gt;&lt;BR&gt;Je pourrais le faire, mais je crois que les villageois seront rassurés si vous vous en chargez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1020">
+        <Page social="0" voiceTypeId="0">Nous avons bien fait d'avertir Jordal au préalable.&lt;BR&gt;Notre absence risque de durer et nous devrions donc emporter des vivres dans la forteresse.&lt;BR&gt;Quelques fruits feront l'affaire. Ah, et aussi un remède contre la nausée. Et peut-être un manteau : il risque de faire froid.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="3" villagerId="1039">
+        <Page social="0" voiceTypeId="0">Les recrues n'ont encore jamais vu la moindre bataille et je ne suis donc pas certain qu'ils pourront protéger les villageois à leur arrivée dans la Forteresse sanglante.&lt;BR&gt;&lt;BR&gt;Mais il se peut aussi que quelqu'un d'aussi talentueux que vous se cache parmi ces recrues. Après tout, les aptitudes d'un soldat se révèlent au cœur des combats et non pas pendant l'entraînement.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Quand l'éclat d'une étoile surpasse celui de sa voisine, cela ne signifie pas pour autant que l'autre étoile s'éteint.&lt;BR&gt;&lt;BR&gt;Je tiens à vous exprimer ma gratitude, non seulement envers vous, mais aussi envers les nombreux soldats ordinaires que votre personnalité radieuse occulte.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="70" prevId="3" villagerId="1042">
+        <Page social="0" voiceTypeId="0">Si la Forteresse sanglante est notre destination, alors un aéronef serait certainement nettement plus sûr. &lt;BR&gt;&lt;BR&gt;Puisque nous manquions de troupes, nous n'avons même pas pu aller examiner les reliques. Mais au moins, l'aéronef nous conduira à la Forteresse sanglante de manière rapide et sûre.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="70" prevId="4" villagerId="1011">
+        <Page social="0" voiceTypeId="0">L'évacuation des villageois me fend le cœur.&lt;BR&gt;&lt;BR&gt;J'aimerais vous prier de donner le départ de l'aéronef à ma place.&lt;BR&gt;&lt;BR&gt;Je n'ai pas le courage de me montrer aux villageois, car je n'ai pas réussi à protéger le village.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="70" prevId="8" villagerId="1064">
+        <Page social="0" voiceTypeId="0">Que va-t-il donc advenir de ce village ?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="70" prevId="9" villagerId="1065">
+        <Page social="0" voiceTypeId="0">Nous allons bientôt pouvoir rentrer, n'est-ce pas ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="10" villagerId="1066">
+        <Page social="0" voiceTypeId="0">Tout ira bien.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="70" prevId="11" villagerId="1067">
+        <Page social="0" voiceTypeId="0">Notre seule consolation est que cela nous donnera l'occasion de voir les reliques de plus près.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="12" villagerId="1063">
+        <Page social="0" voiceTypeId="0">Dans l'aéronef, on peut entendre les villageois discuter.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1053">
+        <Page social="0" voiceTypeId="0">Le fait que l'aéronef ait déjà décollé est très problématique.&lt;BR&gt;&lt;BR&gt;Plusieurs rapports crédibles affirment qu'une poudre orangée s'échappe de la Forteresse sanglante. Nous devons immédiatement localiser l'aéronef et essayer de lui faire faire demi-tour. &lt;BR&gt;&lt;BR&gt;Si l'aéronef arrive à la Forteresse sanglante avant nous, nous devons ressortir les villageois indemnes de la forteresse.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" prevId="14" villagerId="1011">
+        <Page social="0" voiceTypeId="0">Comment ai-je bien pu ? J'ai fait courir un grand danger au village, mais aussi à tous les villageois.&lt;BR&gt;&lt;BR&gt;La vallée... oui... L'aéronef doit survoler la Vallée de la sérénité.&lt;BR&gt;Velnen y est stationné : allez le retrouver et il pourra vous donner la position actuelle de l'aéronef. Allez-y de ce pas !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vais vous amener à la Base de libération où Velnen demeure.&lt;BR&gt;Voulez-vous y aller sur-le-champ ?</Page>
+    </Text>
+    <Text id="16" huntingZoneId="227" prevId="15" villagerId="1008">
+        <Page social="0" voiceTypeId="0">De toute évidence, puisque l'aéronef avance plus vite que nous, qui cheminons au sol, il arrivera à la Forteresse sanglante avant nous.&lt;BR&gt;&lt;BR&gt;Mais les monstres enragés contrôlent non seulement les routes, mais également les postes d'observation et il risque donc de s'avérer extrêmement difficile de se frayer un passage jusqu'à l'aire d'atterrissage.&lt;BR&gt;Inutile de préciser qu'il sera infiniment plus compliqué de faire la route inverse en compagnie des villageois.&lt;BR&gt;&lt;BR&gt;Si vous avez quelques camarades, vous devriez les envoyer là-bas pour qu'ils protègent les villageois après l'atterrissage. Que diriez-vous de nous aider à reconquérir le camp, &lt;PCNAME&gt; ?&lt;NEXTPAGEBUTTON&gt;"C'est une bonne idée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si vous parvenez à sécuriser les environs des quatre postes détruits et à réparer chacun des postes, la troupe de défense pourra progressivement reconquérir les camps et préparer ainsi la protection des villageois.&lt;BR&gt;&lt;BR&gt;Je vous prie de commencer par le poste le plus proche.&lt;BR&gt;Éliminez les phacochères mutants et restaurez le portail du premier poste.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="227" prevId="16" villagerId="1033">
+        <Page social="0" voiceTypeId="0">Velnen a sans doute pris la bonne décision.&lt;BR&gt;Non seulement, il est important d'avoir des troupes pour défendre les villageois, mais il nous faut aussi quelqu'un pour sécuriser le chemin du retour pour les villageois.&lt;BR&gt;&lt;BR&gt;Puisque Jelena et moi sommes spécialisés dans l'infiltration, nous allons aider la troupe de défense à reconquérir les postes.&lt;NEXTPAGEBUTTON&gt;"Ça se tient."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Jelena et moi allons chercher l'aéronef, y protéger les villageois et attendre les forces armées de la troupe de défense.&lt;BR&gt;&lt;BR&gt;Une fois que vous aurez repris les défenses d'Essénia et les postes afin de permettre aux villageois de rentrer sans danger, vous pourrez nous rejoindre.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="227" prevId="17" villagerId="1034">
+        <Page social="0" voiceTypeId="0">C'est un honneur de vous accueillir ici. Je m'appelle Hudere, et j'ai été provisoirement nommé centurion à la place de Velnen.&lt;BR&gt;&lt;BR&gt;Je vous remercie d'avoir rétabli le portail. &lt;BR&gt;Je vais veiller à la bonne marche du poste en le ravitaillant. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">L'endroit est infesté de monstres vulcains et nous n'allons donc pas pouvoir y arriver seuls. Ils semblent bien plus puissants que les phacochères ordinaires.&lt;BR&gt;&lt;BR&gt;Pourrais-je vous prier d'éliminer les monstres vulcains aux alentours du poste pour que le charriot de ravitaillement arrive à destination sans encombres ?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="227" prevId="18" villagerId="1035">
+        <Page social="0" voiceTypeId="0">Je vous remercie d'avoir rétabli le portail.&lt;BR&gt;Grâce à vous, les ravitaillements ont pu être acheminés sans complication.&lt;BR&gt;&lt;BR&gt;Nous voulons maintenant marcher sur le poste suivant.&lt;BR&gt;Mais puisque notre canon de siège est défectueux, nous avons bien du mal à progresser rapidement jusqu'au poste.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous pourriez peut-être transporter le canon de siège jusqu'au poste suivant ?&lt;BR&gt;&lt;BR&gt;Certes, il est défectueux, mais si nous parvenons à la réparer au prochain poste, ce sera un atout précieux pour la suite.&lt;BR&gt;&lt;BR&gt;Il est fort endommagé et il faut donc faire très attention à ce qu'aucun monstre ne l'attaque.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="27" villagerId="1019">
+        <Page social="0">Il semble ne plus avoir beaucoup de carburant.&lt;BR&gt;Dépêchons-nous.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="227" prevId="19" villagerId="1038">
+        <Page social="0" voiceTypeId="0">Je vous admire, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je vous admire depuis que vous avez réglé leur compte aux descendants de Lok.&lt;BR&gt;Mais voilà que je bavarde au lieu de vous faire mon rapport.&lt;BR&gt;&lt;BR&gt;Quand Pluie argentée a tenté de prendre le 3e poste avec ses soldats, certains d'entre eux ont été blessés par des rejetons à crocs gueule-infernale contaminés.&lt;BR&gt;&lt;BR&gt;En conséquence, Pluie argentée vous prie de bien vouloir vous charger du 4e poste, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Qu'est-il advenu des soldats blessés ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Suite à l'assaut des rejetons à crocs gueule-infernale contaminés, les soldats semblent avoir perdu toute leur ardeur au combat.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; si vous capturez quelques monstres sur la route du 4e poste et montrez ensuite leurs dents aux soldats, ils devraient retrouver leur combattivité.&lt;BR&gt;&lt;BR&gt;Certes, le canon de siège devrait permettre de capturer ces monstres, mais vous y arriverez aussi sans peine, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="227" prevId="21" villagerId="1037">
+        <Page social="0" voiceTypeId="0">Je vous ai vu éliminer les rejetons à crocs gueule-infernale.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous avez redonné courage aux soldats. Je vous en remercie.&lt;NEXTPAGEBUTTON&gt;"Tenez bon, vos blessures seront bientôt guéries."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Maintenant que nous avons reconquis tous les postes, il ne nous reste qu'à secourir les villageois pour que la défense repousse une bonne fois pour toutes l'assaut des monstres cristallisés.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="27" prevId="22" villagerId="1000">
+        <Page social="0" voiceTypeId="0">J'ai entendu dire que vous restauriez les postes et ai donc accouru sur-le-champ.&lt;BR&gt;&lt;BR&gt;L'aéronef se trouve déjà dans la Forteresse sanglante.&lt;BR&gt;&lt;BR&gt;Nous devons nous empresser de traquer l'aéronef.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="27" prevId="23" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Apparemment, quelque chose d'horrible vient de se produire.&lt;BR&gt;&lt;BR&gt;Nous devons rejoindre la forteresse au plus vite pour secourir les villageois.&lt;BR&gt;&lt;BR&gt;Lian a bien affirmé qu'il comptait se rendre dans la forteresse, mais avec un tel séisme, il est peut-être lui-même en danger.&lt;NEXTPAGEBUTTON&gt;"... !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Avancer ensemble nous ferait perdre du temps.&lt;BR&gt;Allons-y chacun de notre côté.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="27" prevId="24" villagerId="1001">
+        <Page social="0" voiceTypeId="0">Des monstres ont envahi la forteresse... des papillons !&lt;BR&gt;&lt;BR&gt;Ces papillons diffusent une poudre orangée partout dans la forteresse.&lt;BR&gt;&lt;BR&gt;J'ai laissé mes camarades derrière. Si nous n'exterminons pas ces papillons sur-le-champ, tous ceux qui se trouvent dans la forteresse vont se transformer en pierres orangées.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="27" prevId="25" villagerId="1015">
+        <Page social="0" voiceTypeId="0">L'aéronef a soudain été...&lt;BR&gt;&lt;BR&gt;J'ai perdu mon époux. Que vais-je bien pouvoir faire ?&lt;BR&gt;&lt;BR&gt;Il est sans doute encore en vie.&lt;BR&gt;Je vous en supplie, promettez-moi de le retrouver !&lt;BR&gt;Sans cela, je ne peux pas m'en aller.&lt;NEXTPAGEBUTTON&gt;"Je vais retrouver votre époux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci ! Un grand merci.&lt;BR&gt;Je vais prier pour votre salut et celui de mon époux.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="27" prevId="26" villagerId="1016">
+        <Page social="0" voiceTypeId="0">Tout d'un coup, des papillons ont encerclé l'aéronef, après quoi il a perdu l'équilibre et s'est écrasé au sol.&lt;BR&gt;&lt;BR&gt;Les gens se sont enfuis en criant, mais je n'ai pas pu voir ce qui leur est ensuite arrivé.&lt;NEXTPAGEBUTTON&gt;"Calmez-vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je ne sais pas ce qui s'est passé. Aidez-moi !&lt;BR&gt;&lt;BR&gt;Là-dedans, il y a encore des Humains qui n'ont pas réussi à se mettre à l'abri. Dépêchez-vous d'aller les secourir !</Page>
+    </Text>
+    <Text id="28" huntingZoneId="27" prevId="27" villagerId="1017">
+        <Page social="0" voiceTypeId="0">Le cadavre est recouvert de sang et de poudre de cristal.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="27" prevId="28" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Ah, voilà la grotte.&lt;BR&gt;&lt;BR&gt;Il y a encore des survivants ? &lt;BR&gt;Alors cherchez-les ! &lt;BR&gt;Pendant ce temps, nous allons détourner l'attention des papillons. &lt;BR&gt;Envoyez-moi tous les rescapés.</Page>
+    </Text>
+    <Text id="30" huntingZoneId="27" villagerId="1018">
+        <Page social="0">Ils semblent avoir perdu toutes leurs forces. Nous devrions les emmener voir Lian.</Page>
+    </Text>
+    <Text id="31" huntingZoneId="27" prevId="29" villagerId="502">
+        <Page social="0" voiceTypeId="0">Puisque vous faites partie de la fédération, vous devriez faire votre rapport à Seir.&lt;BR&gt;Nous devrions les aider conformément à la décision de la fédération.&lt;BR&gt;&lt;BR&gt;Jelena et moi-même allons observer la forteresse aérienne.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai ici encore quelques parchemins. Utilisez celui-ci pour rejoindre l'entrée de la forteresse.&lt;BR&gt;&lt;BR&gt;Si le destin le veut bien, nous nous reverrons.&lt;BR&gt;&lt;BR&gt;[Attention : si vous mettez fin à la discussion, vous serez automatiquement téléporté.]</Page>
+    </Text>
+    <Text id="32" huntingZoneId="227" prevId="31" villagerId="1008">
+        <Page social="0" voiceTypeId="0">Vous êtes indemne. Tant mieux.&lt;BR&gt;&lt;BR&gt;Le crash de l'aéronef...&lt;BR&gt;Je n'aurais jamais pu l'imaginer.&lt;BR&gt;Seraient-ce là tous les survivants ?&lt;NEXTPAGEBUTTON&gt;"Tout à fait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Reposez-vous un peu.&lt;BR&gt;Je vais m'occuper des villageois.</Page>
+    </Text>
+</QuestDialog>

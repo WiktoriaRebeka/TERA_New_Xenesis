@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="5">Bienvenue au cœur de l'action, soldat&amp;nbsp;! Vous avez rencontré le vieux Cafnil&amp;nbsp;? Il a déjà essayé de vous tuer&amp;nbsp;? Restez avec nous... et tout se passera pour le mieux.&lt;BR&gt;&lt;BR&gt;Notre mission consiste à démanteler la chaîne d'approvisionnement du Culte. Regardez, vous voyez cette grande ferme, au nord&amp;nbsp;? Un groupe de cinglés totalement épuisés est en train d'y suer sang et eau, sous les ordres d'autres cinglés pour leur part en pleine forme.&lt;BR&gt;&lt;BR&gt;C'est donc eux qui doivent mourir en priorité&amp;nbsp;! Eliminez les {@LinkCreature:17#103#surveillants de Chute-céleste} et leurs {@LinkCreature:17#102#ouvriers}. Hmm... et récupérez tous les outils que vous pourrez&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1022">
+        <Page social="5">C'est bon&amp;nbsp;? Combien, au juste&amp;nbsp;? Oooh, ça doit être ma pagaille là-bas&amp;nbsp;! C'est du très bon travail.&lt;BR&gt;&lt;BR&gt;Ne vous éloignez pas trop... Nous avons encore du pain sur la planche&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1022">
+        <Page social="0">Allez voler les outils des {@LinkCreature:17#103#surveillants de Chute-céleste}. Et si des {@LinkCreature:17#102#Ouvriers de Chute-céleste} viennent vous chercher des noises, vous savez quoi faire.</Page>
+    </Text>
+</QuestDialog>

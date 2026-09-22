@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="4">Tout le monde est parti exterminer les vampires, mais je ne pense pas que ce soit la meilleure ligne de conduite. Je pense que nous pourrions... les guérir... en admettant que nous comprenions ce qui leur arrive.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, ils sont plus forts que jamais. En examinant leur sang, je parviendrai peut-être à comprendre pourquoi.&lt;BR&gt;&lt;BR&gt;Si vous alliez me chercher quelques &lt;font color='#660000'&gt;échantillons de sang&lt;/font&gt;, je pourrais me mettre au travail. Essayez donc d'en prélever sur les {@LinkCreature:16#2301#demoiselles sanglantes}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1003">
+        <Page social="4">Ce… ce n'est pas ce à quoi je m'attendais. Je ne peux même pas lire ces résultats. Je peux cependant dire que ça ne résulte pas d'un changement de régime.&lt;BR&gt;&lt;BR&gt; Je pense même qu'une sombre magie se cache derrière tout ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1003">
+        <Page social="0">Avez-vous amené le sang dont j'ai besoin&amp;nbsp;? Donnez-le-moi si vous l'avez.</Page>
+    </Text>
+</QuestDialog>

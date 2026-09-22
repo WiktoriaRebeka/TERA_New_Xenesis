@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0">Il y a encore à faire, mais vous allez être {@g:transféré/transférée}. Vous avez fait du bon travail, je regrette de devoir vous laisser partir.&lt;BR&gt;&lt;BR&gt;Rendez-vous à l'Ile Kerozen et allez parler à Ecryl sur la Tête de Pont. Rompez&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="0">C'est la forteresse naga la plus importante de la partie sud d'Arun. Si nous parvenons à les contenir, ce sera un plus pour tout le monde.&lt;BR&gt;&lt;BR&gt;On dit que ces vermines rampantes sont en train de tenter de réveiller Dagon. Laissons-les perdre leur temps et gaspiller leurs ressources. Ils n'en seront que plus simples à combattre. Allez demander à Edine comment vous pouvez vous rendre utile et mettez-vous au travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1002">
+        <Page social="0">L'Ile Kerozen est un endroit dangereux, mais d'une grande importance, d'un point de vue stratégique. A peu près tout ce qui y vit ne songe qu'à nous exterminer, alors vous ne devriez pas vous y sentir trop {@gender:dépaysé/dépaysée}, pas vrai, &lt;PCNAME&gt;&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

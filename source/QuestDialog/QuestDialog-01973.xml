@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai découvert où se trouve la deuxième pierre précieuse. Venez me voir à Hautegarde.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva vous a fait savoir où trouver la deuxième pierre précieuse, celle du ciel.&lt;BR&gt;Vous avez arraché la victoire au Trône céleste et obtenu la pierre précieuse de la terre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Vous voilà de retour !&lt;br&gt;&lt;BR&gt;J'ai découvert où se trouve la deuxième pierre précieuse.&lt;br&gt;&lt;BR&gt;Il s'agit de la pierre précieuse du ciel, qui se trouve tout près d'ici !&lt;BR&gt;&lt;BR&gt;Le nom de &lt;font color='#FF0000'&gt;Veigas&lt;/font&gt;, ça vous dit quelque chose ?&lt;NEXTPAGEBUTTON&gt;"Non."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est une animatrice légendaire qui a contribué à la construction de Bamarama, qui fait partie de la Ferme de Lein.&lt;BR&gt;&lt;BR&gt;Elle a participé à la création de ce lieu, parce qu'elle avait plaisir à observer les guerriers au combat.&lt;BR&gt;&lt;BR&gt;Le vainqueur du prochain tournoi au Trône céleste remportera la pierre précieuse du ciel !&lt;BR&gt;&lt;br&gt;Vous devriez allez parler à Veigas. Elle tient compagnie au gérant de l'entrée du Trône céleste.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1149">
+        <Page social="0" voiceTypeId="0">Bienvenue, nouveau guerrier !&lt;BR&gt;Vous souhaitez participer au tournoi, vous aussi ?&lt;BR&gt;&lt;BR&gt;Un guerrier doit laisser s'exprimer son courage, sa passion, sa fouge, enfin bref : tout quoi ! C'est cette expérience que vous réserve le Trône céleste ! Et...&lt;BR&gt;...&lt;BR&gt;Heu ? La couronne d'éternité ? La pierre précieuse du ciel ?&lt;br&gt;&lt;BR&gt;Ça alors, je pensais qu'il s'agissait seulement d'un joli bijou.&lt;BR&gt;&lt;BR&gt;Vous auriez pu me le dire plus tôt, non ?&lt;BR&gt;Je pensais que vous étiez un nouveau candidat. Je me suis fatiguée pour rien à faire de la publicité !&lt;NEXTPAGEBUTTON&gt;"Pourriez-vous me donner la pierre précieuse ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Au Trône céleste, vous pouvez faire une démonstration de vos compétences de guerrier !&lt;BR&gt;&lt;br&gt;Celui qui triomphe de tous les monstres jusqu'au dernier niveau remporte la victoire. C'est simple comme bonjour, n'est-ce pas ?&lt;br&gt;&lt;BR&gt;Arrachez la victoire et la pierre précieuse du ciel est à vous.&lt;br&gt;&lt;BR&gt;Ce ne serait quand même pas pareil de vous en faire don ! Chaque chose à son prix !&lt;NEXTPAGEBUTTON&gt;"La couronne d'éternité est un cadeau pour la déesse Velik. Vous ne voulez toujours pas me donner la pierre précieuse ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Eh bien dans ce cas, il vous faudra forcement triompher !&lt;BR&gt;&lt;BR&gt;La déesse Velik appréciera d'autant plus la couronne, si vous vous montrez digne d'elle !&lt;BR&gt;&lt;BR&gt;Assez parler !&lt;BR&gt;L'heure du tournoi a sonné. Si vous avez quelque chose à ajouter, ce sera DANS l'arène !&lt;BR&gt;&lt;BR&gt;&lt;b&gt;[Pour entrer dans le Trône céleste, adressez-vous à {@linkcreature:183#7001#Gaderong}, le guide de l'arène.]&lt;/b&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="830" prevId="4" villagerId="4000103">
+        <Page social="0" voiceTypeId="0">Tous les vaillants rivaux sont désormais réunis !&lt;br&gt;&lt;BR&gt;Adressez-vous à Gaderong quand vous serez prêt !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1149">
+        <Page social="0" voiceTypeId="0">Bravo ! C'était un combat remarquable !&lt;br&gt;&lt;BR&gt;Vous êtes &lt;pcname&gt; ?&lt;BR&gt;&lt;BR&gt;Oh, comment ai-je fait pour ne pas vous reconnaître ?!?&lt;NEXTPAGEBUTTON&gt;"Et maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous avez gagné, bien sûr !&lt;BR&gt;&lt;BR&gt;Vos rivaux n'ont même pas réussi à se hisser jusqu'au quatrième niveau. C'était d'un ennui terrible.&lt;br&gt;&lt;BR&gt;Enfin, bref, c'est comme ça.&lt;BR&gt;Tenez, prenez la pierre précieuse, &lt;PCNAME&gt;. Et félicitations pour votre victoire !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Ça s'est bien passé ? Vous avez gagné la pierre précieuse du ciel ?&lt;NEXTPAGEBUTTON&gt;"Voyez-vous même."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, elle est presque complète !&lt;br&gt;&lt;BR&gt;Tenez ! En échange de la peine que vous vous donnez.&lt;br&gt;J'espère que cela vous aidera à progresser davantage.&lt;BR&gt;&lt;BR&gt;Je vous fais signe dès que j'en sais plus sur une autre pierre précieuse.&lt;BR&gt;&lt;BR&gt;À bientôt, gardien.</Page>
+    </Text>
+</QuestDialog>

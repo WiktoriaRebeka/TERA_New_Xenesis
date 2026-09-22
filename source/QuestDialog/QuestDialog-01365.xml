@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="4">Nos terres sacrées sont profanées par une bande de vermines prêtes à tout pour un peu de l'argent sale de Thulsa.&lt;BR&gt;&lt;BR&gt;Je parle évidemment de ces gardiens des runes vicieux et autres conquérants maligos, pas de vous. Vous êtes de notre côté.&lt;BR&gt;&lt;BR&gt;Rapportez-moi les cœurs de ces bêtes, et je vous paierai au poids.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1048">
+        <Page social="4">Ça fait bien longtemps que je ne m'en étais pas payé une aussi bonne tranche&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci d'avoir été punir cette bande de racailles. Veuillez accepter ce petit témoignage de ma gratitude.&lt;BR&gt;&lt;BR&gt;J'insiste... mon argent est propre, contrairement à celui de Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1048">
+        <Page social="0">Occupez-vous des gardiens des runes vicieux et des conquérants maligos, avant de me rapporter leurs cœurs, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

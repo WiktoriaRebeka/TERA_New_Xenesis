@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="4">Les pirates sont censés garder une jetée pour le compte du Syndicat Kazuur. Grâce à vous, &lt;PCNAME&gt;, les gulas ne peuvent plus compter sur cette aide.&lt;BR&gt;&lt;BR&gt;Maintenant, nous devons nous assurer qu'aucun navire ne vient plus y accoster.&lt;BR&gt;&lt;BR&gt;Il va donc falloir éliminer les {@LinkCreature:12#13#chevauche-griffus du Fouet rouge}. Aucun capitaine collaborant avec les esclavagistes n'accostera sur un quai non protégé. Le Syndicat Kazuur sera donc dans l'incapacité de déplacer ses esclaves.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Vous devez être le pire cauchemar des esclavagistes, &lt;PCNAME&gt;. Les dieux apprécient certainement votre sens de la justice&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

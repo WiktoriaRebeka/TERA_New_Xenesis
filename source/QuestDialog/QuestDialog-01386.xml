@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1017">
+        <Page social="4">Le début de cette histoire ne remonte pas à hier... cette terre, ravagée par les invasions et cette épidémie, a été vidée de ses ressources par ceux qui luttaient précisément pour sa sauvegarde, et épuisée, elle ne parvient plus à résister au mal qui la ronge. Ces bois sont maudits.&lt;BR&gt;&lt;BR&gt;La magie des fées est restée sans effet, et nous devons maintenant trouver des solutions alternatives. Les ghilliedhus rampants portent en eux le pouvoir de la vie, les graines de la croissance et du renouveau. Un pouvoir susceptible de restaurer ces terres et de donner naissance à une forêt saine où la vie pourra reprendre son cours.&lt;BR&gt;&lt;BR&gt;Rapportez-moi les graines non contaminées des ghilliedhus rampants&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1017">
+        <Page social="4">Cette terre et son peuple souffrent depuis des années, mais grâce à vous, &lt;PCCLASS:lcase&gt;, l'espoir va pouvoir renaître, même s'il s'agit d'une perspective sur le long terme.&lt;BR&gt;&lt;BR&gt;Quand ces graines pousseront et que la forêt renaîtra, on nommera peut-être cet endroit Taillis de Bellefeuille ou Bois-&lt;PCNAME&gt;...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1017">
+        <Page social="0">Les graines de ghilliedhus sont profondément enfouies sous leur écorce. C'est ce qui les protège de la contamination. Si vous vous contentez de regarder au sol, vous ne trouverez rien. Le seul moyen de les obtenir, c'est de tuer les ghilliedhus rampants.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="4">Le Camp de Subjugation... A l'origine, cet endroit est né d'un coup de tête très impulsif.&lt;BR&gt;&lt;BR&gt;Maintenant, c'est notre tour de subjuguer l'ennemi&amp;nbsp;! Le lieu s'est révélé d'une importance stratégique que nous ne soupçonnions pas, et nous sommes parvenus à en garder le contrôle au prix de nombreux sacrifices.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, les {@LinkCreature:11#1009#faucheurs du Fouet rouge} essaient de nous en chasser. Arrêtez-les, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1012">
+        <Page social="4">Vous rapportez un bon nombre de trophées, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maintenant, je pense que vous comprenez mieux l'importance de ce camp, n'est-ce pas&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1012">
+        <Page social="0">Les {@LinkCreature:11#1009#faucheurs du Fouet rouge} veulent ce camp, mais pas question de le leur abandonner&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

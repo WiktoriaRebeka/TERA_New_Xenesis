@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Nous devons à tout prix remettre ce terrible échantillon à Bedoram. &lt;BR&gt;&lt;BR&gt;Ne vous fiez pas à ses apparences de petit caillou, il est extrêmement dangereux !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Un fragment de la pierre magique rouge !&lt;BR&gt;&lt;BR&gt;(Bedoram soulève délicatement le fragment.)&lt;BR&gt;&lt;BR&gt;Nous devons l'analyser minutieusement. Nous arriverons peut-être à trouver un remède contre la maladie. &lt;BR&gt;&lt;BR&gt;Je dois l'étudier de plus près. Ici, je vois quelque chose... Ah, ce sont des symboles à l'intérieur de la pierre magique. Mais c'est... !&lt;BR&gt;&lt;BR&gt;(Bedoram en reste sans voix.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1030">
+        <Page social="0">Ainsi, vous n'avez toujours pas détruit la pierre magique rageuse ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="3" villagerId="1030">
+        <Page social="4" voiceTypeId="0">C'est le sigle des cultistes.&lt;BR&gt;&lt;BR&gt;Les descendants de Lok...&lt;BR&gt;Se pourrait-il qu'ils y soient pour quelque chose ?&lt;BR&gt;&lt;BR&gt;Nous devons immédiatement en informer le préfet Paka ! &lt;BR&gt;&lt;BR&gt;Il faut absolument que les habitants de Popolion le sachent. &lt;BR&gt;&lt;BR&gt;Tenez, voici un parchemin de téléportation pour Popolion. Allez immédiatement faire votre rapport.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Comment ? La pierre magique rageuse est le déclencheur de cette affreuse maladie ? C'est vrai ?&lt;BR&gt;&lt;BR&gt;Vous avez réalisé un véritable exploit ! &lt;BR&gt;Vous avez détruit la pierre magique et Bedoram analyse maintenant le fragment de pierre magique !&lt;BR&gt;&lt;BR&gt;Vous avez sauvé le village ! &lt;BR&gt;Un grand merci !&lt;BR&gt;&lt;BR&gt;Oh, j'allais oublier une chose.&lt;NEXTPAGEBUTTON&gt;"Quoi donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous méritez une récompense à la hauteur de vos exploits !&lt;BR&gt;&lt;BR&gt;Un des préfets de l'unité spéciale doit se trouver dans les parages.&lt;BR&gt;Allez trouver le {@linkcreature:215#1012#préfet de l'unité spéciale Bruke}. Quand il entendra le récit de vos exploits, il vous donnera sans doute une riche récompense !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Vous ne seriez pas &lt;PCNAME&gt; ? Ha ha, et vous fanfaronnez parce que vous avez sauvé quelques bêtes velues dans un petit village ?&lt;BR&gt;&lt;BR&gt;Hum... une pierre magique ? Vous ne vous vantez quand même pas d'avoir détruit une pierre, si ?&lt;BR&gt;&lt;BR&gt;J'ai cependant l'autorisation de vous remettre une petite récompense.&lt;BR&gt;&lt;BR&gt;Tenez, c'est pour vous et maintenant, attendez vos ordres... enfin si toutefois le général Samael décide de faire encore appel à vous. À vrai dire, cette récompense n'est pas entièrement méritée.</Page>
+    </Text>
+</QuestDialog>

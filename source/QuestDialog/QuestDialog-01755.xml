@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="0">Après l'incident du caveau d'Oriyn, toutes les troupes de Hautegarde ont uni leurs efforts pour retrouver Verikam et protéger la ville.&lt;BR&gt;&lt;BR&gt;Cela a sensiblement altéré le nombre de soldats en mesure de combattre la vague d'assaut demokron, ce qui a poussé &lt;PCNAME&gt; à aider les barakas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="4" voiceTypeId="0">Vous ! Vous avez été dans le Caveau d'Oriyn !&lt;BR&gt;Si vous êtes en route vers les Ruines de Pierrefuge, j'ai un service à vous demander&lt;BR&gt;&lt;BR&gt;Notre tâche consiste à surveiller la porte sud et les Ruines de Pierrefuge et d'éliminer les intrus demokrons. &lt;BR&gt;Comme vous le savez sans doute, nous avons simultanément perdu Verikam et les tablettes des titans. Puisque tout le monde est occupé à chercher Verikam et les tablettes des titans, nos forces sont réduites.&lt;BR&gt;Nous ne pouvons pas patrouiller les routes autant que nécessaire. Nous avons reçu l'ordre de rester déployés ici afin de garantir la sécurité de Hautegarde.&lt;BR&gt;&lt;BR&gt;En soi, éliminer tous les Demokrons relève déjà de l'impossible. &lt;BR&gt;Mais je m'inquiète pour la sécurité des petites gens.&lt;BR&gt;J'ai entendu dire que vous êtes rudement efficace. Ne pourriez-vous pas vous occuper des Demokrons ?&lt;BR&gt;Si vous acceptez d'éliminer quelques Demokrons sur le chemin qui mène à la Station Queldar, nous vous récompenserons. &lt;NEXTPAGEBUTTON&gt;"Je ferai mon possible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Ah, vous êtes &lt;PCNAME&gt;, qui nous vient du Sud.&lt;BR&gt;&lt;BR&gt;Merci de votre aide.&lt;NEXTPAGEBUTTON&gt;"J'espère que ce que je fais vous aide effectivement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

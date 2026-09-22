@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1031">
+        <Page social="5">J'ai pour ordre de me rendre au Repaire du Tonnerre... Du travail en quantité, des reliques de géants qui n'attendent que nous... Bref, de quoi occuper un archéologue une vie entière.&lt;BR&gt;&lt;BR&gt;Je sais... nous ne sommes pas au Repaire du Tonnerre. Des prions nous ont donné la chasse, et maintenant, pas moyen de bouger d'ici.&lt;BR&gt;&lt;BR&gt;Quand je pense aux reliques qui m'attendent là-bas. Vous pourriez peut-être aller en récupérer quelques-unes pour moi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1031">
+        <Page social="6">Merci, &lt;PCNAME&gt;. Grâce à vous, ma mission n'aura pas été un échec total.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1031">
+        <Page social="0">Ne m'en veuillez pas, mais j'ai peur que vous soyez {@gender:revenu/revenue} du Repaire du Tonnerre pour rien. Il va me falloir plus de reliques que ça.</Page>
+    </Text>
+</QuestDialog>

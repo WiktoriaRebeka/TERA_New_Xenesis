@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1120">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1120">
+        <Page social="4">Avec tout le respect que je dois à mes supérieurs et à mes frères d'armes, nous nous y prenons comme des pieds.&lt;BR&gt;&lt;BR&gt;Si les nagas sont ici, c'est pour une raison bien précise&amp;nbsp;: accéder au temple et ressusciter Dagon. Si vous les privez de cette opportunité, les nagas n'auront plus rien à faire dans le coin, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je pense que les {@LinkCreature:10#15#devineresses nagas} sont la clé du problème. Eliminez-les et les nagas seront affaiblies. Nous pourrons ensuite nous en débarrasser&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1120">
+        <Page social="4">Bon travail. Ces devineresses ne sont pas faciles à tuer, je sais.&lt;BR&gt;&lt;BR&gt;Je vais étudier les pierres que vous avez récupérées. Elles nous aideront peut-être à contrecarrer leurs plans.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1120">
+        <Page social="0">Les {@LinkCreature:10#15#devineresses nagas} prétendent avoir un "pouvoir de vie et de mort" absolu, mais ça ne signifie pas qu'elles sont invulnérables.&lt;BR&gt;&lt;BR&gt;Croyez-moi... tout ce qui saigne peut mourir.</Page>
+    </Text>
+</QuestDialog>

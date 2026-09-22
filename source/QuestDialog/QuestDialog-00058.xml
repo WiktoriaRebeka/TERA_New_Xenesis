@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, votre nom est sur toutes les lèvres, ici. Apparemment, vous êtes la meilleure recrue que nous avons, ce qui n'est pas chose aisée compte tenu du nombre élevé de nouvelles recrues dont nous disposons&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous méritez bien des billets de la Fédération.&lt;BR&gt;&lt;BR&gt;Vous ne savez pas quoi en faire&amp;nbsp;? Allez demander à {@linkcreature:60#9000} à Boquillon&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;-Samael</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="9000">
+        <Page social="0">Vous &lt;PCNAME&gt;&amp;nbsp;? Hum. Bien mérité.&lt;BR&gt;&lt;BR&gt;Le commandant Samael a dit que c'était pour vous.&lt;BR&gt;&lt;BR&gt;Savez-vous comment utiliser les billets de la Fédération&amp;nbsp;? Bien, c'est plutôt facile. Vous les échangez contre l'objet qui vous intéresse, à condition que le marchand accepte les billets de la Fédération.</Page>
+    </Text>
+</QuestDialog>

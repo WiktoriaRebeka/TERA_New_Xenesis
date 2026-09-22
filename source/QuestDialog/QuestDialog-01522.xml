@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Vous cherchez une couronne&amp;nbsp;? Désolée, mais je n'en fais plus. Il est bien trop difficile de se procurer des cheveux de fée soyeux et les gens sont un peu trop agressifs avec elles pour se les procurer.&lt;BR&gt;&lt;BR&gt;À moins que vous n'en ayez hérité d'un grand oncle ou une histoire dans le genre, je ne peux pas vous faire de couronne.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Bon, je ne vous demanderai pas où vous les avez eu mais... ne m'en apportez plus, compris&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien, quelle couleur souhaitez-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Laissez ces pauvres fées en paix, compris&amp;nbsp;? Vous n'avez tout de même pas à ce point besoin d'une couronne&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

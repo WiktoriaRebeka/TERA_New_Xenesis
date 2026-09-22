@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="4">J'ai découvert une tombe anonyme au sud-ouest d'ici, il y a quelques jours. Impossible de savoir à qui elle appartient, mais je pense que nous pourrions rendre à son propriétaire les honneurs qui lui sont dus.&lt;BR&gt;&lt;BR&gt;Allez décorer la tombe avec ces armalis. Elles symbolisent le repos éternel.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="4">Je sais que ce soldat nous serait reconnaissant.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

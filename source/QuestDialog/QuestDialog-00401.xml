@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">La caisse manquante contient des pierres de relique. Eria, le fils d'Elinu, affirme que les pierres sont particulièrement sensibles aux gardiens de cette île et permettent aux soldats de la Vallée maudite une plus grande liberté de mouvement. Ce doit être ce que les {@LinkCreature:13#901#gardiens orkans} cherchaient dans l'aéronef mais pour quelle raison&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il nous faut récupérer ces objets à tout prix. N'hésitez pas à utiliser la force face aux orkans. Ils ne se gêneront pas pour être violents&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">Ces objets nous auront causé bien des tracas. Je vous suis très redevable.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Chaque heure qui passe augmente le risque de retrouver les &lt;font color='#660000'&gt;pierres de relique&lt;/font&gt; totalement endommagées par les {@LinkCreature:13#901#gardiens orkans}. Tous ceux qui se battent pour notre cause dans la Vallée maudite sont en danger. Mettez rapidement la main dessus&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

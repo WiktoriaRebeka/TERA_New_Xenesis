@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">Nos venators ont repéré un nouveau type d'argons à proximité de l'Infuseur dryuul de Cyasma. Apparemment, ce ne sont pas des soldats, mais nous ignorons tout de leur mission. Récolter quelque chose peut-être&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'aimerais que vous alliez en éliminer quelques-uns et que vous me rapportiez ce que vous trouverez sur eux pour poursuivre mes recherches.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1017">
+        <Page social="6">Qu'avez-vous découvert&amp;nbsp;? Ces "cueilleurs" représentent-ils une menace&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Oui, regardez ce que j'ai trouvé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mais... Ces cœurs... Ils n'ont rien d'argon.&lt;BR&gt;&lt;BR&gt;Enfer et damnation&amp;nbsp;! Les argons doivent chercher à optimiser leur métabolisme en pratiquant le vol d'organes. Ils sont en train de faire d'une pierre deux coups&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1017">
+        <Page social="0">Il me faut des indices pour comprendre ce que sont ces nouveaux argons, &lt;PCNAME&gt;. Mettez-vous en route.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Il serait peu judicieux de vous envoyer dans l'arène sans savoir de quoi vous êtes capable.&lt;BR&gt;&lt;BR&gt;Alors je vous regarde&amp;nbsp;: montrez-moi de quel bois vous vous chauffez.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:4#2011#rejetons à crocs voraces} feront très bien l'affaire. Amenez-moi leurs cœurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Si vous cherchiez à faire une démonstration du concept d'"aisance", alors c'est très réussi, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La plupart des soldats qui arrivent ici ont beaucoup plus de mal avec les rejetons à crocs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1003">
+        <Page social="0">Si vous vous croyez trop doué pour une petite évaluation, écoutez un peu ça&amp;nbsp;: votre arrogance fait partie de l’évaluation&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

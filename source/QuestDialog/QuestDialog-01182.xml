@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Une fois l'identité du traître de Valkyon dévoilée, Seir vous a prié de prendre part à la guerre argonne.  &lt;BR&gt;&lt;BR&gt;Au tout dernier moment, un messager du quartier général a surgi pour vous informer de la déroute des argons et de la reconquête de la {@Rgn:47001$$Forêt de Tirkai}. Seir vous a prié de participer à l'effort de restauration de la forêt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Ordre de mobilisation]&lt;BR&gt;&lt;BR&gt;Je souhaite vous parler de la guerre argonne qui sévit depuis trop longtemps. Merci de revenir à Velika.&lt;BR&gt;Je vous ai indiqué le point de rendez-vous sur la carte.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous avez parfaitement représenté {@Rgn:63001$$Velika} et avez aidé à écarter Samael. Je vous en remercie. Mais nous ne sommes pas au bout de nos peines.&lt;NEXTPAGEBUTTON&gt;"Qu'est-il arrivé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les argons nous causent bien des tracas. Comme vous le savez, c'est pour leur faire face que la Fédération Valkyon a été fondée.&lt;BR&gt;Vous devez bien en avoir entendu parler lors de votre premier séjour ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Et voilà que les argons menacent aussi Tiarania. J'ai bien conscience que votre statut de membre de l'Île de l'aube est falsifié. Mais vous n'avez pas en plus perdu la mémoire, si ? &lt;BR&gt;&lt;BR&gt;Bref, venons-en au fait.&lt;BR&gt;La lutte traîne en longueur. Par chance, nous avons déjà pu surmonter de nombreux obstacles. La ville de {@Rgn:84001$$Kaiator}, reconquise après la première guerre argonne, a pu défendre le nord de Shara et repousser l'offensive des argons sur d'autres continents.&lt;NEXTPAGEBUTTON&gt;"Je comprends..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mais les argons rôdent déjà dans la {@Rgn:47001$$Forêt de Tirkai}, juste à côté de {@Rgn:84001$$Kaiator}. La situation n'est guère reluisante.&lt;BR&gt;&lt;BR&gt;Nous avons besoin de vous, un des héros de la Fédération Valkyon.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Tout à fait. Venons-en au fait.&lt;BR&gt;La lutte traîne en longueur. &lt;BR&gt;&lt;BR&gt;Par chance, la fédération a déjà pu surmonter de nombreux obstacles. La ville de {@Rgn:84001$$Kaiator}, reconquise après la première guerre argonne, a pu défendre le nord de Shara et repousser l'offensive des argons sur d'autres continents.&lt;NEXTPAGEBUTTON&gt;"Je comprends..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mais les argons rôdent déjà dans la {@Rgn:47001$$Forêt de Tirkai}, juste à côté de {@Rgn:84001$$Kaiator}. La situation n'est guère reluisante.&lt;BR&gt;&lt;BR&gt;Nous avons besoin de vous, un des héros de la Fédération Valkyon.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="3" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Hum, dans ce cas, nous devrions d'abord discuter de votre rôle dans la guerre avec l'adjudant. Vous devriez aussi en être.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Ha ha ! Quelle bonne nouvelle !&lt;BR&gt;Le vent a enfin tourné en notre faveur, dans cette guerre.&lt;BR&gt;&lt;BR&gt;Certes, les argons ont battu en retraite, mais leurs vestiges se trouvent encore là-bas.&lt;BR&gt;&lt;BR&gt;Nos membres de la fédération sont sans doute aussi trop affaiblis pour continuer le combat. &lt;NEXTPAGEBUTTON&gt;"Oui, c'est exact."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Dès que les argons abandonnent un peu de terrain, nous devons être prêts à lancer l'offensive.&lt;BR&gt;&lt;BR&gt;Rendez-vous dans la {@Rgn:47001$$Forêt de Tirkai} et aidez à la reconstruction des localités que les argons ont occupées et détruites, jusqu'à ce qu'on vous donne l'ordre de rejoindre le {@Rgn:48001$$Front de Khanovar}. &lt;BR&gt;&lt;BR&gt;Allez retrouver {@linkcreature:247#2001$$Virgil} à l'{@Rgn:77001$$Avant-poste du pionnier} et participez à l'effort de reconstruction.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Quelle joie de vous voir, &lt;PCNAME&gt;. J'ai déjà entendu dire que vous avez démasqué le traître de Valkyon. Vous avez fait de vraies merveilles pendant cette guerre. &lt;BR&gt;&lt;BR&gt;Mais venons-en au fait. &lt;BR&gt;&lt;BR&gt;Les argons se sont provisoirement retirés, mais la contamination est si forte que nous ne serons guère en état de combattre. Nous ne tiendrons pas le coup face à une attaque frontale. &lt;BR&gt;&lt;BR&gt;Nous devons nous empresser de réparer les dégâts que les argons ont causés. &lt;BR&gt;Allez trouver {@linkcreature:247#2002$$Yasring}, dans ce but. Elle vous en dira plus.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="8" villagerId="2002">
+        <Page social="8" voiceTypeId="0">&lt;PCNAME&gt;... &lt;PCNAME&gt;... &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Ah, ainsi c'est vous, &lt;PCNAME&gt; !&lt;BR&gt;Il paraît que quelqu'un du Quartier général de la Fédération Valkyon était secrètement en contact avec les argons... Et voilà que vous débarquez ici juste après que les argons ont battu en retraite !&lt;BR&gt;À croire qu'ils étaient au courant de votre venue et ont débarrassé le plancher à temps.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'est la meilleure nouvelle depuis bien longtemps ! Cela m'embarrasse un peu, mais j'ai une faveur à vous demander : &lt;BR&gt;&lt;BR&gt;je suis en train de fabriquer des orbes pour purifier le Bois malade. Je peux en fabriquer quelques-uns toute seule, mais si nous comptons purifier la forêt entière, j'aurais besoin d'aide pour fabriquer d'autres orbes de purification.&lt;BR&gt;&lt;BR&gt;Il me faut des champignons contaminés par les argons et de l'essence de farfadet. Avec ça, je vais pouvoir me lancer dans la production d'une nouvelle fournée. Ramenez-moi donc ces ingrédients !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" prevId="9" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Voilà, nous avons récupéré tous les matériaux. Je vais pouvoir fabriquer un orbe de purification !</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="10" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Prenez donc cet orbe et allez purifier l'Étang du fléau.&lt;BR&gt;&lt;BR&gt;Il s'agit d'une source d'eau potable indispensable pour les fées et tous ceux qui peuplent la région.&lt;BR&gt;&lt;BR&gt;Depuis que les argons l'ont corrompue, l'eau fraîche se fait rare.&lt;NEXTPAGEBUTTON&gt;"Vous ne pouvez pas vous en occuper vous-même ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Haha... Il y a beaucoup de fées en attente d'orbes de purification. Je dois donc rester ici pour les attendre. Excusez-moi de vous demander pareille faveur.&lt;BR&gt;&lt;BR&gt;Bref ! Merci d'utiliser l'orbe de purification puis d'aller vous adresser à {@creature:247#2003$$Cheniel}. En effet, la puissance des fées est également nécessaire pour purifier la forêt.&lt;BR&gt;&lt;BR&gt;Merci d'avance !</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" prevId="11" villagerId="2005">
+        <Page social="0" voiceTypeId="0">(Quelque chose vous paraît étrange avec ce cadavre…)&lt;BR&gt;&lt;BR&gt;(Est-il possible qu'il contamine le lac&amp;nbsp;? Un orbe vous permettrait d'en avoir le cœur net.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="247" prevId="11" villagerId="2006">
+        <Page social="0" voiceTypeId="0">(Ce cadavre est contaminé. Il pourrait affecter le lac. Vous devriez peut-être utiliser un orbe sur lui.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="247" prevId="11" villagerId="2007">
+        <Page social="0" voiceTypeId="0">(Vous utilisez un orbe pour supprimer la contamination argone de ce cadavre.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="247" prevId="12" villagerId="2003">
+        <Page social="8" voiceTypeId="0">C'est vrai ? Vous avez éliminé la cause de la pollution du lac ? Quelle bonne nouvelle ! Mais pour survivre, nous avons besoin de la force de l'arbre de vie. Il donne aux fées la force nécessaire pour aider à la restauration de la forêt.&lt;BR&gt;&lt;BR&gt;Heureusement que {@creature:247#2002$$Yasring} vous a envoyé ici !&lt;BR&gt;&lt;BR&gt;Merci de vous occuper de l'arbre de vie. La pollution a des conséquences vraiment dévastatrices. La &lt;BR&gt;&lt;BR&gt;fée {@creature:247#2004$$Shemi} vous expliquera comment trouver l'arbre de vie.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="247" prevId="15" villagerId="2004">
+        <Page social="8" voiceTypeId="0">Je m'appelle {@creature:247#2004$$Shemi}. Que... Que se passe-t-il ? Il y a encore du travail ?&lt;BR&gt;&lt;BR&gt;L'arbre de vie ? Ah, je n'ai aucune envie... euh, je veux dire, je me suis blessé les ailes. Ce matin, je vous le jure. Voilà pourquoi je ne peux pas faire de long trajet. Mais je peux vous donner quelques indications pour le trouver.&lt;BR&gt;L'arbre de vie &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=arbre de vie"&gt; se trouve ici&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="247" prevId="16" villagerId="2003">
+        <Page social="8" voiceTypeId="0">L'orbe de purification a fait son effet sur l'arbre de vie ? &lt;BR&gt;&lt;BR&gt;Merci. Alors tout n'est pas perdu. Grâce à vous, les fées vous pouvoir contribuer à la restauration de la {@Rgn:47001$$Forêt de Tirkai}. Merci beaucoup !</Page>
+    </Text>
+</QuestDialog>

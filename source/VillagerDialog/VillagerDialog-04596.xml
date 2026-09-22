@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="230" voiceTypeId="128" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Je suis l'émissaire officiel responsable des affaires entre le Bastion et la Forteresse des archives, je n'ai pas de temps à perdre en ce moment.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Vous avez brisé les deux sceaux de Seren. Il ne vous reste plus qu'à vous rendre au Temple de Balder.&lt;CLOSEPAGEBUTTON&gt;"Pour la Fédération&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="2">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, merci de m'avoir prouvé que la prophétie n'était pas une supercherie.&lt;CLOSEPAGEBUTTON&gt;"Tout le plaisir est pour moi."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

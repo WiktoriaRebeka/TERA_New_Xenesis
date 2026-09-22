@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">On a besoin de renforts dans la partie nord d'Habere. Pour l'instant, nos troupes sont parvenues à repousser les forces de Thulsa, mais la vie de nos hommes ne tient qu'à un fil.&lt;BR&gt;&lt;BR&gt;Sichel, qui se trouve posté à la porte nord, saura vous expliquer comment rallier la Loge perdue. Kaia vous bénisse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1003">
+        <Page social="4">Cette route partant vers le nord-est vous mènera à la Loge perdue.&lt;BR&gt;&lt;BR&gt;C'est le seul moyen d'y accéder, mais elle est gardée par les lanciers morts-vivants.&lt;BR&gt;&lt;BR&gt;Si vous les éliminez, on peut dire que vous nous ôterez une belle épine du pied.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1001">
+        <Page social="4">Hé, bienvenue&amp;nbsp;! C'est courageux de votre part d'avoir traversé cette horde de morts-vivants pour venir nous aider, merci.&lt;BR&gt;&lt;BR&gt;Je suis le préfet Khubyar. Enchanté de faire votre connaissance, &lt;PCCLASS:lcase&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

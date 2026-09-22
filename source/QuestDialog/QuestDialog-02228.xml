@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Vous avez livré les glaces aux sarbaies aux visiteurs du festival.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">&lt;PCNAME&gt;, je suis content de vous voir ici&amp;nbsp;! Vous avez le temps de m'aider&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Qu'est-ce que je peux faire pour vous&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">J'ai fait toutes ces glaces aux sarbaies pour les visiteurs du festival mais Luman est bien trop occupé pour les livrer&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dites à mon assistant, Trilyn, que vous allez les livrer.&lt;NEXTPAGEBUTTON&gt;&amp;quot;J'ai le temps de vous aider.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Ah, &lt;PCNAME&gt;. Je vois que Lilan a réussi à vous convaincre de nous aider à nouveau.&lt;BR&gt;&lt;BR&gt;Tant que cela ne vous dérange pas... J'ai des commandes pour Morun ... Tanith... et Hayden. Occupez-vous de celle-ci d'abord, le client l'attend depuis longtemps.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">N'oubliez pas de sourire.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">N'oubliez pas de sourire.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">N'oubliez pas de sourire.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="7103">
+        <Page social="1">C'est la célèbre glace aux sarbaies&amp;nbsp;? Elle a un goût d'été&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="3" villagerId="7104">
+        <Page social="1">Ah, de la glace aux sarbaies. Parfaite quand il fait chaud, n'est-ce pas&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="3" villagerId="7105">
+        <Page social="1">Ah, de la glace aux sarbaies&amp;nbsp;! Pour être honnête, c'est la seule raison pour laquelle je viens ici… Mais que cela reste entre nous.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="7101">
+        <Page social="4">Merci de m'avoir de nouveau aidé, &lt;PCNAME&gt;&amp;nbsp;! Vous êtes vraiment le meilleur&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

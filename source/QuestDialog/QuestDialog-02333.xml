@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Armande vous attendait pour retourner au camp provisoire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Alors que Jelena attaquait l'enclos des cullars, une larve l'a blessée et elle a perdu connaissance. Vous êtes donc allés chercher un remède pour Jelena dans le Marécage de Viridian.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="20203">
+        <Page social="4" voiceTypeId="0">Nous ferions bien de tous nous rendre ensemble au camp provisoire, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thro et Aurl sont auprès des villageois.&lt;BR&gt;&lt;BR&gt;Vous devriez essayer de convaincre Aurl d'accompagner les villageois chez les Riverans.&lt;BR&gt;&lt;BR&gt;Essayez donc de persuader Aurl du bien fondé de ce plan, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="22001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ! Bienvenue.&lt;BR&gt;&lt;BR&gt;Apparemment , ces maudits nagas ont déserté cet endroit. Et l'un dans l'autre, il n'est pas pire.&lt;BR&gt;&lt;BR&gt;Et pourtant, je n'arrive pas à me débarrasser d'un mauvais pressentiment...&lt;BR&gt;&lt;BR&gt;Il n'y a pas de lumière sans ombre. Cet endroit est parfait pour se venger des nagas.&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas pour moi. Cherchez donc plutôt un moyen d'arrêter la forteresse.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20204">
+        <Page social="4" voiceTypeId="0">Aurl et les Riverans ne se sont pas encore mis en route ?!&lt;BR&gt;&lt;BR&gt;C'est décevant, mais pas plus surprenant que ça.&lt;BR&gt;Je sais bien qu'Aurl n'est pas encore prêt à considérer un naga comme un camarade.&lt;BR&gt;&lt;BR&gt;On ne peut rien y faire. Abandonnons cet endroit à Aurl et allons retrouver Revenj.&lt;BR&gt;&lt;BR&gt;Nous devons également rattraper Jelena pour apprendre ce que les cristaux signifient.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20102">
+        <Page social="0" voiceTypeId="0">Jusqu'où comptez-vous encore avancer ?&lt;BR&gt;&lt;BR&gt;Si nous continuons comme ça, nous finirons par atterrir à Velika.&lt;NEXTPAGEBUTTON&gt;"Je cherche les Riverans."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'était donc ça ! Ils en savent sans doute beaucoup sur cet endroit.&lt;BR&gt;Avec leur soutien, nous pourrons accomplir notre mission.&lt;BR&gt;&lt;BR&gt;Et où allons-nous maintenant ? Nous ferions bien de nous dépêcher.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20502">
+        <Page social="1" voiceTypeId="0">Ah, vous voilà, tant mieux. Mais vous arrivez malheureusement trop tard.&lt;BR&gt;&lt;BR&gt;Vous voulez savoir à quoi servent ces cristaux ?&lt;BR&gt;&lt;BR&gt;À nourrir les larves !&lt;BR&gt;&lt;BR&gt;Les larves dévorent tout ce qui bouge. Les cristaux que les parfs et les parfons régurgitent accélèrent la croissance des larves. &lt;NEXTPAGEBUTTON&gt;"Vous élevez volontairement des larves ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Oui. Il nous en faut beaucoup pour envoyer constamment des parfs et des parfons sur votre continent.&lt;BR&gt;&lt;BR&gt;Ce sont les aristocrates hauts dragons qui en ont décidé ainsi.&lt;BR&gt;&lt;BR&gt;Et cela vaut aussi pour cette île.&lt;BR&gt;&lt;BR&gt;C'est peut-être la raison pour laquelle les hauts-dragons transportent des cristaux jusqu'à la forteresse.&lt;BR&gt;&lt;BR&gt;Quelles que soient leurs intentions avec ces cristaux, ça n'augure rien de bon pour vous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" prevId="7" villagerId="20502">
+        <Page social="1" voiceTypeId="0">Quelle prétentieuse ! Elle est venue seule et m'a forcée à lui révéler la route menant à la forteresse.&lt;BR&gt;&lt;BR&gt;Elle voulait juste aller attaquer l'enclos à larves et revenir m'aider, mais je ne l'ai pas revue. &lt;BR&gt;&lt;BR&gt;Maintenant que vous le dites, j'ai comme un mauvais pressentiment, moi aussi. Voulez-vous que nous partions à sa recherche ensemble ?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="20404">
+        <Page social="0" voiceTypeId="0">Quelle... poisse ! Pourquoi mon corps décide-t-il maintenant de... ?&lt;BR&gt;&lt;BR&gt;À l'... à l'aide !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20503">
+        <Page social="0">Hum, ce n'est... pas bon du tout.&lt;BR&gt;Le poison des capsules minérales des jeunes larves est extrêmement puissant.&lt;BR&gt;&lt;BR&gt;Sa cristallisation va donc progresser plus vite.&lt;BR&gt;&lt;BR&gt;Je présume que la tribu d'Azra, qui gère l'entrepôt à cristaux et l'enclos à larves, doit avoir un remède dans son camp.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">En revanche, ce remède est avant tout destiné aux nagas et, chez Jelena, il ne pourra sans doute que ralentir le processus.&lt;BR&gt;&lt;BR&gt;Commencez par en mettre dans la nourriture puis ramenez Jelena dans le camp.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">Le remède n'est pas encore prêt ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="11" villagerId="20504">
+        <Page social="1" voiceTypeId="0">Nous avons gagné un peu de temps grâce au remède, mais sans un guérisseur digne de ce nom, elle va se transformer en gemme.&lt;BR&gt;&lt;BR&gt;Rogash a enlevé le guérisseur qui a aidé les Riverans. Il est enfermé dans un camp à proximité de la plateforme. Allez le sauver.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20505">
+        <Page social="1" voiceTypeId="0">Cet endroit sert de couveuse pour des bêtes gigantesques.&lt;BR&gt;Les parfs et les parfons sont à l'origine de la prolifération de ces bêtes dans la région.&lt;BR&gt;&lt;BR&gt;Elles vivent dans la crainte permanente de voir débarquer les coléoptères en grand nombre.&lt;BR&gt;&lt;BR&gt;Si nous voulons avancer, nous allons devoir éliminer ces bêtes effarouchées.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2001" prevId="14" villagerId="20601">
+        <Page social="0" voiceTypeId="0">Se faire assister par un étranger est une expérience fascinante.&lt;BR&gt;&lt;BR&gt;Il est cependant encore plus intéressant de voir qu'un étranger se cristallise. J'ai déjà eu affaire à quelqu'un comme elle : le remède des nagas ne fonctionnera pas.&lt;BR&gt;&lt;BR&gt;Mais j'ai une autre idée ! Si vous me fournissez les ingrédients nécessaires, je pourrai sans doute la guérir complètement.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="2001" prevId="15" villagerId="20508">
+        <Page social="1" voiceTypeId="0">J'emmène le guérisseur auprès de Jelena.&lt;BR&gt;&lt;BR&gt;De votre côté, allez dans le Marécage de Viridian. Je vais vous communiquer les ingrédients que le guérisseur mentionne.&lt;BR&gt;&lt;BR&gt;Ramenez-moi ces ingrédients et Jelena survivra.&lt;NEXTPAGEBUTTON&gt;"Et Élion, dans tout ça ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Le guérisseur a affirmé qu'Élion n'était pas passé par le camp.&lt;BR&gt;Cependant, il a utilisé cette plateforme, là.&lt;BR&gt;&lt;BR&gt;Le membre des Riverans situé auprès de la plateforme du Marécage de Viridian pourra peut-être vous en dire plus sur votre camarade.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="2001" prevId="16" villagerId="20104">
+        <Page social="4" voiceTypeId="0">Certes, Jelena a été empoisonnée, mais cet incident nous permettra peut-être de trouver un remède. À quelque chose malheur est bon.&lt;BR&gt;&lt;BR&gt;Procurons-nous vite les composants du remède pour que Jelena se remette vite.&lt;NEXTPAGEBUTTON&gt;"Je vais me hâter."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Très bien. J'ai apporté une vaste collection de mes bombes chéries, alors en route vers le marécage, vite.</Page>
+    </Text>
+</QuestDialog>

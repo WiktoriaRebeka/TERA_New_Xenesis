@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Il fut tout un temps où j'adorais fabriquer des chapeau en forme de nid d'oiseau mais ils sont devenus si populaires que tout le monde en voulait un&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le problème, c'est que sa fabrication nécessite un œuf de sturnidé du Val et que tous ces chasseurs de chapeaux les ont pris jusqu'au dernier.&lt;BR&gt;&lt;BR&gt;Plus d'œufs, plus de chapeaux.&lt;NEXTPAGEBUTTON&gt;"Vous parlez d'un œuf comme celui-ci&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Vous avez un œuf de sturnidé&amp;nbsp;? Hum, eh bien dans ce cas, il serait dommage de ne pas en profiter...&lt;BR&gt;&lt;BR&gt;Quelle couleur irait le mieux avec votre armure&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Voyons..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">L'Héritage d'Hyderad importait des œufs de sturnidé du val autrefois mais avec l'extinction des sturdinés, le commerce a dégringolé. Vous n'en trouverez plus jamais un.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0">(Les lettres inscrites sur la surface de la Tablette du souvenir forment un cafouillis morcelé. Elles semblent être liées à plusieurs souvenirs.)&lt;BR&gt;&lt;BR&gt;[XX,..Devans vaincus..******]&lt;BR&gt;&lt;BR&gt;[…...xxxxxx... Nord d'Arun ... Continent perdu ...******]&lt;BR&gt;&lt;BR&gt;[ $%^&amp;..Expédition..@%$&amp;$^]&lt;BR&gt;&lt;BR&gt;[ $%^&amp;#$%$^&amp;]&lt;BR&gt;&lt;BR&gt;[@%....Armée impériale..^$%#*%]&lt;BR&gt;&lt;BR&gt;[xx%^Puits d'Arun$%#*%]&lt;BR&gt;&lt;BR&gt;[…*$Construction#^Forteresse de Raqnan(@##..]&lt;NEXTPAGEBUTTON&gt;Vous commencez à reconstituer la tablette.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7003">
+        <Page social="4">Vous êtes revenu{@g:/e} sain{@g:/e} et sau{@g:f/ve}, bien entendu.&lt;BR&gt;Avez-vous fait des progrès dans la reconstitution de la Tablette du souvenir ?&lt;NEXTPAGEBUTTON&gt;"Voici ce que j'ai pu découvrir..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Aha...&lt;BR&gt;Vos destins semblent reliés par une animosité particulière, celle d'ennemis jurés. Aidez-nous à compléter la reconstitution de la tablette, je vous en prie. Les Bakaras vous en seraient grandement reconnaissants.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je m'en charge volontiers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Un grand merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Voici une petite attention de ma part. Je vous prie de l'accepter.&lt;NEXTPAGEBUTTON&gt;Vous acquiescez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="5">Soldat de la Fédération, hein&amp;nbsp;? Bon, écoutez... je sais que les soldats n'aiment pas se taper les basses corvées, mais j'ai vraiment besoin d'un coup de main. Je dois faire parvenir une lettre à Furlan, un ami.&lt;BR&gt;&lt;BR&gt;J'ai demandé à un messager de s'en occuper, mais Furlan vit dans la Vallée des Titans, et personne n'a trop envie d'aller se balader dans le coin, en ce moment.&lt;BR&gt;&lt;BR&gt;Vous allez devoir récupérer la lettre auprès de Brose. C'est lui que j'avais chargé de la remettre, mais je pense qu'il a une trouille bleue d'y aller.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1008">
+        <Page social="5">Kenan vous a demandé de vous occuper de la lettre&amp;nbsp;? Eh bien, j'étais justement sur le point de me mettre en route. J'ai juste pris un peu de retard en préparant du bois... pour mon feu de camp...&lt;BR&gt;&lt;BR&gt;Mais puisque vous insistez, tenez, voici la lettre. Bonne route.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1016">
+        <Page social="0">Une lettre de Kenan&amp;nbsp;? Merci de me l'avoir apportée.&lt;BR&gt;&lt;BR&gt;Oh... il demande à ma famille de venir le rejoindre&amp;nbsp;; il s'inquiète pour notre sécurité. Quelle délicate attention... mais nous ne pouvons abandonner notre foyer. Nous devons rester ici pour le défendre.&lt;BR&gt;&lt;BR&gt;Merci d'avoir fait le déplacement. Vous l'avez malheureusement fait pour rien, mais je suis touché par votre sollicitude.</Page>
+    </Text>
+</QuestDialog>

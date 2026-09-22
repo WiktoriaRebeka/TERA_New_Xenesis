@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Vous savez, &lt;PCNAME&gt;, on entend partout dire que personne ne vous arrive à la cheville.&lt;BR&gt;&lt;BR&gt;Mais ce ne sont peut-être que des racontars de caserne...&lt;BR&gt;&lt;BR&gt;Si vous voulez faire vos preuves, allez donc combattre quelques {@LinkCreature:9#1410#rôdeurs labyrinthiques}. Ce seront des adversaires à votre hauteur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Il faut croire que les bruits de couloirs ne sont pas systématiquement infondés.&lt;BR&gt;&lt;BR&gt;Plus personne ne se moquera de vous, à présent. En tout cas, pas de votre esprit combatif.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Si vous me rapportez des cornes de {@LinkCreature:9#1410#rôdeurs labyrinthiques}, vous prouverez que les pipelettes ne se trompent pas à votre sujet.&lt;BR&gt;&lt;BR&gt;Et si vous échouez, vous donnerez raison aux sceptiques.</Page>
+    </Text>
+</QuestDialog>

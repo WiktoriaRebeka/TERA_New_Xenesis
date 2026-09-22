@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">&lt;PCNAME&gt;, l'organisation a besoin de votre aide pour une tâche plutôt inhabituelle.&lt;BR&gt;&lt;BR&gt;Les poissons ici puent tellement qu'ils ne sont pas comestibles, mais dans la forêt à l'ouest d'ici, il existe un champignon qui élimine les odeurs et ajoute même une saveur étonnante. Une affaire juteuse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller cueillir quelques champignons parfumés&amp;nbsp;? Je sais que la mycologie, c'est pas votre truc, mais les récompenses, hein, ça vous attire plus, on dirait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1703">
+        <Page social="4">Oh, oui&amp;nbsp;! Des champignons&amp;nbsp;! On en vend des tonnes tous les jours, vous savez. Juste pour la cuisine...&lt;BR&gt;&lt;BR&gt;L'organisation gagne beaucoup d'argent avec ça, et notre argent est aussi votre argent quelque part.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1703">
+        <Page social="0">Cette odeur de poisson est accablante&amp;nbsp;! Apportez-moi des champignons parfumés dès que vous le pouvez.</Page>
+    </Text>
+</QuestDialog>

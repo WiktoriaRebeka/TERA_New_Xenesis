@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Une enquête approfondie dans la vallée nous a permis d'identifier les démons qui influençaient directement les esprits. Et quelle découverte&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;D'après nos éclaireurs, les kariagons disposent de chaînes magiques. Nous avons besoin de les étudier.&lt;BR&gt;&lt;BR&gt;Allez en récupérer sur les {@LinkCreature:13#6#kariagons} et les {@LinkCreature:13#300942#serviteurs terrons}. Vous les trouverez dans la partie sud-ouest de la Vallée maudite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Les routes sont déjà plus sûres. Quoi que les Descendants de Lok aient pu préparer avec leurs esclaves, vous leur avez mis des bâtons dans les roues. Mais pour atteindre notre but, cette seule victoire ne suffira pas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">Les chaînes sont la clé de tout. Un simple sort de domination ne réduirait pas un esprit en esclavage d'une manière aussi totale. Tuez autant de {@LinkCreature:13#6#Kariagons} que nécessaire pour en obtenir.</Page>
+    </Text>
+</QuestDialog>

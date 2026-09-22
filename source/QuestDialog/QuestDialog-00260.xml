@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0">(Le corps du soldat a subi des mutilations, et une lame est restée plantée dans ses chairs.)&lt;BR&gt;&lt;BR&gt;(Cependant, il s'agit d'une arme de {@LinkCreature:9#1000#faucheur sanglant de Lok}. Elle n'est pas de conception gula.)&lt;BR&gt;&lt;BR&gt;Ces armes semblent prouver que les {@LinkCreature:9#1100#adorateurs} collaborent avec les gulas, mais pour nous en forger une intime conviction, vous allez devoir nous procurer d'autres &lt;font color='#660000'&gt;armes&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Malgré votre jeunesse dans le métier, vous avez l'air de vous y connaître en lames. Et vous avez raison&amp;nbsp;: il ne s'agit pas d'une arme gula.&lt;BR&gt;&lt;BR&gt;Les adorateurs de Lok collaborent avec les gulas&amp;nbsp;? Puisse Kaia nous venir en aide&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Pourquoi cet empressement&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

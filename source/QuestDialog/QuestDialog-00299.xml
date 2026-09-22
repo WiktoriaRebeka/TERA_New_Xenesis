@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1110">
+        <Page social="4">Acculés dans leurs derniers retranchements, les nagas ont entrepris de transférer l'esprit de leurs guerriers dans les corps de {@LinkCreature:10#6#mycanars agités}, qui se battent désormais à leurs côtés.&lt;BR&gt;&lt;BR&gt;Eliminez ces mycanars et mettez fin à ce combat une bonne fois pour toutes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1110">
+        <Page social="4">C'est du très bon travail, &lt;PCNAME&gt;&amp;nbsp;! Grâce à vous, les nagas sont passés du statut d'attaquants à celui de défenseurs&amp;nbsp;! La Fédération manque de soldats de votre trempe.</Page>
+    </Text>
+</QuestDialog>

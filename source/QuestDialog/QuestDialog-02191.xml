@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4">Nous voulons envoyer les robots magiques que nous avons développés auprès de nos chercheurs qui travaillent à plusieurs endroits. Mais c'est un long voyage, et les routes sont parfois dangereuses, alors nous avons pensé à vous.&lt;BR&gt;&lt;BR&gt;Je vous ai préparé un contrôleur d'invocation de robot magique. Vous pouvez l'utiliser afin d'invoquer un robot magique pour chaque chercheur présent sur le terrain. Et vous pouvez l'utiliser vous-même, aussi. Un petit essai "en situation" ne peut pas faire de mal, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Klissa vous donnera le contrôleur. Amusez-vous bien avec ces robots&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Attendez, vous avez besoin du contrôleur&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je regrette mais Fitae et Zerit l'ont emprunté. Je ne sais pas trop ce qu'ils voulaient en faire, sûrement l'utiliser pour une bonne cause.&lt;BR&gt;&lt;BR&gt;En tout cas, il est entre les mains d'un de ces deux-là. C'est à eux qu'il faut aller demander&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Le contrôleur d'invocation de robot magique&amp;nbsp;? Bien sûr, le voilà.&lt;BR&gt;&lt;BR&gt;Utilisez-le comme n'importe quel autre objet&amp;nbsp;: ouvrez votre inventaire, placez le curseur sur le contrôleur, et effectuez un clic droit.&lt;BR&gt;&lt;BR&gt;Votre destination&amp;nbsp;: Veltor au Refuge de Balder.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Le contrôleur d'invocation de robot magique&amp;nbsp;? Bien sûr, le voilà.&lt;BR&gt;&lt;BR&gt;Utilisez-le comme n'importe quel autre objet&amp;nbsp;: ouvrez votre inventaire, placez le curseur sur le contrôleur, et effectuez un clic droit.&lt;BR&gt;&lt;BR&gt;Votre destination&amp;nbsp;: Sindel au Refuge de Balder.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1701">
+        <Page social="4">Qu'est-ce qui vous amène si loin de chez vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Un appareil à robot magique, hein&amp;nbsp;? Attendez une minute.&lt;NEXTPAGEBUTTON&gt;"Et voilà pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">On dirait qu'il va s'avérer utile.&lt;BR&gt;&lt;BR&gt;Et entre nous, ça risque d'être amusant aussi.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1702">
+        <Page social="4">Un appareil à robot magique... qu'est-ce qu'ils vont pas inventer.&lt;NEXTPAGEBUTTON&gt;"Contrôlez-le avec ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je vais bien finir par comprendre à quoi un robot magique pourrait servir par ici. Enfin, on peut toujours se poser la même question à propos des collègues à Allemantheia...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" villagerId="1702">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

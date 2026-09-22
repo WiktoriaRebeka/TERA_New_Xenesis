@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez apporté votre aide au clan des Consos pour nettoyer le temple de Balder.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">Permettez-moi de vous donner l'occasion de nous aider.&lt;BR&gt;&lt;BR&gt;&amp;quot;Si le temple n'est pas pur et lumineux, la lumière de Balder ne le sera pas non plus.&amp;quot; Connaissez-vous cet adage&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Non. Que signifie-t-il&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est un dicton très ancien qui signifie que le temple et le soleil sont connectés par un lien divin. Lorsque le temple est poussiéreux et sale, la lumière du soleil est... faible. C'est compliqué et ça nécessite des années d'entraînement clérical pour effectuer parfaitement cette mission.&lt;BR&gt;&lt;BR&gt;Malheureusement, il y a trop peu de prêtres pour garder le temple en bon état.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, puis-je vous demander de nous aider à nettoyer le temple&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Cela a l'air important. Je vais donc vous aider.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Merci. Cela signifie beaucoup pour nous. Si peu de gens acceptent d'honorer le sacrifice de Balder une fois qu'ils se rendent compte du travail que cela implique.&lt;BR&gt;&lt;BR&gt;Veuillez utiliser ce téléportail pour entrer dans le temps et faire votre rapport à Davor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="3" villagerId="7000">
+        <Page social="4">C'est un plaisir de vous rencontrer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je m'appelle Davor. Je suis en charge des caves du temple.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, il faut débarrasser les caves des paresseux qui y pullulent. Ils grimpent le long des murs pour boire l'eau de la fontaine et salissent tout sur leur passage.&lt;BR&gt;&lt;BR&gt;Je vous préviens, ces paresseux sont très agressifs. Mais si vous utilisez notre automate de nettoyage, le PEST-B-GON 8000, ce ne devrait pas être trop difficile de s'en débarrasser.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Comment fonctionne l'automate&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est très simple. Il suffit d'activer la manette, ici, et PEST-B-GON 8000 vous suivra et tuera les paresseux rencontrés en chemin. Il n'est cependant pas particulièrement intelligent. Il est donc préférable de guider PEST-B-Gon 8000 en attaquant tout ce que vous voulez qu'il éliminer.&lt;BR&gt;&lt;BR&gt;Il suffit d'activer la manette lorsque vous êtes prêt.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="4" villagerId="7001">
+        <Page social="4">Bonjour, &lt;PCNAME&gt;. Merci d'aider le clan des Consos dans le temple, aujourd'hui.&lt;BR&gt;&lt;BR&gt;Je m'appelle Nahad. Je m'occupe des jardins avec l'aide de mes automates golem de jardin. Ils se débarrassent surtout des ghilliedhus pendant que je m'occupe du jardin.&lt;BR&gt;&lt;BR&gt;Malheureusement, tout comme un tas de choses dans le temple, ces automates sont très anciens et se cassent facilement. Je n'ai pas le temps de m'occuper d'eux moi-même. Quelqu'un a fait plein de graffitis sur les murs du temple et je dois découvrir qui a fait ça.&lt;BR&gt;&lt;BR&gt;Cela me faciliterait vraiment la tâche si vous étiez en mesure de réparer les golems de jardin, &lt;PCNAME&gt;. Il vous suffit simplement de les aider à venir à bout des ghilliedhus massifs.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="5" villagerId="7002">
+        <Page social="4">Des vampires... Ca ne me surprend même pas. Le pouvoir du soleil les affaiblis. Cela semble donc logique qu'ils ripostent en souillant le temple.&lt;BR&gt;&lt;BR&gt;Le graffiti n'est qu'un petit délit. Ils nous harcèlent dès que l'on s'aventure à l'extérieur du temple et ils enlèvent des villageois. Et maintenant, ils sont assez audacieux pour se faufiler dans le temple&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je dois le signaler à Renmi. Veuillez vous rendrez à l'escalier et parler avec Kodar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="6" villagerId="7003">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. Renmi m'a parlé de vous. Merci d'être venu.&lt;BR&gt;&lt;BR&gt;Aidez-moi à tuer les serpents qui se trouvent dans le Centre du Temple. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Que dois-je faire pour vous aider&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est très simple.&lt;BR&gt;&lt;BR&gt;Karu peut expliquer. Karu s'occupe habituellement d'une telle vermine mais les fées ne sont pas toujours... fiables. Parlez-lui avant de commencer. Il pourrait bien vous donner des conseils très utiles.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Vous voilà de retour, &lt;PCNAME&gt;. J'espère que votre mission n'a pas été trop pénible&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les clercs m'ont dit que vous avez été d'une très grande aide. Ils espèrent que vous viendrez les aider de nouveau l'année prochaine.&lt;BR&gt;&lt;BR&gt;Nous souhaitons vous offrir quelque chose de spécial, en témoignage de notre gratitude.</Page>
+    </Text>
+</QuestDialog>

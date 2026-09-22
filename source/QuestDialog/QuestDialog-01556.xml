@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Afin de renforcer nos forces de l'intérieur, le Quartier général de Velika fournira des chevaux de bataille aux soldats compétents. Retournez au quartier général immédiatement.&lt;BR&gt;&lt;BR&gt;Dougal, Consul de Velika</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Bienvenue, &lt;PCNAME&gt;&amp;nbsp;! Il est honteux qu'un soldat de votre trempe se déplace à pied depuis tout ce temps.&lt;BR&gt;&lt;BR&gt;Mieux vaut passer l'argent dans de bons chevaux que dans du cuir de bottes, pas vrai? Une monture rapide vous aidera à passer plus vite d'une mission à l'autre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1149">
+        <Page social="0">Vous devez être la personne dont Dougal parlait, &lt;PCCLASS:lcase&gt;. J'attendais votre arrivée, mais... mes chevaux sont agités en ce moment, et les cavaliers ont le plus grand mal à se faire obéir.&lt;BR&gt;&lt;BR&gt;Un peu d'&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=plantes de Veridia"&gt;extrait de veridia&lt;/A&gt;&lt;/font&gt; pourrait leur calmer les nerfs. Cueillez des plantes de veridia dans les parages, avant d'en extraire les huiles essentielles. Ça me permettra peut-être de lâcher la bride de mes canassons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1149">
+        <Page social="0">C'est exactement ce qu'il nous fallait... Les chevaux commencent à se calmer&amp;nbsp;! Veuillez accepter ce modeste témoignage de ma gratitude. C'est l'une de mes meilleures bêtes, j'espère que vous en aurez l'utilité.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1149">
+        <Page social="0">S'il vous plaît, trouvez-moi de l'&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=plantes de Veridia"&gt;extrait de veridia&lt;/A&gt;&lt;/font&gt;. Ca aidera nos chevaux à se calmer.</Page>
+    </Text>
+</QuestDialog>

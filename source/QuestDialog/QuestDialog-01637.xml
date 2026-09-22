@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Si vous voulez fabriquer des hauberts de ferronnier, j'ai les matériaux qu'il vous faut. On va voir de quoi vous êtes capable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Bien... très bien, même. C'est du travail de qualité, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le genre d'équipement dont nous avons besoin sur le terrain. Allez remettre les hauberts à Arkaius, au Port Coupe-gorge. Il a besoin de toutes les pièces d'armures sur lesquelles il pourra mettre la main.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits, parlez aux vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="1018">
+        <Page social="0">C'est une belle armure. Tout à fait ce qu'il nous faut pour combattre le Syndicat Kazuur. Merci&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

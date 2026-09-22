@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">Jodoc était d'avis que Dakanius allait sûrement s'empresser de prendre les mesures nécessaires, en apprenant la défaite de la troupe d'assaut devane. Vous vous êtes mis en route vers le Poste de l'Avant-garde des Bois de l'oubli pour transmettre cet avertissement.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">La troupe d'assaut devane jouissait de l'entière confiance de &lt;font color='#660000'&gt;Dakanius&lt;/font&gt;,&lt;BR&gt;qui a récemment hérité du commandement des devans.&lt;BR&gt;&lt;BR&gt;Dakanius va certainement chercher à se venger.&lt;BR&gt;Nous devons nous préparer à cette éventualité.&lt;BR&gt;&lt;BR&gt;Allez transmettre ce message à Hendry, au Poste de l'Avant-garde.&lt;NEXTPAGEBUTTON&gt;"C'est entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Rendez-vous à l'entrée du village pour demander à Justarius comment aller au Poste d'avant-garde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">J'ai déjà entendu parler de vous. Je vais tout vous expliquer&lt;BR&gt;Vous souhaitez vous rendre au Poste de l'Avant-garde, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Hendry m'a prié de lui envoyer quelques recrues qui viennent d'achever leur formation. Puis-je vous les confier ?&lt;BR&gt;&lt;BR&gt;La région pullule de morts-vivants et elle est donc trop dangereuse pour que des débutants s'y aventurent seuls.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous ne risquez pas de vous perdre.&lt;BR&gt;&lt;BR&gt;Écoutez-moi&amp;nbsp;! Escortez &lt;PCNAME&gt; au Poste d'avant-garde&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3" villagerId="5">
+        <Page social="0">Non... non... je n'ai encore jamais affronté de morts-vivants... mais je ferai de mon mieux&amp;nbsp;! Emmenez-moi avec vous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;(La voix de la recrue tremble.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Venir ici n'est pas une mince affaire, n'est-ce pas ?&lt;BR&gt;Et que pensez-vous de cette recrue, là-bas ?</Page>
+    </Text>
+</QuestDialog>

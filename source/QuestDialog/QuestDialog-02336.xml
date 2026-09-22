@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Avec les armes et les provisions, cet endroit commence à avoir fière allure.&lt;BR&gt;&lt;BR&gt;Cependant, la tribu d'Azra située dans le Sud me cause encore quelques tracas. Pourriez-vous nous aider à leur faire passer toute envie de venir fourrer leur nez dans notre camp ?&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est tout simple. Allez éliminer en secret leurs chefs et ils seront paralysés par la peur.&lt;BR&gt;&lt;BR&gt;Éliminez le bourreau de l'entrepôt à cristaux et le directeur de l'entrepôt à cristaux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="0">&lt;PCNAME&gt;, grâce à vous, les nagas font profil bas. Un grand merci.&lt;BR&gt;&lt;BR&gt;Nous allons attendre les renforts d'Arborea ici.&lt;BR&gt;Je vous en supplie, vous devez à tout prix arrêter Exodor !</Page>
+    </Text>
+</QuestDialog>

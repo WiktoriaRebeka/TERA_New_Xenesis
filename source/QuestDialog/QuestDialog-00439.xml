@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="0">Les vampires et les descendants de Lok étaient de mèche et fabriquaient les pierres magiques rageuses responsables de la maladie. Vous avez appris que le Manoir sinistre abritait le générateur de pierres magiques et vous cherchez un moyen d'entrer dans le manoir avec Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Sur ordre de Volperon, le duc des vampires, le comte et la comtesse montent constamment la garde autour du manoir. &lt;BR&gt;&lt;BR&gt;Nous devons d'abord retrouver le {@LinkObject:5#cercueil de la comtesse} et le {@LinkObject:4#cercueil du comte} et les éliminer. Si nous y parvenons, le duc ne pourra pas nous repérer. Il ne s'apercevra de notre présence qu'une fois que nous serons dans le manoir.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vais jeter un œil dans le passage secret de la {@linkcreature:216#1028#zone inférieure du Manoir sinistre}.&lt;BR&gt;&lt;BR&gt;Éliminez le duc, la comtesse et le comte et retrouvez-moi {@linkcreature:216#1028#là-bas}. Entendu ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Vraiment excellent ! Entrons.&lt;BR&gt;&lt;BR&gt;Quel excellent travail !</Page>
+    </Text>
+</QuestDialog>

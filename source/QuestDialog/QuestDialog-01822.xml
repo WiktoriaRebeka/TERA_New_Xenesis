@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="78" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Demandez à Dougal ce que vous devez faire après avoir terminé vos préparatifs pour le Champ de bataille souterrain.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal vous a invité à rejoindre le Champ de bataille souterrain.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Vous avez fini de vous préparer au Champ de bataille souterrain ? &lt;BR&gt;&lt;BR&gt;Je présume qu'à cet instant précis, des héros puissants d'Arborea s'y livrent déjà d'âpres combats intenses.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je suis curieux de voir comment vous vous en sortirez. Vous me raconterez comment ça s'est passé à votre retour.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Oh, &lt;PCNAME&gt;. Qu'avez-vous pensé du Champ de bataille souterrain. &lt;BR&gt;&lt;BR&gt;J'ai beau connaître votre force prodigieuse depuis bien longtemps, vous ne cessez de m'impressionner, &lt;PCNAME&gt;. Moi aussi, je me sens parfaitement ressourcé à chaque fois que je participe à un tel combat innocent. &lt;BR&gt;&lt;BR&gt;À l'avenir, n'hésitez pas à venir régulièrement vous faire la main dans le Champ de bataille souterrain.&lt;BR&gt;Je suis curieux de découvrir vos exploits.&lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

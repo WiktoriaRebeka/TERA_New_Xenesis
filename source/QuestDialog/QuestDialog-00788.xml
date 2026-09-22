@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Les dépositaires de sagesse enregistrent ce qui s'est passé. Je suspecte votre ami du Bastion, {@LinkCreature:71#1101$$Alais}, de plutôt vouloir connaître l'avenir.&lt;BR&gt;&lt;BR&gt;Pour le remercier de vous avoir {@gender:envoyé/envoyée} à moi, je vais vous révéler où mon clan à entreposé les {@LinkCreature:230#1095#dépositaires de visions} dans le Refuge de Balder.&lt;BR&gt;&lt;BR&gt;Retenez les conseils prophétiques de ces dépositaires, puis dites à Alais ce que vous avez appris.&lt;BR&gt;&lt;BR&gt;Pas besoin d'être prophète pour prévoir qu'il va s'évanouir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1095">
+        <Page social="1">(Sur ce dépositaire est écrit&amp;nbsp;: Mystel, déesse du destin, a averti le dieu Balder que de grandes forces détruiraient bientôt le royaume céleste et affaibliraient grandement les dieux survivants. Balder s'inquiétait que le soleil lui-même ne survive pas à la destruction imminente, il a donc convoqué de sages barakas, menés par le vénérable Vernicus et son fils, Nandu.)&lt;BR&gt;&lt;BR&gt;(Le reste est rédigé dans une langue que vous ne comprenez pas.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1096">
+        <Page social="1">(Sur ce dépositaire est écrit&amp;nbsp;: les sages barakas construisirent le temple pour abriter un don de Balder&amp;nbsp;: le miroir du soleil.&lt;BR&gt;&lt;BR&gt;Si le monde s'assombrit ou que des ennemis le menacent, un véritable héros pénètrera dans le temple et maniera le miroir avec vertu.)&lt;BR&gt;&lt;BR&gt;(Le reste est rédigé dans une langue que vous ne comprenez pas.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1097">
+        <Page social="1">(Sur ce dépositaire est écrit&amp;nbsp;: les barakas s'inquiétèrent, car malgré leur sagesse, comment reconnaîtraient-ils le véritable héros&amp;nbsp;? La déesse du destin, Mystel, les rassura, en leur disant que son nom serait inscrit sur le {@LinkCreature:226#1102$$cénotaphe}, et que le héros porterait une clé.)&lt;BR&gt;&lt;BR&gt;(Le reste est rédigé dans une langue que vous ne comprenez pas.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1098">
+        <Page social="1">(Sur ce dépositaire est écrit&amp;nbsp;: la déesse Mystel ajouta&amp;nbsp;: "j'accorderai la longévité à votre clan, afin que vous puissiez assister à ce jour. Tant que le Motif de Balder ondoie dans le ciel et que le Phare du Soleil brille, vous serez protégés. Vous ne vieillirez pas d'une seconde avant l'arrivée du héros véritable.")&lt;BR&gt;&lt;BR&gt;(Le reste est rédigé dans une langue que vous ne comprenez pas.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="3" villagerId="1101">
+        <Page social="1">{@LinkCreature:230#1047$$Nandu} vous a montré quoi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ainsi Balder a dit aux barakas de construire un temple... Nous avions déjà entendu des prophéties similaires.&lt;BR&gt;&lt;BR&gt;La partie à propos du Motif de Balder, ces glyphes et ces lignes dans le ciel, et du Phare du Soleil est nouvelle par contre. Une telle puissance... si ancienne, si immense. Le reste du Mysterium doit en être averti immédiatement.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" villagerId="1101">
+        <Page social="0">Vous cherchez quelque chose. Je le vois.</Page>
+    </Text>
+</QuestDialog>

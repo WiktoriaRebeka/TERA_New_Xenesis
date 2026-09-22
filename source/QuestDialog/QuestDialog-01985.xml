@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">C'est un message de la fédération.&lt;BR&gt;Allez parler à Laaran, le magistrat de Tria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le magistrat de Tria soupçonnait les révolutionnaires d'être responsables du comportement inexplicable des monstres et de l'enlèvement d'Ameldas.&lt;BR&gt;&lt;BR&gt;En poursuivant les révolutionnaires mis en cause et après avoir interrogé un fonctionnaire, ils ont découvert un monstre cristallisé ainsi qu'Almedas.&lt;BR&gt;&lt;BR&gt;Avec quelques compagnons, vous vous êtes lancé à la poursuite de Hennika, la commandante des révolutionnaires, mais vous avez alors vite compris que les révolutionnaires faisaient leur possible pour endiguer la propagation de la maladie provoquée par la poudre de cristal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="1" villagerId="1011">
+        <Page social="0" voiceTypeId="0">Ces derniers temps, les signalements de révolutionnaires présents dans les environs du village se multiplient.&lt;BR&gt;Mais la troupe de défense du village n'est pas à la hauteur de la tâche.&lt;BR&gt;&lt;BR&gt;Je vous prie de surveiller les agissements des révolutionnaires.&lt;BR&gt;&lt;BR&gt;Et...&lt;NEXTPAGEBUTTON&gt;"Vous avez autre chose à me dire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Une fillette du village nommée Ameldas a disparu.&lt;BR&gt;&lt;BR&gt;Pour l'heure, je me refuse à penser que c'est l'œuvre des révolutionnaires, mais le jour de sa disparition, de nombreux rapports ont signalé la présence de révolutionnaires.&lt;BR&gt;&lt;BR&gt;Pendant vos recherches au sujet des révolutionnaires, vous allez certainement explorer la forêt.&lt;BR&gt;Si vous la trouvez, aidez-la donc à revenir saine et sauve au village.&lt;BR&gt;&lt;BR&gt;En vous rendant dans le camp du Bois des murmures, vous y rencontrerez la préfète Isobel. Elle pourra vous en dire plus sur les activités des révolutionnaires.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="3" villagerId="1030">
+        <Page social="0" voiceTypeId="0">Une horde de phacochères est soudain apparue à proximité du village et il s'est donc empressé d'intervenir.&lt;BR&gt;&lt;BR&gt;Il est sans doute en train d'affronter des phacochères non loin d'ici. Il est probablement à l'entrée du camp.&lt;BR&gt;Vous voulez que je vous y emmène ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1000">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai eu vent de votre venue.&lt;BR&gt;&lt;BR&gt;Selon les rapports de nos éclaireurs, les charriots des révolutionnaires transportent des animaux vivants.&lt;BR&gt;Nous savons donc que, non loin d'ici, les révolutionnaires chargent des animaux vivants dans leurs charriots.&lt;BR&gt;&lt;BR&gt;Il semble donc assez logique de supposer qu'ils ont quelque chose à voir avec la disparition d'Ameldas.&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver les révolutionnaires ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Plusieurs rapports ont signalé la présence de certains d'entre eux dans la forêt, mais le contact avec nos éclaireurs est rompu en raison de l'attaque des phacochères.&lt;BR&gt;&lt;BR&gt;Si nous arrivons à résoudre ce problème de phacochères, nous pourrons contacter le messager chargé d'espionner les révolutionnaires. Je vous prie donc de nous aider.&lt;BR&gt;&lt;BR&gt;Si nous pendons leur pelage sur quelques pics, ils n'oseront pas avancer jusqu'au village. Je vous demande donc de nous procurer quelques pelages de phacochères malades.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1001">
+        <Page social="0" voiceTypeId="0">Les pelages sont lacérés de blessures, mais ils sont surtout rigides, comme si les animaux étaient malades.&lt;BR&gt;Se pourrait-il que quelqu'un les ait capturé avant de les relâcher volontairement ici ?&lt;BR&gt;&lt;BR&gt;Pourrait-il y avoir un rapport avec les charriots des révolutionnaires ?&lt;BR&gt;&lt;BR&gt;Qu'est-ce qu'ils peuvent bien manigancer dans cette forêt ?&lt;NEXTPAGEBUTTON&gt;"Il nous faut plus d'informations."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si nous continuons à espionner les révolutionnaires, nous finirons par obtenir des réponses.&lt;BR&gt;J'aimerais pouvoir m'en charger en personne...&lt;BR&gt;&lt;BR&gt;Un des soldats qui m'a signalé l'apparition des révolutionnaires est actuellement stationné dans le Taillis de Morteseaux.&lt;BR&gt;&lt;BR&gt;Soyez vigilant, les révolutionnaires peuvent attaquer à tout moment.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="29" villagerId="1001">
+        <Page social="0">Vous ne m'avez pas encore procuré le moindre pelage de phacochère malade. Allons, mettez-y vous du vôtre !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="29" prevId="6" villagerId="1004">
+        <Page social="0" voiceTypeId="0">Les révolutionnaires passent régulièrement par ici.&lt;BR&gt;&lt;BR&gt;Leurs charriots sont toujours escortés par des troupes armées, mais j'ai également récemment vu des unités se déplacer sans charriot.&lt;BR&gt;&lt;BR&gt;Je présume qu'il y a beaucoup de charriots au cœur de la forêt.&lt;BR&gt;Si nous parvenons à nous y faufiler et à examiner leur contenu, nous saurons sans doute ce que les révolutionnaires manigancent.</Page>
+        <Page social="0" voiceTypeId="0">La règle de base de l'infiltration est de ne pas se faire repérer. Prenez avec vous la potion que voici pour faciliter votre mission de filature.&lt;BR&gt;&lt;BR&gt;Au moment opportun, servez-vous de l'aiguille de vérité pour interroger un révolutionnaire.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="29" prevId="8" villagerId="1020">
+        <Page social="0" voiceTypeId="0">Les phacochères propagent un fléau.&lt;BR&gt;&lt;BR&gt;Celui-ci transforme le corps des Humains, des phacochères, de toutes les races et de toutes les espèces en une pierre étincelante.&lt;NEXTPAGEBUTTON&gt;"Où est Almedas ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ainsi, la fillette s'appelle Ameldas.&lt;BR&gt;Elle doit être dans le camp. Si elle est encore en vie, vous la trouverez.&lt;BR&gt;&lt;BR&gt;Mais vous feriez mieux de ne pas y aller.&lt;BR&gt;Vous ne pouvez plus rien faire pour cette fillette.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="29" prevId="9" villagerId="1005">
+        <Page social="0" voiceTypeId="0">Tout semble indiquer que les révolutionnaires ont provoqué la cristallisation de la fillette.&lt;BR&gt;&lt;BR&gt;Nous les soupçonnons de chercher à développer une arme afin de cristalliser d'autres Humains.&lt;NEXTPAGEBUTTON&gt;"Cristalliser ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est un phénomène via lequel le corps se transforme en une sorte de gemme.&lt;BR&gt;Quoi qu'il en soit, vu le nombre de révolutionnaires présents dans la forêt, nous ne pouvons pas libérer la fillette sans risque.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, essayez de détourner l'attention des révolutionnaires pendant que j'emmène la fillette auprès d'un soldat de la garnison, non loin d'ici.&lt;BR&gt;&lt;BR&gt;Nous cheminerons ensuite vers la Forêt de l'arbre étoilé pour y éliminer les révolutionnaires restants.&lt;BR&gt;&lt;BR&gt;Quand vous aurez réglé la situation par ici, utilisez cet appareil de localisation pour nous retrouver, Jelena et moi.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="29" prevId="10" villagerId="1007">
+        <Page social="0" voiceTypeId="0">Cela signifierait donc que les révolutionnaires ont défendu cet endroit ?&lt;BR&gt;&lt;BR&gt;La poudre de cristal est à l'origine de la cristallisation de la fillette et des phacochères.&lt;BR&gt;Sans les révolutionnaires, la fillette serait déjà morte.&lt;BR&gt;&lt;BR&gt;Vous ne savez sans doute pas que la cristallisation est contagieuse.&lt;BR&gt;&lt;BR&gt;Vous pouvez nous aider en n'intervenant pas.&lt;NEXTPAGEBUTTON&gt;"Je vais m'efforcer de mettre un peu d'ordre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les animaux chez qui la cristallisation se déclare deviennent nettement plus farouches.&lt;BR&gt;&lt;BR&gt;Si nous ne nous empressons pas d'éloigner les monstres infectés, ce village sera bientôt rebaptisé village des gemmes.&lt;BR&gt;&lt;BR&gt;Nous ne pouvons plus continuer à écarter les monstres.&lt;BR&gt;Bravo ! Maintenant, nous allons devoir nous dépatouiller contre des gens encore plus puissants, sans pouvoir compter sur les révolutionnaires.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="29" prevId="11" villagerId="1017">
+        <Page social="0" voiceTypeId="0">Ça devrait suffire.&lt;BR&gt;Nous devrions faire un rapport des évènements au magistrat.&lt;BR&gt;&lt;BR&gt;J'ai ici un parchemin de téléportation.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="12" villagerId="1011">
+        <Page social="0" voiceTypeId="0">Ainsi, ce n'était pas le fait des révolutionnaires...&lt;BR&gt;Bien, je vais vérifier s'il est envisageable d'évacuer les villageois vers la Forteresse sanglante.</Page>
+    </Text>
+</QuestDialog>

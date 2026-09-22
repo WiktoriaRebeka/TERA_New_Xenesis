@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="4">Vous voilà, &lt;PCNAME&gt;... J'ai entendu dire que vous aviez fait du très bon boulot, dans la région. Comme vous pouvez le voir, les terrons agressifs pullulent dans le coin. D'ordinaire, ce ne sont que des nuisances mineures mais, dernièrement, ils sont devenus agressifs et représentent maintenant une menace sérieuse pour les chercheurs. Regardez un peu ce pauvre Kamarnu... il est venu se réfugier ici après avoir reçu une vilaine blessure.&lt;BR&gt;&lt;BR&gt;Nous ne pouvons laisser les terrons continuer de nous harceler de la sorte. Tuez les {@LinkCreature:13#302#chefs de cercle terrons} des parages et rapportez-moi leurs pétales en preuve du travail accompli.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1147">
+        <Page social="4">Ca devrait suffire, mais il en viendra d'autres, bien sûr. Sautillants, ricanants... ma pauvre épée était destinée à accomplir de plus grandes choses que... des travaux de jardinage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1147">
+        <Page social="0">Maintenant encore, Kamarnu néglige son devoir, aveuglé par son désir de vengeance... un problème assez commun par ici.&lt;BR&gt;&lt;BR&gt;Cependant, contrairement à ceux de Lian, les ennemis de ce baraka se promènent juste sous son nez. Abattez-en quelques douzaines, ça devrait lui remonter le moral.</Page>
+    </Text>
+</QuestDialog>

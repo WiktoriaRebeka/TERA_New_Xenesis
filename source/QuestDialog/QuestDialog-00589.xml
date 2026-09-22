@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="4">L'attaque des fouaille-tripes menace nos positions ici, dans le désert. Mais, si nous ripostons avec force, ils renonceront peut-être. Traquez {@LinkCreature:21#5001#Beldresk, le Seigneur de guerre rôdeur d'escarpement} et tuez-le.&lt;BR&gt;&lt;BR&gt; En fait, je veux que vous me rapportiez une canine. Je l'accrocherai devant notre tente pour leur montrer qu'ils ne nous intimident pas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1025">
+        <Page social="4">Dorénavant, grâce à vous, les rôdeurs d'escarpement y réfléchiront à deux fois avant de nous attaquer.&lt;BR&gt;&lt;BR&gt;Ça ne ramènera pas ceux qui sont morts, mais ça évitera peut-être de nouvelles victimes. Excellent travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1025">
+        <Page social="0">Je n'ai jamais dit que votre tâche serait facile. Prenez le temps qu'il vous faudra pour mettre un plan au point&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous pouvez y arriver&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

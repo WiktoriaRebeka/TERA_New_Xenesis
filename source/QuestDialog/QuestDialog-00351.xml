@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="5">Vous savez pourquoi on nomme cet endroit la "Côte abandonnée"&amp;nbsp;? C'est parce que rien ne peut y survivre bien longtemps.&lt;BR&gt;&lt;BR&gt;La faune termine dans l'estomac des {@LinkCreature:12#9#bouchers du Fouet rouge}, et la flore dans celui des {@LinkCreature:12#11#kamaras des îles}.&lt;BR&gt;&lt;BR&gt;Allez faire le ménage sur cette plage, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Vous pourrez peut-être rendre à cet endroit un peu de sa beauté et de sa tranquillité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1003">
+        <Page social="5">Vous avez nettoyé la plage en solitaire&amp;nbsp;? Je n'aurais jamais cru cela possible.&lt;BR&gt;&lt;BR&gt;Ces saletés finiront par revenir, mais si la vie a le temps de renaître ne serait-ce que momentanément sur cette plage, ce sera grâce à vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

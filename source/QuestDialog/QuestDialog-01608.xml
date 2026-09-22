@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="10031">
+        <Page social="0">Rida et vous avez demandé de l'aide à Kaiator et, sur invitation du commandant Tamur, vous avez rejoint la Fédération Valkyon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="10031">
+        <Page social="0" voiceTypeId="0">(Rida Élin vous parle à voix basse.)&lt;BR&gt;&lt;BR&gt;Pourriez-vous m'accorder une faveur ?&lt;BR&gt;&lt;BR&gt;M... Mais quelqu'un d'autre ferait aussi l'affaire</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="10031">
+        <Page social="4" voiceTypeId="0">Je suis ici pour demander du soutien à Kaiator, au nom de Pora Élinu. Je sais bien que la guerre argonne est assez mal engagée. Ils risquent donc de nous refuser le soutien demandé.  &lt;BR&gt;&lt;BR&gt;Accepteriez-vous de m'accompagner au quartier général ? &lt;NEXTPAGEBUTTON&gt;"Bien sûr !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vraiment ? Merci.&lt;BR&gt;Ne prenez pas ça pour une flatterie, &lt;PCNAME&gt;. Mais Kaiator voit généralement les guerriers comme vous d'un bon œil.&lt;br&gt;&lt;br&gt;En effet, les Amans sont de fiers guerriers. Si vous m'accompagnez, ma demande a bien plus de chance d'aboutir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Bienvenue dans la ville guerrière de Kaiator !&lt;BR&gt;&lt;BR&gt;Vous avez sauvé Pora Élinu ! &lt;BR&gt;Vous m'avez effectivement tout l'air d'un soldat fort capable ! &lt;BR&gt;&lt;BR&gt;La fédération est au courant de la situation à Pora Élinu. Vous avez ma parole. Vous devriez aller soutenir Pora Élinu.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Si nous pouvons vous aider, c'est parce que la situation s'est redressée et nous permet d'envoyer nos troupes sur le Front de Khanovar.&lt;BR&gt;&lt;BR&gt;Mais nous avons une condition : nous sommes à la recherche de talents. &lt;BR&gt;&lt;BR&gt;J'aimerais que vous rejoigniez la fédération pour aller affronter les argons.&lt;BR&gt;&lt;BR&gt;Nous avons toujours besoin d'experts de votre trempe. Acceptez-vous de nous rallier et de vous joindre à cette lutte ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5040">
+        <Page social="4" voiceTypeId="0">Vous jurez de soutenir Kaiator ? &lt;BR&gt;Les gens de Pora Élinu seront ravis d'apprendre cette nouvelle.&lt;BR&gt;&lt;BR&gt;Il reste encore beaucoup à faire dans cette ville.&lt;BR&gt;&lt;PCNAME&gt;, j'espère que vous redoublerez d'effort pour le bien des gens d'ici.&lt;BR&gt;&lt;BR&gt;Il leur faut un modèle à qui s'identifier !&lt;BR&gt;&lt;BR&gt;La menace des argons pèse encore sur la contrée.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Tout s'est bien passé ! Tamur a un certain flair pour dénicher les guerriers d'exception.&lt;BR&gt;&lt;br&gt;Allez sur le champ de bataille et décimez les argons !&lt;br&gt;&lt;br&gt;J'ai un petit cadeau de bienvenue pour vous ! Le commandant Ukenul a sûrement préparé quelque chose à votre intention.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="6" villagerId="5011">
+        <Page social="4" voiceTypeId="0">Merci d'avoir choisi la Fédération Valkyon, &lt;PCNAME&gt;.  &lt;BR&gt;Apparemment, vous auriez bien besoin d'un cheval volant.&lt;NEXTPAGEBUTTON&gt;"Il y a des chevaux volants ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Allez voir Kuna, le quartier-maître du Bureau de contrôle des voyages nord. &lt;br&gt;Il peut vous procurer des destriers volants et des vivres.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="84" prevId="7" villagerId="10032">
+        <Page social="4" voiceTypeId="0">Oh, je me suis trompée sur votre compte.&lt;br&gt;Excusez-moi. &lt;br&gt;&lt;BR&gt;Vous maniez une arme spéciale et je vous ai donc pris pour quelqu'un d'autre.&lt;BR&gt;&lt;BR&gt;En effet la sœur de mon amie utilisait une arme semblable à la vôtre.&lt;BR&gt;&lt;BR&gt;Je m'appelle Hasmina Lian, membre du Mysterium.&lt;NEXTPAGEBUTTON&gt;"Moi, c'est &lt;PCNAME&gt;."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; ? Ce nom me dit quelque chose... &lt;PCNAME&gt;... &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;J'ai entendu parler d'un mercenaire ayant sauvé Pora Élinu.&lt;BR&gt;C'était vous !&lt;BR&gt;&lt;BR&gt;C'est un honneur. Apparemment, vous combattez aussi dans la guerre argonne.&lt;BR&gt;&lt;BR&gt;S'il vous faut des provisions, venez donc me voir.&lt;BR&gt;&lt;BR&gt;Je dois m'y rendre pour régler quelque chose.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="84" prevId="8" villagerId="10033">
+        <Page social="4" voiceTypeId="0">Votre compagnie s'est avérée fort plaisante. Merci.&lt;BR&gt;Je ne peux pas me permettre de rejoindre le champ de bataille pour affronter les argons. &lt;BR&gt;&lt;BR&gt;J'ai bien peur que le conflit qui nous oppose à eux n'en finisse jamais.&lt;BR&gt;Je me demande si j'arriverai à venger ma sœur de mes propres mains. &lt;NEXTPAGEBUTTON&gt;"Je veux bien vous aider à la venger."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Merci bien. Je sais bien que vous tiendrez parole.&lt;BR&gt;Si je le pouvais, je me ruerais sur le champ de bataille à vos côtés.&lt;BR&gt;&lt;BR&gt;Oh, mais n'oubliez pas que vous ne devez pas me rendre ce service si vous ne le souhaitez pas...&lt;BR&gt;&lt;BR&gt;Un beau jour, quand cette guerre sera finie et que les mercenaires du clair de lune se réuniront à nouveau... vous pourrez me dire comment se porte ma sœur Syona ?&lt;BR&gt;J'ai entendu dire qu'elle avait rejoint les mercenaires.&lt;BR&gt;&lt;BR&gt;Mais seulement si ce n'est pas trop demander. Voilà que j'en ai encore trop dit.&lt;BR&gt;Je prends mes provisions et je m'en vais. &lt;BR&gt;&lt;BR&gt;Soyez sur vos gardes !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="84" prevId="9" villagerId="1604">
+        <Page social="4" voiceTypeId="0">Aujourd'hui, tout le monde veut des chevaux volants.&lt;br&gt;&lt;br&gt;Mes stocks sont au plus bas, mais je laisse volontiers ce qui me reste aux guerriers qui luttent contre les argons.&lt;br&gt;&lt;br&gt;Tenez, c'est pour vous !&lt;br&gt;&lt;br&gt;(Il fait une moue contrariée.)&lt;NEXTPAGEBUTTON&gt;"Que vous arrive-t-il donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nos stocks s'épuisent à vue d'œil.&lt;BR&gt;Vous avez de la chance. &lt;BR&gt;Bientôt, je n'aurais peut-être plus rien.&lt;BR&gt;&lt;BR&gt;J'ai reçu un message m'annonçant une réduction du ravitaillement d'Arun.&lt;BR&gt;&lt;BR&gt;Mais je ne peux tout de même pas vous envoyer au casse-pipe les mains vides ! Je compte donc mettre le reste de mes provisions à votre disposition.&lt;BR&gt;Je vous en prie, jetez toutes vos forces dans la lutte contre les argons ! Pour la gloire de Kaia !</Page>
+    </Text>
+</QuestDialog>

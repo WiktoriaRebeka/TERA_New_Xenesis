@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Après avoir exterminé les adorateurs de Lok, vous avez repris la route de Velika.&lt;BR&gt;&lt;BR&gt;Le commandant Seir a organisé une cérémonie pour vous rendre les honneurs qui vous étaient dus, et Elion vous a adressé ses félicitations, en soulignant le rôle déterminant que vous aviez joué dans la défaite des Descendants de Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Rendez-vous à Tulufan pour y parler à Baruch dès que possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Bienvenue !&lt;BR&gt;&lt;BR&gt;Les autorités de Velika ont décidé d'organiser une fête pour célébrer la défaite des descendants de Lok. &lt;BR&gt;&lt;BR&gt;Merci de vous rendre à Velika quand vous en aurez fini ici. &lt;BR&gt;&lt;BR&gt;Troius vous attend devant la Plateforme du pégase. &lt;BR&gt;&lt;BR&gt;Vous allez enfin recevoir une récompense pour vos efforts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4" voiceTypeId="0">J'ai déjà entendu parler de vos exploits, &lt;PCNAME&gt;. Vous êtes vraiment extraordinaire ! &lt;BR&gt;&lt;BR&gt;Je me souviens encore de votre première visite à Velika. &lt;BR&gt;&lt;BR&gt;L'adjudante Uriela vous attend devant le quartier général. Allez donc la voir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1101">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, je vous revois débarquer ici de l'Île de l'aube comme si c'était hier, et pourtant vous avez accompli tellement de choses depuis ce jour. Vous êtes vraiment formidable. Vous avez tout mon respect. &lt;BR&gt;&lt;BR&gt;Votre nom est sur toutes les lèvres à Velika, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ah, je suis toute confuse. Le commandant vous attend à l'intérieur. Entrez donc.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Bon travail, &lt;PCNAME&gt;. La Fédération Valkyon aurait bien besoin de plus de combattants de votre acabit. &lt;BR&gt;&lt;BR&gt;Grâce à vous, nous avons pu maintenir la paix dans le sud d'Arun et assurer la sécurité de la fédération. Je suis impatient de suivre votre prochaine aventure.&lt;BR&gt;&lt;BR&gt;Nous avons préparé une petite fête en votre honneur. &lt;BR&gt;Rendez-vous auprès de l'Escalier de Velik. &lt;BR&gt;&lt;BR&gt;Élion vous y attend.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1169">
+        <Page social="4" voiceTypeId="0">Ah, vous voilà, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Nous n'attendions plus que vous. Que diriez-vous de commencer ? &lt;BR&gt;&lt;BR&gt;Aujourd'hui, c'est vous le clou du spectacle.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1169">
+        <Page social="4" voiceTypeId="0">Sans vous, nous n'aurions jamais pu arrêter Samael et les descendants de Lok. À l'heure actuelle, leur menace planerait encore sur Valkyon. Mes camarades et moi vous en sommes profondément reconnaissants.&lt;BR&gt;&lt;BR&gt;La Fédération Valkyon reste encore confrontée à certains problèmes. Mais tant que nous avons quelqu'un comme vous à nos côtés, l'avenir de la fédération semble radieux. &lt;BR&gt;&lt;BR&gt;Quelle chance de pouvoir compter sur vous en cas de nouvelle menace. &lt;BR&gt;&lt;BR&gt;Vous avez vraiment fait de l'excellent travail. En espérant que notre collaboration restera fructueuse !</Page>
+    </Text>
+</QuestDialog>

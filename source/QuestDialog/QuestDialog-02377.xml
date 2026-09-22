@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3026" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ordre urgent&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Virienne, le chercheur argon de Granarkus, nous a envoyé un avertissement. Merci de venir me trouver dans la base de la Fédération Valkyon à Exodor dès que vous aurez obtenu cette missive.&lt;BR&gt;&lt;BR&gt;Dougal&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement de 473 ou supérieur est requis pour entrer dans le Repaire de Kelsaik akalath.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Virienne, le chercheur argon de Granarkus a informé la Fédération Valkyon de la disparition de la dépouille de Kelsaik. La fédération cherche désormais la cachette secrète des argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous devriez tout d'abord jeter un œil à la lettre de Virienne.&lt;BR&gt;&lt;BR&gt;Tenez, prenez le temps de la lire en détail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Vous connaissez maintenant le contenu de la lettre de Virienne et je ne vais donc pas tourner autour du pot plus longtemps :&lt;BR&gt;nous devons découvrir à quel endroit de la Forteresse de Berak l'énergie de la base énergétique secrète des argons a été envoyée.&lt;BR&gt;&lt;BR&gt;Jelena va nous aider à fouiller la partie sud de la Forteresse de Berak.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, essayez donc de dénicher la cachette dans le sud de la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2015" prevId="4" villagerId="6003">
+        <Page social="0">Salut à vous.&lt;BR&gt;Cet endroit ma toujours fait froid dans le dos. Mais que vos pas vous mènent ici, ça alors...&lt;BR&gt;J'ai récemment vu une lueur singulière qui scintillait au-dessus de ma tête.&lt;BR&gt;C'est probablement aussi cette lumière qui a conduit Jelena jusqu'ici, puisqu'elle a fait son apparition juste après.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, quelque chose se tapit dans les hauteurs de l'île !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2020" prevId="5" villagerId="1502">
+        <Page social="0">Ainsi, vous aussi, vous avez trouvé cet endroit.&lt;BR&gt;Toutefois, vous voir ici ne fait pas que m'emplir de joie.&lt;BR&gt;Ne le prenez surtout pas mal !&lt;BR&gt;&lt;BR&gt;Il s'agit d'un des lieux où l'énergie a été envoyée.&lt;BR&gt;Je suis convaincue que d'autres installations que celle-ci se cachent dans les parages.&lt;BR&gt;&lt;BR&gt;Pendant que vous inspectez cet endroit en détail, je vais aller explorer les autres cachettes potentielles.&lt;BR&gt;Si vous rencontrez des difficultés, n'hésitez pas à demander des renforts.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, retournez auprès de Dougal et faites-lui votre rapport.&lt;BR&gt;À bientôt, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="6" villagerId="50000">
+        <Page social="0">Ainsi, vous affirmez que les ennemis des argons et l'Arkarp cherchaient bel et bien à ressusciter Kelsaik.&lt;BR&gt;C'est bien ce que craignait Virienne... Transformer les morts en argons...&lt;BR&gt;&lt;BR&gt;Je pense que nous allons devoir attaquer le mal à la racine. Mais nous devons d'abord découvrir à quel autre endroit l'énergie a été envoyée.&lt;BR&gt;&lt;BR&gt;C'est de l'excellent travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

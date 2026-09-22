@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La preuve récupérée était d'une importance aux yeux des Scrutateurs de Hautegarde.&lt;BR&gt;&lt;BR&gt;Vous avez combattu jusqu'au grand Scrutateur Janiam afin qu'il vous donne la permission d'entrer dans Hautegarde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Dougal est actuellement en route. Vous devriez discuter de ce sujet avec Madat.&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2107">
+        <Page social="1" voiceTypeId="0">Vous semblez avoir réussi votre mission, &lt;PCNAME&gt;. Vous êtes en route pour Hautegarde, maintenant&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"En effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Alors, ne perdez pas de temps. Vous devriez vous mettre en route sur le champ.&lt;NEXTPAGEBUTTON&gt;"Je ne suis pas tranquille à l'idée de tous vous laisser ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">On ne peut pas déplacer tout le campement le long de cette route sans risquer de lourdes pertes. Pas sans renforts. "Toutes les routes ne doivent pas être empruntées. Toutes les armées ne doivent pas être engagées. Et tous les territoires ne devraient pas être disputés."&lt;BR&gt;&lt;BR&gt;Vous devez nous procurer des renforts à mêmes de nous sortir du piège que nous nous sommes tendus nous-mêmes.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Bienvenue, étrang{@gender:er/ère}&amp;nbsp;! Je m'appelle Durom la sentinelle et suis le commandant de ce détachement de Scrutateurs. Je présume que vous faites partie des étrangers qui ont rejoint la Vallée. Quelle est la raison de votre visite&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est Renish qui m'envoie. Il me faut entrer dans Hautegarde."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Par chance, le grand Scrutateur Janiam vient de me charger d'organiser l'évacuation des résistants vers la ville. Une fois qu'ils se mettent en mouvement sur la route qui mène à Hautegarde, nous utiliserons nos engins de siège pour déblayer un chemin.&lt;NEXTPAGEBUTTON&gt;"Devrais-je en informer mes amis&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je vais faire savoir à Renish qu'il doit préparer le camp pour le départ.&lt;BR&gt;&lt;BR&gt;Pendant ce temps, vous devriez aller parler à Karlam, près de la barricade parthe. Il pourra vous indiquer la route vers notre prochain avant-poste, à partir duquel vous pourrez rejoindre Hautegarde sans trop grand péril.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2063">
+        <Page social="1" voiceTypeId="0">Efforcez-vous de ne pas attirer l'attention, étrang{@gender:er/ère}. Les lignes parthes ne sont pas bien loin.&lt;BR&gt;&lt;BR&gt;Vous avez un message pour moi&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Durom a dit que vous pourriez me faire passer..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je ne partage pas l'optimisme de Durom à ce sujet. Comme vous pouvez le voir, les forces parthes ont le contrôle total sur cette section de la route.&lt;BR&gt;&lt;BR&gt;Je vous demande donc de retourner parler à Durom la sentinelle et lui demander de bien vouloir réévaluer la situation&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Je ne m'attendais pas à vous rencontrer de nouveau dans ces parages. Quelque chose ne va pas&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"La route est bloquée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Bon. Il va falloir que vous fassiez un choix. Il y a une autre route que l'ennemi et nous-mêmes évitons de prendre en raison de la présence d'une forte population de Grizzlis de la vallée et de quelques Mugatos de la vallée. Elle suit un parcours parallèle à la route et débouche juste derrière les lignes ennemies.&lt;BR&gt;&lt;BR&gt;Vous pouvez emprunter ce chemin pour passer et, si vous réduisez un peu le nombre de créatures, il deviendrait alors bien plus sûr d'envoyer les réfugiés du camp par-là, lorsqu'ils arrivent.&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2049">
+        <Page social="1" voiceTypeId="0">Félicitations, étrang{@gender:er/ère}. Je suis le Scrutateur Tercad. J'ai pu assister à votre arrivée et je ne peux qu'être admiratif de votre courage et votre habileté.&lt;BR&gt;&lt;BR&gt;Qu'est-ce ce qui presse tant que vous êtes prêt{@g:/e} à combattre des hordes de bêtes sauvages pour atteindre notre position assiégée&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je suis à la recherche du grand Scrutateur Janiam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Le grand Scrutateur supervise nos opérations un peu plus haut sur la colline.&lt;BR&gt;&lt;BR&gt;Continuez vers l'est et vous ne pourrez pas le manquer.&lt;NEXTPAGEBUTTON&gt;"Merci et bonne chance par ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">Bon, je pense que nous avons maintenant toute leur attention, mais nous devons continuer à les attaquer.&lt;BR&gt;Tuez {@LinkCreature:10#23#Midirix}. D'après les nagas, ses écailles sont aussi solides que ses crocs sont acérés.&lt;BR&gt;&lt;BR&gt;Montrez leur que votre courage n'a pas d'égal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Midirix n'est plus... et nos petits camarades à écailles du temple doivent commencer à sentir que le vent tourne.</Page>
+    </Text>
+</QuestDialog>

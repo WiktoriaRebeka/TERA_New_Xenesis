@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3510#Toray}, de la {@Rgn:47007$$Station de recherche de la Destruction}, a demandé à ce qu'on lui envoie de l'aide. Il ne parvient pas à trouver suffisamment d'échantillons pour l'étude.&lt;BR&gt;&lt;BR&gt;Vos compétences font de vous la personne idéale pour cette mission&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">J'ai aperçu une couvée d'œufs de nagas pas loin d'ici, et je pense qu'ils ont été pondus par des nagas argonomorphes. Vous comprenez l'importance de cette découverte&amp;nbsp;?!&lt;BR&gt;&lt;BR&gt;Malheureusement, sans preuve, ce que j'avance n'est que pure spéculation. J'ai besoin d'échantillons, mais argonomorphes ou pas, les nagas ne se laisseront pas faire.&lt;BR&gt;&lt;BR&gt;Vous pouvez m'aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Oh, oui. Je peux distinguer des différences dans ces éclats.&lt;BR&gt;&lt;BR&gt;Hmm, curieux. Comment les argons ont-ils bien pu faire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Avant tout, je dois parvenir à comprendre comment les argons sont capables d'affecter une race cristalline comme les wendigos.&lt;BR&gt;&lt;BR&gt;Tuez les wendigos contaminés que vous croiserez et rapportez-moi des éclats. C'est là qu'il faut chercher.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">Fascinant. Je m'étais toujours demandé quelles modifications physiques s'opéraient lors de la transmutation des argonomorphes.&lt;BR&gt;&lt;BR&gt;C'est un pas en avant inestimable&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Les modifications qui affectent les nagas ne touchent pas que leurs peaux.&lt;BR&gt;&lt;BR&gt;J'aimerais étudier de la peau de naga qui aurait commencé la transmutation argonomorphe.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">Le jaune d'un œuf contaminé&amp;nbsp;? Fascinant. Je me demande si les parents transmettent les gênes argons à leurs petits...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">J'aimerais étudier un œuf de naga contaminé. C'est la première espèce d'argonomorphe qu'on voit procréer.&lt;BR&gt;&lt;BR&gt;Nous devons anticiper la menace que cela représente.</Page>
+    </Text>
+</QuestDialog>

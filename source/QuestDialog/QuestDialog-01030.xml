@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">On nous a signalé la disparition de plusieurs villageois de Frontera et le magistrat pense que des arachnéens ont fait le coup.&lt;BR&gt;&lt;BR&gt;Allez fouiller les cavernes pour les retrouver. Et sauvez-les, si vous le pouvez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">(Le cadavre a l'air affreusement mutilé.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">(Une odeur de poison émane du corps.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">Les villageois étaient condamnés à la seconde où les arachnéens les ont enlevés.&lt;BR&gt;&lt;BR&gt;C'est dommage, mais vos efforts pour les retrouver restent louables. Merci à vous.</Page>
+    </Text>
+</QuestDialog>

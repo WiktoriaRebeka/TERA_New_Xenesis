@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Un villageois du nom de {@LinkCreature:249#1018} est parti bille en tête pour la plateforme de téléportation est. Il est bien décidé à étudier les argons, quitte à devoir se frotter à eux, mais un enfant de huit ans le battrait au bras de fer.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, rendez-vous à la plateforme et faites votre possible pour lui prêter main-forte. Son courage est méritoire et j'ai besoin de gens comme lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1018">
+        <Page social="6">Vous venez m'aider&amp;nbsp;? Formidable... J'espérais vraiment qu'on m'enverrait un garde du corps.</Page>
+    </Text>
+</QuestDialog>

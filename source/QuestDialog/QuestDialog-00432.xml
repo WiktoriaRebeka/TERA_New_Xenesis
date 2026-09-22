@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="0">Vous avez réussi à vous introduire dans le manoir grâce au plan de Jelena. Jelena a désactivé l'alarme pendant que vous éliminiez le duc Volperon et la comtesse Titania.&lt;BR&gt;&lt;BR&gt;Vous avez trouvé le générateur de pierres magiques servant à fabriquer des pierres magiques rageuses et l'avez fait exploser. Akia, la prêtresse cultiste, a juré de se venger de vous, mais elle s'est enfuie après que vous avez éliminé Malgarios, qu'elle avait invoquée.&lt;BR&gt;&lt;BR&gt;Depuis, une amitié sincère vous unit à Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="4" voiceTypeId="0">L'heure est venue d'entrer dans le manoir. Nous ferions bien de nous disperser. Discutons des détails une fois dans la grotte. C'est compris ?&lt;BR&gt;&lt;BR&gt;Je vous donne une bombe K déstabilisante pour les situations d'urgence. Trouvez le générateur de pierres magiques et détruisez-le. &lt;BR&gt;&lt;BR&gt;Si vous rencontrez des problèmes, utilisez la bombe. En revanche, c'est notre dernière bombe, alors faites-en bon usage. &lt;BR&gt;&lt;BR&gt;Vous voyez la grotte, là-bas ? Entrez-y. &lt;BR&gt;Puissent les dieux veiller sur vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3002" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Chut ! Ils sont en haut de ces escaliers !&lt;BR&gt;&lt;BR&gt;Ressentez-vous ces picotements dans votre nuque ? C'est sans doute dû à la magie de leur appareil. Bon sang, qu'elle est puissante ! Nous devons faire vite. Bon, tout le monde est en position ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3002" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Bien, nous savons maintenant ce qu'il nous reste à faire. Je vais prendre les devants et me cacher à l'intérieur.&lt;BR&gt;&lt;BR&gt;Une fois à l'intérieur, vous verrez un sentier qui mène à l'entrepôt de l'étage supérieur. Retrouvons-nous là-bas.&lt;BR&gt;&lt;BR&gt;À tout de suite !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3002" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Du bon travail.&lt;BR&gt;Le générateur de pierres magiques se trouve à l'étage inférieur. En revanche, la porte dérobée est barricadée et il est impossible de l'emprunter.&lt;BR&gt;&lt;BR&gt;Vous devez d'abord éliminer le duc et la duchesse pour ouvrir la porte dérobée.&lt;BR&gt;&lt;BR&gt;Entrez donc, je vais protéger vos arrières. En montant, vous vous retrouverez face à la {@linkcreature:3002#10#duchesse Tirania} et au {@linkcreature:3002#13#duc Volperon}.&lt;BR&gt;&lt;BR&gt;Éliminez-les et la porte dérobée s'ouvrira alors !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="15" villagerId="4">
+        <Page social="0">Cap sur la porte secrète !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Serait-ce la fin du Manoir sinistre ?&lt;BR&gt;&lt;BR&gt;Nous sommes débarrassés du duc, de la duchesse et avons même détruit le générateur de pierres magiques.&lt;BR&gt;&lt;BR&gt;Et tout ça en une seule journée de travail ! &lt;BR&gt;Vous avez fait un excellent boulot là-dedans !&lt;BR&gt;&lt;BR&gt;Je vais enfin pouvoir me poser et souffler un peu.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="5">Une de mes patrouilles n'a pas donné de nouvelles, et vu tous les dangers qui guettent dans le désert, qui sait ce qui leur est arrivé. Ce n'est pas les façons de mourir qui manquent ici&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils devaient aller au nord. Allez voir si vous retrouvez leur trace.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1026">
+        <Page social="0">(Ce cadavre est horriblement mutilé, comme s'il avait été déchiqueté par une bête sauvage.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="2" villagerId="1027">
+        <Page social="0">(Une profonde coupure ouvre en deux le torse de ce cadavre. On dirait la marque d'une lame orcane.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="2" villagerId="1028">
+        <Page social="0">(Ce cadavre est couvert de plaies.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="224" prevId="2" villagerId="1029">
+        <Page social="0">(Ce cadavre a l'air intact, mais toutes les gourdes à proximité sont vides.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="224" prevId="3" villagerId="1009">
+        <Page social="5">J'espérais qu'il resterait au moins quelques survivants. Quel cauchemar&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci d'avoir récupéré leurs médailles. Jamais nous n'oublierons nos camarades morts au combat.&lt;BR&gt;&lt;BR&gt;J'ai un autre soldat qui s'est retrouvé isolé et j'aimerais que vous alliez lui donner un coup de main, si vous voulez bien.&lt;BR&gt;&lt;BR&gt;Allez retrouver Qasimir, près de l'entrée du village du Vent de Sable... S'il s'y trouve encore.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="224" prevId="7" villagerId="1014">
+        <Page social="4">Morts&amp;nbsp;? Ils sont tous morts&amp;nbsp;? Quelle horreur. Ce doit être difficile à vivre pour Stadrian.&lt;BR&gt;&lt;BR&gt;Cette patrouille était censée s'arrêter ici pour nous aider à combattre les fouaille-tripes.&lt;BR&gt;&lt;BR&gt;Vous vous sentez de taille à prendre le relais&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

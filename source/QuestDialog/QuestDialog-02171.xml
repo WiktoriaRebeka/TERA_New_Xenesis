@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous voulez faire un peu de confection, aujourd'hui&amp;nbsp;? Je vous en prie, dites "oui"&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merveilleux&amp;nbsp;! C'est mon jour de repos. Mais personne ne le sait. Enfin... j'en avais parlé à {@LinkCreature:63#3003#Elthienne}. Je suis malade, alors elle aura sans doute besoin de votre aide, vu la qualité de ce que vous produisez.&lt;BR&gt;&lt;BR&gt;Vous voyez&amp;nbsp;? On y gagne tous les deux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Quel plaisir de vous voir, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} est malade et Barian a besoin d'un artisan de qualité, aujourd'hui. Il préfère sans doute même travailler avec vous. Et une journée sans avoir Taratia sur le dos, ça me fera des vacances.&lt;BR&gt;Remettez votre travail accompli à {@linkcreature:63#3001#Barian}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 2 exemplaires de {@RawItem:206812} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 2 exemplaires de {@RawItem:206813} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 2 exemplaires de {@RawItem:206814} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 2 exemplaires de {@RawItem:206815} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Merci bien !  &lt;BR&gt;&lt;BR&gt;J'espère pouvoir encore compter sur vous la prochaine fois. &lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia}. C'est elle qui a votre récompense.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 2 exemplaires de {@RawItem:206816} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Bon travail, &lt;PCNAME&gt;. Je ne vous en aurais pas vraiment cru capable !&lt;BR&gt;Je vous ai bel et bien sous-estimé...</Page>
+    </Text>
+</QuestDialog>

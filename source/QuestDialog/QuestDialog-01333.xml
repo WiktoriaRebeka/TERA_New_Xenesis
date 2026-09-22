@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Le corps expéditionnaire m'a demandé de me mettre en chasse. A l'heure qu'il est, je devrais déjà avoir rapporté le produit de mon boulot... mais je n'ai rien pris de la journée. Les gars doivent commencer à avoir faim. En fait, ils étaient déjà affamés quand j'ai pris la route.&lt;BR&gt;&lt;BR&gt;Vous voyez ces champignons automnaux qui poussent dans la Plaine des Damnés&amp;nbsp;? Ils sont très nourrissants et n'ont pas si mauvais goût que ça.&lt;BR&gt;&lt;BR&gt;Il m'est impossible d'aller en chercher... je me ferais mettre en pièces. Mais vous...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4">C'est Craxan qui vous envoie&amp;nbsp;? Vous avez la viande qu'il nous a promise&amp;nbsp;?!&lt;NEXTPAGEBUTTON&gt;"En fait..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh... des champignons. Encore.&lt;BR&gt;&lt;BR&gt;Ne traînez pas dans le coin. Quand les autres vont apprendre que ce sera encore soupe de champignons ce soir, ça va être moche.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">Où sont Craxan et sa fichue viande&amp;nbsp;? Nous sommes affamés&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

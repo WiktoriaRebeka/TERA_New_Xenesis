@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="4">La question du minerai préoccupe Castanica et la désaffection des mines commence à se faire ressentir sur l'effort de guerre.&lt;BR&gt;&lt;BR&gt;Mesurez-vous la gravité de la situation ? Nous manquons surtout de &lt;B&gt;{@RawItem:206807}&lt;/B&gt;. La bonne nouvelle c'est que les mines ne sont pas nécessaires pour en obtenir : en effet, de nombreux gisements remontent à la surface. Rapportez-moi un peu de {@RawItem:206807} de la Montagne Fyr et Castanica vous accueillera en héros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
+        <Page social="4">C’est parfait. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1134">
+        <Page social="0">Vous n'avez toujours pas de {@RawItem:206807} ? Depuis la fermeture des mines, Castanica est en crise. Le moindre petit fragment serait le bienvenu, vous savez !</Page>
+    </Text>
+</QuestDialog>

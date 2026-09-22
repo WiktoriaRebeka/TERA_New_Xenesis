@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">Cette mine a été abandonnée pendant des années, puis quelqu’un a recommencé à engager des mineurs. A présent, j’ai entendu dire que les {@LinkCreature:40#14#dévastateurs prions} portent les mêmes insignes que les chefs de la mine.&lt;BR&gt;&lt;BR&gt;Pour le découvrir, il faudrait en tuer quelques-uns. Message envoyé, informations récoltées...&lt;BR&gt;&lt;BR&gt;Ça vous dit&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">Vous nous avez aidés à découvrir une partie de l'énigme, &lt;PCNAME&gt;. Et personne ne vous en voudra si vous avez tué quelques prions au passage.</Page>
+    </Text>
+</QuestDialog>

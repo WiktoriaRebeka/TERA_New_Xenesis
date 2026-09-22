@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1013">
+        <Page social="5">Les ennemis sont à nos portes. Nos forces et les leurs sont au bord de l'épuisement. La bonne nouvelle, c'est qu'ils sont tellement occupés à nous assiéger que nous tenons une bonne occasion de nous en prendre à leur chaîne de commandement.&lt;BR&gt;&lt;BR&gt;Nous devons commencer par éliminer les quelques gardes qu'ils ont laissés dans le coin. Trouvez et éliminez les {@LinkCreature:6#3041#mande-ténèbres} et les {@LinkCreature:6#3042#ravageurs} de Lok chargés de garder l'autel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1013">
+        <Page social="5">Ca n'a pas dû être du gâteau. Le principal, c'est que vous ayez réussi à en sortir indemne. Nous allons pouvoir envisager l'étape suivante.</Page>
+    </Text>
+</QuestDialog>

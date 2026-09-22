@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Je suis ravie de voir que l'évolution de vos compétences s'aligne sur les progrès réalisés dans le développement de la Confrérie des Archers.&lt;BR&gt;&lt;BR&gt;Les soldats de la fédération qui cherchent à devenir Archers se font toujours plus nombreux. J'espère que ce sursaut de popularité nous donnera l'occasion de jouer un vilain tour à ces rats de bibliothèque bien présomptueux.&lt;BR&gt;&lt;BR&gt;J'espère que vous apporterez votre pierre à l'édifice.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mais trêve de bavardage.&lt;BR&gt;&lt;BR&gt;Nous en sommes à la quatrième épreuve, n'est-ce pas ? Vous devez traverser deux fois un donjon correspondant à vos facultés, mais préparez-vous à rencontrer des difficultés.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Cette épreuve étant certainement assez difficile...&lt;BR&gt;&lt;BR&gt;Et le fait que vous l'ayez accomplie avec une telle aisance semble indiquer que vous méritez d'endosser le rôle de membre à part entière de la Confrérie des Archers.&lt;BR&gt;&lt;BR&gt;Pour la prochaine mission, je vais observer attentivement l'étendue de vos compétences.&lt;NEXTPAGEBUTTON&gt;"Je suis confiant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Il y a du nouveau, &lt;PCNAME&gt;. Voici de l'eau bénite. Aspergez-en les cadavres, et leurs âmes pourront reposer en paix dans le Rêve.&lt;BR&gt;&lt;BR&gt;Du coup, plus de fantômes, plus de morts-vivants... rien du tout.&lt;BR&gt;&lt;BR&gt;Encore une chose&amp;nbsp;: quand vous pouvez, récupérez les affaires des morts. On essaie toujours de rendre quelque chose aux familles. Il paraît que ça les aide à faire leur deuil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1112">
+        <Page social="0">(L’eau bénite pétille et bouillonne lorsque vous la versez sur le cadavre. L’ignoble odeur de mort disparaît.)&lt;NEXTPAGEBUTTON&gt;"Retourne dans le Rêve, mon ami."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Vous prenez l’arme à côté du mort et les plaques qui pendent à son cou.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1114">
+        <Page social="0">(L’eau bénite pétille et bouillonne lorsque vous la versez sur le cadavre. L’ignoble odeur de mort disparaît.)&lt;NEXTPAGEBUTTON&gt;"Retourne dans le Rêve, mon ami."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Vous prenez l’arme à côté du mort et les plaques qui pendent à son cou.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1116">
+        <Page social="0">(L’eau bénite pétille et bouillonne lorsque vous la versez sur le cadavre. L’ignoble odeur de mort disparaît.)&lt;NEXTPAGEBUTTON&gt;"Retourne dans le Rêve, mon ami."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Vous prenez l’arme à côté du mort et les plaques qui pendent à son cou.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1110">
+        <Page social="4">Vous avez terminé&amp;nbsp;? Et vous avez des effets personnels pour les familles&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je vais les envoyer immédiatement à Castanica. Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pour la Fédération&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

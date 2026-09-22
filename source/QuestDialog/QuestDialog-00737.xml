@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les chercheurs étudiant les reliques anciennes du Bassin béni ont fait parvenir à la Fédération une demande de renforts. Andras, le teralithe, est devenu fou... Il s'attaque à tout ce qui approche des artefacts. Ces recherches sont d'une importance capitale, c'est pourquoi nous demandons aux Vanarchs et à leurs guildes de nous aider à éliminer {@LinkCreature:26#501#Andras}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Vous avez toute la gratitude de la Fédération&amp;nbsp;! Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="0">L'avant-garde a marché sur Arx Umbra, à la frontière du territoire archidevan, mais a rencontré des ennuis avec des gobelins.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="4">J'ai demandé à vos troupes de quitter Arx Umbra, afin que nous puissions attaquer les Archidevans chez eux. Nous les écraserons ensemble&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vous rejoins bientôt. Je dois juste rendre un dernier hommage aux barakas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4001">
+        <Page social="4">Hein&amp;nbsp;? &lt;PCNAME&gt;&amp;nbsp;? Qu'est-ce que vous faites ici&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;"Où sont passés les soldats&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ils viennent de partir&amp;nbsp;! Je pensais que vous étiez avec eux.&lt;BR&gt;&lt;BR&gt;Mon ami Deoric fait partie de l'arrière-garde. Cherchez-le donc au nord d'ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="4002">
+        <Page social="4">Ces maudits démons&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Des gobelins nous ont demandé de les aider et l'imbécile qui conduisait la charrette s'est arrêté. Et c'est là qu'ils nous ont attaqués. Je me suis pris un bien vilain coup sur le crâne.&lt;BR&gt;&lt;BR&gt;Lorsque je suis revenu à moi, la charrette était partie. Nous devons récupérer la cargaison.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="4023">
+        <Page social="4">(La charrette est vide.)&lt;BR&gt;&lt;BR&gt;(Des empreintes de pas remontent la pente.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="4002">
+        <Page social="4">Plus la moindre caisse&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors ils ont dû les déplacer pendant que j'étais évanoui.&lt;NEXTPAGEBUTTON&gt;"On dirait qu'ils sont revenus sur la route."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bien. Vous devriez vous lancer à la poursuite des provisions. Je vous rejoindrai plus tard.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4003">
+        <Page social="4">Du superbe travail.&lt;BR&gt;&lt;BR&gt;Je vais les porter à partir d'ici. Quant à vous, rattrapez le reste des troupes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="4003">
+        <Page social="0">Je les pendrai, ces vauriens&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="4004">
+        <Page social="4">Votre absence nous a fait craindre le pire. Quel bonheur que vous nous ayez rejoints. &lt;BR&gt;&lt;BR&gt;Rhodos nous a demandé de tenir cette position pendant qu'il vous attend à l'avant-poste de Domare.&lt;BR&gt;&lt;BR&gt;Ce n'est pas loin d'ici, mais soyez prudent{@g:/e}. Vous entrez dans une zone périlleuse.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="191" prevId="9" villagerId="2102">
+        <Page social="4">Qu'ont-ils fait à ce pays, ces maudits Archidevans&amp;nbsp;? Regardez donc le ciel&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il est temps de mettre un terme à cet infernal complot. Vous êtes partant{@g:/e}&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">Nous sommes ici pour veiller à ce que les mort-vivants restent à leur place. Ce qui, pour moi, signifie qu'ils doivent être morts, ou au moins qu'ils ne doivent pas quitter leur caverne.&lt;BR&gt;&lt;BR&gt;Si vous pouvez nous débarrasser des {@LinkCreature:20#30114002#préfets ossugons}, je crois que les autres devraient se tenir tranquilles pendant un moment.&lt;BR&gt;&lt;BR&gt;Oh&amp;nbsp;! Et n'oubliez pas leurs crânes&amp;nbsp;! Ils ne peuvent pas se ranimer sans eux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1027">
+        <Page social="4">Excellent&amp;nbsp;! Quand ils sont en morceaux comme ça, tout danger est écarté&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'espère que le reste se tiendra tranquille.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1027">
+        <Page social="0">Vous avez envie de les voir se promener en liberté en dehors de cette caverne&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="86" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Si vous projetez de vous balader sur l'ile, vous devriez apprendre à maitriser une bombe&lt;BR&gt;&lt;BR&gt;Parlez à {@LinkCreature:64#1029#Kiriya}, elle vous mettra le pied à l'étrier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">QUOI&amp;nbsp;? JE NE VOUS ENTENDS PAS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'AI BOSSE TOUTE MA VIE AVEC DES EXPLOSIFS ET IL EST TEMPS POUR MOI DE TRANSMETTRE MON SAVOIR&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;CA VOUS TENTE D'APPRENDRE A FAIRE SAUTER DES TRUCS&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Allons-y&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">CE N'EST PAS BIEN COMPLIQUE A UTILISER&amp;nbsp;! LANCEZ CETTE BOMBE DE MAGMA SUR CE {@LinkCreature:13#888#MANNEQUIN D'ENTRAINEMENT}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;CE QUI EST PRATIQUE, AVEC LES BOMBES, C'EST QUE QUAND CA MARCHE, ON LE SAIT TOUT DE SUITE&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">SAVOIR FAIRE SAUTER DES TRUCS, C'EST TRES IMPORTANT, SURTOUT FACE A UNE HORDE D'ENNEMIS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;MAINTENANT, JE VOUS LAISSE PARTIR SAUVER LE MONDE LIBRE. DITES A JORHON QUE VOUS AVEZ MON APPROBATION&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Kiriya est... spéciale, n'est-ce pas&amp;nbsp;? A travailler dans ce vacarme permanent, je me demande comment elle fait pour ne pas devenir parfaitement sourde.&lt;BR&gt;&lt;BR&gt;Mais si elle a donné son accord, je peux vous déclarer apte au service.&lt;BR&gt;&lt;BR&gt;Bientôt, vous devrez mettre à profit ce que vous avez appris ici.</Page>
+    </Text>
+</QuestDialog>

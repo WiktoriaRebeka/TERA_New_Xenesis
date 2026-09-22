@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="4">Les nécromanciens sont en train de déterrer des ossements, et j'ai bien peur qu'ils aient dans l'idée de lever une armée de squelettes.&lt;BR&gt;&lt;BR&gt;Je sais que la perspective n'a rien de plaisante, mais je dois vous demander d'aller récupérer ces tas d'ossements, sans quoi l'ennemi disposera de soldats recyclables à volonté.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="4">Nous l'avons échappée belle, pas vrai&amp;nbsp;? J'ose à peine imaginer ce qui se serait passé si ces ossements avaient été transformés en soldats.&lt;BR&gt;&lt;BR&gt;Bon travail, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">Récupérez ces ossements avant que les nécromanciens ne les transforment en soldats&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

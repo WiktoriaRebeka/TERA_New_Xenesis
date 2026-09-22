@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Balder a laissé de nombreuses reliques ici après sa mort. La plupart d'entre elles pourrissent au milieu des mauvaises herbes, mais quelques-unes sont toujours en état de marche.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3001#Semas} a d'ailleurs besoin d'aide pour l'une d'entre elles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3001">
+        <Page social="4">Arisel ne fait pas dans la dentelle, mais n'y prêtez pas attention.&lt;BR&gt;&lt;BR&gt;Il existe un appareil, appelé {@WorkObject:95}, qui se trouve dans la {@Rgn:30007$$Tour oubliée} et qui aide les plantes et les ghilliedhus à pousser.&lt;BR&gt;&lt;BR&gt;Il doit normalement fonctionner de manière automatique, mais ce n'est pas forcément le cas. Allez le réenclencher s'il vous plaît...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3001">
+        <Page social="4">Quel endroit merveilleux.&lt;BR&gt;&lt;BR&gt;C'est ici que Balder et Seren avaient l'habitude de se couper du monde. Vous vous tenez exactement là où ils aimaient se reposer.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">Nous ne pouvons pas laisser les argons continuer de renforcer cette forteresse. Ils font arriver des combattants par les transporteurs zolnajs.&lt;NEXTPAGEBUTTON&gt;"C'est grave."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Exactement. Je veux que vous détruisiez plusieurs de ces transporteurs avant de revenir ici. Nous déciderons de la suite à ce moment-là.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Beau travail, je ne garderai que des bons souvenirs de cette mission réussie. Il nous en faudra d'autres.&lt;BR&gt;&lt;BR&gt;Les shariars apprécient votre courage. Il compense presque nos forces amoindries.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1012">
+        <Page social="0">Tant que ces transporteurs fonctionnent, les argons restent puissants.</Page>
+    </Text>
+</QuestDialog>

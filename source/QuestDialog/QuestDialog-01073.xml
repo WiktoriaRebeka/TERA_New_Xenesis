@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Les orkans de la Vallée sauvage étaient divisés en deux camps qui s'affrontaient mutuellement. Mais voilà qu'ils se sont soudain réconciliés et se sont mis à attaquer la fédération.&lt;BR&gt;&lt;BR&gt;Ils menacent Allemantheia et il faut donc les exterminer.&lt;BR&gt;&lt;BR&gt;Nous comptons sur vous pour nous y aider. Pour en savoir plus, allez trouver Lauma à Frontera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Cette soudaine alliance des orkans nous met au pied du mur. La seule bonne nouvelle, c'est que tous les orkans ne l'ont pas rejoint... certains sont même venus ici pour demander asile. C'est à peine croyable !&lt;BR&gt;&lt;BR&gt;Grunath a les derniers rapports concernant les orkans.&lt;BR&gt;&lt;BR&gt;Allez donc lui parler dans la Station de la Vallée sauvage. Nous manquons d'informations pour pouvoir forger un plan plus efficace.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1025">
+        <Page social="5" voiceTypeId="0">Si vous voulez en savoir plus sur les orkans, je pense que les jeunes orkans qui ont trouvé refuge ici pourront vous en dire plus que moi.&lt;BR&gt;&lt;BR&gt;Le plus étonnant, c'est qu'ils sont aussi intelligents que vous et moi. Cela m'a aussi stupéfié. Bref ! Allez parler à Kechaku, à l'avant-poste extérieur de la Vallée sauvage. Vous en apprendrez sans doute plus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Notre tribu sait depuis longtemps que les orkans auraient intérêt à faire la paix avec la Fédération, mais ces imbéciles de la Griffe noire…&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, ils n'ont pas attaqué la fédération de leur propre chef. Les {@linkcreature:41#301#bourreaux gulas}, la Main de Thulsa et les intrigants gulas ont soudain surgi pour inciter les orkans à attaquer la fédération.&lt;BR&gt;&lt;BR&gt;Si nous éliminons les bourreaux gulas, les orkans vont se calmer. Merci de les éliminer, pour le salut de la fédération mais aussi des orkans. Quand vous aurez fini, allez trouver {@linkcreature:241#1022$$Paduk}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="241" prevId="5" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Excellent travail. C'est le chaos total chez les orkans. Ha ha ha !&lt;BR&gt;&lt;BR&gt;Mais comme leur chef est encore en vie, ils ne tarderont pas à se reprendre.&lt;BR&gt;&lt;BR&gt;Nous devons l'éliminer, c'est aussi simple que ça.&lt;BR&gt;&lt;BR&gt;Enfin, ce n'est pas tout à fait simple. Empochez cette flûte d'invocation et prenez la route qui rallie l'avant-poste extérieur au repaire des tentacullars. Vous le trouverez sur le côté droit en prenant la route vers le sud.&lt;BR&gt;&lt;BR&gt;C'est dans le repaire que vous trouverez &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-38952.0625,63845.6445,1011.6011&amp;type=1&amp;name=Paxomnia"&gt;Paxomnia&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Utilisez la flûte d'invocation pour entrer en contact avec notre collaborateur orkan.&lt;BR&gt;&lt;BR&gt;Il vous aidera à vous débarrasser du chef.&lt;BR&gt;Apportez la tête du chef à notre commandant, Karba le révéré.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="241" prevId="6" villagerId="1026">
+        <Page social="5" voiceTypeId="0">Vous voulez aller trouver le chef ? Graatush vous indiquera la route à suivre. Allez dans le sud de la Vallée sauvage et trouvez {@linkcreature:41#302#Badoask}, le combattant enragé Griffe noire. Éliminez-le et apportez sa tête à Karba le révéré.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="241" prevId="7" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Ainsi, vous représentez la fédération.&lt;BR&gt;&lt;BR&gt;(Vous indiquez à Karba que vous avez éliminé Badoask.)&lt;BR&gt;&lt;BR&gt;Comment est-ce possible ? Que s'est-il passé ?&lt;BR&gt;&lt;BR&gt;(Karba semble irrité)&lt;BR&gt;&lt;BR&gt;Badoask n'est pas le chef des bellicistes ! Comment un malentendu aussi terrible a-t-il pu se produire ? Qu'avez-vous fait ?&lt;NEXTPAGEBUTTON&gt;"C'est Gratuush qui m'a dit..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Gratuush ?!&lt;BR&gt;&lt;BR&gt;Mais Gratuush est le bras droit du chef des orkans ! Il vous a dupé pour que vous éliminiez Badoask, notre très cher et irremplaçable ami. Éliminez son maître ! Éliminez {@linkcreature:41#303#Vadrask}, le chef des orkans ! Apportez-moi sa tête !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Je ne vous adresserai plus la parole avant de voir la tête du chef des orkans.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="241" prevId="8" villagerId="1021">
+        <Page social="4" voiceTypeId="0">(Vous ramenez la tête de Vadrask à Karba.)&lt;BR&gt;&lt;BR&gt;C'est bien ça... c'est la tête de l'ignoble Vadrask. À présent, Graatush et les autres orkans n'auront plus le courage d'attaquer la fédération. La mort de Badoask n'en est pas moins une grande perte.&lt;BR&gt;&lt;BR&gt;Nous sommes une minorité. La majorité continuera à nous dédaigner et à vouloir la guerre. Ils nous prennent pour des lâches.&lt;BR&gt;&lt;BR&gt;La fédération pourrait l'emporter en attaquant maintenant, mais j'aspire à la paix.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, remettez cette lettre au préfet Lauma, à Val Palrada. J'y fais part de mon désir de paix.&lt;BR&gt;&lt;BR&gt;La fédération en prendra peut-être acte.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Vadrask ! Maudit soit ce nom. Vous avez sa tête ?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="75" prevId="10" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Oh, les orkans ont envoyé une lettre ? Quelle surprise. Karba le révéré veut la paix.&lt;BR&gt;&lt;BR&gt;Mais la plupart des orkans sont hostiles à la fédération. Vous croyez que les orkans pourront se mettre d'accord ?&lt;NEXTPAGEBUTTON&gt;"J'en doute fort."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Karba est éloquent, mais ses mots seuls ne suffiront pas à convaincre le commandement de Valkyon. Je vais tout de même leur envoyer la lettre.&lt;BR&gt;&lt;BR&gt;Ils verront peut-être quels avantages nous aurions à rallier les orkans à notre cause.&lt;BR&gt;&lt;BR&gt;Mais ne soyez pas trop optimiste. J'ai parfois l'impression que notre état-major redoute la paix.</Page>
+    </Text>
+</QuestDialog>

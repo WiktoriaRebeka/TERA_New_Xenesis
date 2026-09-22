@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">L'artisanat dans l'effort de guerre&lt;BR&gt;&lt;BR&gt;Soutenez la Fédération et l'effort de guerre en fabriquant des armes pour nos soldats&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous avons besoin de bâtons de recrue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">C'est bon de vous voir ici. Certains soigneurs n'ont pas d'armes, et des prêtres sans bâtons, ça fait désordre.&lt;BR&gt;&lt;BR&gt;Allez trouver Dirine dans la zone de fabrication de focus à l'Atelier de création, il sait comment en fabriquer. Allez-y et récupérez des matériaux à l'atelier selon vos besoins.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1606">
+        <Page social="0">Il est nécessaire de comprendre avant de pouvoir fabriquer.&lt;BR&gt;&lt;BR&gt;Comprendre, c'est parfois aussi simple que d'accepter.</Page>
+    </Text>
+</QuestDialog>

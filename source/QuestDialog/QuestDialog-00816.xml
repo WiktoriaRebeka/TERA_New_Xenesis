@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="4">Au sommet de la colline située à l'ouest de la Crique de Glacecroc, se trouve un phare. Avant que cette tempête magique ne survienne, le gardien du phare empêchait les navires de venir s'échouer, mais maintenant que la crique a entièrement gelé, il nous serait plus utile ici.&lt;BR&gt;&lt;BR&gt;Qui plus est, les {@LinkCreature:31#10#sentinelles des confins de givre} ont envahi le chemin menant au phare. Nous nous inquiétons tous pour Mogel qui est resté tout seul là-haut. Vous pourriez dégager le chemin et l'aider à redescendre se mettre à l'abri ici&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1006">
+        <Page social="4">Je ne crois pas avoir déjà eu l'occasion de vous croiser dans le coin. Vous avez fait du bon boulot avec ces sentinelles des confins de givre. Il doit être difficile de combattre ces créatures par un froid pareil.&lt;BR&gt;&lt;BR&gt;On vous envoie me chercher&amp;nbsp;? Eh bien, dites à ces gens qu'il n'en est pas question&amp;nbsp;! Je ne redescendrai pas. Cet endroit est plein de souvenirs... mes fils... ma vie. Navires ou pas, ce phare continuera d'éclairer la crique jusqu'à mon dernier souffle.&lt;BR&gt;&lt;BR&gt;Remerciez-les de ma part de leur sollicitude, mais ce n'est plus la peine de venir me déranger.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1011">
+        <Page social="4">Je savais que ça risquait de se passer comme ça. {@LinkCreature:31#30#Endain}, {@LinkCreature:31#31#Endrenlas} et {@LinkCreature:31#32#Enkanas}, les fils de Mogel, comptaient au nombre des soldats d'Acarum chargés de défendre la côte. Ils sont morts lors du débarquement des nagas, peu de temps avant que la tempête ne se déchaîne.&lt;BR&gt;&lt;BR&gt;Mais cette triste histoire ne s'arrête pas là. Les trois frères arpentent encore la Plaine des Tempêtes.&lt;NEXTPAGEBUTTON&gt;"Comment ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La magie de Thulsa a forcé les fils de Mogel, qui hantent désormais nos terres, à arpenter le Rêve.&lt;BR&gt;&lt;BR&gt;Mogel est certainement au courant... comment pourrait-il l'ignorer&amp;nbsp;? La proximité des monstres qui ont pris la peau de ses fils l'expose encore plus au danger.&lt;BR&gt;&lt;BR&gt;Si vous alliez mettre un terme aux souffrances des trois frères avant de rapporter leurs affaires, j'irai les donner moi-même à Mogel. Il accepterait peut-être de quitter enfin le phare.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1011">
+        <Page social="10">Nous n'oublierons jamais cette triste histoire, ni le dévouement dont vous avez fait preuve. Je vais rapporter ces affaires à Mogel et veiller à ce qu'il me suive.&lt;BR&gt;&lt;BR&gt;Merci de votre aide.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Vous devez retrouver les fils de Mogel et les libérer du cauchemar dont ils sont prisonniers.</Page>
+    </Text>
+</QuestDialog>

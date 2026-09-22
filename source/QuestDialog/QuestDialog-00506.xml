@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Au moins, maintenant, je sais que je peux vous faire confiance. Je suis certain que Licinza nous a trahis. En dénonçant un espion, on peut le faire mettre en prison. Mais en le piégeant, on peut s'en servir&amp;nbsp;! Je sais quoi faire avec Licinza, mais {@LinkCreature:17#205#Vilastasia}, la maîtresse-espionne du Culte, va comprendre ce qui s'est passé avec le registre.&lt;BR&gt;&lt;BR&gt;Il nous faut donc la tuer. C'est ça&amp;nbsp;! Protégez le secret et l'espion... Vous pensez que c'est dans vos cordes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Bien joué, soldat&amp;nbsp;! Nous allons pouvoir envoyer leurs pillards où bon nous semble&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Gagner une guerre, c'est une question de stratégie et d'espionnage, et vous nous avez montré ce que vous valiez dans ces deux domaines, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

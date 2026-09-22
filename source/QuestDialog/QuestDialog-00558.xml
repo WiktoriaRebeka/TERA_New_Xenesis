@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="4">Le seul objectif de la Confrérie libre était de parvenir à une forme de commerce équitable. L'agriculture est un travail de bête de somme et tout ce que nous demandions, c'était un peu de reconnaissance.&lt;BR&gt;&lt;BR&gt;Et puis, certains d'entre nous ont commencé à... se transformer... en monstres. J'ignore comment j'ai réussi à échapper à ce fléau. S'il vous plaît... Vous devez aller tuer les {@LinkCreature:19#4002#fendeurs de Lok}.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs insignes. J'ai une idée en tête.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1006">
+        <Page social="4">Je vous remercie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1006">
+        <Page social="0">J'aimerais vraiment mettre la main sur ces insignes.</Page>
+    </Text>
+</QuestDialog>

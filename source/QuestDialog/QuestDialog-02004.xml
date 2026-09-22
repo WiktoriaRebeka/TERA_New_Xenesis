@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Voici votre deuxième mission.&lt;BR&gt;&lt;BR&gt;Celle-ci vous demande encore une fois de traverser deux fois un donjon à la hauteur de vos compétences. &lt;BR&gt;&lt;BR&gt;Les missions semblent identiques, mais le niveau de difficulté a grimpé et vous devriez donc vous préparer avec soin.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Apparemment, vous avez quelque peu affûté vos compétences.&lt;BR&gt;&lt;BR&gt;Mais n'oubliez pas qu'il vous reste bien du chemin à parcourir. Pour pouvoir accomplir la prochaine tâche, il va vous falloir maîtriser de nouvelles techniques.&lt;NEXTPAGEBUTTON&gt;"Je vais m'efforcer de progresser."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

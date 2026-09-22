@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="4">Les {@LinkCreature:4#2041#ravageurs eldritchs} sapent le moral des troupes. Ils font trop de dégâts parmi nos hommes, et ils... ils nous narguent à chaque soldat qu'ils tuent.&lt;BR&gt;&lt;BR&gt;Massacrez-les, &lt;PCNAME&gt;. Donnez-nous de quoi les faire bisquer, pour changer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1136">
+        <Page social="4">Très impressionnant, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Non seulement vous avez affaibli l’ennemi, mais nos soldats sont déjà en train d’inventer des insultes portant sur l’incapacité de l’ennemi à se défendre contre {@g:un seul/une seule} &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Je vous répéterais bien ces insultes, mais... elles sont vraiment très, très malpolies.</Page>
+    </Text>
+</QuestDialog>

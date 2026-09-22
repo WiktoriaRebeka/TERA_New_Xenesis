@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="403" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="403" endSocial="14" prevId="0" villagerId="1001">
+        <Page social="4">Un plan ressemble beaucoup à une source, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je veux dire que ses parties coulent en quelque sorte... et que... euh...&lt;BR&gt;&lt;BR&gt;Hmm, ça ne tient pas vraiment la route.&lt;BR&gt;&lt;BR&gt;Enfin, si vous avez besoin de quoi que ce soit, dites-le-moi.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="403" endSocial="0" prevId="0" villagerId="1001">
+        <Page social="0">Vous souhaitez partir&amp;nbsp;?&lt;TEXTBUTTON&gt;"J'accepte votre aide."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Quitter l'Aura&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

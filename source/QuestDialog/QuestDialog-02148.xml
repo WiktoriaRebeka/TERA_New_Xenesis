@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">C'est le calme plat, aujourd'hui.&lt;BR&gt;&lt;BR&gt;Trouvez {@LinkCreature:71#3014#Arura} et offrez-lui votre aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">C'est toujours agréable de vous voir.&lt;BR&gt;&lt;BR&gt;J'aurais bien besoin de fruits, si vous n'avez rien à faire en ce moment.&lt;BR&gt;&lt;BR&gt;Mais une fois que vous les aurez rapportés, détendez-vous un peu, prenez le soleil&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Bravo.&lt;BR&gt;&lt;BR&gt;Et maintenant, asseyez-vous contre le mur et pelez-vous un fruit.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2503">
+        <Page social="4" voiceTypeId="0">Moi, c'est Paesyn, de l'unité spéciale !&lt;BR&gt;&lt;BR&gt;J'aimerais nous sauver, Zolyn et moi !&lt;BR&gt;&lt;BR&gt;J'ai donc réalisé diverses recherches !&lt;NEXTPAGEBUTTON&gt;"Quelles recherches ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Des recherches sur un voyage pour un autre monde.&lt;BR&gt;&lt;BR&gt;Mes recherches m'ont tellement obnubilé que je n'ai pas le temps de combattre.&lt;BR&gt;&lt;BR&gt;Pourtant, je n'ai pas encore réussi à mener mes recherches à bien et le temps presse.&lt;NEXTPAGEBUTTON&gt;"Ah bon ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Voilà pourquoi j'ai besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Rendez-moi donc un service !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est vrai ? Merci.&lt;BR&gt;&lt;BR&gt;Je vais donc ouvrir une Porte des dimensions à votre intention.&lt;BR&gt;&lt;BR&gt;Empruntez-la pour réaliser votre tâche.&lt;BR&gt;&lt;BR&gt;Je vous rejoins dès que possible !</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez sauvé Paesyn et Zolyn dans l'autre monde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2503">
+        <Page social="5">Merci d'avoir sauvé Paesyn et Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="10100">
+        <Page social="2">Grâce à vous, Zolyn et Paesyn ont une deuxième chance.&lt;BR&gt;&lt;BR&gt;Voir Zolyn de loin me suffit amplement.&lt;BR&gt;&lt;BR&gt;Un grand merci.</Page>
+    </Text>
+</QuestDialog>

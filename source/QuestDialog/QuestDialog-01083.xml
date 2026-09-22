@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0">Les {@LinkCreature:41#2008#tentacullars des marais} et les {@LinkCreature:41#2009#tentacullars des marécages} vivent dans les deux &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-37835,67917,1178&amp;type=1&amp;name=grottes"&gt;grottes&lt;/A&gt;&lt;/font&gt; au nord d'ici.&lt;BR&gt;&lt;BR&gt;Nous buvons leur sang pour devenir plus forts et nous l'offrons également en gage d'amitié. Kuban va bientôt rendre visite aux chefs de tribus orkans. Cela ferait un excellent gage de paix.&lt;BR&gt;&lt;BR&gt;Vous pourriez en trouver pour {@LinkCreature:241#1013$$Kuban}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="0">Ah, quelle merveilleuse odeur&amp;nbsp;! Il faut que je me retienne de tout boire moi-même&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Après tout, on n'est pas à une gorgée près…</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1013">
+        <Page social="0">Le sang de tentacullar fera un beau cadeau pour les tribus que je veux convertir à la paix.</Page>
+    </Text>
+</QuestDialog>

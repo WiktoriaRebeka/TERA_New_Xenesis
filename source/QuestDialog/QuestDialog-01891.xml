@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Papy m'a donné cette carte. "Avil, qu'il a dit, cette carte indique précisément où Baracos, Seigneur du Labyrinthe, cache ses trésors."&lt;BR&gt;&lt;BR&gt;Ma sœur dit que Papy aurait dit n'importe quoi pour nous inciter à aller nous coucher le soir, mais c'est une vieille harpie&amp;nbsp;! Moi, j'y crois&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous allez vous enfoncer dans le Labyrinthe d'Or, alors regardez si vous ne trouvez pas ces trésors cachés&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Vous ne voulez pas m'accompagner&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci, sans façon&amp;nbsp;! Quand j'étais petit, ma sœur m'a fait tomber dans un puits, et il y avait des bébés caïmans au fond&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Depuis, j'ai la phobie de tout ce qui a des écailles.&lt;BR&gt;&lt;BR&gt;Je serais hors d'état de faire quoi que ce soit avant d'atteindre la porte, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3005" prevId="2" villagerId="1017">
+        <Page social="0" voiceTypeId="0">(Des vieilleries, des bandages usés jusqu'à la corde et une dague rouillée. Tout cela n'a aucune valeur.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3005" prevId="2" villagerId="1018">
+        <Page social="0" voiceTypeId="0">(Un bracelet au scintillement blafard est posé au milieu de morceaux de bois.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Une dague rouillée et un bracelet brillant&amp;nbsp;? Peut-être que Papy exagérait un peu finalement&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

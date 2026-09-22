@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous voulez une autre dose de combats sanguinolents&amp;nbsp;? {@LinkCreature:63#3003#Elthienne} vous dira où aller et quelle créature tuer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Vous aimez Val Aureum&amp;nbsp;? Vous voulez bien y aller et terminer un petit travail peu ragoûtant&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Parfait&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Les {@Rgn:18001#Ruines colossales}, hein&amp;nbsp;? Et elles sont vraiment grandes&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Devinez qui a votre argent&amp;nbsp;? Eh oui, gagné, c'est {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous souhaitons que vous éliminiez quelques {@LinkCreature:18#17#teralithes anciens} dans les {@Rgn:18001#Ruines colossales} et que vous rapportiez quelques fragments de leurs corps massifs et bourrus.&lt;BR&gt;&lt;BR&gt;Contre les cors au pied, c'est radical. Mais bon, ils ne serviront pas qu'à ça.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Alors, ce voyage jusqu'aux {@Rgn:18001#Ruines colossales}&amp;nbsp;? J'imagine que ça n'a pas été une promenade de santé, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Merci. {@LinkCreature:63#3003#Elthienne} vous récompensera pour cette mission.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous souhaitons que vous éliminiez quelques {@LinkCreature:18#18#gladiateurs géants} dans les {@Rgn:18001#Ruines colossales} et que vous rapportiez quelques-unes des manchettes qu'ils portent à leurs énormes pouces. Elles sont fabriquées dans un métal difficile à trouver.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Joli travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Où va-t-on bien pouvoir vous envoyer après ça&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

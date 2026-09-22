@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="4">Les wendigos ne sont pas des brutes stupides, loin de là. Ils maîtrisent la magie, tout comme nous, et c'est ce qui les rend tellement dangereux.&lt;BR&gt;&lt;BR&gt;Je vais vous envoyer chasser leurs {@LinkCreature:34#510#mages de givre} et {@LinkCreature:34#500#tisse-givres} wendigos pour récupérer leurs armes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1008">
+        <Page social="4">Magnifique. Sans leurs armes, les wendigos perdent une grande partie de leur puissance magique, ce qui réduit la menace.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1008">
+        <Page social="0">A quoi sert de tuer des wendigos si vous laissez leurs focus à côté d'eux pour que d'autres wendigos s'en servent&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tuez les mages de givre et les tisse-givre et récupérez leurs armes magiques.</Page>
+    </Text>
+</QuestDialog>

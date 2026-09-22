@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="4">Parlan m'a demandé de l'aider dans ses recherches, mais j'ai bien peur qu'il ait un peu perdu la tête. Il a besoin de racines de ghilliedhus, et c'est à MOI qu'il a demandé d'aller en chercher.&lt;BR&gt;&lt;BR&gt;J'ai à peine la force d'arracher des mauvaises herbes dans un jardin, et il faudrait que j'aille combattre des espèces d'arbres ambulants monstrueux&amp;nbsp;? Pourriez-vous aller au nord de la Vallée de la Bête pour y récupérer des racines de {@LinkCreature:3#3#ghilliedhus moussus}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1001">
+        <Page social="4">Vous me sauvez la mise, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est exactement ce dont Parlan avait besoin. Vous pourriez aller les lui remettre&amp;nbsp;? Je dois terminer mon étude de la flore locale.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1001">
+        <Page social="0">Parlan ne s'intéresse qu'aux racines de {@LinkCreature:3#3#ghilliedhus moussus}. Je ne pense pas qu'on puisse le duper en lui présentant autre chose.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1009">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Content de vous revoir. Vous m'avez rapporté des racines de ghilliedhus&amp;nbsp;? Parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'en avais besoin pour élaborer mon élixir. Le coin est dangereux, et on n'a pas tout le temps la chance de tomber sur un Prêtre ou un Mystique capable de porter secours aux victimes. Un élixir capable de pallier ce problème serait une bénédiction pour la Fédération Valkyon&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

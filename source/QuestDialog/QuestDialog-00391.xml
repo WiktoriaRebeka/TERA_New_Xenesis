@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Je crois que votre mission ici touche à son terme. En votre absence, un messager est passé&amp;nbsp;: il vous cherchait.&lt;BR&gt;&lt;BR&gt;Retenez bien ce que vous avez appris ici. N'oubliez pas que votre dévouement répond à une cause supérieure, et essayez de ne pas vous faire tuer. Trop de vos pairs sont... morts, dernièrement.&lt;BR&gt;&lt;BR&gt;Ramun ne devrait pas tarder à revenir avec vos nouveaux ordres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1038">
+        <Page social="4">Eh, vous, là-bas&amp;nbsp;! Connaîtriez-vous une personne nommée "&lt;PCNAME&gt;"&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;C'est vous&amp;nbsp;? Très bien. Je cours suffisamment comme ça sans avoir à vous pourchasser ici et là. Le Centurion Neziir a besoin de toutes les personnes disponibles pour participer à... ce qu'il appelle un "exercice de pacification". Un moyen classieux de dire "Les Esprits gardiens nous débordent et nous sommes dans la mouise jusqu'au cou", enfin je crois.&lt;BR&gt;&lt;BR&gt;Vous le trouverez au sommet de la colline, après avoir suivi la route... Je vous verrai probablement là-bas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1004">
+        <Page social="4">Bombez le torse, &lt;PCNAME&gt;. J'ai besoin que vous alliez vous occuper de ces {@LinkCreature:13#304#noruks blafards}. Les chercheurs de l'expédition nous ont demandé d'examiner le sang d'esprits et de bêtes apparemment affaiblis.&lt;BR&gt;&lt;BR&gt;Vous allez travailler pour moi, vous savez donc quoi faire. Tuez-en autant qu'il le faut et récupérez les échantillons de sang pour les chercheurs. Une fois votre mission accomplie, allez faire votre rapport au &lt;font color='#660000'&gt;Préfet Ashak&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1119">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Voilà une nouvelle réussite à votre actif. Je regrette juste de voir un nombre croissant d'animaux tomber malades. Nous tentons de limiter le massacre des espèces vivantes de l' Île de l'Aube, mais afin de comprendre ce qui se passe et d'en sauver certaines, nous devons en sacrifier d'autres.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" villagerId="1119">
+        <Page social="0">On dirait que vous n'avez pas suffisamment d'échantillons de sang pour mes recherches. Vous allez devoir en récupérer plus sur les {@LinkCreature:13#304#noruks blafards}.&lt;BR&gt;&lt;BR&gt;Je n'aurais jamais cru Neziir forcé de confier cette mission à une jeune recrue. J'avais demandé des vétérans, pas des bleus.</Page>
+    </Text>
+</QuestDialog>

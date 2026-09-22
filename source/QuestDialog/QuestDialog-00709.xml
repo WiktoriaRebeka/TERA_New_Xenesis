@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">La victoire est à portée de main, mais l'ennemi nous barre la route. Nous sommes coincés ici, et les {@LinkCreature:25#1011#ravageurs devans} nous éliminent un par un.&lt;BR&gt;&lt;BR&gt;Aidez-nous en allant tuer ceux que vous parviendrez à attraper. Ça ne devrait pas vous prendre bien longtemps. Après ça, vous pourrez rejoindre le groupe d'Elion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1008">
+        <Page social="4">Bon travail&amp;nbsp;! Leurs éclaireurs vont devoir se replier... maintenant, ils savent à qui ils ont affaire. Nous allons pouvoir rejoindre l'équipe d'Elion à la cathédrale&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1008">
+        <Page social="0">Si vous ne parvenez pas à éliminer les {@LinkCreature:25#1011#ravageurs devans}, nous ne pourrons pas reprendre notre marche.</Page>
+    </Text>
+</QuestDialog>

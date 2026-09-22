@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30100" huntingZoneId="2501" voiceTypeId="290" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="2501" endSocial="0" prevId="0" villagerId="30100">
+        <Page social="4" voiceTypeId="290">J'ai besoin de votre force.&lt;BR&gt;&lt;BR&gt;Comptez-vous m'aider ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="2501" endSocial="0" prevId="0" villagerId="30100">
+        <Page social="4" voiceTypeId="290">Je vous remercie.&lt;BR&gt;&lt;BR&gt;Je vous laisse vous charger d'explorer la zone.&lt;BR&gt;&lt;BR&gt;Je vais essayer de neutraliser le pouvoir du dieu de la mort, qui était scellée ici.&lt;TEXTBUTTON&gt;Je fais mon possible.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Entendu.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Une force sacrée émane de vous.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Je m'appelle Lok.&lt;BR&gt;Je suis le dieu qui possède la clé scellant le monde des dieux.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Si cette puissance vient à être libérée, le monde risque fort de s'effondrer.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Pourriez-vous m'aider ?</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">Je vous remercie.&lt;BR&gt;J'espère que vous y parviendrez.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Prévenez-moi quand vous êtes d'attaque.</Page>
+    </Text>
+</VillagerDialog>

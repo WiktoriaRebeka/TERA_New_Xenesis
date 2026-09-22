@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="4">J'ai été volontaire pour cette affectation car ma sœur est morte ici. J'espérais pouvoir récupérer son corps.&lt;BR&gt;&lt;BR&gt;Je ne l'ai jamais trouvé. Elle est encore quelque part dehors, dans le froid.&lt;NEXTPAGEBUTTON&gt;"Toutes mes excuses."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ne vous inquiétez pas pour moi. Je suis soldat. Je connais les risques. Et tant que je me souviens d'elle, elle reste vivante, dans mon cœur.&lt;BR&gt;&lt;BR&gt;Je mets un point d'honneur à lui laisser des fleurs sur la tombe d'un des soldats inconnus près d'Acarum pour ne pas l'oublier. Si vous passez à côté du cimetière, pourriez-vous déposer ces fleurs pour moi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1114">
+        <Page social="4">(La pierre tombale semble presque vibrer sous les souvenirs d'amis, de famille et de camarades tombés au combat.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1010">
+        <Page social="4">Merci. Je veux juste qu'elle sache que je me souviens.</Page>
+    </Text>
+</QuestDialog>

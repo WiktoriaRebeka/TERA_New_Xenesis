@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="453" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&lt;PCNAME&gt;, beaucoup de temps a passé depuis notre dernière conversation&amp;nbsp;! J'espère que vous allez bien.&lt;BR&gt;&lt;BR&gt;J'ai une faveur à vous demander. Un ami m'a demandé de l'aider mais je ne peux pas laisser Eleon seul pour le moment. Je me demandais si vous pouviez y aller à ma place et aider mon ami.&lt;BR&gt;&lt;BR&gt;Je suis sûr que la récompense sera à la hauteur du temps et des efforts investis.&lt;BR&gt;&lt;BR&gt;Mon ami s'appelle Penrik. Montrez-lui cette lettre et dites-lui que je vous envoie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;- Jelena</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="4501">
+        <Page social="4">Que regardez-vous, étranger&amp;nbsp;? Partez, avant d'être blessé.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Jelena m'a demandé de venir.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quoi&amp;nbsp;? Jelena vous a donné une lettre pour moi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Faites-moi voir ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" prevId="3" villagerId="4501">
+        <Page social="4">Hmm ... Je suppose que vous êtes vraiment un bon ami de Jelena.&lt;BR&gt;&lt;BR&gt;Eh bien, il semblerait que je n'aie pas d'autre choix. Très bien, suivez-moi. Mais je ne peux pas vous garantir que vous reviendrez en un seul morceau. C'est très dangereux.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="453" prevId="4" villagerId="4501">
+        <Page social="4">Écoutez attentivement, le temps est compté.&lt;BR&gt;&lt;BR&gt;Au cours des prochaines minutes, mes camarades vont arriver avec un trésor que nous avons récupéré auprès d'un géant de pierre. Le géant ne sera pas loin derrière eux. Nous avons besoin que vous retardiez le géant assez longtemps pour que nous transportions le trésor au passage.&lt;BR&gt;&lt;BR&gt;Mes camarades attendent exactement de l'autre côté de la barricade. Quand vous serez prêt, utilisez le levier là-bas pour leur dire de se préparer à combattre un géant de pierre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="453" prevId="5" villagerId="4511">
+        <Page social="6">Honnêtement, je ne pensais pas que vous pourriez affronter un géant, mais Jelena vous a bien choisi. Rappelez-moi de vous offrir un verre un de ces jours.&lt;BR&gt;&lt;BR&gt;Voici l'argent que j'avais promis à Jelena. Passez-lui le bonjour quand vous la verrez.</Page>
+    </Text>
+</QuestDialog>

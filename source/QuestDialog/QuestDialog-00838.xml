@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="4">Mon mari est mort en protégeant Acarum. Les {@LinkCreature:32#3#berserkers sihrans} lui ont coupé les mains et l'ont laissé se vider de son sang.&lt;BR&gt;&lt;BR&gt;Son esprit me hante, il me supplie de lui faire justice. Je sais ce qu'il veut mais j'en suis incapable, et tout le monde au village me croit folle et ils ne m'aideront pas.&lt;BR&gt;&lt;BR&gt;Sa demande est simple, tuez les {@LinkCreature:32#3#berserkers sihrans}, coupez-leur les mains, et offrez-les à l'esprit de Batuk sur le Mont Tyrannas.&lt;BR&gt;&lt;BR&gt;Tenez, vous aurez besoin de ce sac.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1006">
+        <Page social="4">(Le chemin vers la tombe est bien usé par les pas des voyageurs. Vous posez le sac de mains à un endroit déjà tâché de sang. Que se passe-t-il ici&amp;nbsp;?)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1006">
+        <Page social="0">(Batuk est mort à la Passe redoutable.&lt;BR&gt;&lt;BR&gt;Tuez les {@LinkCreature:32#3#berserkers} et les {@LinkCreature:32#1#combattants} sihrans qui l'ont assassiné et prenez leurs mains.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1019">
+        <Page social="4">Vous l'avez crue, hein&amp;nbsp;? Elle n'est plus la même depuis que Batuk est mort. Elle est comme hantée.&lt;BR&gt;&lt;BR&gt;Elle envoie des gens chercher des mains. Au moins ce sont celles des sihrans... et pas de quelqu'un d'autre.&lt;BR&gt;&lt;BR&gt;Mais ça reste entre nous&amp;nbsp;? Merci.</Page>
+    </Text>
+</QuestDialog>

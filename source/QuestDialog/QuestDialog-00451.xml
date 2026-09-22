@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="5">Panpi est en train de fabriquer des gants en peau de dent-de-sabre et il a fallu qu'il vienne me les agiter sous le nez.&lt;BR&gt;&lt;BR&gt;Et il a haussé les épaules en regardant mes bottes. Il a osé&amp;nbsp;! Il a dit qu'elles devaient me faire sentir des pieds&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ooh, Je vais... enfin, je ne sais pas ce que je vais faire, mais je veux me venger&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oh, &lt;PCNAME&gt;, vous devez m'aider...&lt;BR&gt;&lt;BR&gt;Que peut-on trouver de mieux que la peau de dent-de-sabre&amp;nbsp;? Hein&amp;nbsp;?!&lt;BR&gt;&lt;BR&gt;Je sais&amp;nbsp;! Vous avez déjà vu les épaulières des {@LinkCreature:15#6#assemblages dérangés}&amp;nbsp;? Elles sont en peau de basilic. Dans le genre, on ne fait pas mieux.&lt;BR&gt;&lt;BR&gt;Si vous alliez les tuer, ils n'auraient plus besoin de leur peau, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1017">
+        <Page social="5">Ah&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quelle douceur... quelle souplesse&amp;nbsp;! Ça va être difficile pour Panpi de trouver mieux que ça&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Enfin, je l'espère...&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1017">
+        <Page social="0">Vous devez me trouver cette peau&amp;nbsp;! Ma fierté en dépend&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

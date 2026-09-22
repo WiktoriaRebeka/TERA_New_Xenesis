@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Evidemment, pour chevaucher ce genre de bête, vous allez avoir besoin d'une selle particulière. L'anatomie d'un léopard n'a pas grand-chose à voir avec celle d'un cheval.&lt;BR&gt;&lt;BR&gt;Il va vous falloir du sur mesure, et je vous conseille de ne pas mégoter sur les matériaux employés.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Un choix bien inspiré&amp;nbsp;! Le cuir souple de noruk est ce qui se fait de mieux dans le genre.&lt;BR&gt;&lt;BR&gt;Maintenant, laissez-moi prendre quelques mesures et tracer l'ébauche... parfait&amp;nbsp;! Ça va être réglé en deux temps trois mouvements.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Croyez-moi sur parole. Si l'animal n'est pas à l'aise, pour vous non plus, ce ne sera pas une partie de plaisir.</Page>
+    </Text>
+</QuestDialog>

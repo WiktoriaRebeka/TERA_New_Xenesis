@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="4">Comme si son armée ne lui suffisait pas, Kaidun s'est adjoint les services des mercenaires de la troupe des rôdeurs.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:32#9#tireurs d'élite de la troupe des rôdeurs} disposent de flèches maudites particulièrement efficaces. Si nous pouvions les étudier de près, nous apprendrions certainement comment nous en défendre.&lt;BR&gt;&lt;BR&gt;Si vous venez à tuer des archers, je peux compter sur vous pour me rapporter leurs flèches&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">C'est du bon boulot. Il doit exister un moyen de neutraliser la malédiction. Nous allons le trouver...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1003">
+        <Page social="0">Les flèches des {@LinkCreature:32#9#tireurs d'élite de la troupe des rôdeurs} du campement de mercenaires sont pourvues d'une malédiction particulière.&lt;BR&gt;&lt;BR&gt;Rapportez-moi ces flèches.</Page>
+    </Text>
+</QuestDialog>

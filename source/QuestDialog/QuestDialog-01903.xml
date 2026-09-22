@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, je dois vous parler. Une rumeur affirme que Thulsa serait parvenu à s'emparer de l'âme du général Kanmur.&lt;BR&gt;&lt;BR&gt;Le général... Kanmur. Le héros de Kaiator. Je crois que vous étiez là quand Killian nous a... rendu son corps.&lt;BR&gt;&lt;BR&gt;Je me moque de savoir si c'est bien lui ou pas. Vous devez anéantir cette abomination&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Eh bien, si c'était Kanmur, son âme a été libérée, comme elle devait l'être. Et si ce n'était pas lui, c'est une chance que cette chose n'ait jamais vu le jour.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Suite aux mises en garde d'Isrenia sur les intentions de Thulsa et Killian envers Sikander, vous avez traversé le Bois de Susurrus, empêché les mekonaris de commettre d'autres enlèvements et détruit l'autel où ils ont sacrifié des centaines de prisonniers. Là-bas, des indices vous ont conduit à Amena Quatla, terre des sikandaris et du grand œuf dans lequel dort Sikander.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[Voix d'Isrenia]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; ...&lt;BR&gt;&lt;BR&gt;Un rituel maléfique est célébré aux endroits suivants : sur l'Autel du corbeau du Bois Sussurus et dans le Sanctuaire de la résurrection à Amena Quatla... Vous devez interrompre le rituel à ces deux endroits. &lt;BR&gt;&lt;BR&gt;Le rituel qui se tient devant le pilier de sang de l'Autel du corbeau nécessite une multitude de victimes...&lt;BR&gt;&lt;BR&gt;Un village nommé Chute du dragon se trouve non loin de là. &lt;PCNAME&gt;, lancez-vous aussi à la poursuite du ravisseur...</Page>
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Les enlèvements nous donnent bien du fil à retordre.&lt;BR&gt;&lt;BR&gt;Les chasseurs et les tissébènes mekonaris capturent des Humains au hasard dans le Bois Sussurus avant de les emmener à Umbra.&lt;BR&gt;&lt;BR&gt;Allez trouver Arshak, un chef du groupe de raid du Camp Umbra, dans le Bois Sussurus. Il a la responsabilité du Camp Umbra. &lt;BR&gt;&lt;BR&gt;Mes amis y organisent actuellement une mission de sauvetage.&lt;BR&gt;Allez donc les aider !&lt;BR&gt;&lt;BR&gt;Éliminez les chasseurs et les tissébènes mekonaris et mettez un terme aux enlèvements.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">Serait-ce un œil de mekonari ? Ha ha ha ha ! J'en conclus que vous avez donné une bonne leçon à ces têtes de piaf noires ! Bien, très bien ! Un camarade fiable de plus pour notre mission de recherche, ce n'est pas de refus !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" villagerId="1010">
+        <Page social="0">Des chasseurs et des file-ébène traversent Sorguebois avant d'aller enlever d'autres victimes&amp;nbsp;! Ne les laissez pas passer&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="256" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Quoi ? Est-ce pour ça qu'ils ont enlevé des Humains ?&lt;BR&gt;&lt;BR&gt;Un des rescapés a raconté qu'ils les ont emmenés auprès d'un autel doté d'étranges piliers. Quand les mekonaris ont commencé à prononcer des sortilèges, les piliers se sont mis à briller et les Humains ont perdu connaissance l'un après l'autre.&lt;BR&gt;&lt;BR&gt;Il doit s'agir d'un rituel.&lt;NEXTPAGEBUTTON&gt;"On dirait bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous devons en trouver la source, sans quoi les enlèvements ne s'arrêteront jamais ! &lt;BR&gt;Détruisons le pilier de sang !&lt;BR&gt;&lt;BR&gt;Mais où se trouve-t-il ? &lt;BR&gt;L'entrée de l'Autel du corbeau doit se trouver quelque part à proximité des templiers mekonaris et des dédieurs mekonaris... &lt;BR&gt;&lt;BR&gt;C'est aussi là que nous avons sauvé les nôtres. Commençons par les éliminer et cherchons ensuite des informations !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="256" prevId="6" villagerId="1025">
+        <Page social="1" voiceTypeId="0">(Vous découvrez un tas d'ossements.&lt;BR&gt;Il doit s'agir des restes des Humains enlevés pour servir d'offrande au pilier de sang. Nous devons immédiatement mettre fin à ces rituels.)&lt;BR&gt;&lt;BR&gt;(Une lumière se met à briller au milieu du tas d'os.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="256" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">(Vous entendez une voix.)&lt;BR&gt;&lt;BR&gt;Vous devez... nous venger...&lt;BR&gt;Détruisez... le pilier de sang... L'Autel du corbeau.... se trouve... ici...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="256" prevId="8" villagerId="1026">
+        <Page social="1" voiceTypeId="0">(La voix se rapproche.)&lt;BR&gt;&lt;BR&gt;Passé un certain délai... ni l'épée... ni la magie... ne peuvent détruire... le pilier de sang... &lt;BR&gt;&lt;BR&gt;(La voix s'évanouit.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="256" prevId="9" villagerId="1010">
+        <Page social="1" voiceTypeId="0">Vous m'avez tout l'air d'avoir réussi !&lt;BR&gt;&lt;BR&gt;Bien. Avez-vous aussi mis un terme aux rituels ?&lt;NEXTPAGEBUTTON&gt;"Un rituel est toujours en cours."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Un rituel est encore en cours à Amena Quatla ? Vous devez également l'interrompre !&lt;BR&gt;&lt;BR&gt;D'après mes informations, un gigantesque temple des sikandaris se dresse à Amena Quatla. C'est là que le dieu Sikander est censé s'être installé.&lt;BR&gt;&lt;BR&gt;Le camp du pont brisé se trouve tout près de là. &lt;BR&gt;&lt;BR&gt;Les centurions doivent bien savoir quelque chose !</Page>
+    </Text>
+</QuestDialog>

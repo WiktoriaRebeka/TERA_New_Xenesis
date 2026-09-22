@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">Sans les marchands besharans, je pense que nous pourrions gagner le soutien de certaines tribus d'orkans. {@LinkCreature:241#1022$$Paduk} dit que les marchands vendent à la tribu du désert de feu un alcool fort qui pousse ses membres à la violence.&lt;BR&gt;&lt;BR&gt;Il pourrait y avoir une solution&amp;nbsp;: attaquer les {@LinkCreature:41#2006#contrebandiers} et les {@LinkCreature:41#2002#hommes de main} ou encore les {@LinkCreature:41#4010#porteurs caïmans} et les {@LinkCreature:41#4009#gardes caïmans} besharans qui travaillent pour eux... et voler leur alcool. Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1022">
+        <Page social="0">Les besharans y réfléchiront à deux fois avant de recommencer à empoisonner l'esprit des orkans&amp;nbsp;! Merci beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1022">
+        <Page social="0">Ne sous-estimez pas les besharans&amp;nbsp;: ils sont petits mais féroces.</Page>
+    </Text>
+</QuestDialog>

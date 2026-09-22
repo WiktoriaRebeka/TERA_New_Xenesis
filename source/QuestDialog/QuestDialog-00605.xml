@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="4">Vous avez entendu parler de {@LinkCreature:21#5003#Mâchoire sanglante}&amp;nbsp;? C'est le pire de tous les basilics de cet escarpement. Aucun de nous n'est de taille.&lt;BR&gt;&lt;BR&gt;Vous pensez que vous ferez exception&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1031">
+        <Page social="8">Ha&amp;nbsp;! Je savais que vous pouviez réussir, &lt;PCNAME&gt;. En fait, j'avais même parié gros sur vous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maintenant que ce basilic sanguinaire est mort, le reste d'entre nous devrait pouvoir s'aventurer dans cette région. Beau travail&amp;nbsp;! Vous avez bien mérité ça&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1031">
+        <Page social="0">J'ai misé une grosse somme sur votre réussite. Je ne veux pas trop m'avancer, mais c'est une grosse côte avec un bon rapport&amp;nbsp;! Si vous gagnez, c'est le jackpot&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

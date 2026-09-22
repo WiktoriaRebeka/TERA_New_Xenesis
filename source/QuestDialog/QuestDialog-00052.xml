@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="67" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="4">Vous m'avez l'air d'aimer les boulots dangereux et les primes qui vont avec, &lt;PCCLASS:lcase&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez donc faire un tour à l'ouest et chassez les marchespores {@LinkCreature:2#32#boursouflés}, les {@LinkCreature:2#22#patauds} et les {@LinkCreature:2#23#terrons fougueux}.&lt;BR&gt;&lt;BR&gt;Je vous donnerai un bon prix des sceaux corrompus que vous trouverez sur leurs dépouilles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1022">
+        <Page social="4">Continuez comme ça, et vous finirez par avoir l'honneur de recevoir une affectation à Kaiator, sur le front argon, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous pouvez bomber le torse&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1022">
+        <Page social="0">Gardez ça pour vous, &lt;PCNAME&gt;, mais quand les choses seront revenues à la normale, j'ai bien peur de m'ennuyer à mourir.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="4">Tout le monde parle de notre victoire comme si elle était inévitable, mais vous savez quoi&amp;nbsp;? Même quand nous étions en paix, la Montagne Fyr échappait à notre contrôle.&lt;BR&gt;&lt;BR&gt;Je vous jure, il n'y a que moi qui m'inquiète d'une éventuelle contre-attaque massive. Nos défenses sont risibles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je pense pouvoir renforcer nos défenses en utilisant la force de l'ennemi contre lui&amp;nbsp;! Nous pourrions installer des remparts en flammebois des {@LinkCreature:4#2051#arbosks enragés} par ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1135">
+        <Page social="4">Imaginez... L'ennemi escalade nos murailles, et boum&amp;nbsp;! Les remparts eux-mêmes prennent feu&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Un gros travail d'architecture m'attend, mais trouver les matières premières est le plus difficile.&lt;BR&gt;&lt;BR&gt;Encore merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1135">
+        <Page social="0">Les {@LinkCreature:4#2051#Arbosks enragés} se trouvent dans le Val embrasé, mais vous l'aviez probablement déjà compris.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Le poisson gagne en popularité dans tout Arborea.&lt;BR&gt;Et il existe des combines pour vendre les espèces les plus prisées séparément.&lt;BR&gt;Mon collègue du Site de pêche du Lac des larmes pourra vous en dire plus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez fabriqué un paquet de livraison sur le Site de pêche du Lac des larmes et avez appris à le distribuer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Vous êtes prêt à rejoindre le Lac des larmes ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Alors saluez bien le responsable du Lac des larmes de ma part.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">Bonjour, gardien ! Ça vous dirait aussi de gagner de l'or en pêchant, gardien ?&lt;BR&gt;Même si ce n'est pas le cas, vous rendriez un grand service aux citoyens d'Arborea en les ravitaillant en poisson.&lt;BR&gt;Si nous élargissons la zone où nous livrons nos poissons, la fédération retrouvera la confiance de Jeremy.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Si vous fabriquez un paquet de livraison de poisson, vous pouvez le vendre à un prix supérieur.&lt;BR&gt;Vous pouvez acheter le plan requis auprès du magasin de la fédération.&lt;BR&gt;Que diriez-vous d'essayer ?&lt;BR&gt;&lt;BR&gt;Un tel paquet empêche le filet de poisson de s'avarier trop vite. Il reste alors frais plus longtemps.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="9904">
+        <Page social="2" voiceTypeId="0">Bien joué ! Vous êtes prêt à vous charger de la livraison ?&lt;BR&gt;Il vous suffit de remettre le paquet à un des pourvoyeurs du site de pêche ou dans une des grandes villes.&lt;BR&gt;&lt;BR&gt;Voulez-vous maintenant aller voir {@linkcreature:223#9905#Glenn} ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" villagerId="9904">
+        <Page social="0">Vous pouvez acheter le plan requis auprès du magasin de la fédération.&lt;BR&gt;Vous voulez essayer, pour voir ?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" prevId="6" villagerId="9905">
+        <Page social="1" voiceTypeId="0">Bienvenue ! Nous achetons toujours le poisson et les paquets de livraison de poisson à un bon prix. Avez-vous quelque chose à nous vendre ? &lt;BR&gt;Puisqu'il s'agit de votre premier essai, je vais mettre un &lt;font color='#FF0000'&gt;pourvoyeur spécial&lt;/font&gt; à votre disposition. Remettez-lui votre paquet de livraison de poisson.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" prevId="8" villagerId="9925">
+        <Page social="1" voiceTypeId="0">Merci. Revenez aussi souvent que possible. &lt;BR&gt;&lt;BR&gt;Puisque les quantités de livraison sont fixes pour chaque journée, vous gagnez plus d'argent en livrant d'abord les marchandises coûteuses. &lt;BR&gt;Et vous pouvez en obtenir encore plus en fabriquant des paquets de livraison de poisson avant de les distribuer.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="9" villagerId="9904">
+        <Page social="1" voiceTypeId="0">Avez-vous parlé aux responsables de livraison ? Plus le rang du paquet de livraison de poisson est élevé, plus vous empochez d'argent. &lt;BR&gt;Vous pouvez acheter le plan requis auprès du magasin de la fédération.</Page>
+    </Text>
+</QuestDialog>

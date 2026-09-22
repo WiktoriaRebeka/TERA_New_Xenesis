@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">D'ordinaire, les noruks sont des créatures dociles, mais les moindres fluctuations d'énergies magiques les mettent dans tous leurs états.&lt;BR&gt;&lt;BR&gt;J'aurais besoin que vous alliez chasser quelques {@LinkCreature:13#300921#noruks} avant d'aller remettre des échantillons de leur fourrure à Nezir, au Poste de guet du Nord.&lt;BR&gt;&lt;BR&gt;C'est dans vos cordes&amp;nbsp;? Les noruks sont un peu plus costauds que les ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1004">
+        <Page social="4">Vous avez fait du bon travail, &lt;PCNAME&gt;&amp;nbsp;! Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1004">
+        <Page social="0">Attention à la charge des noruks. Elle est dévastatrice&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

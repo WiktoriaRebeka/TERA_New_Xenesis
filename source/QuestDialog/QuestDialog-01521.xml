@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Une capuche&amp;nbsp;? Je n'en fais plus.&lt;BR&gt;&lt;BR&gt;Vous devriez pouvoir vous procurer facilement des fibres de luria et de l'essence de soleil, mais du cuir doublé... De nos jours, on en trouve même plus dans les musées.&lt;NEXTPAGEBUTTON&gt;"J'en ai&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Quoi&amp;nbsp;? Vous en avez&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bien&amp;nbsp;! Je vais vous faire une capuche&amp;nbsp;! De quelle couleur la voulez-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Euh..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Le cuir doublé vient des paupières d'une race particulière de dracoloths qui est éteinte aujourd'hui.&lt;BR&gt;&lt;BR&gt;Chassés jusqu'à l'extinction pour leurs paupières...</Page>
+    </Text>
+</QuestDialog>

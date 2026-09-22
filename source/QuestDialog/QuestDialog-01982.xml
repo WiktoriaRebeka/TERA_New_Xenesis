@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Redorn, le capitaine des gardiens de la porte sud de Hautegarde vous a prié de lui accorder une audience privée.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Redorn, le capitaine des gardiens de la porte sud de Val d'Oriyn a appris que Marmundam vous a couvert de cadeaux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2033">
+        <Page social="0" voiceTypeId="0">Hé ! Euh, &lt;pcname&gt; ? Comment allez-vous ?&lt;BR&gt;&lt;BR&gt;J'ai entendu dire que Marmundam... ou plutôt le capitaine de la garde principale vous a offert quelques cadeaux.&lt;BR&gt;Mais, apparemment, il ne vous a pas donné d'accessoires.&lt;NEXTPAGEBUTTON&gt;"En effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pas étonnant, ils sont incapables de produire quoi que ce soit de valable.&lt;BR&gt;&lt;BR&gt;Attendez un instant, j'ai là quelque chose de parfait pour cet équipement.&lt;BR&gt;&lt;BR&gt;Et voilà ! La ceinture de la pierre magique de sang !&lt;BR&gt;Revêtez-la vite. Elle vous va comme un gant.&lt;BR&gt;&lt;BR&gt;Ne vous étonnez pas que l'&lt;font color='#FF0000'&gt;option de couleur orange&lt;/font&gt; ne soit pas disponible et choisissez plutôt une option adaptée à votre style de combat.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2033">
+        <Page social="0" voiceTypeId="0">Ça vous va vraiment à merveille. Me voilà satisfait.&lt;BR&gt;&lt;BR&gt;J'en profite pour vous donner d'autres accessoires : des colliers, boucles d'oreilles et anneaux.&lt;BR&gt;&lt;BR&gt;Les vrais guerriers savent bien que ces petites babioles peuvent abriter une force prodigieuse.&lt;NEXTPAGEBUTTON&gt;"Je vous remercie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vous ai préparé des accessoires de dégâts et de puissance.&lt;BR&gt;Après tout, c'est à sa minutie qu'on reconnaît un vrai guerrier.&lt;BR&gt;&lt;BR&gt;Rien à voir avec ces souillons de la garde principale.&lt;BR&gt;&lt;BR&gt;Ah oui, mes accessoires peuvent aussi bénéficier d'une &lt;font color='#FF0000'&gt;évolution&lt;/font&gt; !&lt;BR&gt;Vous pourrez vous pencher dessus plus tard, en toute quiétude.&lt;BR&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il n'y a pas de quoi ! Ceci dit, pendant vos voyages, n'hésitez pas à mentionner que le capitaine de la garde de la porte sud est le meilleur.&lt;BR&gt;Et bien sûr, que les jeunes Barakas ambitieux posent leur candidature pour la garde de la porte sud.&lt;BR&gt;&lt;BR&gt;Voilà ce que vous devriez répéter.&lt;BR&gt;&lt;BR&gt;C'est tout ce que je vous demande.&lt;BR&gt;Et précisez bien que je vaux nettement mieux que la garde principale.&lt;BR&gt;C'est compris ?</Page>
+    </Text>
+</QuestDialog>

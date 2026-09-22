@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0">Il y a beaucoup trop d'orkans disposés à mener une guerre éternelle contre la Fédération. Cela ne mène qu'à la ruine et à la mort.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:41#4004#berserkers Griffe noire}, les {@LinkCreature:41#4005#massacreurs Griffe noire} et les {@LinkCreature:41#3006#combattants sanglants Griffe noire} sont les plus belliqueux de tous. J'aimerais leur arracher les yeux pour les montrer à {@LinkCreature:241#1023$$Majduk} afin de prouver leur folie. Vous voulez bien m'aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1023">
+        <Page social="0">A présent, je vais montrer ces yeux aux autres tribus et essayer de les convaincre d'abandonner le combat. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1023">
+        <Page social="0">Tuez les {@LinkCreature:41#4004#berserkers Griffe noire}, les {@LinkCreature:41#4005#massacreurs Griffe noire} et les {@LinkCreature:41#3006#combattants sanglants Griffe noire} et apportez-moi leurs yeux.</Page>
+    </Text>
+</QuestDialog>

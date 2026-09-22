@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">Après tout ce que nous avons dû faire pour nous débarrasser des hyènes, nous voici confrontés à un nouveau problème&amp;nbsp;: les golems épouvantails.&lt;BR&gt;&lt;BR&gt;Cet endroit est infesté de {@linkcreature:19#3003#golems moissonneurs faucheurs} et de {@linkcreature:19#3001#golems moissonneurs berserks}&amp;nbsp;! Leur faiblesse réside dans leur &lt;font color='#660000'&gt;cœur de cristal&lt;/font&gt;. Détruisez-le et le golem mord la poussière pour de bon.&lt;BR&gt;&lt;BR&gt;Je vous en prie, décimez les golems et détruisez leur &lt;font color='#660000'&gt;cœur de cristal&lt;/font&gt;, puis rapportez moi les débris. Je ne peux pas escorter les marchands tant que je n'ai pas la certitude que la menace des golems épouvantails est éloignée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Sans leur &lt;font color='#660000'&gt;cœur de cristal&lt;/font&gt;, ces golems n'épouvanteront plus personne. Vous nous avez sauvés la mise, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">Détruisez les {@linkcreature:19#3003#golems moissonneurs faucheurs} et les {@linkcreature:19#3001#golems moissonneurs berserks} autour de la Ferme laitière de Filton et récupérez leurs &lt;font color='#660000'&gt;cœurs de cristal&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

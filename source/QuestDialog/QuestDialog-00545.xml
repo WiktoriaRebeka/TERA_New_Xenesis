@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="4">Ah, vous êtes un soldat de la Fédération&amp;nbsp;? Pourriez-vous... mettre fin à ceci&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Qu'est-ce qui vous est arrivé&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Toute le monde est simplement... tout se passait normalement puis tout le monde a commencé à perdre la boule. Je ne sais pas ce qu'il s'est passé.&lt;BR&gt;&lt;BR&gt;Ils ont tué... ils ont tué tout le monde dans notre village. Je vous en prie, éliminez-les avant que cela empire. Ciblez les {@linkcreature:19#4002#fendeurs de Lok} et les {@linkcreature:19#4001#éventreurs de Lok}. Apportez-moi quelque chose de tangible pour que je sois sûr qu'ils sont vraiment partis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1006">
+        <Page social="4">Merci. Cela... m'apaise.&lt;BR&gt;&lt;BR&gt;Prenez ceci, s'il vous plaît, c'est tout ce que j'ai.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1006">
+        <Page social="0">Je vous en supplie... il ne me reste plus beaucoup de temps et j'ai... seulement besoin d'un peu de paix avant de partir.</Page>
+    </Text>
+</QuestDialog>

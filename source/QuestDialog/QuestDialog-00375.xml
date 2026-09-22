@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0">A la demande de Chione, vous avez combattu Acharak et ses sbires et vous avez récupéré une plume simple d'aspect et l'avez ramenée au centurion Edan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">S'il s'avère que les orkans ont provoqué le crash, alors c'est forcément {@linkcreature:13#1002#Acharak} qui l'a commandité.&lt;BR&gt;&lt;BR&gt;Nous avons suivi ses moindres faits et gestes pendant plusieurs semaines, mais nous n'avons jamais vu autant d'orkans rassemblés en un seul endroit.&lt;BR&gt;&lt;BR&gt;Il doit avoir submergé la garnison de la Vallée maudite, mais un coup bien senti devrait suffire à briser le moral des troupes.&lt;BR&gt;&lt;BR&gt;Tuez Acharak et volez le talisman de la tribu de la Griffe noire. Si le centurion Edan est encore en vie, il saura quoi en faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">Cet insigne est si petit, si simple et pourtant, c'est un talisman puissant pour les orkans. &lt;BR&gt;&lt;BR&gt;Pour une simple messagère, Chione fait preuve d'un sens tactique particulièrement affûté. Impressionant&amp;nbsp;! Vous aussi, vous avez bien travaillé, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+</QuestDialog>

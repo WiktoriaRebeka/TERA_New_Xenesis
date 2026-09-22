@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="4">J'ignore ce qui se passe. Les fouaille-tripes et leurs alliés n'ont jamais été aussi agressifs. Enfin... nous n'avons jamais franchement été bons camarades, mais les choses ont évolué.&lt;BR&gt;&lt;BR&gt;Et pas dans le bon sens... Nous ne pouvons pas nous permettre de rester là les bras ballants en attendant de nous faire tuer. Nous devons réagir.&lt;BR&gt;&lt;BR&gt;Débarrassez-nous des {@LinkCreature:18#1#rosseurs} et des {@LinkCreature:18#2#shamans} du désert de feu. Quand vous en aurez fini, adressez-vous à {@LinkCreature:218#1003#Kardelen}, au Camp de Marrakeen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Vous en avez fini avec les fouailles-tripes&amp;nbsp;? Bonne nouvelle... j'avais besoin de repos&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je me souviens du temps où je me plaignais du manque d'action. Il faut toujours tourner sept fois sa langue, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

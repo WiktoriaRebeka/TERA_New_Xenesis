@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1021">
+        <Page social="4">Nos éclaireurs ont repéré des fragments de pylônes de style argon dans un vieux poste valkyon, au nord-est. Vous croyez que c'est possible&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il va falloir trucider quelques {@LinkCreature:45#2001#pestesangs argonomorphes} pour en avoir le cœur net, mais c'est une information capitale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1021">
+        <Page social="5">Ces échantillons devraient m'apprendre tout ce qu'il y a à savoir. Mais j'espère qu'ils ne vont pas confirmer ce que je redoute…</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1021">
+        <Page social="0">Si j'avais des échantillons de ces pylônes, je pourrais commencer des tests.</Page>
+    </Text>
+</QuestDialog>

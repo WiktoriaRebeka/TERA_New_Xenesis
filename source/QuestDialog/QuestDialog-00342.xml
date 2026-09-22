@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">Une ballade au bord de la plage vous ferait certainement le plus grand bien, &lt;PCNAME&gt;, et j'ai une mission à vous confier qui s'y prêterait parfaitement.&lt;BR&gt;&lt;BR&gt;Le Port Coupe-gorge est le repaire d'un marin nommé &lt;font color='#660000'&gt;Dirken&lt;/font&gt;. C'est lui qui sème la zizanie entre les soldats de l'épée de Kaia et les pirates qui considèrent ce port comme leur siège.&lt;BR&gt;&lt;BR&gt;Oui, je parle bien de vrais pirates... mais bon nombre sont coincés sur la terre ferme, leurs navires ayant été détruits au cours des affrontements qui les ont opposés aux nagas.&lt;BR&gt;&lt;BR&gt;Nous ne pouvons laisser un tel point stratégique sombrer dans le chaos. Je compte donc sur vous pour pacifier la zone. Encore une chose&amp;nbsp;: tâchez de faire profil bas, les Justicars rôdent également dans les parages.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1026">
+        <Page social="4">Dirken est un homme occupé. Il se moque éperdument des "traînées de Kaia".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4">Whaa, du calme, &lt;PCCLASS:lcase&gt;. Quelle susceptibilité&amp;nbsp;! Je voulais dire les "épées" de Kaia... c'est un malheureux lapsus.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, si vous faites partie des soldats, vous venez certainement réquisitionner quelque chose chez les honnêtes citoyens travailleurs que nous sommes, c'est ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je vous graisserais volontiers la patte pour que vous alliez jouer les soldats ailleurs.</Page>
+    </Text>
+</QuestDialog>

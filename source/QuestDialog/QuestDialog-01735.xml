@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="0">Dirigez-vous vers le quai aéronaval et signalez-vous.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="4">Je sais que vous devez aller au quai aéronaval. Vous ne voudriez pas y livrer une de ces petites caisses pour moi&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que c'est&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tamari a commandé une boîte ornée de pierreries. J'ai réussi à la préserver, mais avec la chance que j'ai aujourd'hui, je préfère m'en débarrasser.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, pourriez-vous la lui remettre&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1533">
+        <Page social="0">Tonas a réussi&amp;nbsp;? Je commençais à me demander s'il m'avait roulée.&lt;BR&gt;&lt;BR&gt;Très bien, je sais qui vous êtes. Vous êtes autorisé{@g:/e} à monter sur le quai.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1502">
+        <Page social="4">Oh, quelle maladresse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Eh bien, bonjour&amp;nbsp;!&lt;BR&gt;Mon nez ne se trompe jamais. Vous avez un parfum de quelqu'un de bien, donc je vous aime bien. Et &lt;em&gt;you&lt;/em&gt;, m'aimez-vous bien&amp;nbsp;? &lt;BR&gt;&lt;BR&gt;Hé, puis-je vous demander un service&amp;nbsp;? Ces bourrasques ont arraché de mon sac quelques feuillets confidentiels d'une très grande importance. Il faut que je les récupère.&lt;BR&gt;&lt;BR&gt;Voulez-vous bien m'aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1502">
+        <Page social="4">Mon héros&amp;nbsp;! Quel désastre si ces feuillets étaient tombés entre les mains des ennemis, ou ses mains à elle.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous montez aussi à bord du croiseur céleste&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Tout à fait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est parfait&amp;nbsp;! Vous êtes parfait{@g:/e}. Nous allons partir à l'aventure ensemble&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous devriez aller vous présenter à Rafe&amp;nbsp;! A bientôt, au milieu des nuages&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1502">
+        <Page social="0">Mais où sont les autres feuillets&amp;nbsp;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1503">
+        <Page social="4">Vous êtes le dernier soldat de la liste. Très bien.&lt;BR&gt;&lt;BR&gt;Merci de livrer le registre à Maribel. Oh, et grâce à vous, la cargaison va bientôt arriver à bord.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1566">
+        <Page social="4">Du beau travail. Bonne chance pour votre mission.</Page>
+    </Text>
+</QuestDialog>

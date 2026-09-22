@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Avoir trouvé une cachette est une bonne chance, mais cet endroit est abandonné depuis bien longtemps et il manque donc bien des choses.&lt;BR&gt;&lt;BR&gt;Puis-je vous demander de me rendre quelques services avant d'aller retrouver Revenj ?&lt;NEXTPAGEBUTTON&gt;"Quels services ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je savais bien que vous me prêteriez l'oreille.&lt;BR&gt;Il nous faut tout d'abord de la nourriture et des fourrures pour préparer des couchettes.&lt;BR&gt;&lt;BR&gt;Chassez donc les renards roux qui rôdent autour du camp pour récupérer leur fourrure et leur viande.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">Un grand merci, &lt;PCNAME&gt;. Voilà de quoi bien aménager l'endroit.&lt;BR&gt;&lt;BR&gt;J'ai encore une faveur à vous demander.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">Rapportez-m'en un peu plus.</Page>
+    </Text>
+</QuestDialog>

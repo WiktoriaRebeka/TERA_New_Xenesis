@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">A moins que vous n'ayez pas les yeux en face des trous, vous avez dû remarquer tous ces cadavres en train de pourrir, ces squelettes, et... qu'est-ce que c'est que ça&amp;nbsp;? Encore un truc mort, sans doute...&lt;BR&gt;&lt;BR&gt;Bref, vous êtes au beau milieu des lignes ennemies, le territoire des troupes ksharanes, pour être précis... le bataillon le plus imposant de l'armée de Thulsa.&lt;BR&gt;&lt;BR&gt;Ça vous tente de rétrograder l'Armée du corbeau à la seconde place&amp;nbsp;? Eh bien allez donc leur porter un coup dur, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Eh bien, ça dépasse toutes mes espérances. Pas étonnant que Krok vous ait aussi chaudement {@gender:recommandé/recommandée}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Kaia vous bénisse, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1034">
+        <Page social="0">Les troupes ksharanes traînent partout, dans le coin.&lt;BR&gt;&lt;BR&gt;Décapitez-la, histoire de nous montrer ce que vous valez&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

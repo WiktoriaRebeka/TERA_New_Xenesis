@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Les Poporis désirent communier avec l'esprit de la déesse Seren, mais ils ne comprennent pas qu'un pèlerinage au {@Rgn:30014$$Lac de Seren} pourrait se transformer en aller simple.&lt;BR&gt;&lt;BR&gt;Il faut trouver quelqu'un qui pourra escorter les pèlerins jusqu'au lac en toute sécurité.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, par exemple&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="41">
+        <Page social="0">Des Hauts-Elfes paternalistes typiques. Nous pouvons prendre soin de nous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dites au centurion Oreilles-pointues que je suis un vétéran de la guerre argone et que je sais m'occuper de moi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Toutefois, je crois que j'ai, euh, égaré ma carte. Pouvez-vous m'indiquer la direction du {@Rgn:30014$$Lac de Seren}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Merci, &lt;PCNAME&gt;. C'est comme si je pouvais entendre Seren elle-même murmurer à mon oreille.</Page>
+    </Text>
+</QuestDialog>

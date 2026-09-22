@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Ces plaintes sont en train de me faire perdre la tête... Je parle des lamentations des soldats morts.&lt;BR&gt;&lt;BR&gt;Un mystique popori est passé dans la région, il y a de cela quelques semaines. Il nous a parlé de "distillats meurtriers" permettant de renvoyer les âmes en peine dans l'au-delà... le Rêve. Pour moi, c'est surtout l'occasion de les faire taire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Kridan et moi avons récupéré la plupart des "distillats" dont le Popori parlait, mais il nous en manque un.&lt;NEXTPAGEBUTTON&gt;"Lequel&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">L'essence de {@LinkCreature:4#1021#groknar sulfureux}. Ces bestiaux sont un peu "gros" pour Kridan et moi.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leur essence ardente et nous pourrons faire taire les plaintes de ces fantômes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Nous allons pouvoir permettre aux âmes de nos camarades de rejoindre le Rêve.&lt;BR&gt;&lt;BR&gt;Accessoirement... ils vont la fermer, et je vais pouvoir dormir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1110">
+        <Page social="0">Ce n'est pas uniquement pour nous que vous devez le faire, &lt;PCNAME&gt;. Faites-le pour ces pauvres âmes incapables de rejoindre le Rêve.</Page>
+    </Text>
+</QuestDialog>

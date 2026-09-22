@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="0">Jelena a renoncé à sa méfiance à l'égard des révolutionnaires, mais elle rejette toujours leurs méthodes. Elle s'efforçait de trouver un meilleur moyen de résoudre les problèmes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Ah, vous voilà.&lt;BR&gt;&lt;BR&gt;Même si, tout compte fait, les révolutionnaires n'étaient pas coupables, je ne peux pas adhérer à leur comportement irresponsable.&lt;BR&gt;&lt;BR&gt;Si la poudre est bel et bien la cause de la cristallisation et se propage en présence de créatures vivantes, ça ne sert à rien de rassembler les patients ici en laissant la poudre continuer à se propager.&lt;BR&gt;&lt;BR&gt;Il nous faut une meilleure solution ! &lt;BR&gt;Sans quoi, nous sommes tous perdus !&lt;NEXTPAGEBUTTON&gt;"Vous avez une solution ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est la poudre que nous devons neutraliser.&lt;BR&gt;&lt;BR&gt;Écoutez : dans les parages, j'ai aperçu des caisses dans lesquelles les révolutionnaires ont récolté la poudre.&lt;BR&gt;&lt;BR&gt;Nous devrions trouver une meilleure application pour cette poudre, avant que ces révolutionnaires n'en fassent encore un usage absurde. &lt;BR&gt;&lt;BR&gt;Je vous prie de m'aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Les révolutionnaires semblent avoir déjà supprimé les cristaux orangés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Excellent travail. &lt;BR&gt;&lt;BR&gt;Alors ?&lt;BR&gt;En avez-vous trouvé ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je ne m'attendais pas à en voir autant.&lt;BR&gt;&lt;BR&gt;Nous avons enfin mis la main dessus et voilà que je n'ai pas la moindre idée de comment la détruire.&lt;BR&gt;&lt;BR&gt;Que diriez-vous d'y jeter un coup d'œil ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Hé ! &lt;BR&gt;&lt;BR&gt;Tout va bien ?&lt;BR&gt;Mieux vaut ne pas tenter de la détruire avec des méthodes aussi rudimentaires. &lt;BR&gt;Inutile de prendre des risques inconsidérés.&lt;BR&gt;&lt;BR&gt;Je vais l'envoyer au Mysterium pour qu'il l'analyse.&lt;BR&gt;Vous avez fait du bon travail.</Page>
+    </Text>
+</QuestDialog>

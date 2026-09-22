@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez prié Halran de vous amener à la Carrière de Dirana. Il vous a raconté qu'il avait lui-même exploré la région dans sa jeunesse. Après quoi, il vous a préparé une potion spéciale destinée à vous protéger face aux dangers de la Carrière de Dirana.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Hagand est introuvable.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Hagand aimerait vous parler avant que vous ne partiez. Allez le chercher dans ce bâtiment-là.&lt;NEXTPAGEBUTTON&gt;"Je vais le faire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Bienvenue. J'ai entendu dire que vous avez aidé nos chercheurs.&lt;BR&gt;Pourquoi voulez-vous aller dans la Carrière de Dirana ? &lt;BR&gt;Dans ma jeunesse, j'y suis allé pour assouvir ma curiosité. Mais depuis l'apparition de la muraille noire, l'endroit est extrêmement dangereux.&lt;BR&gt;Je déconseille à quiconque d'y poser le pied ! &lt;NEXTPAGEBUTTON&gt;"Ne vous inquiétez pas pour moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hum. C'est Halran qui vous envoie ? S'il en est ainsi...&lt;BR&gt;&lt;BR&gt;Écoutez-moi bien : la dernière fois que je suis allé dans la Carrière de Dirana, elle était sous le contrôle des Archidevans et des Parthes.&lt;BR&gt;Je me suis servi d'une potion d'invisibilité pour passer inaperçu... et vous avez de la chance, il m'en reste un peu.&lt;BR&gt;&lt;BR&gt;Vous la voulez ?&lt;NEXTPAGEBUTTON&gt;"Oui, volontiers !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Hum, vous n'êtes pas vraiment invisible. Au mieux, vous avez une légère teinte verte.&lt;BR&gt;&lt;BR&gt;Comme je le craignais, cette potion a dépassé sa date de péremption. J'aurais dû m'en débarrasser il y a des années de cela.&lt;NEXTPAGEBUTTON&gt;"N'a-t-on pas la possibilité d'en préparer une nouvelle&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Là où il y a l'envie, il y a toujours un moyen.&lt;BR&gt;&lt;BR&gt;J'ai tout les ingrédients ici, sauf deux d'entre eux. Seriez-vous prêt{@g:/e} à me les ramener&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tout d'abord, j'ai besoin de Racine réfléchissante, pour embrouiller le badaud.&lt;BR&gt;&lt;BR&gt;Deuxièmement, des Globes oculaires brumeux pour entraver les regards inquisiteurs.&lt;BR&gt;&lt;BR&gt;On en trouve assez facilement dans les environs, mêmes s'ils sont un peu difficiles à récolter.&lt;NEXTPAGEBUTTON&gt;"Dans ce cas, commencez. Je vous rapporte les ingrédients."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Déjà de retour&amp;nbsp;? Il y a dix ans de cela, réunir ces ingrédients me prenait une semaine.&lt;BR&gt;&lt;BR&gt;Par bonheur, la potion est presque terminée. Il faut juste que vous patientiez un petit instant.&lt;NEXTPAGEBUTTON&gt;"Prenez le temps de faire ça bien ."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Tenez ! Et maintenant, écoutez-moi bien.&lt;BR&gt;&lt;BR&gt;Pour qu'elle fonctionne, il faut prendre cette potion a certains endroits précis.&lt;BR&gt;Attendez donc d'être dans la Carrière de Dirana pour la consommer. Vous devez faire attention à ce que personne ne vous la dérobe.&lt;BR&gt;Le mieux à faire est de boire la potion à l'entrée de la Carrière de Dirana.&lt;BR&gt;&lt;BR&gt;L'effet ne dure pas éternellement et vous devriez donc vous dépêcher de ramasser les pierres spatiotemporelles.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu. Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

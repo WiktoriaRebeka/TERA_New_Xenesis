@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="4">Les éclats eldritch de faible puissance font tout de même des armes fabuleuses.&lt;BR&gt;&lt;BR&gt;Bien sûr, si vous ne vous protégez pas, vous risquez de vous ouvrir la main. Il me faut du cuir pour les emballer, et il doit être résistant.&lt;BR&gt;&lt;BR&gt;Tuez des {@LinkCreature:34#100#rôdeurs des glaces maligos} et récupérez la peau qui entoure leur tête. Elle est solide&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1011">
+        <Page social="4">Ceci devrait faire l’affaire. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1011">
+        <Page social="0">Ce n’est pas avec du tissu ou de la peau de mouton que je peux recouvrir les poignées&amp;nbsp;: ça ne résisterait pas, et mes doigts non plus&amp;nbsp;! Apportez-moi la peau que je vous ai demandée.</Page>
+    </Text>
+</QuestDialog>

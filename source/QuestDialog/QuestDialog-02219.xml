@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="1" voiceTypeId="0">La bière était délicieuse.&lt;BR&gt;Mais voilà que les villageois en ont eu vent.&lt;BR&gt;Tous ceux qui n'ont pas pu y goûter sont déçus.&lt;BR&gt;&lt;BR&gt;C'est pourquoi Jaedon et moi voulons leur faire une surprise. Vous voulez bien m'aider encore une fois ?&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci !&lt;BR&gt;Pour pouvoir satisfaire tant de monde, il nous faut vraiment un très gros poisson.&lt;BR&gt;&lt;BR&gt;Or, les eaux du Lac de Celsian abritent une sacrée bestiole qui mesure 3 mètres.&lt;BR&gt;C'est un saumon du régent aux écailles colorées et scintillantes.&lt;BR&gt;Il devrait suffire à nourrir tout ce monde.&lt;BR&gt;Vous pourriez le capturer pour moi ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez attrapé la sacrée bestiole du Lac de Celsian pour que les villageois puissent en manger.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Parfait ! Ça, c'est ce qu'on appelle un poisson géant.&lt;BR&gt;Merci !&lt;BR&gt;Je vais rassembler les villageois.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Vous avez attrapé le saumon du régent ?&lt;BR&gt;Vous devez capturer les sacrées bestioles en personne.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Vous avez toute ma gratitude.&lt;BR&gt;Grâce à vous, tous les villageois ont pu manger ensemble.&lt;BR&gt;J'ai aussi quelque chose pour vous, &lt;PCNAME&gt;.&lt;BR&gt;Et bien sûr, une récompense de la fédération.</Page>
+    </Text>
+</QuestDialog>

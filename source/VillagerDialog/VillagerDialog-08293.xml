@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9000" huntingZoneId="3025" voiceTypeId="11" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="3025" endSocial="0" prevId="0" villagerId="9000">
+        <Page social="0">Ravie de vous voir !&lt;BR&gt;Je suis ici pour examiner la Porte des dimensions suspecte.&lt;BR&gt;Je n'aurais jamais cru trouver là une immense couveuse.&lt;BR&gt;Il y a tellement de larves que je ne peux pas en venir à bout seule.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="3025" endSocial="0" prevId="0" villagerId="9000">
+        <Page social="0">Je suis contente que vous soyez là.&lt;BR&gt;Éliminez-les, je vous en prie ! &lt;TEXTBUTTON&gt;"Je m'en occupe."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Je m'en occupe." (lancer le combat)&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

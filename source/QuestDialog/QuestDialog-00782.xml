@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">J'ai fait quelques découvertes pendant mes recherches sur les arkais. Les œufs d'arkai pourraient accorder la jeunesse éternelle à un puissant sorcier.&lt;BR&gt;&lt;BR&gt;Imaginez l'estime que nous gagnerions si nous en offrions un à Oshar&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je sens que j'ai une tâche à accomplir..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous apprenez à anticiper les besoins d'Oshar, &lt;PCNAME&gt;. C'est bien.&lt;BR&gt;&lt;BR&gt;Allez près d'{@LinkCreature:30#1000$$arkaina} et récupérez des œufs.&lt;BR&gt;&lt;BR&gt;Faites attention, si l'{@LinkCreature:30#220#arkai turquoise} vous surprend à voler ses œufs, elle attaquera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">Ce sont les œufs&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ils sont moins gros que je ne l'aurais cru. En fait ils ont l'air très ordinaire.&lt;BR&gt;&lt;BR&gt;Faudrait-il que je le donne d'abord à un paresseux&amp;nbsp;? Et dans ce cas, aurais-je créé un roi-paresseux immortel&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1036">
+        <Page social="0">Les œufs ne sont pas pour moi, c'est Oshar qui les veut et nous ne sommes que ses serviteurs.</Page>
+    </Text>
+</QuestDialog>

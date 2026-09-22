@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">J’ai beau avoir l’air d’un monstre, autrefois j’étais comme vous&amp;nbsp;: un honorable soldat de la Fédération, un guerrier aman qui a pris d'assaut cet endroit aux côtés de Kaidun lui-même.&lt;BR&gt;&lt;BR&gt;Nous pensions tous pouvoir conquérir ces murs sans la moindre difficulté. Quand nous avons compris que ces salles étaient remplies de nos pires cauchemars, il était déjà trop tard pour battre en retraite.&lt;BR&gt;&lt;BR&gt;La plupart sont devenus complètement fous, et certains se sont transformés en créatures épouvantables. Thulsa m’a maudit en me laissant la raison, afin que je puisse contempler l’ampleur de ma déchéance.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous ne pouvez rien faire. Mon corps maudit a l’air en vie, mais c’est uniquement parce que mon âme y est encore piégée.&lt;BR&gt;&lt;BR&gt;Ma mission est de libérer mes camarades de leur souffrance. S’il vous plaît, aidez-moi à délivrer les {@LinkCreature:33#7#défenseurs eldritch}. Je sais qu’ils n’en peuvent plus de jouer les chiens-chiens pour Thulsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1012">
+        <Page social="0">Vous n’avez pas idée de la détresse que l’on ressent en voyant son corps se transformer de son propre gré.&lt;BR&gt;&lt;BR&gt;Quant à moi, je ne me souviens plus de ce qu'est la "stabilité".&lt;BR&gt;&lt;BR&gt;Merci de les avoir aidés. Vous avez bien mérité une récompense. Cet endroit est certes ancien, mais il recèle de nombreux trésors.</Page>
+    </Text>
+</QuestDialog>

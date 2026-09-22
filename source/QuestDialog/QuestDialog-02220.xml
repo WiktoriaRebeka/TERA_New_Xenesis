@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="230" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, vous avez déjà vu une pieuvre géante ?&lt;BR&gt;Apparemment, Naiya en a aperçu une quand elle était ici. C'est incroyable !&lt;BR&gt;En revanche, elle a la réputation de toujours en rajouter. S'il y a bien une sacrée bestiole dans ce lac, ce serait une bonne occasion pour la fédération de pêche de gagner un peu en crédibilité.&lt;BR&gt;Vous pourriez aller vérifier si elle dit vrai ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La fée du lac vous a chargé de capturer la pieuvre dorée du Lac de Seren et c'est ce que vous avez fait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="1" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Houlà ! Vous êtes ici à cause de la rumeur ?&lt;BR&gt;Avant-hier, j'ai aperçu une pieuvre gigantesque aussi brillante que le soleil qui nageait dans le lac !&lt;BR&gt;Je ne sais pas, elle devait bien être grande comme 5 Barakas.&lt;BR&gt;C'est tout juste si les fées du lac ont réussi à la chasser.&lt;BR&gt;Si j'exagère ?! Allez donc voir les fées du lac pour leur demander ! &lt;NEXTPAGEBUTTON&gt;"Et où puis-je trouver les fées du lac ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les fées du lac adorent tout ce qui est sucré.&lt;BR&gt;Répandez des bonbons étoilés sur les lotus de lumière stellaire et elles devraient se montrer.&lt;BR&gt;Comment ? Vous n'avez pas de bonbons étoilés ? Mais c'est pourtant un article indispensable de tout équipement de voyage.&lt;BR&gt;&lt;BR&gt;Préparez-moi une salade de fruits de mer et de champignons et je vous en donnerai quelques-uns.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Je suis impressionnée ! Une salade de fruits de mer et de champignons !&lt;BR&gt;Rien qu'à l'odeur, l'eau me monte à la bouche !&lt;BR&gt;Voilà vos bonbons étoilés.&lt;BR&gt;Il vous suffit de les répandre sur les lotus de lumière stellaire.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1043">
+        <Page social="0">Vous avez la salade de fruits de mer et de champignons ?&lt;BR&gt;Vous pouvez obtenir les ingrédients dans le magasin d'articles de pêche.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Tiens ! C'est vous qui avez répandu ces bonbons ?&lt;BR&gt;À chaque fois, je tombe dans le piège.&lt;BR&gt;Une pieuvre ? Oui, la pieuvre géante qui a élu domicile dans le lac nous donne bien du fil à retordre.&lt;BR&gt;Nous ne fermons plus l'œil de la nuit à cause de sa tête ébolouissante.&lt;BR&gt;Vous pourriez l'attraper pour nous ?&lt;BR&gt;Nous vous donnerons une récompense, bien entendu. Et vous pouvez aussi garder la pieuvre.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Vous l'avez vraiment attrapée !&lt;BR&gt;Aaaah, éloignez-moi cette tête éblouissante d'ici.&lt;BR&gt;Merci ! Nous allons enfin pouvoir dormir en paix.&lt;BR&gt;Voici votre récompense.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="9906">
+        <Page social="0">Vous avez capturé la pieuvre dorée ?&lt;BR&gt;Ce n'est pas une mince affaire, alors prenez votre temps.</Page>
+    </Text>
+</QuestDialog>

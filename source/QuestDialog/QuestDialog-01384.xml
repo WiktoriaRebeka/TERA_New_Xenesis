@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="4">Comment les argons sont-ils parvenus à corrompre notre peuple par leur seule présence&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Comment combattre un ennemi aussi impalpable que le vent&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je vous en prie, dites à Eltarun que vous êtes là pour nous aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1011">
+        <Page social="4">Salutations, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Vous arrivez à point nommé.&lt;BR&gt;&lt;BR&gt;Nombre de fées de ces bois se montrent extrêmement belliqueuses, mais nous ignorons si cela est lié à leur contamination ou si elles sont naturellement agressives.&lt;BR&gt;&lt;BR&gt;Au nord, ce sont les Poporis sauvages qui arpentent les bois. Pas les sympathiques petites bestioles qu'on rencontre dans les rangs de la Fédération ou du Mysterium... plutôt des bêtes féroces, bien que là encore, il soit difficile de dire si cela est lié ou non à la contamination des lieux.&lt;BR&gt;&lt;BR&gt;Vous allez devoir me fournir des échantillons de sang pour analyse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1011">
+        <Page social="4">Les tests sont concluants. Leur sang contient la même "toxine" que celle découverte dans celui des fées.&lt;BR&gt;&lt;BR&gt;J'ai bien peur que personne au Taillis de Morteseaux ne soit en mesure de résister à ce mal, mais étrangement, il paraît encore plus virulent chez les fées.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="81" villagerId="1011">
+        <Page social="0">La carrière se trouve au nord.&lt;BR&gt;&lt;BR&gt;Mes recherches sont importantes, et je n'ai pas de temps à perdre.</Page>
+    </Text>
+</QuestDialog>

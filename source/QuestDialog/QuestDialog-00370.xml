@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">Après que vous avez débarqué sur l'Île de l'Aube en tant que nouvelle recrue, le Légat Lam vous a demandé de vous présenter aux autres commandants en vous rendant vers la Base de la Tour.&lt;BR&gt;&lt;BR&gt;La route menant au campement de Dulari a été l'occasion de votre première confrontation avec les esprits d'érables vivants que l'on appelle les ghilliedhus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">C'est bientôt la quille, pour Axelle et moi. Mais Adria continue à insister pour que nous présentions un rapport à intervalles réguliers. Et donc, félicitations, voici votre première mission&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Comptez rapidement le nombre de personnes que vous rencontrerez en route vers la Base de la Tour et dites au tribun Adria que tout va bien pour nous.&lt;BR&gt;&lt;BR&gt;Ceci dit, quand j'y pense, ça fait un moment que je n'ai pas vu &lt;font color='#660000'&gt;Elion&lt;/font&gt;. Donc, si vous voyez un elfe désagréable avec une longue écharpe noire, dites-lui qu'il est grand temps qu'il donne des nouvelles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">Une nouvelle recrue&amp;nbsp;? Surprenant.&lt;BR&gt;&lt;BR&gt;Vous êtes l{@gender:e/a} bienvenu{@g:/e}, bien entendu. La mission de cet avant-poste est de protéger le port contre les assauts de la faune locale. Les &lt;font color='#660000'&gt;ghilliedhus&lt;/font&gt; tout particulièrement, mais nous sommes confrontés à toute sorte de menaces&lt;BR&gt;&lt;BR&gt;Cheminez le long de cette route vers le Campement de Dulari et disposez de quelques {@linkcreature:13#300931#ghilliedhus} que vous croiserez sur la route.&lt;BR&gt;&lt;BR&gt;Prenez garde, cependant. De nombreuses recrues ont déjà péri sous les coups de leurs griffes acérées.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">Ah, ces griffes&amp;nbsp;! Vous avez chassé le ghilliedu, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Elion a bien évoqué vouloir combattre le mal à la racine, mais je ne l'ai pas revu depuis un bon moment.&lt;BR&gt;&lt;BR&gt;Du bon travail, recrue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

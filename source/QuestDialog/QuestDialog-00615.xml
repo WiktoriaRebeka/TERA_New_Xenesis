@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="5">La situation est en train de nous échapper&amp;nbsp;! Les {@LinkCreature:22#10#apprenties seniors} ont essayé de me tuer&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et il ne s'agit pas de quelques gosses qui joueraient à lancer un éclair de pacotille en criant "pop"&amp;nbsp;! Ces jeunes sorcières maîtrisent déjà certains pouvoirs.&lt;BR&gt;&lt;BR&gt;Elles sont trop nombreuses pour que nous puissions leur laisser le contrôle des halls. Arrêtez-les rapidement ou nous serons tous privés de dessert ce soir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">Celui ou celle qui est à l'origine de ce cauchemar paiera son forfait d'une agonie particulièrement douloureuse&amp;nbsp;! Ils mettront des mois à mourir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Votre esprit d'initiative est très apprécié, &lt;PCNAME&gt;. Si tous les autres voyaient clair, ils chanteraient vos louanges&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

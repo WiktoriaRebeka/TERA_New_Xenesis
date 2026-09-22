@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La {@linkcreature:248#2010#déesse Kaia} était attentive à cette interminable guerre d'usure. Elle a dit vouloir se charger personnellement de mettre un terme à ce conflit. Tamur a essayé de l'en dissuader, mais la {@linkcreature:248#2010#déesse Kaia} ne voulait pas en démordre. Elle vous a prié de l'accompagner avec Hasmina.&lt;BR&gt;&lt;BR&gt;Vous êtes allés ensemble dans la Vallée du carnage. Au début, les argons tombaient comme des mouches. &lt;BR&gt;Mais le flot ininterrompu d'argons ne tarissait pas et la {@linkcreature:248#2010#déesse Kaia} et son escorte ont fini par devoir battre en retraite.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Informez {@LinkCreature:248#2001#Tamur}, dans le quartier général de la Citadelle de Khanovar, que vous apportez un morceau du canon de siège des argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10" voiceTypeId="0">Vous avez vraiment fait du bon travail.&lt;BR&gt;Grâce à vous, la victoire est encore envisageable. Nos forgerons vont maintenant pouvoir trouver un moyen de neutraliser les bras de métal. &lt;BR&gt;Quand la guerre sera enfin finie, je vais rendre hommage aux guerriers tombés en remplissant leur devoir, au nom de Valkyon. Je m'y engage.&lt;BR&gt;&lt;BR&gt;Nous avons déjà trop de victimes à déplorer. Mais je ne peux rien y faire.&lt;BR&gt;&lt;BR&gt;Voilà pourquoi Kaia a pris cette décision... &lt;NEXTPAGEBUTTON&gt;"Que se passe-t-il donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">La {@LinkCreature:248#2010#déesse Kaia} a décidé de se rendre en personne dans la Vallée du carnage. &lt;BR&gt;&lt;BR&gt;Mais ce n'est pas une bonne idée. Certes, la {@LinkCreature:248#2010#déesse Kaia} est extrêmement puissante, mais nous sommes nettement inférieurs en nombre. C'est un risque très hasardeux... Le moral de la fédération ne doit surtout pas vaciller.&lt;BR&gt;&lt;BR&gt;Pourriez-vous tenter de l'en dissuader ? Elle est là, dehors. Elle refuse de m'écouter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="2010">
+        <Page social="4" voiceTypeId="0">N'allez pas croire que vous pourrez m'arrêter, &lt;PCNAME&gt;. Je suis déterminée à éradiquer les argons. &lt;BR&gt;&lt;BR&gt;Je ne peux plus rester les bras croisés pendant qu'ils détruisent ce monde. &lt;BR&gt;&lt;BR&gt;Le monde des dieux est scellé et me puissance est donc affaiblie, mais je serais déjà contente de voir le rapport de force pencher un peu en notre faveur.&lt;NEXTPAGEBUTTON&gt;"Alors laissez-moi combattre à vos côtés !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, au nom des dieux, je vous remercie pour vos services et exploits passés.  &lt;BR&gt;&lt;BR&gt;Il est bon de pouvoir compter sur un partenaire aussi fiable. Avec votre soutien et celui d'{@LinkCreature:248#2011#Hasmina} nous aurons tôt fait d'emporter cette bataille. &lt;BR&gt;&lt;BR&gt;Ne traînons pas trop.&lt;BR&gt;Revenez me voir quand vous aurez fini vos préparatifs.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="2010">
+        <Page social="4" voiceTypeId="0">J'entends le chant du combat… Je ne l'avais plus entendu depuis trop longtemps…&lt;BR&gt;&lt;BR&gt;Nous allons montrer aux argons l'étendue de notre courage&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2001">
+        <Page social="10" voiceTypeId="0">J'ai entendu les nouvelles. {@LinkCreature:248#2010#Kaia} prend les argons pour des pantins. &lt;BR&gt;&lt;BR&gt;Nous avons un peu discuté pendant votre absence. Nous en sommes arrivés à la conclusion qu'il serait préférable de nous retirer provisoirement, en attendant d'en savoir plus sur leur chef. À l'heure actuelle, le combat contre les argons est trop gourmand en ressources.&lt;BR&gt;&lt;BR&gt;Nous devons attendre le bon moment pour leur porter l'estocade.&lt;NEXTPAGEBUTTON&gt;"Battre en retraite ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">À ma connaissance, Hasmina est originaire d'un petit village d'Argonea. &lt;BR&gt;&lt;BR&gt;Même si les argons occupent le village, elle devrait pouvoir nous aider à les prendre à revers. &lt;BR&gt;&lt;BR&gt;Accompagnez-nous.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1115">
+        <Page social="0">Nivek vous a demandé de tuer Vekas, l'Arbre néfaste.&lt;BR&gt;&lt;BR&gt;Jamais encore vous n'aviez eu affaire à un adversaire aussi redoutable, mais vous êtes parvenu{@g:/e} à triompher du ghilliedhu envahissant.&lt;BR&gt;&lt;BR&gt;Vous avez ensuite poursuivi votre route vers la Base de la Tour et avez fait la connaissance du tribun Adria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1115">
+        <Page social="4">Difficile de garder le moral, dans le coin. Nous avons perdu beaucoup d'hommes mais, avec l'expérience acquise, les survivants n'en sont que plus forts.&lt;BR&gt;&lt;BR&gt;Vekas, le ghilliedhu enragé qui sévit un peu plus loin est un bon cas d'école. J'essaye généralement de maintenir la route en bon état, mais régulièrement, je vais le voir pour en faire du petit bois.&lt;BR&gt;&lt;BR&gt;Dites-moi, vous m'avez tout l'air d'avoir des nouvelles compétences à éprouver. Vous voulez tenter votre chance&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1115">
+        <Page social="4">Bien joué, &lt;PCCLASS&gt;. Tout ça peut paraître anecdotique, mais dans un endroit comme celui-ci, la seule chose sur laquelle les soldats peuvent compter, c'est la solidarité.&lt;BR&gt;&lt;BR&gt;Et maintenant, arpentez cette colline à la recherche de la Base de la Tour et donnez le bonjour de ma part à Adria.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1004">
+        <Page social="4">Tiens, encore une nouvelle recrue&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne peux pas vous en vouloir. Moi aussi, quand j'ai entendu parler de l'Ile de l'Aube, il a fallu que je vois ça de mes propres yeux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous sommes au Poste de guet du Nord, un campement destiné à ceux qui protègent la Base de la Tour. Nous comptons sur vous pour continuer à faire du bon travail.&lt;BR&gt;&lt;BR&gt;Suivez cette route et vous rencontrerez le tribun Adria à la Base de la Tour. Je suis sûre qu'elle attend votre rapport.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">Bienvenue sur l'Ile de l'Aube, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Notre présente mission est de protéger nos chercheurs de toutes les menaces qu'ils pourraient découvrir.&lt;BR&gt;&lt;BR&gt;Ici, vous ne rencontrerez presque que des vétérans chevronnés qui s'apprêtent à bientôt rentrer chez eux. Apprenez d'eux tant que vous le pouvez, et je suis sûre que vous vous en sortirez bien.&lt;BR&gt;&lt;BR&gt;Jorhon, mon adjudant, vous donnera vos ordres.</Page>
+    </Text>
+</QuestDialog>

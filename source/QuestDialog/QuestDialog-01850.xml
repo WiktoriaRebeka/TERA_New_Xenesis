@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">À la demande de Seir, &lt;PCNAME&gt; a exploré l'Île de l'Aube et les modifications observées là-bas l'ont choqué. Adria nous a fait savoir que la force vitale émanant de l'Arbre des anciens dieux s'est envolée. La magie qui protégeait l'île a ainsi été levée, et les monstres qui l'habitent sont devenus sauvages et malveillants. &lt;PCNAME&gt; a décidé de participer à la chasse aux monstres afin d'apporter son aide à Adria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="4">[Message de Seir]&lt;BR&gt;&lt;BR&gt;Vu l'urgence, je ne vous dresse qu'un rapide aperçu.&lt;BR&gt;&lt;BR&gt;En l'absence des soldats de la Fédération, un grave évènement s'est produit sur l'Île de l'Aube.&lt;BR&gt;&lt;BR&gt;Je me rends à Hautegarde pour vous y rencontrer. Venez me voir là-bas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">Heureusement que vous êtes là.&lt;BR&gt;Je sais que vous êtes très occupé, mais je n'ai pas eu d'autre choix que de faire appel à vous.&lt;BR&gt;&lt;BR&gt;Pourriez-vous partir pour l'Île de l'Aube sur-le-champ&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Quelle est ma mission&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Une requête urgente d'Adria nous est parvenue.&lt;BR&gt;&lt;BR&gt;Il a dû se passer un évènement d'une grande gravité sur l'Île de l'Aube.&lt;BR&gt;Veuillez rejoindre Adria qui vous fera part d'informations détaillées et aidez-la.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8001">
+        <Page social="4">À quand remonte notre dernière rencontre, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;Vous avez beaucoup changé depuis.&lt;BR&gt;&lt;BR&gt;J'ai pourtant l'impression qu'hier seulement vous veniez ici pour mener l'expédition.&lt;BR&gt;Mais vous avez tellement mûri que je vous ai à peine reconnu.&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">L'Arbre des anciens dieux est en train de mourir, car la force vitale l'a quitté.&lt;BR&gt;&lt;BR&gt;Cela a également affaibli la magie qui protégeait l'île. Les monstres en tirent profit.&lt;BR&gt;&lt;BR&gt;Aidez-nous à éliminer les monstres s'il vous plaît, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

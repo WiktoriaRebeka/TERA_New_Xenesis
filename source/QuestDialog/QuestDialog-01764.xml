@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="0">&lt;PCNAME&gt; a parlé à un gobelin et un baraka au sujet des activités des Archidevans à Ex Prima.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="4" voiceTypeId="0">Nous devons réunir des informations sur les activités des Archidevans. Mais les Scrutateurs ne nous seront pas d'une grande aide. Trouvons quelqu'un d'autre.&lt;BR&gt;&lt;BR&gt;Il y a un gobelin, Jagreg, que l'on trouve généralement au poste de Baaldaz. Demandez-lui s'il a vu des Archidevans dans les parages.&lt;NEXTPAGEBUTTON&gt;"Je vais lui parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Ne vous approchez pas des arbres-monnaies de Jagreg, &lt;PCRACE:lcase&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Jagreg les a vus en premier&amp;nbsp;! Ces fruits pécuniens appartiennent donc à Jagreg&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Hmm. Je peux vous les cueillir... en échange de quelque chose."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">... échange&amp;nbsp;! D'accord&lt;BR&gt;&lt;BR&gt;Jagreg d'accord&amp;nbsp;! Cueillez-les maintenant&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"D'accord, attendez-moi là."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Haha&amp;nbsp;! Jagreg est riche&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon travail, &lt;PCRACE:lcase&gt;. Maintenant, que voulez savoir&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que les Archidevans manigancent&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Archidevans&amp;nbsp;? &lt;PCRACE&gt; mourir bientôt, pense Jagreg.&lt;BR&gt;&lt;BR&gt;Archidevans fouiller le passé. Ignore pourquoi.&lt;NEXTPAGEBUTTON&gt;"Mais vous savez où&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Kamun.&lt;BR&gt;&lt;BR&gt;Kamun sait où. Kamun observe Archidevans. Etudie. Kamun meurt bientôt itou, pense Jagreg.&lt;BR&gt;&lt;BR&gt;Demandez Kamun.&lt;NEXTPAGEBUTTON&gt;"Profitez bien de vos fruits pécuniens, Jagreg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Les Archidevans ont de nombreux camps dans cette région. N'importe lequel d'entre eux pourrait s'avérer être le centre névralgique de leur dispositif derrière la muraille des Tempêtes.&lt;NEXTPAGEBUTTON&gt;"Mais pour lequel est-ce le plus vraisemblable&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Excellente question&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le meilleur moyen d'y trouver une réponse fiable est d'interroger un Archidevan ou deux. Mais ils sont particulièrement malhonnêtes. Je n'ai réussi à en tirer des informations valables qu'à l'aide d'aiguilles de vérité savamment placées.&lt;NEXTPAGEBUTTON&gt;"Vous n'en auriez pas encore une ou deux, par hasard&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hélas, mes provisions sont épuisées. Je me préparais à mettre en place une nouvelle expédition pour récupérer davantage de composants... mais si vous acceptez de vous charger de cette besogne, je serais disposé à vous en préparer.&lt;BR&gt;&lt;BR&gt;Ramenez-moi juste quelques écailles scintillantes sur les chupathingys alentours.&lt;NEXTPAGEBUTTON&gt;"C'est d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Vous avez réussi à obtenir les écailles scintillantes&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est mon métier."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" villagerId="1010">
+        <Page social="0">Vous êtes toujours en quête d'Ecailles scintillantes&amp;nbsp;? Elles sont indispensables à établir la vérité.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="6" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Vous avez fait du bon travail. Donnez-moi un petit instant... et... voilà&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Que cette aiguille de vérité vous soit bénéfique&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Merci, Kamun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

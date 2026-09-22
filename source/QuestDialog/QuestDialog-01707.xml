@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1604">
+        <Page social="0">Voici les matériaux nécessaires à la confection de robes d'officier. Tâchez de mettre du cœur à l'ouvrage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="69" prevId="2" villagerId="1016">
+        <Page social="0">Grâce à vous, nous allons peut-être gagner cette guerre, &lt;PCNAME&gt;. Nous vous sommes très reconnaissants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="69" villagerId="1016">
+        <Page social="0">Vous avez le plan et les kits. Parlez aux vendeurs d'artisanat dans les villes si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+</QuestDialog>

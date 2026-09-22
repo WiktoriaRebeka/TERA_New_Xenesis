@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="69" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Je me présente, Lora, déléguée de la Fédération Valkyon.&lt;BR&gt;&lt;BR&gt;Cela vous dirait-il de voler, &lt;PCNAME&gt; ?&lt;BR&gt;La Fédération Valkyon recherche actuellement des gardiens capables de voler. &lt;BR&gt;Venez donc me voir si vous êtes intéressé !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Merci de votre visite.&lt;BR&gt;&lt;BR&gt;La Fédération Valkyon ne sait plus où donner de la tête.&lt;BR&gt;Tout le monde est à cran. Nous manquons avant tout de gardien capable d'explorer les cieux. &lt;BR&gt;&lt;BR&gt;Ça vous dirait de voler ?&lt;NEXTPAGEBUTTON&gt;"Oui, ça me dirait bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Vous êtes prêt à passer un examen de vol ? &lt;BR&gt;Si vous êtes à la hauteur, je vous confierai une mission très spéciale.&lt;BR&gt;&lt;BR&gt;Les conditions ne sont pas faciles à remplir, mais vous aurez l'occasion de vous faire un nom en tant que gardien !&lt;BR&gt;&lt;BR&gt;Cinq essences sont disséminées aux alentours de la Place de la Liberté, à Velika. Rapportez-les moi !&lt;BR&gt;&lt;BR&gt;En route !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Parfait ! Vous avez rempli votre mission avec brio.&lt;BR&gt;Vos facultés sont stupéfiantes !&lt;BR&gt;&lt;BR&gt;J'ai le plaisir de vous annoncer que vous pouvez désormais participer à l'exploration des cieux.&lt;BR&gt; &lt;BR&gt;&lt;BR&gt;Pour ce faire, il vous suffit de prendre part aux missions célestes et de les mener à bien.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Je le savais !&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, grâce à vous, le ciel a été exploré en long et en large et nous pouvons enfin respirer.&lt;BR&gt;&lt;BR&gt;J'espère pouvoir compter à nouveau sur votre aide à l'avenir.&lt;BR&gt;À bientôt !</Page>
+    </Text>
+</QuestDialog>

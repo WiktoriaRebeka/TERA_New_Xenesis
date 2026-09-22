@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Vous souhaitez que Thro vous accompagne ?&lt;BR&gt;Thro est notre meilleur technicien. &lt;BR&gt;Je refuse ! Je ne veux pas le laisser partir !&lt;NEXTPAGEBUTTON&gt;"J'ai absolument besoin de Thro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Votre situation semble désespérée. Bon. Très bien.&lt;BR&gt;&lt;BR&gt;Si vous me ramenez les lingots de métal de grande pureté que les orkans de l'épine d'acier m'ont volés, je pourrai les vendre au prix fort. Auquel cas, nous pourrons provisoirement nous passer de Thro.&lt;BR&gt;&lt;BR&gt;Cherchez les lingots d'acier de grande pureté dans la boîte à ferraille des orkans. Les orkans jettent tout ce qui leur tombe entre les mains dans leur boîte à ferraille. &lt;BR&gt;Ils ne sont pas très ordonnés. &lt;BR&gt;&lt;BR&gt;Tout leur larcin finit aussi dans la boîte à ferraille. Fouillez leurs boîtes.&lt;NEXTPAGEBUTTON&gt;"C'est d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Holà ! Vous les avez bel et bien trouvés !&lt;BR&gt;&lt;BR&gt;J'étais certain que vous arriveriez à récupérer les lingots d'acier de grande pureté volés par les orkans. C'est du bon travail.&lt;BR&gt;&lt;BR&gt;Je vous remets une lettre indiquant que j'autorise Thro à vous accompagner. &lt;BR&gt;Tenez, prenez ce document. &lt;NEXTPAGEBUTTON&gt;"J'accepte avec joie l'accord écrit des marchands d'insignes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6000">
+        <Page social="0">Bah.&lt;BR&gt;Ce ne sera pas gratuit, tout désespéré que vous soyez. &lt;BR&gt;&lt;BR&gt;Si vous voulez que Thro vous accompagne, vous devez me rapporter les lingots de métal de grande pureté.</Page>
+    </Text>
+</QuestDialog>

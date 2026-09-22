@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">Si Thulsa est bel et bien derrière tout ça, ça expliquerait les dernières informations sur les Ksharans.&lt;BR&gt;&lt;BR&gt;Arast, de l'Avant-poste de Valumnir, a dit avoir vu un Ksharan près de son poste. Les Ksharans sont des morts-vivants créés de toutes pièces par les argons, ils représentent une menace très sérieuse.&lt;BR&gt;&lt;BR&gt;Vérifiez leur présence et allez le signaler à Arast.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">Ce sont des amulettes de Thulsa, ça ne fait aucun doute. Thulsa a ratissé large en rassemblant de nombreux alliés pour mettre ses plans à exécution.&lt;BR&gt;&lt;BR&gt;D'où l'assurance des impies, qui croient avoir le soutien de Thulsa. Quelle bande d'idiots.&lt;BR&gt;&lt;BR&gt;Thulsa n'est loyal qu'envers lui-même.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">Je dois savoir si les routes sont praticables. S'il vous plaît, assurez-vous qu'elles le sont, ou rapportez-moi une preuve tangible du contraire, que je puisse montrer au commandement.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">Kaidun&amp;nbsp;! Pour nous autres, les Amans, ce nom est chargé de sens. Il était autrefois un symbole vivant de la force et de la grandeur de notre race. Mais ce temps-là est révolu.&lt;BR&gt;&lt;BR&gt;Quand Kaidun est ressorti de la Citadelle du Tourment, il était devenu un tyran sanguinaire. Il s'est lancé à la conquête du Mont Tyrannas, et sans le sacrifice de notre peuple, il serait déjà ici et il nous aurait tous massacrés.&lt;BR&gt;&lt;BR&gt;Cette guerre dure depuis trop longtemps, et nous commençons à manquer de ressources. Nous avons des soldats, mais pas de quoi les armer.&lt;BR&gt;&lt;BR&gt;Trouvez-nous des armes. Peu importe comment vous vous y prenez. En fait, le plus simple serait d'aller les arracher aux membres raidis des {@LinkCreature:32#1#combattants sihrans} et des {@LinkCreature:32#2#têtes cornues tuwangis}. Vous auriez toute ma gratitude.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">Bon travail&amp;nbsp;! Grâce à vous, nos recrues vont pouvoir partir au combat bien armées. Je vais faire en sorte que ces armes leur parviennent. Tous nos hommes vous en seront reconnaissants.&lt;BR&gt;&lt;BR&gt;Savoir que l'ennemi sera puni par ses propres armes me réjouit d'avance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1019">
+        <Page social="0">Trouvez les {@LinkCreature:32#1#combattants sihrans} et les {@LinkCreature:32#2#têtes cornues tuwangis} du Passage de l'Intimidation, à l'est. Nous avons besoin de leurs armes.</Page>
+    </Text>
+</QuestDialog>

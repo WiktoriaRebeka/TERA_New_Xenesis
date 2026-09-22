@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="4">Avant que nous ne puissions nous déplacer dans le {@Rgn:50006}, nous devons nous débarrasser des arzakaars qui le gardent.&lt;BR&gt;&lt;BR&gt;Rassemblez autant d'hommes que nécessaire et allez faire le ménage. Pendant ce temps, je vais monter un plan d'attaque.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1008">
+        <Page social="6">Cela a dû faire mal aux argons, mais ils ne tarderont pas à recevoir du renfort.&lt;BR&gt;&lt;BR&gt;J'ai demandé à Kaiator de nous envoyer des troupes. Pour l'instant, pas de retour.&lt;BR&gt;&lt;BR&gt;Une belle image de la hiérarchie face à l'adversité&amp;nbsp;: hâtons-nous de ne rien faire.</Page>
+    </Text>
+</QuestDialog>

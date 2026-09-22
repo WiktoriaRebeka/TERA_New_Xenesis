@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4" voiceTypeId="0">J'ai essayé de dresser une carte de cet endroit de fous, mais je me suis fait capturer et torturer par les ksharans. L'arrivée de Kaidun les a mis en fuite, mais il m'a fallu des jours et des jours pour me libérer.&lt;BR&gt;&lt;BR&gt;Il faut que je trouve un moyen de sortir d'ici&amp;nbsp;! Cet endroit me terrifie. Je vois encore les yeux atroces de mes tortionnaires penchés sur moi. Je ne peux pas les affronter, pas sans armes&amp;nbsp;! Pouvez-vous me dégager le chemin&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="6" voiceTypeId="0">Vous m'avez rapporté leurs outils de torture&amp;nbsp;? C'est... fantastique&amp;nbsp;! Ils ne peuvent plus me faire peur, maintenant que j'ai ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">Ne les laissez pas vous torturer, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

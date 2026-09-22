@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5" voiceTypeId="0">Les descendants ont relâché des hyènes à la morsure terrible. Les blessures qu'elles infligent deviennent purulentes, et guérissent lentement, ce qui empêche nos troupes de retourner au combat.&lt;BR&gt;&lt;BR&gt;Tuer ces hyènes affaiblira les descendants et nous renforcera. Occupez-vous d'elles... et rapportez-moi leurs crocs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5" voiceTypeId="0">Sales bêtes, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je connais des éclaireurs qui dormiront plus tranquilles en apprenant que vous avez tuez ces fauves.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">Je ne peux pas vous croire sur parole. Mes supérieurs veulent des preuves. Tuez ces hyènes et rapportez-moi leurs crocs.</Page>
+    </Text>
+</QuestDialog>

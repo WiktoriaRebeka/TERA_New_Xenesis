@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Je ne sais pas si vous vous souvenez de Kaprima. C'est une créature dont nous pensions être définitivement débarrassés, mais des rapports inquiétants nous sont parvenus et prétendent que les Archidevans ont fait incursion dans la crypte. S'ils sont fidèles à leurs habitudes, il est probable qu'ils aient fait appel à la magie du sang pour faire revenir Kaprima d'entre les morts. Il nous faut quelqu'un pour s'y rendre et s'assurer que ce monstre ne mette pas un pied hors de son caveau.&lt;BR&gt;&lt;BR&gt;Mettez la Réincarnation de Kaprima hors d'état de nuire et nous vous offrirons une émeraude d'une valeur inestimable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">Vous avez terminé votre mission dans le Caveau de Kaprima&amp;nbsp;? Quel travail remarquable&amp;nbsp;! Tenez, vous n'avez pas volé cette récompense&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

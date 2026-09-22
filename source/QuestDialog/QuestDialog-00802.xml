@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="4">Ceux qui ont survécu à la tempête de la Plaine des Tempêtes ont fui vers les quatre coins du pays. Ils commencent à revenir pour tenter de rebâtir quelque chose, mais j'ignore si leurs efforts seront payants.&lt;BR&gt;&lt;BR&gt;Les morts-vivants ont envahi la province, et même les "beaux jours", tout semble enveloppé d'un suaire glacé. Et ce n'est qu'un problème parmi tant d'autres.&lt;NEXTPAGEBUTTON&gt;"Ah bon&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Malheureusement, personne à Acarum ne saurait dire d'où viendra la prochaine attaque. De Thulsa&amp;nbsp;? De la rébellion&amp;nbsp;? A moins que ce ne soit le climat de cet endroit cauchemardesque qui ne finisse par avoir raison de nous&amp;nbsp;? L'arrivée des réfugiés a été pour certains la goutte d'eau qui fait déborder le vase. Une villageoise nommée Arvo a convaincu les autres d'adopter la philosophie du "chacun pour soi".&lt;BR&gt;&lt;BR&gt;C'est bien triste... jusqu'ici, les habitants d'Acarum avaient malgré leur isolement toujours eu le sens de la solidarité et de la compassion, même en temps de crise.&lt;BR&gt;&lt;BR&gt;Cet emblème appartenait à l'un des anciens d'Acarum mort au cours de la première attaque de Thulsa. Pourriez-vous l'apporter à Arvo et la convaincre de changer d'idée&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1011">
+        <Page social="4">On nous a déjà beaucoup trop demandé ! Je ne demande à personne de tourner le dos à nos voisins... mais à nos futurs ennemis. Ces réfugiés pourraient rejoindre les rangs des traîtres à tout moment !&lt;BR&gt;&lt;BR&gt;Mon époux est mort en les combattant, et depuis, les choses sont devenues parfaitement invivables, pour moi. Aujourd'hui, je ne vis plus que pour honorer sa mémoire et servir Acarum selon mes principes, ceux qui nous ont été enseignés par nos anciens.&lt;NEXTPAGEBUTTON&gt;"Comme celui auquel ceci appartenait ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Où avez-vous trouvé ça&amp;nbsp;? Cet emblème appartenait à ma tante, une Aman courageuse et dévouée. Elle est morte en tentant d'aider un groupe de blessés à fuir la zone de combat.&lt;BR&gt;&lt;BR&gt;J'ai peur que la colère m'ait complètement aveuglée... M'aiderez-vous à réparer mes erreurs&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1015">
+        <Page social="4">Je ne veux pas parler des réfugiés de la côte. Chaque fois qu'Arvo intervient, c'est "bla-bla nos ressources", "gnagnagna les ennemis" et compagnie. J'en ai ma claque.&lt;NEXTPAGEBUTTON&gt;"Arvo s'est reprise."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vraiment&amp;nbsp;? Comment avez-vous fait pour la ramener à de meilleures dispositions&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin... je n'ai rien contre le fait de partager nos provisions si cette folle a renoncé à venir me harceler.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1016">
+        <Page social="4">Vous avez perdu la tête&amp;nbsp;? Ecoutez, nous avons déjà du mal à satisfaire nos propres besoins... je veux dire, vous avez croisé Arvo la folle&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je crois qu'elle va mieux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">"Mieux" c'est très subjectif, comme notion...&lt;BR&gt;&lt;BR&gt;Enfin, si Arvo elle-même se décide à aider, je ne peux me permettre de refuser. Dites à Karihne que je participerai à l'escorte des réfugiés.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="73" prevId="5" villagerId="1001">
+        <Page social="4">Wow... &lt;PCNAME&gt;, je savais ce que vous valiez, mais ça reste impressionnant. Ça fait des mois qu'Arvo joue les harpies... pauvre âme.&lt;BR&gt;&lt;BR&gt;Nous allons devoir faire parvenir les nouvelles aux habitants de la Plaine des Tempêtes. Vous pourriez vous rendre à la Station de recherche de la Baie glaciale et remettre cette lettre à Gron, le responsable&amp;nbsp;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" prevId="6" villagerId="1015">
+        <Page social="4">Euh... eh bien, je dois reconnaître ma surprise. Les gens d'Acarum nous ignorent depuis des mois. Enfin, mieux vaut tard que jamais. Merci beaucoup.&lt;BR&gt;&lt;BR&gt;Je vais envoyer quelqu'un à Acarum pour coordonner les opérations avec Karihne. Mais puisque vous êtes ici, vous pourriez peut-être nous donner un coup de main&amp;nbsp;? Les morts-vivants sont pléthore, dans le coin, et toute aide serait la bienvenue.</Page>
+    </Text>
+</QuestDialog>

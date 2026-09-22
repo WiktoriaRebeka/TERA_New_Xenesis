@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">C'est un plaisir de vous revoir, &lt;PCNAME&gt;. {@LinkCreature:250#1013} est également des nôtres.&lt;BR&gt;&lt;BR&gt;Elle est encore plongée dans ses recherches. En fait, je l'ai entendue parler de faire appel à votre aide. Pourquoi n'iriez-vous pas lui parler&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1013">
+        <Page social="6">La dernière fois, vous m'avez été d'une aide inestimable &lt;PCNAME&gt;. Cela vous dirait-il de renouveler l'exploit&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous voyez ces grosses... racines&amp;nbsp;? Manifestement, elles ont quelque chose d'argon, mais je dois en apprendre plus sur leur nature.&lt;NEXTPAGEBUTTON&gt;"En quoi puis-je vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous pourriez me rapporter un échantillon&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1013">
+        <Page social="6">C'est bien ce que je craignais. Cet alliage comporte une bonne dose d'éclats d'iteris.&lt;BR&gt;&lt;BR&gt;Pas la peine de nous demander pourquoi il est aussi dur de trouver des éclats d'iteris... Ce sont les argons qui font une razzia&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

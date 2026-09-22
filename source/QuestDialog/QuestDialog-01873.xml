@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="1">Vous semblez bien être {@gender:le/la} {@gender:champion/championne} du soleil.&lt;BR&gt;&lt;BR&gt;Les plus grands mystères du temple reposent à l'abri de la lumière, conservés dans des urnes anciennes. Trouvez le miroir dimensionnel dans l'une de ces jarres et affrontez le {@linkcreature:425#8005}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10004">
+        <Page social="1">Le soleil a fait de vous {@gender:son/sa} {@gender:champion/championne}.&lt;BR&gt;&lt;BR&gt;C'est le dieu Balder en personne qui a placé le {@LinkCreature:425#8005} sur le chemin de ceux qui viennent chercher la bénédiction suprême du temple pour de mauvaises raisons.&lt;BR&gt;&lt;BR&gt;Balder rend hommage à votre courage en vous offrant une récompense hors du commun.&lt;BR&gt;&lt;BR&gt;Puissent les titans Arun et Shara vous accueillir au sein de leur rêve jusqu'à la fin des temps.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">Un marchand de Frontera nommé Safna n'a pas respecté la quarantaine et est parti par la porte nord.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:75#1012#Junith}. Il sait peut-être où il va comme ça.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1012">
+        <Page social="4">Safna&amp;nbsp;? Ne me lancez pas sur ce sujet. Je lui ai dit que nous étions en quarantaine, mais il m’a jeté à terre et a filé. Je l’ai poursuivi, mais il avait pris trop s’avance. La dernière fois que je l’ai vu, il se dirigeait vers la Vallée sauvage.&lt;BR&gt;&lt;BR&gt;Vous pouvez le chercher, mais vous ne trouverez sûrement que des os.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1102">
+        <Page social="12">Je ne reviendrai pas. Cette escroqueuse de décurion, Jeulile, a accepté de récolter des champignons rares pour moi, mais quand son messager me les a apportés, ce n’étaient pas ceux que j’avais demandés. Ils étaient vénéneux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je lui ai dit, mais il a répondu qu’il ne faisait qu’obéir aux ordres.&lt;BR&gt;&lt;BR&gt;Alors je vais dans la Vallée sauvage lui dire ma façon de penser et lui remettre cette lettre de réclamation&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Malheureusement, c’est assez dangereux par ici... &lt;NEXTPAGEBUTTON&gt;"Je vais apporter cette lettre pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Vraiment&amp;nbsp;? Bon, si vous insistez... et vous avez l’air digne de confiance.&lt;BR&gt;&lt;BR&gt;Dites-lui que le fléau ou les panthères ou quoi que ce soit ne sont rien comparés à ce qui l’attend si elle se joue encore de moi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1005">
+        <Page social="4">Des champignons vénéneux&amp;nbsp;? Quelqu’un a dû faire une terrible erreur. Et vous avez dû vous embarquer dans cette histoire... Je suis navrée.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">Les argons maintiennent nos soldats et nos civils prisonniers dans les Trois Tours.&lt;BR&gt;&lt;BR&gt;J'ai vu ce que les argons font subir aux détenus. C'est abominable. Nous devons absolument libérer ces malheureux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="4">Je sais que {@LinkCreature:77#3001#Nithan} vous a déjà expliqué la situation. Trouvez les prisonniers et ramenez-les à la {@Rgn:46015$$Chambre Cœur-sort}.&lt;BR&gt;&lt;BR&gt;Des agents chargés de les mettre en sécurité vous y attendront.&lt;BR&gt;&lt;BR&gt;Ce ne sera pas une mission de routine. Restez sur vos garde, et surtout, restez en vie. Nous ne voulons pas en plus devoir venir vous secourir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3012">
+        <Page social="4">Un grand merci&amp;nbsp;! Je savais que j'étais... oh, je ne veux plus y penser.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="3013">
+        <Page social="4">Faites-moi sortir d'ici&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="3014">
+        <Page social="4">Merci de m'avoir fait sortir d'ici.&lt;BR&gt;&lt;BR&gt;J'ai cru que c'en était fini pour moi.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" prevId="9" villagerId="3002">
+        <Page social="4">Vous les avez sauvés d'une destinée plus terrible que la mort, &lt;PCNAME&gt;. C'est ce que nous efforçons de faire chaque jour, c'est notre mission.&lt;BR&gt;&lt;BR&gt;Et vous avez fait du beau boulot, soldat.</Page>
+    </Text>
+</QuestDialog>

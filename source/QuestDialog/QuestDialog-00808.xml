@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="4">Arriver jusqu'ici n'a pas été un problème, mais maintenant, plus moyen d'avancer d'un pouce&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'ai sous ma responsabilité des ouvriers, du matériel et des outils destinés au projet de reconstruction, mais les {@LinkCreature:31#1#marche-givre ossugons} et les {@LinkCreature:31#4#serviteurs squelettiques gelés} me barrent la route. Si seulement un soldat de la Fédération...&lt;BR&gt;&lt;BR&gt;Hé... attendez... mais vous êtes justement un soldat de la Fédération&amp;nbsp;! Qu'attendez-vous&amp;nbsp;? Allez me débarrasser de ces morts-vivants, que je puisse me remettre au travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">Bien joué, camarade. Je vais pouvoir me remettre au turbin&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

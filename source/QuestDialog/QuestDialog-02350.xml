@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">Pourriez-vous m'aider à résoudre quelques problèmes avant de rejoindre la forteresse ?&lt;NEXTPAGEBUTTON&gt;"Quels problèmes ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Allez donc récupérer les glandes venimeuses dont vous avez besoin contre les vassaux.&lt;BR&gt;&lt;BR&gt;Je sais que ce sont des nagas comme moi, mais ces vassaux servent la lignée des hauts dragons.. Ils ont de nombreux alliés des Riverans sur la conscience.&lt;BR&gt;&lt;BR&gt;Hors de question de laisser ces crimes impunis. Le nombre de nagas à la botte des hauts dragons diminue à vue d'œil.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Merci de votre aide.&lt;BR&gt;Maintenant, les vassaux des hauts dragons n'en mènent sans doute pas large.&lt;BR&gt;&lt;BR&gt;Puis-je vous demander un dernier service ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Vous n'en avez pas assez de glandes venimeuses pour supprimer les vilains traîtres. Vous pouvez obtenir d'autres glandes venimeuses auprès des fauves du marécage.</Page>
+    </Text>
+</QuestDialog>

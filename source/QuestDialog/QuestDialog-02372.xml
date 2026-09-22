@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Retrouvez Ahrep à l'intérieur de la Forteresse de Berak pour vérifier les informations de Revenj.&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement de 463 ou supérieur est requis pour entrer dans la Forteresse de Berak.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Il semble avoir découvert un passage menant à l'intérieur de la Forteresse de Berak. &lt;BR&gt;&lt;BR&gt;Demandez à Ahrep de vous donner plus de détails.&lt;BR&gt;&lt;BR&gt;En achevant la quête, vous activez automatiquement la quête &lt;font color='#7F00FF'&gt;[important] enclume de Kaia&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;J'ai récemment vu une porte s'ouvrir juste après le repli des commandants hauts dragons.&lt;BR&gt;&lt;BR&gt;Par la porte, j'ai distingué un être issu d'un peuple inconnu.&lt;BR&gt;&lt;BR&gt;Franchissez la porte et découvrez ce à quoi nous avons affaire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="4" voiceTypeId="0">Merci, &lt;PCNAME&gt;. Grâce à vous, nous savons maintenant ce qu'ils manigancent. &lt;BR&gt;&lt;BR&gt;Allons en informer les autres au plus vite.</Page>
+    </Text>
+</QuestDialog>

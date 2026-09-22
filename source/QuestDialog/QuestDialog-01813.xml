@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="183" prevId="0" villagerId="200030">
+        <Page social="0">Ainsi, nous nous retrouvons, gardien d'Arborea.&lt;BR&gt;&lt;BR&gt;Des adversaires toujours plus puissants s'infiltrent par la faille de la muraille des mondes.&lt;BR&gt;&lt;BR&gt;Plus les cauchemars du monde défiguré s'y engouffrent, plus la muraille s'affaiblit. Nous devons les arrêter !&lt;BR&gt;&lt;BR&gt;Terrassez les cauchemars du monde défiguré et collectez leur force magique pour restaurer la muraille des mondes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">Je perçois la muraille des mondes qui se régénère progressivement.&lt;BR&gt;&lt;BR&gt;Je vous remercie, gardien d'Arborea.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">Si la muraille des mondes cède, Arborea et Agaia seront détruites.</Page>
+    </Text>
+</QuestDialog>

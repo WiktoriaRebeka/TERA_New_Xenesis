@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="0">Eria vous a demandé de récupérer de l'essence de noyau sur les marchespores de la région pour étude. Quand elle a tenté cette essence à la corruption qui souillait le Fléau du démon, elle a clairement senti quelqu'un lutter contre sa volonté.&lt;BR&gt;&lt;BR&gt;Elle était navrée de ne pas pouvoir aider plus Lian, mais ce dernier s'est montré plutôt satisfait. Vous pensez que votre ennemi se trouve au sommet des Hauteurs d'Arun.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="4">J'ai besoin que vous alliez tuer des marchespores et que vous me rapportiez leur essence de noyau. Ces créatures primitives ont vu le jour en même temps que le monde... Elles sont très sensibles aux fluctuations magiques.&lt;BR&gt;&lt;BR&gt;Je dois déterminer si l'énergie qui souille le Fléau du démon est également celle qui affecte la population de l'île.&lt;BR&gt;&lt;BR&gt;Assez parlé&amp;nbsp;!&lt;TEXTBUTTON&gt;"Je m'en occupe&amp;nbsp;!"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">Bien joué&amp;nbsp;! C'est plus agréable de travailler avec vous qu'avec monsieur le prétentieux en chef.&lt;BR&gt;&lt;BR&gt;Voyons ce que ces essences peuvent nous apprendre... Oh, je...!&lt;NEXTPAGEBUTTON&gt;"Tout va bien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je... je n'y arrive pas&amp;nbsp;! Par le courroux de la nature, c'est trop puissant pour moi.&lt;BR&gt;&lt;BR&gt;Quelqu'un s'oppose à moi. J'ai ressenti dans mon esprit une présence... abominable. Tout ce que je peux dire avec certitude, c'est que ça venait de l'est... peut-être bien de cette colline.&lt;BR&gt;&lt;BR&gt;Désolée... je voudrais pouvoir en faire plus pour Lian&amp;nbsp;! J'aimerais l'impressionner en lui en apprenant plus sur le Fléau du démon, mais c'est au-dessus de mes forces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1021">
+        <Page social="0">&lt;PCNAME&gt;, j'ai vraiment besoin de votre aide. Si je veux comprendre la relation existant entre les phénomènes auxquels nous assistons et le Fléau du démon, il me faut ces noyaux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Alors comme ça, quelqu'un s'est opposé aux pouvoirs magiques d'Eria&amp;nbsp;? Intéressant. Nous avons aperçu du mouvement au sommet de cette colline, que nous nommons Hauteurs d'Arun.&lt;BR&gt;&lt;BR&gt;Un bon point de vue... tout à fait le genre d'endroit qu'un adversaire rusé choisirait. Maintenant, nous savons où chercher&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

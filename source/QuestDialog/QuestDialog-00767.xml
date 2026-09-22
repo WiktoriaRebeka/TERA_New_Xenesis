@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">C'est votre jour de chance, soldat. Mon maître, le sorcier Oshar, va se lancer dans une nouvelle aventure.&lt;BR&gt;&lt;BR&gt;Sous sa direction, j'ai développé une lotion qui rajeunit et donne du volume aux cheveux, et qui les fait même repousser. Je dois fabriquer un autre lot de test, mais je n'ai plus d'ingrédients.&lt;BR&gt;&lt;BR&gt;C'est là votre chance&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Vraiment&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tout à fait&amp;nbsp;! Vous pouvez m'aider à créer cette lotion miracle&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Attrapez quelques ghilliedhus racine-azur et vérifiez s'ils abritent des ruches.&lt;BR&gt;&lt;BR&gt;Prenez le miel et décrochez une coquette récompense&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">Je ne l'oublierai pas, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;En fait, je vais ajouter votre nom à la liste des "collaborateurs" sur la recette. Et voici un petit gage de reconnaissance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">La Lotion luxuriante de Leshoff est presque terminée.&lt;BR&gt;&lt;BR&gt;Une fois que j'aurai assez de miel de ghilliedhu, ce sera prêt&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0">Les fées ne sont pas notre seul problème. Tous les prédateurs de la forêt sont devenus plus agressifs.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:2#4#dents-de-sabre furtifs}, par exemple, ne se nourrissent d'ordinaire que de phacochères et de porcidés.&lt;BR&gt;&lt;BR&gt;Apparemment, les bûcherons font désormais également partie de leur régime alimentaire. J'ai mis leurs têtes à prix. Rapportez-moi leurs crocs, et je vous récompenserai.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">Voici la récompense pour les crocs, comme promis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Vous avez du mal à arracher les crocs des dents-de-sabre&amp;nbsp;? Vous pensiez qu'ils allaient vous les donner d'eux-mêmes&amp;nbsp;?!</Page>
+    </Text>
+</QuestDialog>

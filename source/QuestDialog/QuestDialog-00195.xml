@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Ces mercenaires sont les troupes les moins puissantes des nagas. Les {@LinkCreature:7#2#mastodontes nagas}, c'est déjà autre chose. Ce sont des adversaires solides, et d'une agressivité extrême.&lt;BR&gt;&lt;BR&gt;Eliminez quatre de ces créatures et rapportez-moi leurs têtes. Ca devrait marquer l'esprit des survivants.&lt;BR&gt;&lt;BR&gt;Ne prenez pas cette mission à la légère. Le combat sera difficile, mais la victoire n'en sera que plus grisante.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">Vos compétences sont inégalées. Si seulement le Mysterium comptait dans ses rangs plus de personnes de votre trempe&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous nous avez rendu un grand service. C'est tout à votre honneur, &lt;PCNAME&gt;. Merci beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">Nous avez-vous débarrassés des mastodontes nagas&amp;nbsp;? Les collines sont-elles en train de boire leur sang&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

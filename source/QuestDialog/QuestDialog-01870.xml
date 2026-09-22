@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="1">Vous êtes l'aube que le soleil cherche à étendre. Enfin, je crois. Vous devez réussir les épreuves du Temple de Balder pour prouver que vous êtes digne de l'astre solaire.&lt;BR&gt;&lt;BR&gt;La première d'entre elles consiste à ouvrir la porte verrouillée du labyrinthe.&lt;BR&gt;&lt;BR&gt;Vous n'aurez pas besoin de clé. Vous devrez simplement vaincre {@LinkCreature:425#1000$$Kakun}, le maître des jardins extérieurs&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3022">
+        <Page social="1">Le soleil vous illumine et rend votre victoire plus brillante encore.&lt;BR&gt;&lt;BR&gt;Une autre épreuve vous attend. Traversez le labyrinthe et consultez le {@Creature:425#3024#dépositaire de sagesse} qui vous attend de l'autre côté.</Page>
+    </Text>
+</QuestDialog>

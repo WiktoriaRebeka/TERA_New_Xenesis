@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="161">
+        <Page social="4" voiceTypeId="0">Souhaitez-vous entrer dans le Temple de l'arbre ?&lt;BR&gt;De nombreux novices viennent ici et il m'est donc difficile d'évaluer vos aptitudes. Vous êtes catégorique ?&lt;BR&gt;&lt;BR&gt;Nos troupes aussi déplorent un nombre croissant de blessés. Dougal vient d'envoyer un messager : les renforts sont en route. Vous ne préférez pas les attendre ?&lt;NEXTPAGEBUTTON&gt;"Non. J'y vais de ce pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Si je vous ai contrarié d'une manière ou d'une autre, je m'en excuse.&lt;BR&gt;Ce n'était pas mon intention.&lt;BR&gt;&lt;BR&gt;Si vous avez besoin d'aide, utilisez cette fusée de détresse. Elle permet d'appeler nos médecins.&lt;BR&gt;&lt;BR&gt;Nous suivrons le faisceau lumineux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les médecins vous ont donné un indice sur l'emplacement d'Anya et des gardiens et vous êtes entré dans le Temple de l'arbre.&lt;BR&gt;&lt;BR&gt;Les argons avaient installé des appareils d'absorption d'énergie sur Tiaran, suite à quoi l'arbre s'est teint de noir. Les soldats envoyés par Dougal étaient engagés dans un combat harassant contre les argons. &lt;BR&gt;&lt;BR&gt;Vous avez trouvé les autres gardiens et appris qu'Émun, le capitaine des gardiens, avait suivi Anya en direction de Tiaran.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="148">
+        <Page social="0" voiceTypeId="0">Karlati, accrochez-vous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon sang&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;&amp;nbsp;! Vous vous en êtes sorti{@g:/e}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Lacedir&amp;nbsp;! Que s'est-il passé&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous nous en sortions bien, nous tenions les rangs... mais Anya s'est précipitée devant nous en hurlant quelque chose au sujet des autres enfants.&lt;BR&gt;&lt;BR&gt;Emun s'est lancé à sa poursuite et certains d'entre nous ont tenté de former une arrière-garde... puis nous avons été séparés et soudain, je me suis aperçu qu'il ne restait plus que Karlati et moi, acculés dans ce coin&amp;nbsp;! Nous n'avions pas l'ombre d'une chance&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez chercher les autres, &lt;PCNAME&gt;&amp;nbsp;! Deplen est de l'autre côté de la cour. Il saura vous dire où ils sont allés&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je le trouverai. Et vous, aidez ces soldats."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="151">
+        <Page social="0" voiceTypeId="0">Je... Je ne vais pas m'en sortir... *tousse*&lt;BR&gt;Ne vous préoccupez pas de moi. Rendez-vous vite auprès du commandant.*tousse*&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je vais vous envoyer les infirmiers de la patrouille de Valkyon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="151">
+        <Page social="0" voiceTypeId="0">Je vous ai... toujours estimé{@g:/e}, &lt;PCNAME&gt;. Vous avez... l'étoffe... des vrais héros.&lt;BR&gt;&lt;BR&gt;Vous feriez mieux... d'y aller. Emun a poursuivi Anya... dans le temple. Vous pouvez... encore les... rattraper...&lt;NEXTPAGEBUTTON&gt;"Reposez-vous. Les secours arrivent."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

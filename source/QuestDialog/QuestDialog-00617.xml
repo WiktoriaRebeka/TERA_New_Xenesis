@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">C'est censé être une période de joie et de célébration, pas de meurtre et de terreur.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:22#11#préfètes sorcières} et les {@LinkCreature:22#12#tueurs de géants ailuris} sèment la terreur dans toute l'académie&amp;nbsp;! Vous devez ralentir leur progression pour nous laisser le temps de trouver un remède.&lt;BR&gt;&lt;BR&gt;Ne faites pas durer le plaisir, &lt;PCNAME&gt;, finissez-en rapidement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">L'époque de la moisson ne sera plus jamais synonyme de joie pour moi. Elle évoquera pour toujours le souvenir de cette tragédie. Merci. Je dois retourner à mes études.&lt;BR&gt;&lt;BR&gt;Il est peut-être encore temps de sauver les autres&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

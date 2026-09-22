@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">Les nagas sont en train de se réunir à la tombe de leur dieu et créateur, Dagon. Galvanisées par la présence d'{@LinkCreature:10#13#écailles sanglantes nagas} et de {@LinkCreature:10#14#jeunes guivres nagas} dans leurs rangs, ces créatures sont persuadées que nous n'oserons jamais nous en prendre à elles.&lt;BR&gt;&lt;BR&gt;Mais vous allez leur prouver le contraire. Pensez à me rapporter leurs écailles&amp;nbsp;: prélever des trophées sur l'ennemi est un bon moyen de lui adresser un message fort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Maintenant, c'est l'ennemi qui se retrouve en sous-nombre... pas nous.&lt;BR&gt;&lt;BR&gt;Et à côté de ça, nous avons de jolis trophées. Nous devrions envisager de les exposer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">Je sais que cet endroit regorge de nagas.&lt;BR&gt;&lt;BR&gt;On peut dire que vous n'allez pas "manquer de compagnie".</Page>
+    </Text>
+</QuestDialog>

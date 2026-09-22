@@ -1,0 +1,46 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="80010" name="Premier effet - Ecrasement VII" tooltip="Augmente les dégâts face aux monstres de $value." />
+    <String id="80020" name="Premier effet - Amertume VII" tooltip="Augmente la puissance des coups critiques de 1,52 en attaquant par derrière." />
+    <String id="80030" name="Premier effet - Tueur VII" tooltip="Augmente la puissance des coups critiques face aux monstres de 1,74 quand vos PV sont inférieurs à 50 %." />
+    <String id="80040" name="Premier effet - Furieux VII" tooltip="Augmente les dégâts de $value quabd vos PV sont inférieurs à 50 %." />
+    <String id="80050" name="Premier effet - Concentré VII" tooltip="Augmente la puissance des coups critiques face aux monstres enragés de 1,88." />
+    <String id="80060" name="Premier effet - Virulent VII" tooltip="Les coups critiques sur les cibles renversées infligent $H_W_GOODPoison VII$COLOR_END." />
+    <String id="80070" name="Premier effet - Brutal VII" tooltip="Augmente les dégâts face aux adversaires renversés de $value." />
+    <String id="80080" name="Premier effet - Cruel VII" tooltip="Augmente la puissance des coups critiques après avoir renversé un adversaire. Octroie $H_W_GOODCruel VII$COLOR_END." />
+    <String id="80090" name="Premier effet - Puissant VII" tooltip="Augmente la puissance des coups critiques en attaquant par derrière. Octroie $H_W_GOODDétermination VII$COLOR_END." />
+    <String id="80100" name="Premier effet - Sauvage VII" tooltip="Les dégâts critiques augmentent par un facteur de 1,32 quand vous attaquez par-derrière." />
+    <String id="80110" name="Premier effet - Malin VII" tooltip="Augmente le maximum de PM de $value." />
+    <String id="80120" name="Premier effet - Infusé VII" tooltip="Restaure instantanément 255 PM en cas de renversement." />
+    <String id="80130" name="Premier effet - Scintillant VII" tooltip="Les coups critiques restaurent 249 PM en cas d'attaque par-derrière." />
+    <String id="80140" name="Premier effet - Rapide VII" tooltip="Augmente la vitesse de déplacement au combat de $value." />
+    <String id="80150" name="Premier effet - Eclatant VII" tooltip="Restitue $value PM toutes les $tickInterval." />
+    <String id="80160" name="Premier effet - Gravure VII" tooltip="Augmente les chances de coups critiques de 3,3 %." />
+    <String id="80170" name="Premier effet - Salivation VII" tooltip="Restaure immédiatement 89 PM en attaquant un autre joueur." />
+    <String id="80180" name="Premier effet - Menaçant VII" tooltip="Augmente le taux d'agression de $value." />
+    <String id="80190" name="Premier effet - Robuste VII" tooltip="Réduit les dégâts infligés par les monstres de $value." />
+    <String id="80200" name="Premier effet - Protecteur VII" tooltip="Octroie $value de résistance supplémentaire face aux coups critiques quand vos PV sont inférieurs à 50 %." />
+    <String id="80210" name="Premier effet - Persistant VII" tooltip="Réduit les dégâts subis de $value quand vos PV sont inférieurs à 50 %." />
+    <String id="80220" name="Premier effet - Immobile VII" tooltip="Réduit de $value les dégâts infligés par les monstres enragés." />
+    <String id="80230" name="Premier effet - Empyréen VII" tooltip="Octroie $H_W_GOODSurveillance VII$COLOR_END en cas de renversement infligé par des monstres enragés." />
+    <String id="80240" name="Premier effet - De protection VII" tooltip="Octroie $H_W_GOODSurveillance VII$COLOR_END en cas de renversement (probabilité de $prob)." />
+    <String id="80250" name="Premier effet - Inspirant VII" tooltip="Octroie $H_W_GOODRégénération de PV VII$COLOR_END en cas de renversement (probabilité de $prob)." />
+    <String id="80260" name="Premier effet - Acharné VII" tooltip="Augmente le maximum de PV de $value." />
+    <String id="80270" name="Premier effet - Preste VII" tooltip="Augmente la vitesse de déplacement hors combat de $value." />
+    <String id="80280" name="Premier effet - Vigoureux VII" tooltip="Restaure $value PV toutes les $tickInterval." />
+    <String id="80290" name="Premier effet - Eploré VII" tooltip="Restaure 117 PM quand un joueur vous attaque." />
+    <String id="80300" name="Premier effet : Courroux du Gardien VII" tooltip="Multiplie les dégâts critiques les dégâts critique par +1,66 en attaquant les monstres de face." />
+    <String id="80310" name="Premier effet : Jugement VII" tooltip="Les dégâts critiques augmentent par un facteur de 1,52 quand vous attaquez à distance un monstre par le flanc ou par-derrière." />
+    <String id="81001" name="Deuxième effet - Scintillant VII" tooltip="Les coups critiques restaurent 60 PM lors d'attaques par derrière." />
+    <String id="81002" name="Deuxième effet - Malin VII" tooltip="Augmente le maximum de PM de $value." />
+    <String id="81003" name="Deuxième effet - Infusé VII" tooltip="Restaure 63 PM en cas de renversement." />
+    <String id="81004" name="Deuxième effet - Salivation VII" tooltip="Restaure 21 PM en attaquant un joueur." />
+    <String id="81005" name="Deuxième effet - Brutal VII" tooltip="Augmente les dégâts face aux adversaires renversés de $value." />
+    <String id="81006" name="Deuxième effet - Eclatant VII" tooltip="Restaure $value PM toutes les $tickInterval." />
+    <String id="81007" name="Deuxième effet - Rapide VII" tooltip="Augmente la vitesse de déplacement au combat de $value." />
+    <String id="81008" name="Deuxième effet - Immobile VII" tooltip="Réduit les dégâts subis face aux monstres enragés de $value." />
+    <String id="81009" name="Deuxième effet - Persistant VII" tooltip="Réduit les dégâts subis de $value quand vos PV sont inférieurs à 50 %." />
+    <String id="81010" name="Deuxième effet - Eploré VII" tooltip="Restitue immédiatement 28 PM quand un joueur vous attaque." />
+    <String id="81011" name="Deuxième effet - Protecteur VII" tooltip="Octroie $value de résistance supplémentaire face aux coups critiques quand vos PV sont inférieurs à 50 %." />
+    <String id="81012" name="Deuxième effet - Acharné VII" tooltip="Augmente le maximum de PV de $value." />
+    <String id="81013" name="Deuxième effet - Vigoureux VII" tooltip="Restaure $value PV toutes les $tickInterval." />
+</StrSheet_Passivity>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0">Après avoir traversé le pont vers la Vallée maudite, vous avez rencontré Phaedra, une éclaireuse castanic qui vous a envoyé{@g:/e} patrouiller le périmètre. Une fois que vous êtes arrivé{@g:/e} au campement provisoire de la garnison, Sersine vous a donné des ordres supplémentaires.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="4">Je ne peux pas contacter mes éclaireurs de tête, mais me frayer un passage parmi une meute de cromos rôdeurs reviendrait à abandonner ce pont aux orkans. &lt;BR&gt;&lt;BR&gt;Mais puisque vous êtes ici, vous ne pourriez pas aller prendre de leurs nouvelles pour moi&amp;nbsp;? Et tant que vous y êtes, vous pouvez aussi vous occuper des cromos. Darius était en patrouille, mais Phaedra devrait être juste de l'autre côté du prochain pont, si elle a bien obéi à ses ordres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1005">
+        <Page social="4">Edan est encore en vie&amp;nbsp;! Eh bien, quel soulagement. Vous semblez assez débrouillard{@g:/e}, après tout.&lt;BR&gt;&lt;BR&gt;Je vais vous faire un petit topo sur la Vallée maudite. Nous sommes en plein territoire ennemi, et les ennemis, ce n'est pas ça qui manque. Des démons à la pelle et de tous les gabarits. Ils sont à la recherche de quelque chose, mais j'ignore de quoi il s'agit.&lt;NEXTPAGEBUTTON&gt;"Quels sont mes ordres&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Notre camp provisoire se trouve juste là, mais nous n'avons pas un effectif suffisant pour explorer le périmètre. Enfin, jusqu'à votre arrivée. Rendez-vous de l'autre côté de cette colline et observez ce que ces démons manigancent. Ce que j'entends par-là c'est : tuez-en quelques-uns et regardez s'ils ont quelque chose d'intéressant sur eux.&lt;BR&gt;&lt;BR&gt;Ah, et si vous tombez sur certains de nos camarades défunts, prenez leur amulette d'expédition et ramenez-les à Sersine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1025">
+        <Page social="4">Ainsi, Edan a survécu à l'attaque. Voilà une bonne nouvelle. Nous avions bien peur de l'avoir perdu.&lt;BR&gt;&lt;BR&gt;Et merci d'avoir récupéré ces amulettes, elles devraient permettre aux familles des victimes de faire leur deuil.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1025">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

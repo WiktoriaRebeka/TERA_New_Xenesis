@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1026">
+        <Page social="4">Les {@LinkCreature:40#29#dents-de-sabre brutaux}. En nombre raisonnable, ils font partie du grand cycle bienfaisant de la nature. En nombre anormal, ils m’empoisonnent l’existence. Je paierai très cher pour les voir morts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">Voilà qui est fait&amp;nbsp;! Faites-en bon usage.</Page>
+    </Text>
+</QuestDialog>

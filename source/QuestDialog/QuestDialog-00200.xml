@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="5">Les Descendants de Lok sont présents partout dans les Vestiges de Cardovek, mais ils n'y sont pas parfaitement implantés. Si nous les harcelons suffisamment, nous avons une chance de les chasser des lieux.&lt;BR&gt;&lt;BR&gt;Je vous demande d'aller tuer des {@LinkCreature:7#12#lanciers} et des {@LinkCreature:7#13#berserkers} de Lok. Nous devons les empêcher de renforcer leurs positions, et vous êtes la seule personne en mesure d'entreprendre une telle mission.&lt;BR&gt;&lt;BR&gt;Ne me laissez pas tomber.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1019">
+        <Page social="5">Ils sont affaiblis, et c'est une bonne chose. Nous allons tenter de prendre l'initiative et de les coiffer au poteau&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

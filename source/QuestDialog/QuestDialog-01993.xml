@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="0">Vous avez ramené le chien d'Ameldas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;, mon chien a disparu ! &lt;BR&gt;Comme vous n'arrêtez pas de me forcer à avaler ce remède, alors que je n'en veux pas, je me suis mise en colère et j'ai lancé ma poupée au loin. &lt;BR&gt;&lt;BR&gt;Mon chien s'en est aperçu et s'est immédiatement rué derrière la poupée pour me la ramener. &lt;BR&gt;&lt;BR&gt;Mais il n'est toujours pas revenu.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="117">
+        <Page social="1" voiceTypeId="0">J'ai lancé ma poupée là-bas avec un sort &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7014#-66688,-21739,709&amp;type=1&amp;name=ici gît la poupée d'Ameldas"&gt;&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;Je ne veux pas prendre le remède, mais il y a toujours quelqu'un pour m'y obliger. Ce médicament est vraiment dégoûtant.&lt;BR&gt;&lt;BR&gt;Mais je commence à craindre d'avoir perdu mon chien à cause de ma crise de colère. D'habitude, il revient toujours sur-le-champ quand je l'appelle avec mon sifflet. Mais là, il ne revient pas. Est-ce qu'il se cache ?&lt;BR&gt;&lt;BR&gt;J'ai tellement peur que quelque chose lui soit arrivé&lt;BR&gt;&lt;BR&gt;Je voudrais bien aller le chercher moi-même, mais Eifin et Maman et Papa m'ont dit que la zone est bien trop dangereuse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="142">
+        <Page social="1" voiceTypeId="0">(Il doit s'agir de la poupée dont a parlé Ameldas. Des petits lambeaux sont éparpillés un peu partout. Est-ce le chien qui les a arrachés ?)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="141">
+        <Page social="1" voiceTypeId="0">*hurle* (Le chien détourne la tête quand vous lui tendez la poupée endommagée.)&lt;NEXTPAGEBUTTON&gt;"Ameldas se fait du mouron pour toi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">*ouaf*&lt;BR&gt;&lt;BR&gt;(En entendant le nom d'Ameldas, le chien remue gaiment la queue.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="510" villagerId="30">
+        <Page social="0">*ouaf*</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="5" villagerId="117">
+        <Page social="4" voiceTypeId="0">Vous m'avez rapporté mon chien !&lt;BR&gt;Mille mercis, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Mais... c'est quoi cette poupée ?&lt;NEXTPAGEBUTTON&gt;"Je l'ai rapporté car je pensais que c'était votre poupée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Qu'est-ce que c'est que ça ? Serait-ce le chien qui a endommagé ma poupée préférée ?&lt;BR&gt;C'est donc pour ça qu'il ne voulait pas revenir ?&lt;BR&gt;&lt;BR&gt;(Ameldas semble sur le point de fondre en larmes.)&lt;BR&gt;&lt;BR&gt;Non, je ne vais pas pleurer. &lt;BR&gt;J'ai promis que je serais un enfant courageux, à partir de maintenant. &lt;BR&gt;Tout va bien, puisque mon chien est de retour. &lt;BR&gt;Certes, ma poupée est déchirée, mais...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" villagerId="117">
+        <Page social="0">Vous n'avez pas vu ma poupée ?</Page>
+    </Text>
+</QuestDialog>

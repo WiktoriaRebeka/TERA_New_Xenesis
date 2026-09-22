@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;La Garde sanglante est en train d'affirmer sa supériorité sur l'un de nos territoires.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:33#10#mages}, les {@LinkCreature:33#11#berserkers}, les {@LinkCreature:33#12#lanciers}, les {@LinkCreature:33#60#sorciers}, les {@LinkCreature:33#61#faucheurs}, les {@LinkCreature:33#62#champions} et les {@LinkCreature:33#70#arcanistes} de la Garde sanglante.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Celion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">La Fédération tient à vous remettre cette récompense. Avec nos remerciements à tous les membres de la guilde&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1011">
+        <Page social="5">Mes terres se trouvaient à l'est d'ici. Je travaillais aux champs quand les membres du culte sont venus nous en chasser. Ils ont tué mon frère aîné, avant d'accrocher sa dépouille à un épouvantail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je veux me venger&amp;nbsp;! Je suis dans ce camp depuis une semaine, mais personne n'a accepté de m'aider.&lt;BR&gt;&lt;BR&gt;Dites-moi... Vous accepteriez d'aller tuer les {@LinkCreature:17#301201#capitaines de Chute-céleste} et les {@LinkCreature:17#101#partisans de Chute-céleste}&amp;nbsp;? Il est temps pour eux de payer leurs crimes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1011">
+        <Page social="5">Oui&amp;nbsp;! Enfin&amp;nbsp;! L'heure de la vengeance a sonné&amp;nbsp;! J'espère que vous avez fait couler une rivière de sang. Firla, c'était en ta mémoire&amp;nbsp;! Œil pour œil, dent pour dent&amp;nbsp;! Tenez, soldat, et puisse la nature vous sourire.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="0">En tant que membre de la Garnison d'Essenia, Jihenn faisait partie de ceux qui ont vu le crash de l'aéronef de leurs propres yeux. Depuis, elle étudie le comportement des papillons qui sont apparus pendant cet incident.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="4" voiceTypeId="0">Hum. Le comportement type des papillons que nous connaissions jusqu'à présent consistait à dévorer la végétation avant de retourner dans leur abri.&lt;BR&gt;&lt;BR&gt;Mais ceux d'Essenia sont différents.&lt;BR&gt;&lt;BR&gt;Ce n'est sans doute pas par hasard si c'est précisément ici qu'ils prolifèrent.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Un de nos agents se cache dans la forteresse pour observer le comportement des papillons.&lt;BR&gt;&lt;BR&gt;Si vous n'y voyez pas d'inconvénients, j'aimerais que vous alliez aider Kiower.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="564">
+        <Page social="4" voiceTypeId="0">Ici, le nombre de papillons ne chute jamais sous un certain seuil.&lt;BR&gt;&lt;BR&gt;Pourquoi et comment sont-ils venus ici... &lt;BR&gt;Nous avons une multitude de questions, mais nous n'avons jamais assez d'informations pour y répondre.&lt;BR&gt;&lt;BR&gt;Gardien, si vous nous aidez, nous parviendrons peut-être à décrypter le comportement des papillons.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pour faire simple : nous voulons réduire leur nombre.&lt;BR&gt;&lt;BR&gt;Gardien, de votre côté, vous éliminez le plus de papillons possible et nous allons alors observer si un changement intervient dans le processus, afin de combler ces disparitions.&lt;BR&gt;&lt;BR&gt;Je compte consigner ces modifications par écrit.&lt;BR&gt;Il y a rapport, j'en suis convaincu.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="564">
+        <Page social="4" voiceTypeId="0">Ah. Vous voilà.&lt;BR&gt;Gardien, grâce à vous, nous avons eu un certain succès.&lt;BR&gt;En effet, nous avons observé un type de comportement déviant de l'ordinaire.&lt;BR&gt;&lt;BR&gt;Merci d'aller remettre ce document à Jihenn.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="565">
+        <Page social="4" voiceTypeId="0">Selon ce document, le point central autour duquel les papillons gravitent devrait à peu près se trouver ici.&lt;BR&gt;Avez-vous la moindre hypothèse ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="567">
+        <Page social="4" voiceTypeId="0">C'était quoi, ça ?&lt;BR&gt;C'est la première fois que je vois ça.&lt;BR&gt;&lt;BR&gt;Mais vous, gardien, vous semblez savoir quelque chose.&lt;BR&gt;&lt;BR&gt;Qu'est-ce que ça a à voir avec les papillons ?&lt;NEXTPAGEBUTTON&gt;"C'est difficile à expliquer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">À la prochaine apparition, nous devons à tout prix mettre la main dessus.&lt;BR&gt;Cela nous permettra sans doute de faire des progrès.</Page>
+    </Text>
+</QuestDialog>

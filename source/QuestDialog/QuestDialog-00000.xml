@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Boquillon a dû faire face à un débarquement massif de réfugiés en provenance de la Forêt féerique et des Bois de l'oubli. Le peuple des fées de la Forêt féerique s'était révolté contre les bûcherons locaux, et nombre de rumeurs rapportaient la présence d'une énergie magique néfaste dans le Bois des stigmates.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Ordres de mission&lt;BR&gt;&lt;BR&gt;Le peuple des fées d'Arcadia s'en prend aux bûcherons et compromet l'acheminement du bois vers Velika.&lt;BR&gt;&lt;BR&gt;Allez présenter votre rapport au commandant Samael.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">Vous avez mis du temps.&lt;BR&gt;Un problème avec le respect de l'autorité ?&lt;BR&gt;&lt;BR&gt;Vous allez devoir rentrer dans le rang.&lt;BR&gt;&lt;BR&gt;Je vous envoie sur l'heure dans la province d'Arcadia. Le peuple des fées s'en prend aux bûcherons de la région, et notre ravitaillement en bois est interrompu depuis des jours.&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Troius&lt;/b&gt; vous expliquera comment rallier Boquillon. Au travail !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4">Emprunter un pégase est le moyen le plus rapide de rallier Boquillon. Et connaissant Samael, vous allez justement devoir faire vite. La maîtresse de vol se nomme Adela. Vous avez sûrement fait sa connaissance lors de votre arrivée. Elle se chargera de vous mettre en selle.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1009">
+        <Page social="4">Vous êtes {@gender:prêt/prête} à y aller&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Cliquez sur &lt;B&gt;Points de vol&lt;/B&gt; pour accéder à la carte du sud d'Arun et sélectionnez votre destination.&lt;BR&gt;&lt;BR&gt;Vous comptez vous rendre à Boquillon, n'est-ce pas&amp;nbsp;? Ça se trouve au nord d'ici.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" prevId="5" villagerId="1014">
+        <Page social="4">Des personnes comme vous, c'est à la douzaine que j'en aurais besoin. Mais enfin... c'est déjà un bon début.&lt;BR&gt;&lt;BR&gt;Nous essayons d'assurer le ravitaillement de Velika, sachant que le plus gros de l'armée est en train de lutter contre les argons sur la ligne de front, mais pour le moment, c'est littéralement impossible. Les centaures et les fées s'en prennent aux bûcherons, et nous ne pouvons protéger tout le monde.&lt;BR&gt;&lt;BR&gt;Qui plus est, &lt;b&gt;Klaon&lt;/b&gt; doit composer avec un nombre croissant de réfugiés malades. Allez lui donner un coup de main, voulez-vous ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="60" prevId="6" villagerId="1039">
+        <Page social="4">Les bûcherons sont incapables de travailler, les fées sont devenues incontrôlables, les réfugiés crient famine... La situation devient intenable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les réfugiés comptent sur moi pour les garder en bonne santé et ils sont de plus en plus nombreux. Nous commençons à manquer de médicaments et je suis épuisé. J'aurais bien besoin de quelques grâceflores subtiles pour préparer un remède. Pourriez-vous m'en cueillir&amp;nbsp;? Elles poussent dans un champ qui se trouve juste après le pont au nord.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="60" prevId="7" villagerId="1039">
+        <Page social="4">Cette grâceflore devrait faire l'affaire.&lt;BR&gt;&lt;BR&gt;D'ici quelques instants, j'aurai fini de concocter ça...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="60" villagerId="1039">
+        <Page social="0">Faites vite, &lt;PCNAME&gt;. L'état de santé des réfugiés ne va pas en s'améliorant. Une épidémie peut se déclarer à tout moment, et sans ces grâceflores subtiles...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="60" prevId="8" villagerId="1039">
+        <Page social="4">Allez administrer ce tonifiant aux plus malades des réfugiés. Plus ils seront nombreux à en boire, moins nous aurons de contaminés sur les bras par la suite.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="60" prevId="10" villagerId="1040">
+        <Page social="4">Qu'est-ce qu'il m'arrive&amp;nbsp;? Je me sens si mal. Je n'arrive même plus à me lever. Pourquoi sommes-nous ici&amp;nbsp;?&lt;BR&gt;&lt;BR&gt; J'ai juste envie de me rouler en boule et de mourir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="60" prevId="11" villagerId="1041">
+        <Page social="4">J'ai… si froid…Je n'ai plus de…forces…</Page>
+    </Text>
+    <Text id="13" huntingZoneId="60" prevId="12" villagerId="1042">
+        <Page social="4">Aidez-moi. Faites quelque chose. N'importe quoi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="60" prevId="13" villagerId="1043">
+        <Page social="4">La douleur… est insupportable. Que quelqu'un mette fin à mes souffrances.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="60" prevId="14" villagerId="1039">
+        <Page social="4">J'ai bon espoir... ce tonifiant devrait nous permettre de régler le problème. Bien sûr, il reste quelques effets secondaires indésirables, mais je finirai bien par trouver un moyen d'arranger ça...&lt;BR&gt;&lt;BR&gt;En attendant, le centurion Verus se satisfera certainement de ça. Il se trouve à la Palissade du bûcheron, où il attend l'arrivée d'un groupe de réfugiés. Vous le trouverez au nord-ouest de la ville.&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Verus connaît un Popori prénommé Maon qui pourrait avoir une influence considérable sur les fées. Nous pourrions faire appel à lui pour mater la révolte contre nos bûcherons.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="202" prevId="15" villagerId="1004">
+        <Page social="4">Ah, des potions de Klaon. Nous allons peut-être utiliser ce campement pour abriter des réfugiés. Ce serait plus prudent d'avoir des médicaments avant leur arrivée. Je ne pensais pas que Klaon avait autant de provisions...&lt;BR&gt;&lt;BR&gt;En tout cas, merci pour cette livraison. Je peux faire quelque chose pour vous tant que vous êtes là&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Avez-vous entendu parler de Maon&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nous sommes de vieux amis, Maon et moi. Il connaît bien la forêt et les fées.&lt;BR&gt;&lt;BR&gt;Il ne sort plus beaucoup depuis le début des conflits mais si vous souhaitez lui parler, vous le trouverez dans une cabane à l'ouest d'ici. Il y vit avec son fils, un bon garçon.</Page>
+    </Text>
+</QuestDialog>

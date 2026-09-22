@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="0">Vous avez fait la connaissance de Charise, l'instructrice de magie et Lilni vous a initié aux secrets de la collecte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="4">Vous disposez maintenant de toutes les informations nécessaires pour rester fort{@g:/e} et efficace. Mais il est sage de perfectionner vos compétences le plus tôt possible.&lt;BR&gt;&lt;BR&gt; C'est pourquoi Charise, fille de Karas, est la prochaine personne que vous devriez aller voir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1008">
+        <Page social="4">Si vous désirez apprendre une nouvelle compétence magique, vous êtes venu{@g:/e} voir la bonne instructrice. Ceux qui s'intéressent plutôt au maniement des armes de mêlée ou à distance ont plutôt intérêt à prendre Gurney pour mentor.&lt;NEXTPAGEBUTTON&gt;"À qui devrais-je parler ensuite&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lilni, fille de Karas, initie les recrues dans votre genre aux secrets de la collecte. Allez-la voir maintenant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1048">
+        <Page social="4">Partout, les richesses de la nature vous entourent. Les minerais, plantes et formes d'énergies sont des &lt;font color='#660000'&gt;matériaux&lt;/font&gt; que vous pouvez récupérer avant de les employer en artisanat&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Une connaissance fort utile, dans la mesure où les objets d'artisanat sont souvent de qualité supérieure.&lt;BR&gt;&lt;BR&gt;Et on peut trouver des matériaux un peu partout&amp;nbsp;! Vous voyez ce dont je parle&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je suis censé{@g:/e} voir quoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Les objets de collecte s'activent quand vous passez à proximité. Un cercle apparaît, un peu comme celui sur lequel je me trouve. Placez-vous à proximité de l'objet en question et appuyez sur la &lt;b&gt;touche F&lt;/b&gt;. Si la tentative échoue, réessayez.&lt;BR&gt;&lt;BR&gt;Faites donc l'essai par vous-même. Cherchez des cailloux rouges dans les parages. Quand vous en trouvez un et l'activez, appuyez sur la &lt;font color='#660000'&gt;touche [F]&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Bon travail&amp;nbsp;! Si vous saviez le nombre de personnes qui me ramènent la moindre caillasse trouvée en chemin.&lt;BR&gt;&lt;BR&gt;Quand vous faites partie d'un &lt;font color='#660000'&gt;groupe&lt;/font&gt;, vous trouvez plus facilement des matériaux et les récompenses sont partagées.&lt;BR&gt;&lt;BR&gt;Vous pouvez également augmenter votre &lt;font color='#660000'&gt;compétence de collecte&lt;/font&gt; en vous entraînant pour accroître votre rendement. C'est en forgeant qu'on devient forgeron&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" villagerId="1048">
+        <Page social="0">Vous avez déjà essayé la collecte de par le vaste monde&amp;nbsp;? Si vous avez besoin d'exercer ce que vous avez appris, vous pouvez vous rendre auprès de ce tas de pierre, puis appuyer sur la touche [F]. Et n'oubliez pas, vous ne pouvez pas collecter pendant les combats.</Page>
+    </Text>
+</QuestDialog>

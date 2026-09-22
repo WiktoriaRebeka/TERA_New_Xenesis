@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">Aidez Canen à préparer les recrues qui vont embarquer sur Elkaia. Elles semblent agitées à l'idée d'une expédition aussi longue.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">Ce n'est pas la première mission vers le nord, vous savez. Nous avons envoyé un autre groupe il y a peu.&lt;BR&gt;&lt;BR&gt;Tout le monde rechigne à en parler, mais nous craignons le pire. Prenez soin de vous, &lt;PCNAME&gt;. La fédération ne peux pas se permettre de vous perdre vous aussi.&lt;BR&gt;&lt;BR&gt;Allez voir Caenia pour vous assurer que l'ensemble du personnel est prêt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;? Je vous salue. J'ai lu bien des choses sur vos exploits. C'est un plaisir de travailler avec un soldat de votre trempe&lt;BR&gt;&lt;BR&gt;Malheureusement, certains autres sont aussi impressionnants qu'un panier de pommes. Vous ne voudriez pas les rassembler&amp;nbsp;? Je pense que votre présence pourrait bien les inspirer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">Des crampes... d'estomac. Dieux du ciel, mais qu'est-ce qu'on a bien mangé&amp;nbsp;? Impossible d'y... retourner dans... cet état...&lt;BR&gt;&lt;BR&gt;Allez trouver...Tilda. Ramenez-nous un remède.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">Ces imbéciles&amp;nbsp;! Je leur ai pourtant bien dit de ne pas boire mes élixirs. Ils sont bien trop concentrés. Et les voilà empoisonnés&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Et quel est l'antidote&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eh bien, tout mon stock se trouve à bord du croiseur céleste. Je n'ai aucun tonifiant.&lt;BR&gt;&lt;BR&gt;On pourrait faire macérer des herbes... préalablement mâchées.&lt;BR&gt;&lt;BR&gt;Je sais, c'est dégoûtant, mais ça nous permettra de sauver des vies.&lt;BR&gt;&lt;BR&gt;Je présume.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">Berk&amp;nbsp;! Qu'est-ce que c'est que cette immonde préparation&amp;nbsp;! C'est pire que du sang de vampire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et Actol alors. Lui aussi, il faut le blesser... euh, l'aider.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">Qu'est-ce que l'apothicaire a dit&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">Je savais qu'Eduyar avait pris le mauvais élixir. J'ai l'impression qu'un Dracoloth est en train de saccager mes entrailles.&lt;BR&gt;&lt;BR&gt;Berk&amp;nbsp;! Qu'est-ce que c'est que ça&amp;nbsp;! Vous cherchez à précipiter ma perte&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">Empoisonnés&amp;nbsp;? Et vous les avez sauvés en les nourrissant... Haha&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ça leur apprendra à chaparder dans nos stocks. Vous avez bien agi.</Page>
+    </Text>
+</QuestDialog>

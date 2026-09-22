@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La Fonderie de Cyanocanon est attaquée par des chasseurs athakela. Nous ne pouvons pas nous permettre de perdre la fonderie.&lt;BR&gt;&lt;BR&gt;Interceptez tout de suite ces argons&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" prevId="2" villagerId="1007">
+        <Page social="6">Juste à temps. Après que les argons eurent attaqué notre fonderie au Cratère de Magthulk, je craignais que nous soyons les prochains sur la liste.&lt;NEXTPAGEBUTTON&gt;"Tout va bien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ha&amp;nbsp;! Il faudra plus que ces égratignures pour m'abattre…&lt;BR&gt;&lt;BR&gt;Qu'est-ce que c'est que ça&amp;nbsp;? Ce n'est pas à moi. Mais ça doit manquer à quelqu'un dans les parages de la {@Rgn:78001}. Allez chercher son propriétaire.</Page>
+    </Text>
+</QuestDialog>

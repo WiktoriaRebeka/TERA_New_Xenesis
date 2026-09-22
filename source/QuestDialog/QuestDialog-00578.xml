@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">Dans la partie sud de la caverne, dans les Halls des Ombres, des {@LinkCreature:20#30048000#esclaves mains d'enclume} et des {@LinkCreature:20#30048001#esclaves écrase-pierre} bloquent le passage vers la partie centrale des Halls des ténèbres. Nous devons dégager un passage.&lt;BR&gt;&lt;BR&gt;Allez voir ce que vous pouvez faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Oh, magnifique... Maintenant, nous allons pouvoir faire circuler le ravitaillement.</Page>
+    </Text>
+</QuestDialog>

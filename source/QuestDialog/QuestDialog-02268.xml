@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="750" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;BR&gt;Vandraul cherche des recrues pour une expédition visant à localiser la légendaire Pierre flottante au Bord du précipice.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="750" prevId="2" villagerId="3006">
+        <Page social="4">De nouvelles recrues&amp;nbsp;! Parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il s'agit d'une tâche redoutable, mais vous semblez avoir les qualités et l'expérience requises pour vous en sortir&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;Demandez si les Pierres flottantes existent vraiment à cet endroit.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je sais de source sûre que la Pierre flottante est enfouie dans les profondeurs des caves du Bord du précipice.&lt;BR&gt;&lt;BR&gt;Y parvenir ne sera pas facile. Le ravin regorge de monstres gigantesques et la Pierre flottante elle-même est gardée par des créatures toujours plus meurtrières.&lt;BR&gt;&lt;BR&gt;Mais tout d'abord, il vous faudra passer par le Village Guwangi par ici. Suivez mon conseil&amp;nbsp;: commencez par tuer les monstres les plus faibles&amp;nbsp;! Si vous essayez directement d'éliminer leur chef, les Guwangis auront tôt fait de vous submerger.&lt;BR&gt;&lt;BR&gt;Bonne chance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="750" prevId="3" villagerId="3010">
+        <Page social="0">Epoustouflant, tout bonnement époustouflant&amp;nbsp;! Je ne l'aurais jamais cru si je ne l'avais pas vu de mes propres yeux.&lt;BR&gt;&lt;BR&gt;Vous nous avez rendu un service immense. La Pierre flottante est notre affaire, désormais. J'ai donné l'ordre de l'acheminer vers l'Arche.&lt;BR&gt;&lt;BR&gt;Vous devriez prendre du repos, et bien savourer votre victoire&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

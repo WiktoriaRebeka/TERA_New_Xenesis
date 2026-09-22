@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="121" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="26">Vous avez une grave blessure. Vous pouvez bouger&amp;nbsp;?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="26">Je vais rassembler les gardes.&lt;BR&gt;&lt;BR&gt;C'est bon pour vous&amp;nbsp;?&lt;TEXTBUTTON&gt;"Oui, on peut y aller."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"C'est parti."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

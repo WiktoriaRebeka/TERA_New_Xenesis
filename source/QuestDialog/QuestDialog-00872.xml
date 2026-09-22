@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0">Vous parlez d’une "abondance de cibles"... Nous avons essayé d’avancer dans les niveaux inférieurs, mais la Garde sanglante ne fait pas dans la demi-mesure.&lt;BR&gt;&lt;BR&gt;Autrement dit, il nous faudrait une bonne diversion à la &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:33#11#berserkers} et les {@LinkCreature:33#61#faucheurs} de la Garde sanglante. Ensuite nous pourrons progresser correctement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1011">
+        <Page social="0">Victoire pour Valkyon&amp;nbsp;! Je vais préparer les troupes à la conquête des étages inférieurs.</Page>
+    </Text>
+</QuestDialog>

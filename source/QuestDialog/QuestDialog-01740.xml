@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="0">Les pirates nagas attaquent l'Intrépide, qui subit de lourds dégâts et force l'initiative de l'avant-garde à abandonner le navire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="4">Les nagas essayent de voler le croiseur céleste&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils doivent s'être cachés dans certaines de ces caisses. Nous aurions dû faire plus attention...&lt;BR&gt;&lt;BR&gt;Il faut défendre le vaisseau, coûte que coûte&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1100">
+        <Page social="4">Je m'occupe de tenir cette position. Nous allons les empêcher de pénétrer dans la cale.&lt;BR&gt;&lt;BR&gt;Aidez Zolyn à repousser ces vauriens et à sécuriser le pont de l'Intrépide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1102">
+        <Page social="4">Canaille naga&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;&amp;nbsp;! Vous voyez le gros hideux, là&amp;nbsp;? C'est lui qui a le commandement.&lt;BR&gt;&lt;BR&gt;Vous pensez pouvoir l'arrêter&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1102">
+        <Page social="4">Excellent&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;En revanche, nous n'en avons pas terminé. Je vais continuer à dégager le pont. Vous avez vu cet idiot velu&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Non, je ne l'ai pas vu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il y aboyé quelque chose au sujet d'une tubulure près de la proue.&lt;BR&gt;&lt;BR&gt;Allez voir si vous le trouvez. Ses outils ne sont pas aussi mortels qu'il semble le penser.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" villagerId="7">
+        <Page social="0">Nous avons un problème&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les nagas ont détruit les moteurs avants. Ils ne savaient sans doute pas ce qu'ils faisaient.&lt;BR&gt;&lt;BR&gt;Il faut que Dougal évacue le vaisseau avant qu'il ne s'écrase. Vite, aidez-moi à le joindre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="5" villagerId="1100">
+        <Page social="4">Paesyn&amp;nbsp;! &lt;PCNAME&gt;&amp;nbsp;! Gloire à Velik, vous vous portez bien.&lt;NEXTPAGEBUTTON&gt;"L'Intrépide ne peut plus voler, chef&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nom de nom&amp;nbsp;! On ne peut pas le sauver&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tant pis. Utilisez ceci et dites à tout le monde d'abandonner le croiseur céleste.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1100">
+        <Page social="4">Ça suffit.&lt;BR&gt;&lt;BR&gt;Allons-y&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1000">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Vous êtes blessé{@g:/e}&amp;nbsp;? Vous m'appréciez encore&amp;nbsp;?&lt;BR&gt;&lt;BR&gt; Je suis content que vous soyez encore vivant{@g:/e}. Seren vous veille sur vous, mon ami{@g:/e}&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

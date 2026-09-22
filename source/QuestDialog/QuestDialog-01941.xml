@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">Nous devons arrêter les pillards que les vampires ont envoyés depuis le Manoir sinistre.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:488#4#défenseurs}, les {@LinkCreature:488#7#dévastateurs}, les {@LinkCreature:488#12#tisseurs sombres} et les {@LinkCreature:488#14#forme-sang} de Lok nous narguent depuis trop longtemps&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et puis, que font des adorateurs de Lok aux côté des vampires, d'ailleurs&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Vous avez réglé le problème des adorateurs de Lok&amp;nbsp;? Très bien&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Je veux voir ces adorateurs de Lok morts, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

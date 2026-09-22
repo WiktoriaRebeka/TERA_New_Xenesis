@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="901" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ainsi, vous êtes bien parti{@g:/e} pour devenir {@g:un héros/une héroïne} légendaire... mais on dirait qu'il manque encore quelque chose.&lt;BR&gt;&lt;BR&gt;Ah, je sais&amp;nbsp;! Des gants&amp;nbsp;! Et il se trouve que j'ai la paire parfaite pour aller avec votre nouvelle arme.&lt;BR&gt;&lt;BR&gt;Laissez votre trace dans le palmarès en remportant cinq victoires dans le Refuge de Kumas et les gants sont à vous&amp;nbsp;! Bonne chance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1256">
+        <Page social="0">Je savais bien que vous en étiez capable, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez&amp;nbsp;: les gants que je vous avais promis. Bien joué&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

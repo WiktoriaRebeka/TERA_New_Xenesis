@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="0">Rhodos, Paesyn et &lt;PCNAME&gt; ont continué à pourchasser Dkuryon, mais ils ont trouvé la couronne de fleurs de Zolyn à la place.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="4">Dispersons-nous pour trouver Dkurion.&lt;BR&gt;&lt;BR&gt;Peut-être que votre ami canin peut vous aider. Il semble trépigner d'impatience à cette idée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2139">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Je peux aider&amp;nbsp;! J'ai préparé un sérum de vérité&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tabassez un de leurs officiers et servez-vous de ce sérum pour le faire parler. Cela nous permettra de sauver Zolyn&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="1221">
+        <Page social="4">Votre magie faiblarde ne peut avoir raison de ma loyauté envers Dkurion&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Votre mission est vouée à l'échec&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2122">
+        <Page social="4">Les chances de réussite semblaient fort minces, mais nous nous devions d'essayer.&lt;BR&gt;&lt;BR&gt;Ne perdons plus de temps. Montons&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2140">
+        <Page social="4">&lt;PCNAME&gt;, regardez ce que j'ai trouvé...&lt;BR&gt;&lt;BR&gt;C'est sa couronne.&lt;BR&gt;&lt;BR&gt;Zolyn est ici&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

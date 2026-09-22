@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1020">
+        <Page social="4">Les mycanars sont des gardiens, un peu comme l'étaient les impies, mais ils s'en prennent à nous, maintenant. J'aimerais ne pas avoir à donner l'ordre de les tuer, mais avec tous les dangers qui courent dans le Bois obscur, nous devons être fermes.&lt;BR&gt;&lt;BR&gt;Tuez les mycanars, puis revenez me faire votre rapport.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1020">
+        <Page social="4">Les tueries de masse sont toujours des tragédies, mais nous devons voir les choses à long terme. Si Thulsa continue de nous diviser et de nous distraire, nous avons beaucoup plus à perdre que quelques mycanars.</Page>
+    </Text>
+</QuestDialog>

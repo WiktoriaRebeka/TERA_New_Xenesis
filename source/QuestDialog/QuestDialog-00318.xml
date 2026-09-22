@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Les {@LinkCreature:11#1008#pirates} et les {@LinkCreature:11#1004#excavateurs} du Fouet rouge sont toujours en train de convoyer des fournitures dans un sens ou dans l'autre. Ce n'est pas nouveau.&lt;BR&gt;&lt;BR&gt;Mais dernièrement, on dirait qu'ils prennent un soin tout particulier de leurs cargaisons. Je n'avais jamais vu ça auparavant.&lt;BR&gt;&lt;BR&gt;Et je n'ai vu aucun d'eux piocher discrètement dedans&amp;nbsp;; je doute donc qu'il s'agisse d'un trésor. A mon avis, il s'agit d'explosifs. Allez voir ça de plus près et rapportez-moi un échantillon... mais prudence&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">Des bombes... comme je le pensais. En bonne quantité, il y aurait de quoi faire sombrer une flotte entière ou raser une ville.&lt;BR&gt;&lt;BR&gt;Mais d'ordinaire, les pirates n'emploient pas d'explosifs... ils auraient trop peur de faire sauter leurs trésors... Hmmm...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1009">
+        <Page social="0">Allez vous emparer de ces explosifs avant que les Pirates du Fouet rouge ne fassent quelque chose de regrettable&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

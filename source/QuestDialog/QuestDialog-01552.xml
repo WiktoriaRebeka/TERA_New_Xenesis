@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="5">Un duel est une épreuve de force opposant deux adversaires, pas un combat à mort. La Fédération a besoin de soldats vivants, pas de crétins morts.&lt;BR&gt;&lt;BR&gt;Alors, qu'en dites-vous... Vous avez envie d'essayer&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1070">
+        <Page social="5">Un duel n'est pas un vulgaire combat de rue&amp;nbsp;; il y a un protocole et des usages à respecter. Un duel nécessite un consentement mutuel des participants. Respectez votre adversaire et défiez-le toujours dans les règles de l'art. N'importe qui a le droit d'être lâche et de décliner votre proposition.&lt;BR&gt;&lt;BR&gt;Un duel n'est pas un combat à mort... il faut plutôt voir cela comme un sport&amp;nbsp;! Hors de la ville, vous pouvez en organiser où bon vous semble, mais dans ses murs, vous ne pouvez le faire que dans certains lieux. Ce genre de spectacle ne convient pas à tout le monde&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;"Très bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Pour défier quelqu'un en duel, tapez la commande &lt;b&gt;/duel "nom de personnage"&lt;/b&gt; dans la fenêtre de dialogue ou faites apparaître votre curseur en appuyant sur Alt, &lt;b&gt;effectuez un clic droit sur votre adversaire et sélectionnez Duel dans le menu.&lt;/b&gt;&lt;BR&gt;&lt;BR&gt;Votre adversaire doit accepter le duel&amp;nbsp;; il peut donc y avoir un temps d'attente... un peu de patience&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si quelqu'un vous défie, &lt;b&gt;un message apparaîtra sur votre écran&lt;/b&gt;. Libre à vous &lt;b&gt;d'accepter ou refuser&lt;/b&gt; la proposition.&lt;BR&gt;&lt;BR&gt;La vie a, pour ceux qui combattent, une saveur que les lâches ne connaîtront jamais.</Page>
+    </Text>
+</QuestDialog>

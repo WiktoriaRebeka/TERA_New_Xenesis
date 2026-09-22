@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="4">&lt;PCNAME&gt;, certaines de nos marchandises ont disparu lors d'une livraison tout à fait routinière. L'agent responsable a été, comment dire, sanctionné... et nous avons récupéré le paquet manquant.&lt;BR&gt;&lt;BR&gt;Et c'est là que vous intervenez. Remettez ceci à Jerelyn dès que possible, et rassurez-la en lui disant que le problème de livraison a été "réglé."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1108">
+        <Page social="4">Que puis-je faire pour vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est de la part d'Ebbra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je ne vous explique pas ma déception quand on m'a dit que le paquet avait été "égaré", mais... qu'est-ce que ça veut dire&amp;nbsp;? Le problème a été "réglé"&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, je vois. Enfin, ça ne me regarde pas, mais c'est tout de même rassurant.</Page>
+    </Text>
+</QuestDialog>

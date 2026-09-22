@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, je sais où se trouve la dernière pierre précieuse.&lt;BR&gt;Venez me retrouver à Hautegarde.&lt;BR&gt;&lt;BR&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva vous a fait savoir où trouver la dernière pierre précieuse, celle de l'ardeur : dans la Forteresse de Lilitas.&lt;BR&gt;Elle vous a également demandé de vous procurer du platine somptueux, et vous avez donc mis le cap sur la Forteresse de Lilitas (solo).&lt;BR&gt;&lt;BR&gt;Vous avez vaincu Kankracire et Lilitas et avez rapporté à Mirriva le platine somptueux et la pierre précieuse de l'ardeur avant de parachever la couronne d'éternité avec la pierre précieuse de l'ardeur.&lt;BR&gt;Ensuite, les derniers préparatifs de la fête ont pu être terminés en toute tranquillité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Salut à vous, &lt;PCNAME&gt;.&lt;BR&gt;La dernière pierre précieuse, celle de l'ardeur, est entre les mains Lilitas.&lt;BR&gt;&lt;BR&gt;La lui dérober ne sera pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Et pour couronner le tout, le platine somptueux a disparu.&lt;BR&gt;&lt;BR&gt;Certes, ce dernier est plus facile à dénicher, mais Nimoz fait preuve d'une étourderie inquiétante à l'approche de la fête.&lt;NEXTPAGEBUTTON&gt;"Le platine somptueux a disparu ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les feux d'artifice, c'est tout un art.&lt;BR&gt;Le platine somptueux permet d'allumer une multitude de pièces d'artifice simultanément. La musique et les jeux de lumière viennent parfaire le chef-d'œuvre.&lt;BR&gt;&lt;BR&gt;Le platine somptueux est le grand secret de nos feux d'artifice.&lt;BR&gt;Nous en avons donc impérativement besoin !&lt;BR&gt;&lt;BR&gt;Nimoz est à deux doigts de la syncope, parce qu'il n'arrive pas à dégoter de platine somptueux.&lt;NEXTPAGEBUTTON&gt;"Alors je vais vous procurer le platine somptueux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est beaucoup vous demander...&lt;BR&gt;Mais puisque vous êtes là, nous reprenons espoir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il y a une faible chance que vous obteniez le platine somptueux dans la Forteresse de Lilitas.&lt;BR&gt;&lt;BR&gt;Je vous fais confiance.&lt;BR&gt;&lt;BR&gt;La bénédiction de Velik soit avec vous, &lt;pcname&gt; !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Oh, vous avez réussi !&lt;BR&gt;Nous pouvons enfin boucler les préparatifs de la fête maintenant.&lt;BR&gt;&lt;BR&gt;Avez-vous la pierre précieuse de l'ardeur sur vous ?&lt;NEXTPAGEBUTTON&gt;"Bien sûr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La dernière pièce du puzzle...&lt;BR&gt;&lt;BR&gt;Qu'est-ce que vous attendez, placez-la !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Je suis sans voix... La vue de la couronne d'éternité complète est renversante.&lt;br&gt;&lt;BR&gt;Tout comme vous, gardien, ce bijou a atteint un nouveau niveau de son existence.&lt;BR&gt;Vous avez contenté la déesse Velik.&lt;br&gt;&lt;BR&gt;Quelle prouesse, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Mais non, ce n'est rien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt;, vous allez bientôt recevoir l'invitation à la fête.&lt;BR&gt;Nous nous reverrons dans la Salle de banquet.&lt;BR&gt;&lt;BR&gt;Portez-vous bien !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">Il semble que chez les fouaille-tripes la hiérarchie soit assez originale. Ces {@LinkCreature:21#5#prophètes} et ces {@LinkCreature:21#30#chamanes} rôdeurs d'escarpement sont un peu l'équivalent d'officiers.&lt;BR&gt;&lt;BR&gt;Pour les prophètes et les chamanes, ainsi que pour les simples combattants, les bâtons qu'ils portent sont sacrés. En nous emparant de ces bâtons, nous éliminerons leurs objets de culte.&lt;BR&gt;&lt;BR&gt;Et lorsque leur foi vacillera, leur volonté d'en découdre s'effritera d'elle-même.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Regardez là-bas&amp;nbsp;! La grogne monte chez les combattants des rôdeurs d'escarpement, conformément à notre plan&amp;nbsp;! Vous avez fait de l'excellent travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">Le meilleur moyen de briser leur moral, c'est de leur enlever leurs objets de culte. Vous devriez faire vite&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

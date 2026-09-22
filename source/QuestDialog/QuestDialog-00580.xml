@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="4">Ces {@LinkCreature:20#30087000#arachnéens griffe-sang acharnés} sont extraordinairement nuisibles&amp;nbsp;! En plus de creuser les parois, ils mordent. Et leur venin est redoutable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je veux récupérer les glandes à venin pour les envoyer aux érudits de la Fédération. Je pense qu'en les étudiant, ils pourront fabriquer un antidote.&lt;BR&gt;&lt;BR&gt;D'où les glandes à venin. Vous pensez pouvoir vous en charger&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">Ca devrait suffire aux érudits de la Fédération pour mettre au point un antidote.&lt;BR&gt;&lt;BR&gt;Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">Si nous ne faisons pas parvenir ces glandes à la Fédération, nous serons sans défense contre le poison.</Page>
+    </Text>
+</QuestDialog>

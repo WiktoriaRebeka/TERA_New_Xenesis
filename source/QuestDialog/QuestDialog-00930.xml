@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1013">
+        <Page social="9">Garder des fournitures au fond d'un camp... comment ai-je pu en arriver là&amp;nbsp;? Je devrais être en train de me battre sur le front&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dites, vous pourriez me donner un coup de main&amp;nbsp;? On dit les fleurs de mort dotées de puissantes vertus médicinales. J'en ai vu dans la Gorge du Wyrm.&lt;BR&gt;&lt;BR&gt;Ça vous tente autant que moi de savoir s'il y a du vrai dans ce qu'on raconte&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1013">
+        <Page social="18">Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je n'oublierai jamais le service que vous m'avez rendu.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1013">
+        <Page social="0">Ces fleurs de mort sont peut-être mon seul espoir de revoir un jour le champ de bataille.</Page>
+    </Text>
+</QuestDialog>

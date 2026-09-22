@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="4">Nombre de mes camarades sont morts au combat. Nous leur avons porté un toast comme le veut la tradition, mais que vont devenir leurs familles&amp;nbsp;? Quels souvenirs garderont-elles du sacrifice de leurs proches&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;A la Grotte des Pirates, vous retrouverez nos casiers. Si vous me les rapportez, je pourrai remettre les effets personnels qu'ils renferment aux familles des défunts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1032">
+        <Page social="0">(Ce petit casier contient des babioles sans valeur.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1033">
+        <Page social="0">(Ce petit casier contient des notes manuscrites ainsi qu'une pierre brillante, mais manifestement sans valeur.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1034">
+        <Page social="0">(Ce petit casier contient une série de dessins partiellement effacés et une bouteille de rhum vide.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="211" prevId="5" villagerId="1035">
+        <Page social="0">(Ce petit casier contient des dessous affriolants et un fouet.)&lt;BR&gt;&lt;BR&gt;(Vous le refermez promptement, avant de reprendre votre chemin.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="211" prevId="6" villagerId="1036">
+        <Page social="4">Merci d'être {@gender:allé/allée} récupérer tout ça.&lt;BR&gt;&lt;BR&gt;Dans les familles des défunts, chacun de ces objets sera chéri comme un trésor.</Page>
+    </Text>
+</QuestDialog>

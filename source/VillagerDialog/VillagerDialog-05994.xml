@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="401" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5" voiceTypeId="0">Je n'aurais jamais cru qu'une chose pareille puisse se produire.&lt;BR&gt;&lt;BR&gt;Ne nous décourageons pas !</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">L'heure est venue de mettre un terme à la trahison de Samael. La bénédiction de la déesse Velik nous accompagnera ! &lt;TEXTBUTTON&gt;Vous dites que vous êtes prêt.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous lancez la conquête.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="10" voiceTypeId="0">Général... Comment avez-vous pu...</Page>
+    </Text>
+</VillagerDialog>

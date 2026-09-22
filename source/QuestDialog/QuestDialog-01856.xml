@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="4">Vous allez me le payer !&lt;NEXTPAGEBUTTON&gt;"Que comptez-vous faire maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="436" prevId="2" villagerId="8002">
+        <Page social="4">Nous allons arrêter ce maître,&lt;BR&gt;&lt;PCNAME&gt;et vous devriez vite vous lancer sur la piste de cet homme !&lt;BR&gt;&lt;BR&gt;Nous devons faire un rapport à Adria !&lt;NEXTPAGEBUTTON&gt;Entendu.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="437" prevId="3" villagerId="8001">
+        <Page social="4">Houla... Qui êtes-vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;(En observant cet homme, vous constatez que son oreille est arrachée.)&lt;NEXTPAGEBUTTON&gt;"Avez-vous volé la force vitale et tué les gens&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Haha, vous êtes vraiment fou.&lt;BR&gt;&lt;BR&gt;Vous pensez vraiment que je vais vous répondre "Oui, c'était moi" si vous me posez la question comme ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Disparaissez si vous tenez à la vie.&lt;NEXTPAGEBUTTON&gt;"Le droit de garder le silence ne fonctionne pas avec moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, c'était moi&amp;nbsp;!&lt;BR&gt;N'allez pas encore m'énerver&amp;nbsp;! Combattez&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;Sortez votre arme.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="437" prevId="4" villagerId="8008">
+        <Page social="4">... Stop, j'abandonne&amp;nbsp;!&lt;BR&gt;On peut quand même en discuter.&lt;NEXTPAGEBUTTON&gt;"Ne croyez pas un instant que je vais gober ces salades&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est bon, baissez les armes.&lt;BR&gt;Je vous ai pourtant dit que je déclarais forfait.&lt;NEXTPAGEBUTTON&gt;"Suivez-moi et taisez-vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="437" prevId="5" villagerId="8003">
+        <Page social="4">Quelle chance&amp;nbsp;! Vous n'êtes pas blessé&amp;nbsp;?&lt;BR&gt;Retournons d'abord au camp.&lt;BR&gt;&lt;BR&gt;Hé&amp;nbsp;! Escortez-le au camp&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;Vous hochez la tête.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="8020">
+        <Page social="4">C'était donc lui le traître. La force vitale qu'il avait sur lui était un leurre.&lt;BR&gt;&lt;BR&gt;Depuis le début, la force vitale avait été détruite et n'était pas réparable une fois prélevée. Il a fabriqué des contrefaçons et trompé l'ensemble des trois alliances. Et les maîtres sont tombés dans le panneau...&lt;BR&gt;&lt;BR&gt;Il voulait simplement arracher une somme rondelette en échange de la force vitale et son avidité était vraiment trop prononcée. Il a bataillé jusqu'au bout pour en tirer davantage, et a finalement connu une triste fin.&lt;NEXTPAGEBUTTON&gt;Vous acquiescez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je vais retourner voir Seir et lui faire un rapport de cette affaire.&lt;BR&gt;&lt;BR&gt;Et je vais également exiger que les trois alliances soient condamnées. Comme elles se sont montrées complices des actes criminels, elles ne doivent pas s'en tirer aussi facilement. Elles sont coupables de la destruction de l'Arbre des anciens dieux, et de surcroît du meurtre d'Aktan.&lt;NEXTPAGEBUTTON&gt;"C'est bien cela."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Un grand merci, &lt;PCNAME&gt;. &lt;BR&gt;Grâce à vous, nous avons pu élucider l'affaire. &lt;BR&gt;Les soldats ont pu laver leur réputation ternie. &lt;BR&gt;&lt;BR&gt;Et Lian dit qu'il existe un moyen de guérir l'Île de l'Aube.&lt;BR&gt;Je lui fais confiance. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, N'hésitez pas à rester ici pour aider Lian, si ce n'est pas trop vous demander. &lt;BR&gt;Avec votre aide, &lt;PCNAME&gt;, l'île retournera certainement à la normale dans un proche avenir.</Page>
+    </Text>
+</QuestDialog>

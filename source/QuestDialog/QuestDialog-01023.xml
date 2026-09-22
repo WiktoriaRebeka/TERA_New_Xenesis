@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="4">Ce sont les {@LinkCreature:39#110#ovolithes gardiens} qui me font vraiment froid dans le dos. Vous les entendez&amp;nbsp;? Moi oui. Même quand je dors.&lt;BR&gt;&lt;BR&gt;Je ne peux pas aller les tuer moi-même, mais j’offrirai une récompense à celui qui s’en occupera.&lt;BR&gt;&lt;BR&gt;Apportez-moi leur cœur pour que je puisse m’assurer de leur mort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1024">
+        <Page social="4">Chaque cœur signifie un de moins.&lt;BR&gt;&lt;BR&gt;Je vais peut-être pouvoir rêver d’autre chose, à présent. Tenez, en gage de remerciement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1024">
+        <Page social="0">Vous avez tué les {@LinkCreature:39#110#ovolithes gardiens}&amp;nbsp;? Il n’y a pas de survivants&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

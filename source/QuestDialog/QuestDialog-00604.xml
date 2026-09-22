@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Je ne peux pas ignorer la dangerosité des basilics plus longtemps. Velika ordonne que nul n'entre, mais Chebika sera menacée tant que personne n'ira.&lt;BR&gt;&lt;BR&gt;Vous avez l'autorisation de pénétrer dans la Vallée des Tombes et d'y tuer des {@LinkCreature:21#2#basilics mats}. Rendez-moi compte lorsque vous aurez terminé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">Les basilics sont de redoutables créatures. Je rends grâce à votre courage, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Chebika est sous la protection de la Fédération. J'ai mes ordres, tout comme vous. Tuez les basilics&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

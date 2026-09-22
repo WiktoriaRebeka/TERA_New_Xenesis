@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1017">
+        <Page social="4">Les descendants de Lok ont enlevé Lilyenne à son domicile et nous ignorons si ses parents sont encore en vie. Elle doit se poser la même question et j'aimerais lui changer les idées.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:225#1016$$Heleid} au {@Rgn:24013$$Fortin de la Cathédrale} et demandez-lui s'il aurait un truc sous la main qui pourrait tenir lieu de jouet ou quelque chose comme ça.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">Un jouet&amp;nbsp;? Ici&amp;nbsp;? Doron y croyait sérieusement&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Cela dit, vous trouverez peut-être quelque chose dans les caisses du {@Rgn:24012$$Campement des Croisés}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1035">
+        <Page social="4">(Cette caisse contient des outils empilés en vrac.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="4" villagerId="1036">
+        <Page social="4">(Cette caisse contient différents débris et des reliques anciennes.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1037">
+        <Page social="4">(Etonnamment, vous tombez sur un petit sac de gâteaux.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="6" villagerId="1001">
+        <Page social="4">Ouais&amp;nbsp;! Des gâteaux&amp;nbsp;! Oh, j'adore les gâteaux. Ils ont l'air délicieux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" villagerId="1001">
+        <Page social="0">Je m'ennuie, ici... Où est ma maman&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="225" prevId="7" villagerId="1017">
+        <Page social="4">Le sourire d'un enfant a le don de mettre du baume au cœur. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

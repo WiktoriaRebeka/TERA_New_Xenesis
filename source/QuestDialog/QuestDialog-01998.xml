@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6001">
+        <Page social="4" voiceTypeId="0">Qui va là ?&lt;BR&gt;&lt;BR&gt;Ah, c'est vous.&lt;BR&gt;J'ai bien cru qu'un Kumas m'avait pris en chasse.&lt;BR&gt;&lt;BR&gt;Vous voulez que Thro vous accompagne ?&lt;BR&gt;Hum... Mais sans Thro, nous ne pouvons pas fabriquer nos marchandises les plus rentables.&lt;BR&gt;&lt;BR&gt;Nous pourrions compenser en vendant des reliques au prix fort, mais les Kumas nous en empêchent.&lt;BR&gt;J'ai bien peur que nous ne puissions pas nous passer de Thro.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous voulez nous aider en personne ? &lt;BR&gt;&lt;BR&gt;La région abrite de nombreuses reliques du royaume sacré. Au temps des débuts des marchands d'insignes, nous recherchions nous-mêmes les reliques du royaume sacré pour les vendre à bon prix.&lt;BR&gt;&lt;BR&gt;Mais peu après, les Kumas sont arrivés et les marchands ont commencé à tomber comme des mouches sur les sites des fouilles. Nous avons fini par être forcés d'abandonner complètement les fouilles.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, j'ai enfin surmonté ma peur et suis parti à la chasse aux reliques. Mais, comme je le craignais, les Kumas m'ont pris en chasse.&lt;BR&gt;&lt;BR&gt;Si seulement nous pouvions déterrer ces reliques, notre fortune serait faite !&lt;BR&gt;Vous pensez vraiment pouvoir nous aider ?&lt;NEXTPAGEBUTTON&gt;"Tout à fait."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6001">
+        <Page social="4" voiceTypeId="0">Страшно не было? &lt;BR&gt;Кумасы не появлялись?&lt;NEXTPAGEBUTTON&gt;"Все прошло отлично."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Il reçoit les reliques) Bien. C'est même très bien !&lt;BR&gt;&lt;BR&gt;J'ai désormais 10 articles que je vais pouvoir vendre au prix fort !&lt;BR&gt;Comme promis, je vous donne un accord écrit confirmant que Thro peut vous accompagner.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

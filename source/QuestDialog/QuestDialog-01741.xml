@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="0">Le naufrage de l'Intrépide constitue une lourde perte pour l'Initiative de l'avant-garde. Vous avez aidé à faire le point avant de reprendre la mission.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="4">La plus grande partie de l'avant-garde s'est échappée, grâce à vous. Il n'en reste pas moins que le reste de notre mission semble compromis.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nous devons sécuriser nos provisions avant qu'une atroce créature ne les dévore. Sans le croiseur céleste, qui sait quand nous arriverons à nous réapprovisionner.&lt;BR&gt;&lt;BR&gt;Pouvez-vous m'aider à rapporter les provisions à Dougal&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1001">
+        <Page social="4">Bien joué, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Bon, nous avons atteint le Nord d'Arun et nous pouvons encore mener notre mission à bien.&lt;BR&gt;&lt;BR&gt;Demandez à Zolyn comment les troupes se portent. Nous devons connaître notre aptitude au combat avant de nous déplacer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1001">
+        <Page social="0">C'est tout&amp;nbsp;? Vraiment&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1002">
+        <Page social="4">Bon sang, &lt;PCNAME&gt;&amp;nbsp;! Je suis une mortiféra, pas un docteur.&lt;BR&gt;&lt;BR&gt;Examinez les blessés vous-mêmes. Je cherche des traces de Syona.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1003">
+        <Page social="4">Ma jambe&amp;nbsp;! Je pense que je me suis cassé la cheville. Cet os est-il bien censé ressortir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Aidez-moi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1004">
+        <Page social="4">Aïe, ça me fait mal quand je respire. Mince&amp;nbsp;! A quoi bon&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous ne rentrerons jamais chez nous, si&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1002">
+        <Page social="4">La blessure de Tysan va nous ralentir. Je vais ordonner à Paesyn de faire une civière pour le transporter.&lt;BR&gt;&lt;BR&gt;Broderik va devoir faire avec sa blessure. Personne ne rentre tant que nous n'avons pas retrouvé Syona&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1001">
+        <Page social="4">Les blessures auraient pu être bien pires. Nous pouvons nous estimer chanceux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Du bon travail. Comme au bon vieux temps, hein&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

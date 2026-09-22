@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Notre juridiction comprend les Etendues de Glace, les Plaines de la Mort givrée et l'Epave du Batia. C'est un territoire immense et nous ne sommes pas assez nombreux.&lt;BR&gt;&lt;BR&gt;Demandez à {@LinkCreature:231#1008$$Pedr} quand arrivera la flotte que l'on nous a promise. Si je le fais moi-même, je risque de lui arracher la tête. Enfin si j'entends une fois de plus les mots "incessamment sous peu"...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1008">
+        <Page social="4">Quel bonheur de vous voir vous et pas {@LinkCreature:231#1023$$Ghauth}. Il n'est pas des plus patients mais je le comprends. Il a accumulé beaucoup de stress.&lt;BR&gt;&lt;BR&gt;La flotte de la Fédération arrivera incessamment sous peu, et il pourra se détendre à ce moment. Dites-lui de ne pas s'inquiéter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Je pourrais le tuer, mais je vais me retenir et me contenter de l'embrocher quand nous serons à cours de rations.&lt;BR&gt;&lt;BR&gt;Cette flotte arrivera au moment où tout le monde ici aura été dévoré par des monstres sans pitié ou gelé à mort.</Page>
+    </Text>
+</QuestDialog>

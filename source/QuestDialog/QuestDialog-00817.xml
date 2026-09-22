@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Toutes... les... nuits. Leur raffut me prive de sommeil&amp;nbsp;! J'ignore par quel miracle ces {@LinkCreature:31#23#sirènes glacecrocs} ne nous ont pas encore tous rendus fous&amp;nbsp;! Je vous en prie, forcez-les à se taire, vous voulez bien&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Je vais enfin pouvoir fermer l'œil&amp;nbsp;! Merci infiniment&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

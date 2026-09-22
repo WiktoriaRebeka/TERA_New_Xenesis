@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">En raison de la pénurie de nourriture qui nous frappe, la population locale s'est mise à consommer de la viande de {@Creature:47#1001$$grizzly de Tirkai}, mais j'ignore si c'est une idée des mieux inspirées.&lt;BR&gt;&lt;BR&gt;Ceci dit, je pense que saler cette viande suffisamment nous permettrait d'éliminer les traces de contamination argone qu'elle doit contenir.&lt;BR&gt;&lt;BR&gt;Allez en apporter à Jadora, de la Base de la Folie. Elle a un bon stock de sel à disposition.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Elle pense que le sel permettra de décontaminer la viande&amp;nbsp;? Etant donné la famine qui nous guette, ce serait effectivement une aubaine. Je vais essayer ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">J'ai du sel, mais... pourriez-vous me rappeler pour quelles raisons vous en aviez besoin&amp;nbsp;? Je ne vois pas de viande à saler.</Page>
+    </Text>
+</QuestDialog>

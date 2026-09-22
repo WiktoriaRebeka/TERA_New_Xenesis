@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="5">Je suis totalement débordé&amp;nbsp;! Alors quand je parle de "moi", je pense surtout à "vous", en fait.&lt;NEXTPAGEBUTTON&gt;"Comment ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Nous faisons tous deux partie de la Fédération, pas vrai&amp;nbsp;? Donc, mon boulot, c'est également le vôtre&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est comme ça que ça marche, dans l'armée. Ne prenez pas trop la peine de réfléchir et vous prendrez du galon.&lt;BR&gt;&lt;BR&gt;Ma mission consiste à rompre la chaîne de commandement du culte, en commençant par les {@LinkCreature:17#300442#gardes de Chute-céleste}. Si nous en éliminons quelques-uns, assortis d'un lot de {@LinkCreature:17#300552#batteurs tête de baril}, l'ennemi devra se replier pour réorganiser ses rangs.&lt;BR&gt;&lt;BR&gt;Infiltrez-vous dans la ferme, tranchez-y quelques gorges, et laissez agir. Oh, et tant que vous y serez, rapportez-moi les armes des ennemis tués&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1014">
+        <Page social="5">Bien joué&amp;nbsp;! Comme dirait mon chef&amp;nbsp;: "sans discipline, une armée n'est rien"&amp;nbsp;! Un grand sage, ce Puran. Vous l'apprécieriez... ses conseils nous ont sauvé la vie plus d'une fois&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maintenant, quel sale tour pourrions-nous jouer à l'ennemi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1014">
+        <Page social="0">Vous êtes {@gender:bouché/bouchée}&amp;nbsp;? Au boulot&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

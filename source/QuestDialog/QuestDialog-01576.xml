@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1262">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1262">
+        <Page social="5">&lt;PCNAME&gt;&amp;nbsp;! Je me demandais quand est-ce que j'aurais la chance de vous rencontrer ici&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;À en croire certains, les nouveaux défis vous attirent. Eh bien ne cherchez plus, j'ai ce qu'il vous faut.&lt;BR&gt;&lt;BR&gt;Mais attention, le défi que je veux vous proposer est trop difficile pour un seul combattant, même pour vous. Rassemblez quelques amis puis revenez me voir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1262">
+        <Page social="5">Vous êtes prêt à relever le défi&amp;nbsp;? Bien.&lt;BR&gt;&lt;BR&gt;L'objectif est simple&amp;nbsp;: vous devez tuer les cyclopes au niveau supérieur de l'Epreuve. "Pas compliqué", c'est une façon de parler, ce ne sera pas un jeu d'enfant.&lt;BR&gt;&lt;BR&gt;Les fondations de l'Epreuve contiennent quatre pièces à l'est, à l'ouest, au sud et au nord. Quelqu'un doit protéger une aiguille présente dans chaque pièce, et ce, simultanément. Certaines pièces sont plus appropriées à certaines classes. Je vous laisse deviner ce qui est le mieux pour &lt;PCClass:LCase&gt;s.&lt;BR&gt;&lt;BR&gt;Mais le plus important est de protéger l'aiguille finale dans le noyau central.&lt;BR&gt;&lt;BR&gt;Vous comprenez maintenant pourquoi je vous ai dit d'amener des amis, n'est-ce pas&amp;nbsp;?</Page>
+        <Page social="5">Si, et seulement si vous défendez la flèche centrale, vous et vos amis pourrez accéder au Belvédère et relever le véritable défi, une série de combats qui se terminera lorsque vous ou le cyclope serez meurt.&lt;BR&gt;&lt;BR&gt;Apportez-moi la preuve de la disparition du cyclope et je vous récompenserai.&lt;BR&gt;&lt;BR&gt;Lorsque vous serez prêt à y aller, je vous enverrai surmonter l'Epreuve.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1262">
+        <Page social="5">L'œil du cyclope&amp;nbsp;? Mais vous n'en avez qu'un&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je plaisante&amp;nbsp;! Voilà votre récompense.&lt;BR&gt;&lt;BR&gt;Revenez donc me voir demain ou quand vous voudrez améliorer votre score.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1262">
+        <Page social="0">Parler, ça, tout le monde peut le faire, même une légende de guerre comme vous. Moi je veux la preuve de la disparition du cyclope.</Page>
+    </Text>
+</QuestDialog>

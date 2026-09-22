@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez fait la rencontre de Lein et Digory, dans les Terres libres et avez obtenu des informations sur le festival des Campagnes en fête.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Tous les ans, à cette époque, nous organisons un festival des Campagnes en fête pour récolter les derniers légumes racines hivernaux avant de recommencer à labourer pour les semailles du printemps. &lt;BR&gt;&lt;BR&gt;Nous y proposons de nombreuses attractions amusantes, mais je pense que cuisiner (et manger) les produits frais est de loin la plus plaisante de toutes. &lt;BR&gt;&lt;BR&gt;Désirez-vous commencer par jeter un œil à l'exploitation&amp;nbsp;? Ici, à la ferme de Lein, nous sommes particulièrement fiers de nos rutabagas des marais.&lt;BR&gt;&lt;BR&gt;J'ai une proposition&amp;nbsp;: si vous me ramenez un rutabaga des marais, je vous montrerai comment le cuisiner.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Parfait&amp;nbsp;! Voilà un superbe rutabaga des marais&amp;nbsp;! Cela va nous donner une excellente salade de rutabagas.&lt;BR&gt;&lt;BR&gt;Vous pouvez la préparer à l'aide d'un saladier. Millia va vous montrer comment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Ramenez celui qui vous tape dans l'œil.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="3" villagerId="7006">
+        <Page social="4">Le secret de la cuisine réside dans l'utilisation des ustensiles adéquats.&lt;BR&gt;&lt;BR&gt;Lorsque vous ne savez pas lesquels utiliser, jetez un œil à la recette.&lt;BR&gt;&lt;BR&gt;Tenez&amp;nbsp;: prenez cette recette et ces ingrédients et préparez votre propre salade. C'est un véritable jeu d'enfant&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="5" villagerId="7000">
+        <Page social="4">Vous êtes sûr{@g:/e} que c'est votre première salade de rutabagas des marais&amp;nbsp;? On dirait que vous en avez fait toute votre vie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Eh bien, puisque vous avez maîtrisé la salade de rutabagas aussi vite, je présume qu'il est temps pour vous de passer à des plats autrement plus retors&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous trouverez des ingrédients rares et des recettes disséminés un peu partout dans le festival et les fermes. Gardez les yeux ouverts&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Que peut-on faire d'autres dans cette foire&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eh bien, si faire la cuisine n'est pas vraiment votre dada, vous pouvez jeter un œil au Bamarama&lt;BR&gt;&lt;BR&gt;Allez voir Lein, il vous en dira plus.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" villagerId="7000">
+        <Page social="0">&lt;PCNAME&gt;, avez-vous scrupuleusement suivi la recette que je vous ai donnée&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="6" villagerId="1030">
+        <Page social="4">Bienvenue&amp;nbsp;! Vous en avez assez de faire {@gender:le cuisinier/la cuisinière}&amp;nbsp;? Alors vous êtes arrivé au bon endroit&amp;nbsp;! Le Bamarama est la meilleure attraction du festival des Campagnes en fête.&lt;BR&gt;&lt;BR&gt;Vous pouvez y assister à des combats qui, avec un peu de chance, vous feront même gagner de l'argent&amp;nbsp;! Les règles sont très simples&amp;nbsp;: vous choisissez votre combattant et s'il l'emporte, vous empochez des gains&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et puisque c'est votre première fois, je me laisserai peut-être même convaincre de vous donner un tuyau. Vous voulez tenter le coup&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;C'est tentant mais j'ai encore beaucoup à découvrir dans cette foire.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Pas encore tout de suite&amp;nbsp;? Bon, tant pis. Revenez quand vous voulez.&lt;BR&gt;&lt;BR&gt;Si vous cherchez quelque chose de plus manuel, allez voir un peu la ferme de Digory. Et n'oubliez pas de revenir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="1009">
+        <Page social="4">Bienvenue dans ma ferme&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous avez envie de mettre la main - ou plutôt, le pied - à la pâte au botte-le-foin&amp;nbsp;? Alors vous êtes au bon endroit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dans ce jeu, vous devez shooter le plus de foin possible durant le temps imparti, sans toutefois sortir des limites&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous voulez donner quelques coups de pieds jusqu'à ce que vous ayez le coup de main&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Pourquoi pas&amp;nbsp;?quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="1009">
+        <Page social="4">Qu'en dites-vous&amp;nbsp;? C'est plus dur qu'il n'y paraît, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous êtes sûr{@g:/e} de ne pas vouloir rejouer&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Je reviendrai plus tard.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Héhé, aucun problème. &lt;BR&gt;&lt;BR&gt;Dites-moi, &lt;PCNAME&gt;, avez-vous déjà rencontré ma petite sœur, Rachlae? Elle a un jardin de lotus célestes. Vous devriez lui en parler.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="10" villagerId="7001">
+        <Page social="4">Oh, bonjour. C'est mon frère Digory qui vous envoie&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'ai bien peur qu'il vous ait joué un vilain tour. Je cultive effectivement les lotus célestes... mais mon jardin se trouve en haut de cet escalier.&lt;BR&gt;&lt;BR&gt;Je sais, ils ne poussent qu'à très haute altitude, mais leur culture en vaut quand même la peine, car ils rendent tous les mets tellement délicieux.&lt;BR&gt;&lt;BR&gt;Tenez&amp;nbsp;: pour que vous ne soyez pas venu pour rien, la moindre des choses est de vous y faire goûter, même si vous n'avez pas envie d'en ramasser vous-même. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Merci.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

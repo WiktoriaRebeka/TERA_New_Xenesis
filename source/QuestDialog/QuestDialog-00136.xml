@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Je peux préparer un antidote extrêmement puissant, mais la plupart des gens lui trouvent un goût affreux. Ceux qui sont forcés de l'employer disent qu'ils préféreraient mourir que d'avoir à le refaire.&lt;BR&gt;&lt;BR&gt;Et côté plaisir, la récupération de l'ingrédient utilisé pour concocter le remède n'a rien à envier à son goût. J'espère que vous serez de taille. J'ai besoin des yeux des garangkas que chevauchent les {@LinkCreature:5#1#superviseurs tuwangis}. Oui, juste les yeux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">J'espérais que vous en trouveriez des plus gros, mais il faudra faire avec. Voici votre récompense, je sais que ça n'a pas été facile.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Rapportez-moi les yeux des grenouilles royales servant de montures aux {@LinkCreature:5#1#superviseurs tuwangis}. Ils ne vont pas rouler jusqu'ici d'eux-mêmes.</Page>
+    </Text>
+</QuestDialog>

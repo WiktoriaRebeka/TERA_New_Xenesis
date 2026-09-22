@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">Vous avez fait la rencontre de Maon, un garde-forestier qui était resté en bons termes avec les fées de la Forêt féerique. Maon vous a arrangé une entrevue avec Lillix, une dirigeante du peuple des fées. Cette dernière vous expliqua que Seravy, la plus puissante des licornes, avait changé de comportement de manière incompréhensible, et qu'elle représentait une menace pour la paix que Lillix était parvenue à instaurer entre les fées et les bûcherons de Boquillon.&lt;BR&gt;&lt;BR&gt;A la demande de Lillix, vous vous êtes {@gender:chargé/chargée} d'administrer à Seravy un remède qui l'a aidée à retrouver ses esprits. A l'instar de Volos, le chef des centaures, Seravy vous a promis de faire son possible pour restaurer la paix.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">Klaon vous envoie chercher conseil auprès de Maon&amp;nbsp;? Sage décision... Il saura peut-être quoi faire pour ramener les fées à la raison.&lt;BR&gt;&lt;BR&gt;Vous trouverez certainement Maon dans sa cabane, de l'autre côté du pont, à l'ouest. Vous n'avez qu'à suivre la route.&lt;BR&gt;&lt;BR&gt;Oh&amp;nbsp;! J'allais oublier. Remettez-lui ce bouquet de fleurs. Pour une raison qui m'échappe, il semble les apprécier tout particulièrement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Des grâceflores subtiles&amp;nbsp;! On peut en faire tant de choses utiles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Comment avez-vous su que...? Je parie que c'est Klaon qui vous envoie. Si tel est le cas, c'est qu'il compte mettre un terme au bain de sang... et ça signifie qu'il n'a pas dû parler à Lillix depuis un moment.&lt;NEXTPAGEBUTTON&gt;"Lillix&amp;nbsp;? Qui est-ce&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1002">
+        <Page social="4">De l'essence de grâceflore&amp;nbsp;! Quel beau cadeau&amp;nbsp;! Nos problèmes ne sont pas faciles à résoudre mais si Maon vous fait confiance, alors je vous fait confiance aussi.&lt;BR&gt;&lt;BR&gt; Jusqu'à récemment, c'était {@LinkCreature:2#206#Seravy} qui se chargeait d'améliorer les relations entre les bûcherons et les fées, mais il a changé. Il incite maintenant les fées à déclarer la guerre à toutes les races de la Fédération.&lt;NEXTPAGEBUTTON&gt;"Y a-t-il quelque chose que je puisse faire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">En fait... Oh, mais oui&amp;nbsp;! Quel génie, ce Maon&amp;nbsp;! L'essence de grâceflore est la solution&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Seravy est très agressif mais si vous arriver à vous approcher assez de lui avec assez proche de lui avec l'essence de grâceflore, il devrait retrouver ses esprits pendant assez longtemps pour redevenir lui-même.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, {@LinkCreature:2#206#Seravy} est le seul qui puisse rétablir la paix. Nous comptons sur vous.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="4" villagerId="1037">
+        <Page social="0">Au nom d'Isren, je vous remercie de m'avoir aidé à retrouver mes esprits. Je ferai tout mon possible pour rétablir la paix. J'espère que votre Fédération ainsi que les bûcherons souhaitent cette paix autant que moi.&lt;BR&gt;&lt;BR&gt;Commencez les pourparlers en vous adressant à Volos. Il peut transmettre votre message de paix aux fées. Prenez avec vous une de mes larmes, comme preuve de ma bénédiction.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="202" prevId="5" villagerId="1012">
+        <Page social="0">Si Seravy vous fait confiance au point de vous donner quelque chose d'aussi précieux que l'une de ses larmes, je suis tout ouïe.&lt;BR&gt;&lt;BR&gt;Très bien, &lt;PCRACE:lcase&gt;, je vais demander aux fées d'être plus tolérantes vis-à-vis des bûcherons. Quel dommage cependant que la plupart d'entre elles ne partagent pas votre sens de l'honneur.</Page>
+    </Text>
+</QuestDialog>

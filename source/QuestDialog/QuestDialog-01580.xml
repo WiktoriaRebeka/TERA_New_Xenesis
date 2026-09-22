@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1448">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1448">
+        <Page social="4">Hmm... Vous allez avoir besoin de l'aide d'un érudit pour savoir quoi chercher au juste dans la Galerie de Sirjuka. Je suppose que je vais devoir vous accompagner.&lt;BR&gt;&lt;BR&gt;Si Thulsa a installé des pièges, je serai certainement en mesure de les repérer. Comme je le disais, Thulsa n'était pas un maître de la dissimulation.&lt;BR&gt;&lt;BR&gt;Rassemblez quelques amis et rejoignez-moi à la Galerie de Sirjuka.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="496" prevId="2" villagerId="1001">
+        <Page social="4">Thulsa pourrait bien avoir siphonné dans le plus grand secret une partie de la puissance du Noyau, avant de stocker l'énergie en question dans ce cristal.&lt;BR&gt;&lt;BR&gt;Mais le seul moyen d'aller le voir de plus près...&lt;NEXTPAGEBUTTON&gt;"C'est à moi de jouer, c'est ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, mais il ne sera pas simple de mettre la main sur le cristal. Je peux sentir les émanations d'une énergie néfaste comparable à celle que j'ai ressentie dans le laboratoire.&lt;BR&gt;&lt;BR&gt;Vous imaginez que Thulsa puisse avoir laissé ce cristal ici sans se donner la peine de le protéger à l'aide de sa magie noire&amp;nbsp;? Aucune chance...&lt;NEXTPAGEBUTTON&gt;"Comment allons-nous procéder&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Partons du principe que le cristal est piégé. Connaissant Thulsa, il aura certainement décrété que s'il ne pouvait l'avoir, personne ne l'aurait. Nous devons veiller à ce qu'il n'arrive rien à ce cristal.&lt;BR&gt;&lt;BR&gt;Jermir et moi allons éviter de nous en approcher. Nous tâcherons de vous aider à distance. Vous devez préserver le cristal à tout prix&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1448">
+        <Page social="4">Le cristal est intact&amp;nbsp;! Maintenant, nous allons pouvoir comparer l'énergie qu'il renferme à celle de Fraya et déterminer où au juste Thulsa en était de ses recherches.&lt;BR&gt;&lt;BR&gt;Allez faire part de nos découvertes à Fraya. Déplacer le cristal prendra un certain temps, mais je vous rejoindrai aussitôt que ce sera fait.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="518" prevId="4" villagerId="1001">
+        <Page social="4">Quelle histoire, &lt;PCNAME&gt;. Je me demande...&lt;BR&gt;&lt;BR&gt;Jerad serait-il en mesure d'inverser le procédé inventé par Thulsa&amp;nbsp;? Au lieu de corrompre le Noyau et de le diviser, une telle invention aurait certainement le pouvoir de le stabiliser et de le renforcer... Qu'en pensez-vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, vous avez mené votre mission à bien, mais à titre de rappel... bien que réglée, cette affaire reste hautement confidentielle. Personne ne doit être en mesure de s'inspirer un jour des recherches de Thulsa.</Page>
+    </Text>
+</QuestDialog>

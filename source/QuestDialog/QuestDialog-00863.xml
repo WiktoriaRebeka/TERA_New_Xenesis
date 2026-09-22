@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="4">J’ai besoin que quelqu’un d'expérimenté d’introduise dans la Citadelle du Tourment pour aider ces chercheurs avant qu’ils ne se fassent tous tuer.&lt;BR&gt;&lt;BR&gt;Apparemment, les soldats qui s’y trouvent déjà ne suffisent pas. Cette mission vous intéresse, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors allez voir Meygren dans la Citadelle du Tourment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1003">
+        <Page social="4">Bienvenue, bienvenue. J’espère que vous avez envie de vous y mettre.&lt;BR&gt;&lt;BR&gt;Notre priorité est d’installer des défenses afin que les gens ne soient pas affectés par les maléfices des monstres, mais hélas, nous avons des difficultés à rassembler les ingrédients nécessaires.&lt;NEXTPAGEBUTTON&gt;"De quoi avez-vous besoin&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Les deuxième et troisième étages abritent diverses étranges créatures revenues d’entre les morts, ainsi que leurs affaires, d’où émane le type de mana dont nous avons besoin.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller nous chercher les brosses à cheveux tachées de sang de la {@LinkCreature:33#3#nobles vampires} et de la {@LinkCreature:33#53#nobles vampires maudites} au deuxième étage, ainsi que les montres de gousset mortelles du {@LinkCreature:33#4#nobles vampires} du troisième étage&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1003">
+        <Page social="4">Vous avez réussi&amp;nbsp;! Avec ceci, je vais pouvoir arrêter les vampires et leur magie hypnotisante. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" villagerId="1003">
+        <Page social="0">Vous trouverez la {@LinkCreature:33#3#noble vampire} et la{@LinkCreature:33#53#noble vampire maudite} dans le Hall des demoiselles. Le {@LinkCreature:33#4#noble vampire} se trouve dans le Hall des maîtres. Heureusement, un étage vous séparera de ces horribles poupées...</Page>
+    </Text>
+</QuestDialog>

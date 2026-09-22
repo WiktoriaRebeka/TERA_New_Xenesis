@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1130">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1130">
+        <Page social="4">Le {@LinkCreature:13#300911#cromos} est une créature fascinante. C'est un esprit gardien façonné d'après un animal réel, qui sait récupérer l'équipement abandonné pour s'en faire de véritables armures.&lt;BR&gt;&lt;BR&gt;Il a aussi tendance à manger n'importe quoi, y compris les jauges destinées aux autres créatures. Les données récupérées sur ces monstres seraient un sujet d'étude des plus intéressants. Votre mission consistera à aller me les chercher.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Comme je le pensais, ces jauges rapportent la présence d'une énergie extraordinaire... Elle ressemble à... mais rien ne sert de spéculer. Lian, fils de Karas, et Eria, fille d'Elinu, sont nos superviseurs. Ils sauront certainement de quoi il s'agit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Le double cri du {@LinkCreature:13#300911#cromos} a de quoi glacer le sang, non&amp;nbsp;? N'y prêtez pas attention et ne perdez pas votre objectif de vue.&lt;BR&gt;&lt;BR&gt;Elion n'a jamais reculé devant le danger. Certains disent d'ailleurs que c'est ce qui a causé sa perte. Si c'est lui qui s'était occupé de ces &lt;b&gt;jauges d'énergie&lt;/b&gt;, elles seraient déjà là.&lt;BR&gt;&lt;BR&gt;Peut-être faudrait-il se remettre au travail.</Page>
+    </Text>
+</QuestDialog>

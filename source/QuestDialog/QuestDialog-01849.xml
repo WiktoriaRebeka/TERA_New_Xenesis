@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="0">Acculé, Dkurion s'est servi de sa magie pour astreindre &lt;PCNAME&gt;. Mais Rhodos a résisté. Blessé, Dkurion s'est enfui et &lt;PCNAME&gt; est retourné{@g:/e} à Hautegarde avec Verikam.&lt;BR&gt;&lt;BR&gt;Dougal a réquisitionné le croiseur céleste l'Intrépide de Velika afin de poursuivre Dkurion et Rhodos a juré qu'il le pourchasserait jusqu'au bout du monde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="4">Nous sauverons Verikam et éliminerons Dkuryon. Je me servirai de son crâne comme d'un pot de chambre pendant tout une semaine&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous êtes prêt{@g:/e}, &lt;PCNAME&gt;&amp;nbsp;? Allons-y&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" villagerId="12">
+        <Page social="0">C'est bien plus grand que je ne l'imaginais. Que manigancent donc les Archidevans&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Qu'importe. Nous pourrons interroger les survivants après avoir tué Dkurion.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="826" prevId="2" villagerId="1001">
+        <Page social="4">Dkurion&amp;nbsp;! Ton heure est venue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="826" prevId="4" villagerId="1002">
+        <Page social="4">Sa magie m'a vidé de l'essentiel de ma force, mais je devrais retrouver ma vigueur d'ici peu.&lt;BR&gt;&lt;BR&gt;Je vous remercie. Il vous a fallu un grand courage pour affronter Dkurion.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="826" prevId="5" villagerId="1004">
+        <Page social="4">J'ai du mal à croire qu'il s'est échappé&amp;nbsp;! Bah&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Raccompagnez Verikam à Hautegarde. Ce sauvetage nous fera définitivement gagner le soutien des barakas et nous en aurons bien besoin pour défaire les Archidevans une bonne fois pour toutes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1014">
+        <Page social="4">Vos efforts acharnés ont déjoué les plans de Dkurion et vous avez sauvé Verikam. Permettez-nous de vous exprimer notre reconnaissance. Hautegarde se range aux côtés de la Fédération Valkyon et des Khiriens pour lutter contre les Archidevans.&lt;BR&gt;&lt;BR&gt;Nos chemins se recroiseront à l'avenir. Mais pour l'heure, le légat Dougal souhaite s'entretenir avec vous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1021">
+        <Page social="4">Je suis au courant.&lt;BR&gt;Dkurion a battu en retraite.&lt;BR&gt;&lt;BR&gt;Mais il ne s'en tirera pas à si bon compte.&lt;BR&gt;J'ai demandé des renforts au quartier général pour nous lancer à sa poursuite.&lt;BR&gt;&lt;BR&gt;Ils nous envoient un croiseur céleste. Reposez-vous un peu.&lt;BR&gt;Vous avez encore une longue route devant vous.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="4108">
+        <Page social="4">Pour le moment, nous devons prendre notre mal en patience.&lt;BR&gt;Qui sait ce que ce type mijote...&lt;BR&gt;&lt;BR&gt;Mais ne vous en faites pas, &lt;PCNAME&gt;.&lt;BR&gt;Je jure sur Aanon et le magistrat...&lt;BR&gt;Je vais me charger personnellement d'éliminer Dkurion une bonne fois pour toutes !</Page>
+    </Text>
+</QuestDialog>

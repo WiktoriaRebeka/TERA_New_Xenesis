@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="4">Je me trouvais encore à la Base avancée quand nos éclaireurs ont repéré des gulas en train de se rassembler en vue d'une attaque.&lt;BR&gt;&lt;BR&gt;Le centurion m'a remis un message à transmettre de toute urgence à Tryphena. Il m'a également demandé de rester ici et de diriger les renforts qui se présenteraient vers la base.&lt;BR&gt;&lt;BR&gt;Descendez-y et aidez nos hommes à repousser l'ennemi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Tous&amp;nbsp;? Ils sont tous morts&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous en êtes {@gender:certain/certaine}&amp;nbsp;? Qu'est-ce que je raconte... Pourquoi iriez-vous inventer ça&amp;nbsp;? J'ai juste du mal à regarder la réalité en face. Ces hommes étaient... mes amis.&lt;BR&gt;&lt;BR&gt;Merci d'avoir fait votre possible. Il n'y a donc plus rien à faire pour eux, sinon reprendre le flambeau. Rendez-moi service et allez prévenir {@LinkCreature:209#1005$$Tryphena} à l'{@Rgn:9011$$Avant-poste des Chasseurs de Reliques} que je compte rester ici pour prendre le relais. Quelqu'un doit le faire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1005">
+        <Page social="4">Jascus a décidé de rester en bas&amp;nbsp;? Il faut avoir les tripes bien accrochées et le sens du devoir chevillé au corps pour supporter ce qu'il a dû endurer et garder toute sa tête...&lt;BR&gt;&lt;BR&gt;Je veillerai à ce qu'il soit décoré pour sa conduite exemplaire. J'espère juste que ce ne sera pas à titre posthume.</Page>
+    </Text>
+</QuestDialog>

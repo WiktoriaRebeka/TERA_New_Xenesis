@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="4">Aidez-nous, je vous en prie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Des {@LinkCreature:21#22#faucheurs}, des {@LinkCreature:21#23#trépanneurs}, des {@LinkCreature:21#27#guetteurs}, et des {@LinkCreature:21#6#champions} rôdeurs d'escarpement ont volé les statues sacrées que nous avions eu tant de mal à nous procurer et se sont enfuis avec elles dans le désert en direction de l'ouest.&lt;BR&gt;&lt;BR&gt;Nous avons payé un lourd tribut pour ces statues, et nous ne pouvons pas les perdre&amp;nbsp;! Je vous en prie, traquez-les et récupérez nos statues&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1020">
+        <Page social="4">Quel soulagement&amp;nbsp;! Et en plus elles sont intactes&amp;nbsp;? Formidable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vous prie d'accepter cette récompense pour accompagner mes sincères remerciements.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1020">
+        <Page social="0">Il nous faut ces statues, &lt;PCNAME&gt;&amp;nbsp;! Elles sont les clefs qui ouvrent la porte des secrets de ces ruines&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

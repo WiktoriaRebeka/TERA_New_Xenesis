@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">L'antique magie du dieu Balder a longtemps préservé le {@Rgn:30008$$niveau inférieur des archives}, mais elle commence à faiblir.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:30#190#intendants de laiton} du temple en sont un bon exemple. A l'origine, ils avaient pour mission de s'occuper du jardin du temple et de repousser les monstres.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, ces intendants sont eux-mêmes devenus des monstres, hostiles à tout ce qui vit.&lt;BR&gt;&lt;BR&gt;Pour le bien de tous, les {@LinkCreature:30#190#intendants de laiton} doivent être éliminés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1020">
+        <Page social="1">Cela me rend un peu triste. Les intendants étaient les fidèles gardiens de Balder et de son jardin, et pourtant nous les démantelons sans plus y penser.&lt;BR&gt;&lt;BR&gt;Je sais, je sais. C'est moi qui vous y ai poussé. Quand même, j'ai mal pour eux.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1037">
+        <Page social="4">Des {@LinkCreature:21#19#cullars} et des {@LinkCreature:21#20#tentacullars} sauteurs d'escarpement se rapprochent du village et menacent son existence.&lt;BR&gt;&lt;BR&gt;Or je manque de soldats. Tuez ces vermines et récupérez la &lt;font color='#660000'&gt;sève de cullar&lt;/font&gt;. Elle recèle de grandes vertus médicinales.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1037">
+        <Page social="4">Merci mille fois d'avoir mené ce combat pour nous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ces cullars ne nous ennuieront plus pendant un moment, et la sève aidera nos blessés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1037">
+        <Page social="0">Cette sève nous serait vraiment utile, &lt;PCNAME&gt;. Ces bestioles ne devraient pas représenter un trop grand danger pour vous.</Page>
+    </Text>
+</QuestDialog>

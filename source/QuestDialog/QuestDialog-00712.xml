@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">Nous avons de la chance qu'Akia et Arcras ne soient plus là pour donner des ordres aux chefs de guerre ossugons... et c'est grâce à vous. Il nous sera plus maintenant plus simple d'éliminer les {@LinkCreature:25#2011#chefs de guerre ossugons}.&lt;BR&gt;&lt;BR&gt;Pensez à rapporter leurs crânes, afin de les empêcher de revenir à la vie. Privés de généraux, leurs armées ne tarderont pas à se disperser.&lt;BR&gt;&lt;BR&gt;Cette mission est cruciale, &lt;PCNAME&gt;. Je ne vois personne de plus qualifié que vous pour la mener à bien. Notre avenir est entre vos mains.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">Voilà, c'est comme ça qu'on doit s'y prendre&amp;nbsp;! Privée de chefs de guerre, l'armée va renoncer à ses projets d'attaque&amp;nbsp;! Vous nous avez sauvés&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1027">
+        <Page social="0">Faites vite&amp;nbsp;! Allez tuer les {@LinkCreature:25#2011#chefs de guerre ossugons} avant que leur armée n'attaque&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

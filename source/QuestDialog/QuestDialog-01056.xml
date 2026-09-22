@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Certains mutants sont des soldats entraînés qui appartenaient à nos effectifs. S'ils décidaient de s'organiser, une attaque pourrait nous être fatale.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller donner la chasse aux {@LinkCreature:40#23#aberrations gardiennes}, aux {@LinkCreature:40#19#polytypes mutants}, aux {@LinkCreature:40#20#polytypes fous} et aux {@LinkCreature:40#24#polytypes aliénés}&amp;nbsp;? Et tant que vous y serez, rapportez tout ce qui pourra permettre à leurs familles de les identifier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1037">
+        <Page social="4">Ils n'auraient pas dû mourir de cette façon, mais c'est un sort plus enviable que la vie qu'ils menaient.&lt;BR&gt;&lt;BR&gt;Je vais rendre ces objets à leurs familles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1037">
+        <Page social="0">Nous espérons que les {@LinkCreature:40#19#polytypes mutants} et les {@LinkCreature:40#23#aberrations gardiennes} n'attaqueront pas avant que vous en ayez fini avec eux.</Page>
+    </Text>
+</QuestDialog>

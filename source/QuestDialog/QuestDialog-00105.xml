@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">J'aimerais beaucoup vous garder par ici, &lt;PCNAME&gt;, mais je dois bien l'avouer&amp;nbsp;: on a davantage besoin de vos services dans le Val embrasé.&lt;BR&gt;&lt;BR&gt;Présentez-vous à la Base de feu de l'Intrépidité. En espérant que vous ferez l'affaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Par ici, nous sommes ravis d’avoir des soldats valides, et plus encore quelqu’un comme vous, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Helone peut vous donner du travail. Allez lui parler, mais pas trop vite. Elle se mélange rapidement les pinceaux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1004">
+        <Page social="4">Ne me parlez pas comme ça, je ne suis pas un bébé, &lt;PCCLASS:lcase&gt;. Un tel comportement est dégradant pour vous comme pour moi.&lt;BR&gt;&lt;BR&gt;Et ne prêtez pas trop attention à Kimuk. Ce n’est rien de plus qu’un imbécile.</Page>
+    </Text>
+</QuestDialog>

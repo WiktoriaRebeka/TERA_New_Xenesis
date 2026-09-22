@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Le Mysterium tente de découvrir les secrets qui se cachent derrière ces tours de pierre géantes. Nous sommes plusieurs à penser qu'elles renferment des pouvoirs divins.&lt;BR&gt;&lt;BR&gt;Malheureusement, les nagas nous empêchent de mener nos recherches à bien. Je n'ai personnellement pas la force de les affronter, et j'aurais bien besoin de vos services.&lt;BR&gt;&lt;BR&gt;Réunissez un groupe de camarades et allez tuer quelques {@LinkCreature:7#1#mercenaires nagas}. Vous nous seriez d'une aide inappréciable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">Voilà un fait d'arme qui va faire parler de vous.&lt;BR&gt;&lt;BR&gt;Maintenant que les nagas sont moins nombreux, nous allons pouvoir présenter notre rapport au Sanctum Mysterium. Puisse la lumière d'Oriyn guider vos pas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="4">J'ai apporté une cargaison de jeunes porcidés pour nourrir les soldats.&lt;BR&gt;&lt;BR&gt;Malheureusement, certains se sont échappés hier soir. J'ai beaucoup de bouches à nourrir aujourd'hui et j'ai besoin de cette viande. Vous pouvez m'aider&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Où sont-ils&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Essayez à l'est de l'entrée de la forteresse. Ils doivent chercher de quoi se nourrir.&lt;BR&gt;&lt;BR&gt;Bonne chasse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1009">
+        <Page social="6">Beau travail. Nos soldats méritent tout ce qui pourra leur redonner le moral.&lt;BR&gt;&lt;BR&gt;Reste à savoir si je dois les fumer, les rôtir ou les griller...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1009">
+        <Page social="0">Avez-vous retrouvé les {@LinkCreature:48#100#jeunes porcidés}&amp;nbsp;? J'ai des ventres affamés à nourrir…</Page>
+    </Text>
+</QuestDialog>

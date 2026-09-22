@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Mettons ce sens surdéveloppé de l'assistance à bon usage, &lt;PCNAME&gt;. Sestena, un chercheur qui veut trouver des artefacts appelés les tablettes d'archives, a besoin d'aide sur le terrain.&lt;BR&gt;&lt;BR&gt;Prenez ça comme une punition pour votre naïveté.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1019">
+        <Page social="1">Vous me sauvez !&lt;BR&gt;&lt;BR&gt;Les {@Rgn:30009$$Ruines du temple} sont éparpillées sur une telle surface que je ne sais pas par où commencer.&lt;BR&gt;&lt;BR&gt;Apparemment, les tablettes d'archives sont enfermées dans des boîtes en pierre dispersées dans toute la région du temple.&lt;BR&gt;&lt;BR&gt;Ramassez toutes les boîtes en pierre que vous trouverez et donnez-les à {@linkcreature:230#1026$$Meterok}. Avec un peu de chance, il pourra les remettre dans l'ordre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1026">
+        <Page social="1">C'est une véritable mine de tablettes ! Donnez-les-moi, mais faites attention. Elles datent de l'ancien empire des géants, vous savez.&lt;BR&gt;&lt;BR&gt;Ma théorie soutient que les géants qui ont créé les tablettes d'archives des boîtes en pierre sont les ancêtres directs des Barakas. Des amoureux de la connaissance et pas de la conquête, en d'autres termes.&lt;BR&gt;&lt;BR&gt;Je vous récompenserai pour vos efforts, cela va sans dire.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1026">
+        <Page social="0">Il était temps que Sestena m'envoie de l'aide.</Page>
+    </Text>
+</QuestDialog>

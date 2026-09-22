@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Oubliez la flotte. Nous avons grand besoin de provisions, notamment de nourriture.&lt;BR&gt;&lt;BR&gt;Sans des conditions optimales, le navire de ravitaillement ne peut atteindre la {@Rgn:31009$$Garnison de la Pointe du Phare}. Dernièrement le temps a été mauvais.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:231#1027$$Yasper} sait prévoir le temps assez précisément. Pourriez-vous lui demander son bulletin météo&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">Ghauth veut un autre bulletin météo, non&amp;nbsp;? Je lui ai transmis le dernier il y a cinq minutes, donc c'est normal.&lt;BR&gt;&lt;BR&gt;Le voici. Ce temps&amp;nbsp;? Il n'est pas naturel. Je pense qu'il y a une puissante sorcellerie derrière.&lt;BR&gt;&lt;BR&gt;Ces conditions sévères vont perdurer, j'en ai bien peur.&lt;BR&gt;&lt;BR&gt;J'aurais préféré lui annoncer de bonnes nouvelles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Mes craintes se sont réalisées. Défendre cet endroit dans un tel froid est un effort futile. Nous devons nous retirer avant qu'il ne soit trop tard.&lt;BR&gt;&lt;BR&gt;Informez {@LinkCreature:231#1008$$Pedr} de mon opinion, et dites-lui bien que je doublerai mon manteau avec sa peau s'il ose se plaindre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1008">
+        <Page social="4">{@LinkCreature:231#1023$$Ghauth} est aussi direct que n'importe qui, mais il est excessivement prudent.&lt;BR&gt;&lt;BR&gt;Je sais que le bateau de ravitaillement a été retardé, mais la situation est loin d'être désespérée. Il est hors de question d'abandonner cette forteresse.&lt;BR&gt;&lt;BR&gt;Mon collègue {@LinkCreature:231#1013$$Urwah} a confirmé que la flotte arrivait. Je lui fais entièrement confiance. Ne vous inquiétez pas à propos de Ghauth.</Page>
+    </Text>
+</QuestDialog>

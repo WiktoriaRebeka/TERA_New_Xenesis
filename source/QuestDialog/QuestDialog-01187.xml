@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="4">Je supervise notre intendance. Pour le moment, la zone grouille de {@LinkCreature:47#2001#farfadets caprins argonomorphes} à l'est, et ça va nous coûter cher. Vous voulez bien nous aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Merci, &lt;PCNAME&gt;. De jeunes arbres des fées arrivent du Taillis de Morteseaux pour contrer la corruption argone. Il aurait été dommage de les perdre…</Page>
+    </Text>
+</QuestDialog>

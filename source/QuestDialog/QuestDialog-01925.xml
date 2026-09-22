@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="479" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Ordres de mission&lt;BR&gt;&lt;BR&gt;Rendez-vous à l'Ascension de Saravash&lt;BR&gt;&lt;BR&gt;Éliminez {@linkcreature:479#47951#Abukaizel}, {@linkcreature:479#47952#Belsamael}, {@linkcreature:479#47953#Virrsek}, {@linkcreature:479#47955#Namburus}, {@linkcreature:479#47956#Rubinaria} et {@linkcreature:479#47954#Saravash}&lt;BR&gt;&lt;BR&gt;Faites votre rapport à Arkaius, commandant de l'épée de Kaia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1018">
+        <Page social="5">Merci de votre aide.&lt;BR&gt;&lt;BR&gt;Nous parlerons encore de vous dans plusieurs générations. Vous avez fait du bon travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1018">
+        <Page social="0">Tuez les argons restants.&lt;BR&gt;&lt;BR&gt;Allez à l'Ascension de Saravash et manifestez la colère de Kaia&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

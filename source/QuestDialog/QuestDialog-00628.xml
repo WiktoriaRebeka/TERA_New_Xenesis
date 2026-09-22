@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Apparemment, les Descendants de Lok comptent parmi nos ennemis. Vous les avez déjà affrontés, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:22#30#cardinaux sombres} ont pris les {@LinkCreature:22#29#ovolithes minuscules} à leur service, et ils contrôlent les catacombes.&lt;BR&gt;&lt;BR&gt;Vous devez les vaincre. Et pour les vaincre, vous devrez les tuer tous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Les cultistes ne seront jamais traduits devant la justice de la Fédération. Lorsque nous aurons repris l'Académie eldritch, nous rassemblerons nos forces et nous leur infligerons une douleur si intense qu'ils regretteront que Shakan ne les ait pas TOUS éventrés.&lt;BR&gt;&lt;BR&gt;Oh, d'habitude, je contrôle mieux ma colère.</Page>
+    </Text>
+</QuestDialog>

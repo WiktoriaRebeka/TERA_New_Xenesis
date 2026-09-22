@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1025">
+        <Page social="0">(Ce livre est le journal personnel du Centurion. Il aborde le problème du culte maléfique qui se cache derrière les gulas et raconte dans quelles circonstances les adorateurs ont fait venir le {@LinkCreature:9#1400#mastodonte d'Azarel} et les {@LinkCreature:9#1410#rôdeurs labyrinthiques} ici. Une note détaillée explique comment abattre ces monstres en leur arrachant les dents.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">&lt;PCNAME&gt;, vous êtes incroyable&amp;nbsp;! J'ai compulsé un rapport relatif au monstre du labyrinthe, mais sans même parler de l'abattre, je voyais déjà mal comment nous débarrasser de ses gardes du corps.&lt;BR&gt;&lt;BR&gt;Ce monstre et le dispositif qui l'entoure donnent une bonne idée du niveau de la menace à laquelle nous sommes confrontés. Qui plus est, nous savons maintenant que les adorateurs collaborent avec les gulas, et cela n'arrange pas nos affaires.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Vous avez vraiment vaincu ces monstres géants&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

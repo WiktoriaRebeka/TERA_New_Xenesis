@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="0">Vous avez trouvé une preuve du contrôle archidevan, mais Cromagh l'a brisée. Afin de la reconstituer, vous êtes allé{@g:/e} voir la plus grande chamane des Parthes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="1" voiceTypeId="0">Pas tous les Archidevans ne possèdent de tels talismans. Juste ceux qui contrôlent la magie sombre. Les prêtres, je crois. Chacun d'entre eux porte un pendentif qui leur permet de contrôler les talismans.&lt;NEXTPAGEBUTTON&gt;"Vous êtes sûr qu'il s'agit des prêtres&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">On peut facilement en avoir le cœur net. Il suffit de vous rendre dans le camp juste derrière ce virage puis de tuer tous les prêtres archidevans que vous trouverez. Si l'un d'entre eux a un pendentif, alors c'est que Cromagh avait raison&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Mais pourquoi n'y avais-je pas pensé&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous n'êtes sans pas aussi rusé{@g:/e} que Cromagh le Rusé.&lt;NEXTPAGEBUTTON&gt;"Certes. Et où puis-je trouver les prêtres&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous avez de la chance&amp;nbsp;! Ils sont tous de retour au camp, accompagnés d'une bonne vingtaine de troupes parthes. Vous êtes donc assuré{@g:/e} d'une bonne bataille&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Que demander de plus&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2015">
+        <Page social="4" voiceTypeId="0">Vous êtes encore en vie&amp;nbsp;! Cromagh vous a peut-être sous-estimé{@g:/e}.&lt;BR&gt;&lt;BR&gt;Alors, vous avez obtenu le pendentif&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Le voilà."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" villagerId="2015">
+        <Page social="0">Vous avez obtenu le pendentif de contrôle&amp;nbsp;? Non&amp;nbsp;? Cromagh n'est pas surpris. Le combat, ça fait peur au début. Mais il faut réessayer jusqu'à ce que vous trouviez votre courage.&lt;BR&gt;&lt;BR&gt;Et avant que vous ne demandiez&amp;nbsp;: non, Cromagh n'ira pas chercher le pendentif à votre place. Vous allez devoir apprendre à faire ces choses vous-même.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2015">
+        <Page social="1" voiceTypeId="0">Un objet si petit. Quelle ironie du sort que ce soit une telle babiole ridicule qui nous fasse tant souffrir.&lt;NEXTPAGEBUTTON&gt;"Et qu'est-ce qu'on en fait&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">L'un de nous, qui dans la bouche de Cromagh signifie "Cromagh", l'essaye.&lt;NEXTPAGEBUTTON&gt;"Mais pourquoi vous&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Parce que ceci pourrait bien mettre la constitution d'un mortel a rude épreuve, voir même sa santé mentale&amp;nbsp;! Cromagh culpabiliserait si vous l'essayez et vous transformez soudain en pilier de... de euh... de quelque chose de très désagréable.&lt;BR&gt;&lt;BR&gt;Et puis Cromagh est un héros et les héros sont ceux qui prennent toujours tous les vrais risques&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Eh bien dans ce cas, prenez le risque."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2015">
+        <Page social="1" voiceTypeId="0">Cromagh n'a jamais ressenti une telle douleur. La chaleur est plus étouffante que mille crises d'urticaires&amp;nbsp;! Elle absorbe l'énergie vitale de Cromagh&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maman&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Euh...ahem. Ça... n'a pas marché. Et on dirait qu'il est carbonisé maintenant. Mais bon, ce qui importe c'est que Cromagh a survécu a cette épreuve de son invincibilité et qu'il est resté invincible. On contera longtemps la légende de Cromagh autour des feux de camps.&lt;NEXTPAGEBUTTON&gt;"Imbécile, c'était le seul que nous avions&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Du calme, tout n'est pas perdu...&lt;BR&gt;&lt;BR&gt;Cromagh a un nouveau plan... et il est encore meilleur&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Dites-moi tout simplement où en trouver un nouveau."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">En suivant ce sentier, vous trouverez un avant-poste où une mystique archidevanne nommée Dyona supervise l'entraînement des demokrons. Si elle n'a pas de pendentif, elle saura qui en possède. Mais il est impossible d'obtenir cette information par la force. Cromagh a déjà essayé. Mais Cromagh connaît un autre moyen...&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">L'armée impériale archidevanne se sert de messagers, qui livrent constamment des rapports à Dyona. Tuez un de ces messagers, allez voir Dyona avec ce pendentif brisé et dites-lui que le camp d'entraînement a besoin d'un nouveau pendentif. Si elle n'en possède pas, elle vous dira où en trouver un&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Mais c'est que cette idée... n'est pas mauvaise."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2041">
+        <Page social="1" voiceTypeId="0">Ah, je vois&amp;nbsp;: vous n'êtes qu'un enfant. Parfait. Nous devrions mettre tous les esclaves parthes au travail.&lt;BR&gt;&lt;BR&gt;Eh bien, vous avez un message pour moi&amp;nbsp;? Ou bien faut-il que je vous ouvre la bedaine pour lire vos entrailles&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Pardonnez-moi, Maîtresse&amp;nbsp;! Je débute. Le voici&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Faites plus vite la prochaine fois, esclave.&lt;BR&gt;&lt;BR&gt;Qu'est-ce que c'est que cette histoire&amp;nbsp;? Le camp d'entraînement a perdu son pendentif de contrôle&amp;nbsp;? Mais quelle bande de bras cassés&amp;nbsp;! J'ai vraiment autre chose à faire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Enfin bref. Apportez ce message à la chamane Keezar.&lt;BR&gt;&lt;BR&gt;Allez à l'est d'ici et vous verrez une grotte. Keezar est à l'intérieur. Donnez-lui cette essence de demokron et elle vous donnera un nouveau pendentif.&lt;NEXTPAGEBUTTON&gt;"Merci et euh... Ave Lakan&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" villagerId="2041">
+        <Page social="0">Vous n'avez pas l'air très parthe. A bien y regarder, vous ressemblez plutôt à un de ces étrangers&amp;nbsp;! Je vais prendre un malin plaisir à voir ma maîtresse arachnéenne vous réduire en lambeaux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" prevId="7" villagerId="2032">
+        <Page social="1" voiceTypeId="0">Vous ne faites pas partie des messagers. En tout cas, vous n'êtes ni archidevan{@g:/ne}, ni parthe, ni même khirien{@g:/ne}. Vous n'êtes même pas un{@g:/e} baraka de Hautegarde, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah, je vois... vous nous venez du sud... un héros parmi les vôtres, en mission dans ces contrées reculées pour apporter la paix dans un monde torturé. Les esprits me murmurent la portée de vos exploits et celle de vos besoins...&lt;BR&gt;&lt;BR&gt;...&lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Je... comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

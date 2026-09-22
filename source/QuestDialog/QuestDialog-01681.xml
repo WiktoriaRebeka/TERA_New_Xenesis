@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1605">
+        <Page social="0">Voici les kits dont vous avez besoin pour faire les lances de Muhrak. Fabriquez-en et apportez-les à Kunar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1604">
+        <Page social="0">Dotés d'aussi bonnes lances, nous avons toutes les chances de gagner cette guerre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits. Parlez à des vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+</QuestDialog>

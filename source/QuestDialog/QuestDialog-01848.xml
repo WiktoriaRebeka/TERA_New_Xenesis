@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="0">Rhodos et &lt;PCNAME&gt; ont poursuivi Dkuryon dans les tunnels situés sous Trellum Consurgo. Les Scrutateurs de Hautegarde ont démantelé le sceau archidevan pour leur donner une chance de survie face à la magie de Dkurion.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="4">Dépêchez-vous&amp;nbsp;! Il ne faut pas que Dkuryon s'échappe&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Où est-il allé&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je l'ai vu s'enfuir par les sous-sols.&lt;BR&gt;&lt;BR&gt;Ne perdons plus de temps&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2125">
+        <Page social="4">Allons&amp;nbsp;! Il n'y a pas de temps à perdre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2130">
+        <Page social="4">Comme le rat qu'il n'a jamais cessé d'être, Dkurion se précipite dans un souterrain. Voilà qui lui sied bien&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2129">
+        <Page social="4">Nous avons démantelé le sceau archidevan que vous avez confisqué. Nous n'avons que peu de temps pour le tester, mais cela devrait vous aider dans votre combat contre Dkurion.&lt;BR&gt;&lt;BR&gt;Je vous en supplie, sauvez le Vénérable.</Page>
+    </Text>
+</QuestDialog>

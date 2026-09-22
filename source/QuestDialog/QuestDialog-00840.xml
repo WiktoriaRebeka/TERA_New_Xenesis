@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="4">Les {@LinkCreature:32#4#enragés sihrans} et leurs {@LinkCreature:32#5#assommeurs tuwangis} parviennent à repousser nos armées et à protéger leur chaîne de ravitaillement. Eliminez-les et rapportez leurs plaques. Nous allons faire en sorte que Kaidun prenne conscience de ce qu'il perd.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1032">
+        <Page social="4">J'aimerais voir la tête de cette vermine de Kaidun quand il réalisera que tous ses soldats d'élite sont morts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1032">
+        <Page social="0">Eliminez les {@LinkCreature:32#4#enragés sihrans}, les {@LinkCreature:32#5#assommeurs tuwangis}, et rapportez-moi leurs plaques.</Page>
+    </Text>
+</QuestDialog>

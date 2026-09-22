@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Après avoir détruit le régulateur de la muraille noire, vous être rentré à Hautegarde en compagnie de Paesyn, Rhodos et Halran. &lt;BR&gt;Hagand vous a expliqué que toutes les conditions sont réunies pour mettre l'appareil d'activation en marche. &lt;BR&gt;La pierre spatiotemporelle a enfin pu être activée et projeter un faisceau lumineux vers les nues dans un vacarme assourdissant. La Porte des dimensions s'est alors ouverte, laissant passer de nombreux soldats de soutien de Velika.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Zolyn a disparu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas, nous la retrouverons et la ramènerons saine et sauve.&lt;BR&gt;&lt;BR&gt;Mais nous devons tout d'abord faire fonctionner le téléportail. Les choses vont de mal en pis sur le champ de bataille et nous avons un cruel besoin de renforts.&lt;BR&gt;&lt;BR&gt;Hagand vous expliquera ce qu'il faut faire.&lt;NEXTPAGEBUTTON&gt;"Très bien, je vais aller lui parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Content de vous revoir !&lt;BR&gt;Nous allons maintenant activer une pierre spatiotemporelle. &lt;BR&gt;Vous voulez vous en charger ? Après tout, c'est vous qui les avez récupérés. &lt;BR&gt;Ouvrez la Porte des dimensions de Hautegarde !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2114">
+        <Page social="4" voiceTypeId="0">Avez-vous ouvert la Porte des dimensions ?&lt;BR&gt;&lt;BR&gt;Je savais que vous étiez destiné à accomplir de grandes choses.&lt;BR&gt;Excellent !&lt;BR&gt;Je vais retourner à Velika et me charger des affaires de la Fédération Valkyon.&lt;BR&gt;Après tout, le combat contre les argons fait toujours rage dans le nord de Shara.&lt;BR&gt;&lt;BR&gt;Mais Hautegarde est un allié puissant sur lequel nous pouvons désormais compter.&lt;BR&gt;Aidez Dougal à reprendre le dessus au plus vite.&lt;BR&gt;&lt;BR&gt;Bien, j'y vais. Bonne chance !&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1020">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;&amp;nbsp;! Puis-je m'entretenir avec vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tout d'abord, je tiens à vous remercier de vos efforts. Grâce à vous, Hautegarde peut enfin avoir de l'espoir.&lt;BR&gt;&lt;BR&gt;Mais nous ne nous trouvons qu'au début de cette nouvelle étape de la guerre. Et vous êtes déstiné{@g:/e} à y jouer un rôle plus important encore. Mystel en personne l'a décrété.&lt;NEXTPAGEBUTTON&gt;"Il reste tant à faire, en effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

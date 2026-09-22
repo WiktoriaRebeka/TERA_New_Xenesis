@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez pourchassé la sorcière achidevanne pour empêcher que des informations sur l'Initiative aux Archidevans n'arrivent aux oreilles des archidevans. Pendant cette poursuite, la sorcière s'est donné la mort pour ne pas devoir vous révéler la moindre information.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Trouvez Zolyn qui s'est ruée à la recherche de la sorcière archidevanne.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2010">
+        <Page social="1" voiceTypeId="0">Quelqu'un a bien dû voir où la sorcière archidevanne s'est rendue.&lt;NEXTPAGEBUTTON&gt;"Certainement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2031">
+        <Page social="1" voiceTypeId="0">Archidevanne&amp;nbsp;? L'ai vue. Est partie vers l'ouest du camp.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2043">
+        <Page social="1" voiceTypeId="0">Archidevanne&amp;nbsp;? Sanctuaire céleste. Haut de la passerelle.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2005">
+        <Page social="1" voiceTypeId="0">Vous n'avez vraiment fait qu'une bouchée du demokron que j'avais laissé traîner pour vous...&lt;BR&gt;&lt;BR&gt;Qui êtes-vous donc, étrangers&amp;nbsp;? Et pourquoi venir dans ces contrées&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Rendez-vous&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Se rendre&amp;nbsp;? Avec la victoire qui nous tend les bras&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Qu'entendez-vous par là&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous n'êtes vraiment pas au courant, si ?&lt;BR&gt;Et vous ne le serez jamais !&lt;BR&gt;Nous autres Archidevans avons choisi de consacrer notre vie à servir de Lakan. &lt;BR&gt;&lt;BR&gt;Mais vous pourriez bien décider de me torturer pour extirper des informations... et ce ne serait pas souhaitable, n'est-ce pas ?&lt;NEXTPAGEBUTTON&gt;"Attendez... qu'est-ce que vous êtes en train de faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2006">
+        <Page social="1" voiceTypeId="0">Vous avez trouvé la sorcière&amp;nbsp;? Et qu'a-t-elle dit&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Elle a préféré... ne pas parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je présume qu'il est toutefois satisfaisant qu'elle n'ait pas eu le temps d'envoyer un message à ses supérieurs. Mais ils sauront que quelque chose se trame lorsque ses rapports cesseront d'arriver.&lt;BR&gt;&lt;BR&gt;Ne vous a-t-elle pas donné le moindre indice sur la durée pendant laquelle elle a espionné le camp khirien&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Elle a mentionné une victoire imminente..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Il s'agissait peut-être d'une dernière fanfaronnade. Ou bien...&lt;BR&gt;&lt;BR&gt;Vous et Rhodos devriez comparer vos notes. Si quelqu'un sait ce que les Archidevans manigancent là-haut, c'est bien lui.&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

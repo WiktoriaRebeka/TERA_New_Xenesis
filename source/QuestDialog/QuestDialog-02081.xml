@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="223">
+        <Page social="4" voiceTypeId="0">Nous devons produire de nouvelles pousses de Tiaran, mais Anya affirme qu'elle ne peut plus chanter.&lt;BR&gt;Elle semble être encore sous le choc, à cause des ghilliedhus.&lt;BR&gt;&lt;BR&gt;Pourriez-vous tenir compagnie à Anya, pour l'aider à retrouver sa voix ? &lt;BR&gt;Tout le monde vous attend déjà.&lt;BR&gt;Entrez donc.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les gardiens plantent de nouvelles pousses de Tiaran.&lt;BR&gt;&lt;BR&gt;Les pousses de Tiaran ne s'épanouissent qu'en présence de ses enfants. En effet, il faut vaporiser de la sève de Tiaran sur les pousses. Or, la sève déploie uniquement son effet si les enfants de Tiaran chantent des chansons. Dès que les chants résonnent, l'énergie qui sommeille dans la sève s'éveille.&lt;BR&gt;&lt;BR&gt;Mais cette fois-ci, quelque chose est différent.&lt;BR&gt;Avant la fin de la chanson des enfants, des créatures inconnues ont attaqué le village des gardiens.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="224">
+        <Page social="4" voiceTypeId="0">Oh, bienvenue ! &lt;BR&gt;Je vous attendais.&lt;BR&gt;&lt;BR&gt;La voix résonnante d'Anya n'est pas au mieux et j'ai donc demandé à Émun de nous prêter votre secourable personne.&lt;BR&gt;&lt;BR&gt;Comme vous le savez sans doute les forces vitales de l'arbre de Tiaran ont impérativement besoin des voix résonnantes de ces enfants pour s'épanouir.&lt;BR&gt;Je sais que vous avez fort à faire avec vos missions de gardiens, mais aidez-nous, je vous en supplie.&lt;BR&gt;Protéger l'arbre de Tiaran fait aussi partie de vos devoirs.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Certainement, je vais vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Quand vous êtes prêt{@g:/e}, versez de l'eau sur l'arbrisseau de Tiaran. Les enfants vont ensuite réaliser le rite d'invocation à Tiaran.&lt;BR&gt;&lt;BR&gt;Et c'est à peu près tout. C'est quand vous voulez.&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

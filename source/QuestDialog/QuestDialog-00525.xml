@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">On a beau tuer les adorateurs à la douzaine, ils finissent toujours par regarnir leurs rangs... d'une manière ou d'une autre. Les {@LinkCreature:18#20#pourfendeurs de Lok} et les {@LinkCreature:18#24#sanguinaires de Lok} sont les pires du lot.&lt;BR&gt;&lt;BR&gt;J'aimerais pouvoir m'occuper d'eux en personne, mais cela m'étant impossible, puis-je compter sur votre aide pour en éliminer le plus possible&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">Vous valez mieux que ce qu'Anaka dit de vous.&lt;BR&gt;&lt;BR&gt;Merci de ce que vous avez fait pour nous.</Page>
+    </Text>
+</QuestDialog>

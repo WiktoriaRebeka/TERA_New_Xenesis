@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">Les fouaille-tripes ont massacré nombre de nos soldats. Certains étaient mes amis. Mais le pire, c'est que les envahisseurs sont de plus en plus nombreux.&lt;BR&gt;&lt;BR&gt;Ceux qui représentent pour nous la menace la plus sérieuse sont les {@LinkCreature:6#1041#fouaille-tripes} et les {@LinkCreature:6#1051#griffeurs fouaille-tripes}. Allez pratiquer une bonne purge.&lt;BR&gt;&lt;BR&gt;C'est l'occasion de faire d'une pierre deux coups&amp;nbsp;: vous allez assurer notre protection tout en vengeant ceux de nos hommes qui sont morts par la faute de ces créatures.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="5">J'apprécie le coup de main que vous m'avez donné. Je vais me charger d'exterminer les survivants. Vous avez bien dégrossi le boulot, ça ne devrait pas me poser de problème.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1020">
+        <Page social="0">Vous avez fini&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

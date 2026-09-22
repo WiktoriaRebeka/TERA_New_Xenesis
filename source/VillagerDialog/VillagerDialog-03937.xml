@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="213" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" endSocial="14" prevId="0" villagerId="1025">
+        <Page social="4">Ne vous y trompez pas, &lt;PCCLASS:lcase&gt;, c'est dans la Vallée maudite que se jouera la victoire ou la défaite de la Fédération. Il vous suffit de vous éloigner un peu de ce feu pour constater la véracité de mes dires.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" endSocial="14" prevId="0" villagerId="1025">
+        <Page social="4">C'est un grand moment. C'est ici et maintenant que les braves vont se distinguer des lâches. Karascha doit mourir&amp;nbsp;!&lt;TEXTBUTTON&gt;Karascha&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Téléportation auprès de Karascha&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="4">Quelqu'un va devoir s'aventurer dans le jardin et empêcher les argons de s'emparer de l'Impérissable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais avant ça, allez parler au plus vite à Doran. Les chercheurs du Mysterium ont quelque chose pour vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">&lt;PCNAME&gt;, le Mysterium aimerait savoir comment les argons sont parvenus à s'infiltrer dans le jardin d'Isren.&lt;BR&gt;&lt;BR&gt;Prenez cet appareil de contrôle et emportez-le avec vous. Il fournira à nos chercheurs nombre de données utiles concernant les argons que vous croiserez.&lt;BR&gt;&lt;BR&gt;De cette manière, si nous y envoyons un autre groupe d'éclaireurs...&lt;BR&gt;&lt;BR&gt;Oh&amp;nbsp;! Mais ne vous méprenez pas, j'ai la certitude que vous vous en sortirez sans une éraflure.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="3" villagerId="1037">
+        <Page social="4">Vous êtes {@gender:prêt/prête}&amp;nbsp;? L'entrée se trouve un peu plus loin, sur la gauche.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à me suivre, je peux vous y guider. Essayez de ne pas me perdre de vue.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="254" prevId="4" villagerId="1039">
+        <Page social="4">Vous y voilà&amp;nbsp;! Le téléportail et votre clé vous permettront d'accéder au jardin.&lt;BR&gt;&lt;BR&gt;Les parages de l'entrée sont sûrs, mais ça se gâte juste après.&lt;BR&gt;&lt;BR&gt;Nous comptons sur vous, &lt;PCCLASS:lcase&gt;. Localisez les forces argones et éliminez-les.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="254" prevId="5" villagerId="1037">
+        <Page social="4">Doran et moi avons surveillé votre progression, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;C'est un vrai soulagement de savoir que le jardin et l'Impérissable ne sont plus en danger.&lt;BR&gt;&lt;BR&gt;Vous savez qui d'autre la nouvelle va réjouir au plus haut point&amp;nbsp;? Tanseril, à Scythera Fae. Allez le prévenir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="81" prevId="6" villagerId="1028">
+        <Page social="4">Vous avez sauvé le sanctuaire sacré de notre déesse, ainsi que la source de la magie féerique.&lt;BR&gt;&lt;BR&gt;Si vous n'aviez pas arrêté les argons, j'ose à peine imaginer ce qui serait advenu du Taillis de Morteseaux et de Shara. Effroyable perspective, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Espérons que nous ne verrons jamais une telle chose se produire.</Page>
+    </Text>
+</QuestDialog>

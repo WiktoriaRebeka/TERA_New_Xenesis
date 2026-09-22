@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">J'ai été témoin de vos efforts pour aider {@LinkCreature:76#1036} à accomplir son hushang. C'est un soulagement de voir que certains soldats savent encore faire preuve de la sollicitude la plus élémentaire.&lt;BR&gt;&lt;BR&gt;Notre ami a encore besoin d'aide et je sais où la trouver. Allez remettre cette lettre à {@LinkCreature:248#1015}. Il s'occupera du reste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1015">
+        <Page social="6">Intéressant... Un hushang, ce n'est pas banal, dans la région. Et vous êtes {@gender:prêt/prête} à donner un coup de main&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Absolument."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ce petit gars va avoir besoin de métal, et du bon. Ce n'est pas le minerai qui manque, dans le coin, mais il faut être prêt à risquer sa peau pour aller le chercher.&lt;BR&gt;&lt;BR&gt;Rapportez-moi du minerai de fyrdras, je vérifierai qu'il est de qualité. Si tel est le cas, il fera l'affaire pour le hushang.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1033">
+        <Page social="4">Du minerai de fyrdras&amp;nbsp;? En effet, il s'agit d'un métal précieux. C'est une légende que notre ami va forger, pas une simple arme ornementale.&lt;BR&gt;&lt;BR&gt;Allez apporter ça à {@LinkCreature:76#1036}. Il va faire une drôle de tête.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1033">
+        <Page social="0">Vous avez réussi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1036">
+        <Page social="4">Du m... Du minerai de fyrdras&amp;nbsp;? Kaia soit louée&amp;nbsp;! C'est incroyable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à vous, mon hushang sera plus qu'une réussite&amp;nbsp;; ce sera un véritable triomphe&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

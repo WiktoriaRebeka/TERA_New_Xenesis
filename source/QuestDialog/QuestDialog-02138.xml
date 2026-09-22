@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">Certaines espèces qui n'existent plus nulle part ailleurs ont survécu ici, au Refuge de Balder.&lt;BR&gt;&lt;BR&gt;Vous voulez vous en occuper&amp;nbsp;? Allez voir {@LinkCreature:71#3018#Meiga}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Bien sûr que vous pouvez m'aider&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Laissez-moi trouver comment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3003">
+        <Page social="4">C'est un plaisir de vous voir, &lt;PCNAME&gt;&amp;nbsp;! Notre bassin d'élevage est plein.&lt;BR&gt;&lt;BR&gt;Dirigez-vous vers le nord en suivant le cours d'eau et rapportez-moi un des bébés.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="7">
+        <Page social="0">Kôa&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Kôa&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="3024">
+        <Page social="4">Le programme d'élevage de phoques se déroule à merveille. On aurait bien besoin de quelqu'un pour compter les nouveaux nés.&lt;BR&gt;&lt;BR&gt;Si ça vous dit...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3033">
+        <Page social="4">Aar&amp;nbsp;! Aar&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Aaar-aar&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="3034">
+        <Page social="4">Aaar&amp;nbsp;! Aar&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3035">
+        <Page social="4">Aaarr&amp;nbsp;! Aar-aar&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3003">
+        <Page social="4">Oh, qu'il est gros celui-ci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Joli travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3024">
+        <Page social="4">Joli travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Aaah, je pense qu'il existe des métiers bien moins sympathiques que de nager dans une rivière pour compter des phoques.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">Ruanal, des Halls de la Mélancolie, nous a fait parvenir une demande d'assistance. Il doit s'ennuyer ferme, là-bas. Enfin, moi, à sa place...&lt;BR&gt;&lt;BR&gt;Bref, allez prendre contact avec lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="0">Où que je regarde, je suis complètement cerné par les cadavres. Et le pire... c'est que ceux-là n'arrêtent pas de gigoter. Faites quelque chose.&lt;BR&gt;&lt;BR&gt;Cela fait un moment que les {@LinkCreature:20#30011002#maîtres cruels} et les {@LinkCreature:20#30011001#surveillants d'esclaves} forcent les {@LinkCreature:20#30039000#ouvriers zomporis} à exploiter les points de gisements thermioniques. Je ne sais pas ce qu'ils comptent faire de ce minerai, mais d'expérience, quelque chose me dit que quand je le saurai, je ne me mettrai pas à danser la gigue.&lt;BR&gt;&lt;BR&gt;Débarrassez-nous sans distinction des maîtres et des esclaves et récupérez les pépites de gisements thermioniques en leur possession. Leur étude nous permettra peut-être de découvrir quelle idée ils ont en tête.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1004">
+        <Page social="4">C'est Ruanal qui me fait parvenir ce minerai&amp;nbsp;? Voilà quelque chose de nouveau.&lt;BR&gt;&lt;BR&gt;Je vais sur le champ l'envoyer où il se doit pour analyse.&lt;BR&gt;&lt;BR&gt;Vous avez fait du bon travail.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" villagerId="1004">
+        <Page social="0">On m' a dit que Ruanal voulait me soumettre quelque chose pour examen&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

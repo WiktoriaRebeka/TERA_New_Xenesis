@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1046">
+        <Page social="0">Vous avez détruit les armes que les descendants de Lok avaient fournies aux devans. Accompagné{@g:/e} par Kamia, vous avez également découvert les descendants de Lok, tapis au plus profond du repaire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Lok est un dieu malfaisant qui a détruit le monde des dieux et assassiné Balder.&lt;BR&gt;&lt;BR&gt;Même s'il est mort il y a fort longtemps, certains le vénèrent encore et aspirent à sa résurrection.&lt;BR&gt;&lt;BR&gt;Si Lok vient à renaître, le monde sombrera à nouveau dans le chaos.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Ceci explique leurs nouvelles armes.&lt;BR&gt;&lt;BR&gt;Les devans ne sont pas capables de fabriquer de telles armes.&lt;BR&gt;Les descendants de Lok les ont certainement aidés.&lt;BR&gt;&lt;BR&gt;Il faut commencer par détruire toutes leurs armes.&lt;BR&gt;&lt;BR&gt;Je vais me rendre à l'intérieur du repaire pour chercher d'autres indices de la présence des descendants de Lok. Détruisez donc les armes pendant ce temps&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"C'est entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1048">
+        <Page social="4" voiceTypeId="0">Regardez&amp;nbsp;!&lt;BR&gt;Voilà ceux qui ont pactisé avec les devans.&lt;BR&gt;&lt;BR&gt;Ce sont des descendants de Lok&amp;nbsp;!&lt;BR&gt;C'est donc bien eux qui tiraient les ficelles.&lt;BR&gt;&lt;BR&gt;J'ai du mal à croire qu'ils se soient cachés ici.</Page>
+    </Text>
+</QuestDialog>

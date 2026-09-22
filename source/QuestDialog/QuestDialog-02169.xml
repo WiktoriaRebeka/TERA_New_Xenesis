@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Nous, les Mains de Velika, nous voulons prouver notre valeur dans la lutte contre le mal. Aujourd'hui, nous comptons nous en prendre au {@Rgn:9002#Labyrinthe d'Azarel}.&lt;BR&gt;&lt;BR&gt;Parlez à {@LinkCreature:63#3003#Elthienne} si vous voulez aider notre cause.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Vous êtes de la Fédération, ça se voit, alors c'est un peu fourbe de notre part.&lt;BR&gt;&lt;BR&gt;Pour faire court, nous aimerions que vous éliminiez des monstres dans le labyrinthe, et que vous laissiez les Mains de Velika en tirer tous les mérites. Ce serait très bon pour notre réputation, euh pardon, notre cause.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Le {@Rgn:9002#Labyrinthe d'Azarel} est envahi de monstres, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je ne tiendrai pas une minute dans ce labyrinthe. Mais vous travaillez pour moi, alors c'est comme si je l'avais fait, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;En plus, Elthienne va vous payer. Alors tout le monde y gagne.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Aller chasser des {@LinkCreature:9#1400#mastodontes d'Azarel} dans le {@Rgn:9002#Labyrinthe d'Azarel} et rapporter la preuve de leur mort.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci de tout ce que vous avez fait pour nous, &lt;PCNAME&gt;. Votre amitié compte beaucoup pour les Mains. Vraiment beaucoup.&lt;BR&gt;&lt;BR&gt;Elthienne a votre récompense, comme toujours.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Aller chasser des {@LinkCreature:9#1410#rôdeurs labyrinthiques} dans le {@Rgn:9002#Labyrinthe d'Azarel} et rapporter la preuve de leur mort.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Merci, &lt;PCNAME&gt;. C'est très important, pour les Mains de Velika. Les services que vous nous avez rendus sont précieux.&lt;BR&gt;&lt;BR&gt;Précieux ou non, voici votre paiement pour le travail que vous avez si bien accompli, comme toujours.</Page>
+    </Text>
+</QuestDialog>

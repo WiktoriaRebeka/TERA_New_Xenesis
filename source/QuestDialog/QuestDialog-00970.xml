@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1010">
+        <Page social="10">Pourquoi n'est-il pas ici ? Je connais l'étendue de ce réseau de tunnels, mais je n'ai pas toute la vie devant moi !&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, si vous n'avez rien de mieux à faire, pourriez-vous vous rendre dans la Crypte maudite et y prendre des nouvelles de mes soldats ?&lt;BR&gt;&lt;BR&gt;Cette histoire a un goût de déjà-vu... un soldat part ravitailler des éclaireurs postés dans la crypte, et il ne revient pas à temps.&lt;BR&gt;&lt;BR&gt;Oh, et chemin faisant, arrangez-vous pour faire disparaître les cerbères qui gênent l'accès à la Crypte maudite. Une fois que nous en serons débarrassés, je n'aurais plus de soucis à me faire pour mes soldats.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="20">Vous arrivez d'Elenea, &lt;PCCLASS:lcase&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oui, oui, je sais que je suis en retard.&lt;BR&gt;&lt;BR&gt;J'ai fini par me perdre, ça peut arriver à tout le monde, non&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

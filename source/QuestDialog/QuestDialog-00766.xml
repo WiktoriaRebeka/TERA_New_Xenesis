@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">Si vous êtes {@gender:intéressé/intéressée}, j'ai un autre projet. Cette carte du {@Rgn:30001#refuge} a été tracée il y a longtemps par le clan de {@Creature:230#1007$$Lashinuk}, les Consos.&lt;BR&gt;&lt;BR&gt;Ce {@Rgn:30007#Pavillon} abritait une armée de golems.&lt;NEXTPAGEBUTTON&gt;"Et&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Et les {@LinkCreature:30#180#conservateurs de laiton} contiennent dans leur noyau des instructions pour entretenir le refuge. Malheureusement, leur système d'auto-réparation s'effondre.&lt;BR&gt;&lt;BR&gt;Si nous voulons remplacer les golems, nous devons savoir ce qu'ils savent.&lt;BR&gt;&lt;BR&gt;Récupérez quelques noyaux de {@LinkCreature:30#180#conservateurs de laiton} pour que je puisse les décoder.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1005">
+        <Page social="1">Magnifique&amp;nbsp;! Des noyaux de conservateurs en état de marche&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous passez au Camp de la Clairvoyance, invitez Sestena à se joindre à moi pour les examiner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1005">
+        <Page social="0">Ces noyaux, si nous les obtenons intacts, feront grandement progresser nos efforts pour protéger et réparer ce refuge.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1019">
+        <Page social="1">Naisas a un noyau en état de marche&amp;nbsp;? Plusieurs&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Formidable. C'est une avancée sans précédent pour nous, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

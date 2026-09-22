@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="4">Cela ne peut plus durer. {@LinkCreature:231#1023$$Ghauth} rend les troupes nerveuses.&lt;BR&gt;&lt;BR&gt;Parlerez-vous à {@LinkCreature:231#1013$$Urwah} à la {@Rgn:31009$$Garnison de la Pointe du Phare} pour obtenir des informations détaillées sur la flotte&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">J'ai entendu une corne de brume au loin, tard la nuit dernière. C'était le navire de la Fédération, j'en jurerais.&lt;BR&gt;&lt;BR&gt;Nous devrions voir la flotte maintenant.&lt;BR&gt;&lt;BR&gt;Il y a une &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7012#19245.8750,-104143.7813,34.8662&amp;type=1&amp;name=pointe du guet"&gt;pointe du guet&lt;/A&gt;&lt;/font&gt; sur le rivage si vous allez dans l'eau et que vous suivez la côte sur votre gauche. Mais faites attention, l'endroit est traître&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Depuis cet endroit, vous devriez pouvoir apercevoir la flotte Valkyon. Ainsi nous serons informés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1013">
+        <Page social="4">Quoi&amp;nbsp;? Vraiment&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Aucun signe de la flotte&amp;nbsp;? C'est impossible. J'ai bien entendu cette corne&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est horrible. Que vais-je pouvoir dire aux autres&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

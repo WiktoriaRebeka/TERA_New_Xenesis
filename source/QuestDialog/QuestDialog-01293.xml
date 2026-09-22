@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1016">
+        <Page social="6">Ce gros {@Rgn:50005} joue sans doute un rôle dans la mutation des argons.&lt;BR&gt;&lt;BR&gt;Certes, les argons mutés ne disposent pas d'une technique de combat efficace, mais nous ne pouvons pas tolérer que de nouveaux kargons occupent les lieux.&lt;NEXTPAGEBUTTON&gt;"Bien, que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Excellent&amp;nbsp;! J'ai aperçu quelques perforateurs quernoks au Nid du Façonneur. Ils ont l'air hors de prix. Détruisez-les.&lt;BR&gt;&lt;BR&gt;On verra quel effet ça fait aux argons&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="6">Vous vous en êtes {@gender:sorti/sortie} avec brio. Merci.&lt;BR&gt;&lt;BR&gt;Si nous ne luttons pas pour sauver ce monde, qu'allons-nous laisser à nos enfants&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

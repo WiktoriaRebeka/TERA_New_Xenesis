@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les cultistes se trouvant au sein dela Cathédrale sombre sont une grande menace pour nous.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:25#2011#chefs de guerre ossugons}, les {@LinkCreature:25#2021#légats ossugons}, les {@LinkCreature:25#2031#ravageurs d'élite devans}, les {@LinkCreature:25#2041#maîtres de la mort de Lok}, les {@LinkCreature:25#2042#faucheurs sanglants de Lok}, les {@LinkCreature:25#2061#avant-gardes devans}, les {@LinkCreature:25#2071#diacres sombres}, les {@LinkCreature:25#2091#zélotes de Lok} et les {@LinkCreature:25#2092#fanatiques de Lok}.&lt;BR&gt;&lt;BR&gt;Une fois la mission finie, faites votre rapport à la coordinatrice Delwen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

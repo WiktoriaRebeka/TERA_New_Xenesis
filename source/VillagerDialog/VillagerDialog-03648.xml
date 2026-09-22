@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="207" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" endSocial="14" prevId="0" villagerId="1010">
+        <Page social="4">Je suis l'assistant d'Elthim. Il m'a enseigné plus de choses en deux ans que tout ce que j'ai appris durant toute ma carrière au Collegium Arcanum.&lt;BR&gt;&lt;BR&gt;Je ne peux pas parler des travaux du maître. Il me l'a fait jurer. Mais, quand cela sera dévoilé, ce sera extraordinaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" endSocial="14" prevId="0" villagerId="1010">
+        <Page social="4">Toutes mes excuses, mais je ne dois pas me déconcentrer. Le travail de mon maître nécessite une concentration sans faille.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" endSocial="14" prevId="0" villagerId="1010">
+        <Page social="4">Ma magie vous enverra à Elthim. Protégez-le pendant qu'il termine sa tâche, cela pourrait être l'action décisive que nous attendions tous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;TEXTBUTTON&gt;Pour Elthim&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Aller voir Elthim&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

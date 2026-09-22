@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="5">Bon, j'ai concocté la potion en suivant la recette à la lettre.&lt;BR&gt;&lt;BR&gt;Allez la remettre à {@LinkCreature:216#1010#Sadnica} et croisez les doigts.&lt;BR&gt;&lt;BR&gt;D'une manière ou d'une autre, ses souffrances vont prendre fin.&lt;BR&gt;&lt;BR&gt;Mais n'allez pas annoncer les choses aussi froidement à Alethea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Oh... quelle tristesse.&lt;BR&gt;&lt;BR&gt;Enfin... je sais que vous avez fait de votre mieux. Personne ne pourra dire le contraire.&lt;BR&gt;&lt;BR&gt;Transmettez mes condoléances à Alethea.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1005">
+        <Page social="4">Je comprends... vous avez essayé de le sauver, mais...&lt;BR&gt;&lt;BR&gt;Je ne peux pas vous en demander plus que vous ne l'avez déjà fait. Merci beaucoup.&lt;BR&gt;&lt;BR&gt;Maintenant, pourriez-vous me laisser seule&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

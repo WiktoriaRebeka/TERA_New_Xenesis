@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">Ils manigancent quelque chose.&lt;BR&gt;&lt;BR&gt;Qui ça&amp;nbsp;? Les {@LinkCreature:33#910#Baalthoths}. Je ne sais pas grand-chose sur eux, on ne fait que les apercevoir, mais je pense qu'ils sont responsables.&lt;BR&gt;&lt;BR&gt;Essayez d'obtenir quelques renseignements... sur un cadavre de nécromancien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">Faites-moi voir ça.&lt;BR&gt;&lt;BR&gt;Ahah&amp;nbsp;! Il est indiqué ici que Thulsa a bâti une espèce d’appareil dans la Prison des Abysses, quoi que ça puisse être, et capture des âmes mortes avant qu’elles ne puissent atteindre le monde du Rêve.&lt;BR&gt;&lt;BR&gt;Cela explique pas mal de choses, n’est-ce pas&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">J’adorerais voir ce qu’on trouve dans la poche d’un {@LinkCreature:33#910#nécromancien}. Pas vous&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0">&lt;PCNAME&gt;, je vous ai {@gender:observé/observée}. Vos aptitudes sont impressionnantes, mais votre armement n'est pas optimisé.&lt;BR&gt;&lt;BR&gt;Jetez un coup d'œil à l'arme que je vais vous donner. Avec quelques objets, vous serez en mesure de l'enchanter.&lt;BR&gt;&lt;BR&gt;Allez voir Valdrin, à Boquillon&amp;nbsp;; il vous donnera tout ce dont vous avez besoin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1001">
+        <Page social="0">L'enchantement ? Je vais vous expliquer tout ça.&lt;BR&gt;&lt;BR&gt;Enchanter une armure renforce sa défense, et enchanter une arme augmente sa puissance d'attaque. Vous pouvez répéter la manœuvre pour obtenir des bonus, en atteignant certains niveaux.&lt;BR&gt;&lt;BR&gt;Pour enchanter de l'équipement, vous avez besoin de matières premières et d'alkahest de même niveau. Les marchands de mon acabit vendent de l'alkahest, tandis que vous obtenez des matières premières en démantelant de l'équipement.&lt;BR&gt;&lt;BR&gt;Pour démanteler un objet, cliquez sur le bouton situé en bas de votre inventaire, puis sélectionner les objets que vous désirez convertir en matières premières.&lt;BR&gt;&lt;BR&gt;C'est simple, n'est-ce pas ?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="5">Brohua dit que les plantes de la région sont malades depuis des années. Il pense que la contamination vient du sol et que l'agent toxique concerné pourrait bien être responsable du fléau qui s'est abattu sur nous.&lt;BR&gt;&lt;BR&gt;Les buissons de Toruan étant relativement communs dans la région, je me suis dit que si vous pouviez me rapporter leurs baies, je pourrais chercher à en extraire les composants toxiques.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1015">
+        <Page social="5">Vous avez récupéré les fruits&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Fantastique&amp;nbsp;! J'espère que ça va fonctionner&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1015">
+        <Page social="0">Les fruits de Toruan sont communs, dans le coin... Continuez de chercher.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">Ah&amp;nbsp;! Ces molochs fumants tuent mes prospecteurs les uns après les autres. On entre discrètement pour essayer de trouver du minerai de fyrdras et ces maudits molochs sortent du sol.&lt;NEXTPAGEBUTTON&gt;"Je m'occupe des molochs."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ce serait fantastique. Même un seul, ça ferait une sacrée différence pour nous.&lt;BR&gt;&lt;BR&gt;Et si vous croisez une grosse veine de fyrdras, prévenez-moi. Ce sera notre secret.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="6">Beau travail. Maintenant, nous pouvons récupérer davantage de minerai, fabriquer davantage d'armes et tuer davantage d'argons&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et tout ça grâce à vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

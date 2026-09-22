@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">La panique a envahi l'Académie Eldritch&amp;nbsp;! Nous voulions juste organiser un Festival de la Moisson mais nous avons reçu des lettres de menace&amp;nbsp;: "Vous serez hantés par vos mauvaises actions passées." et autres messages de ce genre.&lt;BR&gt;&lt;BR&gt;Serena m'a demandé de découvrir qui se cache derrière ces tentatives de tout gâcher. Elle m'a sans doute choisie après m'avoir attrapée en train de lire "Contes passionnants pour détectives en herbe" alors que j'étais censée étudier.&lt;BR&gt;&lt;BR&gt;Je suis à la poursuite de celui qui tire les ficelles. Pendant que je m'attelle à la tâche, vous pourriez faire en sorte que rien ne vienne ruiner la fête&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Bien sûr... mais pourquoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">A cause des tuwangis. Ils se rassemblent à l'académie en ce moment-même. Mais ne vous inquiétez pas&amp;nbsp;: nous pouvons retourner leurs superstitions contre eux.&lt;BR&gt;&lt;BR&gt;Utilisez le canon afin de tirer des citrouilles sur les invités indésirables et défendez les réserves de la fête, surtout les bonbons.&lt;BR&gt;&lt;BR&gt;Lorsque les tuwangis seront frappés par les citrouilles, symboles de la moisson, ils fuiront sans demander leur reste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="4">Il vous reste encore des citrouilles, j'espère&amp;nbsp;? Bien.&lt;BR&gt;&lt;BR&gt;Tenez, prenez ceci… et joignez-vous à la fête. Ce sera parfait&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Euh, et l'énorme monstre-citrouille&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Un monstre-citrouille&amp;nbsp;? C'est sûrement un costume, rien d'inquiétant. Vous autres &lt;PCCLASS:lcase&gt;s, êtes beaucoup trop stressés.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, les descendants de Lok ne se donnent même plus la peine de masquer leur identité.&lt;BR&gt;&lt;BR&gt;Il est d'autant plus surprenant qu'ils ne nous aient pas encore attaqués. Ils... &lt;BR&gt;&lt;BR&gt;Ils contrôlent les kumas. &lt;BR&gt;Nous avons besoin d'aide ! Je peux compter sur votre soutien ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Les kumas sont des serviteurs gigantesques qui existaient déjà du temps de l'empire sacré. D'après la légende, les seigneurs géants les contrôlaient autrefois à l'aide de pierres tombales géantes. &lt;BR&gt;Leur asservissement par les descendants de Lok est une nouvelle terrifiante. &lt;BR&gt;&lt;BR&gt;Rendez-vous donc à la Ferme de Godric et faites-vous une idée de la situation. {@linkcreature:207#1005#Heroth} vous y attendra.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Vous voyez les kumas, là-bas ? C'est abominable. Comment les descendants de Lok sont-ils parvenus à assujettir ces créatures ?&lt;BR&gt;&lt;BR&gt;(Heroth soupire.)&lt;BR&gt;&lt;BR&gt;C'est vraiment à s'arracher les cheveux ! Il est de mon devoir de protéger les serveurs, mais ils sont vraiment incorrigibles. &lt;BR&gt;&lt;BR&gt;Certains d'entre eux se sont mis en route pour déterminer si les kumas ont subi un lavage de cerveau. Misère...&lt;BR&gt;&lt;BR&gt;Je fais donc des préparatifs pour partir à la recherche de ces Humains si nécessaire. Radat, le gardien kumas, commande les jeunes kumas. Si nous l'éliminons, cela va fortement refroidir les ardeurs des jeunes kumas. &lt;BR&gt;&lt;BR&gt;Merci d'aller éliminer Radat, le gardien kumas.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Merci bien. Vous nous avez rendu un grand service. Nous devrions partir à la recherche des chercheurs disparus.&lt;BR&gt;&lt;BR&gt;La plupart des chercheurs sont revenus pendant que vous vous occupiez des kumas, &lt;PCNAME&gt;. Mais Siria, la plus entêtée de tous, est encore en vadrouille.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller la chercher ? Je m'inquiète pour elle !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Comment ? Ce centurion buté me recherche ?&lt;BR&gt;&lt;BR&gt;Je refuse de rentrer ! Je ne peux pas rentrer. J'ai une tâche très importante à accomplir. Regardez-moi ces kumas. Tant que nous ne saurons pas par quel moyen ils sont contrôlés, la fédération n'a pas l'ombre d'une chance face à eux. Vous ne comprenez donc pas ?&lt;BR&gt;&lt;BR&gt;Vous semblez avoir un peu de jugeote et je vais donc vous l'expliquer. Vous voyez les colliers que portent les kumas ? Si seulement je pouvais mettre la main sur le collier de leur chef...&lt;BR&gt;&lt;BR&gt;Il regorge sans doute de magie. Une magie puissante qui permet de contrôler les kumas ! Je dois l'étudier à tout prix ! Aidez-moi, s'il vous plaît !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Vous... Vous me l'avez procuré ! C'est formidable ! Maintenant, il me manque juste quelque chose avec quoi comparer le collier.&lt;BR&gt;&lt;BR&gt;Hein ? Pourquoi me regardez-vous ainsi ? Vous vouliez bien m'aider, non ?&lt;BR&gt;&lt;BR&gt;Fouillez le &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#55019,9993,1935&amp;type=1&amp;name=Gisement de fragments de pierres magiques antiques"&gt;pierres magiques antiques&lt;/A&gt;&lt;/font&gt; non loin d'ici. Vous devriez pouvoir y trouver des pierres magiques antiques d'où nous pourrons prélever des échantillons de fragments de pierre magique. Je connais un lieu où vous trouverez de nombreuses pierres magiques antiques. Rapportez-m'en quelques-unes. C'est très simple :&lt;BR&gt;&lt;BR&gt;Vous trouverez des fragments de pierres magiques dans le &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#55019,9993,1935&amp;type=1&amp;name=Gisement de fragments de pierres magiques antiques"&gt;gisement de fragments de pierres magiques antiques&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="1009">
+        <Page social="0">Je vous le répète encore une fois. &lt;BR&gt;Apportez-moi le collier de Kadas. Je suis certain qu'il renferme de la magie permettant de contrôler les kumas. Je dois l'étudier à tout prix ! Aidez-moi, s'il vous plaît !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Voyons voir !&lt;BR&gt;&lt;BR&gt;C'est bien ce que je pensais. La magie de ces fragments est identique à celle du collier kumas, en moins concentrée. Par ailleurs, la magie des colliers est orientée vers quelque chose.&lt;BR&gt;&lt;BR&gt;Les colliers des kumas sont donc sans doute reliés à un appareil de commande très puissant. Et la personne qui manie cet appareil contrôle aussi les kumas !&lt;BR&gt;&lt;BR&gt;Elle se dissimule derrière toute cette magie. Voilà pourquoi nous n'avons pas encore réussi à la dénicher.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1009">
+        <Page social="0">Merci d'étudier soigneusement les pierres magiques éparpillées dans les environs. Vous y trouverez des fragments de pierres magiques dont nous pourrons prélever des échantillons. Rapportez-m'en quelques-unes. C'est simple, n'est-ce pas ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Le flux magique me révèle que la source se trouve à proximité des pierres tombales géantes. Explorez les environs des pierres tombales pour trouver une pierre gigantesque appelée {@linkobject:45#pierre magique consacrée}. Je mets ma main au feu que c'est cette pierre fabriquée à partir de fragments de pierres magiques qui sert à contrôler les kumas. Et ceux qui contrôlent les kumas ne peuvent pas être bien loin.&lt;BR&gt;&lt;BR&gt;Merci de localiser la {@linkobject:45#pierre magique consacrée} et de l'examiner. Vous savez que faire des suspects, non ?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Кто призвал бесов? Наверное, это они управляют кумасами. Жаль, что тебе довелось столкнуться с ними только сейчас. Что ж. По крайней мере, теперь нам есть что противопоставить кумасам. Спасибо за помощь. &lt;BR&gt;&lt;BR&gt;Отправляйся на запад и передай этот отчет Маттину. Ты найдешь его в лаборатории Мистериума. А пока я продолжу исследовать кумасов и этот волшебный камень. После этого я лично схожу на ферму Годрика и объясню людям, насколько важны мои исследования. Не переживай.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="207" prevId="12" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Un rapport de la chercheuse Siria ? Faites-moi voir ça...&lt;BR&gt;&lt;BR&gt;(Il lit le rapport.)&lt;BR&gt;&lt;BR&gt;Apparemment, elle a bien cerné le problème des kumas sur les Collines célestes. Vous avez vraiment fait du bon travail.</Page>
+    </Text>
+</QuestDialog>

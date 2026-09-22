@@ -1,0 +1,79 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="4">L'un de nos plus jeunes chercheurs, {@LinkCreature:77#3002#Paruru}, a perdu ses deux chiens chéris. Malheureusement, le laisser partir à la recherche de ses chiens est bien trop risqué, c'est pourquoi nous demandons votre aide.&lt;BR&gt;&lt;BR&gt;C'est que vous, vous voyez, vous avez l'habitude des combats.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="4">Je me fiche de ce que vous racontez, je ne retournerai pas au travail tant que je ne sais pas si mes chiens vont bien.&lt;NEXTPAGEBUTTON&gt;"Bien, et comment s'appellent-ils&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui&amp;nbsp;! Prince et Pupuce&amp;nbsp;! Aidez-moi à retrouver mes chiens et je promets de me remettre au travail.&lt;BR&gt;&lt;BR&gt;Je sais qu'ils adorent la viande séchée fumée. Vous pouvez en utiliser pour les faire revenir à la maison, d'accord&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mmmm... alléchant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="77" prevId="2" villagerId="3015">
+        <Page social="4">(Le chien vous regarde comme si vous vous apprêtiez à lui enfiler des chaussettes.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="8" villagerId="3017">
+        <Page social="4">(Le chien vous regarde comme si vous vous apprêtiez à lui enfiler des chaussettes.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" prevId="9" villagerId="3018">
+        <Page social="4">(Le chien vous regarde comme si vous vous apprêtiez à lui enfiler des chaussettes.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="10" villagerId="3019">
+        <Page social="4">(Le chien vous regarde comme si vous vous apprêtiez à lui enfiler des chaussettes.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="4">Vous avez donné la viande séchée à Pupuce&amp;nbsp;? Elle va bientôt revenir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous n'avez pas mangé toute la viande, au moins&amp;nbsp;?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="14" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="15" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="16" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="17" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="18" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="11" villagerId="3517">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="3518">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="3519">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="22" huntingZoneId="247" prevId="21" villagerId="3515">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="23" huntingZoneId="247" prevId="22" villagerId="3516">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="24" huntingZoneId="247" prevId="23" villagerId="3517">
+        <Page social="4">(Le chien vous regarde avec les yeux de quelqu'un qu'on aurait forcé à mettre des gros bigoudis roses.)</Page>
+    </Text>
+    <Text id="25" huntingZoneId="77" prevId="24" villagerId="3002">
+        <Page social="4">Vous avez trouvé Prince&amp;nbsp;? Il a mangé la viande séchée&amp;nbsp;? C'est son repas préféré, il ferait le tour du monde pour en avoir.&lt;BR&gt;&lt;BR&gt;Merci pour votre aide. Promis, je me replonge immédiatement dans nos recherches.</Page>
+    </Text>
+</QuestDialog>

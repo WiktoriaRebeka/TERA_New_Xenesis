@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="5">Tout le monde se plaint des fouaille-tripes, mais en ce qui me concerne, ce sont les hyènes qui me pourrissent la vie. Elles s'en prennent à mes bêtes.&lt;BR&gt;&lt;BR&gt;Je vais vous dire... allez donc massacrer quelques-unes des {@LinkCreature:6#1031#hyènes féroces} ou {@LinkCreature:6#1032#hyènes affamées} qui traînent sur ma propriété.&lt;BR&gt;&lt;BR&gt;Euh... "s'il vous plaît"&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1001">
+        <Page social="5">Ca devrait faire l'affaire. Dommage que vous n'ayez pas débarqué plus tôt dans la région.&lt;BR&gt;&lt;BR&gt;Enfin... bon, c'est déjà ça, pas vrai&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

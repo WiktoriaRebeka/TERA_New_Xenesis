@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="5">Apparemment, les {@LinkCreature:22#9#instructrices de l'ombre} vont détruire le monde. Et ils ne m'ont pas envoyé d'invitation.&lt;BR&gt;&lt;BR&gt;Je veux que vous les arrêtiez. C'est bien joli de comploter, mais m'exclure de leur jeu, ça ne me fait plus rire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">Les sorcières donnent rarement leur parole parce que nous détestons ne pas la tenir.&lt;BR&gt;&lt;BR&gt;Vous m'avez rendu un grand service et je ne l'oublierai pas.&lt;BR&gt;&lt;BR&gt;J'espère voir très rapidement la fin de cette folie. Vous savez ce qui me manque&amp;nbsp;? Des sangsues… et des pêches.</Page>
+    </Text>
+</QuestDialog>

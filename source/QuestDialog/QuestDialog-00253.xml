@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Le traitement de choc en lui-même ne suffira pas. Nous allons également devoir recourir à la magie. Bien entendu, ça signifie que vous allez encore devoir vous salir les mains.&lt;BR&gt;&lt;BR&gt;Rapportez-moi des cervelles de {@LinkCreature:9#800#bouchers gulas}. Elles nous serviront à absorber les cauchemars qui le hantent.&lt;BR&gt;&lt;BR&gt;Par malheur, dans mes remèdes, il n'est jamais question de "verre de lait bien chaud" ou d'une "cuillerée de miel".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Ces cervelles sont plus petites que je ne l'imaginais, mais je suppose que ça explique un certain nombre de choses, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Rapportez-moi des cerveaux, &lt;PCNAME&gt;. Des cerveaux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoi&amp;nbsp;? C'est le mot "cerveau" qui vous dérange&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

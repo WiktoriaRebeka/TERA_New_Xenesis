@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Les vampires et les sorcières aiment leurs chapeaux, à tel point qu'ils ne veulent pas que quelqu'un d'autre les fabriquent.&lt;BR&gt;&lt;BR&gt;Le gros problème, c'est qu'ils ont enfermés tous les rubis fulminants existants. Aucune chance de se procurer un de ces chapeaux. Pas en ce moment.&lt;NEXTPAGEBUTTON&gt;"Mais j'ai déjà un rubis fulminant...";&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Quoi&amp;nbsp;? Vous en avez une&amp;nbsp;? Ça alors...&lt;BR&gt;&lt;BR&gt;Bon, et bien dans ce cas, en souvenir du passé, je peux vous le faire. À quel style pensiez-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que vous me proposer&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Si tout ce qui vous manque est un rubis fulminant, j'ai bien peur que vous n'ayez pas de chance&amp;nbsp;: on en trouve plus. Vous devriez vendre votre noracier et votre ombracier, et tourner la page.</Page>
+    </Text>
+</QuestDialog>

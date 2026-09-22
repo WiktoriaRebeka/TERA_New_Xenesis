@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">J'ai prévenu Armande qu'il est impératif de sauver les villageois enlevés.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Sous l'influence de la force de Killian, vous avez attaqué Kalligar avec Thro et vous êtes lancés à la poursuite d'Élion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="4" voiceTypeId="0">C'est vrai. Les prisonniers passent avant tout le reste. Il semble évident qu'Élion est parti à leur rescousse.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, mettez-vous en route avec Thro pour aller aider Élion et les villageois.&lt;NEXTPAGEBUTTON&gt;"Vous ne venez pas avec nous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je vais suivre Bashik et vérifier la recette du remède contre la cristallisation. Ensuite, je vais aller chercher quelques ingrédients.&lt;BR&gt;&lt;BR&gt;En connaissant tous les composants du remède, nous serons très utiles à Arborea.&lt;BR&gt;&lt;BR&gt;Je vous rejoins plus tard. Je vous en supplie, sauvez les villageois avec Thro.&lt;BR&gt;&lt;BR&gt;D'après Bashik, les prisonniers se trouvent dans le Cachot disciplinaire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="140">
+        <Page social="7" voiceTypeId="0">Merci d'être venu, gardien !&lt;BR&gt;&lt;BR&gt;Élion est déjà passé par ici et nous a conseillé d'attendre là. Mais j'ignorais combien de temps il nous fallait attendre.&lt;BR&gt;&lt;BR&gt;Élion s'est rendu dans le cachot de la vallée pour sauver les villageois. Allez aider Élion et les derniers villageois.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="141">
+        <Page social="4" voiceTypeId="0">Ah, c'est vous, gardien.&lt;BR&gt;&lt;BR&gt;Cet endroit est vraiment répugnant.&lt;BR&gt;&lt;BR&gt;Des hurlements résonnent là-haut depuis un bon moment... Soyez sur vos gardes.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="142">
+        <Page social="4" voiceTypeId="0">Vous voir ici me rassure.&lt;BR&gt;&lt;BR&gt;Élion s'est mis en route pour le centre d'interrogatoire. Un vacarme assourdissant vient juste de retentir...&lt;BR&gt;&lt;BR&gt;Les hauts dragons sont donc en alerte.&lt;BR&gt;&lt;BR&gt;Allez donc les éliminer et sauver Élion et les villageois, partis pour le centre d'interrogatoire.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2102" prevId="6" villagerId="100">
+        <Page social="4" voiceTypeId="0">Merci d'avoir fait aussi vite, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nous avons retrouvé tous les villageois enlevés. Maintenant, nous devons disparaître au plus vite.&lt;BR&gt;&lt;BR&gt;Je vais nous dégager le passage. Emmenez donc les villageois en lieu sûr.&lt;BR&gt;&lt;BR&gt;Argh !&lt;NEXTPAGEBUTTON&gt;"Tout va bien ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah.... Oui, tout va bien.&lt;BR&gt;&lt;BR&gt;Je compte sur vous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2102" prevId="7" villagerId="110">
+        <Page social="4" voiceTypeId="0">Je crois qu'il est arrivé quelque chose à Élion.&lt;BR&gt;&lt;BR&gt;Nous devons absolument l'aider. Les Riverans vont se charger des villageois.&lt;BR&gt;&lt;BR&gt;Dépêchons-nous, avant qu'Élion ne disparaisse.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="150">
+        <Page social="4" voiceTypeId="0">Un jardin floral... à un tel endroit !&lt;BR&gt;&lt;BR&gt;Avez-vous déjà vu des fleurs aussi énormes ? Ça a sans doute un rapport avec les papillons géants.&lt;BR&gt;&lt;BR&gt;Mais je croyais que les parfs et les parfons ne mangeaient que des animaux cristallisés ?!&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, cet endroit ne me dit rien qui vaille...</Page>
+    </Text>
+</QuestDialog>

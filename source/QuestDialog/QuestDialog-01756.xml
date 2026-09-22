@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Des chercheurs de la station Queldar ne pouvaient rejoindre leur poste à cause des demokrons des alentours.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; a sauvé les chercheurs et les a escortés à bon port.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ohé&amp;nbsp;! Il y a quelqu'un&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;"On aurait bien besoin d'un peu d'aide par ici&amp;nbsp;!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3006">
+        <Page social="4" voiceTypeId="0">Oh, qu'Oriyn soit loué, quelqu'un arrive.&lt;BR&gt;&lt;BR&gt;Je suis un archéologue rattaché à la station Queldar. Nous étions en route vers notre site de fouille quand nous sommes tombés nez à nez avec des demokrons. Nos gardes ont été submergés, mais ils ont toutefois réussi à attirer les créatures loin de nous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Malheureusement, nous voilà coincés ici, sans escorte.&lt;NEXTPAGEBUTTON&gt;"Si vous êtes prêt à partir, je peux vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="5">
+        <Page social="0">Merci beaucoup, &lt;PCNAME&gt; et je suis confus de vous importuner ainsi.&lt;BR&gt;&lt;BR&gt;Nous ferions vraiment mieux de passer moins de temps à lire des ouvrages sur les guerriers et un peu plus de temps à apprendre à nous défendre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Merci d'avoir aidé nos chercheurs à rentrer. BR&gt;&lt;BR&gt;Généralement, les hauts-gardes sont tout à fait capables de garantir notre sécurité... Mais étant donné que tout le monde et occupé à localiser le Vénérable Verikam ou à renforcer les défenses de la ville, ils sont plus facilement submergés.&lt;BR&gt;&lt;BR&gt;Vous avez toute notre gratitude.&lt;NEXTPAGEBUTTON&gt;"Ravi{@g:/e} de pouvoir aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

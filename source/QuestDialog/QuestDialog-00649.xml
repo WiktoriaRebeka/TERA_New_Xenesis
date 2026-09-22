@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">Saletés de petites pourritures de sacs à puces&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ma famille distille du vin de baies depuis des siècles, mais ces {@LinkCreature:23#3#exilés poporis} ont volé tout notre stock&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si nous ne le récupérons pas, c'est la faillite. Nous ne pourrons pas payer l'impôt, ni acheter de ces petits champignons rigolos. Vous pouvez nous donner un coup de main&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">C'est ça&amp;nbsp;! C'est notre vin&amp;nbsp;! Vous l'avez récupéré&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je n'en reviens pas que ces misérables scélérats n'aient pas déjà tout bu&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ah, merci, merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1035">
+        <Page social="0">S'il vous plaît, ne revenez pas sans le vin&amp;nbsp;! Je peux être un véritable ours mal léché, quand ça ne va pas&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Désolé, c'est de l'humour popori.</Page>
+    </Text>
+</QuestDialog>

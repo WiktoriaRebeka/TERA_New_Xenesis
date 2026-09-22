@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">Les {@LinkCreature:19#3003#golems moissonneurs faucheurs} et les {@LinkCreature:19#3001#golems moissonneurs berserks} approchent dangereusement du village. Vous pourriez nous aider à les repousser un peu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, et rapportez-moi leurs &lt;font color='#660000'&gt;cœurs de cristal&lt;/font&gt;. Ces objets m'intriguent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Privés de ces cœurs, j'espère qu'ils ne seront pas en mesure de se réactiver. Et je trouverai peut-être le moyen de les recycler.&lt;BR&gt;&lt;BR&gt;Merci du fond du cœur.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">Ces golems nous approchent de beaucoup trop près.</Page>
+    </Text>
+</QuestDialog>

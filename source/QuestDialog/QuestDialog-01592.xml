@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1169">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1169">
+        <Page social="0">Hé, vous&amp;nbsp;! Vous m'avez tout l'air d'{@gender:un/une} {@gender:combattant/combattante} {@gender:aguerri/aguerrie}. Avez-vous déjà affronté les meilleurs éléments de la Fédération&amp;nbsp;? C'est une expérience à vivre.&lt;BR&gt;&lt;BR&gt;Si vous voulez en savoir plus, adressez-vous à Erigar, à l'Agora. Il vous expliquera tout.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1158">
+        <Page social="0">Une nouvelle recrue assoiffée de sang, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bon... voilà comment ça marche. Je peux vous vendre des graines de révolte, qui vous permettront d'annuler temporairement la bénédiction de Velik avant d'attaquer vos adversaires. Croyez-moi, si vous avez déjà entendu parler de la Nuit des Flèches, vous savez qu'il vaut mieux éviter d'énerver Velik. Quelquefois une graine suffit pour contourner la bénédiction, mais il en faut parfois plusieurs.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;? {@gender:Prêt/Prête} à vous salir un peu les mains&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

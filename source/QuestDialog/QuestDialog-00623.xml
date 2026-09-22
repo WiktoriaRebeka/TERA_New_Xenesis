@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="5">Les dortoirs du troisième étage ont été envahis par des étudiantes complètement folles&lt;BR&gt;&lt;BR&gt;Les pires sont les {@LinkCreature:22#14#acolytes vadomas}&amp;nbsp;! Si vous ne les arrêtez pas, vous ne pourrez jamais reprendre cet étage.&lt;BR&gt;&lt;BR&gt;Tout tourne au vinaigre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
+        <Page social="5">A en juger par votre apparence, elles vous ont opposé une belle résistance.&lt;BR&gt;&lt;BR&gt;Vous savez, je ne peux pas m'empêcher de me sentir un peu fière d'elles.&lt;BR&gt;&lt;BR&gt;J'espère que je m'en souviendrai au moment de leurs funérailles.</Page>
+    </Text>
+</QuestDialog>

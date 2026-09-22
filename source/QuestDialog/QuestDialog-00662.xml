@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">J'ai reçu un rapport inquiétant affirmant que les {@LinkCreature:23#18#insurgés vampires} et les {@LinkCreature:23#24#insurgés poporis} collaboraient avec les rebelles.&lt;BR&gt;&lt;BR&gt;L'aristocratie vampire ne s'est jamais mêlée de la politique du royaume. C'est mauvais signe... Il faut faire un exemple.&lt;BR&gt;&lt;BR&gt;Eliminez les insurgés près de l'Avant-poste de l'Esprit. Espérons que les autres vampires comprendront le message&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">J'ai toujours bien aimé les vampires, mais il faut faire un exemple.&lt;BR&gt;&lt;BR&gt;C'est un sale travail, mais vous l'avez bien fait. Merci.</Page>
+    </Text>
+</QuestDialog>

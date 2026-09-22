@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">La Garde sanglante est la meilleure troupe d’élite de Thulsa. Elle protège cet endroit et représente donc une sérieuse menace pour la garnison de la Fédération. De plus, elle semble préparer quelque chose en ce moment.&lt;BR&gt;&lt;BR&gt;Vous trouverez des {@LinkCreature:33#10#mages}, des {@LinkCreature:33#60#sorciers} et des {@LinkCreature:33#70#arcanistes} de la Garde sanglante près des Catacombes hurlantes et de la Prison de distorsion.&lt;BR&gt;&lt;BR&gt;Rapportez-nous toutes les informations disponibles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">Qu’avez-vous trouvé&amp;nbsp;? Hum... Nous allons devoir étudier ceci plus avant, mais nous devrions pouvoir comprendre ainsi comment le pouvoir de Thulsa soutient la Garde sanglante.&lt;BR&gt;&lt;BR&gt;Avant que je ne me plonge là-dedans, voici votre récompense&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">Vous trouverez des {@LinkCreature:33#10#mages de la Garde sanglante}, des {@LinkCreature:33#60#sorciers de la Garde sanglante} et des {@LinkCreature:33#70#arcanistes de la Garde sanglante} de la Garde sanglante près des Catacombes hurlantes et de la Prison de distorsion.</Page>
+    </Text>
+</QuestDialog>

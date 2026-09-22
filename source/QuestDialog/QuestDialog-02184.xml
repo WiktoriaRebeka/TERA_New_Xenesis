@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">Vous êtes {@gender:le/la} {@gender:nouveau/nouvelle} &lt;PCCLASS:lcase&gt;, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Parfait, j'ai besoin de votre aide. Je manque de matériaux pour fabriquer du papier magique que nous utilisons pour consigner des observations quand nos mains sont trop occupées pour écrire.&lt;BR&gt;&lt;BR&gt;Pour fabriquer ce papier, nous avons besoin de bois de saindoux. Et nous le récupérons, oui, c'est là que ça se corse, auprès des gardiens et des chamanes de la forêt sur la Montagne Prèmebleu.&lt;BR&gt;&lt;BR&gt;Allez, c'est parti&amp;nbsp;! Il me faut du bois de saindoux, et vite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Vous avez été plus rapide que je ne le pensais, &lt;PCCLASS:lcase&gt;. J'en reste bouche bée.&lt;BR&gt;&lt;BR&gt;Du papier magique, il va nous en falloir encore et encore, nous serons donc très régulièrement à la recherche de bois de saindoux. Tâchez de ne pas l'oublier quand vous repasserez dans le coin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1703">
+        <Page social="0">Sans papier magique, mes... enfin "nos" incroyables recherches ne seront pas documentées&amp;nbsp;! Allez en chercher tout de suite.</Page>
+    </Text>
+</QuestDialog>

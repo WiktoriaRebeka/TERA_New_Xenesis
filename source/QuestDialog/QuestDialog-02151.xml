@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Vous êtes ici pour m'aider ?&lt;NEXTPAGEBUTTON&gt;"Bien sûr. Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Pouvez-vous aller aider {@LinkCreature:63#3002#Taratia}&amp;nbsp;? Elle recherche désespérément des matériaux dont nous avons absolument besoin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Alors comme ça, {@LinkCreature:63#3003#Elthienne} vous a {@gender:envoyé/envoyée} pour me venir en aide&amp;nbsp;? C'est pas trop tôt&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Depuis des jours, on est obligé de dire aux clients d'aller s'approvisionner ailleurs, alors que nous devrions tout avoir en stock.&lt;BR&gt;&lt;BR&gt;M'aiderez-vous à trouver ce que je cherche&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Merci. Je vais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@LinkCreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir {@gender:envoyé/envoyée}. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Je plaisante&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">J'ai besoin de fibre de verdra. Vous voyez ce que c'est, hein&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Whoohoo&amp;nbsp;! C'est Byzance&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dites à {@LinkCreature:63#3003#Elthienne} que ça m'a énormément aidé.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="4" villagerId="3002">
+        <Page social="5">Merci. Je vais désormais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@linkcreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir envoyé ici. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Non, je plaisante !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ça va vous prendre encore longtemps de me procurer un peu d'{@RawItem:206801} ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="5" villagerId="3002">
+        <Page social="5">Merci. Je vais désormais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@linkcreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir envoyé ici. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Non, je plaisante !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ça va vous prendre encore longtemps de me procurer un {@RawItem:206802} ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Merci. Je vais désormais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@linkcreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir envoyé ici. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Non, je plaisante !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ça va vous prendre encore longtemps de me procurer un {@RawItem:206803} ?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">Merci. Je vais désormais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@linkcreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir envoyé ici. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Non, je plaisante !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ça va vous prendre encore longtemps de me procurer une {@RawItem:206804} ?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Merci. Je vais désormais pouvoir honorer mes commandes.&lt;BR&gt;&lt;BR&gt;Remerciez {@linkcreature:63#3003#Elthienne} aussi, c'est gentil à elle de vous avoir envoyé ici. Et puis donnez-lui une bonne déculottée pour m'avoir fait attendre. Non, je plaisante !&lt;BR&gt;</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ça va vous prendre encore longtemps de me procurer une {@RawItem:206805} ?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">Bien joué.&lt;BR&gt;&lt;BR&gt;Décidément, vous ne rechignez vraiment pas à la tâche.</Page>
+    </Text>
+</QuestDialog>

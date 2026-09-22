@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Vous savez ce qui me met en colère&amp;nbsp;? Les gens qui parlent de "l'art de l'alchimie"&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est une science&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Par exemple, mes recherches rigoureuses et validées par mes pairs me permettent d'affirmer que vous pourriez aller dans le Labyrinthe d'Or chercher des cristaux de sang&amp;nbsp;: de la souffrance pétrifiée des nombreuses victimes du Labyrinthe.&lt;NEXTPAGEBUTTON&gt;"C'est scientifique, ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Absolument&amp;nbsp;! Je pourrais vous détailler la méthodologie, si nous avions le temps&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;La science implique également des sacrifices. Comme celui de ces pauvres hères morts dans le Labyrinthe d'Or pour qu'existent les cristaux de sang que vous allez ramasser.&lt;BR&gt;&lt;BR&gt;C'est scientifiquement avéré.&lt;NEXTPAGEBUTTON&gt;"Quels pouvoirs ont ces cristaux de sang&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous l'ignorons... pour l'instant&amp;nbsp;! Nous devons approfondir nos recherches&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais de l'essence distillée de souffrance d'agonisant, ça ne peut être que fascinant, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors allez chercher ces cristaux. La science l'exige&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Des cristaux de sang... Merveilleux&amp;nbsp;! Je ressens déjà la souffrance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Un peu de souffrance ne vous fait pas peur, tout de même&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

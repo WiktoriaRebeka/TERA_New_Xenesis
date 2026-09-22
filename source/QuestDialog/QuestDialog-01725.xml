@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="1">Vous devez vous entraîner, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Oh, je sais que vous pensez que cela fait déjà bien longtemps que vous vous entraînez, mais même si vous pensez être bon{@g:/ne}, vous devez être encore meilleur{@g:/e} pour devenir membre du Collectif de libre Échange.&lt;BR&gt;&lt;BR&gt;Vous allez devoir tuer un {@linkcreature:124#102#Cyclope}, un {@linkcreature:125#103#Dracoloth}, ou un {@linkcreature:126#104#Déchireur vulcain}. Vous recevrez un insigne de cœur une fois ces créatures mortes.&lt;BR&gt;&lt;BR&gt;Une fois que ce sera terminé, ramenez-moi votre insigne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22008">
+        <Page social="4">Bon travail. Je suis maintenant convaincu que vous serez un atout pour le Collectif.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="22008">
+        <Page social="0">Pour le Collectif de libre Échange&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

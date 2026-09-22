@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="0">Djik était un des survivants d'Essenia. Il voulait retrouver sa fille disparue.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="4" voiceTypeId="0">Gardien, je vous prie de m'aider.&lt;BR&gt;&lt;BR&gt;Ma fille et moi avons été séparés pendant les évènements d'Essenia et je ne sais toujours pas si elle est vivante.&lt;BR&gt;&lt;BR&gt;Je ne l'ai pas trouvée dans le camp des réfugiés ni dans la morgue.&lt;BR&gt;Je suis donc revenu à Essenia.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">J'espère de tout cœur qu'elle est encore vivante, mais si ce n'est pas le cas... j'aimerais au moins trouver sa dépouille.&lt;BR&gt;&lt;BR&gt;Un survivant ayant assisté à l'incident pourrait éventuellement nous donner un indice.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">Vous avez bien fait de venir.&lt;BR&gt;Par chance, je peux vous aider.&lt;BR&gt;&lt;BR&gt;Oui, je l'ai vu de mes propres yeux.&lt;BR&gt;Je me souviens parfaitement de la trajectoire que l'aéronef a emprunté.&lt;BR&gt;&lt;BR&gt;La collision a eu lieu au-delà de cette colline.&lt;BR&gt;Je suis catégorique. Ça a fait un vacarme assourdissant. &lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Certes, le vieil homme est à plaindre, mais quelque chose de terrible est arrivé sur la colline. &lt;BR&gt;Allez-y.&lt;BR&gt;&lt;BR&gt;Mais prudence : la colline est plus élevée qu'elle n'en a l'air. &lt;BR&gt;Marchez donc au lieu de courir, c'est plus sûr.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="566">
+        <Page social="0" voiceTypeId="0">(La dépouille semble être celle de la fille de Djik.&lt;BR&gt;Donnez-vous de la peine pour la lui ramener.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="561">
+        <Page social="4" voiceTypeId="0">Comment ça ? &lt;BR&gt;Eh bien, je suis un Humain et ce cadavre est celui d'une Haute-elfe.&lt;BR&gt;&lt;BR&gt;Gardien, je crois que vous vous méprenez.&lt;BR&gt;&lt;BR&gt;Autrement dit, vous n'avez pas trouvé ma fille.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Non. Inutile de vous excuser.&lt;BR&gt;&lt;BR&gt;Mais je vais rester ici.&lt;BR&gt;Avec le temps, je vais sans doute oublier.&lt;BR&gt;&lt;BR&gt;Et qui sait... peut-être que je vais réussir à retrouver l'aéronef disparu ou entendre parler de ma fille.</Page>
+    </Text>
+</QuestDialog>

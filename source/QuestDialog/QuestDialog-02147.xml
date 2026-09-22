@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Une journée tranquille, pour l'instant.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:71#3015#Umma}. Vous pourrez vous relaxer près de l'étang&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Enfin une journée pépère.&lt;BR&gt;&lt;BR&gt;Enfin, il faut quand même nourrir les poissons, mais après ça, j'ai un petit cadeau pour vous. C'est parti&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Beau boulot&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous vous souvenez de ce que j'ai dit&amp;nbsp;? Elevez-les, nourrissez-les... et mangez-les&amp;nbsp;! Voilà votre récompense, camarade. Repos, soldat&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

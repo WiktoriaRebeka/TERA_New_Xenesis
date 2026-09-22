@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="4">Les Bois de l'Oubli n'ont jamais été aussi dangereux. Enfin, il y a des années de cela, c'était peut-être le cas, mais ça faisait bien longtemps que les choses s'étaient calmées.&lt;BR&gt;&lt;BR&gt;Les devans ne sont pas les seuls responsables... les esprits de la terre sont devenus agressifs, et les morts-vivants arpentent de nouveau la région. Il doit exister un lien entre ces différents phénomènes, mais j'ignore encore lequel.&lt;BR&gt;&lt;BR&gt;Vous pourriez vous rendre au cimetière de Berzerad et me rapporter les spores des {@LinkCreature:3#2#marchespores agités} que vous y trouverez&amp;nbsp;? Ce serait un bon point de départ pour mes recherches.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="4">Bon travail. Ca n'a pas dû être simple. Je vais maintenant appliquer ce réactif, et... bon sang...&lt;NEXTPAGEBUTTON&gt;"Que se passe-t-il&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ces spores ne sont pas de naturelles ou élémentaires, des âmes ont fusionné avec ces choses... celles de nos morts.&lt;BR&gt;&lt;BR&gt;Ca n'a rien de naturel et ça explique la colère et la violence de ces créatures&amp;nbsp;! Il doit exister un moyen d'inverser ce processus, mais pour l'instant, vous allez devoir vous contenter de tuer ces monstres.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1012">
+        <Page social="0">Au &lt;font color='#660000'&gt;cimetière de Berzerad&lt;/font&gt;, vous trouverez des marchespores en quantité. Rapportez-moi leurs spores.</Page>
+    </Text>
+</QuestDialog>

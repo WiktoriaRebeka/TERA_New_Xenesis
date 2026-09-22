@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez aidé le clan des Consos à maintenant le temple en bon état.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">Le clan des Consos vous serait très reconnaissant si vous pouviez nous aider à nettoyer le temple.&lt;BR&gt;&lt;BR&gt;Veuillez utiliser le téléportail pour entrer dans le sous-sol du temple et parler avec Davor.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je serai très heureux de vous aider.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Comme c'est bon de vous voir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Les paresseux sont particulièrement gênants, en ce moment. Pourriez-vous nettoyer une partie des dégâts qu'ils ont faits dans le sous-sol du temple&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Si elles résistent, n'hésitez pas à faire usage d l'automate PEST-B-GON 8000.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Il faut bien que quelqu'un s'en occupe...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Merci de votre aide.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Merci de votre aide.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Merci de votre aide.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Un réceptacle pour les ordures.&lt;NEXTPAGEBUTTON&gt;Déposer les ordures.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Un réceptacle pour les ordures.&lt;NEXTPAGEBUTTON&gt;Déposer les ordures.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="7000">
+        <Page social="4">Merci beaucoup, &lt;PCNAME&gt;. Veuillez accepter ce présent en guise de remerciement</Page>
+    </Text>
+</QuestDialog>

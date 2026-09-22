@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">Vous en avez assez de tuer des mekonaris&amp;nbsp;? Moi non plus. Au troisième étage, il y a largement de quoi faire.&lt;BR&gt;&lt;BR&gt;Je peux compter sur vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="5">Vous avez tout d'un fauve, &lt;PCNAME&gt;&amp;nbsp;! {@gender:Un prédateur/Une prédatrice} ultime&amp;nbsp;! Ne vous relâchez pas, nettoyez-moi tout ce maudit temple.</Page>
+    </Text>
+</QuestDialog>

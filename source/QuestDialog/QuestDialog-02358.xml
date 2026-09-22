@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="100">
+        <Page social="0" voiceTypeId="0">[Ordre]&lt;BR&gt;&lt;BR&gt;Peu après votre départ d'Exodor, la Fédération Valkyon a installé une base pour surveiller les déplacements d'Arkarp et explorer Exodor.&lt;BR&gt;Revenez sur-le-champ à Exodor pour ravitailler la base.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous apercevez un visage familier au loin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="100">
+        <Page social="4">Coucou ! Enchantée !&lt;BR&gt;&lt;BR&gt;Je m'appelle Anya !&lt;NEXTPAGEBUTTON&gt;"C'est vraiment vous, Anya ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Hein ? Bien sûr que je suis Anya. Qui voulez-vous que je sois d'autre ?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous ne me reconnaissez pas ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Aha ! Vous avez l'air de me connaître.&lt;BR&gt;Et pourtant, je ne suis pas la Anya que vous connaissez.&lt;BR&gt;C'est difficile à comprendre, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Écoutez mes explications et tout s'éclaircira. Suivez-moi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="120">
+        <Page social="4" voiceTypeId="0">Cet endroit est surnommé Osnium Agaia.&lt;BR&gt;&lt;BR&gt;Il est relié à l'espace-temps.&lt;BR&gt;&lt;BR&gt;Beaucoup de gens comme moi y vivent, qui diffèrent des personnes de votre monde.&lt;NEXTPAGEBUTTON&gt;"Je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je vais vous expliquer le phénomène.&lt;BR&gt;&lt;BR&gt;Écoutez-moi bien.</Page>
+    </Text>
+</QuestDialog>

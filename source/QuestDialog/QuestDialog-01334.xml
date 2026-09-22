@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Saletés de wendigos&amp;nbsp;! J'avais commandé quelques barils de vin argenté d'Allemantheia, le péché mignon des soldats... et je peux vous dire que j'ai dû me démener pour dégoter ça. Mais la nuit dernière, des wendigos sont venus piller nos réserves. Et devinez ce qu'ils ont pris&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ce vin est pour mes hommes et il n'est pas question qu'ils n'en profitent pas.&lt;BR&gt;&lt;BR&gt;Allez me récupérer ça au Hurlement du Wendigo. Je vous récompenserai comme il se doit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Bien joué&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je suppose que vous avez récupéré tout ce que vous avez pu. Les wendigos ont dû boire le reste.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, merci à vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">Retrouvez-moi ces barils de vin. Et si vous devez tuer quelques wendigos au passage, ce ne sera pas plus mal&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

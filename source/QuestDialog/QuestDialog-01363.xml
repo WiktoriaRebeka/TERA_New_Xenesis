@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="4">Les nécromanciens mekonaris ressuscitent les cadavres et les esprits du champ de neige.&lt;BR&gt;&lt;BR&gt;Vous avez déjà croisé les morts-vivants de la Plaine des Damnés&amp;nbsp;? C'est l'œuvre des nécromanciens.&lt;BR&gt;&lt;BR&gt;Exterminez ces serviteurs fanatiques de la mort et récupérez leurs appareils de nécromancie. J'aimerais bien savoir comment ils feront leur sale boulot sans leurs outils&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1047">
+        <Page social="4">Vous m'avez rapporté ces appareils de nécromancie&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je vais les faire parvenir au Mysterium pour étude.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1047">
+        <Page social="0">Eliminer les nécromanciens ne suffira pas à empêcher le retour des morts.&lt;BR&gt;&lt;BR&gt;Il est plus simple à Thulsa d'entraîner de nouveaux nécromanciens que de remplacer leurs appareils de nécromancie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

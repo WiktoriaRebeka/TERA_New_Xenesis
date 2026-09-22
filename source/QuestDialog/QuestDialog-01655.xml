@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Nous avons les matériaux, à vous de vous occuper du reste.&lt;BR&gt;&lt;BR&gt;Confectionnez des robes de tailleur et apportez-les-moi pour examen avant mise en service.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Bien... très bien, même. C'est du travail de qualité, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le genre de matériel dont nous avons besoin sur le terrain. Allez remettre les armures en tissu à Jakarian, de Chebika. Il a besoin de toutes les pièces d'armures sur lesquelles il pourra mettre la main.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits, parlez aux vendeurs d'artisanat si vous avez besoin de matériaux supplémentaires.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="65" prevId="3" villagerId="1009">
+        <Page social="0">Ces armures en tissu sont parfaites. Solide sans être trop lourde pour autant&amp;nbsp;! Merci beaucoup, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

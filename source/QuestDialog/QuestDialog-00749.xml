@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Getty, le gestionnaire d'inventaire de Velika, est plongé dans ses pensées. Allez le trouver.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez remis les matériaux pour la sacoche à Getty. En contrepartie, Getty vous a offert la sacoche terminée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1228">
+        <Page social="0" voiceTypeId="0">(Getty pousse un profond soupir.)&lt;NEXTPAGEBUTTON&gt;"Qu'y a-t-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La sacoche... Je dois terminer la sacoche...&lt;NEXTPAGEBUTTON&gt;Vous effleurez prudemment le bras de Getty.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il me faut une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;.&lt;BR&gt;Que vais-je bien pouvoir faire... ?&lt;BR&gt;&lt;BR&gt;(Getty est tellement préoccupé qu'il ne vous remarque pas.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Ah !&lt;BR&gt;C'est vous, &lt;PCNAME&gt; ? Ça faisait longtemps.&lt;BR&gt;&lt;BR&gt;Ce qui m'arrive ?&lt;BR&gt;&lt;BR&gt;Je peaufine actuellement une nouvelle invention, mais il me manque un composant essentiel et je ne peux donc pas la terminer.&lt;BR&gt;&lt;BR&gt;Ça me tracasse vraiment.&lt;NEXTPAGEBUTTON&gt;"Quelle invention ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Les yeux de Getty s'illuminent de joie.)&lt;BR&gt;&lt;BR&gt;Cette sacoche ramasse automatiquement certains objets.&lt;BR&gt;&lt;BR&gt;C'est difficile à expliquer sans pouvoir vous faire de démonstration, mais je n'ai pas encore pu finir la moindre sacoche.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, procurez-moi donc une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;.&lt;BR&gt;Une aiguille bien spéciale est nécessaire pour cette sacoche tout aussi spéciale !&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver cette aiguille ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai entendu dire que le &lt;font color='#0080FF'&gt;marchand clandestin&lt;/font&gt; de Velika fait le commerce d'objets rares.&lt;BR&gt;&lt;BR&gt;Vous pourriez aussi aller directement trouver les spectres de la forêt, mais croiser un spectre... Allez plutôt voir le marchand clandestin et achetez-lui une aiguille.&lt;BR&gt;&lt;BR&gt;J'ai toujours un sou de côté pour de telles urgences ! Pourriez-vous ouvrir cette caisse, là-bas ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="2953">
+        <Page social="0" voiceTypeId="0">(La caisse gigantesque semble fort surdimensionnée pour la petite gemme violette qui git dans un coin.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Mon sou de secours...&lt;BR&gt;&lt;BR&gt;Il devrait suffire pour acheter une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;.&lt;NEXTPAGEBUTTON&gt;"Où est le marchand clandestin ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Quoi encore ?!&lt;BR&gt;&lt;BR&gt;Je parie qu'&lt;font color='#0080FF'&gt;Elthienne&lt;/font&gt; sait quelque chose au sujet du marchand clandestin.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller vous renseigner auprès d'&lt;font color='#0080FF'&gt;Elthienne&lt;/font&gt; ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="3003">
+        <Page social="0" voiceTypeId="0">C'est bien vous &lt;PCNAME&gt;, non ? Que puis-je faire pour vous ? &lt;NEXTPAGEBUTTON&gt;"Savez-vous quelque chose au sujet du marchand clandestin ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le &lt;font color='#0080FF'&gt;marchand clandestin&lt;/font&gt; ?&lt;BR&gt;&lt;BR&gt;Ah, vous parlez sans doute du marchand masqué.&lt;BR&gt;&lt;BR&gt;Certes, ce ne sont pas les marchands qui manquent à Velika, mais il n'y a qu'un marchand clandestin qui vend des objets rares.&lt;BR&gt;&lt;BR&gt;On prétend qu'il se procure ses marchandises auprès des gobelins.&lt;NEXTPAGEBUTTON&gt;"Où puis-je le trouver ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hum... Si ma mémoire est bonne, il était dernièrement posté sur la route menant à la porte nord.&lt;BR&gt;&lt;BR&gt;Descendez l'escalier et longez votre droite.&lt;BR&gt;&lt;BR&gt;En revanche, il ne vend ses marchandises qu'à des horaires précis que je ne connais malheureusement pas.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="2950">
+        <Page social="0" voiceTypeId="0">Seriez-vous un client ? Vous m'en avez tout l'air !&lt;BR&gt;&lt;BR&gt;Malheureusement, ma boutique est déjà fermée.&lt;BR&gt;&lt;BR&gt;Mais je veux bien vous prêter l'oreille. Qu'est-ce qu'il vous faut ?&lt;NEXTPAGEBUTTON&gt;"Il me faut une aiguille spectrale."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;...&lt;BR&gt;Ce n'est pas un article très demandé.&lt;BR&gt;&lt;BR&gt;Je n'en ai donc plus aucune en stock.&lt;BR&gt;&lt;BR&gt;En revanche, je sais où vous pouvez vous en procurer une.&lt;NEXTPAGEBUTTON&gt;"Pourriez-vous me le dire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Cette information n'est pas gratuite !&lt;BR&gt;&lt;BR&gt;Après tout, les informations sont aussi une forme de marchandises.&lt;BR&gt;&lt;BR&gt;Versez-moi une somme adéquate et je vous indiquerai l'endroit où trouver des aiguilles spectrales sur une &lt;font color='#0080FF'&gt;carte&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Songez-y et donnez-moi ensuite la réponse.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0" voiceTypeId="0">Cette gemme vaut plus que cette simple information. Prenez donc cette &lt;font color='#0080FF'&gt;pièce d'or&lt;/font&gt; et nous serons quittes.&lt;BR&gt;&lt;BR&gt;Emportez cette pièce jusqu'à l'endroit indiqué sur la carte.&lt;BR&gt;&lt;BR&gt;Elle vous permettra d'acheter une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt; auprès du marchand.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0">Si vous voulez en savoir plus sur l'&lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;, vous devez payer rubis sur l'ongle.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="29" prevId="9" villagerId="6100">
+        <Page social="0" voiceTypeId="0">Krrik, un client ?&lt;NEXTPAGEBUTTON&gt;"Il me faut une aiguille spectrale."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;J'en ai en stock !&lt;BR&gt;&lt;BR&gt;En revanche, je ne la vends que contre une pièce de la Ligue des contrebandiers gobelins.&lt;NEXTPAGEBUTTON&gt;Vous lui montrez votre pièce de la Ligue des contrebandiers gobelins.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est bien la &lt;font color='#0080FF'&gt;pièce d'or&lt;/font&gt; en question.&lt;BR&gt;Faisons donc affaire.&lt;BR&gt;&lt;BR&gt;Vérifiez la marchandise.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="29" prevId="11" villagerId="6101">
+        <Page social="0" voiceTypeId="0">L'&lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt; ...&lt;BR&gt;&lt;BR&gt;Elle ne paye pas de mine mais elle est assez extraordinaire.&lt;BR&gt;&lt;BR&gt;Marché conclu, une aiguille spectrale, krrik !&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Le stock est épuisé ! J'ai tout vendu, krrik !&lt;BR&gt;&lt;BR&gt;J'opère dans tout Essenia.&lt;BR&gt;&lt;BR&gt;Je n'ai pas d'emplacement fixe.&lt;BR&gt;&lt;BR&gt;Au plaisir de vous revoir, krrik !</Page>
+    </Text>
+    <Text id="13" huntingZoneId="29" villagerId="6101">
+        <Page social="0">L'&lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;S'il vous la faut, alors achetez-la, krrik !</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Houla, &lt;PCNAME&gt; !&lt;BR&gt;Vous avez vraiment une &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt; sur vous ?&lt;BR&gt;&lt;BR&gt;Alors je vais enfin pouvoir terminer la sacoche !&lt;BR&gt;Quel bonheur ! Enfin ! Je peux enfin la terminer !&lt;NEXTPAGEBUTTON&gt;"Calmez-vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci !&lt;BR&gt;&lt;BR&gt;En remerciement, je vais vous donner la première sacoche !&lt;BR&gt;&lt;BR&gt;&lt;b&gt;&lt;font color='#660000'&gt;==================================&lt;BR&gt;Vous pouvez utiliser la sacoche.&lt;BR&gt;==================================&lt;/font&gt;&lt;/b&gt;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="1228">
+        <Page social="0">Sans &lt;font color='#0080FF'&gt;aiguille spectrale&lt;/font&gt;, je ne peux pas achever la sacoche !</Page>
+    </Text>
+</QuestDialog>

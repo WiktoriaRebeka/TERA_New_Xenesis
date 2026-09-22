@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">Les pires missions de reconnaissance sont toujours pour moi.&lt;BR&gt;&lt;BR&gt;Georrif m'a demandé d'inspecter ces frégates gelées, mais les {@LinkCreature:31#3#ossugons glaciaux} et les {@LinkCreature:31#7#cavaliers givre-morts} pullulent, là-bas&amp;nbsp;! C'est du suicide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous pourriez aller dégager le chemin, pour le bien de vos frères d'arme de la Fédération... enfin, pour moi, en l'occurrence...&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">Mais maintenant que la zone est dégagée, ça va un peu manquer de piment.&lt;BR&gt;&lt;BR&gt;Non mais qu'est-ce que je raconte, moi&amp;nbsp;? Merci beaucoup. Je vous dois la vie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

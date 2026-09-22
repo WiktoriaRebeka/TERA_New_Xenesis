@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">J'ai croisé plusieurs {@LinkCreature:22#18#aristocrates vampires} dans les couloirs. Ils n'étaient pas invités au festival et je me demande s'ils n'auraient pas joué un rôle dans ce désastre&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les vampires se sont révélés dangereux ces derniers temps. Ne prenez aucun risque&amp;nbsp;: éliminez-les tous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Les sorcières vadomas auront une grande dette envers vous quand tout ceci sera réglé.&lt;BR&gt;&lt;BR&gt;Traditionnellement, nous nous appuyons sur notre force collective et rechignons à faire appel à une aide extérieure.&lt;BR&gt;&lt;BR&gt;Mais quand elles retrouveront leurs esprits, elles devront affronter la réalité.</Page>
+    </Text>
+</QuestDialog>

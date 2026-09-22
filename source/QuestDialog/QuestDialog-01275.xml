@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1035">
+        <Page social="0">Chasse au dévoreur de fer</Page>
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1035">
+        <Page social="4">J'ai fait le déplacement jusqu'à Kanstria pour trouver de l'aide. Je dois me fabriquer une arme pour mon hushang... un rite initiatique. Malheureusement, les argons sont arrivés en même temps que moi.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'ai besoin d'éclats d'iteris. J'ai une idée originale en tête. La plupart des armes de hushang sont purement ornementales. La mienne se doit d'être différente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1035">
+        <Page social="5">Ouah&amp;nbsp;! Je peux sentir la puissance qui émane de cet éclat.&lt;BR&gt;&lt;BR&gt;Mon amie {@LinkCreature:76#1022} sait conférer aux armes les vertus des éclats d'iteris. Je vais faire appel à ses services.&lt;BR&gt;&lt;BR&gt;Merci beaucoup, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1035">
+        <Page social="0">Vous avez réussi à trouver des éclats&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

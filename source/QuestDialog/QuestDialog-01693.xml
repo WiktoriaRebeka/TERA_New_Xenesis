@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1607">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1607">
+        <Page social="0">Voici les matériaux dont vous aurez besoin pour fabriquer l'armure. Rapportez-moi les hauberts artisanaux quand vous aurez fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1607">
+        <Page social="0">Bien joué, &lt;PCNAME&gt;. Chaque pièce d'armure digne de ce nom qui nous est offerte nous rapproche de la victoire contre les argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1607">
+        <Page social="0">Vous avez le plan et les kits. Et si vous avez besoin de matériaux supplémentaires, n'hésitez pas à aller parler aux vendeurs d'artisanat.</Page>
+    </Text>
+</QuestDialog>

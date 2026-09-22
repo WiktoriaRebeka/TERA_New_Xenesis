@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Les argons se livraient à des recherches botaniques, dans le coin. Nous ne savons pas sur quoi ils travaillaient, mais une chose est sûre&amp;nbsp;: ces créatures étaient des mastodontes.&lt;BR&gt;&lt;BR&gt;Nous avons aussi trouvé ces sortes de bocaux. Rapportez-moi ce qu'ils contiennent, mais méfiez-vous des gros argons...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">Ces éléments confirment que les argons menaient des recherches botaniques.&lt;BR&gt;&lt;BR&gt;Si je parviens à reproduire leur méthodologie, nous pourrons peut-être déduire ce que les argons tentaient d'accomplir.&lt;BR&gt;Prochaine étape pour vous&amp;nbsp;: la Chambre Cœur-sort. Parlez à Beranie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1024">
+        <Page social="0">Les kulkaris argonomorphes vont essayer de vous arrêter. Bien sûr, ils sont bien plus dangereux que des kulkaris normaux, mais ne cédez pas&amp;nbsp;! Allez me chercher ces échantillons de plantes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1026">
+        <Page social="4">C'est {@Creature:246#1024$$Platanok} qui vous envoie&amp;nbsp;? Je suis surprise qu'il puisse se passer de certains soldats. Quoi qu'il en soit, votre aide me sera précieuse.</Page>
+    </Text>
+</QuestDialog>

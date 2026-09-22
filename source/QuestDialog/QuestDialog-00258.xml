@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Nous avons installé uneBase avancée dans les Profondeurs du Labyrinthe d'Azarel. Rétrospectivement, c'était une folie de penser que nous pourrions assurer la sécurité d'un camp installé aussi près des lignes ennemies. Dans leur dernier rapport, les hommes du camp nous ont prévenus que l'ennemi rassemblait ses forces dans le but d'attaquer.&lt;BR&gt;&lt;BR&gt;Le problème, c'est que le centurion de ce camp possède une copie de nos plans de bataille. Si ces documents tombent aux mains de l'ennemi, tout est fichu.&lt;BR&gt;&lt;BR&gt;Rassemblez un groupe de combattants aguerris, rendez-vous à la &lt;font color='#660000'&gt;base avancée&lt;/font&gt; des Profondeurs du Labyrinthe d'Azarel et détruisez ces plans.&lt;BR&gt;&lt;BR&gt;Il s'agit de faire vite, alors foncez voir {@LinkCreature:209#2000$$Tulutulu}. Il pourra vous envoyer dans les Profondeurs du Labyrinthe en un clin d'œil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="2000">
+        <Page social="4">Vous êtes {@gender:pressé/pressée}&amp;nbsp;? Moyennant une somme modique, je peux vous téléporter dans les Profondeurs du Labyrinthe d'Azarel.&lt;BR&gt;&lt;BR&gt;Je ne saurais trop vous recommander de faire appel à mes services. Il est dangereux de s'y rendre par ses propres moyens.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1026">
+        <Page social="0">(A en juger ses blessures, le centurion s'est retrouvé confronté à forte partie.)&lt;BR&gt;&lt;BR&gt;(En fouillant son cadavre, vous finissez par tomber sur une pochette en cuir contenant les plans de bataille.)&lt;BR&gt;&lt;BR&gt;(Un bruit vous fait sursauter, et dans l'urgence, vous fourrez le plan dans votre bouche et l'avalez, après l'avoir mastiqué à la hâte.)</Page>
+    </Text>
+</QuestDialog>

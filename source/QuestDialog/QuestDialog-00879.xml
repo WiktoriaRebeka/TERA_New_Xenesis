@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0">Voyez ça comme une mission miséricordieuse.&lt;BR&gt;&lt;BR&gt;Nous affrontons de nombreux ennemis ici, mais les {@LinkCreature:33#15#maîtres mekonaris} et les {@LinkCreature:33#67#inquisiteurs cœurs-de-charbon} sont les plus cruels... et les plus sadiques.&lt;BR&gt;&lt;BR&gt;Ils torturent les vivants aussi bien que les morts. Mettez un terme à cette barbarie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1006">
+        <Page social="0">Votre acte de bravoure fait honneur aux vivants comme aux morts, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

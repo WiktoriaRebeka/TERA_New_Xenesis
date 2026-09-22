@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0">Les pirates nagas ont volé mon journal de recherches. Il contient des informations relatives à nos défenses, nos effectifs, nos stocks... bref, nous devons les arrêter avant que mon journal leur permette de nous nuire sérieusement&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous me rendriez un grand service en allant traquer les {@LinkCreature:31#17#prédateurs nagas de la tempête} et les {@LinkCreature:31#16#ravageurs nagas de la tempête} pour récupérer mon journal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1011">
+        <Page social="4">Mille mercis. Je vais pouvoir terminer mon rapport. Pas la peine de rapporter au commandant Fraya cette petite... faute professionnelle, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Il faut reprendre ce journal aux nagas.</Page>
+    </Text>
+</QuestDialog>

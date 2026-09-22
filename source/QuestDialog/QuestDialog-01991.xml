@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="0">Jelkan était un Aman qui exploitait une forge. Il s'est lancé tête baissée dans son travail, comme s'il cherchait à oublier ce qui venait de se passer. Il prenait un air jovial, mais il donnait l'impression de vouloir fracasser son passé funeste à grands coups de marteau.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="4" voiceTypeId="0">Tout va mal depuis cet incident.&lt;BR&gt;La main-d'œuvre est le cadet de nos soucis, nous manquons de matériaux de toute sorte.&lt;BR&gt;&lt;BR&gt;Dans une telle situation, il faudrait que quelqu'un prenne la chose à bras-le-corps et s'occupe de récupérer des matériaux... et de les livrer !&lt;BR&gt;&lt;BR&gt;Ce serait l'idéal ! Vous n'êtes pas d'accord ?&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;BR&gt;Vous, là ! Le bruit s'est déjà répandu que vous vous mêlez volontiers des affaires d'autrui.&lt;BR&gt;&lt;BR&gt;Alors, que diriez-vous de récolter quelques carottes, pour changer ?&lt;BR&gt;En effet, avec le ventre vide, on n'est bon à rien.&lt;NEXTPAGEBUTTON&gt;"Et pourquoi m'en parler précisément à moi ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">Hahaha ! Vous vous en sortez bien. Quelle détermination !&lt;BR&gt;&lt;BR&gt;Très bien. Et pendant que vous y êtes, vous pouvez aussi aider d'autres amis.&lt;BR&gt;Des Hauts-elfes aussi beaux que distingués requièrent votre aide de toute urgence..&lt;BR&gt;&lt;BR&gt;Dépêchez-vous donc !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" villagerId="563">
+        <Page social="0">Le ravitaillement en nourriture est une priorité ! Vingt carottes ! Vous ne savez pas compter ou quoi ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="3" villagerId="565">
+        <Page social="4" voiceTypeId="0">Ah ! Ainsi, c'est vous, le bienfaiteur dont Jelkan a parlé.&lt;BR&gt;&lt;BR&gt;La roche que vous avez récupérée nous sera fort utile.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" villagerId="565">
+        <Page social="0">Il n'y à pas là de quoi s'occuper du moindre mur. Vingt morceaux de roche, c'est vraiment trop demander ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" prevId="5" villagerId="564">
+        <Page social="4" voiceTypeId="0">J'ai déjà entendu parler de vous, par le biais de Jihenn.&lt;BR&gt;Et en effet, vous savez y faire.&lt;BR&gt;&lt;BR&gt;Jelkan va vous donner votre récompense pour les objets.&lt;BR&gt;Vous avez vraiment fait du bon travail.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" villagerId="564">
+        <Page social="0">Je ne pensais pas que nous manquions à ce point de minerai de xermétal. Voici 20 pierres brutes.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="7" villagerId="563">
+        <Page social="0" voiceTypeId="0">Hé ! Ah, vous voilà !&lt;BR&gt;Des éloges sur votre travail m'arrivent de toute part.&lt;BR&gt;&lt;BR&gt;Ce n'était sans doute pas facile, mais ça en valait la peine.&lt;BR&gt;Tenez, c'est pour vous ! Je n'ai pas été chiche.&lt;BR&gt;&lt;BR&gt;Mais vous devriez l'ouvrir ailleurs. J'ai quand même un peu honte.&lt;BR&gt;Mais qu'importe. En espérant une collaboration aussi fructueuse la prochaine fois ! Haha !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="3006" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">Une veine scintillante parcourt cette pierre magique. Elle doit avoir un rapport avec les argons.&lt;BR&gt;&lt;BR&gt;C'est peut-être la clé d'une des portes.&lt;BR&gt;&lt;BR&gt;Celles-ci cachent sans doute un puissant gardien qu'il faut terrasser pour arriver jusqu'à Akasha.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(La pierre magique émet une lueur bleutée.)&lt;TEXTBUTTON&gt;Vous regardez la pierre magique de plus près.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous tendez la main vers la pierre magique.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

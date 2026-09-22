@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="4">Dulari est un bavard intarissable, n'est-ce pas&amp;nbsp;? Oubliez un peu ces histoires de "connaissance pure" et écoutez-moi.&lt;BR&gt;&lt;BR&gt;Chaque fois que vous sortez d'une zone sécurisée, vous êtes un cadavre en sursis. On vous a appris à vous concentrer sur les cibles individuelles, n'est-ce pas&amp;nbsp;? Vous devez apprendre à combattre simultanément autant d'adversaires que vous le pouvez.&lt;BR&gt;&lt;BR&gt;Vous voyez ces {@LinkCreature:13#1#porcidés}, &lt;font color='#660000'&gt;au sud&lt;/font&gt;&amp;nbsp;? Les affronter sera un bon entraînement pour ce qui vous attend plus loin. Je vais vous regarder combattre et je vous dirai quand vous serez en mesure de prendre la route.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1121">
+        <Page social="4">Joli massacre. Ne regrettez rien... ces porcs pullulent, dans le coin. Ils sortent de nulle part. Ils ne sont pas originaires de l'île, mais Dulari dit que quelque chose leur permet de proliférer.&lt;BR&gt;&lt;BR&gt;Tenez, prenez ceci. Ce n'est pas grand-chose, mais le coin est dangereux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1121">
+        <Page social="0">C'est une mission simple. Allez mettre en pratique ce que vous avez appris en combattant les {@LinkCreature:13#1#porcidés} et obtenez des &lt;font color='#660000'&gt;victoires franches&lt;/font&gt;. Nous sommes tous dans le même bateau, et je vais vous aider à vous améliorer.</Page>
+    </Text>
+</QuestDialog>

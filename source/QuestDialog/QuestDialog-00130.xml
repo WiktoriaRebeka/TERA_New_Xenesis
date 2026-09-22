@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1099">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1099">
+        <Page social="5">N'ayez pas peur. Batooni ne vous veut aucun mal. Je suis pacifique. Vous pouvez m'aider&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Au sud, se trouve un endroit nommé le Marais Tuwangi. Nous y vivions en paix avant que les rochemartels tuwangis ne nous montent contre les Humains.&lt;BR&gt;&lt;BR&gt;Je vais vous guider jusqu'aux Marécages. Nous y serons en deux temps trois mouvements et vous pourrez parler à {@LinkCreature:205#1017#Rathe}. Dites-lui que vous venez aider les tuwangis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1017">
+        <Page social="5">C'est un tuwangi sur un crapaud géant qui vous a {@gender:envoyé/envoyée}&amp;nbsp;? Oh, non... Pas encore...&lt;BR&gt;&lt;BR&gt;Pour lui, c'est peut-être une affaire d'état, mais il m'envoie dix pèlerins par semaine.&lt;BR&gt;&lt;BR&gt;Qui s'intéresse aux guerres tribales des tuwangis&amp;nbsp;? Ces espèces de batraciens se prennent pour le centre du monde, alors qu'ils sont à peine bons à jouer du tambour les pieds dans la boue.&lt;BR&gt;&lt;BR&gt;Enfin... Maintenant que vous êtes là, j'aimerais que vous me donniez un coup de main sur le camp. Ce sera toujours plus intéressant pour vous que de faire du tourisme dans le coin, parce qu'à part de la boue, il n'y a pas grand-chose à voir.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai découvert où se trouve la troisième pierre précieuse. &lt;BR&gt;Venez me voir à Hautegarde.&lt;br&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva vous a indiqué l'endroit où trouver la troisième pierre précieuse, celle de l'espérance.&lt;BR&gt;Vous êtes alors allé retrouver Ollivang sur l'Île de l'aube. &lt;BR&gt;&lt;BR&gt;Ollivang avait brisé la pierre précieuse en trois morceaux pour battre le briquet dans sa cuisine.&lt;BR&gt;&lt;BR&gt;Comme il ne comptait pas renoncer aussi facilement à son silex, il vous a proposé de l'approvisionner en ingrédients de cuisine en échange d'un fragment de la pierre précieuse.&lt;BR&gt;&lt;BR&gt;Vous lui avez apporté le noyau d'un golem de sang et il vous a remis le premier fragment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;pcname&gt;. Je vous attendais.&lt;br&gt;&lt;BR&gt;J'ai localisé la troisième pierre précieuse, celle de l'espérance.&lt;br&gt;&lt;BR&gt;C'est un des organisateurs de la fête qui l'a !&lt;NEXTPAGEBUTTON&gt;"Qui donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Notre cuisinier, &lt;font color='#FF0000'&gt;Ollivang&lt;/font&gt;. &lt;BR&gt;Il est en train de mitonner un nouveau menu spécialement pour la fête.&lt;br&gt;&lt;BR&gt;Je n'ai rien à redire concernant sa cuisine, mais c'est un drôle d'oiseau. Qui pourrait bien se porter volontaire pour faire la cuisine sur l'Île de l'aube ?&lt;br&gt;&lt;BR&gt;Enfin, passons. Si vous allez voir Ollivang, profitez-en pour voir si les plats sont bientôt prêts, d'accord ?&lt;BR&gt;&lt;BR&gt;Je vous remets son parchemin de retour personnel.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Que dites-vous ? Mirriva m'appelle ?&lt;BR&gt;Mais je n'ai pas fini de préparer le nouveau menu...&lt;BR&gt;&lt;br&gt;Comment ? La pierre précieuse rouge ? Elle est là, dans le four !&lt;br&gt;&lt;BR&gt;La pierre entière produisait trop de chaleur, je l'ai donc brisée pour obtenir &lt;font color='#FF0000'&gt;&lt;b&gt;trois fragments&lt;/b&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Un fragment suffit largement pour laisser mijoter mon plat principal !&lt;NEXTPAGEBUTTON&gt;"C'est la pierre précieuse de l'espérance..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">QUOI ? C'est une des pierres précieuses de la couronne d'éternité ?&lt;BR&gt;Nom d'un camembert ! Je ne savais pas qu'il s'agissait d'une pierre si précieuse !&lt;br&gt;&lt;BR&gt;Je dois tout de même reconnaître qu'elle rend de fiers services au meilleur de tous les cuisiniers, au lieu d'orner une couronne sans intérêt.&lt;BR&gt;&lt;BR&gt;Ne pensez-vous pas que je devrais la garder ?&lt;NEXTPAGEBUTTON&gt;"Non. Vous devez la rendre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Impossible !&lt;br&gt;&lt;BR&gt;Je ne peux tout de même pas servir de la tambouille à la déesse Velik ! &lt;br&gt;&lt;BR&gt;J'ai besoin de ces fragments pour préparer mon chef-d'œuvre, le meilleur plat de tous les temps !&lt;BR&gt;&lt;BR&gt;Il en va de ma réputation de chef cuisinier !&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire pour que vous me les rendiez ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Хм…&lt;br&gt;&lt;BR&gt;Жаль его отдавать, но раз он тебе так нужен, принеси мне что-нибудь, что меня порадует.&lt;BR&gt;&lt;BR&gt;Что-нибудь, из чего можно сделать очень вкусное блюдо...&lt;BR&gt;&lt;br&gt;Но за раз я готов отдать толко один фрагмент!&lt;br&gt;&lt;BR&gt;В общем, ядро {@linkcreature:13#7004#кровавого голема} мне подойдет.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Oh, joli !&lt;BR&gt;&lt;BR&gt;C'est un noyau bien frais !&lt;BR&gt;J'en ai l'eau à la bouche.&lt;BR&gt;&lt;BR&gt;Un instant.&lt;BR&gt;Je vais vite m'en servir pour concocter un mets délicieux.&lt;NEXTPAGEBUTTON&gt;"J'attends".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Et voilà le travail !&lt;BR&gt;&lt;BR&gt;C'est une &lt;font color='#FF0000'&gt;salade sanglante&lt;/font&gt; !&lt;BR&gt;&lt;BR&gt;Vous laisserez-vous tenter ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" villagerId="9005">
+        <Page social="0">Mes plats sont pensés pour des gourmets.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="5" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Ну что? Вкусно, да?&lt;BR&gt;&lt;BR&gt;На острове Зари стоит побывать хотя бы для того, чтобы попробовать ядро голема.&lt;BR&gt;&lt;BR&gt;Я рад, что тебе понравилось! &lt;NEXTPAGEBUTTON&gt;"Немного сладковато."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah oui ? Il va falloir que j'améliore encore la recette.&lt;BR&gt;&lt;BR&gt;Merci pour votre aide, en tout cas.&lt;BR&gt;&lt;BR&gt;Tenez, voici le fragment de pierre précieuse.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="13" prevId="7" villagerId="9005">
+        <Page social="0" voiceTypeId="0">C'est la couronne d'éternité ?&lt;br&gt;Elle ne brille vraiment plus comme avant.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que je dois vous apporter maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je réfléchis à ce que je vais préparer ensuite.&lt;BR&gt;Vous allez devoir attendre un peu.&lt;br&gt;&lt;BR&gt;Mais ça en vaut la peine, car mes plats vous revigorent !</Page>
+    </Text>
+</QuestDialog>

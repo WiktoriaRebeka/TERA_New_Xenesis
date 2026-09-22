@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">J'ai une mission à vous confier.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:13#301194#grandes crêtes becailloux} volent l'équipement de recherche et perturbent les prises de mesures effectuées à la lisière nord-est de la base.&lt;BR&gt;&lt;BR&gt;Allez voir si vous pouvez récupérer certains de nos &lt;b&gt;outils de recherche&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Quand vous en aurez un bon nombre, rapportez-les à Jairus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1042">
+        <Page social="4">Quelle agréable surprise&amp;nbsp;! Ça fait un moment que je me promène en me demandant comment terminer mes recherches sur cette espèce d'arbre magnifique. Chaque fois que je mets mes instruments en place, les becailloux débarquent et me les volent. J'ignore pourquoi...&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, merci de votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1042">
+        <Page social="0">Adria a dit qu'elle avait envoyé quelqu'un chercher mes instruments. C'est vous&amp;nbsp;? Je vous pose la question, parce que vous n'avez pas l'air d'avoir récupéré ce que les {@LinkCreature:13#301194#grandes crêtes becailloux} m'avaient volé.&lt;BR&gt;&lt;BR&gt;Si vous avez l'occasion d'aller leur mettre quelques coups sur le coin du bec, j'aimerais bien récupérer mon matériel...</Page>
+    </Text>
+</QuestDialog>

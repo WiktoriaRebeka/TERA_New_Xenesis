@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Fraya était persuadée que Kaidun, qui avait été capturé par Thulsa, était toujours en vie. C'est pourquoi elle vous a demandé de voler à son secours. Elle vous a remis un pendentif qui devait briller tant que Kaidun serait en vie. Vous avez réussi à vous infiltrer dans la Citadelle du tourment, où vous avez mis la main sur le Grimoire du Martyre. Grâce à ce dernier, vous avez découvert l'emplacement d'un centre de recherche secret appartenant à Thulsa, dans les profondeurs de la Citadelle du tourment.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Un soldat doit savoir laisser les autres prendre en charge les responsabilités qu'il ne peut endosser en personne.&lt;BR&gt;&lt;BR&gt;Mon devoir m'ordonne de rester ici, mais mon cœur est avec Kaidun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">J'aimerais aussi partir immédiatement à la recherche de Kaidun. Mais il se trouve que je suis la commandante d'Allemantheia. Puisque Serion a disparu, il est préférable que je reste à Allemantheia. On ne sait jamais.&lt;BR&gt;&lt;BR&gt;Vous êtes la première personne à qui je montre cette gemme. Mais je sais que je peux vous faire confiance. C'est vraiment étrange... Nous nous connaissons pourtant à peine.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pourriez-vous retrouver Kaidun et le sauver, pour moi ?&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Un grand merci.&lt;BR&gt;&lt;BR&gt;…&lt;BR&gt;&lt;BR&gt;Vous souvenez-vous de {@linkcreature:73#1110#Harule}, l'agente du Mysterium venue d'Acarum ? Cette fois encore, elle va vous aider. Merci de bien veiller sur Kaidun.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Je vous attendais, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je me suis récemment entretenue avec Ghufran, qui est venu en secret à Acarum, et ai obtenu des informations supplémentaires. L'armée de Kaidun est tombée dans un piège, dans la Citadelle du tourment.&lt;BR&gt;&lt;BR&gt;Il paraît que Thulsa y a jadis effectué des expériences sur des morts-vivants. En explorant cet endroit, nous découvrirons peut-être où se trouve Kaidun.&lt;BR&gt;&lt;BR&gt;Allez trouver {@linkcreature:73#1009#Georrif}, le capitaine de la garnison d'Acarum. Il connaît bien l'affaire et pourra vous aider.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1009">
+        <Page social="5" voiceTypeId="0">Entendu. Nous devons demander de l'aide aux forces spéciales de la Citadelle du tourment. En revanche, ils sont actuellement accaparés par les morts-vivants. Nous ne pourrons donc sans doute pas trop leur en demander.&lt;BR&gt;&lt;BR&gt;Commencez par aller à l'est d'Acarum pour retrouver {@linkcreature:232#1029#Maianwe}. Elle vous dira comment rejoindre la Citadelle du tourment.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="232" prevId="5" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Vous souhaitez rejoindre la Citadelle du tourment ? Êtes-vous une nouvelle recrue du commando spécial ? Hein ? Une mission individuelle extraordinaire ? Vous devez être plus capable que vous n'en avez l'air !&lt;BR&gt;&lt;BR&gt;La Citadelle du tourment est une gigantesque forteresse antique. Traversez le pont, longez la route et elle se dressera bientôt devant vous. La magie de Thulsa y est encore tellement puissante que l'endroit pullule de morts-vivants et de monstres étranges.&lt;BR&gt;&lt;BR&gt;La préfète chargée des forces spéciales est {@linkcreature:233#1001#Alssiyah}. Allez donc la voir avant de commencer votre mission.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="233" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">J'ai entendu parler de la requête de Georrif. Elle concerne Kaidun, le héros Aman. Nous ferons notre possible.&lt;BR&gt;&lt;BR&gt;Dans la Citadelle du tourment, nous avons aperçu plusieurs soldats qui semblaient faire partie de l'armée de Kaidun. En revanche, nous ne savons malheureusement pas où se trouve Kaidun. L'agent du Mysterium {@linkcreature:233#1003#Meygren} s'occupe de l'enquête. Écoutez donc ce qu'il a à vous dire.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="233" prevId="7" villagerId="1003">
+        <Page social="5" voiceTypeId="0">Nous n'avons encore obtenu aucune information concrète sur l'emplacement de Kaidun. Puisque la magie de Thulsa sévit dans toute la forteresse, nous ne pouvons pas vraiment nous servir de magie pour notre recherche.&lt;BR&gt;&lt;BR&gt;En revanche, les éclaireurs ont signalé des bouffons maudits au quatrième niveau. Ces énergumènes obéissent aux ordres de Thulsa. Ils ont peut-être quelques informations pour nous.&lt;BR&gt;&lt;BR&gt;Éliminez donc les bouffons maudits et obtenez des informations. Faites vite, je vous prie !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="233" prevId="8" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Le... Grimoire du martyre ? Je vais l'étudier sur-le-champ. &lt;BR&gt;&lt;BR&gt;(Meygren feuillette le livre et prend un air grave.)&lt;BR&gt;&lt;BR&gt;Hum ... Le Grimoire du martyre affirme que le laboratoire secret de Thulsa est situé sous la Citadelle du tourment. Apparemment, il s'appelle Tombe des nécromanciens.&lt;NEXTPAGEBUTTON&gt;"Un laboratoire secret souterrain ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si Kaidun est encore en vie, c'est certainement là qu'il est emprisonné ! La Tombe des nécromanciens doit se nicher quelque part dans les profondeurs.&lt;BR&gt;&lt;BR&gt;Un chercheur du Mysterium nommé {@linkcreature:233#1008#Lastair} se trouve au deuxième sous-sol du Repaire sanglant, dans la Citadelle du tourment. Allez lui parler et demandez-lui où se trouve la Tombe des nécromanciens. Vous devez à tout prix libérer Kaidun !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="233" villagerId="1003">
+        <Page social="0">Avez-vous obtenu quoi que ce soit des bouffons&amp;nbsp;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="233" prevId="9" villagerId="1008">
+        <Page social="5" voiceTypeId="0">Un tombeau des nécromanciens au sous-sol&amp;nbsp;? Impossible... je l'aurais découvert.&lt;BR&gt;&lt;BR&gt;A moins qu'il ne se trouve de l'autre côté du bouclier. Il y a un endroit dans les Profondeurs sanglantes, rendu inaccessible par une barrière magique. Je n'ai pas encore entrepris de la traverser... j'avais trop à faire.&lt;BR&gt;&lt;BR&gt;Mais il n'existe pas de bouclier invulnérable. Chaque serrure a sa clé.</Page>
+    </Text>
+</QuestDialog>

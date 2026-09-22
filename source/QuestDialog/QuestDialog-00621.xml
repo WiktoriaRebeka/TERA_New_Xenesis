@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="5">Les Sorcières vadomas sont les meilleures instructrices au monde pour tout ce qui concerne la magie, mais elles n'ont plus toute leur tête.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#31#Serena}, notre gouvernante, est devenue brutale et s'attaque à tout le monde.&lt;BR&gt;&lt;BR&gt;Je n'ai pas assez de pouvoir pour l'affronter, alors je compte sur vous pour l'arrêter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="5">La perte de Serena nous affecte toutes, mais au moins elle ne nous détruira pas.&lt;BR&gt;&lt;BR&gt;Et si nous reprenons le contrôle de l'académie, nous pourrons peut-être la ressusciter.&lt;BR&gt;&lt;BR&gt;Dans le cas contraire, j'aurai une belle promotion.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">Elle connaît tous mes tours, &lt;PCNAME&gt;. C'est elle qui me les a enseignés, après tout.&lt;BR&gt;&lt;BR&gt;Il n'y a que vous qui êtes de taille à affronter {@LinkCreature:22#31#Serena}.</Page>
+    </Text>
+</QuestDialog>

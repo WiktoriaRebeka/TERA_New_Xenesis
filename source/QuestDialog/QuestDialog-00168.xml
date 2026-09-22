@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Nous ne sommes plus ravitaillés. Qui dit privation de nourriture dit épuisement. Qui dit épuisement dit impossibilité de lutter contre les fouaille-tripes qui viennent nous piquer notre bouffe... un cercle vicieux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si seulement vous pouviez nous rapporter un peu de viande... Dites, vous iriez nous chasser quelques {@LinkCreature:6#1021#noruks marteleurs}, avant qu'on crève tous de faim&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">Merci. Ça va être une expérience culinaire atypique.&lt;BR&gt;&lt;BR&gt;D'ordinaire, on ne mange pas les noruks, mais à circonstances exceptionnelles, mesures exceptionnelles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1005">
+        <Page social="0">Vous nous avez trouvé cette viande&amp;nbsp;? Je sais, pour en venir à manger du noruk, il ne faut pas être très regardant, mais là, les hommes boufferaient n'importe quoi.</Page>
+    </Text>
+</QuestDialog>

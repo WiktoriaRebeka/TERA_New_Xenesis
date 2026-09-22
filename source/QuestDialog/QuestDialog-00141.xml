@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">C'est triste... désunis comme ils le sont, les tuwangis sont incapables de faire face aux vrais problèmes, comme ces {@LinkCreature:5#13#dents-de-sabre noirs} qui nous rendent l'existence impossible&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Accepteriez-vous de vous en occuper&amp;nbsp;? Les guerres des tuwangis font suffisamment de victimes sans y ajouter celles des dents-de-sabre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">Merci beaucoup, &lt;PCNAME&gt;. Enfin quelqu'un en qui je peux avoir confiance.</Page>
+    </Text>
+</QuestDialog>

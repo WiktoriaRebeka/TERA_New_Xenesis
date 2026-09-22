@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">J'aimerais pouvoir récompenser ces travailleurs en leur offrant une petite douceur, mais nous sommes tous à l'eau et au pain sec.&lt;BR&gt;&lt;BR&gt;Je sais qu'Halwyn est partie explorer les épaves. Vous pourriez aller lui demander si elle y a trouvé quoi que ce soit qui nous permette d'améliorer un peu l'ordinaire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">Oui, par chance&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Enfin... disons que nous sommes tombés sur une jolie réserve de vin. Mais les morts-vivants nous ont attaqués avant que nous n'ayons le temps d'embarquer le tout.&lt;BR&gt;&lt;BR&gt;Ecoutez, je suis tout sauf lâche, mais je refuse de me faire tuer par ces gulas morts-vivants pour quelques litres de vin... et je me moque bien qu'il soit rond en bouche... gouleyant, et...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous pourriez aller récupérer ce vin, pas vrai&amp;nbsp;? Pour Dyfed et ses volontaires, je veux dire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1036">
+        <Page social="4">(Le tonneau et les bouteilles sont vides. Une inscription dit&amp;nbsp;: "une ration par officier". Vous trouverez peut-être des bouteilles pleines sur les officiers gulas noyés...)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1010">
+        <Page social="4">Génial, je vais me... je veux dire... je vais faire parvenir ça au plus vite à Dyfed. Ca devrait être une bonne surprise pour tous les volontaires qui travaillent avec lui.&lt;BR&gt;&lt;BR&gt;Tenez, pour vous remercier de vos efforts.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1010">
+        <Page social="0">Ne vous inquiétez pas. Vous ne devriez pas avoir de mal à chaparder ce vin aux marins gulas.</Page>
+    </Text>
+</QuestDialog>

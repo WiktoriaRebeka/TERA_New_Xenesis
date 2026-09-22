@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Vous aussi, vous venez pour me demander de donner sa chance à Khasib&amp;nbsp;? Parce que je commence à en avoir marre.&lt;BR&gt;&lt;BR&gt;Nous devrions plutôt parler des mesures à prendre concernant les forces de renseignement rebelles. Ces hommes sont à court de provisions, d'effectifs, et nous les avons privés de leur commandant.&lt;BR&gt;&lt;BR&gt;C'est le moment idéal pour frapper un grand coup.&lt;NEXTPAGEBUTTON&gt;"Quel est votre plan&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Les éléments les plus importants des forces de renseignement sont les {@LinkCreature:32#13#arcanistes sihrans} et leurs {@LinkCreature:32#14#grenouilleurs tuwangis}. Le simple fait de les éliminer sauvera nombre de nos soldats, mais vous pourriez trouver sur eux des documents qui nous seraient également des plus utiles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Formidable&amp;nbsp;! Si Khasib tient tellement à m'impressionner, il n'a qu'à faire quelque chose d'utile et de courageux&amp;nbsp;! Un peu dans ce genre-là&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne suis pas non plus en train de dire que c'est un sale type. C'est juste... que j'ai d'autres préoccupations, pour le moment.&lt;BR&gt;&lt;BR&gt;Bah&amp;nbsp;! Assez parlé de Khasib. Voici votre récompense.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Je ne vous ai pas dit que les {@LinkCreature:32#14#grenouilleurs tuwangis} se trouvaient à la Veillée insensible&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

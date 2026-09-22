@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="0">Il y a une bonne décennie de cela, la Fédération Valkyon a découvert Tiaran, l'Arbre du chagrin, sur l'Île Marchepierre. Elle a monté une expédition pour étudier ses indéniables propriétés magiques. &lt;PCNAME&gt; est arrivé{@g:/e} sur cette île encore enfant et y a grandi, prêtant main-forte où nécessaire.&lt;BR&gt;En ce jour où les chercheurs de la Fédération s'apprêtent à réaliser leur expérience la plus ambitieuse, tout le monde doit mettre la main et la pâte et &lt;PCNAME&gt; a été chargé{@g:/e} de récolter de l'écorce de l'Arbre du chagrin pour Glennock.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; !&lt;BR&gt;Tiaran abrite bien des secrets que nous n'avons pas encore percés. &lt;BR&gt;&lt;BR&gt;Venez donc me trouver sur l'Écheveau. &lt;BR&gt;Pourriez-vous m'aider à récolter des écorces de racines ? &lt;BR&gt;Quelques corvées de tous les jours, ça ne vous fait pas peur, si ?&lt;BR&gt;&lt;BR&gt;En tant que gardien de Tiaran, il est de mon devoir d'analyser régulièrement les racines pour contrôler comment l'arbre se porte.&lt;BR&gt;&lt;BR&gt;Glennock</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="2" villagerId="121">
+        <Page social="4" voiceTypeId="0">Regardez-moi ça, &lt;PCNAME&gt; !&lt;BR&gt;Vous n'avez plus d'yeux que pour Tiaran, n'est-ce pas ?&lt;BR&gt;Il est vraiment difficile d'en détourner son regard, mais n'oubliez pas que nous sommes ici pour ses racines.&lt;BR&gt;Prenez toujours garde à ne pas endommager ses racines quand vous ramassez leur écorce.&lt;BR&gt;Mais en faisant ça tous les jours, vous finirez bien par avoir le coup de main.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="121">
+        <Page social="4" voiceTypeId="0">Oh, vous revoilà déjà ?&lt;BR&gt;Cette fois encore, vous avez su vous y prendre !&lt;BR&gt;C'est parfait.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

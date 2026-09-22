@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="4">Regardez-moi bien et profitez de la vue. Vous vous tenez devant la personne la plus influente de la région.&lt;BR&gt;&lt;BR&gt;Enfin... je le deviendrai aussitôt que mes marchandises seront arrivées. Ce maudit chariot a trois jours de retard&amp;nbsp;! Et évidemment, si je pars me mettre à sa recherche, il arrivera ici aussitôt que j'aurai le dos tourné. C'est toujours pareil.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller voir où ça en est&amp;nbsp;? Je vous paierai, n'ayez crainte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1029">
+        <Page social="0">(Ce chariot est détruit. Des fournitures de toutes sortes jonchent le sol. Tout ce qui pouvait avoir de la valeur a disparu.&lt;BR&gt;&lt;BR&gt;Le convoi a dû se faire attaquer par les {@LinkCreature:18#3#enragés}. Ils doivent être en possession des fournitures manquantes.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1028">
+        <Page social="4">Oh non&amp;nbsp;! Une telle fortune engloutie dans les sables...&lt;BR&gt;&lt;BR&gt;Enfin... merci pour ce que vous avez pu me rapporter.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1028">
+        <Page social="0">Gardez ces {@LinkCreature:18#2#chamanes} et ces {@LinkCreature:18#3#enragés} du désert de feu à l'œil&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

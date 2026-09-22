@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1003">
+        <Page social="5">Ce camp a pris une importance stratégique majeure depuis l'arrivée de ces mastodontes de {@LinkCreature:15#15#fimbrilisks} dans les ruines situées au nord d'ici.&lt;BR&gt;&lt;BR&gt;S'ils parviennent à traverser nos lignes, Pora Elinu courra un grave danger.&lt;BR&gt;&lt;BR&gt;Nous devons mettre un terme à cette menace. Pourriez-vous rassembler un groupe et vous occuper de ça, &lt;PCNAME&gt;&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1003">
+        <Page social="5">Quelle bravoure&amp;nbsp;! Protégée par des recrues de votre trempe, la Fédération ne craint rien. Veuillez accepter cette modeste récompense.</Page>
+    </Text>
+</QuestDialog>

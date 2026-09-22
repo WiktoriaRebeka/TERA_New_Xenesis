@@ -1,0 +1,45 @@
+---
+description: TERA New Xenesis FR to LATAM Spanish localization
+alwaysApply: true
+---
+
+# TERA New Xenesis (FR source, Spanish-only pack, EN proper names)
+
+Audience: Latin American Spanish, tú (never vosotros). Never coger. Endurance = resistencia (never aguante). HP/MP stay English (never PV/PM).
+
+## Paths (read-only except the pack)
+
+- FRA source dump, do not edit: `C:\Users\wikto\Desktop\TERA_DATABASE_FRA\outputfrances\output\DataCenter_Final_EUR`
+- EN locklist, do not edit: `C:\Users\wikto\Desktop\TERA BAZA DANYCH\Output\Output\DataCenter_Final_EUR`
+- Pack (translated folders only): `C:\Users\wikto\Desktop\TERA_DATABASE_FRA_TRANSLATION`
+- Old EN→ES archive, do not delete; later remap by ID: `C:\Users\wikto\Desktop\TERA_DATABASE_TRANSLATION`
+
+Git `source/` is a copy of the FRA sheets. Match QuestDialog and VillagerDialog by `(id, huntingZoneId)`, never by filename (FRA `01407` is not EN `01407`).
+
+## Gemini
+
+Writes Spanish only. No `[EN]`, `[ES]`, `English/Spanish`, FRA/ES pairs, or Transcription credit. One Gemini sheet job at a time. Do not push unless asked.
+
+## Stays English (copy from the EN dump by ID)
+
+Whole sheets: `StrSheet_Region`, `StrSheet_ZoneName`.
+Attributes: `StrSheet_Creature` `name=`, Item `string=`, UserSkill `name=`.
+`StrSheet_Dungeon-00000` instance names stay English. Banners in the other Dungeon sheets are translated.
+
+Classes: Warrior, Lancer, Slayer, Berserker, Sorcerer, Archer, Priest, Mystic, Reaper, Gunner, Brawler, Ninja, Valkyrie.
+Races: Human, Castanic, Aman, Popori, Baraka, High Elf, Elin.
+Terms: HP, MP, Feedstock, Battle Solution, Prime Battle Solution, Spellbind, Alkahest, Noctenium, Everful Nostrum, Etching, Crystal, Emerald, Diamond, Talent, Focus, Rage, Runemarks, Bravery Potion.
+Character and place names stay the EN dump spelling (Velika, Elleon, Dougal).
+
+## Translated (Spanish only)
+
+UI, NPC menu, F-buttons, parchment, journal, Passivity, dungeon banners, tutorial, item/skill tooltips, SystemMessage, quest Accept/Decline.
+
+Do not ship `StrSheet_Abnormality`.
+
+## Encoding
+
+- Shop comma `StrSheet_UI` `$005006` is `,`
+- Hash in UI and on F-buttons is a color code. Never numeric `&#` on F-buttons.
+- Item and Quest HTML: `&amp;#NNN;`
+- UI labels: Unicode, no numeric `&#`

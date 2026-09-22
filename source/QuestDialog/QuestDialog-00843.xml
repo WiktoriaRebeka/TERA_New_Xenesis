@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Les mercenaires obscurs ont reçu un supplément de ravitaillement, hier.&lt;BR&gt;&lt;BR&gt;Nous ignorons qui les ravitaille, mais s'il est en mesure de le faire aussi régulièrement, ça va finir par nous jouer des tours.&lt;BR&gt;&lt;BR&gt;Ça vous tente, une petite opération de pillage, &lt;PCNAME&gt;&amp;nbsp;? Rendez-vous au camp de mercenaire du bassin, au nord, et volez leurs provisions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Merci&amp;nbsp;! Ca devrait nous permettre de nous en sortir un moment.&lt;BR&gt;&lt;BR&gt;Khasib a demandé de vos nouvelles, en votre absence. A côté de ça, je crois qu'il commence à comprendre ce que j'entends par "pas mon genre"...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Les provisions sont censées se trouver au campement de mercenaires du bassin, au nord d'ici. Vous les avez récupérées&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

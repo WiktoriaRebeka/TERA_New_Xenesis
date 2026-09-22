@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">Les chercheurs de la {@Rgn:46016} n'arrêtent pas de faire des mauvaises rencontres qui ralentissent leur travail.&lt;BR&gt;&lt;BR&gt;Nous sommes actuellement à la recherches des points faibles des argons, mais nos érudits sont des hommes de science, pas des combattants. Ils ne sont pas entrainés pour ça.&lt;BR&gt;&lt;BR&gt;Rendez-vous là-bas et parlez à Ashinne. Elle vous dira quoi faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">L'Invalesco accepte toute forme d'aide.&lt;BR&gt;&lt;BR&gt;En ce moment, nous avons surtout besoin de matériaux pour nos recherches. Par exemple, des échantillons de {@linkcreature:46#301#sikandaris argonomorphes}, de {@linkcreature:46#303#pestesangs argonomorphes}, ou encore de {@linkcreature:46#304#jalmaraks argonomorphes}.&lt;BR&gt;&lt;BR&gt;Nos besoins varient au jour le jour. C'est juste un coup à prendre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">Oh, regardez&amp;nbsp;! Des plumes contaminées de {@LinkCreature:46#301#sikandaris argonomorphes}. De fort belle facture, en plus.&lt;BR&gt;&lt;BR&gt;Ces spécimens seront d'une aide précieuse à l'érudit que je suis&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Nous cherchons à en savoir plus sur les {@LinkCreature:46#301#sikandaris argonomorphes} qu'on trouve dans les {@Rgn:46008}.&lt;BR&gt;&lt;BR&gt;Nous aimerions étudié leurs plumes.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="3003">
+        <Page social="4">Quelle puanteur&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous ne devrions pas nous plaindre puisque c'est nous qui avons voulu ces cœurs, mais bon...&lt;BR&gt;&lt;BR&gt;Ah, tous ces sacrifices que nous faisons au nom de la science.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Nous voulons étudier les cœurs de {@LinkCreature:46#303#pestesangs argonomorphes}. En examinant une créature aussi répugnante, nous sommes certains de trouver quelque chose d'étonnant.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="3003">
+        <Page social="4">Ca alors...&lt;BR&gt;&lt;BR&gt;Leurs foci semblent actifs, mais différemment de ce qu'on trouve habituellement à Sylvanoth, par exemple.&lt;BR&gt;&lt;BR&gt;Nous allons regarder ça de plus près. Merci.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" villagerId="3003">
+        <Page social="0">Il y a un groupe de {@LinkCreature:46#304#jalmaraks argonomorphes} dans les {@Rgn:46007}.&lt;BR&gt;&lt;BR&gt;Trouver dans quelles proportions leur héritage génétique féérique a su résister à la transformation nous intéresse au plus haut point. Pouvez-vous nous rapporter leurs foci, s'il vous plaît&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

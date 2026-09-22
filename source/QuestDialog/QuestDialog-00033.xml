@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Je crois que nous avons un peu vu les choses en grand pour notre barbecue, &lt;PCNAME&gt;. Il reste pas mal de viande, et si nous ne la salons pas, elle sera bonne à jeter.&lt;NEXTPAGEBUTTON&gt;"La saler&amp;nbsp;? Pour le goût&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Non, pour éviter qu'elle ne pourrisse. Bien entendu, rien n'est meilleur que la viande fraîche, quand elle vient d'être grillée. Elle est tendre, fondante, on a du jus plein les doigts, et...&lt;BR&gt;&lt;BR&gt;... Euh, où en étais-je&amp;nbsp;? Ah oui&amp;nbsp;! Préserver la viande... Verus a tout le matériel nécessaire pour ça. Vous pouvez lui apporter nos restes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1004">
+        <Page social="4">Un problème d'excédent de nourriture&amp;nbsp;? Un problème plutôt agréable, je trouve. Enfin bon, je peux vous montrer comment procéder.&lt;BR&gt;&lt;BR&gt;Voici un tonneau vide et du sel. Au boulot&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quand vous aurez salé la viande, allez la remettre à &lt;b&gt;Einna&lt;/b&gt;. Elle fait partie des dirigeants des réfugiés. Elle s'occupera de la distribution.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1043">
+        <Page social="4">Après nous avoir rapporté de quoi préparer un festin, voilà que vous nous mettez à l'abri de la famine sur le long terme. On dirait que nous avons bien fait de venir nous réfugier à Boquillon, en définitive.&lt;BR&gt;&lt;BR&gt;Au nom de tout mon peuple, je vous remercie, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1043">
+        <Page social="0">Vous avez trouvé le moyen de saler notre excédent de viande&amp;nbsp;! Merci, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

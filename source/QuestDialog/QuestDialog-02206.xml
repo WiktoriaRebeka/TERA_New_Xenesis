@@ -1,0 +1,44 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="618" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Missive]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Kaia vous recherche de toute urgence. Venez immédiatement au quartier général de Kaiator.&lt;BR&gt;&lt;BR&gt;La nouvelle des argons ayant surgi à Exodor l'a mise dans une colère noire.&lt;BR&gt;&lt;BR&gt;Tamur, commandant de Kaiator</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Quand la déesse Kaia a eu vent de la situation à Exodor et a ressenti la puissance de Balder dans les objets de l'Arkarp et des argons, elle a pris peur.&lt;BR&gt;&lt;BR&gt;Elle a compris que la source de cette puissance était un soleil artificiel et a conçu une méthode permettant d'extraire cette puissance pour fabriquer des armes redoutables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="1" villagerId="1088">
+        <Page social="4" voiceTypeId="0">Merci d'avoir accouru aussi vite, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Entrez donc. Le commandant vous attend déjà.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;J'ai déjà eu vent de vos exploits à Exodor.&lt;BR&gt;Le malheur survenu à Élion me navre profondément...&lt;BR&gt;&lt;BR&gt;Je sais aussi que les argons sont encore une fois responsables de tout cela.&lt;BR&gt;&lt;BR&gt;Kaia en est absolument furieuse.&lt;BR&gt;Vous pouvez maintenant aller vous entretenir en personne avec elle, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5032">
+        <Page social="4" voiceTypeId="0">Les argons sont de retour !&lt;BR&gt;Pourquoi ne pas m'en avoir informé sur-le-champ, &lt;PCNAME&gt; ?!&lt;BR&gt;&lt;BR&gt;J'étais convaincue que nous les avions bannis d'ici une bonne fois pour toutes... et voilà qu'ils transforment Kelsaik en argon pour nous empoisonner l'existence ! C'est très fâcheux !&lt;BR&gt;&lt;BR&gt;Mettre la main sur l'équipement et le noyau des argons apparus à Exodor nous permettrait peut-être d'en apprendre davantage sur leur puissance.&lt;BR&gt;&lt;BR&gt;Nous devons nous en remettre à vous pour écarter ce danger, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Apportez-moi le noyau et l'arme des argons d'Exodor.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">Vous m'avez apporté l'arme et le noyau. Du beau travail, &lt;PCNAME&gt;.&lt;BR&gt;L'analyse de la source de leur puissance ne devrait pas prendre trop de temps. Patientez un instant.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Incroyable ! C'est bien ce que je craignais...&lt;NEXTPAGEBUTTON&gt;"Qu'y a-t-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">L'arme et le noyau sont tous deux infusés de la puissance de Balder.&lt;BR&gt;&lt;BR&gt;Vous avez mentionné l'Arkarp ? Il est indiscutable qu'ils puisent leur force dans le soleil que Balder a créé.&lt;BR&gt;&lt;BR&gt;Apparemment, ils ont utilisé cette force pour ressusciter les argons.&lt;BR&gt;&lt;BR&gt;Cependant, nous pouvons aussi tirer profit de la puissance qu'ils ont confiée aux argons.&lt;BR&gt;&lt;BR&gt;Pour cela, nous avons besoin d'une enclume bien spéciale.&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver cette enclume ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Elle n'existe pas encore.&lt;BR&gt;&lt;BR&gt;Mais Fovarth, le forgeron du destin, peut en fabriquer une.&lt;BR&gt;&lt;BR&gt;Je vais vous dire ce dont vous avez besoin. Allez ensuite trouver Fovarth, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">Nous devons en apprendre plus sur leur puissance.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="411" prevId="6" villagerId="5017">
+        <Page social="4" voiceTypeId="0">Kaia vous a demandé de préparer la fabrication d'une nouvelle enclume ?&lt;BR&gt;&lt;BR&gt;Ha ha ha !&lt;BR&gt;&lt;BR&gt;Je savais bien que ce jour finirait par arriver ! La puissante Kaia m'a enfin chargé de la production !&lt;BR&gt;&lt;BR&gt;Je vais fabriquer l'enclume... quoi qu'il m'en coûte !&lt;BR&gt;&lt;BR&gt;Hum, il me faut toutefois des matériaux... &lt;NEXTPAGEBUTTON&gt;"Que vous faut-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hum... Je pense que Kaia devrait savoir ce qui manque.&lt;BR&gt;&lt;BR&gt;Je vais me préparer à recevoir Kaia.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="411" prevId="8" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Les préparatifs sont terminés, Fovarth ?&lt;BR&gt;&lt;BR&gt;Si j'étais encore aussi puissante que jadis, j'aurais fabriqué moi-même l'enclume, mais c'est malheureusement exclu pour le moment. Je dois donc m'en remettre à vous !&lt;BR&gt;&lt;BR&gt;Cette enclume requiert deux matériaux spéciaux.&lt;BR&gt;&lt;BR&gt;Je possède l'un d'entre eux et vous allez devoir nous procurer l'autre, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"De quoi s'agit-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Avez-vous déjà entendu parler du feu de Sikander, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Le feu de Sikander a beau être éteint, la moindre étincelle de ce feu, aussi minuscule soit-elle, devrait suffire à fabriquer l'enclume.&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver une telle étincelle ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La réponse se trouve auprès de Kelsaik, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Si l'Arkarp s'est bel et bien allié aux argons pour ressusciter Kelsaik, alors Kelsaik possède sans doute une telle étincelle.&lt;BR&gt;&lt;BR&gt;Dérobez-lui cette étincelle.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">Je ne pensais pas revoir ce feu un jour...&lt;BR&gt;&lt;BR&gt;Si nous ne les arrêtons pas maintenant, ils vont devenir toujours plus dangereux.&lt;BR&gt;Nous devons y remédier !&lt;BR&gt;&lt;BR&gt;Avec cette étincelle et ma puissance, je vais pouvoir aviver une flamme intense.&lt;BR&gt;&lt;BR&gt;Fovarth, préparez-vous bien : cette flamme vous permettra de forger l'enclume.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">Une simple étincelle suffit à fabriquer une nouvelle enclume, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="411" prevId="10" villagerId="5017">
+        <Page social="4" voiceTypeId="0">L'enclume a été forgée dans la flamme engendrée par la force de Kaia !&lt;BR&gt;&lt;BR&gt;Cette enclume permet désormais de fabriquer de nouveaux équipements habités par la force de Kaia.&lt;BR&gt;&lt;BR&gt;Vérifiez si vous avez les matériaux nécessaires pour fabriquer les équipements.</Page>
+    </Text>
+</QuestDialog>

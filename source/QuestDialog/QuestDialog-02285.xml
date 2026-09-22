@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="999" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="9999">
+        <Page social="0">[Demande de rapport]&lt;BR&gt;&lt;BR&gt;Cette mission top-secrète est strictement réservée au personnel autorisé.&lt;BR&gt;&lt;BR&gt;Si elle vous a été confiée, il faut y voir une erreur du système d'attribution des missions. Vous avez maintenant ordre de présenter sans délai votre rapport via SCT (Système de combat tactique).&lt;BR&gt;&lt;BR&gt;- Consul Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">C'est un plaisir d'avoir de vos nouvelles, &lt;PCNAME&gt;&amp;nbsp;! C'est grâce aux vétérans endurcis dans votre genre que le monde n'a pas encore sombré dans le chaos.&lt;BR&gt;&lt;BR&gt;J'espère que vous continuerez de combattre pour la bonne cause, au nom de la paix et de la Fédération Valkyon.</Page>
+    </Text>
+</QuestDialog>

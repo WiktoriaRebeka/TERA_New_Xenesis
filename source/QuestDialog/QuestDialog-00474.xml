@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="5">Autrefois, les vampires buvaient du sang de cochon. Pourquoi ont-ils fini par s'en lasser&amp;nbsp;? Nous étions trop appétissants pour eux&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous allons devoir découvrir combien des leurs ont cédé à leurs plus bas instincts. Croyez-le ou pas, mais jusqu'ici, les vampires se sont toujours montrés amicaux avec nous.&lt;BR&gt;&lt;BR&gt;Je vais devoir vous demander d'aller prélever les cœurs des {@LinkCreature:16#2201#hommes de main} et des {@LinkCreature:16#2202#rétiaires} vampires. Je pourrai ainsi déterminer de quoi ils se sont alimentés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1020">
+        <Page social="5">Vous avez récupéré ces cœurs sur des vampires&amp;nbsp;? C'est bien certain&amp;nbsp;? Mais... ils sont complètement desséchés. Ces cœurs n'ont pas vu une goutte de sang depuis un moment. C'est pour le moins curieux.&lt;BR&gt;&lt;BR&gt;Comment peuvent-ils survivre sans s'alimenter en sang&amp;nbsp;? Et s'ils ne l'ont pas bu, qu'ont-ils bien pu faire de celui de Jadan&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1020">
+        <Page social="0">Je ne peux pas comprendre ce qui se passe sans étudier leurs cœurs. Ils ont été beaucoup trop loin.</Page>
+    </Text>
+</QuestDialog>

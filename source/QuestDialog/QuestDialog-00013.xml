@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">Comment ça, "quoi de neuf"&amp;nbsp;? Eh, toujours la moitié de dix-huit&amp;nbsp;! Elle est bonne, pas vrai, &lt;PCCLASS:lcase&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'adore les blagues&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Tout le monde adore les blagues&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Exactement&amp;nbsp;! Encore faut-il qu'elles soient bonnes, et qu'on n'en soit pas la victime... La vérité, c'est qu'on m'a joué un sale tour...&lt;BR&gt;&lt;BR&gt;Une bande de fées a volé ma poudre féérique, et pas moyen de la récupérer.&lt;BR&gt;&lt;BR&gt;Vous pourriez la leur reprendre&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="4">Génial&amp;nbsp;! Ma poudre féérique&amp;nbsp;! Vous l'avez reprise aux fées&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Regardez un peu&amp;nbsp;! Je brille&amp;nbsp;! Je rayonne&amp;nbsp;! Impressionnant, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allons, ne faites pas cette tête, &lt;PCNAME&gt;. Bon, c'est vrai, ce n'était peut-être pas à proprement parler "ma" poudre féerique.&lt;BR&gt;&lt;BR&gt;Mais regardez-moi&amp;nbsp;! Ça valait le coup non&amp;nbsp;? Je brille de mille feux&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1021">
+        <Page social="0">Ces fées ont volé ma poudre féerique. Vous ne me croyez pas&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="4">Les Atel Akaad se tiennent étonnamment calmes. Ils ont bien laissé une arrière-garde, mais je m'attendais à des affrontements plus violents. Ils sont en train de mijoter quelque chose.&lt;BR&gt;&lt;BR&gt;Le seul moyen de nous faire une idée de leurs projets consiste à mettre la main sur les rapports des {@LinkCreature:25#2031#maîtres de la mort devans} qu'ils ont laissés derrière eux. Je compte sur vous pour trouver un moyen de les "récupérer".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">Ce sont les rapports des éclaireurs&amp;nbsp;? Hmm... voyons ça. Par la malédiction de Lok&amp;nbsp;! Le calme dont je parlais, c'est celui qui précède les tempêtes. Ils s'apprêtent à lancer une offensive majeure. Nous avons besoin de renforts&amp;nbsp;! C'est beaucoup trop pour une personne. Allez parler à Rendalf, peut-être qu'il pourra allumer un feu.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Bougez-vous&amp;nbsp;! Nous avons besoin de plus de rapports d'éclaireurs&amp;nbsp;! Nous aurons besoin de toutes ces informations.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1027">
+        <Page social="10">JE SUIS ICI, Culetta&amp;nbsp;! Pas la peine de m'envoyer des messagers et des demandes officielles. Hmpff... je suis à cinq mètres de vous.&lt;BR&gt;&lt;BR&gt;Que peut-il y avoir de si important pour que... Comment&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les chefs de guerre ossugons sont en train de rassembler ce qui reste des forces des cultistes pour attaquer ce fortin&amp;nbsp;?! Nous ne pouvons nous permettre de le perdre. J'appelle immédiatement des renforts.&lt;BR&gt;&lt;BR&gt;Merci de votre aide, &lt;PCNAME&gt;. Dites, si vous n'avez rien d'autre à faire...</Page>
+    </Text>
+</QuestDialog>

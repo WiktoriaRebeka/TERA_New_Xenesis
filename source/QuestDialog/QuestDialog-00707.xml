@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">Les Fanatiques de Lok et leurs {@LinkCreature:25#1031#chevaliers de l'effroi} sont en position de force sur le chemin menant à la cathédrale, et ils nous empêchent d'y faire parvenir des renforts. Sans ces créatures pour me barrer la route, j'aurais pu rejoindre Elion. Vous pourriez aller vous en occuper&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">Déjà&amp;nbsp;? Fantastique&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

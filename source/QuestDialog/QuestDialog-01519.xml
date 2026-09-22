@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Ah, oui, je m'en souviens&amp;nbsp;: "L'élégance bariolée des tuwangis, l'odeur de vase en moins." Pour ces chapeaux, vous allez devoir me rapporter un bon nombre de peaux de sang, des fibres de toira en quantité, ainsi qu'un fruit parfaitement rond.&lt;BR&gt;&lt;BR&gt;Malheureusement, ce fruit a été cueilli jusqu'à son extinction, vous n'en trouverez nulle part&amp;nbsp;! Pas la peine de chercher.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mais j'en ai un.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Parfait&amp;nbsp;! Depuis combien de temps les tenez-vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Peu importe. Tout ce que j'ai vraiment besoin de savoir, c'est de quelle couleur vous voulez votre chapeau&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Euh..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Ce fruit parfaitement rond n'existe tout simplement pas. Je ne pense même pas que vous puissiez l'obtenir aux enchères.&lt;BR&gt;&lt;BR&gt;Si vous n'avez pas déjà ce fruit, ne perdez pas votre temps à dégoter les autres matériaux.</Page>
+    </Text>
+</QuestDialog>

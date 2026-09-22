@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Les pirates nagas attaquent régulièrement la garnison. Ils ont beau savoir que nous tenons les lieux et que nous sommes armés, ils finissent toujours par revenir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Une bonne frappe punitive devrait leur donner une leçon qu'ils retiendront. Eliminez quelques {@LinkCreature:31#20#mortifères nagas} et emparez-vous de leurs casques. Nous les utiliserons pour décorer le portail. On verra si ça rafraîchit leurs ardeurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Quand je pense à la tête que feront ces nagas en voyant ces casques, ça me fait chaud au cœur. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">Alors, où en êtes-vous avec cette histoire de casques de {@LinkCreature:31#20#mortifères nagas }&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

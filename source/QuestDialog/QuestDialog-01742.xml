@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="0">Après le naufrage de l'Intrépide, l'initiative de l'avant-garde est tombée sur les Khiriens.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="4">On ne peut pas s'éterniser ici. Nous avons un devoir envers nos soldats et la fédération Valkyon.&lt;NEXTPAGEBUTTON&gt;"Vos ordres, chef&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'ai envoyé un éclaireur. Rattrapez-le et aidez-le dans sa tâche de reconnaissance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1019">
+        <Page social="4">J'ai vu l'épave, mais on ne peut l'atteindre d'ici. &lt;BR&gt;&lt;BR&gt;Je suis censé envoyer une fusée de détresse, mais ça ne marche pas. Vous ne voulez pas essayer&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1019">
+        <Page social="4">Et voici le signal de réponse. Nous devons persévérer.&lt;BR&gt;&lt;BR&gt;Je ne sais pas ce qu'il en est des blessés, mais je ne peux pas affronter ces mandrills. Peut-être que vous pouvez nous frayer un chemin&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1005">
+        <Page social="4">Votre tenue et votre armement ne me disent rien. Qui êtes-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je suis de très loin dans le sud."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ça ne peut pas être possible. Les nuages obscurs nous emprisonnent ici. Si ce que vous dites est vrai, alors Rhodos doit en être informé.&lt;BR&gt;&lt;BR&gt;Traversez le pont pour aller dans notre camp. Demandez à voir Rhodos et donnez-lui ce parchemin. Je me porte garant de vous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">Qu'est-ce que c'est&amp;nbsp;? Bagi prétend que vous venez du sud. Est-ce vrai&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est la vérité."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pourquoi êtes-vous là&amp;nbsp;? Comment êtes-vous tombé{@g:/e} sur mon camp&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Notre vaisseau s'est écrasé dans la jungle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous êtes sans doute habile, mais je n'arrive pas à dire si vous mentez. Mais je connais quelqu'un qui le pourra.&lt;BR&gt;&lt;BR&gt;De l'autre côté du chemin de notre camp, vous verrez une cabane avec des cornes. Madat pourra juger de la véracité de vos propos.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1007">
+        <Page social="4">Ah, l'aérotombeur.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que vous venez de dire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ne prenez pas cet air surpris. J'ai vu votre gros poisson ballonné tomber du ciel. Vous devez venir d'au-delà de nos frontières.&lt;BR&gt;&lt;BR&gt;Peut-être que le moment d'agir est enfin venu.&lt;BR&gt;&lt;BR&gt;Je crois que votre arrivée est un signe précurseur à la victoire des Khiriens sur les Archidevans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Hatishna&amp;nbsp;! Voilà ce que vous devez dire à Rhodos&amp;nbsp;: "Hatishna&amp;nbsp;!"</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1006">
+        <Page social="4">Qu'a dit Madat&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3027" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Lettre]&lt;BR&gt;&lt;BR&gt;Même au beau milieu de nulle part, les récits de vos faits d'armes me parviennent, &lt;PCNAME&gt;.&lt;BR&gt;Je vous écris cette lettre pour vous prier d'étudier un loup mystérieux qui sème la terreur chez les dragons.&lt;BR&gt;&lt;BR&gt;Il est bien trop silencieux et rapide pour que j'arrive à le poursuivre moi-même. Merci de trouver ce loup.&lt;BR&gt;&lt;BR&gt;Berdash du Guet de la vouivre</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">À la demande de Berdash, vous avez rejoint le Repaire du tonnerre. Vous y avez retrouvé Halrath et avez découvert l'Arène du courroux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="1" villagerId="3000">
+        <Page social="4" voiceTypeId="0">Merci bien d'être venu, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il y a quelques jours, j'étais occupé à observer les Alkus. Et voilà qu'un loup a subitement surgi.&lt;BR&gt;Dès qu'ils ont aperçu le loup, les Alkus se sont immédiatement retirés.&lt;NEXTPAGEBUTTON&gt;"C'était peut-être une coïncidence ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est ce que j'aurais pensé si un seul Alkus s'était comporté ainsi.&lt;BR&gt;&lt;BR&gt;Mais j'ai bien vu que tous les Alkus se sont comportés de la même manière à l'approche du loup.&lt;BR&gt;&lt;BR&gt;Ce loup semblait venu d'un autre monde.&lt;BR&gt;&lt;BR&gt;Merci d'aller découvrir de quoi il en retourne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="2000">
+        <Page social="4" voiceTypeId="0">Ça faisait une paye, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Voilà un bon moment que Bahaar a été enfermé.&lt;NEXTPAGEBUTTON&gt;"Que faites-vous ici ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Toujours cette insatiable curiosité, hein, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Je suis ici car j'ai perçu une puissante énergie démoniaque.&lt;BR&gt;Elle n'est pas sans rappeler celle de Killian et je n'ai donc pas eu d'autre choix que d'accourir.&lt;BR&gt;&lt;BR&gt;C'est sans doute dû à l'explosion de la source de puissance d'Exodor qui a éveillé les créatures d'Arborea longtemps tapies dans l'ombre.&lt;NEXTPAGEBUTTON&gt;"D'où provient cette énergie démoniaque ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lok a créé un cercle de bannissement qui m'empêche de m'approcher de la source.&lt;BR&gt;&lt;BR&gt;Ce n'est pas un hasard si l'on vous a envoyé ici, &lt;PCNAME&gt;.&lt;BR&gt;Je vais vous aider à franchir le cercle de bannissement.&lt;BR&gt;&lt;BR&gt;Invoquez-moi ensuite là-bas pour me permettre d'accéder à la source.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Merci bien, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Les dieux ne peuvent pas franchir le cercle de bannissement de Lok.&lt;BR&gt;J'aimerais bien me rendre moi-même auprès de la source d'énergie démoniaque, mais ça m'est impossible.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&lt;PCNAME&gt;, vous devez découvrir d'où provient l'énergie démoniaque.&lt;BR&gt;&lt;BR&gt;Lok a scellé ce portail dimensionnel magique pour tenir les dieux comme moi à distance.&lt;BR&gt;&lt;BR&gt;Pourriez-vous l'emprunter et apprendre en quoi consiste la source de l'énergie ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Un combattant immortel...&lt;BR&gt;&lt;BR&gt;Apparemment, Killian s'est distrait ici devant des combats sanguinaires.&lt;BR&gt;Lok a sans doute scellé cet endroit pour arrêter le Combattant immortel créé par la malédiction de Killian.&lt;BR&gt;&lt;BR&gt;Mais voilà que l'explosion d'Exodor a fait ressortir ce lieu de l'ombre.&lt;NEXTPAGEBUTTON&gt;"Et maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si Lok était ici, il pourrait entièrement sceller cet endroit...&lt;BR&gt;&lt;BR&gt;Mais pour l'heure, nous devons nous assurer que personne n'en entende parler.&lt;BR&gt;&lt;BR&gt;Retournez donc voir Berdash et indiquez-lui que vous n'avez rien trouvé.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="238" prevId="6" villagerId="3000">
+        <Page social="4" voiceTypeId="0">S'il vous a échappé... c'est qu'il est plus puissant que je ne le pensais.&lt;BR&gt;&lt;BR&gt;Faites-moi signe si vous souhaitez en savoir plus sur le loup.</Page>
+    </Text>
+</QuestDialog>

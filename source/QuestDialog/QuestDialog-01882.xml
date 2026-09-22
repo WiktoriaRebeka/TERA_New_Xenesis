@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3004" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3004" prevId="0" villagerId="1012">
+        <Page social="4" voiceTypeId="0">(Vous fouillez le cadavre en décomposition d'un préfet de la Fédération et vous trouvez une lettre dans sa poche intérieure.)&lt;BR&gt;&lt;BR&gt;(La lettre est adressée à Vandrea.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="4" voiceTypeId="0">(Quand vous sortez la lettre que vous avez trouvée sur la dépouille d'Hemington, Vandrea éclate en sanglots.)&lt;BR&gt;&lt;BR&gt;Merci beaucoup. Merci mille fois ! Ce sont les dernières volontés de mon mari... En les lisant, j'avais l'impression qu'il était à côté de moi. Merci du fond du cœur.</Page>
+    </Text>
+</QuestDialog>

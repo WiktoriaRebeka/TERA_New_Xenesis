@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Ils m'ont tout pris... tout. Avant de partir, je les ai vus fouiller dans mes marchandises et s'emparer de coiffes. J'aimerais que vous alliez les reprendre aux {@LinkCreature:5#3#ouvriers tuwangis} qui me les ont volées.&lt;BR&gt;&lt;BR&gt;Vous pensez pouvoir les récupérer, tout en cherchant le sac en lui-même&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">Oh, formidable&amp;nbsp;! Ces coiffes valent leur pesant d'or... Sans votre aide, j'aurais dû me serrer la ceinture pendant un bon moment.&lt;BR&gt;&lt;BR&gt;Je vous remercie infiniment&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">S'il vous plaît, allez récupérer mes coiffes. C'est ma principale source de revenus. Si je ne les récupère pas, je suis condamné à mourir de faim.</Page>
+    </Text>
+</QuestDialog>

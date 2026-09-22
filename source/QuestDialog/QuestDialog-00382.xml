@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0">Adria et Teil vous ont remercié de votre aide, avant de vous expliquer qu'on avait besoin de vous ailleurs.&lt;BR&gt;&lt;BR&gt;Ils vous ont orienté vers le maître de vol. Au terme d'un voyage ébouriffant à dos de pégase, vous êtes {@gender:arrivé/arrivée} à Velika, où le légat Troius est venu vous souhaiter la bienvenue en personne&amp;nbsp;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">On entend partout parler de ce que vous avez fait pour nous, &lt;PCNAME&gt;. On dirait même que vous avez attiré l'attention d'un personnage influent.&lt;BR&gt;&lt;BR&gt;Présentez-vous au &lt;b&gt;Conseiller Teil&lt;/b&gt;, il a hâte de s'entretenir avec vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1009">
+        <Page social="4">Au nom de la Fédération Valkyon, je tiens à vous remercier pour l'engagement dont vous avez fait preuve. Adria, Sersine et Lian parlent de vous dans les termes les plus élogieux.&lt;BR&gt;&lt;BR&gt;Cependant, la Fédération doit lutter sur tous les fronts, et maintenant que nous sommes débarrassés de Karascha, nous allons pouvoir nous en sortir seuls. Il est temps pour vous de rentrer à Velika&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"A vos ordres&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@linkcreature:213#1001#Taleb} va vous aider à organiser votre retour à Arun.&lt;BR&gt;&lt;BR&gt;Il se trouve juste de l'autre côté de ce pavillon.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1001">
+        <Page social="4">Je vous attendais, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Nous avons modifié vos ordres pour que vous restiez en service commandé. Cela devrait vous permettre de chercher Elion sans rencontrer trop d'obstacle. Mais il est tout de même de votre devoir d'exécuter tous les ordres qui vous sont assignés.&lt;BR&gt;&lt;BR&gt;Et pour finir sur une note plus personnelle, j'espère que vous profiterez bien du vol à dos de Pégase qui vous mène à Velika. Il y a des panoramas tout simplement splendides aux alentours de cette ville.&lt;BR&gt;&lt;BR&gt;Leiyane, la responsable des vols va s'occuper de vous mettre en selle.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1016">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;. Le voyage par pégase est réservé pour les longs trajets... pour vous rendre à Velika et sur le continent, par exemple.&lt;BR&gt;&lt;BR&gt;Cliquez sur le bouton le bouton de points de vol et sélectionnez votre destination. C'est aussi simple que ça !&lt;BR&gt;&lt;BR&gt;Pour votre premier voyage, vous pouvez sélectionner Velika.&lt;BR&gt;&lt;BR&gt;Oh, et veillez à désactiver tous vos appareils magiques tant que vous n'aurez pas atteint votre altitude de croisière.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1107">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Je vous attendais. &lt;BR&gt;Je m'appelle Troius. Permettez-moi d'être le premier à vous souhaiter la bienvenue à Velika, la cité de la gloire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je dois admettre que je n'ai jamais vu d'ordres semblables aux vôtres jusqu'à présent. Mais ils sont tous fichés et archivés. Même le commandant Seir était impressionné et il m'a envoyé ici, pour que je vous accueille dès votre arrivée.</Page>
+    </Text>
+</QuestDialog>

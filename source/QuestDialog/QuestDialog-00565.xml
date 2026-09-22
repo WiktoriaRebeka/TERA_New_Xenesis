@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1137">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, s'il est vrai que les autres recrues ne vous arrivent pas à la cheville, vous ne devriez pas prendre la grosse tête pour autant. &lt;BR&gt;&lt;BR&gt;Nous avons découvert que les descendants de Lok disposent, dans les Mines ténébreuses, d'une Base de ravitaillement bien plus vaste que la Base secrète des Bois de l'oubli. Nous devons détruire la Base de ravitaillement et éliminer leur chef.&lt;BR&gt;&lt;BR&gt;Je vais envoyer Lupus, le préfet de l'unité spéciale, dans les Mines ténébreuses. Il va vous épauler. &lt;BR&gt;&lt;BR&gt;Commencez par aller trouver Jakarian, à Chebika, et donnez-lui notre aval pour l'attaque de la Base de ravitaillement dans les Mines ténébreuses.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tandis que les indices abondaient pour suggérer la présence d'une immense Base de ravitaillement des descendants de Lok dans les Mines ténébreuses, vous avez reçu une requête spéciale de Samael vous demandant d'examiner les mines avec l'unité spéciale.&lt;BR&gt;&lt;BR&gt;Mais les recherches n'ont fourni aucun résultat tangible et vous avez donc présumé qu'ils s'agissaient de fausses informations délibérément répandues pour vous induire en erreur.&lt;BR&gt;&lt;BR&gt;Mais les préfets de l'unité spéciale n'ont prêté aucune importance à vos objections et se sont mutuellement félicités pour le travail accompli.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="1" villagerId="1009">
+        <Page social="12" voiceTypeId="0">Comment ? Que nous attaquions la Base de ravitaillement des Mines ténébreuses ?&lt;BR&gt;&lt;BR&gt;Hahaha ! Samael a-t-il perdu la tête ?&lt;BR&gt;Il prétend que l'endroit abrite une Base de ravitaillement ?&lt;BR&gt;Cela me semble résolument impossible. Les lieux sont bien trop humides pour permettre d'y entreposer des armes ou d'autres objets du genre.&lt;BR&gt;&lt;BR&gt;Même les descendants de Lok ne sont pas aussi insensés. &lt;BR&gt;Vous n'y trouverez rien. En revanche, l'ordre vient d'en haut. Je ne peux donc pas m'y opposer. Misère ! &lt;BR&gt;&lt;BR&gt;Lupus, le préfet des unités spéciales, est déjà en route pour la base des Mines ténébreuses. N'hésitez pas à la suivre.&lt;BR&gt;Au fait, vous faites partie de l'unité spéciale ?&lt;NEXTPAGEBUTTON&gt;"Non."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hum, il en est donc ainsi. Mais nous rencontrons encore et toujours de nouveaux problèmes. &lt;BR&gt;&lt;BR&gt;Nous avons demandé des renforts à plusieurs reprises pour contenir les morts-vivants mais nos demandes ont toutes été rejetées. &lt;BR&gt;&lt;BR&gt;Pourriez-vous prêter main-forte à mes camarades dans les Mines ténébreuses, tant que vous y êtes ? &lt;BR&gt;&lt;BR&gt;Un soldat de l'unité spéciale vous attend devant la sortie sud. &lt;BR&gt;&lt;BR&gt;Il vous expliquera la suite des évènements.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" prevId="3" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Content de vous voir, &lt;PCCLASS&gt;. Les justicars auraient bien besoin de soutien dans les Mines ténébreuses. Remontez à flanc de colline et allez parler à Lupus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Vous avez pris votre temps. Personne ne vous a expliqué l'urgence de votre mission ? Ces soldats ordinaires...&lt;BR&gt;&lt;BR&gt;Nous n'avons pas le temps d'entrer dans les détails. &lt;BR&gt;&lt;BR&gt;Éliminez les {@linkcreature:20#30012000#esclaves zombies} qui collaborent avec les descendants de Lok, récupérez leurs journaux et ramenez-les à Ruanal.&lt;BR&gt;&lt;BR&gt;Il est certes regrettable que l'unité spéciale doive s'en remettre aux soldats ordinaires, mais les gens qui travaillent ici depuis longtemps sauront sans doute mieux interpréter le contenu des journaux que nous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="220" prevId="5" villagerId="1028">
+        <Page social="12" voiceTypeId="0">Ça va durer encore longtemps ?&lt;BR&gt;&lt;BR&gt;Oh ! Vous ne faites même pas partie de l'unité spéciale ?&lt;BR&gt;L'unité spéciale a demandé des renforts et s'est cachée ici.&lt;BR&gt;Si je n'avais pas reçu cet ordre, il y a bien longtemps que j'aurais disparu.&lt;BR&gt;&lt;BR&gt;Vous avez les journaux sur vous ?&lt;BR&gt;Mais pourquoi l'unité spéciale fait-elle autant d'histoires ?&lt;BR&gt;Non, non, ceux-là ! Ils contiennent des informations de première importance !&lt;NEXTPAGEBUTTON&gt;"J'ai quelques doutes sur la question..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12" voiceTypeId="0">Qu'est-ce que vous racontez ?&lt;BR&gt;Ils contiennent des informations sur les armes qu'ils ont cachées pour conquérir la mine. Même si le comportement de l'unité spéciale me contrarie, l'importance de ces informations ne fait aucun doute.&lt;BR&gt;&lt;BR&gt;Ce sont précisément les informations que l'unité spéciale voulait récupérer.&lt;BR&gt;&lt;BR&gt;Un membre de l'unité spécial est stationné dans les tunnels de la Station du reliquaire, située au deuxième sous-sol. Merci de dire à Talfryn qu'il doit trouver une arme au deuxième sous-sol.&lt;BR&gt;&lt;BR&gt;On a tôt fait de s'égarer, par ici. Je ferais donc mieux de vous donner un parchemin spécial. &lt;BR&gt;&lt;BR&gt;En utilisant ce parchemin, &lt;font color='#0080FF'&gt;vous pourrez directement aller trouver Talfryn au deuxième sous-sol.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Talfryn, Station du Reliquaire, Halls des Ombres... Et au trot&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="220" prevId="6" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Une arme cachée ? Dans le Halls des ombres...&lt;BR&gt;&lt;BR&gt;Vous allez devoir vous y rendre, et sur-le-champ ! Trouvez cette arme ou ces armes, ou quoi que ce soit d'autre qu'ils pourraient y cacher.&lt;BR&gt;&lt;BR&gt;Rapportez vos découvertes à Jesper, à l'Avant-poste des ténèbres situé au troisième niveau.&lt;BR&gt;&lt;BR&gt;Vous avez tout intérêt à utiliser un parchemin de téléportation pour aller le voir sans vous faire remarquer.&lt;BR&gt;Et n'oubliez pas : l'arme que vous devez lui rapporter est extrêmement dangereuse.&lt;BR&gt;C'est bien compris ? Alors au boulot, soldat !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="220" prevId="8" villagerId="1037">
+        <Page social="0" voiceTypeId="0">(Il y a un vieux marteau dans cette caisse d'armes spéciales.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="220" prevId="8" villagerId="1038">
+        <Page social="0" voiceTypeId="0">(Dans cette caisse d'armes spéciales, vous trouvez une paire de ciseaux rouillés.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="220" prevId="9" villagerId="1039">
+        <Page social="4" voiceTypeId="0">C'est l'arme redoutable des descendants de Lok. Je n'aurais jamais pensé que les rumeurs avaient un fond de vérité. J'en suis tout ébloui !&lt;BR&gt;&lt;BR&gt;Quelle puissance prodigieuse ! Cette arme ne paye pas de mine et elle est pourtant dévastatrice ! L'unité spéciale en est bien consciente ! Votre aide nous a été précieuse !&lt;NEXTPAGEBUTTON&gt;"La Base de ravitaillement se trouve donc ailleurs."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="8" voiceTypeId="0">Comment ?&lt;BR&gt;C'est impossible !&lt;BR&gt;Regardez-moi ces armes !&lt;BR&gt;Elles sont trompeuses !</Page>
+    </Text>
+    <Text id="12" huntingZoneId="220" villagerId="1039">
+        <Page social="0">Vous avez trouvé les armes&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Vous voulez un chapeau de pirate sur mesure&amp;nbsp;? Sérieusement&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Écoutez, si vous n'avez un morceau de cuir infusé de cyasma dans un coffre fort, je ne peux rien faire pour vous.&lt;NEXTPAGEBUTTON&gt;"Comme de fait, c'est le cas&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Bien, bien. Vous en aviez en réserve&amp;nbsp;? Enfin, ça ne me regarde pas.&lt;BR&gt;&lt;BR&gt;Je m'y mets alors, de quelle couleur vous le voulez&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Voyons..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Laissez-moi deviner, vous avez tout trouvé sauf le cuir infusé de cyasma. &lt;BR&gt;&lt;BR&gt;Vous voulez un bon conseil&amp;nbsp;? Si vous ne l'avez toujours pas trouvé, laissez tomber, vous ne le trouverez jamais.</Page>
+    </Text>
+</QuestDialog>

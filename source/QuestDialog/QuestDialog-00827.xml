@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="4">Ce froid extrême n'est décidément pas un phénomène naturel. Nous devons être sous l'influence d'un puissant sort de glace.&lt;BR&gt;&lt;BR&gt;Les éclaireurs de la Fédération ont récemment repéré un esprit aussi blanc que la neige à la {@Rgn:31005$$Crique de Glacecroc}.&lt;BR&gt;&lt;BR&gt;Je pense qu'il pourrait s'agir de {@LinkCreature:31#28$$Siarxis}, la légendaire reine du givre.&lt;BR&gt;&lt;BR&gt;Si nous l'éliminons, cela brisera peut-être le sort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">Alors la reine de givre {@LinkCreature:31#28$$Siarxis} existait vraiment&amp;nbsp;! J'insiste, existait.&lt;BR&gt;&lt;BR&gt;Suite à sa disparition, la glace devrait fondre petit à petit.&lt;BR&gt;&lt;BR&gt;Nous avons une dette envers vous, &lt;PCNAME&gt;. Merci&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="5">Il me faut une bonne excuse pour mon retard.&lt;BR&gt;&lt;BR&gt;Les fouaille-tripes gardien de crypte encerclent l'entrée de la Crypte maudite. Pourriez-vous les éliminer. &lt;BR&gt;&lt;BR&gt;Ils ont surgi un beau jour, sans raison. Si vous m'aidez, je pourrai prétendre que mon retard est dû aux fouaille-tripes.&lt;BR&gt;&lt;BR&gt;Vous accepteriez de faire ça pour moi ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="6">Eh bien, &lt;PCNAME&gt;, on dirait que vous m'avez épargné un long discours de Galla sur les vertus de la ponctualité.&lt;BR&gt;&lt;BR&gt;Ce qu'elle peut être enquiquinante, par moments.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">Il va falloir faire mieux que ça pour impressionner Galla.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="0">Vous avez vaincu le {@creature:425#8005$$gardien de la relique} dans le {@Rgn:9025001$$Temple de Balder} et avez trouvé le miroir de Balder. {@creature:71#1114$$Rida}, de Pora Élinu, s'en est provisoirement emparée.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="1" voiceTypeId="0">Ne me regardez pas comme ça !&lt;BR&gt;&lt;BR&gt;Moi aussi, je trouve ça bizarre d'être ici.&lt;BR&gt;&lt;BR&gt;Je n'avais pas prévu d'atterrir également ici. Mais quand j'ai repris mes esprits, je me trouvais dans le Temple de Balder. Seren ou un autre dieu semble être à la manœuvre.&lt;BR&gt;&lt;BR&gt;J'en ai profité pour jeter un œil au dépositaire de Langsyne. Le {@linkcreature:425#8005$$gardien de la relique} surveille la relique de Balder. Au plus profond du bâtiment, apparemment.&lt;BR&gt;&lt;BR&gt;Vous devez d'abord vaincre le {@linkcreature:425#8005$$gardien de la relique} pour pouvoir obtenir le miroir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10008">
+        <Page social="1" voiceTypeId="0">Nos destins prophétisés nous ont réunis ici.&lt;BR&gt;&lt;BR&gt;Le dernier espoir de Balder...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, le moment est venu.&lt;BR&gt;{@linkcreature:425#10005$$Rida}, la princesse de {@Rgn:68001$$Pora Élinu}, va vous remettre le sceau de Seren du miroir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="425" prevId="3" villagerId="10005">
+        <Page social="1" voiceTypeId="0">On dirait que Mystel m'a envoyée dans le temple. Bah, je le répète une dernière fois : je ne vous ai pas suivi. C'est Mystel qui m'envoie !&lt;BR&gt;&lt;BR&gt;Bref, voici le sceau du miroir dont Mystel a parlé. Après que Seren m'est apparue en rêve, je l'ai trouvé posé sur mon oreiller.&lt;BR&gt;&lt;BR&gt;Prenez-le.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="425" prevId="4" villagerId="10009">
+        <Page social="1" voiceTypeId="0">(Au milieu du cadre, vous voyez un trou de la taille du sceau. Placez le sceau du miroir dans le {@linkcreature:425#10009$$miroir de Balder}).</Page>
+    </Text>
+    <Text id="6" huntingZoneId="425" prevId="5" villagerId="10008">
+        <Page social="1" voiceTypeId="0">Comment est-ce possible ?&lt;BR&gt;Une partie de la puissance du soleil a disparu dans les profondeurs. Ce n'était certainement pas l'intention de Balder...&lt;BR&gt;&lt;BR&gt;Par chance, nous avons l'autre pan de lumière. Cette force est encore trop puissante pour vous.&lt;BR&gt;&lt;BR&gt;Nous devrions le confier à Seren dans un premier temps. Donnez-le à Rida.&lt;BR&gt;&lt;BR&gt;Quand l'heure viendra, vous le récupèrerez.&lt;NEXTPAGEBUTTON&gt;"Et elle viendra quand ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je ne peux pas vous le dire.&lt;BR&gt;Mais nous nous reverrons bientôt.&lt;BR&gt;&lt;BR&gt;Bon vent, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="425" prevId="6" villagerId="10005">
+        <Page social="1" voiceTypeId="0">... Ainsi, la puissance est auprès de Seren.&lt;BR&gt;&lt;BR&gt;Nous devrions donc songer à rentrer.&lt;BR&gt;&lt;BR&gt;Le vieux va faire une de ces têtes ! Ha ha ! Il s'attend sans doute à vous voir revenir avec le miroir en bandoulière, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1047">
+        <Page social="1" voiceTypeId="0">La prophétie est enfin accomplie.&lt;BR&gt;&lt;BR&gt;Le corps des Consos se fond à la prophétie de Balder. J'ai ressenti la puissance du miroir qui s'estompait.&lt;BR&gt;&lt;BR&gt;Cet endroit n'a maintenant plus besoin d'être isolé du reste du monde. Je vais enfin pouvoir prendre un peu l'air, ha ha.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1053">
+        <Page social="1" voiceTypeId="0">Hum, si telle était la volonté de Mystel, je n'ai rien à y redire. Mais je dois avouer que je me sens un peu trahi.&lt;BR&gt;&lt;BR&gt;Ainsi, Rida s'est emparée de la puissance du miroir, ce qui implique que Seren a scellé cette puissance. Dois-je en conclure que l'heure n'est pas encore venue ?&lt;BR&gt;&lt;BR&gt;N'oubliez pas que c'est vous qui commandez cette puissance.&lt;BR&gt;&lt;BR&gt;Le {@linkcreature:425#10009$$miroir de Balder} doit être employé pour le bien de toutes les races et c'est vous qui avez été choisi pour cette tâche, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mieux vaut qu'Allemantheia n'en sache encore rien. Sans cela, le Mysterium ferait tout pour vous enlever.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1054">
+        <Page social="1" voiceTypeId="0">Je commençais sérieusement à m'inquiéter. Quelle joie de vous voir revenir indemne.&lt;BR&gt;&lt;BR&gt;J'ai essayé de convaincre la princesse Élin de nous aider pour nos recherches, mais elle n'a pas daigné nous accorder le moindre regard. Je n'ai donc plus d'autre choix que de retourner à {@Rgn:68001$$Pora Élinu}...&lt;BR&gt;&lt;BR&gt;Je vais reprendre la route pour vérifier si d'autres phénomènes étranges se produisent ailleurs. Peut-être aurons-nous l'occasion de nous revoir.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1083">
+        <Page social="1" voiceTypeId="0">Cette elfe est vraiment pénible. Elle veut me suivre partout pour que je l'aide dans ses recherches.&lt;BR&gt;&lt;BR&gt;Essayez de l'en dissuader.&lt;BR&gt;&lt;BR&gt;Au fait, j'ai bien du mal à vous cerner. Vous avez fait des pieds et des mains pour obtenir le miroir, mais vous semblez vous moquer de le posséder ou non. Tous mes préparatifs ont-ils donc été vains ?&lt;NEXTPAGEBUTTON&gt;"Quels préparatifs ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">(Rida vous remet quelque chose.)&lt;BR&gt;&lt;BR&gt;Prenez ceci. Quand l'heure viendra, vous devrez vous en servir.&lt;BR&gt;&lt;BR&gt;La prophétie de Seren et Mystel m'assure que le miroir vous appellera à nouveau.&lt;BR&gt;&lt;BR&gt;Je vais retourner à {@Rgn:68001$$Pora Élinu}. Mon protecteur a sans doute fini par s'apercevoir de mon absence.&lt;BR&gt;&lt;BR&gt;J'y vais. Occupez-vous de cette elfe hystérique !</Page>
+    </Text>
+</QuestDialog>

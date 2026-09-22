@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">On peut déjà voir la flore et la faune locale se remettre alors qu'elles étaient toutes deux au bord de l'extinction. Les chardons d'éclipse ont des vertus médicinales.&lt;NEXTPAGEBUTTON&gt;"Ils ont donc une certaine utilité&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Les chardons&amp;nbsp;? Bien entendu, il suffit de les préparer adéquatement.&lt;BR&gt;&lt;BR&gt;Allez en cueillir un bouquet et apportez-le à Lenorele, de la {@Rgn:47006$$Base de la Folie}... enfin, si vous comptez vous rendre dans le coin. Elle saura quoi en faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">Merci. Elles permettront de produire une potion contre les effets de la contamination argone… On en a bien besoin…</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1014">
+        <Page social="0">Puis-je vous aider&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

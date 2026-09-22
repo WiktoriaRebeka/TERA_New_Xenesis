@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="1">Salutations, {@gender:ami/amie} du soleil. Les épreuves du Temple de Balder se compliquent et deviennent aussi ardentes que le soleil à son zénith.&lt;BR&gt;&lt;BR&gt;Pour prouver votre bravoure, vous devez maintenant vaincre {@LinkCreature:425#3000$$Lagreah}, le protecteur du jardin, puis détruire le {@LinkCreature:425#5000#générateur de golems}&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">Le soleil vous tient en très haute estime.&lt;BR&gt;&lt;BR&gt;Votre prochaine épreuve vous attend.</Page>
+    </Text>
+</QuestDialog>

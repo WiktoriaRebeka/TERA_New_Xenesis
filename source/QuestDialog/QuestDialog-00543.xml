@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="4">Vous savez, tant que vous êtes ici... il serait peut-être préférable d'éliminer leur chef.&lt;BR&gt;&lt;BR&gt;Il s'appelle Sidurek et est apparu un peu avant que notre peuple commence à tomber malade... et que tout le monde a commencé à se transformer...&lt;NEXTPAGEBUTTON&gt;&amp;quot;Le tuer nous donnerait donc un autre indice&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'espère, oui.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} est probablement au cœur du camp, alors faites attention à ses gardes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1016">
+        <Page social="4">Il est mort&amp;nbsp;? Bien. C'est bien. Est-ce que vous avez trouvé un indice&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Une lettre&amp;nbsp;? Donnez-la-moi.&lt;BR&gt;&lt;BR&gt;Elle parle de quelqu'un nommé "Malachai", d'un plan et d'un objet que Sidurek a reçu. Humm.&lt;BR&gt;&lt;BR&gt;Nous devez en apprendre plus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1016">
+        <Page social="0">Vous devez éliminer Sidurek avant que les choses dégénèrent davantage.</Page>
+    </Text>
+</QuestDialog>

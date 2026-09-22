@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Une de nos archéologues... si tant est qu'on puisse appeler sa démarche de "l'archéologie"... a encore trouvé le moyen de s'éclipser. Nema est une tête brûlée. Elle a encore dû se fourrer dans le pétrin et je n'ai pas le temps de m'occuper de ça.&lt;BR&gt;&lt;BR&gt;Allez demander à {@LinkCreature:218#1022$$Mirak} s'il l'a envoyée quelque part.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">{@LinkCreature:218#1007#Nema}&amp;nbsp;? Oui, je la connais, et croyez-moi, je le regrette.&lt;BR&gt;&lt;BR&gt;Mais... Non, elle n'est pas dans le coin. Elle a encore filé en douce malgré mes avertissements répétés. Un jour, si ce n'est pas une bête sauvage qui lui fait la peau, c'est moi qui finirai par l'étrangler.&lt;NEXTPAGEBUTTON&gt;"Où peut-elle se trouver&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je pense qu'elle doit se trouver au Temple de Tithus. Elle file là-bas aussitôt que nous avons le dos tourné. Trois choses en ce bas monde m'horripilent au plus haut point&amp;nbsp;: les cultistes, les scorpions et la curiosité de Nema&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous voulez la retrouver, débrouillez-vous. J'en ai assez de m'occuper d'elle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1007">
+        <Page social="4">Mirak s'est montrée désagréable&amp;nbsp;? Quelle surprise... Enfin, c'est vrai que j'ai peut-être été un peu pénible.&lt;BR&gt;&lt;BR&gt;Toutefois, je ne comprends pas pourquoi il s'attend à me voir rester au camp alors que je peux étudier en un lieu pareil&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

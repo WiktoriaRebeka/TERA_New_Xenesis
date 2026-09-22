@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="5">Les argons se renforcent aussi vite que nous les tuons. J'ai besoin que vous fassiez monter la pression.&lt;BR&gt;&lt;BR&gt;Allez tuer des aplatisseurs hulraps, des batteurs vulnaqs, des assommeuses et des cyclopes zariiks, des prélats iknephars, des sentinelles kalash et des argousins syndrenes chaque fois que vous en croiserez.&lt;BR&gt;&lt;BR&gt;Faites votre rapport à Sistiren, à la Citadelle de Khanovar quand votre mission sera terminée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1002">
+        <Page social="5">Bien joué, &lt;PCNAME&gt;. Voilà qui devrait permettre à nos troupes de gagner du terrain.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1002">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

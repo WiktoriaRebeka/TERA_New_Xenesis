@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Ordre urgent]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, la destruction d'Exodor a beau avoir échoué, la Fédération Valkyon n'a pas abandonné l'idée de trouver un moyen d'arrêter Exodor.&lt;BR&gt;&lt;BR&gt;Nous avons obtenu de nouvelles informations sur Exodor et c'est la raison pour laquelle cet ordre vous parvient. Je vous prie de venir me trouver dès la réception de ce message.&lt;BR&gt;&lt;BR&gt;Ryshan</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Depuis que la Fédération Valkyon a découvert qu'il est impossible d'arrêter Exodor par voie aérienne, elle cherche une nouvelle solution.&lt;BR&gt;En observant les parfs et parfons, Armande a trouvé un moyen d'accéder à Exodor et le gardien et son groupe s'envolent donc à Exodor à dos de parfons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="1" villagerId="6073">
+        <Page social="4" voiceTypeId="0">Je vous attendais.&lt;BR&gt;&lt;BR&gt;Même si le Mysterium a mis toutes ses ressources à disposition pour l'étude d'Exodor, la solution pour l'arrêter de l'extérieur est encore hors d'atteinte.&lt;BR&gt;&lt;BR&gt;Et par-dessus le marché, Exodor semble prendre la direction de Velika.&lt;BR&gt;&lt;BR&gt;Si elle y parvient, la Fédération Valkyon et tout Arborea courent un grave danger.&lt;BR&gt;&lt;BR&gt;Mais il est encore trop tôt pour baisser les bras. S'il est impossible de la détruire de l'extérieur, il doit y avoir une autre solution, non ?&lt;NEXTPAGEBUTTON&gt;"Vous avez une autre solution ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous ne devinerez jamais qui a déniché un point faible dans la forteresse imprenable que nous appelons Exodor.&lt;BR&gt;&lt;BR&gt;C'est Armande, l'écologue.&lt;BR&gt;&lt;BR&gt;Grâce à son rapport de recherche, nous savons que les parfs et les parfons reprennent leur vol vers Exodor après avoir passé un certain temps sur le plateau.&lt;BR&gt;&lt;BR&gt;Voici les notes d'Armande. Lisez-les en intégralité.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="6073">
+        <Page social="4" voiceTypeId="0">Qu'en dites-vous ? C'est vraiment une découverte stupéfiante.&lt;BR&gt;&lt;BR&gt;Ne croyez-vous pas qu'il s'agit là d'une chance, aussi infime soit-elle, de s'introduire à Exodor ?&lt;BR&gt;&lt;BR&gt;Nous allons avoir besoin d'une spécialiste pour utiliser les parfs et les parfons qui retournent à Exodor.&lt;BR&gt;&lt;BR&gt;Allez trouver Armande et discutez ensemble de l'approche à adopter.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="1170">
+        <Page social="4" voiceTypeId="0">Ravie de vous revoir. Ah, vous avez lu le journal que j'ai fait parvenir à Ryshan ?&lt;BR&gt;&lt;BR&gt;Je suis satisfaite d'apprendre que Ryshan accorde de l'importance à mes observations.&lt;BR&gt;&lt;BR&gt;C'est le meilleur des compliments pour une scientifique comme moi. J'en suis très contente.&lt;BR&gt;&lt;BR&gt;Vous voulez savoir s'il est possible d'accéder à Exodor ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">En capturant des parfs d'ici dont la capsule minérale est rétrécie et en les relâchant à proximité d'Exodor, ils s'envoleront à toute vitesse vers Exodor.&lt;BR&gt;&lt;BR&gt;Il faut profiter de l'occasion pour se hisser sur leur dos et les chevaucher jusqu'à Exodor.&lt;BR&gt;&lt;BR&gt;Autrement dit, il ne faut surtout pas abîmer leurs ailes en les capturant.&lt;NEXTPAGEBUTTON&gt;"Et comment faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les ailes des parfs et des parfons sont plus fragiles qu'elles n'en ont l'air.&lt;BR&gt;&lt;BR&gt;Si vous vous envolez sur un lépidoptère aux ailes blessées... Vous vous doutez bien de ce qui arrivera.&lt;BR&gt;&lt;BR&gt;En les capturant, vous devez donc faire attention à les amadouer sans les blesser.&lt;BR&gt;&lt;BR&gt;Les parfs et les parfons ont beau être gigantesques et mortels, ils sont aussi d'une grande loyauté. Il est possible de rendre les parfs dociles en préparant un concentré de phéromone de parfons.&lt;BR&gt;&lt;BR&gt;Apportez-moi des phéromones de parfons et je vous concocterai un concentré de phéromone.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="1170">
+        <Page social="4" voiceTypeId="0">Tenez, prenez ceci. C'est un fil de toile d'araignée et du concentré de phéromone.&lt;BR&gt;&lt;BR&gt;Le fil d'araignée est léger et robuste. &lt;BR&gt;&lt;BR&gt;Il devrait vous permettre de capturer l'insecte sans le blesser.&lt;NEXTPAGEBUTTON&gt;"Comment utiliser le concentré de phéromone ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vaporisez-le pour que les parfs le détectent et se rassemblent.&lt;BR&gt;&lt;BR&gt;Une fois que les parfs sont dociles, vous pouvez les capturer à l'aide du fil de toile d'araignée.&lt;BR&gt;&lt;BR&gt;Je vais vous aider à les capturer. Retrouvons-nous à l'endroit où nous voulons capturer les parfs.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" villagerId="1170">
+        <Page social="0">Il me manque encore quelques ingrédients pour le concentré de phéromone.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" prevId="6" villagerId="1181">
+        <Page social="4" voiceTypeId="0">(L'effet puissant des phéromones rend momentanément les parfs dociles.)&lt;BR&gt;&lt;BR&gt;(Vous utilisez le fil de toile d'araignée d'Armande pour capturer les parfs.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="8" villagerId="1182">
+        <Page social="4" voiceTypeId="0">(L'effet puissant des phéromones rend momentanément les parfs dociles.)&lt;BR&gt;&lt;BR&gt;(Vous utilisez le fil de toile d'araignée d'Armande pour capturer les parfs.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="27" prevId="9" villagerId="1183">
+        <Page social="4" voiceTypeId="0">(L'effet puissant des phéromones rend momentanément les parfs dociles.)&lt;BR&gt;&lt;BR&gt;(Vous utilisez le fil de toile d'araignée d'Armande pour capturer les parfs.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="27" prevId="10" villagerId="1171">
+        <Page social="4" voiceTypeId="0">Faites bien attention à ne pas endommager les ailes. Mieux vaut que je m'en charge, puisque c'est mon domaine d'expertise.&lt;BR&gt;&lt;BR&gt;Si nous relâchons les parfs dans la Vallée printanière, ils s'envoleront sans doute pour Exodor.&lt;NEXTPAGEBUTTON&gt;"Merci de votre aide."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je ferais bien de vous accompagner pour m'assurer qu'il n'arrive rien aux parfs pendant le transport.&lt;BR&gt;&lt;BR&gt;En tant que spécialiste, je vous serai sûrement utile.&lt;NEXTPAGEBUTTON&gt;"Je peux aussi me débrouiller."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ne vous en faites pas. Capturer des parfs et surveiller leur transport est une part importante de mes recherches.&lt;BR&gt;&lt;BR&gt;Nous devrions rejoindre au plus vite l'endroit qu'a mentionné Ryshan. Nous pourrons alors y relâcher les parfs.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="6074">
+        <Page social="4" voiceTypeId="0">Je n'aurais jamais pensé voir un jour une parf d'aussi près. Vous avez bien travaillé, Armande et vous.&lt;BR&gt;&lt;BR&gt;Quelle chance d'avoir découvert ce moyen d'infiltrer Exodor. Une fois sur place, nous arriverons certainement à arrêter Exodor.&lt;BR&gt;&lt;BR&gt;Thro et Armande pourront sans doute aussi apporter leur pierre à l'édifice. Je vous prie donc de collaborer avec eux pour trouver un moyen d'arrêter Exodor.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" prevId="12" villagerId="6071">
+        <Page social="4" voiceTypeId="0">Désormais, je fais également partie de l'unité spéciale... en tant que commandante. Hé hé.&lt;BR&gt;&lt;BR&gt;Je suis très enthousiaste mais aussi un peu nerveuse de rejoindre Exodor par ce biais.&lt;NEXTPAGEBUTTON&gt;"Cela risque d'être dangereux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien sûr, j'en ai conscience. Les parfs et les parfons qui descendent d'Exodor causent bien des soucis aux habitants d'Arborea.&lt;BR&gt;&lt;BR&gt;En explorant Exodor, nous trouverons sans doute un moyen d'y remédier.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"J'y compte bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Quelqu'un d'autre se joint à nous, non ? Un certain Thro ? J'ai récemment fait sa connaissance. Ce n'est pas la modestie qui l'étouffe.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="182" prevId="13" villagerId="6072">
+        <Page social="0" voiceTypeId="0">Comment ? Armande ? Nous partons avec une écologue ? Pour une mission aussi dangereuse ? Vous ne croyez pas qu'elle va juste nous ralentir ?&lt;BR&gt;&lt;BR&gt;Pff, bon, je vais bien devoir m'y faire. Mais qu'elle ne s'avise pas de nous mettre des bâtons dans les roues.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2000" prevId="14" villagerId="20400">
+        <Page social="4" voiceTypeId="0">Voici donc Exodor.&lt;BR&gt;Il y a vraiment une multitude de choses intéressantes à voir.&lt;BR&gt;&lt;BR&gt;Nous ferions bien d'explorer les environs.</Page>
+    </Text>
+</QuestDialog>

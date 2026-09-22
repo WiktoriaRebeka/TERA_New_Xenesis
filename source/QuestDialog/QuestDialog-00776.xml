@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Pas le temps de bavarder. Nous sommes occupés à réparer les palissades du camp.&lt;BR&gt;&lt;BR&gt;Du bois solide serait le bienvenu, mais vous avez sûrement déjà entendu ça.&lt;BR&gt;&lt;BR&gt;Le meilleur bois du Refuge de Balder se déplace beaucoup. Ce sont les {@LinkCreature:30#170#arbosks grimpants}.&lt;BR&gt;&lt;BR&gt;Aucun autre arbre n'est aussi résistant, le jeu en vaut la chandelle.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Votre réputation n'est pas usurpée, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Personne ne m'a jamais apporté autant de bois auparavant.&lt;BR&gt;&lt;BR&gt;Hé&amp;nbsp;! Venez et prenez ça&amp;nbsp;! Et encore merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">Le bois des {@LinkCreature:30#170#arbosks grimpants} est si dur qu'un orkan saccageur muni d'une hache ne peut le découper. Je ne dormirais pas ici si je n'avais pas confiance en ces murs.</Page>
+    </Text>
+</QuestDialog>

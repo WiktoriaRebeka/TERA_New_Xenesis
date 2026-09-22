@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Ordres de mission&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Nous devons éliminer un certain nombre des argons les moins puissants rôdant à proximité des {@Rgn:45002$$Abords de la Tour}, dans la {@Rgn:45001$$Forteresse de la Servitude}.&lt;BR&gt;&lt;BR&gt;Débarrassez-nous des {@LinkCreature:45#1001#assaillants kelbas}, des {@LinkCreature:45#1002#orkans nains argonomorphes} et des {@LinkCreature:45#1003#gardiens des runes argonomorphes}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Laetesha, de l'avant-poste du Pionnier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

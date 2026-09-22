@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">Les restes des victimes des gulas reposent dans les chambres des Cavernes affamées. Je sais que ça ne changera rien à leur sort ou à ce qu'ils ont dû endurer, mais nous nous devons de restituer ces corps aux familles.&lt;BR&gt;&lt;BR&gt;Allez chercher ceux que vous pourrez retrouver et ramenez-les ici. Je m'occuperai du reste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">La façon dont un peuple traite ses morts en dit long sur lui. Grâce à vous, nous avons pu nous conduire de manière honorable. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">Nous allons devoir faire parvenir ces restes aux familles des défunts.</Page>
+    </Text>
+</QuestDialog>

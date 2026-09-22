@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="208" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="208" endSocial="0" prevId="0" villagerId="1008">
+        <Page social="0">Appuyez sur Labyrinthe d'or pour pénétrer dans le donjon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" endSocial="0" prevId="0" villagerId="1008">
+        <Page social="0">Cliquez sur Entrer dans le Labyrinthe d'or pour pénétrer dans le donjon.&lt;TEXTBUTTON&gt;Labyrinthe d'or&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Entrer dans le Labyrinthe d'or&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

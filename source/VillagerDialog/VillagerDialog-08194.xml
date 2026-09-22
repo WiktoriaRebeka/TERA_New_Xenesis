@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="3005" voiceTypeId="153" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">J'ai réussi à me faufiler jusqu'ici, mais je crois qu'ils m'ont repéré.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Je vais bien, faites plutôt attention à vous. Ils arrivent ! &lt;TEXTBUTTON&gt;Vous lui demandez comme il se porte.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous protégez Élion.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

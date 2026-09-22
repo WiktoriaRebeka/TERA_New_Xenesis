@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Ces morts-vivants sont partout. J'ignore s'ils arrivent du nord, s'ils travaillent pour les argons... bref, j'ignore à peu près tout.&lt;BR&gt;&lt;BR&gt;Mais je sais une chose&amp;nbsp;: je ne veux plus les voir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Commencez par éliminer les {@LinkCreature:4#1061#chevaliers sombres devans} et l'{@LinkCreature:4#1062#infanterie devan relevée}. Et tant que vous y serez, récupérez leurs insignes. Je les collectionne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Voilà un problème de réglé, &lt;PCNAME&gt;. Continuez de combattre pour la bonne cause.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Allons, ce ne sont pas des titans, non plus. Ce ne sont que des os... avec quelques plates autour... et des armes abominables. Allez en finir, qu'on n'en parle plus&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

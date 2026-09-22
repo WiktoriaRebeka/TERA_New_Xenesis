@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="4">J'aurais une autre demande, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il y a peu, un homme nommé {@LinkCreature:231#1020$$Bettenis} a conduit son charriot au nord, dans le but de prendre un nouveau départ dans les étendues sauvages.&lt;BR&gt;&lt;BR&gt;Nous n'avons plus entendu parler de lui. Sa situation actuelle doit être aussi mauvaise que la nôtre, sinon pire. Pouvez-vous aller vérifier&amp;nbsp;? Nous sommes un peu à court mais apportez-lui aussi quelques provisions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1020">
+        <Page social="4">Bienvenue&amp;nbsp;! Ça fait longtemps que je n'ai pas parlé à quelqu'un.&lt;BR&gt;&lt;BR&gt;Vous êtes là pour voir comment je vais&amp;nbsp;? Ha&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pas d'inquiétude, camarade. Je suis bien ici. J'adore le froid.&lt;NEXTPAGEBUTTON&gt;"Je vous ai apporté des provisions."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Des haricots&amp;nbsp;! J'adore ça. Merci. Je dois juste raviver le feu pour les faire chauffer.&lt;BR&gt;&lt;BR&gt;Vous pensez pouvoir me trouver de l'{@LinkCreature:231#1051#herbe sèche}&amp;nbsp;? Je me suis blessé à la main en faisant une caresse "affectueuse" à ces "seigneurs" de la glace&lt;BR&gt;&lt;BR&gt;Il ne m'en faut pas beaucoup. Ces haricots devraient vite être chauds.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1051">
+        <Page social="4">(Cette herbe devrait convenir.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1020">
+        <Page social="4">Merci. Je peux vous dire que c'est pratique. Ça sert à tout, si vous voyez ce que je veux dire.&lt;BR&gt;&lt;BR&gt;Dites à vos camarades de ne pas s'inquiéter pour moi. Je suis assez stoïque. J'en ai vu d'autres&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;A bientôt.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="5" villagerId="1008">
+        <Page social="4">Il est fou. Que fait-il là dehors&amp;nbsp;? Une tête de bois.&lt;BR&gt;&lt;BR&gt;Nous devrions envoyer quelqu'un le ramener de force. Même si nous n'avons pas besoin d'une bouche de plus à nourrir.&lt;BR&gt;&lt;BR&gt;Merci de vos efforts.</Page>
+    </Text>
+</QuestDialog>

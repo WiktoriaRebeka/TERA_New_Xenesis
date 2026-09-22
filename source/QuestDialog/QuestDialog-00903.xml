@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="4">Barabok le Ravage-givre a juré d’utiliser les éclats eldritch pour rebâtir l’empire des géants.&lt;BR&gt;&lt;BR&gt;Bien entendu, nous savons qu’il est fou mais nous préférons tout de même le savoir mort.&lt;BR&gt;&lt;BR&gt;Pourchassez {@LinkCreature:34#5002#Barabok} et mettez un terme à ses rêves de grandeur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Les géants sont des ennemis de taille. Vous avez bien eu Barabok.&lt;BR&gt;&lt;BR&gt;Voler des fragments dans la glace... C’est triste d’imaginer qu’une race qui rivalisait autrefois avec les dieux soit tombée aussi bas...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1036">
+        <Page social="4">Quiconque a façonné ces petits caïmans morts-vivants devait être riche, ces grands yeux verts sont en aspidium. Les négociants en gemmes castanics adorent ce genre de marchandise&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je sais où les tailler, les polir et les vendre. Il me faut juste les pierres.&lt;BR&gt;&lt;BR&gt;On s'associe&amp;nbsp;? Chaque fois que vous tuerez des {@LinkCreature:8#4031#caïmans squelettiques} ou des {@LinkCreature:8#4032#serviteurs osseux caïmans}, extrayez leurs globes oculaires.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1036">
+        <Page social="4">Oh, oui. Regardez-moi ça&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pourquoi gâcher de telles beautés sur ces petites horreurs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1036">
+        <Page social="0">Prenez les pierres sur tous les {@LinkCreature:8#4031#caïmans squelettiques} et les {@LinkCreature:8#4032#serviteurs osseux caïmans} que vous tuez et nous serons riches&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

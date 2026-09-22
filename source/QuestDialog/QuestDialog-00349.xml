@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Le Syndicat Kazuur... un groupe de gulas... et si ces cinglés de cannibales avaient vendu des esclaves à Dirken.&lt;BR&gt;&lt;BR&gt;Nous devrions peut-être faire courir le bruit qu'il est dangereux de faire des affaires avec Dirken&amp;nbsp;? Certaines opportunités commerciales deviennent tout de suite beaucoup moins alléchantes quand elles impliquent un danger de mort, si vous voyez ce que je veux dire.&lt;BR&gt;&lt;BR&gt;Rendez-vous dans la partie nord de la Côte abandonnée et massacrez les {@LinkCreature:12#7#cogneurs gulas} que vous y rencontrerez. Ca devrait faire passer le message.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="5">Nous faisons vraiment une bonne équipe, &lt;PCNAME&gt;. J'ai la tête et vous les bras, comme on dit.&lt;BR&gt;&lt;BR&gt;Hmmm... on devrait fêter ça autour d'un verre...</Page>
+    </Text>
+</QuestDialog>

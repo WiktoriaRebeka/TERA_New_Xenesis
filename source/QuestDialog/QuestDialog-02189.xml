@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">Je suis à la recherche d'un composant pour cet appareil, un petit rouage. Et quand je dis "petit", je ne plaisante pas. Il est si petit qu'aucun artisan ordinaire n'arrive à le fabriquer.&lt;BR&gt;&lt;BR&gt;Il n'y a qu'un endroit au monde où on peut arriver à ce niveau de détail&amp;nbsp;: Lilipart, dans le Royaume des Nains.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à vaincre les gardiens de la forêt, à Lilipart, et que vous réussissez à parlez au chef du village, il vous donnera un petit rouage. Pourriez-vous me l'apporter s'il vous plaît&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="445" prevId="2" villagerId="122">
+        <Page social="4">Merci, &lt;PCCLASS:lcase&gt;, vous nous avez débarrassés des gardiens de la forêt. Tenez, prenez ce petit rouage. Et si jamais vous revenez un jour dans notre royaume, n'hésitez pas à venir en aide aux habitants du coin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Voilà, c'est ça&amp;nbsp;! C'est parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous savez, si j'avais d'autres petits rouages, je pourrais miniaturiser tout et n'importe quoi. Mes inventions seraient les plus petites au monde&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1704">
+        <Page social="0">J'aurais besoin d'un petit rouage. Rapportez-en un du donjon instancié des Nains.</Page>
+    </Text>
+</QuestDialog>

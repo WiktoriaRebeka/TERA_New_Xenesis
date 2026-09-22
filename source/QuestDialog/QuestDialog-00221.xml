@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="4">Tous les gulas pratiquent le cannibalisme, mais les {@LinkCreature:8#3011#mutilateurs} et les {@LinkCreature:8#3031#ravageurs gulas} semblent y prendre un plaisir particulier. Pour tout dire, ça me terrifie.&lt;BR&gt;&lt;BR&gt;Maintenant, à leur tour d'avoir peur. Ne vous contentez pas de les tuer... décapitez-les&amp;nbsp;! Je commence à avoir envie d'une soupe aux têtes de gulas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1033">
+        <Page social="4">Enfer et damnation&amp;nbsp;! Ces trucs sont parfaitement répugnants.&lt;BR&gt;&lt;BR&gt;Qu'est-ce que je vais pouvoir faire de ces têtes, maintenant&amp;nbsp;? Enfin bon, vous avez réussi. Bien joué&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1033">
+        <Page social="0">Si nous ne donnons pas une leçon à ces gulas, leurs recettes gastronomiques auront bientôt des noms du genre "&lt;PCNAME&gt; au riz pilaf" ou encore "&lt;PCNAME&gt; et sa fricassée de girolles"...&lt;BR&gt;&lt;BR&gt;Miam... euh... j'en étais où&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

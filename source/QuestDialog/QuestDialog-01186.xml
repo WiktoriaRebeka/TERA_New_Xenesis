@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="4">Les argons sont partis, mais ils ont laissé quelques surprises derrière eux... comme les {@creature:47#4001#croisés dagonites argonomorphes} nagas. S'ils étaient moins nombreux, notre travail de restauration avancerait nettement plus vite.&lt;BR&gt;&lt;BR&gt;Et tant que vous y serez, gardez l'œil ouvert et cherchez des fées. Nous n'en avons plus vu depuis un moment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">Eh bien, s'il y a encore des fées dans la forêt, elles seront plus à l'abri sans les nagas. Merci.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="4">La Légion de Thulsa est en mouvement. Elle arrive de la Vallée des Aiguilles et redescend vers le sud. Pour le moment, elle ne représente pas encore une menace, mais elle est en train de rassembler ses forces, et ce n'est pas bon pour nous.&lt;BR&gt;&lt;BR&gt;Je vous demande d'aller exterminer les prétoriens de la légion maudite, ainsi que leur chef, Bosskar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1001">
+        <Page social="4">Incroyable&amp;nbsp;! Vous avez anéanti les forces de Thulsa à vous {@gender:seul/seule}. Kaia doit suivre vos faits d'armes avec la plus grande attention&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

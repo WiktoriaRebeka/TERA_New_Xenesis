@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">Nous mettons sur pied une délégation de paix pour aller voir les tribus. Nous voulons porter des capes en cuir d’orisk, comme il est de mise pour les chefs en déplacement. Les autres orkans nous verront comme des chefs si nous nous habillons comme tels.&lt;BR&gt;&lt;BR&gt;Vous pourriez nous aider à trouver assez de cuir d’orisk pour fabriquer les capes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1020">
+        <Page social="0">A présent, les tribus d'orkans nous verront comme des chefs. La paix règnera bientôt, vous verrez.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1020">
+        <Page social="0">Vous devez d’abord tuer l'orisk, puis prendre son cuir. Il est important d’agir dans cet ordre.</Page>
+    </Text>
+</QuestDialog>

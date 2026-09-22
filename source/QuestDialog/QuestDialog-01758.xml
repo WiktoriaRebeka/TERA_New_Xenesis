@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="0">Rhodos a affirmé avoir vu des cadavres de Barakas dans la région de Pierrefuge. &lt;BR&gt;À sa demande, vous avez examiné les dépouilles sur la route menant à la Carrière de Dirana, avant de réaliser un rite funéraire afin d'apaiser leur âme.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Vous êtes &lt;PCNAME&gt; {@gender:le visiteur/la visiteuse}, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Un messager est venu il y a peu. Il semblerait que Rhodos, le commandant khirien, souhaite vous parler.&lt;BR&gt;&lt;BR&gt;Il a dit qu'il vous attendrait sur la route ouest.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">J'ai trouvé les cadavres de quelques soldats barakas et il y a quelque chose de louche sur la façon dont ils sont morts.&lt;BR&gt;&lt;BR&gt;Pourriez-vous les examiner et me dire ce que vous en pensez&amp;nbsp;? Les barakas vous font confiance et j'aimerais que vous confirmiez mes doutes.&lt;NEXTPAGEBUTTON&gt;"Bien sûr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">(La blessure de ce baraka mort a été cautérisée.)&lt;NEXTPAGEBUTTON&gt;"Etrange."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1016">
+        <Page social="4" voiceTypeId="0">(Ce baraka a été tué d'un coup par-derrière.)&lt;NEXTPAGEBUTTON&gt;Conclure l'examen.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Je le savais&amp;nbsp;! Des Archidevans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les traces de brûlure le confirment et le fait qu'ils n'ont rien vu venir indique qu'ils ont été attaqués depuis la pénombre. Tous ces barakas morts ont dû être victimes d'une embuscade.&lt;BR&gt;&lt;BR&gt;C'est une mauvaise nouvelle, &lt;PCNAME&gt;. S'ils sont morts sans avoir vu le visage de leurs malfaiteurs, ils vont revenir sous formes de fantômes vengeurs et hanter cette route pour l'éternité. Il nous faut pratiquer un rite de réconfort pour que leurs esprits trouvent la paix.&lt;NEXTPAGEBUTTON&gt;"Et... ça va durer longtemps&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je sais que ça semble ridicule, mais il s'agit d'une coutume funéraire que les barakas et les Khiriens ont en commun. Faites-moi ce plaisir.&lt;BR&gt;&lt;BR&gt;Je vais ordonner à Joakim et Donakim de rassembler les pierres pour construire la pierre tombale.&lt;BR&gt;&lt;BR&gt;Pendant ce temps, servez-vous des pierres aux alentours des dépouilles de baraka pour récolter leurs âmes. Puis, purifiez-vous avec du sang d'agneau afin que le parfum des âmes ne déteigne pas sur vous. Sans quoi, elles vous hanteront jusqu'à la fin de vos jours.&lt;NEXTPAGEBUTTON&gt;"En effet, je n'y tiens pas plus que ça.."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Merci, &lt;PCNAME&gt;. Je vous suis reconnaissant de faire preuve de respect envers notre culture.&lt;BR&gt;&lt;BR&gt;Joakim et Donakim ont construit un cimetière pour accueillir chacun des barakas. Il ne vous reste plus qu'a terminer les tombes en posant leurs pierres d'âme sur les pierres tombales, et ils pourront trouver la paix dans l'au-delà.&lt;NEXTPAGEBUTTON&gt;"Bien. Je suis impatient{@g:/e} de commencer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Merci, &lt;PCNAME&gt;. Je savais que je pouvais compter sur vous.&lt;BR&gt;&lt;BR&gt;Et le moment venu, je sais que vous m'aiderez à faire payer les responsables... de leur propre vie&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;Hochement de tête&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

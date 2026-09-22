@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="418" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Vous comptez passer par là&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'imagine que vous êtes en mission. Vous avez l'air bien pressé.&lt;BR&gt;&lt;BR&gt;Je vais vous poser une énigme et si vous l'élucidez, je vous laisserai passer?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Ha&amp;nbsp;! Vous n'êtes pas un client facile, vous&amp;nbsp;! Très bien.&lt;TEXTBUTTON&gt;"Je n'ai pas de temps à perdre."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Ouvrez donc la porte."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">OK, un moment, s'il vous plaît. Je vous ouvre tout de suite.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">Faites bien attention à vous.</Page>
+    </Text>
+</VillagerDialog>

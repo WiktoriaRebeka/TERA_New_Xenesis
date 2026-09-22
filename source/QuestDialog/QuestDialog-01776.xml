@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2032">
+        <Page social="0">Keezar, une chamane khirienne, était rusée mais n'avait pas l'air d'avoir toute sa tête. Malgré son imprévisibilité, c'était là votre meilleur espoir de vous emparer d'un pendentif de contrôle archidevan en état de marche..&lt;BR&gt;&lt;BR&gt;Elle semblait savoir bien des choses à votre sujet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2032">
+        <Page social="1" voiceTypeId="0">Comment puis-je savoir quoi que ce soit&amp;nbsp;? Qui êtes-vous&amp;nbsp;? Ce sont les archidevans qui vous envoient&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Qu'est-ce que vous avez ici&amp;nbsp;? Un pendentif cassé&amp;nbsp;? Comment l'avez-vous cassé&amp;nbsp;? Ils sont censés être indestructibles et à l'épreuve des imbéciles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Enfin, tant pis, le mal est fait. Il n'y a qu'une possibilité de reconstruire tout ça, et c'est en utilisant une sorte de super-colle. "Colle puissante," ça s'appelle.&lt;NEXTPAGEBUTTON&gt;"Euh, d'accord. Et vous avez une telle colle&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Eh bien non, &lt;PCNAME&gt;. Il est nécessaire les Archidevans croient que ces pendentifs sont irréparables une fois qu'ils sont cassés. Sans quoi, ils n'auraient plus besoin de moi. Mais maintenant que l'initiative de l'avant-garde est enfin arrivée, plus besoin de rester ici.&lt;BR&gt;&lt;BR&gt;Donc, pour faire de la colle magique, vous avez besoin de cornes magiques. Du genre de celle que l'on trouve sur les devans. Je présume que vous arriverez à en trouver.&lt;NEXTPAGEBUTTON&gt;"Je pense savoir comment faire..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2032">
+        <Page social="1" voiceTypeId="0">Cornes, jolies petites cornes&amp;nbsp;! "Une protubérance de la peau sur la tête d'animaux divers, composée de kératine ou d'autres protéines recouvrant une base osseuse." Ha&amp;nbsp;! Je parie que vous vous demandez comment je sais ça, non&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Est-ce que tout le monde est fou, ici&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" villagerId="2032">
+        <Page social="0">Une corne, deux cornes, anti-corne, corne-muse.&lt;BR&gt;&lt;BR&gt;Ça ne suffit pas, mon ami{@g:/e} qui vient de loin&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Deux cornes écornent et corne-raide&amp;nbsp;! Plus de cornes, moins de bornes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2032">
+        <Page social="1" voiceTypeId="0">Pas besoin de devenir désagréable, &lt;PCNAME&gt;. J'ai attendu tant d'années à cet endroit sordide juste pour vous aider dans votre quête&amp;nbsp;! Et maintenant que vous êtes là, nous pouvons partir tou{@gender:s/tes} les deux.&lt;BR&gt;&lt;BR&gt;Continuons cette discussion dehors, d'accord&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Comment est-ce que je peux vous faire sortir d'ici&amp;nbsp;?" &lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Clic, clic, double-clic&amp;nbsp;! Ce n'est pas la bonne question&amp;nbsp;! La bonne question est plutôt, comment puis-je vous faire sortir d'ici, malgré votre lenteur&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Comment&amp;nbsp;? Je ne suis pas lent{@g:/e}..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Comment avez-vous fait pour me trouver aussi vite&amp;nbsp;? Je ne veux pas rentrer&amp;nbsp;! Vous ne pouvez pas m'y forcer&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Attendez... oh, c'est encore vous. C'est quoi votre nom, déjà&amp;nbsp;? Et votre quête&amp;nbsp;? Je vous ai déjà demandé quelle est votre couleur préférée&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"J'ai besoin que ce pendentif soit réparé. Ça ne vous dit rien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Un pendentif de contrôle brisé&amp;nbsp;? Comment avez-vous fait pour le casser&amp;nbsp;? Ils sont censés être indestructible et à l'épreuve des imbéciles&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Nous avons déjà eu cette conversation&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">On ne peut rien lui enseigner, à {@gender:celui-ci/celle-ci}. Aucune patience.&lt;BR&gt;&lt;BR&gt;Très bien. Vous voulez de la colle, vous aurez de la colle.&lt;NEXTPAGEBUTTON&gt;"C'est pas trop tôt&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

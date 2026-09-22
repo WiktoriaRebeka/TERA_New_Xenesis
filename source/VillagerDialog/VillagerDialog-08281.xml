@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6000" huntingZoneId="3020" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;Même en apercevant ce "navire" pour la première fois et les 5 flibustiers que les vieillards avaient engagés comme gardiens, je ne me rongeais pas autant les sangs que maintenant. Voilà deux heures que plusieurs vaisseaux pirates nous tournent autour.&lt;BR&gt;Le vieillard disait-il vrai en affirmant que ses flibustiers s'en sortiraient face à ces redoutables pirates ? Par un tel temps... ?&lt;BR&gt;&lt;BR&gt;...&lt;BR&gt;&lt;font color='#FF0000'&gt;Éliminez tous les adversaires dans le délai imparti pour empocher une récompense supplémentaire.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Êtes-vous prêt à larguer les amarres ?&lt;TEXTBUTTON&gt;"Oui."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirmer&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Annuler&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="4" voiceTypeId="0">Vous voulez emmener Thro ? &lt;BR&gt;&lt;BR&gt;L'or que nous gagnons grâce à Thro représente 68 % du chiffre d'affaires des marchands d'insignes. &lt;BR&gt;&lt;BR&gt;Nous ne pouvons pas le laisser partir sans la moindre compensation.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Il sort son carnet et griffonne frénétiquement toutes sortes de chiffres.) Voilà qui devrait compenser les pertes à court terme et...&lt;BR&gt;&lt;BR&gt;Bien. Escortez notre charriot de livraison jusqu'au Poste de Casidhe. Nous avons conclu un marché qui ne se fera que si le charriot de livraison arrive à bon port avant le coucher du soleil, avec une cargaison d'une valeur de 10 milliards de pièces d'or.&lt;BR&gt;&lt;BR&gt;Mais, rien que cette année, les orkans ont déjà attaqué nos charriots 478 fois. La probabilité que les orkans détruisent ce charriot est de 98,7 %. Aidez Genwa à emmener le charriot à bon port.&lt;BR&gt;&lt;BR&gt;Je vais donner mon accord écrit à Genwa.&lt;BR&gt;Vous obtiendrez le document dès que le charriot sera en lieu sûr dans le Poste de Casidhe.&lt;NEXTPAGEBUTTON&gt;"C'est d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="510" villagerId="41">
+        <Page social="0">(Ce charriot croule sous le poids de sa cargaison. Vous comprenez tout de suite qu'il avancera péniblement.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="2" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Aha, c'est donc vous, l'escorte chargée de protéger le charriot dont m'a parlé Duarong.&lt;BR&gt;Vous avez fait du bon travail.&lt;BR&gt;&lt;BR&gt;Voici l'accord écrit de Duarong. &lt;BR&gt;Prenez-le. &lt;NEXTPAGEBUTTON&gt;"J'accepte avec joie l'accord écrit des marchands d'insignes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

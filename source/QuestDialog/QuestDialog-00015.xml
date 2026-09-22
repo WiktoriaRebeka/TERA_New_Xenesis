@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Je pense que nous avons tourné ici, &lt;PCNAME&gt;. La forêt est immense.&lt;BR&gt;&lt;BR&gt;Allez voir Balter plus bas vers le sud au Domaine abandonné.&lt;BR&gt;&lt;BR&gt;C'est un homme bien et je suis certain qu'il a plus besoin d'aide que moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">Grâce aux dieux, vous voilà, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Je commençais à croire que Boquillon nous avait complètement oubliés.</Page>
+    </Text>
+</QuestDialog>

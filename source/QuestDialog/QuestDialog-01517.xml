@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1100">
+        <Page social="5">Je suis curieux de voir ce que vous valez. Êtes-vous comme la plupart des recrues que je vois passer ici ou avez-vous quelque chose qui vous distingue ?&lt;BR&gt;&lt;BR&gt;Voyons un peu comment vous allez vous en sortir avec Haidar... C'est notre maître duelliste, certainement le meilleur de Velika. Ça me donnera une idée de ce dont vous êtes capable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1070">
+        <Page social="5">{@gender:Prêt/Prête} à montrer ce que vous valez&amp;nbsp;? Pour ça, rien de tel qu'un duel&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

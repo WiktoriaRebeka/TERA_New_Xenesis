@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Thulsa a un allié là-bas, un argon surnommé le Cardinal de non-vie.&lt;BR&gt;&lt;BR&gt;Je pense que ce cardinal n'est autre que Krivalga, l'un des plus puissants nécromanciens de Thulsa. Bizarrement, on l'aperçoit assez peu sur les champs de bataille, ces temps-ci.&lt;BR&gt;&lt;BR&gt;Trouvez-le et tuez-le.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Alors, ce cardinal était bel et bien Krivalga&amp;nbsp;? Fort bien. Thulsa n'a pas vraiment de haut-prêtre dans ses rangs, et Krivalga était ce qui s'en rapprochait le plus.&lt;BR&gt;&lt;BR&gt;Vous avez bien mené votre affaire, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

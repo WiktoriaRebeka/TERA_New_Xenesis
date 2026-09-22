@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Vous avez fait tout votre possible ici, &lt;PCNAME&gt;. Traversez ces planches et vous vous retrouverez dans la partie de la grotte occupée par les chefs du Fouet rouge.&lt;BR&gt;&lt;BR&gt;Nous avons pu envoyer des éclaireurs sur place... grâce à vos interventions... et certains auraient aperçu un psycholithe.&lt;BR&gt;&lt;BR&gt;Allez parler à Ebosius. Il pourra vous donner les dernières nouvelles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Un psycholithe&amp;nbsp;? Un genre de grosse pierre&amp;nbsp;? Il y a un mois, j'ai vu des larbins descendre un truc comme ça.&lt;BR&gt;&lt;BR&gt;A un moment, la pierre s'est renversée et elle a écrasé un de leurs gars. Cela pourrait bien être votre psycholithe.</Page>
+    </Text>
+</QuestDialog>

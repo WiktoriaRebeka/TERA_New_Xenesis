@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="4">Apparemment, le Mysterium veut étudier les champignons de la région. Ils veulent soi-disant enregistrer la corruption d'énergie ou... Bref, ils veulent des champignons, on va leur donner des champignons.&lt;BR&gt;&lt;BR&gt;Les champignons clairs-obscurs ne sont pas durs à trouver, ils poussent dans la région des Feuilles célestes. Ramassez-en quelques-uns et rapportez-les à Tethan, à l'Avant-poste de Valumnir.&lt;BR&gt;&lt;BR&gt;Il sera aux anges, ou du moins autant qu'un elfe peut l'être.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1031">
+        <Page social="4">Ces spécimens vont nous permettre d'identifier la cause de la trahison des impies. Nous soupçonnons Thulsa, mais les argons ont fait assez de dégâts dans la région pour figurer, eux aussi, sur la liste des suspects.&lt;BR&gt;&lt;BR&gt;Jola a commencé à prendre les paris sur le résultat.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1031">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

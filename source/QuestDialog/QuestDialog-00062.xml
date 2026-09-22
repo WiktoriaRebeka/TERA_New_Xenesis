@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Selon Neacal, les devans qui infestent les Bois de l'Oubli sont des soldats dispersés après la chute de l'Empire sombre. Ils ont fait profil bas pendant un certain temps, mais ils disposent désormais de nouvelles armes et se font à nouveau menaçants. Neacal a prié &lt;PCNAME&gt; d'aller rendre visite à Chama pour apprendre qui commande les devans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Parlez à nouveau à Neacal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Nous devons maintenant parler de choses importantes.&lt;BR&gt;&lt;BR&gt;Il y a peu, les devans n'étaient qu'une bande dispersée.&lt;BR&gt;Mais ces derniers temps, ils font preuve d'une coordination étonnante.&lt;BR&gt;&lt;BR&gt;Par ailleurs, ils se sont procuré des armes d'excellente facture.&lt;BR&gt;&lt;BR&gt;Nous devons découvrir pourquoi ils sont soudain&lt;BR&gt;si bien organisés.&lt;NEXTPAGEBUTTON&gt;Vous écoutez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Si nous éliminons le chef, le reste devrait être un jeu d'enfant.&lt;BR&gt;&lt;BR&gt;J'ai déjà envoyé quelques éclaireurs.&lt;BR&gt;Rejoignez-les et récoltez des informations.&lt;BR&gt;&lt;BR&gt;Ah, encore quelques mots sur l'arme que je viens de vous donner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Avec des enchantements, vous pouvez amplifier encore la puissance de l'arme.&lt;BR&gt;&lt;BR&gt;Utilisez un &lt;font color='#0000FF'&gt;fragment de relique&lt;/font&gt; pour déployer la véritable puissance de l'arme. &lt;BR&gt;&lt;BR&gt;La rumeur affirme que certaines armes peuvent être amplifiées jusqu'au niveau +9. &lt;BR&gt;&lt;BR&gt;Pour pouvoir tenir tête aux devans, vous devez les affronter avec des armes amplifiées. En effet, les devans armés sont nettement plus forts.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Appuyez sur la touche &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' width='21' height='21' vspace='-6'/&gt; pour ouvrir la forge. Utilisez ensuite un fragment de relique pour amplifier votre arme.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Je vous ai dit tout ce que je savais.  &lt;BR&gt;Suivez la route devant vous jusqu'à ce que vous trouviez les troupes de Chama.&lt;BR&gt;&lt;BR&gt;Ah, et si vous voyez des becailloux, éliminez-les sur-le-champ. Ils sont particulièrement gênants car ils font un vacarme de tous les diables et risquent ainsi de trahir notre position.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Qui êtes-vous ? C'est Neacal qui vous envoie ? &lt;BR&gt;Parfait ! Je ne dis pas non à un petit coup de main.&lt;BR&gt;&lt;BR&gt;Et c'est plutôt aimable de votre part d'avoir pris la peine d'éliminer ces becailloux.</Page>
+    </Text>
+</QuestDialog>

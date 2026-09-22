@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="0">Laissez Dougal vous renseigner sur la mission. Il est absolument déterminé à la mener à son terme.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="4" voiceTypeId="0">Nous pouvons commencer l'embarquement une fois les recrues revenues.&lt;BR&gt;&lt;BR&gt;Je ne devrais pas faire attendre Zolyn. Informez-la que les provisions et les soldats sont prêts au départ.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1522">
+        <Page social="4" voiceTypeId="0">Les préparatifs ne sont pas encore terminés. &lt;BR&gt;Vous avez quelque chose d'agréable...&lt;BR&gt;&lt;BR&gt;Dites-moi...&lt;BR&gt;Syona, la princesse Élin, ça vous dit quelque chose, non ?&lt;NEXTPAGEBUTTON&gt;"Pourquoi voulez-vous le savoir ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Non, c'est bon. C'est sans importance. N'y pensez plus.&lt;BR&gt;&lt;BR&gt;Mais vous avez bien amené la clé à Tamari, n'est-ce pas ?&lt;BR&gt;On peut donc bien compter sur vous. &lt;BR&gt;&lt;BR&gt;Voici le démarreur du croiseur céleste l'Intrépide. Apportez-le à Dougal.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1521">
+        <Page social="4" voiceTypeId="0">Ravi de voir ici, &lt;PCNAME&gt; ! Vous êtes prêt à mettre le cap sur un nouveau continent ?&lt;NEXTPAGEBUTTON&gt;"Voici le démarreur du croiseur céleste l'Intrépide."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le démarreur. Nous pouvons enfin décoller. Parfait.&lt;BR&gt;&lt;BR&gt;Nous sommes en route vers le Nord d'Arun. Nous pensons que c'est là que se trouvent les racines du mal demokron, ainsi qu'un autre mystère plus personnel.&lt;BR&gt;&lt;BR&gt;Nous en reparlerons plus tard.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1521">
+        <Page social="4" voiceTypeId="0">Allez, embarquons, il me tarde de me mettre en route.&lt;BR&gt;&lt;BR&gt;Pyon vous transportera vers le vaisseau dès que vous serez prêt{@g:/e}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1000">
+        <Page social="4" voiceTypeId="0">Bienvenue à bord&amp;nbsp;! N'est-il pas magnifique&amp;nbsp;? Plus large qu'un navire de guerre et capable de transporter toute une compagnie.&lt;BR&gt;&lt;BR&gt;Je ne suis pas au fait de tous ses petits secrets, mais je sais que ce croiseur céleste s'appuie sur énormément de technologie argone.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" villagerId="4">
+        <Page social="0">Je vais vous montrer votre cabine. Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="6" villagerId="1005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, vous nous avez sauvés, Actol et moi. Merci.&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas, fini le chapardage d'élixirs.</Page>
+    </Text>
+</QuestDialog>

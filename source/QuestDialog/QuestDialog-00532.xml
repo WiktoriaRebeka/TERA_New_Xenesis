@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="4">Il y a dû y avoir une grosse émeute au nord, autour des Terres libres. Il était difficile d'y envoyer du ravitaillement pendant un temps.&lt;BR&gt;&lt;BR&gt;Je ne sais pas comment la situation a évolué, mais j'aimerais savoir si mes cargaisons arriveront à destination. Si vous vous rendez dans cette direction, pourriez-vous vérifier ce qu'il en est&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Demandez à Teomath, il fait régulièrement des affaires avec les fermiers et il est probable qu'il sache ce qu'il y a à savoir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1004">
+        <Page social="4">Oui, cette émeute s'est mal finie. Je ne peux pas vous dire s'il est prudent de s'y rendre pour le moment, je n'ai pas eu le courage de prendre le risque de le découvrir.&lt;BR&gt;&lt;BR&gt;Mais vous pourriez peut-être prendre votre arme et voir si la situation s'est apaisée.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Oui, je m'en occupe.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Si vous avancez tout droit en suivant la Porte nord là-bas, vous verrez le Poste de Casidhe. Cardis y est stationné et il devrait en savoir plus. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Compris.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1020">
+        <Page social="4">Ah, vous êtes ici pour l'émeute, et pour parler convois de ravitaillement j'espère.</Page>
+    </Text>
+</QuestDialog>

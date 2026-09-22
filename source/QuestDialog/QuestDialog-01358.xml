@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1017">
+        <Page social="4">Vous arrivez à point nommé, &lt;PCNAME&gt;. Suivez cette route en direction du sud-ouest. Le centurion Karrteh vous attend à la Base de Feu de l'Audace.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, on entend beaucoup de choses flatteuses à votre sujet. Dans notre intérêt, j'espère qu'il y a ne serait-ce qu'un fond de vérité là-dedans.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1037">
+        <Page social="4">Je vous souhaite la bienvenue, &lt;PCCLASS:lcase&gt;, et je salue votre bravoure&amp;nbsp;! Comment avez-vous réussi à traverser cette horde d'ennemis&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

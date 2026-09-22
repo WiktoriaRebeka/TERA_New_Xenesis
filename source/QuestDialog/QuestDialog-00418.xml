@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="73" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0">Dulari et son équipe vous ont appris à exercer de nouvelles compétences.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Vous avez certainement déjà pris conscience des dangers de cette île. Les ghilliedhus, les structures rencontrées au sud, les problèmes de... enfin, en bref, si vous voulez nous être utile, il va falloir apprendre à survivre.&lt;BR&gt;&lt;BR&gt;Faire de cette île un endroit sûr pour les chercheurs est notre priorité absolue. &lt;font color='#660000'&gt;Junia&lt;/font&gt; va vous apprendre comment progresser dans votre art, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1023">
+        <Page social="4">Bienvenue&amp;nbsp;! Vous me semblez prêt{@g:/e} à apprendre de nouvelles compétences.&lt;BR&gt;&lt;BR&gt;Si vous vous demandez comment faire, rien de plus simple&amp;nbsp;! À chaque fois que vous êtes en mesure d'apprendre une nouvelle compétence (généralement, quand vous passez à un &lt;b&gt;niveau pair&lt;/b&gt;), l'icône de la barre de compétence est mise à jour. Soit vous ouvrez alors votre &lt;font color='#660000'&gt;Fenêtre de compétences (K)&lt;/font&gt; pour sélectionner votre nouveau pouvoir, soit vous rendez visite à un maître ou instructeur de classe comme moi-même et sélectionnez &lt;font color='#660000'&gt;Apprendre des compétences&lt;/font&gt;. Vous vous acquittez du prix de l'entraînement et vous êtes paré{@g:/e}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allons, essayons cela maintenant. Si je ne m'abuse, la prochaine compétence dont un &lt;PCCLASS:lcase&gt; comme vous a besoin est &lt;font color='#660000'&gt;Tourbillon I&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1023">
+        <Page social="4">Un destin glorieux vous attend&amp;nbsp;: vous allez gagner en expérience et en compétence.&lt;BR&gt;&lt;BR&gt;Le Tourbillon vous plaît&amp;nbsp;? Il vous transforme en tempête de dégâts. Plus tard, cette compétence deviendra encore plus meurtrière&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1017">
+        <Page social="4">Vous avez appris Tourbillon, mais savez-vous vous en servir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous avez probablement remarqué les nombreux {@linkcreature:13#300921#noruks} qui peuplent les environs. Éliminez-en quelques-uns en vous rendant vers le sud et faites le point avec Nivek, au pied de la colline.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1115">
+        <Page social="4">Hum, ces peaux sont... dégoûtantes, pour être honnête. Mais, puisque vous semblez avoir un certain talent, vous allez peut-être pouvoir nous assister dans d'autres tâches. Du bon travail, recrue&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="213" villagerId="1115">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

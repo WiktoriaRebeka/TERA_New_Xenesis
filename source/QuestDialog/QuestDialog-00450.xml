@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1022">
+        <Page social="5">Grrr...&lt;BR&gt;&lt;BR&gt;Il fallait que Tunvi aille fanfaronner partout avec sa nouvelle paire de bottes en peau de dent-de-sabre.&lt;BR&gt;&lt;BR&gt;Ce n'est pas que la jalousie m'étouffe, mais... Oh et puis zut, oui je suis jaloux, voilà&amp;nbsp;! Vous pourriez me rendre un petit service&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;"Qu'attendez-vous de moi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">C'est ridicule... Je sais que la Fédération vous donne déjà beaucoup de travail, mais Tunvi a raison&amp;nbsp;: la fourrure de ces {@LinkCreature:15#10#dents-de-sabre noirs enragés} est vraiment superbe.&lt;BR&gt;&lt;BR&gt;Si je m'en procurais, ça me permettrait de rabattre un peu le caquet de Tunvi, et honnêtement, je me sentirais mieux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1022">
+        <Page social="5">Magnifique&amp;nbsp;! Je vais m'en faire une paire de gants&amp;nbsp;! Et ça, c'est pour vous remercier.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1022">
+        <Page social="0">Vous avez récupéré la fourrure&amp;nbsp;? Dites, vous l'avez&amp;nbsp;? Oh, je suis tellement impatient&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

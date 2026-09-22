@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">J'ai jeté un œil aux alentours mais je n'ai pas trouvé trace de Thro.&lt;BR&gt;Armande est dans les parages, elle recueille quelques impressions d'Exodor. Discutons donc de la prochaine étape.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous veniez de vous mettre à chercher un moyen de stopper Exodor quand vous avez rencontré Élion qui vous a parlé des villageois emprisonnés et du noyau sombre. Après avoir trouvé un indice concernant un moyen d'arrêter Exodor, vous avez accédé à la demande d'Élion en entreprenant d'aller sauver les villageois enlevés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20400">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, regardez cette parf évanouie. Une parf ne s'évanouit qu'après avoir déployé toutes ses forces pour le vol.&lt;BR&gt;&lt;BR&gt;La parf s'en retourne et se transforme à son tour en gemme avant de mourir... N'est-ce pas là la plus belle des morts ?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je ne vois Thro nulle part, par ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, Thro ! C'est vrai. C'est effectivement problématique. Nous avons à tout prix besoin de Thro si nous voulons avoir la moindre chance d'arrêter Exodor.&lt;BR&gt;&lt;BR&gt;S'il en est ainsi, nous devons examiner les cristaux du val et nous rendre à un autre endroit.&lt;BR&gt;&lt;BR&gt;Quel cristal énorme ! Combien de cadavres de parfs et de parfons peuvent bien être nécessaires pour engendrer un tel cristal ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="20401">
+        <Page social="4" voiceTypeId="0">Avez-vous vu comment les cadavres de parfs et de parfons se sont transformés en gemmes ? J'ai surnommé ce processus cristallisation.&lt;BR&gt;&lt;BR&gt;Les crabes moussus, là-bas, ont l'air de manger les parfs et les parfons cristallisés.&lt;BR&gt;&lt;BR&gt;Étudier leur impact sur les crabes moussus nous aidera certainement à développer un remède contre la cristallisation. Il me faut donc des échantillons de crabes moussus.&lt;BR&gt;&lt;BR&gt;Merci d'éliminer quelques crabes et de m'en ramener des échantillons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2000" prevId="4" villagerId="20402">
+        <Page social="4" voiceTypeId="0">Décidément, vous ne faites pas les choses à moitié. Ces échantillons devraient suffire à étudier l'impact des cristaux sur les crabes.&lt;BR&gt;&lt;BR&gt;Un grand merci pour votre aide. Cela nous sera bien utile dans notre la recherche d'un antidote à la cristallisation.&lt;NEXTPAGEBUTTON&gt;"Essayons maintenant de retrouver Thro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hein ? &lt;PCNAME&gt; ! Il n'y a pas quelqu'un, là-bas, sur le sentier ? Je viens juste d'y voir un Humain.&lt;BR&gt;&lt;BR&gt;Serait-ce... ? C'est peut-être Thro. Vérifiez cela au plus vite.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="20100">
+        <Page social="4" voiceTypeId="0">C'est un plaisir de vous revoir, &lt;PCNAME&gt;. Je suis vraiment ravi de vous trouver ici&lt;BR&gt;&lt;BR&gt;Même si Parquina est hors d'état de nuire, de nombreux villageois continuent à disparaître dans les régions voisines d'Exodor.&lt;BR&gt;&lt;BR&gt;Je me suis caché sur l'aéronef des villageois enlevés et j'ai atterri ici.&lt;BR&gt;&lt;BR&gt;Et vous, comment êtes-vous parvenu ici ?&lt;NEXTPAGEBUTTON&gt;"Il faut à tout prix arrêter Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je comprends. Arrêter Exodor, c'est... J'ai bien une théorie sur quelque chose que j'ai vu.&lt;BR&gt;&lt;BR&gt;Cependant, des importuns m'empêchent de traverser le tunnel et il serait bon de les éliminer.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="6" villagerId="20101">
+        <Page social="4" voiceTypeId="0">Tout à fait. Jelena et moi le nommons le noyau sombre,&lt;BR&gt;&lt;BR&gt;Une force prodigieuse s'en échappe. À n'en pas douter, c'est cette force immense qui meut la forteresse.&lt;NEXTPAGEBUTTON&gt;"Est-il possible de détruire le noyau sombre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Détruire le noyau est sans doute impossible depuis l'extérieur. Mais si Exodor est effectivement une structure artificielle, cela change tout.&lt;BR&gt;&lt;BR&gt;Un appareil de contrôle est sans doute chargé de réguler la force du noyau sombre. Il suffit sans doute de détruire cet appareil de contrôle pour arrêter Exodor.&lt;BR&gt;&lt;BR&gt;En revanche, nous n'y arriverons pas sans Thro. Je ne sais pas si Jelena a découvert quelque chose. Je ferais sans doute bien d'aller la trouver.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20200">
+        <Page social="4" voiceTypeId="0">Par tous les dieux ! Je me demandais bien qui était au côté d'Élion. C'est vous, &lt;PCNAME&gt; ! Je suis ravie de vous rencontrer ici !&lt;BR&gt;&lt;BR&gt;Qu'est-ce qui vous amène dans un lieu si reculé ?&lt;NEXTPAGEBUTTON&gt;"Nous devons arrêter Exodor et retrouver mon camarade disparu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Thro, c'est bien ça ? Tout à l'heure, un Castanic est tombé du ciel et a perdu connaissance avant de se faire capturer par les autres, là-bas.&lt;BR&gt;&lt;BR&gt;Ils étaient trop nombreux et je n'ai donc rien pu faire. Mais maintenant que nous sommes tous réunis, nous allons pouvoir le secourir, ainsi que tous les autres prisonniers, non ?&lt;BR&gt;&lt;BR&gt;Je vais vous aider explorant les environs. Je vous laisse vous charger des recherches et des combats, Élion et vous.</Page>
+    </Text>
+</QuestDialog>

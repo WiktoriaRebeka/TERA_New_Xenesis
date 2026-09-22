@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">Depuis les récents enlèvements, nous avons interdit l'accès aux alentours des Cavernes affamées.&lt;BR&gt;&lt;BR&gt;Mais ça n'a fait que rendre les gulas plus audacieux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tâchons de les calmer un peu&amp;nbsp;! Tuez les {@LinkCreature:8#1011#sentinelles colossales} et les {@LinkCreature:8#1021#cromos musardeurs} au Marais Vexatus. Ca leur apprendra à craindre la Fédération&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Ces gulas y réfléchiront à deux fois avant d'essayer de nous dévorer, non&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

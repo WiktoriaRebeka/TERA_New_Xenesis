@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Fort de la puissance des clercs du clan des Consos, vous avez interrompu le Carnaval du Sang.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">On m'a dit que vous aviez repoussé une petite incursion de vampires dans le temple. Cette opération est... troublant.&lt;BR&gt;&lt;BR&gt;Le Festival du Soleil sert à rajeunir le temple, afin que le soleil reste fort. Mais les vampires ne supportent pas la lumière de Balder. S'ils tentent d'interférer avec le nettoyage annuel du temple, cela signifie sûrement qu'ils tentent d'affaiblir la lumière du soleil...&lt;NEXTPAGEBUTTON&gt;&amp;quot;Que puis-je faire pour vous aider?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nahad m'a dit que vous vous aviez repoussé les vampires loin du temple sans trop de difficultés, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous pouvez interrompre leurs activités et permettre au clan des Consos d'effectuer leurs rituels.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Vous pouvez compter sur moi.&amp;quot; &lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Parlez à Harun, s'il vous plaît. Il est notre meilleur clerc et il se charge d'éliminer les vampires&lt;NEXTPAGEBUTTON&gt;&amp;quot;J'y vais.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;? Parlez à voix basse. Je vous remercie d'être venu. Renmi m'a dit que vous pourriez m'aider.&lt;BR&gt;&lt;BR&gt;Nous devons nous dépêcher. Le Carnaval du Sang des vampires a déjà commencé. Êtes-vous prêt&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je suis prêt.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Très bien, que Balder veille sur nous deux.&lt;BR&gt;&lt;BR&gt;Je peux vous accorder temporairement la puissance d'un prête de bataille du clan des Consos mais vous ne devez utiliser ce pouvoir que sur les vampires.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je vous le promets.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'admire votre dévouement, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Quelle est ma prochaine mission&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="3" villagerId="7002">
+        <Page social="4">Ecoutez-moi attentivement. Je vais vous expliquer comment ces présents fonctionnent. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Je vous écoute.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Balder vous offre trois incantations très efficaces pour vous protéger des vampires.&lt;BR&gt;&lt;BR&gt;La "Peur" fait fuir les vampires.&lt;BR&gt;&lt;BR&gt;L'"Etourdissement" immobilise temporairement les vampires.&lt;BR&gt;&lt;BR&gt;Le "Séisme" fait tomber au sol tous les vampires autour de vous. &lt;NEXTPAGEBUTTON&gt;"Je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il y a aussi des présents très efficaces pour tuer les vampires.&lt;BR&gt;&lt;BR&gt;"Mutation" transforme un vampire en sanglier, ce qui peut être à votre avantage.&lt;BR&gt;&lt;BR&gt;La "Lumière" de Balder brûle tous les vampires autour de vous. C'est peut-être votre arme la plus efficace contre eux.&lt;BR&gt;&lt;BR&gt;Enfin, "Punition" tue immédiatement un vampire.&lt;NEXTPAGEBUTTON&gt;OK.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Une fois à l'intérieur, vous devez empêcher les vampires d'invoquer plus de fantômes, trouver un moyen de nous rendre dans la Salle de Cérémonie puis détruire leur autel profane.&lt;BR&gt;&lt;BR&gt;Il est temps. Au nom de Balder, mettons fin à cette abomination&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7002">
+        <Page social="4">Vous avez effectué un travail formidable, aujourd'hui, &lt;PCNAME&gt;. Le clan des Consos se souviendra de vous pour les générations à venir.&lt;BR&gt;&lt;BR&gt;Veuillez accepter ceci en guise de récompense. Sachez que vous aurez toujours des amis, ici.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">"Prudence est mère de sûreté". C'est ma devise... enfin, ce serait ma devise si j'en avais une.&lt;BR&gt;&lt;BR&gt;Si les choses se passent disons... mal... avec votre nouveau copain léopard, je tiens à avoir un anesthésique sous la main. Il nous faut quelque chose d'efficace.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Ah, oui... un élixir morpheutique. Ça fera parfaitement l'affaire.&lt;BR&gt;&lt;BR&gt;Le but n'est pas de faire du mal à l'animal... juste de l'empêcher de vous dévorer.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Personnellement, je n'irais pas titiller un bestiau de cette taille sans avoir de l'élixir sous la main.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">La mine continue de s'étendre inexorablement, grâce au travail incessant des {@LinkCreature:20#30011000#contremaîtres d'esclaves} et des {@LinkCreature:20#30012000#esclaves zombies}. Qui sait quelle profondeur ils ont atteinte à l'heure qu'il est&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous allez devoir nous débarrasser d'eux. Si l'ennemi continue de creuser, d'une manière ou d'une autre, cette affaire finira mal.&lt;BR&gt;&lt;BR&gt;Tant que vous y serez, emparez-vous de leurs outils. On ne va pas leur laisser ça, ce serait du gâchis. Vous irez remettre tout ça à Ruanal, dans les Halls de la Mélancolie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">Voilà ce que j'appelle du bon boulot, &lt;PCNAME&gt;. Laissez-moi vous débarrasser...&lt;BR&gt;&lt;BR&gt;Tenez, voici un petit quelque chose pour vous remercier de vos efforts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Il y a encore tellement de zombies à éliminer...</Page>
+    </Text>
+</QuestDialog>

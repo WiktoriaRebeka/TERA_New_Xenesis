@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="4">Les terrons sont des esprits primitifs... qui sait pourquoi les titans leur ont donné vie au cours de leur rêve.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, les terrons sont particulièrement sensibles aux fluctuations d'énergies magiques. Une étude de ces créatures pourrait faire la lumière sur les raisons de l'attaque dont nous avons fait les frais.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:13#300944#terrons} vivent en petits groupes, près de la limite forestière. Tuez-les et récupérez leur terronite pour étude.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1110">
+        <Page social="4">Cela devrait suffire. Et les ricanements incessants ont fini par se taire... un bénéfice secondaire des plus appréciables.&lt;BR&gt;&lt;BR&gt;Voyons un peu ça. Lian m'a montré la technique à employer... comment s'y prenait-il, déjà&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah oui&amp;nbsp;! Voilà... un test des plus simples, mais très révélateur. Les terrons portent la corruption d'une magie sombre.&lt;BR&gt;&lt;BR&gt;Intéressant...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1110">
+        <Page social="0">Vous avez récupéré les échantillons&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les quelques connaissances dont je dispose devraient me permettre d'effectuer les recherches... encore faut-il que j'aie quelque chose à étudier.</Page>
+    </Text>
+</QuestDialog>

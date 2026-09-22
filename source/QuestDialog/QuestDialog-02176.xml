@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">Si nous voulons arrêter les prochaines attaques du nexus, nous devons savoir ce qui les rend possibles. Nous avons vu les petits boîtiers, ou teinocrons, portés par les envahisseurs.&lt;BR&gt;&lt;BR&gt;Tuez des créatures du nexus et récupérez leurs teinocrons. Il nous faut des réponses et ils représentent notre meilleure chance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">Oh, ça suffira. Tout à fait.&lt;BR&gt;&lt;BR&gt;Veuillez accepter mes remerciements. Vous faites honneur à la Fédération Valkyon, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1002">
+        <Page social="0">Nous devons apprendre la fonction précise des teinocrons du nexus. Récupérez-en pour nous.</Page>
+    </Text>
+</QuestDialog>

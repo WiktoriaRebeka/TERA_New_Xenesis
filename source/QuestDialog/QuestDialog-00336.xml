@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Si vous comptez fraterniser avec les pirates, vous allez devoir faire les choses correctement.&lt;BR&gt;&lt;BR&gt;Pour gagner leur respect, et donc leur coopération, vous allez devoir parler et vous comporter comme l'{@gender:un/une} des leurs.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à convaincre {@LinkCreature:211#1036$$Dilato} et {@LinkCreature:62#1014$$Finn} que vous êtes {@gender:fait/faite} pour la vie de pirate, vous obtiendrez un tas d'informations utiles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">De nos jours, on ne compte plus les bons à rien qui veulent devenir pirates&amp;nbsp;! Vous croyez qu'il suffit de se bander un œil et de se promener avec un perroquet sur l'épaule&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Voilà ce qu'on va faire... Je vais vous poser une question et on verra bien si vous avez un cœur de pirate.&lt;BR&gt;&lt;BR&gt;Quand un pirate se met-il à boire du rhum&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">Ouais, c'est une bonne réponse&amp;nbsp;! Va savoir... Vous avez peut-être un cœur de pirate, après tout&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">Bien parlé&amp;nbsp;! C'est ce que j'appelle une réponse digne de ce nom&amp;nbsp;! Santé aux pirates en herbe et à leur amour du bon rhum&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Vous m'avez l'air un peu... Mmh... Vous êtes {@gender:sûr/sûre} d'être {@gender:fait/faite} pour la vie de pirate&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien, on va voir ça.&lt;BR&gt;&lt;BR&gt;Qu'y a-t-il de meilleur dans la vie de pirate&amp;nbsp;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Ah, oui... Les picaillons, y a que ça de vrai&amp;nbsp;! Bien dit, l'{@gender:ami/amie}. Voilà une réponse qui mérite qu'on lui lève son verre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Se faire bercer par le tangage et le roulis. Ouaip, moi-même, je ne connais rien de tel. Bien dit.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Vous êtes {@gender:un/une} {@gender:vrai/vraie} pirate ou je ne m'y connais plus&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Ha&amp;nbsp;! Eh bien moi je dis "buvons à l'ivresse"&amp;nbsp;! C'est une passion saine et ça mérite bien un toast. Allez savoir... Vous êtes peut-être {@gender:taillé/taillée} pour le métier, après tout.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="211" prevId="6" villagerId="1009">
+        <Page social="4">Bien joué&amp;nbsp;! Obtenir le respect des pirates n'est pas une mince affaire.&lt;BR&gt;&lt;BR&gt;Tâchez de leur rendre quelques menus services et ils ne tarderont pas à vous accepter dans leurs rangs.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Merci de patienter un instant.&lt;BR&gt;&lt;BR&gt;(Mattin inscrit quelque chose dans le rapport.)&lt;BR&gt;&lt;BR&gt;Apportez ceci à Dougal, à Velika. Dites-lui que je vous envoie. S'il vous plaît, faites vite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="4" voiceTypeId="0">(Dougal lit le rapport de Mattin.)&lt;BR&gt;&lt;BR&gt;D'après ce rapport, vous avez accompli un véritable exploit. Il faut que tout Velika en entende parler !&lt;BR&gt;&lt;BR&gt;Samael a beau ne pas être très impressionnable, il sera certainement conquis par vos faits d'armes. Vos exploits pour la fédération Valkyon sont impressionnants !&lt;BR&gt;&lt;BR&gt;Et maintenant, allez transmettre le rapport à Samael.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Qu'est-ce que c'est ?&lt;BR&gt;&lt;BR&gt;(Samael lit le rapport de Mattin avec étonnement.)&lt;BR&gt;&lt;BR&gt;C'est Mattin, le fier directeur de recherche, qui vous tresse de tels lauriers ? Je ne vous tenais pas vraiment en estime, mais ceci pourrait me faire changer d'avis.&lt;BR&gt;&lt;BR&gt;(Samael reste momentanément sans voix, il cherche ses mots.)&lt;BR&gt;&lt;BR&gt;Bien joué ! Vous êtes décidément fort capable. C'est tout à votre honneur.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1137">
+        <Page social="0">Vous avez un rapport à me présenter ? Sinon, disparaissez !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Je vais en informer personnellement les représentants de Velika. Votre nom sera bientôt sur toutes les bouches. &lt;BR&gt;&lt;BR&gt;Je vous remercie au nom de la Fédération Valkyon. &lt;BR&gt;Continuez à faire de votre mieux !</Page>
+    </Text>
+</QuestDialog>

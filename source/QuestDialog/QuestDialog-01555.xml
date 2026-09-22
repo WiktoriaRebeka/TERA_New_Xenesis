@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="59" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0">Arrivé{@g:/e} à Velika, vous avez fait tous les préparatifs nécessaires pour prendre vos fonctions de nouveau membre de la Fédération Valkyon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0" voiceTypeId="0">En vous rendant au Quartier général de la Fédération Valkyon, vous prendrez officiellement vos fonctions de membre de la Fédération, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mais attendez un peu avant d'y aller.&lt;BR&gt;J'élargis l'inventaire de tous ceux qui rejoignent l'Initiative de l'avant-garde. &lt;BR&gt;&lt;BR&gt;Il serait dommage de vous retrouver avec une besace pleine au beau milieu d'une partie de chasse, alors allez donc retrouver Getty sur la Place de la liberté.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Vous pouvez élargir votre inventaire.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1228">
+        <Page social="4" voiceTypeId="0">Bienvenue !&lt;br&gt;Votre laissez-passer me porte à croire que c'est Troius qui vous envoie ! &lt;BR&gt;Vous êtes ici dans le service d'extension d'inventaire de Getty !&lt;BR&gt;Ne jouez pas les timides !&lt;BR&gt;&lt;BR&gt;La première extension d'inventaire est gratuite pour les membres de la fédération !&lt;BR&gt;Gratis ! &lt;BR&gt;&lt;BR&gt;Souhaitez-vous en bénéficier maintenant ?&lt;BR&gt;&lt;b&gt;&lt;font color='#660000'&gt;&lt;BR&gt;==================================&lt;BR&gt;Vous pouvez élargir votre inventaire.&lt;BR&gt;==================================&lt;/font&gt;&lt;/b&gt;</Page>
+    </Text>
+</QuestDialog>

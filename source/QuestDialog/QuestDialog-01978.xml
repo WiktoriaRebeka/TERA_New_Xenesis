@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai découvert où se trouve la cinquième pierre précieuse. &lt;BR&gt;Venez me voir à Hautegarde.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva vous a fait savoir où trouver la cinquième pierre précieuse, celle du froid.&lt;BR&gt;Vous avez aidé Lora à abattre son travail pour qu'elle puisse participer à la fête.&lt;BR&gt;&lt;BR&gt;Après avoir mené à bien la mission de gardien, vous avez reçu la pierre précieuse du froid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt;.&lt;BR&gt;J'ai trouvé la pierre précieuse du froid !&lt;BR&gt;&lt;BR&gt;Elle se trouve dans la Plaine gelée. La coursière {@linkcreature:34#2005#Lora} est au courant.&lt;BR&gt;&lt;BR&gt;Rendez-vous au Rocher de la désolation à l'aide de ce parchemin de téléportation.&lt;BR&gt;Une fois sur place, adressez-vous à Lora.&lt;BR&gt;&lt;BR&gt;Bonne chance !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="34" prevId="3" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Bienvenue sur la Plaine gelée.&lt;BR&gt;&lt;BR&gt;La pierre précieuse du froid est ici.&lt;BR&gt;&lt;BR&gt;À ce qu'il paraît ! À vrai dire, je n'en suis pas tout à fait sûre...&lt;NEXTPAGEBUTTON&gt;"Comment ça : pas tout à fait sûre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bon... En fait...&lt;br&gt;&lt;br&gt;Changement de sujet : savez-vous quand la fête aura lieu à Velika ?&lt;BR&gt;&lt;BR&gt;Je pose la question par simple curiosité, parce que...&lt;BR&gt;&lt;BR&gt;...&lt;BR&gt;&lt;BR&gt;Eh bien... J'aimerais bien y aller.&lt;BR&gt;&lt;BR&gt;Ce serait une première pour moi. Je suis toujours débordée.&lt;BR&gt;&lt;BR&gt;Savez-vous ce qu'il y aura au menu ? Y aura-t-il une pièce de théâtre ?&lt;NEXTPAGEBUTTON&gt;"Je ne sais pas vraiment."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aha...&lt;BR&gt;&lt;BR&gt;Alors, écoutez, gardien. Voilà ce que je vous propose : je peux vous procurer la pierre précieuse du froid si vous m'aidez.&lt;BR&gt;&lt;BR&gt;J'ai trop de missions à accomplir, ce qui m'empêche d'accepter l'invitation à la fête.&lt;BR&gt;&lt;BR&gt;Pourriez-vous assurer des missions de gardien à ma place ?&lt;NEXTPAGEBUTTON&gt;"Marché conclu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vraiment ?!?&lt;BR&gt;Merci mille fois !&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Il vous suffira d'obtenir quatre fois&lt;/font&gt; une récompense de mission de gardien.&lt;BR&gt;&lt;BR&gt;Retrouvons-nous au Rocher de la désolation une fois que vous aurez accompli ces missions.&lt;BR&gt;&lt;BR&gt;À plus, gardien !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="34" prevId="4" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Ah, vous voilà, gardien ! Contente de vous revoir.&lt;BR&gt;&lt;BR&gt;Vous m'avez ôté une épine du pied.&lt;BR&gt;Je vais enfin pouvoir aller à la fête... *Tousse* Hum, hum !&lt;BR&gt;&lt;BR&gt;Il paraît que vous avez accompli les missions de gardien avec zèle.&lt;BR&gt;Quelle noblesse !&lt;NEXTPAGEBUTTON&gt;"Merci, mais... Vous avez trouvé la pierre précieuse du froid ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien sûr, pardi !&lt;BR&gt;&lt;BR&gt;Je tiens toujours mes promesses.&lt;BR&gt;&lt;BR&gt;Je m'étais déjà occupée de la pierre précieuse du froid lors d'ordres de mission de la Fédération et je me l'étais procurée.&lt;BR&gt;&lt;BR&gt;Elle est à vous.&lt;BR&gt;&lt;BR&gt;Je me demande ce que ça donne quand elle est sur la couronne d'éternité pour Velik...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="34" prevId="5" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Ouah ! La couronne est vraiment magnifique !&lt;BR&gt;C'est incroyable, cette force magique qu'elle dégage !&lt;BR&gt;&lt;BR&gt;Même incomplète, elle est déjà un cadeau digne de Velik.&lt;BR&gt;&lt;BR&gt;Je vous remercie, gardien !&lt;BR&gt;Je vais pouvoir m'apprêter pour la fête.&lt;BR&gt;&lt;BR&gt;On se retrouve dans la Salle de banquet, j'espère.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Ça s'est bien passé ? Vous avez obtenu la pierre précieuse du froid ?&lt;NEXTPAGEBUTTON&gt;"Voyez-vous même. Voilà la couronne d'éternité transcendante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, elle est presque complète !&lt;br&gt;&lt;BR&gt;Tenez ! En échange de la peine que vous vous donnez.&lt;br&gt;J'espère que cela vous sera utile dans vos aventures.&lt;BR&gt;&lt;BR&gt;Je vous fais signe dès que j'en sais plus sur une autre pierre précieuse, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;À bientôt, gardien.</Page>
+    </Text>
+</QuestDialog>

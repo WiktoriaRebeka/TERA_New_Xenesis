@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1008">
+        <Page social="4">On dit que vous comptez vous aventurer dans la grotte. C'est le cas&amp;nbsp;? Fantastique&amp;nbsp;! Euh... pour vous, j'entends. Je veux dire, on raconte que c'est chouette... euh... comme coin... Alors ça me fait plaisir pour vous, voilà tout.&lt;BR&gt;&lt;BR&gt;Cela dit...&lt;BR&gt;&lt;BR&gt;Eh bien... tant que vous serez sur place, ça vous dérangerait de me trouver quelques &lt;b&gt;champignons rupestres&lt;/b&gt;. Enfin... Si vous tombez dessus par hasard, ça va sans dire.&lt;BR&gt;&lt;BR&gt;Ensuite, vous pourriez peut-être aller les remettre à Ruanal&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">Des champignons rupestres&amp;nbsp;? Formidable... Je mourais de faim&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est Nadr qui me les envoie&amp;nbsp;? Je l'adore... Il veille sur moi depuis les premiers jours.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Mmhm... Des champignons.</Page>
+    </Text>
+</QuestDialog>

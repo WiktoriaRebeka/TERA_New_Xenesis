@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Nous devons éliminer les argons qui gardent ce labyrinthe.&lt;BR&gt;&lt;BR&gt;Ils portent des armures plus robustes que leurs congénères. Même celles des soldats d'élite ne les égalent pas.&lt;BR&gt;&lt;BR&gt;Après les avoir vaincus, récupérez des pièces d'armure pour aider nos forgerons dans leurs tests.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Hah&amp;nbsp;! Vous les avez taillés en pièce&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous n'avez pas froid aux yeux, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Beau travail, camarade.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1001">
+        <Page social="0">Les argons ont mis au point une nouvelle façon de fabriquer des armures.&lt;BR&gt;&lt;BR&gt;Rapportez-moi quelques pièces pour que nos forgerons les étudient.</Page>
+    </Text>
+</QuestDialog>

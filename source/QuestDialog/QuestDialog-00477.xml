@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1004">
+        <Page social="4">Je ne comprends pas ce qui a pu se passer avec les vampires. Ils se sont montrés pacifiques, jusqu'ici. Notre coexistence n'avait pas l'air de poser le moindre problème.&lt;BR&gt;&lt;BR&gt;Je déplore de devoir en arriver à un aussi triste constat, mais à partir de maintenant, c'est eux ou nous.&lt;BR&gt;&lt;BR&gt;Si vous pouviez vous occuper des {@LinkCreature:16#2302#seigneurs sanglants}, je me sentirais un peu plus en sécurité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1004">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Beaucoup de gens pensent que ce n'est pas leur problème mais si nous ne l'arrêtons pas… Enfin, je pense que vous comprenez.</Page>
+    </Text>
+</QuestDialog>

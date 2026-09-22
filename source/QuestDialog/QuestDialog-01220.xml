@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="4">Quand les argons nous ont attaqués, nous avons subi de lourdes pertes. Nous n'avons pas les ressources pour rapatrier les cadavres chez eux, mais si nous pouvions rendre leurs cornes à leurs familles, ce serait un grand honneur.&lt;BR&gt;&lt;BR&gt;Vous êtes soldat, vous comprenez, j'imagine&amp;nbsp;? Quatre cadavres de forgerons gisent sur le champ de bataille. Récupérez leurs cornes pour moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1026">
+        <Page social="6">(Ce forgeron a donné sa vie pour repousser les argons.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1027">
+        <Page social="6">(Ce forgeron a donné sa vie pour repousser les argons.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1028">
+        <Page social="6">(Ce forgeron a donné sa vie pour repousser les argons.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1029">
+        <Page social="6">(Ce forgeron a donné sa vie pour repousser les argons.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="3" villagerId="1030">
+        <Page social="4">Merci. Leurs familles aussi vous seront reconnaissantes.</Page>
+    </Text>
+</QuestDialog>

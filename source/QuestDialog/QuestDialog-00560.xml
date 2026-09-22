@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="4">J'ai recoupé les faits en faisant abstraction des rumeurs les plus farfelues et j'ai acquis la certitude que tout remonte à l'entrée en scène de Sidurek. Les serviteurs de Lok sont apparus dans son sillage.&lt;NEXTPAGEBUTTON&gt;"Et où puis-je le trouver&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">En général, il traîne dans les parages de la forteresse de la Confrérie libre. Prudence... Il sort rarement sans escorte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1031">
+        <Page social="4">Une lettre&amp;nbsp;? Voyons ça. C'est adressé à un certain Malachai.&lt;BR&gt;&lt;BR&gt;Je vais étudier ça dans le détail. Merci de votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1031">
+        <Page social="0">Aussi longtemps que Sidurek sera en vie, les choses ne feront qu'empirer.</Page>
+    </Text>
+</QuestDialog>

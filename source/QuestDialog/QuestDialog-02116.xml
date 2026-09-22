@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Les argons nous envoient des machines de guerre mécaniques, mais la source d'énergie qui les alimente repose bien sagement dans les Catacombes argones.&lt;BR&gt;&lt;BR&gt;En faisant vite, nous pourrions détruire le {@LinkCreature:418#2009#catalyseur de cyasma}.&lt;NEXTPAGEBUTTON&gt;"Mettez-moi sur le coup."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ce n'est pas une promenade de santé, &lt;PCNAME&gt;, mais si vous vous sentez d'attaque, allez faire votre rapport à {@LinkCreature:418#2003#Arigma} dans les {@Rgn:9018001$$Catacombes argones}. Il vous enverra sur place.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Bien sûr, vous êtes capable de détruire le {@LinkCreature:418#2009#catalyseur de cyasma}, mais ce ne sera pas facile. De plus, il y en a trois.&lt;BR&gt;&lt;BR&gt;Votre tentative vous honore, mais gardez en tête que cette mission pourrait être votre dernière. Les argons gardent de nombreux hommes en réserve pour protéger leurs catalyseurs.&lt;BR&gt;&lt;BR&gt;Si le sol commence à vibrer, un conseil&amp;nbsp;: courez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2003">
+        <Page social="4">Nous avons entendu, euh, senti l'explosion d'ici&amp;nbsp;! Quel exploit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais envoyer des messagers à la Citadelle de Khanovar annoncer que les argons vont être vulnérables un moment après ça.</Page>
+    </Text>
+</QuestDialog>

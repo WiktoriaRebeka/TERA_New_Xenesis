@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0">Quelque chose s’adresse à moi. J’entends sans arrêt une voix me dire&amp;nbsp;: "récolte des fragments d’ombre" et "écoute nos voix."&lt;BR&gt;&lt;BR&gt;Vous croyez que je perds la boule&amp;nbsp;? Je vais vous prouver le contraire&amp;nbsp;! Tuez quelques {@LinkCreature:33#6#spectres malveillants} dans la Plaine du Vertige, récupérez les fragments d’ombre, et on verra bien qui est fou et qui ne l’est pas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1010">
+        <Page social="4">Très bien, on va voir si ça fonctionne. Je vais les mettre contre mes oreilles.&lt;BR&gt;&lt;BR&gt;Que voulez-vous, maudites voix&amp;nbsp;? Dites-moi tout.&lt;BR&gt;&lt;BR&gt;C’est... oh, ce sont les voix des soldats disparus&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Les soldats de Kaidun&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oui&amp;nbsp;! Mes camarades amans&amp;nbsp;! Maudits soient Thulsa et cet horrible endroit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les Défenseurs eldritch de la Galerie de l’angoisse étaient en fait les soldats disparus et... non&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Helehr est encore là-haut, il cherche à nous avertir... une malédiction est en train d’engloutir cet endroit. Oh mon ami&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous devez aller en informer Alssiyah&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1010">
+        <Page social="0">Je ne sais pas trop quoi faire des fragments d’ombre. Je me les fourre dans les oreilles&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="3" villagerId="1001">
+        <Page social="4">Helehr&amp;nbsp;? Il était là pendant tout ce temps&amp;nbsp;? Oh ignoble Thulsa, sois maudit pour avoir ainsi déshonoré un fier guerrier.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous devez le retrouver. La malédiction a dû le transformer, mais il n’en reste pas moins notre camarade. Aidez-le&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1012">
+        <Page social="0">Vous avez entendu ma voix&amp;nbsp;! Je n’ai pas envie qu'on me voie dans cet état, mais je ne peux pas rester là à attendre la mort alors que mes camarades sont en danger.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="9">Les farfadets... certainement les petites pestes les plus détestables existant en ce bas monde. Les plans de la Légion de Thulsa menacent l'avenir de la Fédération, et les farfadets jouent les chiens dans un jeu de quille. Nous ne devons en aucun cas détourner notre attention de la légion.&lt;BR&gt;&lt;BR&gt;Allez nous débarrasser des farfadets d'ébène fougueux et rapportez-moi leurs dents. Nous en ferons des colliers ou quelque chose comme ça. Ce sera bon pour le moral des troupes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1016">
+        <Page social="18">Merci, &lt;PCNAME&gt;. Maintenant que le problème des farfadets est réglé, nous allons pouvoir nous concentrer sur l'élimination de l'armée de Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1016">
+        <Page social="0">Les farfadets rôdent toujours dans les parages.&lt;BR&gt;&lt;BR&gt;Traquez-les et débarrassez-nous de ces parasites.</Page>
+    </Text>
+</QuestDialog>

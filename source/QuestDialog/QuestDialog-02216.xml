@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">Qu'est-ce qui vous amène sur ce site de pêche perdu ? Ma réputation me précèderait-elle ?&lt;NEXTPAGEBUTTON&gt;"Je ne suis pas ici pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah, ne soyez pas si timide, l'ami !&lt;BR&gt;Vous êtes sûrement ici pour apprendre à mes côtés, moi, le pêcheur légendaire ?&lt;BR&gt;Hum... mais je vois que vous arrivez les mains vides.&lt;BR&gt;Commencez donc par me procurer un steak de poisson.&lt;BR&gt;C'est le seul moyen de me prouver que vous avez les bases en cuisine indispensables pour un pêcheur.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Gritmo, du Marais Vexatus, vous a confié plusieurs missions pour tester vos talents de pêcheur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Génial ! L'odeur du filet de poisson sauté me fait déjà monter l'eau à la bouche.&lt;BR&gt;J'admets que vous maîtrisez au moins les bases de la cuisine.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Que diriez-vous de nous pencher sur la pêche à proprement parler.&lt;BR&gt;Dans le Marais Vexatus, les appâts normaux ne vous serviront à rien. Les poissons d'ici sont très particuliers.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Vous avez le steak de poisson ?&lt;BR&gt;Vous trouverez les ingrédients dans le magasin d'articles de pêche.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Si vous voulez attraper un poisson spécial, rendez-vous donc dans les Cavernes affamées, derrière la cascade.&lt;BR&gt;Dans la chambre, vous trouverez un squelette blanc neige.&lt;BR&gt;Vous pourriez l'examiner ?&lt;BR&gt;On y trouve un appât pour un poisson très spécial appelé poisson boueux.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Génial ! Maintenant, utilisez les fragments squelettiques pour pêcher sur le Site de pêche du Marais Vexatus.&lt;BR&gt;Vous pourrez alors attraper le poisson boueux.&lt;BR&gt;Trois poissons boueux devraient faire l'affaire.&lt;BR&gt;Si vous tombez à court d'appât, vous devrez retourner dans la grotte. Faites attention à tout bien faire.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Vous avez les fragments squelettiques ? Explorez bien les Chambres des Cavernes affamées.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" prevId="6" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Génial ! Dès que le poisson boueux sort de l'eau, il s'avarie et perd sa valeur.&lt;BR&gt;Tout pêcheur qui se respecte se doit d'en attraper un au moins une fois dans sa vie.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Vous avez attrapé le poisson boueux ? Si vous tombez à court d'appât, vous en trouverez d'autres dans les cavernes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="5">Les niveaux inférieurs de l'académie abritent les Laboratoires maléfiques et les catacombes de la reine des sorcières.&lt;BR&gt;&lt;BR&gt;J'ai utilisé ma magie pour créer une vision de ce qui s'y passe et j'ai vu que ces étages grouillent de démons. C'est là que votre force nous sera utile.&lt;BR&gt;&lt;BR&gt;Gagnez les niveaux inférieurs et trouvez {@LinkCreature:222#1023#Chalyn}. Elle saura quoi faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Comment se passe la bataille pour les niveaux supérieurs&amp;nbsp;? Mieux qu'ici, j'espère.&lt;BR&gt;&lt;BR&gt;Nous sommes dans les démons jusqu'à la pointe de nos chapeaux pointus, &lt;PCNAME&gt;. Nos problèmes sont un peu trop subtils pour ces démons, mais ils font des mercenaires très prisés pour ceux qui choisissent la voie rapide vers le pouvoir. Quel que soit leur dessein, allons y mettre un terme&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

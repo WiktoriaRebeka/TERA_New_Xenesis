@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="4">Je ne sais vraiment pas ce qu'il y a de pire&amp;nbsp;: le fait de ne plus sentir mes orteils, ou ces rapports indiquant que les {@LinkCreature:34#1100#barsicores marche-glace} ont encore attaqué une équipe de prospection.&lt;BR&gt;&lt;BR&gt;Nous avons besoin de cette glace, alors occupez-vous de ces barsicores. Moi, je vais demander aux arcanistes d'enchanter mes chaussettes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Les barsicores sont d’horribles créatures. Les géants aiment s’en servir comme avant-garde, et ils divertissent les devans.&lt;BR&gt;&lt;BR&gt;Moi, je veux simplement en faire des statues de glace hyperréalistes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1003">
+        <Page social="0">Evidemment que je ne peux pas aller tuer les barsicores moi-même. Mes orteils risquent de se briser, et vous savez ce que ça ferait de moi&amp;nbsp;? Un boiteux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous vous rendez compte&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

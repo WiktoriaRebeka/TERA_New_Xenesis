@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">Vous connaissez l'{@Rgn:50005} ? On y a découvert une pierre au moins aussi grosse que celle du {@Rgn:50004}. &lt;BR&gt;&lt;BR&gt;Une énergie s'y accumule et fait muter les argons en kargons. L'endroit pullule de kargons rouges. &lt;BR&gt;&lt;BR&gt;Éliminez {@LinkCreature:50#3} qui protège l'{@Rgn:50005} dans le {@Rgn:50004}. Cela devrait permettre d'interrompre le flux d'énergie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1014">
+        <Page social="6">La mort de Maskimxuul va ralentir la propagation de la peste argone, si elle ne l'arrête pas. Nous avons même une chance de voir une partie de l'énergie volée restituée à la terre.&lt;BR&gt;&lt;BR&gt;Votre intervention bien opportune nous ouvre de nouvelles perspectives. Merci.</Page>
+    </Text>
+</QuestDialog>

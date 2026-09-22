@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="105">
+        <Page social="4" voiceTypeId="0">Hein ? C'est étrange...&lt;BR&gt;J'ai le sentiment que Tiaran est en difficulté.&lt;BR&gt;Patientez donc un instant, gardien.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous êtes retourné au village avec Anya.&lt;BR&gt;&lt;BR&gt;Anya avançait avec assurance avant de s'arrêter brusquement en affirmant avoir entendu dire que Tiaran était en difficulté. À cet instant précis, des ghilliedhus ont surgi.&lt;BR&gt;&lt;BR&gt;Les gardiens étaient censés avoir éradiqué depuis longtemps ces parasites qui proliféraient autrefois sur les racines de Tiaran. Mais il était maintenant évident qu'un ghilliedhu originel était revenu à la vie pour engendrer les ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="105">
+        <Page social="4" voiceTypeId="0">Oh non, des ghilliedhus&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils sont méchants&amp;nbsp;! Ils volent la sève des racines de Tiaran et ça le rend malade&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous devez les arrêter, &lt;PCNAME&gt;&amp;nbsp;! Je vais aller chercher tonton Emun&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je vais les arrêter, Anya. Et toi, sois vigilante&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="222">
+        <Page social="4" voiceTypeId="0">Vous venez de vaincre trois ghilliedhus à vous seul{@g:/e}, &lt;PCNAME&gt;&amp;nbsp;! Je ne l'aurais jamais cru sans le voir&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je me demande ce qu'ils font dans les parages. Nous n'avons jamais vu de ghilliedhus dans cette partie de l'île...&lt;NEXTPAGEBUTTON&gt;"Comment sont-ils arrivés ici&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

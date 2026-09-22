@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="4">Un argon particulièrement violent, {@LinkCreature:48#25}, a mené l'attaque contre notre installation. J'en avais froid dans le dos de le voir se battre.&lt;NEXTPAGEBUTTON&gt;"On dirait un ennemi qu'il vaudrait mieux voir mort…"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tout à fait. Eliminez {@LinkCreature:48#25} et faites votre rapport à {@LinkCreature:248#1001}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">{@LinkCreature:48#25} est mort&amp;nbsp;? Excellent travail.&lt;BR&gt;&lt;BR&gt;Ce monstre a infligé des pertes énormes à nos forces. Sa mort remontera le moral des troupes. Merci.</Page>
+    </Text>
+</QuestDialog>

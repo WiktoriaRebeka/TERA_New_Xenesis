@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="4">Maintenant que vous nous avez débarrassés de Selvereth, il serait égoïste de ma part de vous demander de rester parmi nous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Au sud de la Base de Feu de l'Audace se trouve la Fournaise divine, dont nous avons été chassés par l'armée ksharane, la troupe d'élite de Thulsa. Pourriez-vous aller y donner un coup de main à nos soldats&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quand vous aurez traversé le pont, allez parler à Krok. Vous le trouverez au Guet de la Tombe des Exilés. Son bras est aussi ferme que ses idées sont bien arrêtées, croyez-moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">C'est vous qu'on nous envoie, &lt;PCCLASS:lcase&gt;&amp;nbsp;? Vous {@gender:seul/seule}&amp;nbsp;? Ma parole, mais ils n'ont donc rien dans le crâne&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;On fait quoi, nous&amp;nbsp;? On laisse Thulsa fabriquer son artefact de mort&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

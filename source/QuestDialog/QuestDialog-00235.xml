@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4">Les bénéfices, c'est quand la demande rencontre l'offre. J'ai l'offre et les troupes dans les grottes ont la demande. C'est la rencontre qui pose problème.&lt;BR&gt;&lt;BR&gt;Payer ses gardes du corps au prix du marché. Leçon retenue.&lt;BR&gt;&lt;BR&gt;Mais je n'ai plus d'argent et les hommes de {@LinkCreature:208#1034#Baidan} n'ont toujours pas de nourriture. Pouvez-vous nous aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1034">
+        <Page social="4">C'est Avil qui vous envoie&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ce filou grassouillet a un jour de retard et quelques objets manquants à chaque livraison. Il vaudrait mieux pour lui qu'il ne me croise pas dans une ruelle sombre.</Page>
+    </Text>
+</QuestDialog>

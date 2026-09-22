@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Lettre du commandant de Valkyon]&lt;BR&gt;Avis aux valeureux parmi les valeureux de l'élite de Valkyon.&lt;BR&gt;Rassemblez-vous immédiatement à Hautegarde auprès de Angk, l'instructeur du Donjon des épreuves.&lt;BR&gt;&lt;BR&gt;Instructeur du Donjon des épreuves {@linkcreature:183#7002#Angk}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt; ! J'ai beaucoup entendu parler de vous.&lt;BR&gt;&lt;BR&gt;Notre dernière troupe de recrues n'a pas vraiment brillé pendant les manœuvres. Nous devons donc employer les grands moyens.&lt;BR&gt;À l'aide d'un peu de magie noire, nous avons pu reproduire les cavernes que la Fédération Valkyon a conquises par le passé.&lt;BR&gt;Je vous serais reconnaissant de bien vouloir explorer les cavernes, pour vérifier que la formation des recrues peut se faire en toute sécurité.&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement d'au moins 431 est recommandé pour entrer dans le Donjon des épreuves.]&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="7002">
+        <Page social="4">Merci, &lt;PCNAME&gt; ! Grâce à vous, j'ai pu terminer l'épreuve sans y laisser des plumes.&lt;BR&gt;Mais tout cela me semble encore trop difficile pour les recrues.&lt;BR&gt;En revanche, cela fera un bon échauffement pour les vétérans de votre trempe.&lt;BR&gt;&lt;BR&gt;Acceptez cette humble récompense et reprenez votre route.&lt;BR&gt;N'hésitez pas à revenir quand vous avez besoin de repos.</Page>
+    </Text>
+</QuestDialog>

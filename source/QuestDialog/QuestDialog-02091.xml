@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">Les Invalescos ont déployé pas mal de ressources pour comprendre comment les argons réussissent à remodeler notre monde. Leur évolution technologique est remarquable, mais elle est également préoccupante.&lt;BR&gt;&lt;BR&gt;J'aimerais connaître l'état de nos recherches. Rendez-vous à la Base de la Riposte et parlez avec les chercheurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">La technologie de transmutation argone&amp;nbsp;? Oui, c'est le sujet de nos recherches, mais ce n'est pas moi qui les dirige. Le chef se trouve au sommet de cette échelle. Il profite de la vue pendant que les argons ont d'autres chats que nous à fouetter&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">J'avais oublié&amp;nbsp;! C'est moi qui avais ce rapport depuis le début.&lt;BR&gt;&lt;BR&gt;J'en perdrais mes cornes si elles n'étaient pas bien vissées sur ma tête.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="3502">
+        <Page social="4">J'ai mis à jour ceci ce matin. J'espère que ce sera utile à {@LinkCreature:77#3001#Nithan} dans le cadre de notre mission.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="3504">
+        <Page social="4">Les conclusions de ce rapport me glacent le sang. Je me demande ce que {@LinkCreature:77#3001#Nithan} va pouvoir en tirer.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="3505">
+        <Page social="4">Les argons remodèlent notre monde en l'adaptant à leurs besoins, au détriment des nôtres. Cela signifie, à plus ou moins long terme, que nos races ne pourront jamais cohabiter.&lt;BR&gt;&lt;BR&gt;Ce rapport résume les résultats de nos recherches. Apportez-le à {@LinkCreature:77#3001#Nithan}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3001">
+        <Page social="4">Excellent. J'ai hâte de connaître l'avis de nos plus éminents experts sur ce problème.&lt;BR&gt;&lt;BR&gt;Merci pour votre aide, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" villagerId="3001">
+        <Page social="0">J'ai besoin de ce rapport, &lt;PCNAME&gt;. Sans lui, nous sommes coincés.</Page>
+    </Text>
+</QuestDialog>

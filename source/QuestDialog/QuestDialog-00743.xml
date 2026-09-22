@@ -1,0 +1,62 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="0">Quand Schakan a occis Lok dans le Bois malade pendant la guerre des dieux, le sang de Lok a corrompu la forêt. Le Mysterium a développé un appareil de purification afin de freiner les ravages, mais les spectres furieux l'ont endommagé. Vous avez réactivé l'appareil et dérobé au spectre défunt Gaise le bracelet de Thulsa, une relique permettant d'amplifier l'énergie de Lok. Il vous fallait activer le pouvoir de Shakan pour contrôler le bracelet.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="5" voiceTypeId="0">Êtes-vous déjà allé dans le Bois malade ? Avant la guerre des dieux, le Bois malade était d'une beauté incomparable.&lt;BR&gt;&lt;BR&gt;Et puis Shakan a occis Lok, détruisant ainsi la vieille forêt. Le Mysterium prévoit de réparer les dégâts, mais cela ne peut pas se faire sans votre soutien.&lt;BR&gt;&lt;BR&gt;Allez parler à Gwahre, à Tria. C'est un Prêtre un peu excentrique, mais aussi brillant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1027">
+        <Page social="5" voiceTypeId="0">Eh bien, ce n'est pas trop tôt ! Raeren s'imagine sans doute que nous pouvons attendre jusqu'à la fin des temps ?!&lt;BR&gt;&lt;BR&gt;Bon, comment allons-nous mettre vos talents à profit ? Vous connaissez l'histoire du Bois malade ? Ne serait-ce que par bribes ?&lt;NEXTPAGEBUTTON&gt;"J'en ai quelques notions."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Il y a fort longtemps, le dieu bestial Shakan et Lok, le dieu démoniaque, se sont livrés une lutte sans merci qui s'est soldée par un combat décisif dans le Bois malade.&lt;BR&gt;&lt;BR&gt;Lok a succombé aux coups de Shakan et s'est retrouvé en lambeaux. Sa chair et son sang ont frappé cette forêt autrefois prospère d'une malédiction.&lt;BR&gt;&lt;BR&gt;Et même si beaucoup considèrent cette histoire comme une légende, ce n'est que la triste réalité : en ce moment même, la chair et le sang de Lok empoisonnent cette forêt. Voilà pourquoi il faut inlassablement la purifier.&lt;BR&gt;&lt;BR&gt;Toutefois, la concentration du poison s'est récemment amplifiée, à tel point que Tria est désormais en danger.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Nous devrions commencer par supprimer les {@linkcreature:28#1021#loups ligneux à épines}. Le poison les affecte tout particulièrement. Ils assaillent sans cesse les ouvriers chargés de la purification et le nombre d'ouvriers malades progresse à une allure inquiétante.&lt;BR&gt;&lt;BR&gt;Nous devons donc éliminer les loups ligneux à épines si nous voulons que le travail de purification progresse. Faites ensuite votre rapport à {@linkcreature:70#1032#Javelle}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1032">
+        <Page social="5" voiceTypeId="0">C'est vrai ? Alors nous allons pouvoir fournir un remède aux ouvriers. Merci de vous rendre dans le {@linkcreature:228#1001#Camp de Zakai}. Anarie, l'inquisitrice du Mysterium, y mène ses recherches.&lt;BR&gt;&lt;BR&gt;La route qui mène au Camp de Zakai est envahie par des {@linkcreature:28#2011#loups ligneux patte-fumée} soumis à une source de corruption plus puissante que les loups ligneux à épines. Je pense pouvoir utiliser leurs crocs pour concocter un remède capable de remettre les ouvriers malades sur pied.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, chassez les {@linkcreature:28#2011$$loups ligneux patte-fumée} et rapportez leurs crocs à Anarie.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="228" prevId="4" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Ah, parfait, c'est exactement ce que je cherchais. Mais c'est assez imprudent de votre part de l'apporter ici sans la moindre protection. Comment-vous sentez-vous ?&lt;BR&gt;&lt;BR&gt;D'autres que vous se tordraient déjà de douleur, recroquevillés par terre. Mais la contagion ne semble pas vous affecter.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, je vous remercie. Grâce à vous, nous pouvons ravitailler l'Avant-poste de Garbi en médicaments.&lt;BR&gt;&lt;BR&gt;Pourriez-vous apporter ces soins à Lasiren, dans l'Avant-poste de Garbi ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="228" villagerId="1001">
+        <Page social="0">Nos stocks de médicaments fondent à vue d'œil. Si j'avais plus de crocs de loup, je pourrais en fabriquer d'autres.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="228" prevId="5" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Ainsi, vous m'apportez des médicaments ! Ces derniers temps, la situation s'est fortement dégradée dans le Bois malade. Certes, cela fait bien longtemps que la chair de Lok empoisonne le bois, mais à l'époque, la corruption progressait plus lentement.&lt;BR&gt;&lt;BR&gt;Depuis peu, la corruption s'accélère sans cesse, si bien que les animaux et les autres créatures tombent malades et perdent la tête.&lt;BR&gt;&lt;BR&gt;Et par-dessus le marché, les ouvriers sont contaminés pendant le travail de purification. Et voilà maintenant que l'appareil de purification est tombé en panne. &lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Pourriez-vous nous aider à redémarrer les appareils de purification ?&lt;BR&gt;&lt;BR&gt;Pour cela, vous devez tout d'abord éliminer les {@linkcreature:28#3051#jalmaraks corrompus}, au sud du Bois malade. C'est à cause d'eux que les appareils de purification ne fonctionnent plus. Quand vous les aurez supprimés, vous pourrez relancer les appareils.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="228" prevId="7" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Je savais bien que vous y arriveriez, &lt;PCNAME&gt; ! Pendant ce temps, j'ai découvert que nous sommes enfermés dans un cercle vicieux de corruption du bois et de rage des spectres :&lt;BR&gt;&lt;BR&gt;ces spectres engendrés quand le sang de Lok a corrompu la forêt veulent garder la forêt pour eux seuls. Voilà pourquoi ils entravent les travaux de purification. En conséquence, la corruption du bois s'accentue et les spectres s'avilissent toujours plus.&lt;BR&gt;&lt;BR&gt;Le chef des spectres est le {@linkcreature:28#6000#spectre défunt Gaist}. Si vous parvenez à le supprimer, les autres spectres ne pourront plus gêner nos travaux de purification. Éliminez-le et rapportez-moi n'importe quel objet de sa possession.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="228" prevId="8" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Hum, ainsi, Gaist possédait aussi ce bracelet ? C'était un spectre ordinaire... et c'est donc sans doute grâce à ce bracelet qu'il a pu commander les spectres corrompus.&lt;BR&gt;&lt;BR&gt;C'est à peine croyable ! Ce bracelet renferme un sortilège qui amplifie la corruption engendrée par Lok. Une telle magie ne peut qu'être l'œuvre de Thulsa, le dieu de la mort.&lt;BR&gt;&lt;BR&gt;Voilà qui est fort étonnant ! J'ai scellé le pouvoir de ce bracelet, allez maintenant l'apporter au plus vite à Gwahre, à Tria. Il connaît une multitude de Sorciers et Mystiques talentueux et il saura quoi faire. Je vous remets aussi un parchemin qui vous transportera à Tria.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="228" villagerId="1014">
+        <Page social="0">Vaincre Gaist ne suffit pas. Pour trouver la source de son pouvoir, il nous faut un objet qu'il a porté sur lui. Merci de me ramener un tel objet.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="9" villagerId="1027">
+        <Page social="5" voiceTypeId="0">La magie de Thulsa a encore amplifié la puissance de Lok qui se propageait dans le Bois malade. Une force équivalente est nécessaire pour combattre cette puissance... la force de Shakan devrait faire l'affaire, car après tout, il a bien tenu tête à Lok.&lt;BR&gt;&lt;BR&gt;Ce bracelet a amplifié la puissance d'un dieu... si nous inversons ses caractéristiques, nous devrions pouvoir y concentrer la puissance de Shakan.&lt;BR&gt;&lt;BR&gt;C'est là le domaine de compétence d'un Mystique nommé Erlon. À l'heure actuelle, il séjourne probablement dans les Bois intemporels. Allez le trouver et demandez-lui de l'aide. Il saura sûrement quoi faire.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="229" prevId="11" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Combattre le feu par le feu, je comprends... Ils comptent exploiter la puissance de Shakan pour s'opposer à celle de Lok. Vous faites bien de vous adresser à moi.&lt;BR&gt;&lt;BR&gt;Je me consacre depuis longtemps à l'étude de la puissance de Shakan. Il y a bien longtemps, les Bois intemporels faisaient partie du territoire de Shakan.&lt;BR&gt;&lt;BR&gt;Mais de nos jours, un sortilège mystérieux fait enrager les animaux sauvages de la région.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="229" prevId="12" villagerId="1010">
+        <Page social="4" voiceTypeId="0">La discorde qui oppose Shakan et Lok est si tenace qu'ils cherchent constamment à se damer mutuellement le pion. Si vous donnez le bracelet du dieu démoniaque en offrande sur l'autel de Shakan, le pouvoir de Shakan va immédiatement tenter d'exterminer la puissance de Lok.&lt;BR&gt;&lt;BR&gt;Mais une bande suspecte a récemment conquis l'autel de Shakan et y réalise des incantations visant à affaiblir le pouvoir de Shakan.&lt;BR&gt;&lt;BR&gt;Si vous voulez utiliser la puissance de Shakan, vous devez anéantir {@linkcreature:29#7022#Artania} et {@linkcreature:29#7021#Limcadus}.&lt;NEXTPAGEBUTTON&gt;"Je vais les anéantir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Alors je vais vous amener à l'endroit où ils sévissent. Soyez sur vos gardes. &lt;BR&gt;&lt;BR&gt;Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="229" prevId="12" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Je vous souhaite bonne chance. J'espère que vous réussirez.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="229" prevId="12" villagerId="1024">
+        <Page social="5" voiceTypeId="0">(Le hurlement d'une bête sauvage retentit dans la forêt. Le bracelet émet un cri strident avant de tomber en poussière.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="229" prevId="15" villagerId="1024">
+        <Page social="5" voiceTypeId="0">(Une chaleur inexplicable se répand dans votre poitrine. Une voix vous chuchote : "Souhaitez-vous retourner d'où vous venez ?")</Page>
+    </Text>
+    <Text id="17" huntingZoneId="229" prevId="15" villagerId="1024">
+        <Page social="5" voiceTypeId="0">(Le hurlement emplit maintenant votre torse et une force mystérieuse attire votre conscience vers l'au-delà.)</Page>
+    </Text>
+    <Text id="18" huntingZoneId="70" prevId="15" villagerId="1027">
+        <Page social="5" voiceTypeId="0">J'ai reçu le message d'Erlon et j'ai eu bien du mal à y croire, mais vous semblez bel et bien avoir triomphé. &lt;BR&gt;&lt;BR&gt;Voilà donc comment la puissance de Shakan a réagi à celle de Lok, malgré un sommeil millénaire. Cela prouve bien la ténacité de la haine qu'il voue à Lok.&lt;NEXTPAGEBUTTON&gt;"En effet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">D'un point de vue de chercheur, la destruction du bracelet du dieu démon est fort regrettable, mais c'était au service d'une cause supérieure.&lt;BR&gt;&lt;BR&gt;Tout le mérite vous en revient, &lt;PCNAME&gt;. Vous avez la gratitude de tous !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="743" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="3001">
+        <Page social="0">Salutations, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il semblerait que Bandersnatch le fou ait enlevé l'un des plus grands esprits du Mysterium. Maître Adonis offre une récompense à celui qui ramènera son conseiller Aliss sans et sauf et qui tuera Bandersnatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="3001">
+        <Page social="0">Merci d'avoir vaincu Bandersnatch.&lt;BR&gt;&lt;BR&gt;Voici la récompense promise par Maître Adonis.&lt;BR&gt;&lt;BR&gt;Votre service sera inscrit dans les annales du Mysterium et ne sera jamais oublié.</Page>
+    </Text>
+</QuestDialog>

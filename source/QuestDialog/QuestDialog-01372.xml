@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Je n'aurais pas dû me moquer de vous, &lt;PCNAME&gt;. Vous faites honneur à votre caste, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Vous acceptez mes excuses&amp;nbsp;? Génial&amp;nbsp;! Vous pourriez aller aider mon ami, Tarut&amp;nbsp;? Il a grand besoin de soldats de votre trempe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Il faut avoir perdu la tête pour venir s'aventurer comme ça dans les mâchoires de la mort. Vous n'avez pas vu ces cadavres, ces squelettes&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin... d'un autre côté, toute aide est la bienvenue, surtout si c'est Krok qui vous envoie.&lt;BR&gt;&lt;BR&gt;Bienvenue dans l'un des domaines sacrés des amans&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

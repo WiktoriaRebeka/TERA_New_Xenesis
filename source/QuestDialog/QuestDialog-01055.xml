@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="4">L'ancien préfet de la garnison a été transformé par le fléau. A présent, il commande une armée de mutants assoiffés de sang.&lt;BR&gt;&lt;BR&gt;Je vous demande de vous en occuper, &lt;PCNAME&gt;. Tant qu'{@LinkCreature:40#40#Ectoros} est en vie, nous sommes condamnés à mort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="4">Que Kaia lui accorde le repos éternel.</Page>
+    </Text>
+</QuestDialog>

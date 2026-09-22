@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">Partez pour la {@Rgn:45001$$Forteresse de la Serviture} et parlez à {@LinkCreature:245#3511#Volvur} qui se trouve au {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;Il est tombé sur un os lors de ses recherches et a besoin de l'aide de quelqu'un qui a fait ses preuves&amp;nbsp;: vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">Les recherches que je mène portent sur le lien qui existe entre les argons et les modifications scéniques qu'ils apportent à notre monde. C'est bien plus fascinant que vous ne pouvez l'imaginer.&lt;BR&gt;&lt;BR&gt;Je vais avoir besoin de vous pour collecter des échantillons, provenant particulièrement des choses qui vont essayer de me manger...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">Oh, cela fera parfaitement l'affaire.&lt;BR&gt;&lt;BR&gt;J'apprécie votre dévouement, tout comme l'Invalesco, je vous l'assure.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3511">
+        <Page social="0">C'est fou tout ce que vous pouvez apprendre en étudiant la dent d'une créature. J'aimerais m'intéresser aux {@LinkCreature:45#3004#rôdeurs athakelas}.&lt;BR&gt;&lt;BR&gt;Partez les débusquer et rapportez-moi leurs crocs.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="7" villagerId="3511">
+        <Page social="4">Ma foi, c'est aussi fascinant que répugnant.&lt;BR&gt;&lt;BR&gt;Enfin&amp;nbsp;! Je n'ai jamais cru que ce serait une partie de plaisir.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3511">
+        <Page social="0">Les changements biologiques observés sur les {@LinkCreature:45#4002#tuwangis argonomorphes} m'intriguent.&lt;BR&gt;&lt;BR&gt;Apportez-moi des échantillons de leur sang pour que je réalise une étude comparative.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="9" villagerId="3511">
+        <Page social="4">Ah, oui. Du minerai argonite.&lt;BR&gt;&lt;BR&gt;Ce matériau n'est pas vraiment d'origine argone, bien sûr, mais leur présence a tout de même affecté sa composition.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3511">
+        <Page social="0">J'aimerais étudier des échantillons de minerai argonite. C'est un minéral relativement rare. L'Invalesco pense qu'il a un rapport avec le travail mené par les argons dans la région.&lt;BR&gt;&lt;BR&gt;Rapportez-moi un peu de ce minerai, s'il vous plaît.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="4">Affaiblir les impies ne suffit pas, nous devons éliminer Sinarl, leur régent.&lt;BR&gt;&lt;BR&gt;Amline s'est risquée sur la Place des déchus à sa recherche.&lt;BR&gt;&lt;BR&gt;Rejoignez-la et offrez-lui votre aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1024">
+        <Page social="4">Arast vous envoie&amp;nbsp;? Bienvenue.&lt;BR&gt;&lt;BR&gt;Sinarl n'est pas loin, il est en bas, dans la vallée. L'ennui, c'est que je ne peux pas m'approcher, il est sûrement entouré de jalmaraks et d'urisks.&lt;BR&gt;&lt;BR&gt;Vous qui tuez tout sur votre passage, que diriez-vous d'un régent impie&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1025">
+        <Page social="4">Grâce à la mort de Sinarl, nous allons pouvoir tenter de renouer contact avec le reste des jalmaraks. Ramenez-les-nous, je ne sais vraiment pas ce qui leur a pris d'aller aider Thulsa...&lt;BR&gt;&lt;BR&gt;Vous êtes un incroyable soldat, &lt;PCNAME&gt;. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1025">
+        <Page social="0">Sinarl est prudent, il aura des alliés pour le protéger. C'est trop dangereux d'y aller en solitaire, trouvez des renforts.</Page>
+    </Text>
+</QuestDialog>

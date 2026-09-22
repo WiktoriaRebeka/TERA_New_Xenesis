@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0">Même les licornes semblent avoir été corrompues par le vent de folie qui souffle sur la Forêt féerique. Je ne m'inquiète pas trop pour Seravy, mais les autres licornes sont trop fragiles pour survivre à ce genre d'épreuve.&lt;BR&gt;&lt;BR&gt;Votre regard vous trahit, &lt;PCCLASS:lcase&gt;. Croyez-vous que nous en soyons réduits à tuer les {@LinkCreature:2#6#licornes sombres} et autres {@LinkCreature:2#56#licornes sauvages} par plaisir&amp;nbsp;? C'est une tragédie&amp;nbsp;! Le pire que nous puissions faire... c'est de les laisser en vie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="4">L'esprit d'une licorne est trop pur, trop fragile pour résister à une telle corruption. Toutefois, on dit qu'une partie de l'esprit d'une licorne reste à jamais emprisonnée dans sa corne.&lt;BR&gt;&lt;BR&gt;Qui sait&amp;nbsp;? Nous finirons peut-être par trouver un moyen de libérer les esprits de ces cornes pour leur permettre de galoper de nouveau librement dans la forêt&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1034">
+        <Page social="0">Rapportez-moi des cornes de licorne, &lt;PCNAME&gt;... une fois que vous aurez fait le nécessaire pour abréger leurs souffrances.</Page>
+    </Text>
+</QuestDialog>

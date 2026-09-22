@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">Les cris des {@LinkCreature:31#22#sirènes hurle-givre} qui frayent le long de la côte sont à l'origine de la bise glaciale qui balaie nos terres.&lt;BR&gt;&lt;BR&gt;Si la température continue de chuter, les hommes qui sont partis explorer les épaves vont geler sur place&amp;nbsp;! Tuer les sirènes hurlement givré ne fera pas remonter la température, mais ça devrait la stabiliser.&lt;BR&gt;&lt;BR&gt;Quand vous en aurez fini, vous pourriez vous rendre au camp situé au sud du Lac de Glacecroc pour voir comment s'en tirent Tantan et son équipe&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1025">
+        <Page social="4">Oh&amp;nbsp;? Qui êtes-vous&amp;nbsp;? Vous venez pour une formation accélérée en exploration&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah, c'est Halwyn qui vous envoie. Goratong et moi, on s'en sort bien. Enfin, mieux depuis que ces sirènes hurlement givré se sont calmées. Merci de votre sollicitude.&lt;NEXTPAGEBUTTON&gt;"Ok. A plus tard.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hé, attendez&amp;nbsp;! Ça vous tente de gagner un peu d'argent&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">Merci. Grâce à vous, les Riverans vont pouvoir reprendre leurs activités puisque les nagas qui bloquaient l'entrée de la forteresse ont également pris peur.&lt;BR&gt;&lt;BR&gt;Pourriez-vous encore vaincre les sentinelles postées à l'entrée du Passage des frissons ? Si vous les éliminez, les Riverans pourront attaquer la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Merci de votre aide.&lt;BR&gt;&lt;BR&gt;Rejoignez maintenant la Forteresse de Berak avec vos camarades et remplissez-y votre mission.</Page>
+    </Text>
+</QuestDialog>

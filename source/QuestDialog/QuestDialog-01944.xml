@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">Les {@LinkCreature:488#17#sorcières du chaos} se rassemblent là où les âmes sont agitées... ou là où il y a beaucoup de morts.&lt;BR&gt;&lt;BR&gt;Elles savent comment extraire une certaine poudre de ceux qui sont morts violemment, poudre qu'elles utilisent pour leur magie.&lt;BR&gt;&lt;BR&gt;Comme si mourir n'était pas suffisant, il faudrait en plus finir en ingrédient pour une potion de sorcière&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Je vais prendre cette poudre et l'enterrer avec tous les honneurs militaires&amp;nbsp;! Ainsi qu'elle doit l'être&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">S'il vous plaît&amp;nbsp;! Récupérez cette poudre. C'est une question d'honneur&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

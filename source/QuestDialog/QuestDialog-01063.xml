@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1003">
+        <Page social="4">De nombreux mineurs sont victimes du fléau. Avec quelques échantillons de tissus des survivants mutants, on pourrait en savoir davantage sur les origines de la maladie. Au passage, vous pourriez mettre un terme aux souffrances de ces {@LinkCreature:40#16#mineurs mutants}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1003">
+        <Page social="4">Je vais travailler nuit et jour pour comprendre de quoi il retourne. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1003">
+        <Page social="0">Quand j'aurai les échantillons de ces {@LinkCreature:40#16#mineurs mutants}, je pourrai me mettre au travail. En attendant, j’ai les mains liées.</Page>
+    </Text>
+</QuestDialog>

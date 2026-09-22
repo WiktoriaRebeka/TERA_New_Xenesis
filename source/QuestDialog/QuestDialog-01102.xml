@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="5">Nous avons besoin d’antidotes de toute urgence ici&amp;nbsp;: les nagas ont des griffes venimeuses qui provoquent la mort dans d'atroces souffrances.&lt;BR&gt;&lt;BR&gt;Les polypores vipères dont nous avons besoin poussent dans les profondeurs du temple, mais les {@LinkCreature:42#500#chikas vigilants} m’ont empêché de les approcher.&lt;BR&gt;&lt;BR&gt;Si vous pouviez réduire un peu leur nombre, vous me rendriez un fier service.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">Merci. La récolte sera beaucoup plus rapide et facile à présent.</Page>
+    </Text>
+</QuestDialog>

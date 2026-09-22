@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">J'ai deux questions à vous poser, &lt;PCNAME&gt;, et elles sont liées.&lt;BR&gt;&lt;BR&gt;D'abord, connaissez-vous l'expression "dangereux comme un nid de mugatos&amp;nbsp;?"&lt;BR&gt;&lt;BR&gt;Ensuite, saviez-vous qu'il y avait précisément un nid de mugatos juste au &lt;font color='#660000'&gt;sud&lt;/font&gt; d'ici&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous ne pouvons laisser ces bestiaux s'installer aussi près de nous. Vous pourriez chasser les {@LinkCreature:9#200#mugatos} de là, ou au moins les repousser un peu&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Au moins, cet endroit est à l'abri des mugatos... pour le moment.&lt;BR&gt;&lt;BR&gt;Mais ils finiront bien par revenir.&lt;BR&gt;&lt;BR&gt;Quelle plaie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

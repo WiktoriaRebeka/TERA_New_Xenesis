@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3023">
+        <Page social="1">Puisque vous cherchez à vous élever à hauteur du soleil, une autre épreuve de courage vous attend au Temple de Balder.&lt;BR&gt;&lt;BR&gt;Votre tâche est de vaincre {@LinkCreature:425#4000$$Grig}, l'incarnation de l'Eclair de la Flamme rouge, puis de détruire la {@LinkCreature:425#5000#machine de production du golem}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">Vous brillez presque autant que le soleil, mais il vous reste bien des épreuves à surmonter.</Page>
+    </Text>
+</QuestDialog>

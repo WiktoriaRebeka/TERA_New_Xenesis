@@ -1,0 +1,44 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="4">On dit que {@LinkCreature:62#1014$$Finn} veut se remettre à la piraterie. Nous devons tâcher de l'en empêcher.&lt;BR&gt;&lt;BR&gt;J'ai une idée... Prenez du grog et offrez à son équipage la cuite du siècle jusqu'à ce qu'il soit dans l'incapacité de reprendre la mer.&lt;BR&gt;&lt;BR&gt;Croyez-moi, dans l'intérêt de tous, mieux vaut que Finn renonce à ses projets.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1015">
+        <Page social="4">Ce type, là... {@LinkCreature:62#1014$$Finn}, m'a demandé de rejoindre son équipage&amp;nbsp;! Autrefois, ce gars était une légende.&lt;BR&gt;&lt;BR&gt;Eh, c'est quoi, ça&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Mon péché mignon... Goûtez-moi ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous savez quoi, l'envie de me rincer le gosier me travaillait depuis hier. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="1007">
+        <Page social="4">L'autre jour, {@LinkCreature:62#1014$$Finn} m'a proposé de rejoindre son équipage. Honnêtement, j'hésitais, mais il a posé un bon paquet d'argent sur la table.&lt;BR&gt;&lt;BR&gt;Comment peut-on dire non à ça&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Alors buvons à votre carrière de pirate&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La boisson, c'est comme l'argent&amp;nbsp;: je n'ai jamais su dire non&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="5" villagerId="1010">
+        <Page social="4">Je vais faire partie de l'équipage de {@LinkCreature:62#1014$$Finn}&amp;nbsp;! Je ne tiens plus en place&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'ai toujours voulu devenir pirate, mais je n'aurais jamais cru voir un jour mon rêve se réaliser&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Mais dites-moi&amp;nbsp;: savez-vous au moins boire comme un vrai pirate&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quoi&amp;nbsp;? Oh, mais je n'ai jamais... Euh... Je veux dire, bien sûr que oui&amp;nbsp;! Donnez-moi ça, vous allez voir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1009">
+        <Page social="4">Pas le temps de causer. Trop de boulot. Je dois régler un tas de choses avant de rejoindre l'équipage de {@LinkCreature:62#1014$$Finn}.&lt;NEXTPAGEBUTTON&gt;"Buvez un coup... Cela vous détendra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tous ces préparatifs, ça me stresse. Merci beaucoup.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="9" villagerId="1014">
+        <Page social="4">Comment ça, pas de piraterie aujourd'hui&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'ai ma clé, un navire, un équipage... Il ne me manque plus qu'une cible.&lt;BR&gt;&lt;BR&gt;J'ai raté un épisode&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Votre équipage a un coup dans l'aile."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quoi&amp;nbsp;? C'est une blague&amp;nbsp;? Quelle bande d'imbéciles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et moi qui prenais le retour de mon porte-bonheur pour un signe du destin. Dire que le temps était idéal pour reprendre la mer. Décidément, la poisse me colle à la peau.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="11" villagerId="1001">
+        <Page social="4">Bien joué&amp;nbsp;! C'est un vrai soulagement de savoir que Finn ne va pas retourner faire des siennes.&lt;BR&gt;&lt;BR&gt;Connaissant son côté superstitieux, ça devrait le décourager pour de bon.</Page>
+    </Text>
+</QuestDialog>

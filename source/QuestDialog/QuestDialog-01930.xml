@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="0">Vous avez décidé de détruire la Base secrète des devans pour venger les soldats tombés au combat.&lt;BR&gt;Pour rétablir la paix à Crescentia, vous avez éliminé Murdranak et rendu ainsi un grand service.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, l'&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=emplacement de la Base secrète des Descendants de Lok"&gt;entrée de la Base secrète&lt;/A&gt;&lt;/font&gt; et le nom du commandant sont inscrits ici. &lt;BR&gt;&lt;BR&gt;Leur chef s'appelle {@LinkCreature:487#101}, il semble particulièrement brutal et sans scrupule. Nous devons intervenir avant qu'ils ne puissent faire plus de dégâts. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous devons tout d'abord chercher à nous infiltrer dans la Base secrète.&lt;BR&gt;Malheureusement, l'endroit pullule de basilics très farouches. &lt;BR&gt;&lt;BR&gt;Pourriez-vous nous dégager le passage qui y mène, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Pour affronter des adversaires plutôt puissants, vous devez améliorer vos techniques.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Vous pouvez utiliser ce glyphe pour renforcer vos compétences, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;À chaque montée de niveau, vous obtenez des points de glyphe à utiliser pour activer des glyphes et des effets. &lt;BR&gt;&lt;BR&gt;Pour ouvrir des glyphes verrouillés, vous devez atteindre un niveau supérieur ou obtenir une boîte de glyphes. &lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Appuyez sur la touche &lt;img src='img://__Icon_KeyboardShape.Keyboard_k' width='21' height='21' vspace='-6'/&gt; pour ouvrir le menu de compétences et utiliser des points de glyphe.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Si vous activez le mauvais glyphe par erreur, ne vous en faites pas. &lt;BR&gt;&lt;BR&gt;Vous n'avez qu'à réinitialiser vos points de glyphe depuis le menu.&lt;BR&gt;&lt;BR&gt;La qualité d'un glyphe varie selon qu'il est supérieur ou rare. &lt;BR&gt;&lt;BR&gt;Vous trouverez certainement de bons glyphes au cours de vos aventures. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah oui. &lt;BR&gt;&lt;BR&gt;Une fois que vous aurez éliminé les basilics, allez trouver Ausdan. &lt;BR&gt;&lt;BR&gt;Je vais retourner à Crescentia pour faire mon rapport à Jodoc. &lt;BR&gt;&lt;BR&gt;Bonne chance !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Ah, vous êtes donc déjà au courant. &lt;BR&gt;&lt;BR&gt;Les statistiques des compétences varient en fonction du glyphe utilisé. &lt;BR&gt;&lt;BR&gt;Vous apprendrez à les utiliser à bon escient pendant vos voyages, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"J'y compte bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah oui. &lt;BR&gt;&lt;BR&gt;Une fois que vous aurez éliminé les basilics, allez trouver Ausdan. &lt;BR&gt;&lt;BR&gt;Je vais faire transmettre un rapport concernant la Base secrète à Jodoc. &lt;BR&gt;&lt;BR&gt;Bonne chance !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Vous revoilà, &lt;PCNAME&gt;.&lt;BR&gt;Ainsi, vous avez accepté la mission visant la Base secrète ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="9" voiceTypeId="0">&lt;BR&gt;&lt;BR&gt;Je ne vais malheureusement pas pouvoir vous assister directement au combat.&lt;BR&gt;&lt;BR&gt;L'entrée se situe là-bas, à droite. Prenez le chemin qui part sur ma gauche jusqu'à l'entrée de la caverne.&lt;BR&gt;&lt;BR&gt;J'ai vu des adversaires y faire des allées et venues. C'est sans doute là que se trouve leur &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Base secrète"&gt;Base secrète&lt;/A&gt;&lt;/font&gt;. Grapine est à l'intérieur, déguisé pour passer inaperçu.&lt;BR&gt;&lt;BR&gt;Ces monstres ont décimé le plus gros de mon unité, alors ne faites pas de sentiment ! Éliminez-les coûte que coûte ! Bonne chance !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3001" prevId="6" villagerId="1111">
+        <Page social="4" voiceTypeId="0">Oh, c'est vous ! Quelqu'un de la Fédération Valkyon ! Si je vous croise ici, c'est probablement que les documents sont arrivés. &lt;BR&gt;&lt;BR&gt;Qu'est-il advenu de vos alliés ?&lt;NEXTPAGEBUTTON&gt;"Ils sont tous morts."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Mais au moins, je sais que le sacrifice de mes alliés n'a pas été vain. La destruction de la Base secrète m'offre un certain réconfort.&lt;BR&gt;&lt;BR&gt;Je vais vous dire tout ce que je sais.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3001" prevId="7" villagerId="1109">
+        <Page social="4" voiceTypeId="0">Ce téléportail vous transporte hors de la Base secrète. &lt;BR&gt;&lt;BR&gt;Informez Isla de la réussite de votre mission.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Le donjon ne se réinitialise pas automatiquement quand vous le quittez après l'avoir terminé. &lt;BR&gt;&lt;BR&gt;Tapez "/Réinitialiser" dans la fenêtre de discussion ou cliquez sur la touche de réinitialisation des instances. &lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Vous avez détruit la Base secrète ?&lt;BR&gt;&lt;BR&gt;C'est vraiment impressionnant, &lt;PCNAME&gt;. Ainsi, le sacrifice des équipes de recherche n'a pas été vain. Maintenant que vous avez détruit le reste des troupes des descendants de Lok et des devans dans la Base secrète, une certaine sérénité va revenir à Arcadia pour un bon moment.&lt;BR&gt;&lt;BR&gt;Merci d'en informer Jodoc, à Crescentia. Utilisez donc ce parchemin qui vous amènera à Crescentia.&lt;BR&gt;&lt;BR&gt;En route, &lt;PCNAME&gt; !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="59" prevId="9" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Vous avez rendu un grand service à la Fédération. Leur mort est un véritable soulagement.&lt;BR&gt;&lt;BR&gt;Votre travail mérite un geste de gratitude. Voici votre récompense. Je vous prie de l'accepter.</Page>
+    </Text>
+</QuestDialog>

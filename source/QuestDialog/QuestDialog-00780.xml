@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="1">Le puissant sorcier Oshar mène bien sûr ses propres expériences. Je ne prétends pas les comprendre... pas encore.&lt;BR&gt;&lt;BR&gt;Je sais qu'il apprécie toujours une cargaison de poussière d'ailes de tentacullars ardents.&lt;BR&gt;&lt;BR&gt;Bien sûr, ils ne sont pas prêts à abandonner leurs ailes de leur plein gré. Attendez... j'ai une idée&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1028">
+        <Page social="1">Vous avez la poussière d'ailes&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oshar et moi-même vous récompenseront largement au jour du jugement, lorsque notre école de sorcellerie deviendra... quoi&amp;nbsp;? Vous préférez une récompense plus immédiate&amp;nbsp;? Bien sûr.&lt;BR&gt;&lt;BR&gt;Désolé. Je me suis un peu laissé emporter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1028">
+        <Page social="0">Le grand sorcier Oshar dit que la poussière d'ailes est la source du pouvoir des tentacullars. Allez en chercher&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

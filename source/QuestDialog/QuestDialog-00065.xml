@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous et Chama avez vaincu le commandant de la troupe d'assaut devane et avez ramené les marchandises volées à Crescentia. Jodoc vous a remercié d'avoir ainsi sécurisé la voie de ravitaillement. Il a cependant indiqué qu'un problème de taille subsiste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="1" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Ils obéissent aux ordres de la {@linkcreature:3#12#troupe d'assaut devane}.&lt;BR&gt;&lt;BR&gt;Ils se sont joints à sa cause et &lt;BR&gt;l'aident à mettre ses plans à exécution.&lt;BR&gt;&lt;BR&gt;Il nous suffit de supprimer la troupe d'assaut devane,&lt;BR&gt;le reste ne devrait pas nous poser de problème.&lt;NEXTPAGEBUTTON&gt;Vous écoutez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai une idée.&lt;BR&gt;Répartissons-nous en deux groupes.&lt;BR&gt;&lt;BR&gt;Vous vous chargez d'éliminer les {@linkcreature:3#300151#bandits devans} là devant.&lt;BR&gt;&lt;BR&gt;Pendant que vous faites diversion, je vais chercher une solution nous permettant de supprimer la troupe d'assaut devane.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1040">
+        <Page social="4" voiceTypeId="0">J'ai trouvé le point de ralliement de la troupe d'assaut.&lt;BR&gt;Ses membres y entreposent les marchandises volées de l'autre côté.&lt;BR&gt;&lt;BR&gt;L'endroit étant entouré de gardes, il ne sera pas facile de les atteindre. Commençons donc par récupérer les marchandises volées.&lt;BR&gt;&lt;BR&gt;Soyez prudents, ces gaillards sont plus forts que ceux que nous avons affrontés jusqu'à présent !&lt;NEXTPAGEBUTTON&gt;"Compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Pst, cachez-vous !&lt;BR&gt;&lt;BR&gt;Vous voyez les devans, là-dedans ?&lt;BR&gt;Ce sont les membres de la troupe d'assaut.&lt;BR&gt;&lt;BR&gt;Ces coffres à objets de valeurs sont sans doute remplis de marchandises volées à Crescentia. Nous devons le récupérer.&lt;BR&gt;&lt;BR&gt;Je me charge des autres&lt;BR&gt;pendant que vous supprimez les gaillards de la troupe d'assaut.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="5" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Laissez-nous nous occuper du reste. Ramenez ces coffres à Crescentia.&lt;BR&gt;&lt;BR&gt;Ah, j'oubliais, prenez garde aux marchespores agités qui sévissent à l'entrée du village.&lt;BR&gt;Ils attaquent tout ce qui bouge.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="59" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Oho, ainsi, vous avez éliminé le chef de la troupe d'assaut devane.&lt;BR&gt;Et voilà les objets volés...&lt;BR&gt;&lt;BR&gt;Un grand merci.&lt;BR&gt;&lt;BR&gt;Je vais également envoyer un message à Boquillon pour les informer que la voie de ravitaillement est sûre, jusqu'à nouvel ordre.&lt;BR&gt;&lt;BR&gt;Certes, nous sommes loin d'être au bout de nos peines&lt;BR&gt; mais vous nous avez retiré une première épine du pied, merci.</Page>
+    </Text>
+</QuestDialog>

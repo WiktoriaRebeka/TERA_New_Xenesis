@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1042">
+        <Page social="4">Bon, nous pouvons garder cette position jusqu'à ce que les défenses sanglantes n'aient plus de dents, mais je ne parviendrai jamais à achever la mission avec ce groupe de traine-savates... pas avec toutes les mutations argones qui patrouillent dans la zone.&lt;BR&gt;&lt;BR&gt;Si vous pouvez éliminer une partie des argousins syndrenes et des cyclopes zariiks du coin, on aura peut-être une chance. Aidez-nous à vous aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">Merci d'être {@gender:allé/allée} risquer votre peau pour nous, &lt;PCNAME&gt;. J'apprécie vraiment.&lt;BR&gt;&lt;BR&gt;On se reverra à la Caverne du Péril... en admettant que je survive jusque-là.</Page>
+    </Text>
+</QuestDialog>

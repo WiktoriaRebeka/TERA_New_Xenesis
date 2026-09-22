@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="5">Je me propose de vous apporter un soutien financier. Si tant est que vous me prêtiez une oreille attentive...&lt;BR&gt;&lt;BR&gt;Bon nombre de basilics rôdeurs des roches frayent dans la région. La férocité de ces bestioles n'a d'égale que leur laideur, mais leurs écailles se vendent à prix d'or.&lt;BR&gt;&lt;BR&gt;J'ai un arrangement à vous proposer. Allez me chercher un bon paquet de ces écailles et je remettrai la moitié du produit de cette chasse à la garnison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1012">
+        <Page social="18">C'est un vrai plaisir de faire affaire avec vous. Vous saurez certainement quoi faire de ce petit bénéfice en espèces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1012">
+        <Page social="0">Vous n'avez pas encore les écailles&amp;nbsp;? Je vous attendrai ici... partenaire.</Page>
+    </Text>
+</QuestDialog>

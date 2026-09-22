@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="4">J'ai toute confiance en vous, &lt;PCNAME&gt;, et je pense que ceux de mon peuple qui n'ont pas rejoint la rébellion vous accorderont également leur confiance.&lt;BR&gt;&lt;BR&gt;Rendez-vous à l'Étang des Fées et prévenez-les que vous vous avez la situation en main.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1032">
+        <Page social="0">Nous espérions que Lillix serait capable de raisonner les habitants de Boquillon... sans parler de ceux de nos frères qui ont sombré dans cette folie meurtrière.&lt;BR&gt;&lt;BR&gt;Si vous êtes ici pour rétablir la paix, &lt;PCNAME&gt;, vous comptez forcément au nombre de nos amis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1033">
+        <Page social="0">Notre sécurité est toute relative... Personnellement, je ne me sentirai en sécurité que quand je saurai quel mal a frappé mes frères et sœurs.&lt;BR&gt;&lt;BR&gt;Les fées ne s'en prennent que rarement à leurs semblables... elles ne s'y résolvent qu'en dernier recours. Si vous dites que la Fédération n'a rien à voir là-dedans, nous devons chercher les responsables ailleurs.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="0">Quelle que soit la force sinistre qui s'en prend à cette forêt, je remercie les dieux pour ce moment de répit. Toutefois, je préférerais savoir que les choses sont revenues à la normale une fois pour toutes.</Page>
+    </Text>
+</QuestDialog>

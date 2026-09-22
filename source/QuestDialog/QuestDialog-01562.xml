@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1286">
+        <Page social="0">Lenarive craignait que les mutations engendrées par Exodor et d'autres phénomènes éthérés puissent entraîner le dépérissement d'Arborea.&lt;BR&gt;Elle a donc décidé de compiler un album de cartes afin de conserver la faune et la flore d'Arborea.&lt;BR&gt;Cet album peut accueillir des fragments de carte de toutes les créatures et ressources, de l'écologie et de biens d'autres choses..&lt;BR&gt;En ajoutant un fragment de carte à l'album, son propriétaire bénéficie du pouvoir spécial de la carte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1286">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Bonjour, je m'appelle Lenarive et j'étudie l'écosystème d'Arborea.&lt;BR&gt;&lt;BR&gt;L'influence d'Exodor et d'autres phénomènes éthérés ont récemment entraîné une profonde mutation de l'écosystème.&lt;BR&gt;Celle-ci pourrait provoquer l'extinction de bien des créatures incapables de s'adapter aux nouvelles conditions.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">J'aimerais préserver la faune et la flore d'Arborea avant qu'il ne soit trop tard.&lt;BR&gt;Même s'il m'est impossible d'enrayer la mutation de l'environnement, je suis convaincue que ces efforts de préservation seront utiles aux écologues dans un lointain futur.&lt;BR&gt;&lt;BR&gt;Mais je n'arriverai pas à faire le tour d'Arborea seule afin de tout documenter. Vous ne voudriez pas m'aider dans cette tâche ?&lt;NEXTPAGEBUTTON&gt;"Je vais vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Merci beaucoup.&lt;BR&gt;Vous allez désormais obtenir divers fragments de carte dans tout Arborea.&lt;BR&gt;Vous pouvez ensuite les inscrire dans votre album de cartes. Plus vous y ajoutez de cartes, plus cet album vous sera précieux.&lt;BR&gt;&lt;BR&gt;Commencez donc tout de suite en allant éliminer 10 phacochères longues-défense non loin d'ici. Avec un peu de chance, vous obtiendrez alors un fragment de carte de phacochère longues-défenses.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Tout s'est bien passé ? Avez-vous obtenu le fragment de carte d'un phacochères longues-défenses ?&lt;BR&gt;Si ce n'est pas le cas, ne désespérez pas. Vous aurez encore bien d'autres occasions d'en collecter.&lt;BR&gt;&lt;BR&gt;Et si vous n'en avez pas le temps, vous pouvez aussi échanger des fragments de carte dans la salle de ventes.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous devez inscrire 20 fragments de carte dans l'album pour entièrement y activer la carte en question.&lt;BR&gt;&lt;BR&gt;La carte ainsi activée éveille en vous une force intrinsèque.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vous donne 20 fragments de carte de Noruk marteleur. Ajoutez le fragment de carte à l'album pour activer la carte en question dans l'album.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Vous pouvez entièrement insérer les cartes activées dans l'album.&lt;BR&gt;La carte ainsi insérée éveille en vous une force intrinsèque.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La carte du noruk marteleur augmente la résistance physique face aux monstres de type bête.&lt;BR&gt;&lt;BR&gt;Insérez cette carte dans l'album de cartes.&lt;br&gt;Allez vous faire toucher 1 fois par le noruk marteleur.&lt;br&gt;Vous pourrez alors mesurer le pouvoir de cette carte.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Tout s'est bien passé ? Ressentez-vous la puissance de la carte ?&lt;BR&gt;Puisque les cartes déploient certains effets pour certaines races, je vous conseille d'utiliser vos cartes en fonction de la situation.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Penchons-nous maintenant sur les effets de cumul de votre album de cartes.&lt;BR&gt;La page concernée affiche une liste spéciale. Activez toutes les cartes de cette liste pour activer l'effet bonus décrit.&lt;br&gt;&lt;br&gt;Si vous activez la carte noruk marteleur en combinaison avec la carte de Seir, vous bénéficiez de l'effet de cumul "Mouvement pacifiste". Allez voir Seir pour qu'il vous donne son fragment de carte.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Un album de cartes... C'était donc ça le projet de Lenarive.&lt;br&gt;Comme elle l'a dit, il est impossible d'arrêter la mutation de la nature. Un album de cartes pourrait être bien utile aux générations futures.&lt;br&gt;Aidez-la donc pour qu'elle ne se retrouve pas seule face à cette besogne colossale.&lt;NEXTPAGEBUTTON&gt;"Pourriez-vous me donner votre fragment de carte ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ha ha ! Quel honneur que d'être sélectionné.&lt;br&gt;&lt;br&gt;Très bien. Cela m'embarrasse un peu, mais voici mon fragment de carte. C'est pour vous.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Avez-vous obtenu le fragment de carte de Seir ?&lt;br&gt;Très bien. À l'avenir, vous obtiendrez des cartes auprès de nombreux PNJ différents, rencontrés au cours de vos voyages.&lt;br&gt;&lt;br&gt;Ajoutez le fragment de Seir à l'album de cartes pour voir l'effet "Mouvement pacifiste" sur la page d'effets de cumul.&lt;NEXTPAGEBUTTON&gt;"Continuez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Le mouvement pacifiste et la carte du noruk marteleur ont chacun un effet sur les monstres bestiaux.&lt;br&gt;&lt;bt&gt;Voulez-vous subir une attaque du noruk marteleur pendant que l'effet "Mouvement pacifiste" est activé ?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Qu'avez-vous ressenti ? Avez-vous perçu l'effet ?&lt;br&gt;Vous pouvez ainsi accroître votre puissance à l'infini grâce aux cartes et leurs effets de cumul.&lt;br&gt;&lt;br&gt;Complétez l'album de cartes en collectionnant les différents fragments de carte aux quatre coins d'Arborea.&lt;br&gt;Je suis curieuse de suivre votre progression.</Page>
+    </Text>
+</QuestDialog>

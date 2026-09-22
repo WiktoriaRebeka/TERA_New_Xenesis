@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt; Venez me voir si vous avez reçu mon courrier. Un nouveau défi vous attend.&lt;BR&gt;&lt;BR&gt;-Coldren-&lt;NEXTPAGEBUTTON&gt;Accepter.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Ravi de vous revoir. Je vous attendais.&lt;BR&gt;&lt;BR&gt;En fait, j'ai attendu la venue de tous ceux que le destin a daigné prendre comme Guerrier.&lt;NEXTPAGEBUTTON&gt;Ma venue ?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Comme vous le savez déjà, les Guerriers ont su montrer depuis longtemps et à de nombreuses reprises leurs compétences sur le champ de bataille. Toutefois, trop de conservatisme n'est pas toujours une bonne chose.&lt;BR&gt;&lt;BR&gt;Nous, les Guerriers, étions si sûrs de nous-mêmes et si orgueilleux que nous en sommes devenus paresseux. C'est pourquoi, il y a peu, nous avons eu des problèmes et on nous a même affublés d'un surnom indigne.&lt;NEXTPAGEBUTTON&gt;Je vous écoute.&lt;/NEXTPAGEBUTTON&gt;.</Page>
+        <Page social="4" voiceTypeId="0">Mais vous êtes un Guerrier vous-même et vous savez donc de quoi je parle. Pour éviter de répéter cette erreur, nous voulons relever un nouveau défi.&lt;BR&gt;&lt;BR&gt;Aimeriez-vous y participer et vous faire une réputation ?&lt;NEXTPAGEBUTTON&gt;Oui, je le souhaite.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vous ai préparé une mission. Elle se décline en cinq phases au cours desquelles vous devrez faire face à de puissants ennemis et les vaincre.&lt;BR&gt;&lt;BR&gt;Je crois que vous êtes capable d'y parvenir.&lt;BR&gt;&lt;BR&gt;Dites-moi quand vous voudrez commencer.&lt;NEXTPAGEBUTTON&gt;Allons-y.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">C'est vraiment impressionnant. Je n'ai jamais douté de vos compétences. Vous avez maîtrisé la première partie de la mission et je suis convaincu que vous survivrez également aux phases suivantes.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

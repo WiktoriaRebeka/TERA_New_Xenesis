@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="0">Elesa a expliqué tout ce que vous pouvez faire pendant la soirée plage.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="4">Voyons... où commencer&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah&amp;nbsp;! Vous devriez aller voir le petit Popori, Langon, qui se trouve devant la taverne. Il vous apprendra tout ce qu'il y a à savoir sur les constructions en sable. C'est un artiste doué&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2010">
+        <Page social="4">Bonjour&amp;nbsp;? Hihi, vous voyez les châteaux de sable, là-bas&amp;nbsp;? C'est moi qui les ai construits&amp;nbsp;! Je peux vous montrer comment en construire. Hihi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Récupérez du sable mouillé sur la plage puis faire exactement ce que je fais en ce moment. Lorsque vous aurez terminé, vous aurez devant vous un magnifique château de sable.&lt;BR&gt;&lt;BR&gt;Vous devriez essayer, &lt;PCNAME&gt;&amp;nbsp;! Faites donc trois châteaux de sable que je puisse vous évaluer correctement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="2010">
+        <Page social="6">Hihi, vous avez essayé&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;sympa, hein&amp;nbsp;? Hihi.&lt;BR&gt;&lt;BR&gt;Mais vous savez, c'est une sorte de jeu pour les enfants comme moi. Wahmel a un jeu que j'aimerais essayer mais je suis trop jeune. C'est là-bas, vous voyez la clôture&amp;nbsp;? Vous devriez essayer&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="2005">
+        <Page social="4">Bienvenue, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Vous cherchez un jeu amusant&amp;nbsp;? Vous êtes au bon endroit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous vous demandez sûrement en quoi consiste le jeu.&lt;BR&gt;&lt;BR&gt;Cela s'appelle &amp;quot;Frappez les pastèques&amp;nbsp;!&amp;quot;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Frappez des pastèques&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous n'avez pas encore joué au jeu de "Frappez les pastèques"&amp;nbsp;? Mais c'est qu'il pourrait bien devenir votre nouveau sport favori&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tout ce que vous avez à faire, c'est de frapper trois pastèques dans le temps imparti&amp;nbsp;! Tout le monde peut le faire les yeux fermés, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors que diriez-vous de rendre les choses plus intéressantes en vous bandant les yeux pendant tout le jeu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, et n'écoutez pas ce que disent les pastèques, elles essaieront de vous convaincre qu'elles n'en sont pas, les menteuses&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="5" villagerId="2005">
+        <Page social="4">Qu'en pensez-vous&amp;nbsp;? Je vous avez bien dit que c'était génial, comme jeu&amp;nbsp;!&lt;BR&gt;&lt;BR&gt; Voulez-vous jouer encore une fois&amp;nbsp;? Ou vous préférer relever un nouveau défi&amp;nbsp;? Je vous suggère les canons pulvérisantsde Chelton, un peu plus loin sur la plage&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="6" villagerId="2001">
+        <Page social="4">Bienvenue {@gender:cher/chère} &lt;PCRACE:lcase&gt;&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;Voici le jeu de canon pulvérisant&amp;nbsp;! Les règles sont simples.&lt;BR&gt;&lt;BR&gt;Pour commencer, faites-moi signe quand vous êtes {@gender:prêt/prête} et je vous ferai monter sur l'un des canons que vous voyez là-bas sur la plage.&lt;BR&gt;&lt;BR&gt;Ensuite, vous pourrez tirer sur les monstres. Tirer&amp;nbsp;! Tirer&amp;nbsp;! Tirer&amp;nbsp;! Les rouges rapportent plus que les bleus&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;En bref&amp;nbsp;: rouge, bien&amp;nbsp;; bleu, moins bien. Compris&amp;nbsp;? Alors c'est parti&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="7" villagerId="2001">
+        <Page social="4">Ça vous a plu&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ha ha, ne vous inquiétez pas. Continuez et vous progresserez, je vous le promets&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous voulez essayer quelque chose de nouveau&amp;nbsp;? Rendez-vous de l'autre côté de la plage et cherchez-y Stefanna.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="8" villagerId="2011">
+        <Page social="4">Bienvenue, je m'appelle Stefanna. Je suis sûre que vous avez déjà entendu parler de moi, la célèbre esthéticienne et créatrice de mode&amp;nbsp;? Non&amp;nbsp;? Oui, il faut dire qu'apparemment, la mode n'intéresse pas tout le monde...&lt;BR&gt;&lt;BR&gt;Eh bien, qu'est-ce qui vous amène&amp;nbsp;? Je sais que beaucoup de Castanics veulent la peau dorée à cette époque de l'année, mais je ne pense pas que vous en ayez besoin, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"Je cherche quelque chose d'amusant à faire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hum, d'amusant... Oh&amp;nbsp;! Vous devriez aller voir Dolme. C'est un graveur de cornes et il vient d'ouvrir sa propre expo. Vous devriez aller faire sa connaissance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="9" villagerId="2004">
+        <Page social="4">Salutations. J'ai l'impression de vous avoir déjà vu quelque part. Nous sommes-nous déjà rencontrés&amp;nbsp;? Ha, ha.&lt;BR&gt;&lt;BR&gt;Si vous cherchez à faire quelque chose d'amusant lors de cette soirée plage, vous êtes au bon endroit. Pour être honnête avec vous, les jeux de canons, de tirs de pastèques et de châteaux de sable sont là juste pour attirer les touristes et faire de l'argent. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Que proposez-vous donc durant cette soirée&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je suis très traditionnel&amp;nbsp;: Je travaille la corne. C'est la tâche la plus importante de la soirée plage. En effet, &lt;PCNAME&gt;, laissez-moi vous montrer ce dont je suis capable. Nous avons besoin pour cela de quelques cornes. Pourriez-vous me rapporter une molaire de phacochère&amp;nbsp;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="10" villagerId="2004">
+        <Page social="4">Ooh, quel excellent spécimen&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Veuillez patienter un moment pendant que je vous sculpte quelque chose.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Okay. J'ai hâte de voir le résultat&amp;nbsp;!&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">… et voilà&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'est joli, pas vrai&amp;nbsp;? Voyons, je ne vois pas ce que vous espériez d'une petite dent de phacochère.&lt;BR&gt;&lt;BR&gt;Oh, mais vous y gagnez. Apportez-la à Ramsay dans la  Larme de Vipère – la taverne sur la plage et il vous l'échangera contre une boisson gratuite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Trouvez-moi une corne et je vous ferai quelque chose de bien.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="210" prevId="11" villagerId="2007">
+        <Page social="4">Ah! C'est trop mignon&amp;nbsp;! C'est pour moi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;C'est un véritable chef d'œuvre&amp;nbsp;! Et je peux le garder&amp;nbsp;? Merci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Veuillez accepter cette récompense. C'est le moins que je puisse faire. Et si vous souhaitez recevoir d'autres récompenses, apportez-moi une de ces grandes sculptures en corne.&lt;BR&gt;&lt;BR&gt;Profitez bien du festival&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

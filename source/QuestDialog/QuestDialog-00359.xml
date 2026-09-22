@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="5">Il paraît que vous allez vers l'Ile des Brumes. Ces sales esclavagistes&amp;nbsp;! J'ai réussi à m'échapper, mais ils ont pris mon frère. Je dois le sauver avant qu'ils le vendent sur un marché aux esclaves&amp;nbsp;! Il me criait de fuir alors même qu'on l'emmenait de force.&lt;NEXTPAGEBUTTON&gt;"Où l'ont-ils emmené&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ils partaient vers l'est, vers le marché des Prisons de la Pluie. Je ne me rappelle rien d'autre. S'il vous plaît, je vous en prie. Ramenez-moi mon frère.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1012">
+        <Page social="4">Qui êtes-vous&amp;nbsp;? Êtes-vous soldat&amp;nbsp;? Par hasard, auriez-vous vu mon frère, Zebulon&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il est vivant&amp;nbsp;? Quel soulagement.&lt;BR&gt;&lt;BR&gt;J'ai besoin d'une clé pour sortir de là. Essayez donc de chiper une clé aux {@LinkCreature:12#16#gardiens d'esclaves}. Je ne sais pas laquelle sera la bonne, alors rapportez-m'en plusieurs.&lt;BR&gt;&lt;BR&gt;Je reste caché ici en attendant. Et essayez de ne pas vous faire tuer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1012">
+        <Page social="4">Enfin libre&amp;nbsp;! Vous pourriez aller prévenir notre mère que nous sommes sauvés&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Un petit conseil&amp;nbsp;: vous vous épargnerez un discours fleuve en disant directement à notre mère que nous avos promis de ne plus jamais travailler pour Dirken. Je crois qu'il nous a joué un sale tour&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1012">
+        <Page social="0">Vite, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Si les esclavagistes vous attrapent, ils vous enfermeront aussi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1023">
+        <Page social="4">Ils sont vivants&amp;nbsp;? Tous les deux&amp;nbsp;? Loués soient les titans&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais, mes fils auront affaire à moi quand ils seront de retour... comment ont-ils pu me mettre au supplice de cette manière&amp;nbsp;? Et travailler pour quelqu'un comme Dirken&amp;nbsp;? Ils n'ont donc rien retenu de mes sermons&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Si seulement ils pouvaient vous ressembler, &lt;PCNAME&gt;. On ne devient pas comme vous sans respect pour l'autorité parentale.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1018">
+        <Page social="4">Vous avez honoré l'épée de Kaia, par vos actes exemplaires. Vous avez également rendu grâce à ces lieux par votre absolu dévouement.&lt;BR&gt;&lt;BR&gt;Aujourd'hui, &lt;PCCLASS:lcase&gt;, nous nous devons de vous rendre les honneurs qui vous sont dus.&lt;BR&gt;&lt;BR&gt;Bonne route, &lt;PCNAME&gt;, vous serez toujours chez vous parmi les hommes du régiment.</Page>
+    </Text>
+</QuestDialog>

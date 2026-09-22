@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="5">Par ici, soldat. Les cultistes sont en train de se rassembler au nord en vue d'une attaque. Il s'agit des {@LinkCreature:17#301220#elins mutés}, des {@LinkCreature:17#300442#gardes de Chute-céleste}, et d'une flopée de {@LinkCreature:17#300552#batteurs tête de baril}.&lt;BR&gt;&lt;BR&gt;Je pense qu'il est temps de frapper un grand coup pour mettre un terme à cette rébellion&amp;nbsp;! Exterminez-les&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1010">
+        <Page social="5">Ha, ce Puran et ses stratégies&amp;nbsp;! Un vrai soldat se bat honnêtement, contre d'autres soldats, face à face.&lt;BR&gt;&lt;BR&gt;Jouer les rôdeurs et tuer des officiers par surprise&amp;nbsp;? Ce sont des méthodes de couard&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1010">
+        <Page social="0">Les troupes ennemies continuent de se rassembler au nord, soldat. Allez m'en faire de la chair à pâté&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

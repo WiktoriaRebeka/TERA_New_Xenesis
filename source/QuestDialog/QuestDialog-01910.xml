@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Quand je pense au nombre de nos camarades et de villageois tombés sous les coups de gardiens du labyrinthe, j'en ai la nausée. &lt;BR&gt;&lt;BR&gt;Le seul moyen d'atténuer la douleur des survivants est de décimer les gardiens du labyrinthe et d'apaiser l'âme des camarades et des villageois défunts. &lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, pourriez-vous nous y aider ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1013">
+        <Page social="4" voiceTypeId="0">J'espère que nous pourrons aider les nombreuses victimes des gardiens du labyrinthe à trouver le repos éternel. &lt;BR&gt;&lt;BR&gt;Merci bien. Je vous remercie de votre aide, &lt;pcname&gt;.</Page>
+    </Text>
+</QuestDialog>

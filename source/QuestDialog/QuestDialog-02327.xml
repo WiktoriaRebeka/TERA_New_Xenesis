@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">Je ne peux pas vous aider à les sauver et je vais donc plutôt chercher quelques indices en vue de remédier à la cristallisation.&lt;BR&gt;&lt;BR&gt;Vous savez que l'étude de l'écosystème d'Exodor est aussi importante que la libération des prisonniers, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;L'étude de la cristallisation bénéficie à tous les peuples d'Arborea.&lt;BR&gt;&lt;BR&gt;C'est pourquoi j'aimerais vous demander quelques services.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'aimerais tout d'abord analyser la capsule minérale des parfons. &lt;BR&gt;&lt;BR&gt;Les capsules minérales que j'ai pu prélever à Arborea étaient généralement déjà desséchées.&lt;BR&gt;&lt;BR&gt;Ces capsules pourront peut-être me mettre sur la voie d'un remède.&lt;BR&gt;Chassez donc les parfons et récupérez leurs capsules minérales.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">Merci, &lt;PCNAME&gt; ! Je suis curieuse de voir en quoi les capsules minérales des parfons d'Exodor diffèrent de celles des parfons d'Arborea.&lt;BR&gt;&lt;BR&gt;Je vais étudier ça vite fait et aurais ensuite sans doute une autre faveur à vous demander, d'accord ? Merci de patienter quelques instants !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Collectez donc toutes les capsules minérales requises. Si je n'en ai pas assez, je ne pourrai pas faire d'analyse détaillée.</Page>
+    </Text>
+</QuestDialog>

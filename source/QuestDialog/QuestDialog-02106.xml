@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="4">Les argons ne faiblissent jamais, et leur jeter des corps à la figure ne sert à rien. Nous devons trouver un autre moyen de les repousser.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Absolument. Mon ami, {@LinkCreature:248#3014#Damian}, de la {@Rgn:48004$$Fonderie de Cyanocanon} est au bout du rouleau.&lt;BR&gt;&lt;BR&gt;Si vous pouvez venir en aide à mes camarades de la fonderie, ça leur ferait du bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Oui, nous avons besoin d'aide&amp;nbsp;! Nos réserves sont dans le rouge et à cause de la porte scellée, trouver des matières premières devient de plus en plus difficile.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire pour vous&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il y en a partout qui appartiennent aussi bien à eux qu'à nous, et que nous pouvons récupérer. Rassemblez les composants éparpillés autour du {@Rgn:48001$$Front de Khanovar}.&lt;BR&gt;&lt;BR&gt;Plus nous en récupèrerons, plus vite nous reviendrons sur le terrain armés jusqu'aux dents.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Les composants argons sont indispensables aux cyanocanons. J'aimerais bien en récupérer quelques-uns.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="10" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Il nous faut absolument des composants d'arme de siège. Il n'y a rien de tel pour infliger de gros dégâts. Il est crucial que nous disposions d'une telle puissance de feu.&lt;BR&gt;&lt;BR&gt;Bonne chance.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="12" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Les composants argons sont indispensables aux cyanocanons. J'aimerais bien en récupérer quelques-uns.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="14" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Il nous faut absolument des composants d'arme de siège. Il n'y a rien de tel pour infliger de gros dégâts. Il est crucial que nous disposions d'une telle puissance de feu.&lt;BR&gt;&lt;BR&gt;Bonne chance.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="16" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Les composants argons sont indispensables aux cyanocanons. J'aimerais bien en récupérer quelques-uns.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="18" villagerId="3014">
+        <Page social="4">Enfin, voilà ce que je peux appeler de l'aide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à ça, on va pouvoir frapper les argons en plein dans les valseuses&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quoique, je ne sais même pas s'ils en ont...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Il nous faut absolument des composants d'arme de siège. Il n'y a rien de tel pour infliger de gros dégâts. Il est crucial que nous disposions d'une telle puissance de feu.&lt;BR&gt;&lt;BR&gt;Bonne chance.</Page>
+    </Text>
+</QuestDialog>

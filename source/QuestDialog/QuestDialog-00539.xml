@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="4">J'ai fait quelque chose de terrible, &lt;PCNAME&gt;. Une chose pour laquelle je ne pourrai sans doute jamais expier.&lt;BR&gt;&lt;BR&gt;Quand j'étais dans la Confrérie libre, j'ai fabriqué des armes horribles. Je n'ai jamais pensé qu'elles seraient utilisées contre nous un jour, mais je suppose que ce n'est pas une excuse.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Que voulez-vous que je fasse&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je ne peux pas accepter qu'elles soient encore en circulation. Je vous en prie, allez les récupérer pour moi.&lt;BR&gt;&lt;BR&gt;Rassemblez-les et rapportez-les-moi pour que je puisse les détruire. Je ne veux pas qu'elles coûtent la vie à d'autres innocents.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1007">
+        <Page social="4">Merci. Je vais les détruire tout de suite et je ne ferai plus jamais une chose pareille, je le jure.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1007">
+        <Page social="0">Je vous en prie, vous devez trouver ces armes avant qu'elles ne blessent encore quelqu'un&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

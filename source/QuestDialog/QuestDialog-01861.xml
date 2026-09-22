@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ce document crypté vous enjoint à "Aller voir Muhrak, le Forgeron légendaire."&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Si vous acceptez cette quête, le document crypté de Muhrak disparaîtra.&lt;BR&gt;- Vous ne devriez l'accepter que si vous possédez de l'équipement Forgobscure.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">&lt;PCNAME&gt;, je me disais bien que vous trouveriez cela intéressant. Je peux vous expliquer comment améliorer votre équipement forgobscure.</Page>
+    </Text>
+</QuestDialog>

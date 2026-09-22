@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Cette tentative d'empoisonnement est incompréhensible... Ils me connaissent pourtant bien. Ça fait longtemps que je fais du commerce avec eux.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, pendant que j'étais dans l'incapacité de réagir, ils se sont emparés de mes marchandises avant de s'enfuir.&lt;BR&gt;&lt;BR&gt;Vous pensez que vous pourriez aller récupérer mes &lt;font color='#660000'&gt;marchandises&lt;/font&gt;&amp;nbsp;? Vous les trouverez certainement dans la Vallée de Babok, à l'ouest d'ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Oui, c'est ça&amp;nbsp;! Merci infiniment&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Voici un petit quelque chose pour vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Sans mes marchandises, je ne suis plus rien. S'il vous plaît, aidez-moi à remettre la main dessus.</Page>
+    </Text>
+</QuestDialog>

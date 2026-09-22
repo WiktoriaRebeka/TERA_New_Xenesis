@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">Les mugatos étant de vulgaires nuisibles, il conviendrait peut-être de les traiter comme tels.&lt;BR&gt;&lt;BR&gt;Ces bestiaux marquent leur territoire à l'aide d'un compost composé de leurs déjections, mélangées aux os broyés de leurs victimes.&lt;BR&gt;&lt;BR&gt;C'est plutôt une bonne chose que vous ayez l'estomac bien accroché, &lt;PCNAME&gt;, parce que nous allons avoir besoin de ce qui se trouve dans ces &lt;font color='#660000'&gt;amas mugatos&lt;/font&gt;. &lt;NEXTPAGEBUTTON&gt;"C'est une blague, c'est ça...&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Les mugatos détestent l'odeur de leurs excréments autant que nous. C'est précisément pour ça qu'ils l'emploient pour marquer leur territoire.&lt;BR&gt;&lt;BR&gt;Dans l'idéal, il faudrait que nous nous roulions dedans, mais je ne pense pas que l'idée me rendrait très populaire auprès des troupes, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;En revanche, nous pourrions faire en sorte de répandre la substance autour du périmètre de notre base, pour "marquer notre territoire", si vous acceptez de nous aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">Bon boulot, &lt;PCNAME&gt;. Je vois que vous avez réussi... enfin, disons plutôt que je le sens.&lt;BR&gt;&lt;BR&gt;La bouteille est bien étanche&amp;nbsp;? Elle n'est pas fendue&amp;nbsp;? Rien n'a dégouliné à l'extérieur&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Non, n'approchez pas pour me la remettre, vous n'avez qu'à la poser dans un coin, vraiment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1008">
+        <Page social="0">Ecoutez, &lt;PCNAME&gt;, cette mission ne m'enchante pas plus que vous, mais je préfère ramasser des excréments de mugatos plutôt que de faire partie de leurs déjections.</Page>
+    </Text>
+</QuestDialog>

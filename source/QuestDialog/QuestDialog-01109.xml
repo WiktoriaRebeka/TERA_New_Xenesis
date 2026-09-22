@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Autrefois, les nagas venaient de temps en temps pour vénérer Dagon, puis ils s’en allaient. Maintenant, ils nous affrontent.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:42#200#pourfendeurs dagonites} pourraient peut-être nous donner la réponse. Si vous en tuez assez, nous trouverons peut-être des preuves, des documents... qui sait&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Et au moins, des nagas mourraient, ce qui est toujours une bonne chose.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Voyons voir ces ordres... &lt;BR&gt;&lt;BR&gt;... "Nous, anciens de l’Ile Serpentis... terminer la mission..." Oui, c’est ce que nous cherchions.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. La Fédération vous doit beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Pourquoi les nagas sont-ils restés&amp;nbsp;? Vous croyez que les {@LinkCreature:42#200#pourfendeurs dagonites} le savent&amp;nbsp;? Vous pensez qu’en tuer quelques-uns pourrait nous apporter la réponse&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

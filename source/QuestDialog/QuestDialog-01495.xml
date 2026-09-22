@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="4">Nos éclaireurs ont marqué à proximité du cimetière l'emplacement du point idéal. Nous frapperions réellement là où ça fait mal.&lt;BR&gt;&lt;BR&gt;Apportez ceci à Kalraz... Il aura forcément une idée de génie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1023">
+        <Page social="4">L'idée est intéressante, mais il va nous falloir des bombes. Nous n'arriverons jamais à entrer, sans ça.&lt;BR&gt;&lt;BR&gt;Un attelage de transport a été détruit pas très loin d'ici. Traversez cette grotte et allez examiner l'épave pour voir s'il reste quelque chose de récupérable.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" prevId="3" villagerId="1023">
+        <Page social="4">Alors&amp;nbsp;? Vous avez trouvé l'attelage&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Il ne restait rien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Rien&amp;nbsp;? Peut-être que les bombes ont explosé et déclenché l'incendie.&lt;BR&gt;&lt;BR&gt;Bon, ça fiche par terre mon plan d'attaque. On passe au plan B, mais je n'ai aucune idée de ce que ça peut être.&lt;BR&gt;&lt;BR&gt;Merci de votre aide.</Page>
+    </Text>
+</QuestDialog>

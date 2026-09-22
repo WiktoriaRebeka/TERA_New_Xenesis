@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1005">
+        <Page social="4">On dirait que la sécurité chez les argons laisse à désirer en ce moment. Nous devrions en profiter pour attaquer le {@Rgn:49004}.&lt;BR&gt;&lt;BR&gt;Allez faire un tour sur place en toute discrétion et tuez quelques ravageurs de Kallan. En vous y prenant bien, vous devriez pouvoir être de retour ici avant même que les renforts ennemis n'arrivent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1005">
+        <Page social="6">Bon sang de bois... C'était spectaculaire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous leur avez sonné les cloches. La prochaine fois, c'est le glas qu'ils entendront, hé hé hé&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

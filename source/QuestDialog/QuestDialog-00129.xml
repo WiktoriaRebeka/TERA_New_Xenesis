@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Si vous vous rendez à Boquillon, allez parler à Tomba. Tomba est originaire du Marais tuwangi. Ils rencontrent sans doute des problèmes.&lt;BR&gt;&lt;BR&gt;Que les tuwangis demandent de l'aide n'a rien d'exceptionnel. Cependant, le Marais tuwangi est un endroit charmant. Il n'y a pas mieux pour décompresser.&lt;BR&gt;&lt;BR&gt;Allez donc voir {@LinkCreature:60#1099} à {@Rgn:60001}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1099">
+        <Page social="0">Je viens d'un coin que les Humains nomment Marais Tuwangi. Normalement, les tuwangis qui y vivent sont amicaux...&lt;BR&gt;&lt;BR&gt;Mais la plupart ont perdu la raison. Ils chassent les Humains et se sont mis en tête de devenir les rois et reines du monde. Je ne suis pas comme eux... j'ai horreur du combat. Si les tuwangis partent en guerre, ils se feront aplatir.&lt;BR&gt;&lt;BR&gt;Je peux vous diriger vers les Marécages. Allez voir {@LinkCreature:205#1017#Rathe} et dites-lui que vous venez pour arrêter les tuwangis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1017">
+        <Page social="5">A en croire les tuwangis du cru, nous devrions nous préparer à un genre d'apocalypse, et dès qu'ils croisent quelqu'un qui porte une arme, ils supplient la personne en question d'aller faire leurs quatre volontés au marais.&lt;BR&gt;&lt;BR&gt;Mais dans la réalité des choses, le Marais Tuwangi est juste un endroit où l'on s'ennuie ferme... Les tuwangis du coin sont plutôt amicaux. C'est de ceux qui ont quitté la région avant d'y revenir que vous devez vous méfier.</Page>
+    </Text>
+</QuestDialog>

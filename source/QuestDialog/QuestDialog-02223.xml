@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Vous avez aidé le clan des Consos au sein du temple en ravivant les flammes du sacrifice, de l'honneur, et de la miséricorde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">A la gloire de Balder&amp;nbsp;! Je m'appelle Modan.&lt;BR&gt;&lt;BR&gt;Il est de mon devoir de préserver les flammes de Balder pour que leur noblesse puisse se répercuter sur les visiteurs du temple.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pourriez-vous m'assister dans mes fonctions pour un court moment&amp;nbsp;? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ce serait un honneur.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vérifiez chacune des trois flammes. Assurez-vous qu'elles flambent et ne manquent pas de combustible.&lt;BR&gt;&lt;BR&gt;Prenez autant de temps que vous le souhaitez pour chaque flamme. Pensez à ce que le sacrifice, l'honneur et la miséricorde de Balder signifient pour vous. Lorsque vous aurez vérifié les trois flammes, revenez me voir ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="8101">
+        <Page social="4">"La flamme du sacrifice brûle ardemment."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="8102">
+        <Page social="4">"La flamme de l'honneur brûle correctement."</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="8103">
+        <Page social="4">"La flamme de miséricorde brûle et réchauffe."</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="7001">
+        <Page social="4">Je vous remercie pour votre travail. J'espère que vous vous sentez plus proche de Balder, maintenant&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah, j'avais presque oublié. Veuillez accepter de la part du clan des Consos ces récompenses en guise de gratitude .</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">Tous les cultistes sont des plaies, dans leur genre, mais les pires du lot sont les {@LinkCreature:25#1051#piquiers squelettiques}. Même quand nous les démembrons, leurs restes continuent de combattre comme ils le peuvent. Je sais que les morts ne ressentent pas la douleur, mais regarder ces corps mutilés se tortiller comme ça est une vision... de cauchemar. L'Atel Akaad les a dotés de noyaux de frénésie. C'est la raison de leur résistance.&lt;BR&gt;&lt;BR&gt;Récupérez ces noyaux et allez les remettre à Orlaith au Fortin de la Cathédrale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">Merci&amp;nbsp;! J'espère que nous pourrons profiter de cette opportunité de les éliminer tous. Cela dit, nous sommes en sous nombre et je vois mal comment faire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1015">
+        <Page social="0">Si nous voulons parvenir à éliminer ces piquiers squelettiques, vous allez devoir me trouver d'autres noyaux de frénésie.</Page>
+    </Text>
+</QuestDialog>

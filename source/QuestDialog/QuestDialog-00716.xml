@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">Ces cultistes ne sont pas prêts à renoncer&amp;nbsp;! Nous allons devoir les éliminer jusqu'au dernier&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Commencez par les {@LinkCreature:25#2061#avant-gardes devans} et les {@LinkCreature:25#2081#charognards caïmans}. Ils n'ont l'air de rien, mais ce sont définitivement des fauteurs de troubles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">Voilà qui devrait leur avoir porté un coup sérieux. Parfois, il m'arrive de me demander si je finirai par recevoir un jour un ordre de mission dans lequel il n'est pas question de tuer des cultistes.</Page>
+    </Text>
+</QuestDialog>

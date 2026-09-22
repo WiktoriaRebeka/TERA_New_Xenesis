@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">Bon, voici mon plan. S’il y avait moins d'{@LinkCreature:42#1100#enchanteresses nixes}, il serait beaucoup plus facile d’atteindre les chefs des nagas.&lt;BR&gt;&lt;BR&gt;Je n’avais pas promis de grand plan compliqué, si&amp;nbsp;? Faites-moi confiance. Eliminez-en autant que possible, ainsi que ceux qu’ils gardent, tant qu’à faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Je sais que ça n’a pas dû être facile.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">Tuez-les un par un, &lt;PCNAME&gt;. Ce qui est mauvais pour les {@LinkCreature:42#1100#enchanteresses nixes} est bon pour nous.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="4">Ces épaves étaient autrefois des navires marchands gulas. Elles doivent être pleines de trucs aussi anodins que des rations de nourriture, du bois ou des céréales, mais nous avons trouvé un manifeste mentionnant la présence de pièces d'or dans la cargaison. De l'or&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je sais bien que les marins sont devenus des monstres morts-vivants, mais à leur place, vous n'auriez pas profité du naufrage pour vous saisir du butin&amp;nbsp;? Allez tuer les {@LinkCreature:31#12#marins}, les {@LinkCreature:31#14#maîtres d'équipage gulas noyés}, et faites-leur les poches&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1044">
+        <Page social="4">Magnifique&amp;nbsp;! Je ne peux pas vous laisser tout cet or pour vos bons et loyaux services, mais vous ne repartirez pas les mains vides&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1044">
+        <Page social="0">Jolies pièces d'or&amp;nbsp;! Merveilleuses pièces d'or&amp;nbsp;! Une fortune pour les explorateurs Poporis&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

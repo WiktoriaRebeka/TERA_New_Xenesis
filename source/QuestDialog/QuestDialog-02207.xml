@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Salutations. La pêche, ça vous tente, &lt;PCNAME&gt; ? Si vous voulez, je peux vous expliquer comment pêcher.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jeremy Wayn, le directeur de la fédération de pêche, vous a invité à découvrir les secrets de la pêche sur le Site de pêche de Murica.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2060">
+        <Page social="4" voiceTypeId="0">Bienvenue. Que diriez-vous de découvrir les joies de la pêche par vous-même ?&lt;BR&gt;Les nouveaux visages sont toujours les bienvenus dans notre fédération de pêche.&lt;NEXTPAGEBUTTON&gt;"Je vais essayer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les sites de pêche ne sont pas encore légion, car le siècle du chaos guerrier a provoqué l'extinction de la plupart des espèces de poisson.&lt;BR&gt;Mais la fédération s'efforce quand même d'ouvrir régulièrement de nouveaux sites de pêche.&lt;BR&gt;&lt;BR&gt;Si devenir un amateur de pêche vous tente, vous êtes toujours le bienvenu !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="4" voiceTypeId="0">Le site de pêche de Murica est idéal pour les pêcheurs novices !&lt;BR&gt;Les vagues y sont clémentes et l'endroit est magnifique.&lt;BR&gt;&lt;BR&gt;Voulez-vous y aller ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="0" voiceTypeId="0">Alors saluez bien le responsable du Site de pêche de Murica de ma part.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="9904">
+        <Page social="4" voiceTypeId="0">C'est Jeremy qui vous envoie ?&lt;BR&gt;Dans ce cas, je vous souhaite la bienvenue !&lt;BR&gt;Il vous faut tout d'abord une canne à pêche et un appât.&lt;BR&gt;&lt;BR&gt;Pour cette fois, je vais vous fournir l'un et l'autre.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Rendez-vous sur le site de pêche et tentez votre chance !&lt;BR&gt;N'oubliez pas que vous avez toujours besoin d'un appât.&lt;BR&gt;&lt;BR&gt;Commencez par un de ces crabes : ils ont tôt fait de mordre à l'hameçon.&lt;BR&gt;Si vous êtes à court d'appâts, vous en trouverez dans le magasin d'articles de pêche.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="9904">
+        <Page social="1" voiceTypeId="0">C'est une belle performance ! Vous semblez avoir un don pour la pêche ! &lt;NEXTPAGEBUTTON&gt;"Voilà le crabe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les poissons sont répartis en rangs divers, allant de 0 à 10.&lt;BR&gt;Pour attraper les poissons plus difficiles, il vous faut une meilleure canne à pêche.&lt;BR&gt;En récompense, je vous donne des insignes de pêche.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous pouvez utiliser vos insignes de pêche pour acheter des cannes à pêche auprès des boutiques de la fédération de pêche comme la mienne.&lt;BR&gt;Ou alors, vous améliorez le rang de votre canne à pêche.&lt;BR&gt;&lt;BR&gt;Plus son rang est élevé, plus vous pourrez attraper des poissons de bonne qualité et plus vous pourrez empocher d'or.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="9904">
+        <Page social="0">Attrapez un crabe sur le Site de pêche de Murica.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,67 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt;. Je m'appelle Braga et suis le capitaine des gardiens de Hautegarde.&lt;BR&gt;J'ai quelque chose pour vous. Pourriez-vous venir me rendre visite au plus vite à Hautegarde ? Je vous attends.&lt;BR&gt;&lt;BR&gt; Braga, capitaine des gardiens</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez participé à une fête, sur demande de Bragas. C'était une fête somptueuse n'ayant rien à envier aux autres célébrations. L'air était empli d'une suave odeur de mets délicieux et le bruit des danseurs et des feux d'artifice résonnait à la ronde. Quand le Commandant Seir est monté au pupitre pour prononcer un discours, l'ambiance a atteint son paroxysme.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;Je vous ai demandé en raison d'une affaire pressante de la Fédération Valkyon. Une fête va bientôt être organisée à Velika, pour célébrer la paix durable. &lt;BR&gt;&lt;BR&gt;Voici votre invitation.&lt;BR&gt;Halran en a également reçu une.&lt;BR&gt;Apparemment, une multitude de convives se rassemblent en ce lieu historique.&lt;BR&gt;&lt;BR&gt;L'invitation vous téléporte directement à Velika. Utilisez cette invitation si vous voulez participer aux festivités.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="506" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">L'heure n'est pas encore aux festivités. &lt;BR&gt;Il est impératif que les forces armées qui ont été envoyées à Élénea reviennent à Velika. Sans quoi, Velika et peut-être même tout Arborea courent un grand danger ! &lt;BR&gt;&lt;BR&gt;Il faut à tout prix en informer le commandant Seir, mais je n'ai pas d'invitation...&lt;BR&gt;&lt;BR&gt;Pourriez-vous remettre cette lettre à Seir ? Je compte sur vous !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="506" prevId="4" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Bonjour. Puis-je voir votre invitation ?&lt;BR&gt;&lt;BR&gt;Bienvenue, &lt;PCNAME&gt;. C'est un honneur de vous accueillir ici. &lt;BR&gt;&lt;BR&gt;Le commandant Seir vous recherche.&lt;BR&gt;Rendez-vous donc dans le Quartier général avant de profiter des réjouissances de la fête.&lt;NEXTPAGEBUTTON&gt;"Mon camarade peut-il m'accompagner ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous parlez de l'homme, là-bas ?&lt;BR&gt;Je ne peux malheureusement que laisser entrer les personnes munies d'une invitation personnelle.&lt;BR&gt;La seule exception est faite pour les enfants des invités.&lt;BR&gt;&lt;BR&gt;Vous ne pouvez pas rejoindre la Salle de banquet avec un compagnon, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Et maintenant, allez voir le commandant Seir.&lt;BR&gt;Il vous attend.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="506" villagerId="1003">
+        <Page social="0">Bonjour. Puis-je voir votre invitation ?&lt;BR&gt;&lt;BR&gt;Bienvenue, &lt;PCNAME&gt;. C'est un honneur de vous souhaiter la bienvenue ici. &lt;BR&gt;&lt;BR&gt;Le commandant Seir vous recherche.&lt;BR&gt;Rendez-vous donc dans le Quartier général avant de profiter des réjouissances de la fête.&lt;NEXTPAGEBUTTON&gt;"Mon camarade peut-il m'accompagner ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="506" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Je vous attendais, &lt;PCNAME&gt;. &lt;BR&gt;La destruction du RK-9 dans le hangar de Randun a sans doute donné le coup de grâce à Lakan, le Prince des enfers. En tant que gardien, je vous suis infiniment reconnaissant de ne reculer devant aucun danger.&lt;BR&gt;&lt;BR&gt;Profitez bien de ces festivités.&lt;BR&gt;&lt;BR&gt;Élénea ?&lt;BR&gt;C'est vrai que nous y avons envoyé des troupes.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Berdash m'a confié cette lettre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Berdash ? Je n'ai encore jamais entendu ce nom.&lt;BR&gt;&lt;BR&gt;Ainsi, il prétend qu'Arborea court un grand danger ? &lt;BR&gt;Hum, il y a toujours eu des gens qui souhaitaient précipiter les simples citoyens dans le chaos. &lt;BR&gt;&lt;BR&gt;Je ne peux pas me contenter d'y faire la sourde oreille.&lt;BR&gt;Mais je ne peux pas finir la lecture maintenant, car je dois tenir un discours.&lt;BR&gt;Je m'en occuperai après. &lt;BR&gt;&lt;BR&gt;Un guide de la fête est stationné à l'entrée du Quartier général.&lt;BR&gt;Et maintenant, allez profiter des festivités.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="506" prevId="7" villagerId="2100">
+        <Page social="0" voiceTypeId="0">Ah, c'est vous &lt;PCNAME&gt; !&lt;BR&gt;Profitez bien de la fête.&lt;BR&gt;&lt;BR&gt;Vous y découvrirez de nombreuses activités : danse, nourriture, caisses de fortune, théâtre et bien plus encore.&lt;BR&gt;Quand vous aurez tout essayé, je vous donnerais un petit quelque chose.&lt;BR&gt;&lt;BR&gt;Je suis fort curieux de voir comment vous vous débrouillez sur la piste de danse, &lt;PCNAME&gt; !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="506" prevId="8" villagerId="5027">
+        <Page social="0" voiceTypeId="0">Vous avez vraiment le rythme dans la peau, &lt;PCNAME&gt; !&lt;BR&gt;Cette débauche de mouvement vous a sans doute donné faim.&lt;BR&gt;De nombreux mets succulents ont été préparés pour les gardiens. &lt;BR&gt;&lt;BR&gt;Allez donc voir l'intendant de cuisine. &lt;BR&gt;Vous aurez le choix parmi plusieurs plats succulents.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;. &lt;BR&gt;Qu'est-ce que je vous sers ?&lt;BR&gt;&lt;BR&gt;Sélectionnez donc un plat.&lt;BR&gt;Le cuisinier que vous voyez derrière moi concoctera le plat que vous aurez choisi.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Un excellent choix !&lt;BR&gt;Le barbecue traditionnel des Champs lugubres est composé de viande de porcidé enveloppée dans des feuilles de palmier et délicatement braisée sur une fournaise de lave.&lt;BR&gt;&lt;BR&gt;Merci de patienter un instant pendant que le cuisinier vous prépare votre repas.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">La salade de flammèches des Terres libres est composée de feuilles de salade verte fraîches agrémentées de fleurs de lotus céleste et d'un assaisonnement relevé.&lt;BR&gt;J'espère que cela vous plaira.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Les ailes lugubres sont des blancs de struthio sautés dans la sauce spéciale et agrémentés d'un lotus céleste. &lt;BR&gt;Cette viande va vous fondre sur la langue.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Le barbecue traditionnel des Champs lugubre est prêt.&lt;BR&gt;Bon appétit !</Page>
+    </Text>
+    <Text id="15" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">La salade de flammèches des Terres libres est prête.&lt;BR&gt;Bon appétit !</Page>
+    </Text>
+    <Text id="16" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Les ailes lugubres sont prêtes.&lt;BR&gt;Bon appétit !</Page>
+    </Text>
+    <Text id="17" huntingZoneId="506" prevId="16" villagerId="5030">
+        <Page social="0" voiceTypeId="0">C'était bon, &lt;PCNAME&gt; ? &lt;BR&gt;Que diriez-vous de passer maintenant à l'évènement des caisses de fortune ? Carben va vous y conduire.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="506" prevId="17" villagerId="5000">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;Tentez donc votre chance, haha.&lt;BR&gt;&lt;BR&gt;Une médaille est cachée dans une des quatre caisses. Vous n'avez qu'une seule chance !&lt;BR&gt;&lt;BR&gt;Voyons voir si vous avez la main heureuse, &lt;PCNAME&gt; ! Haha !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="506" prevId="18" villagerId="5000">
+        <Page social="0" voiceTypeId="0">La chance vous sourit, &lt;PCNAME&gt; !&lt;BR&gt;Apparemment, vous avez fait le tour de tout ce que la fête a à offrir.&lt;BR&gt;Allez voir Mirriva pour obtenir un souvenir. &lt;BR&gt;&lt;BR&gt;Ah, le commandant va bientôt prononcer son discours.&lt;BR&gt;&lt;BR&gt;Qui a eu la riche idée de jouer une pièce de théâtre après l'allocution ?&lt;BR&gt;Vous ne pensez pas que les gens vous s'ennuyer ferme et s'en aller ?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="506" villagerId="5000">
+        <Page social="0">Attendez ! Vous avez oublié la médaille dans la caisse. Pensez bien à l'empocher avant que quelqu'un ne vous devance.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="506" prevId="19" villagerId="2100">
+        <Page social="0" voiceTypeId="0">La fête vous a plu, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Vous avez participé à toutes les activités.&lt;BR&gt;Voici un souvenir pour vous.&lt;BR&gt;&lt;BR&gt;Le discours du commandant Seir va bientôt commencer.&lt;BR&gt;Rendez-vous donc devant la scène. &lt;BR&gt;Une pièce de théâtre sera présentée après le discours.</Page>
+    </Text>
+</QuestDialog>

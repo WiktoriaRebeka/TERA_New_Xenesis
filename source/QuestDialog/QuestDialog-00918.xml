@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="5">Les soldats de Thulsa occupent les Mines de Croskurn. Les fouaille-tripes fléau du désert qui en gardent le périmètre extérieur massacrent nos hommes un par un. Pour reprendre les mines, la première étape... c'est d'apprendre à survivre. Voyons un peu ce que vous avez dans le ventre. Allez faire un massacre dans les rangs de ces fouaille-tripes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">Que les fouaille-tripes me croquent... vous avez réussi, &lt;PCNAME&gt;&amp;nbsp;! Vous les avez exterminés.&lt;BR&gt;&lt;BR&gt;Nos mineurs vont retrouver des conditions de vie à peu près normales.</Page>
+    </Text>
+</QuestDialog>

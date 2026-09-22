@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">Vous vous êtes rendu{@g:/e} à la fête de l'étang, sur invitation de Krumu.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">La fête de l'étang a engendré un comportement fort anormal chez les tuwangis d'ici&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;On m'a envoyé en qualité d'observateur impartial, mais peut-être pouvez-vous vous fondre dans la foule et en apprendre plus sur les rites auxquels ils procèdent.&lt;BR&gt;&lt;BR&gt;Mes collègues du Mysterium seraient vraiment intéressés par une étude rapprochée de leur comportement rituel. &lt;NEXTPAGEBUTTON&gt;Voilà qui semble fascinant.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2000">
+        <Page social="4">La fête de l'étang a engendré un comportement fort anormal chez les tuwangis d'ici&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;On m'a envoyé en qualité d'observateur impartial, mais peut-être pouvez-vous faire ce qui ne m'est pas permis&amp;nbsp;: vous fondre dans la foule et en apprendre plus sur les rites auxquels ils procèdent.&lt;BR&gt;&lt;BR&gt;C'est fascinant, si toutefois vous vous intéressez à l'anthropologie culturelle... ou si vous appréciez les fêtes gigantesques. &lt;NEXTPAGEBUTTON&gt;Dites-moi où aller.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

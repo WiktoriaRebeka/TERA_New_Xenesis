@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="4">Pourquoi s'acharner sur les vampires alors que nous pourrions aller titiller les {@LinkCreature:16#2203#nains violents}, hein&amp;nbsp;? Ils s'en prennent à tous ceux qui ont le malheur d'approcher de la Plaine biscornue.&lt;BR&gt;&lt;BR&gt;Je sais que les gens sont obsédés par notre problème de vampires, mais ces nains représentent également une menace sérieuse pour Popolion. Allez leur donner une leçon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">Merci, &lt;PCNAME&gt;. Les villageois ne réaliseront peut-être jamais qu'ils sont plus en sécurité qu'avant mais j'apprécie le travail que vous avez fait.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1012">
+        <Page social="0">Si nous n'envoyons aucune force pour nous occuper des nains alors nous n'aurons plus à nous préoccuper de savoir si les vampires arrivent ou non, parce que nous serons alors morts.</Page>
+    </Text>
+</QuestDialog>

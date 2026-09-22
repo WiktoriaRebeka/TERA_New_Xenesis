@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="5">Soldat&amp;nbsp;! J'ai besoin de votre aide. Le culte attaque nos caravanes et vole notre nourriture. C'est toujours quand la garde est en sous nombre, et nous avons beau changer les itinéraires de ravitaillement, ça continue. Vous savez ce que ça sent&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ça sent la trahison.&lt;BR&gt;&lt;BR&gt;C'est le {@LinkCreature:17#201#Batteur Rotcarn} qui dirige les attaques. En ce moment, il rassemble des troupes dans les champs, certainement en vue d'une opération. Tuez-le et fouillez-le. Mettons un terme à tout ça... compris&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1013">
+        <Page social="5">Bon sang de bonsoir&amp;nbsp;! Seuls les officiers ont accès à ce genre de registres&amp;nbsp;! Si quelqu'un l'avait volé, l'incident aurait été signalé. Il a été donné, pas volé... Et par l'un de nos hommes... Quelle déception.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1013">
+        <Page social="0">Rotcarn est mort&amp;nbsp;? Pas encore&amp;nbsp;? Alors ça ne m'intéresse pas.</Page>
+    </Text>
+</QuestDialog>

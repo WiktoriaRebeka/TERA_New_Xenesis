@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Bonjour, &lt;PCCLASS:lcase&gt;, ou devrais-je plutôt vous appeler, "le bricolo du dimanche"&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Non&amp;nbsp;? Je peux vous proposer quelque chose&amp;nbsp;: parlez avec {@LinkCreature:63#3003#Elthienne} et occupez-vous de quelques-unes des choses qui nous restent à fabriquer, et je vous appellerai simplement &lt;PCNAME&gt; à l'avenir. Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Quel est le surnom que {@LinkCreature:63#3002#Taratia} vous a donné&amp;nbsp;? Je trouve que "Votre Altesse royale du Royaume d'Artisania" vous conviendrait mieux.&lt;BR&gt;&lt;BR&gt;Mais ça ne vous va toujours pas&amp;nbsp;? Dites, c'est difficile de vous faire plaisir, on dirait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon, "&lt;PCNAME&gt;", maintenant que le bizutage des Mains de Velika est fini, ça vous dirait de fabriquer quelques objets pour {@LinkCreature:63#3001#Barian}&amp;nbsp;? Super&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un {@RawItem:206812} et apportez-le ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un {@RawItem:206813} et apportez-le ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un {@RawItem:206814} et apportez-le ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Très bon travail !&lt;BR&gt;&lt;BR&gt;Allez voir {@linkcreature:63#3002#Taratia} pour obtenir votre salaire.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un {@RawItem:206815} et apportez-le vite ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Merci bien !  &lt;BR&gt;&lt;BR&gt;J'espère pouvoir aussi compter sur vous la prochaine fois !&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} vous remettra votre récompense !</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez un {@RawItem:206815} et apportez-le vite ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Vous vous débrouillez vraiment bien, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Je ne l'aurais jamais cru.</Page>
+    </Text>
+</QuestDialog>

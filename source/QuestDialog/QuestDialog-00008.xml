@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">La plupart des réfugiés que vous croiserez ici arrivent de petits campements de l'autre côté de la colline. On ne peut pas dire que la Fédération se soit donnée grand mal pour améliorer leur condition. Enfin, je suppose que ce ne sont pas les seuls nécessiteux.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, nous allons devoir leur trouver de la nourriture. Certains en sont déjà réduits à tenter de faire de la soupe avec des bouts d'écorce !&lt;NEXTPAGEBUTTON&gt;"Comment puis-je les aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Les réfugiés ont besoin de viande, c'est une évidence. Le meilleur moyen de s'en procurer, c'est de chasser des {@LinkCreature:2#57#phacochères longues-défenses} et des {@LinkCreature:2#7#brutes phacochères}. Il n'y aura plus qu'à la faire griller, et à table&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le seul hic, c'est que ces cochons sauvages ne sont pas... commodes. Alors faites attention&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1031">
+        <Page social="4">Avec ça, ils auront de quoi se nourrir pendant un bon moment, &lt;PCNAME&gt;. Quand l'appétit va, tout va, comme on dit.&lt;BR&gt;&lt;BR&gt;Nous vous mettrons quelques côtelettes de côté&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1031">
+        <Page social="0">Pensez aux enfants affamés&amp;nbsp;! Et à ces délicieuses grillades de sanglier&amp;nbsp;! Rapportez-moi donc cette viande de {@LinkCreature:2#57#phacochère longues-défenses} et de {@LinkCreature:2#7#brute phacochère}.</Page>
+    </Text>
+</QuestDialog>

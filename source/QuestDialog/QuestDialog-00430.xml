@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="89" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1020">
+        <Page social="4">Avez-vous déjà entendu parler de la machine facétieuse ? &lt;BR&gt;&lt;BR&gt;Non ? Vraiment pas ? Ha ha !&lt;BR&gt;&lt;BR&gt;Tenez, je vous en donne une. Essayez-la donc vous-même ! Mais attendez que je vous dise de l'ouvrir. Vous ne voulez par rater une occasion pareille, quand même ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1020">
+        <Page social="4">La machine facétieuse est une chose des plus intéressantes. Elle vous permet de tester votre chance. Vous devez être impatient de l'essayer, pas vrai ? Bon, d'accord, je vous l'ai déjà donnée. Il existe différentes machines facétieuse, mais nous en reparlerons plus tard.&lt;BR&gt;&lt;BR&gt;Allumez un feu de camp, ouvrez votre &lt;b&gt;inventaire&lt;/b&gt; et faites un &lt;b&gt;clic droit&lt;/b&gt; sur la machine que je vous ai remise. Une fenêtre s'ouvrira alors, dans laquelle vous pouvez déposer des &lt;font color='#660000'&gt;matériaux&lt;/font&gt;. Prêt ? Bien ! Alors tentez votre chance...&lt;br&gt;&lt;br&gt;Oh, attendez.... J'ai oublié de vous donner des matériaux pour votre expérience. Tenez, voici du &lt;font color='#660000'&gt;minerai de krymétal&lt;/font&gt;. Et maintenant, allez-y, essayez. Bien sûr, vous pouvez utiliser toute autre sorte de matériau dont vous disposez.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1020">
+        <Page social="4">Alors, comment ça s'est passé ? Certaines machines &lt;b&gt;disparaissent après usage&lt;/b&gt;, comme c'est le cas pour celle-ci. D'autres restent parfois encore utilisables pour un autre essai. N'oubliez pas : certaines machines peuvent recevoir des consommables tels que des potions, des talismans, des matériaux d'autres machines, des objets d'enchantement ou de l'Alkahest. Si vous &lt;b&gt;réussisez&lt;/b&gt;, vous recevrez plus de consommables ou bien des matériaux et des objets d'enchantement plus précieux. En revanche, si vous &lt;b&gt;échouez&lt;/b&gt;, les matériaux disparaîtront. C'est plutôt décevant. Mais cela vaut la peine d'essayer, surtout si on a une chance de décrocher le jackpot ! Pas vrai ?</Page>
+    </Text>
+</QuestDialog>

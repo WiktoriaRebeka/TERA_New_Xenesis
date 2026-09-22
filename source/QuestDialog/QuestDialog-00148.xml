@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Eliminez les {@LinkCreature:5#4#grenouillards tuwangis} et les soldats, de façon à ce que les tuwangis postés à l'entrée du marais sur les ordres de Moong ne soient pas en mesure d'attaquer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="0">On peut espérer que la disparition des grenouillards tuwangis va mettre un terme au problème.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">Le temps presse. Eliminez immédiatement les {@LinkCreature:5#4#grenouillards tuwangis}.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Les {@LinkCreature:4#1051#golems de guerre devans} et les {@LinkCreature:4#1052#protecteurs devans morts} se croient chez eux ici.&lt;BR&gt;&lt;BR&gt;Tuez-les et si vous trouvez des pièces en ombremétal sur leurs armures, prenez-les.&lt;BR&gt;&lt;BR&gt;La Montagne Fyr est notre mine, &lt;PCNAME&gt;. Montrez-le leur... à coups de pioche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Toujours debout&amp;nbsp;? Continuez comme ça, et nous reprendrons bientôt le contrôle de ces mines, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Bon sang de bonsoir&amp;nbsp;! Ça ne vous dérange pas que l'ennemi se promène dans les parages comme s'il était chez lui&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

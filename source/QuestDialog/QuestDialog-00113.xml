@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Shina a besoin d'aide à la Base de Feu de la Bravoure, au nord-est d'ici, dans la Plaine en fusion.&lt;BR&gt;&lt;BR&gt;Je ne sais pas ce qui se passe, mais elle n'appellerait pas à l'aide si la situation n'était pas critique.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1005">
+        <Page social="4">Si vous pouvez tuez des shurians, nous avons du travail pour vous.&lt;BR&gt;&lt;BR&gt;Allez voir Tifane.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1006">
+        <Page social="4">Nous soupçonnons les shurians d'être là pour voler quelque chose qui se trouve auprès de Bahaar.&lt;BR&gt;&lt;BR&gt;C'est une vieille rancune qui date de la Guerre divine, je ne connais pas les détails.&lt;BR&gt;&lt;BR&gt;Mais de toute façon, ils représentent une menace dont nous nous passerions volontiers.</Page>
+    </Text>
+</QuestDialog>

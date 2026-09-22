@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="4">L'expansion des marchés entraine l'augmentation des profits. Nous avons besoin que vous réalisiez une petite étude de marché, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Allez voir Tryphena dans un camp près du Labyrinthe d'Azarel et posez-lui des questions sur les "opportunités de marché". Elle comprendra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Vous travaillez pour Jax, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Dites-lui que j'ai remarqué beaucoup de trafic dans ce secteur, et que certaines transactions présentent un bon ratio valeur/risque. Il comprendra.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1704">
+        <Page social="4">Elle a dit "un bon ratio valeur/risque"&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tenez, voilà votre récompense, et souvenez-vous&amp;nbsp;: les études de marché peuvent se révéler lucratives.</Page>
+    </Text>
+</QuestDialog>

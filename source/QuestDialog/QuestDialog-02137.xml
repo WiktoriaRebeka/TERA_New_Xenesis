@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">La Fédération nous apporte son soutien ici car nous étudions la faune et la flore pour le Mysterium.&lt;BR&gt;&lt;BR&gt;Si on ne transmet pas de rapport, on ne reçoit aucune aide. Il nous manque celui de {@LinkCreature:71#3018#Meiga}. Allez l'aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Hmph. Si {@LinkCreature:71#3001#Arisel} veut que je lui transmette mes rapports à temps, nous devrions embaucher des barakas.&lt;BR&gt;&lt;BR&gt;Aah, voilà le retardataire. On ne voit pas le temps passer ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="2" villagerId="3027">
+        <Page social="4">Mon rapport&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Aaah, oui&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je me suis laissé distraire, mais ne vous en faites pas, il est prêt.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3028">
+        <Page social="4">Voilà le rapport.&lt;BR&gt;&lt;BR&gt;Entre les golems et les paresseux à éviter, je ne savais pas comment l'envoyer&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3029">
+        <Page social="4">Je ne vous l'ai pas envoyé car il n'y a rien de nouveau sous le soleil&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les golems font leur travail. Les golems partent en vrille. Les golems tombent en panne. Les golems sont remplacés par de nouveaux golems.&lt;BR&gt;&lt;BR&gt;Et voilà à quoi ressemblent mes journées&amp;nbsp;!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3030">
+        <Page social="4">Les paresseux ont mangé le dernier.&lt;BR&gt;&lt;BR&gt;Non, pas le rapport, le scientifique qui devait me le remettre&amp;nbsp;! Non, vraiment&amp;nbsp;!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="230" prevId="13" villagerId="3031">
+        <Page social="4">Dites à Meiga que je réfléchirais bien mieux si j'avais sous le nez des rations dignes de ce nom.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="230" prevId="14" villagerId="3032">
+        <Page social="4">Un rapport&amp;nbsp;? Oh, oui, bien sûr&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Laissez-moi juste remplir ça deux minutes...</Page>
+    </Text>
+    <Text id="16" huntingZoneId="71" prevId="15" villagerId="3018">
+        <Page social="4">Et voilà le dernier pour aujourd'hui.&lt;BR&gt;&lt;BR&gt;J'imagine que ça ne se passe pas comme ça dans l'armée, hein&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

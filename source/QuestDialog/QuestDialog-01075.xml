@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="4">J'ai un service à vous demander. Nous sommes censés observer les orkans de la Griffe noire, mais nous sommes envahis de {@LinkCreature:41#1003#dents-de-sabre des sables} et de {@LinkCreature:41#1002#kamaras noralks}.&lt;BR&gt;&lt;BR&gt;Nous perdons beaucoup de temps à réduire leur population… et il y a aussi le problème des blessures. Tant que vous êtes là, vous voulez participer à la chasse&amp;nbsp;? {@LinkCreature:241#1003$$Jaebel} vous dédommagera de vos efforts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">Votre aide nous a été précieuse. Prenez ceci, en gage de reconnaissance.</Page>
+    </Text>
+</QuestDialog>

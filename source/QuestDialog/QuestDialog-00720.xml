@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">Vous avez vu les types sinistres qui traînent au sous-sol&amp;nbsp;? On les nomme {@LinkCreature:25#3012#champions shurians}. Tout le monde les croyait disparus depuis la chute de l'Empire sombre devan, mais ils sont bel et bien de retour. Nous pensons qu'il pourrait s'agir de membres de l'Atel Akaad.&lt;BR&gt;&lt;BR&gt;Exterminons-les pour de bon, cette fois&amp;nbsp;! Tuez-les et rapportez-moi leurs emblèmes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Pas mal du tout&amp;nbsp;! Cerise sur le gâteau, ces emblèmes sont chargés de mana. Nous allons donc pouvoir nous en servir pour alimenter le téléportail. Bien joué&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">Allons... j'ai vraiment besoin de ces emblèmes.</Page>
+    </Text>
+</QuestDialog>

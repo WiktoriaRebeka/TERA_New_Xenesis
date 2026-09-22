@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="4">J'ai fait une découverte des plus intéressantes. Les pousses de l'arbre de casian ont des vertus médicinales extrêmement puissantes.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, aidez-moi à en récupérer. Cela nous permettrait de soigner les soldats blessés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1013">
+        <Page social="4">C'est bon. Je ne veux pas prélever plus que ce qui est immédiatement nécessaire par peur d'endommager l'arbre.&lt;BR&gt;&lt;BR&gt;Votre aide est, comme toujours, très appréciée.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" villagerId="1013">
+        <Page social="0">Les pousses ne sont pas difficiles à trouver. En fait, il y en a une juste là-bas.</Page>
+    </Text>
+</QuestDialog>

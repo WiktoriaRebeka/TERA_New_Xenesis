@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="5">Grâce à vous et aux recrues qui se sont dévouées, nous sommes en train de purger la région des ennemis qui menacent le royaume, mais les hommes de l'Avant-poste de l'esprit sont toujours dans la mouise.&lt;BR&gt;&lt;BR&gt;Rendez-vous sur place et contactez {@LinkCreature:223#1017$$Naikara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1017">
+        <Page social="5">La plupart de nos réservistes sont en train de combattre les rebelles vampires sévissant à proximité de Popolion.&lt;BR&gt;&lt;BR&gt;Si vous avez ne serait-ce que la moitié des qualités que Menani vous reconnaît, vous nous serez déjà d'une aide inappréciable.</Page>
+    </Text>
+</QuestDialog>

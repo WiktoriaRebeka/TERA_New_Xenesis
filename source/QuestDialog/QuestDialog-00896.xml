@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="4">Les wendigos disent qu’en exploitant les éclats, nous allons les épuiser à tout jamais, alors que selon eux, l’Autel d'Azurice peut en produire indéfiniment, s’il dispose d’assez d’énergie.&lt;BR&gt;&lt;BR&gt;Nous avons décidé de les croire pour le moment. Il nous faut des éclats cramoisis, les plus puissants, si nous voulons en imprégner l’autel.&lt;BR&gt;&lt;BR&gt;Partez vers le sud-est et récoltez tous ceux que vous trouverez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1009">
+        <Page social="4">Il est possible que ces éclats remettent l’Autel d'Azurice en état et empêchent les éclats de disparaître totalement de notre monde.&lt;BR&gt;&lt;BR&gt;Il y a une leçon à en tirer sur la pérennité et l’équilibre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1009">
+        <Page social="0">Toutes mes excuses, &lt;PCNAME&gt;. Il nous faut davantage d’éclats cramoisis.</Page>
+    </Text>
+</QuestDialog>

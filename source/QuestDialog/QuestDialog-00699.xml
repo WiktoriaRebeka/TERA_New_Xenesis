@@ -1,0 +1,81 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Malgré la mort de Samael, et contre toute attente, les descendants de Lok sont parvenus à se regrouper. En premier lieu, ils comptaient ressusciter Samael et utiliser à leur profit la magie des anciens géants pour se venger de la Fédération.&lt;BR&gt;&lt;BR&gt;Ils ont réveillé les géants et découvert l'emplacement du sanctuaire renfermant la magie qu'ils convoitaient. Vous avez mis un terme aux interrogatoires que les descendants de Lok faisaient subir aux géants et empêché que leur magie ne tombe entre de mauvaises mains.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Ordre de repli]&lt;BR&gt;&lt;BR&gt;Après la mort de Samael, les descendants de Lok, considérés comme vaincus, se sont regroupés. &lt;BR&gt;Ils se rassemblent autour de la Prêtresse Akia. Ils sont bien mieux organisés que je ne le pensais.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vos services sont requis dans le sud d'Arun. Venez me voir au Quartier général de Velika. Je vous donne mon parchemin de téléportation pour que vous puissiez revenir vite.&lt;BR&gt;&lt;BR&gt;Seir, commandant de Velika</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Les survivants des descendants de Lok qui menaçaient le sud d'Arun recommencent à faire parler d'eux. Ils se regroupent auprès de la Cathédrale sombre. &lt;BR&gt;&lt;BR&gt;Élion va prendre le commandement de la troupe et avancer jusqu'à la Cathédrale sombre. Je voulais vous déployer sur le front argon, mais Élion a un service à vous demander. &lt;BR&gt;&lt;BR&gt;Il vous demande de vous joindre aux forces de défense.&lt;BR&gt;Allez trouver Élion. Il vous attend aux portes de la commanderie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1168">
+        <Page social="4" voiceTypeId="0">Merci d'être revenu aussi vite. &lt;BR&gt;&lt;BR&gt;Je suis ravi de vous voir avant mon départ. &lt;BR&gt;Vous êtes sans doute déjà au courant que j'aimerais vous demander un service.&lt;NEXTPAGEBUTTON&gt;"Je vous écoute."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les descendants de Lok veulent se venger de Velika et cherchent un sort de destruction dévastateur utilisé par les géants. &lt;BR&gt;&lt;BR&gt;À ce qu'il paraît, ils ont été aperçus auprès des Ruines colossales : les reliques de l'empire des géants. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pendant que je m'occupe de la Cathédrale sombre, je vous prierai de tout faire pour que le sortilège des géants ne leur tombe pas entre les mains. &lt;BR&gt;&lt;BR&gt;Ma cousine Elsine se trouve à Tulufan. Elle est archéologue et étudie l'Empire des géants. Elle va vous épauler.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Élion m'a contactée. C'est donc vous, &lt;PCNAME&gt; ? &lt;BR&gt;&lt;BR&gt;La légende prétend qu'un sort de destruction puissant de l'ancien Empire des géants est caché ici même, à Val Aureum. &lt;BR&gt;&lt;BR&gt;C'est pourquoi les descendants de Lok ont commencé à explorer les Ruines colossales. Je suis convaincu qu'ils cherchent le sort de destructions des géants.&lt;BR&gt;&lt;BR&gt;Nous devons les en empêcher. Baruch, le commandant de la garnison de Tulufan va vous épauler.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="1001">
+        <Page social="4" voiceTypeId="0">D'abord, des gangs de brigands, et maintenant, les descendants de Lok...&lt;BR&gt;&lt;BR&gt;J'ai déjà entendu parler de leurs atrocités en long et en large. Cette fois-ci, nous devons les éradiquer une bonne fois pour toutes. &lt;BR&gt;&lt;BR&gt;Rendez-vous dans les Ruines colossales et allez trouver {@LinkCreature:218#1003#Kardelen}. C'est le préfet du camp de Marrakeen qui protège la région où agissent les kuzads. &lt;BR&gt;&lt;BR&gt;Un rapport récent nous a signalé qu'une unité des descendants de Lok y sévissait.&lt;NEXTPAGEBUTTON&gt;"Une unité des descendants de Lok ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les kuzads se montrent chaque jour un peu plus agressifs... C'est sans doute là l'œuvre des descendants de Lok.&lt;BR&gt;&lt;BR&gt;Et ce désert ne facilite pas les choses. Utilisez le &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7003#-57237,-37690,2449&amp;type=1&amp;name=téléportail"&gt;téléportail&lt;/A&gt;&lt;/font&gt; pour rejoindre le Camp de Marrakeen.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Bienvenue. Votre réputation vous précède, &lt;PCNAME&gt;. Comment puis-je vous aider ?&lt;NEXTPAGEBUTTON&gt;"Je suis ici pour arrêter les descendants de Lok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hum... Les descendants de Lok sont arrivés ici parce qu'ils ont des vues sur le sort de destruction des anciens géants. Depuis leur apparition, les kuzads de la région sont encore plus farouches qu'auparavant. &lt;BR&gt;&lt;BR&gt;Le peuple des kuzads vénère les géants. Nous devons comprendre ce qui les fait enrager ainsi. &lt;BR&gt;&lt;BR&gt;Terrassez des {@linkcreature:18#8#destructeurs du désert de feu}, des {@linkcreature:18#3#enragés du désert de feu} et des {@linkcreature:18#9#prophètes du désert de feu} et écoutez ce qu'ils ont à vous dire. Venez ensuite me faire votre rapport.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Tout s'est bien passé ?&lt;BR&gt;&lt;BR&gt;(Vous racontez à Kardelen ce qu'ont dit les kuzads.)&lt;BR&gt;&lt;BR&gt;Qu'a-t-il bien pu arriver aux géants qu'ils vénéraient ?&lt;NEXTPAGEBUTTON&gt;"Ils vénéraient des géants ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ynorr, Surtr et Worlkir... Seraient-ce vraiment des noms ? Nous devrions consulter un expert. &lt;BR&gt;&lt;BR&gt;Dinian, qui se tient à côté de moi, est un scientifique de renommée internationale, spécialiste des géants.&lt;BR&gt;&lt;BR&gt;Il saura peut-être quelque chose des noms que les kuzads vous ont révélé.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" prevId="8" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Avez-vous découvert quoi que ce soit ?&lt;BR&gt;&lt;BR&gt;(Vous mentionnez à Dinian les noms de Ynorr, Surtr et Worlkir.)&lt;BR&gt;&lt;BR&gt;Worlkir, Surtr, Ynorr ! Ces noms appartenaient aux géants légendaires qui ont scellé les armes que l'ancien Empire des géants avait confectionnées pour affronter les dieux. Pour bien garder ce secret, ils reposent prétendument à un endroit appelé le hall des supplices. &lt;NEXTPAGEBUTTON&gt;"Des géants légendaires ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les kuzards vénèrent les géants. S'ils ne peuvent pas sauver les géants divins... Cela signifie... que les descendants de Lok ont capturé les géants des légendes !&lt;BR&gt;&lt;BR&gt;Bonté divine ! Nous devons immédiatement recueillir des informations auprès de leurs serviteurs. &lt;BR&gt;&lt;BR&gt;Mon collègue Mirak étudie les ruines des géants dans le camp d'étude. Il s'est déjà plaint du nombre de descendants de Lok qui débarquaient dans la région. &lt;BR&gt;Mirak pourra vous en dire plus. &lt;BR&gt;&lt;BR&gt;J'espère que le désert ne vous posera pas de problème. &lt;BR&gt;Il serait certainement plus rapide de voler.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="218" prevId="9" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Et dire que les kuzads n'ont pas pu protéger les géants légendaires...&lt;BR&gt;&lt;BR&gt;Nous devons découvrir où les descendants de Lok les retiennent captifs. &lt;BR&gt;&lt;BR&gt;D'après mes informations, ils sont commandés par {@linkcreature:18#107#Adarak} et {@linkcreature:18#108#Jerexis}. &lt;BR&gt;&lt;BR&gt;Ces deux olibrius cruels ne se manifestent que rarement. &lt;NEXTPAGEBUTTON&gt;"Et comment pouvons-nous les retrouver ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Le centurion d'Aureum {@linkcreature:218#1009#Chenast} espionne les descendants de Lok dans la partie nord de la Place du Tout-puissant. &lt;BR&gt;&lt;BR&gt;D'après mes informations, il mène l'enquête car des cultistes de Lok sont stationnés dans la région. &lt;BR&gt;&lt;BR&gt;Il saura sans doute où ils se trouvent.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="218" prevId="10" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt; ! Psst ! La Prêtresse Akia, des descendants de Lok, vient d'arriver dans la région. &lt;BR&gt;&lt;BR&gt;Elle cherche {@linkcreature:18#107#Adarak} et {@linkcreature:18#108#Jerexis} au milieu des ruines. Je crois qu'elle a émis des ordres. &lt;BR&gt;&lt;BR&gt;Pour trouver l'endroit où ils ont enfermé les géants, nous devons les éliminer et nous emparer de leurs ordres. &lt;BR&gt;&lt;BR&gt;Éliminez-les puis allez vous adresser à {@linkcreature:18#1035#Mazuel}, l'espion déguisé en descendant de Lok.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="18" prevId="11" villagerId="1035">
+        <Page social="29" voiceTypeId="0">J'étais justement en train de collecter des informations. Puisque vous avez éliminé les deux chefs, nous devons agir vite.&lt;BR&gt;&lt;BR&gt;Hum... Ce document est enchanté. Le déchiffrer ne sera pas facile. Nous devrions charger Mirak, à Sietch Bidaum, du décryptage.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="18" villagerId="1035">
+        <Page social="0">{@linkcreature:18#107#Adarak} et {@linkcreature:18#108#Jerexis} commandent les descendants de Lok. Exterminez-les et récupérez leurs ordres.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="18" prevId="12" villagerId="1035">
+        <Page social="29" voiceTypeId="0">Ce désert pullule de dangers de toutes sortes. D'autant que l'on tente de nous reprendre les ordres des descendants de Lok. &lt;BR&gt;&lt;BR&gt;Je vais vous amener à Sietch Bidaum en toute sécurité. &lt;BR&gt;Faites-moi signe quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="18" prevId="12" villagerId="1035">
+        <Page social="29" voiceTypeId="0">Bien joué ! Je vais également retourner auprès de la Garnison pour faire un rapport au commandant de Garnison.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="218" prevId="12" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Oh, vous avez récupéré les ordres ! Rompre le sort sera un jeu d'enfant. &lt;BR&gt;&lt;BR&gt;(Mirak survole les ordres).&lt;BR&gt;&lt;BR&gt;Mais ce n'est pas possible ! D'après ces ordres, les descendants de Lok ont éveillé les anciens géants. &lt;BR&gt;&lt;BR&gt;Après quoi, ils ont torturé les géants avec une pierre magique pour obtenir des informations sur le sort de destruction antique. &lt;NEXTPAGEBUTTON&gt;"Que puis-je faire maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous devons découvrir au plus vite où ils retiennent les géants captifs. &lt;BR&gt;&lt;BR&gt;Ils se trouvent peut-être dans le Temple de Tithus qui abrite, paraît-il, la plus précieuse des reliques des géants. &lt;BR&gt;&lt;BR&gt;Rendez-vous dans le Temple de Tithus et l'archéologue vous assistera. &lt;BR&gt;&lt;BR&gt;Essayez d'apprendre où se trouvent les géants. Nous devons les sauver !</Page>
+    </Text>
+    <Text id="17" huntingZoneId="218" prevId="16" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Les descendants de Lok torturent les géants ?&lt;BR&gt;&lt;BR&gt;C'est à peine croyable... Nous aussi, nous cherchons depuis longtemps la dernière demeure des anciens géants et le hall des supplices.&lt;BR&gt;&lt;BR&gt;Nous avons découvert des signes d'intrusion dans le Temple de Tithus. Nous pensions qu'il s'agissait de simples contrebandiers ou de mineurs. Nous n'avions pas suspecté les descendants de Lok !&lt;NEXTPAGEBUTTON&gt;Où est l'entrée ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Empruntez le {@linkcreature:218#1501#téléportail} pour rejoindre le temple. &lt;BR&gt;&lt;BR&gt;J'ai récemment détecté une magie puissante à proximité de la pierre magique. Je pensais qu'il s'agissait d'un sort de protection censé éviter les pillages. &lt;BR&gt;&lt;BR&gt;Mais c'était sans doute l'énergie de la pierre magique avec laquelle ils torturaient les géants. &lt;BR&gt;&lt;BR&gt;Détruisez la pierre magique et sauvez les géants des griffes des descendants de Lok. Il n'y a que vous pour y parvenir.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="218" prevId="17" villagerId="1501">
+        <Page social="4" voiceTypeId="0">Il doit s'agir du téléportail vers le hall des supplices. Sauvez les géants avant qu'il ne soit trop tard.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="422" prevId="18" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Ces maudits descendants de Lok ont volé un grimoire contenant des informations sur l'ancienne magie.&lt;BR&gt;&lt;BR&gt;Nous voulions utiliser cette magie comme arme contre les dieux. Cette magie doit être extrêmement puissante, même si elle a été scellée suite au Jour du Feu.&lt;BR&gt;&lt;BR&gt;Nous devons arrêter les descendants de Lok avant qu'ils ne réduisent le monde en cendres. &lt;BR&gt;&lt;BR&gt;Vous devez détruire le grimoire avant qu'ils ne parviennent à utiliser les artefacts. Je vous en supplie.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="422" prevId="18" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Ce pouvoir est bien trop puissant pour de simples mortels. &lt;BR&gt;&lt;BR&gt;Quels imbéciles nous faisons ... Nous comptions bel et bien affronter les dieux avec cette magie. Quiconque contrôle cette magie peut ramener les morts à la vie où raser une ville d'un claquement de doigts.&lt;BR&gt;&lt;BR&gt;Ils veulent ressusciter ce maudit Samael et dévaster Velika. Nous devons les arrêter.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="422" prevId="18" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Cette magie ne doit pas voir la lumière jour. &lt;BR&gt;&lt;BR&gt;Même si la puissance des dieux a faibli après que Balder a scellé le monde des dieux, un nouveau Jour du Feu pourrait survenir si les dieux courroucés venaient à s'allier. Mais il pourrait même y avoir encore pire.&lt;BR&gt;&lt;BR&gt;Ils veulent réveiller les morts dans leur temple et employer la magie. &lt;BR&gt;&lt;BR&gt;Je vous en prie, arrêtez les descendants de Lok.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="218" prevId="19" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Les descendants de Lok ont déjà réveillé les géants endormis ? Alors nous arrivons trop tard... &lt;NEXTPAGEBUTTON&gt;"..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous devons avertir Elsine que les descendants de Lok ont découvert l'endroit où les armes des géants étaient enfermées. &lt;BR&gt;&lt;BR&gt;Nous ne pouvons en aucun cas laisser les descendants de Lok mettre leur plan à exécution ! &lt;BR&gt;&lt;BR&gt;Le plus tôt sera le mieux ! Tenez, voici un parchemin pour rejoindre Tulufan. J'espère qu'il vous sera utile.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="66" prevId="22" villagerId="1023">
+        <Page social="4" voiceTypeId="0">C'est à peine croyable... Ils ont été plus rapides que nous.&lt;BR&gt;&lt;BR&gt;Élion est déjà en route vers le temple des descendants de Lok&lt;BR&gt;&lt;BR&gt;Nous devons lui faire faire parvenir nos informations sur les descendants de Lok. &lt;BR&gt;&lt;BR&gt;Espérons qu'ils parviennent à vaincre les descendants de Lok.</Page>
+    </Text>
+</QuestDialog>

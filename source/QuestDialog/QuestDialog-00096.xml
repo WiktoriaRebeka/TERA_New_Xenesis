@@ -1,0 +1,87 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="0">Puisque les livraisons en provenance de la Montagne Fyr n'arrivaient pas, le conseil de Castanica vous a prié de collecter la durignite des habitants. En entrant dans la mine d'extraction de durignite, vous avez découvert que des morts-vivants avaient éliminé tous les mineurs. Vous avez pu reprendre un peu de durignite aux morts-vivants, mais tant qu'ils occupent la mine et empêchent les mineurs de travailler, la pénurie de durignite se prolongera.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Vous voyez toutes ces lumières rouges ? C'est la durignite qui alimente tout cela et cette même substance protège aussi Castanica des assauts. Malheureusement, nos stocks de pierres magiques s'épuisent suite à un problème survenu dans les mines de la Montagne Fyr.&lt;BR&gt;&lt;BR&gt;C'est pourquoi la fédération a interdit l'usage privé de pierres magiques et a prié les villageois de remettre leurs pierres. Pour la plupart, les habitants se plient à cette demande, mais certains s'y opposent vigoureusement.&lt;BR&gt;&lt;BR&gt;Je vous donne une liste contenant leur nom. Merci d'aller réquisitionner leur durignite, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Vous venez un peu tôt, vous ne trouvez pas ?&lt;NEXTPAGEBUTTON&gt;"Je suis juste là pour récupérer la durignite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;(Lorcia vous lance un regard aguicheur.)&lt;NEXTPAGEBUTTON&gt;"C'est pourtant vrai. C'est juste pour la durignite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ainsi, ma beauté ne vous aveugle pas... Tant pis. Tenez, la voilà. Sans pierre magique, pas de commerce. Quand vos chefs auront réglé leur problème d'approvisionnement, j'exige qu'on me rembourse tout. Et avec les intérêts, &lt;PCCLASS&gt; !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="2" villagerId="1042">
+        <Page social="0" voiceTypeId="0">(Vous dites que vous êtes là pour la durignite.)&lt;BR&gt;&lt;BR&gt;Qu'est-ce qui vous fait croire que j'en ai encore ?!&lt;BR&gt;&lt;BR&gt;Bah... Sans durignite, la technique ne sert à rien, toute sophistiquée qu'elle soit.&lt;BR&gt;&lt;BR&gt;Voici mes derniers échantillons de durignite... Sans cette durignite, je suis fini !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="2" villagerId="1038">
+        <Page social="0" voiceTypeId="0">(Vous dites que vous êtes là pour la durignite.)&lt;BR&gt;&lt;BR&gt;Est-ce vraiment nécessaire ? Je comprends. Il est évident que le salut de la ville passe avant l'artisanat.&lt;BR&gt;&lt;BR&gt;Mais pourquoi la fédération n'a-t-elle pas anticipé en se constituant un stock de pierres magiques. Vous nous prenez nos dernières pierres, et après ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="2" villagerId="1100">
+        <Page social="4" voiceTypeId="0">(Vous dites que vous êtes là pour la durignite.)&lt;BR&gt;&lt;BR&gt;C'est une véritable croisade contre l'art ! Combien de temps comptez-vous encore interdire l'usage privé de pierres magiques ? Débrouillez-vous pour reprendre le contrôle de la situation !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">(Vous lui remettez la durignite et lui faites un rapport des réactions des marchands.)&lt;BR&gt;&lt;BR&gt;La situation est plus grave que je ne le pensais. Si ça continue comme ça, nous serons confrontés à une véritable rébellion.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pourriez-vous aller dans les mines de la Montagne Fyr pour essayer d'y rétablir l'ordre ? En ma qualité de conseiller de la fédération, je vous investis des pouvoirs nécessaires à cette mission.&lt;BR&gt;&lt;BR&gt;Dada, le contremaître de la mine de l'Avant-poste du chaudron, vous en dira plus sur la situation actuelle dans la Montagne Fyr. Allez le trouver.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" villagerId="1001">
+        <Page social="0">Merci d'aller réquisitionner la durignite des marchands.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1119">
+        <Page social="5" voiceTypeId="0">H... Houlà !&lt;BR&gt;&lt;BR&gt;Qui êtes-vous ? &lt;PCNAME&gt; ? La fédération de Castanica vous a chargé de régler le problème des mines ?&lt;BR&gt;&lt;BR&gt;Eh bien, ce n'est pas trop tôt ! Me voilà bien soulagé. Que savez-vous de la situation qui sévit par ici ?&lt;BR&gt;&lt;BR&gt;(Vous expliquez que vous ne savez rien de concret.)&lt;BR&gt;&lt;BR&gt;Je vois. Si le problème s'éventait, notre situation deviendrait intenable. Mes mineurs ont disparu.&lt;NEXTPAGEBUTTON&gt;"Les mineurs ont disparu ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les morts-vivants ont envahi la mine. Je n'ose plus y retourner.&lt;BR&gt;&lt;BR&gt;Si vous êtes de la fédération, c'est que vous avez du talent à revendre ! Allez explorer les mines et retrouvez mes mineurs.&lt;BR&gt;&lt;BR&gt;En tout, il y a deux mines.  Commencez par la &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#95358.7734,52169.5352,2236.8047&amp;type=1&amp;name=Mine de Delthin"&gt;Mine de Delthin&lt;/A&gt;&lt;/font&gt; avant de vous rendre dans la &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#98148.4609,51347.4570,2173.8384&amp;type=1&amp;name=Mine de Tansine"&gt;Mine de Tansin&lt;/A&gt;&lt;/font&gt;. Retrouvez mes hommes et découvrez ce qui se trame !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="204" prevId="9" villagerId="1125">
+        <Page social="5" voiceTypeId="0">Le wagonnet est vide...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="204" prevId="9" villagerId="1126">
+        <Page social="5" voiceTypeId="0">Des morts-vivants et des fragments d'os jonchent le plancher du wagonnet.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="204" prevId="9" villagerId="1127">
+        <Page social="0" voiceTypeId="0">Des pelles et des pioches cassées se trouvent à l'intérieur.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="204" prevId="9" villagerId="1128">
+        <Page social="0" voiceTypeId="0">Des fragments de durignite recouvrent le plancher du wagonnet.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="204" prevId="10" villagerId="1129">
+        <Page social="5" voiceTypeId="0">La société des mines de la Montagne Fyr... Le texte est à peine lisible, mais il semble s'agir d'un badge nominatif... Vous devriez l'empocher.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="204" prevId="10" villagerId="1130">
+        <Page social="5" voiceTypeId="0">La gemme renferme le portrait d'une femme. Serait-ce sa femme ? Vous devriez l'empocher.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="204" prevId="10" villagerId="1131">
+        <Page social="5" voiceTypeId="0">Le mineur serre un livre dans ses bras. Apparemment, il s'agit d'un journal, mais il est imbibé de sang et il est complètement illisible. Vous devriez l'empocher.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="204" prevId="10" villagerId="1132">
+        <Page social="5" voiceTypeId="0">Cela ressemble à une photo de famille... Vous devriez l'empocher.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="204" prevId="14" villagerId="1119">
+        <Page social="5" voiceTypeId="0">(Vous faites un rapport de la situation à Dada et lui remettez les effets des mineurs.)&lt;BR&gt;&lt;BR&gt;Ils sont tous morts ? Voilà pourquoi personne ne s'est manifesté...&lt;BR&gt;&lt;BR&gt;Je vais transmettre leurs effets à leur famille. Ce qui est arrivé dans les mines me semble encore irréel. Et les pierres magiques aussi ont disparu... Je parie que les morts-vivants ont volé les pierres magiques !&lt;BR&gt;&lt;BR&gt;Si nous ne les récupérons pas au plus vite, Castanica court un grand danger. Je vais demander des renforts contre les morts-vivants. Mais avant cela, il reste quelques détails à régler. Allez chasser le {@linkcreature:4#1051#golem de guerre devan} et le {@linkcreature:4#1052#protecteur devan mort} et récupérez les pierres magiques !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="204" villagerId="1119">
+        <Page social="0">Où sont les effets des défunts ?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="204" prevId="18" villagerId="1119">
+        <Page social="4" voiceTypeId="0">Bien. Nous avons assez de durignite pour tenir un certain temps. Apportez-la à Isolda. Dépeignez-lui aussi la situation dans les mines pour qu'elle nous envoie des renforts. Je compte sur vous, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="204" villagerId="1119">
+        <Page social="0">Nous avons besoin de durignite...</Page>
+    </Text>
+    <Text id="22" huntingZoneId="61" prevId="20" villagerId="1001">
+        <Page social="5" voiceTypeId="0">(Vous remettez à Isolda le sachet contenant les pierres magiques et lui dépeignez la situation dans les mines.)&lt;BR&gt;&lt;BR&gt;Ainsi, les morts-vivants sont responsables du chaos des mines... Quelle tragédie tous ces mineurs qu'ils ont occis. Merci. Nous devons au plus vite informer le tribun et l'adjoint de la confrérie de la situation et lancer une opération de défense.&lt;BR&gt;&lt;BR&gt;Quand nous aurons repris les mines des mains des morts-vivants, le problème des pierres magiques se règlera de lui-même. Priez les villageois de patienter encore un peu. Je vous serais reconnaissante de me dire comment ça s'est passé.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="61" prevId="22" villagerId="1029">
+        <Page social="5" voiceTypeId="0">(Vous répétez les propos d'Isolda.)&lt;BR&gt;&lt;BR&gt;Nous n'avons pas vraiment d'autre choix. Nous devons nous armer de patience. La patience n'est pas exactement ma qualité principale... Mais si je sais que vous faites votre possible, je peux prendre mon mal en patience.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="61" prevId="22" villagerId="1042">
+        <Page social="4" voiceTypeId="0">(Vous répétez les propos d'Isolda.)&lt;BR&gt;&lt;BR&gt;Je comprends. Espérons que ce problème sera bientôt résolu. Nos options sont fort limitées, pour le moment. Ces maudits morts-vivants ! Hum, ceci dit, ils sont peut-être déjà maudits, s'ils sont morts, non ?</Page>
+    </Text>
+    <Text id="25" huntingZoneId="61" prevId="22" villagerId="1038">
+        <Page social="4" voiceTypeId="0">(Vous répétez les propos d'Isolda.)&lt;BR&gt;&lt;BR&gt;Je comprends. Nous allons prendre notre mal en patience. Au moins jusqu'à la reconquête des mines et l'éradication des morts-vivants.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="61" prevId="22" villagerId="1100">
+        <Page social="4" voiceTypeId="0">(Vous répétez les propos d'Isolda.)&lt;BR&gt;&lt;BR&gt;Comment voulez-vous que je termine mon œuvre ? Bon, bon, je comprends la situation. Je n'ai pas vraiment d'autre choix que d'attendre.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="61" prevId="23" villagerId="1001">
+        <Page social="5" voiceTypeId="0">(Vous informez la conseillère Isolda de la réaction des villageois.)&lt;BR&gt;&lt;BR&gt;Je comprends. Heureusement qu'ils acceptent de se montrer patients. Vous avez vraiment fait du bon travail. Voici un témoignage de notre gratitude... un petit souvenir de Castanica. Acceptez-le, je vous en prie.</Page>
+    </Text>
+</QuestDialog>

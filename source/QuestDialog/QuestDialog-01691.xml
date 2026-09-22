@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1604">
+        <Page social="0">Voici les matériaux dont vous aurez besoin pour fabriquer des hauberts d'officier. Les Elfes ne sont pas connus pour être excessivement exigeants, mais vous pouvez parier qu'ils sauront valoriser un travail bien fait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1604">
+        <Page social="0">C'est du bon boulot. Acarum sait apprécier le travail bien fait.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1604">
+        <Page social="0">Le plan et les kits ont été fournis. Si un artisan a besoin de matériaux supplémentaires, les vendeurs d'artisanat sont là pour ça.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="3" villagerId="1009">
+        <Page social="0">Vos efforts nous aideront à mettre un terme à cette guerre, &lt;PCNAME&gt;. La Fédération vous remercie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

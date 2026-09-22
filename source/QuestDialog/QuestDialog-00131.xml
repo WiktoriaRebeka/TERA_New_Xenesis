@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">Je n'avance pas aussi rapidement dans mon travail que je le voudrais... et qu'Ackerly le voudrait, surtout&amp;nbsp;! Ces maudits {@LinkCreature:5#14#marchespores boueux} errants me mettent des bâtons dans les roues.&lt;BR&gt;&lt;BR&gt;Si vous me débarrassiez d'eux, je pourrais enfin finir mon boulot et faire parvenir mon rapport à Ackerly.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">Oh, merci&amp;nbsp;! Maintenant que je suis débarrassé de ces nuisances, je vais pouvoir terminer mon étude.&lt;BR&gt;&lt;BR&gt;Voici une petite récompense.</Page>
+    </Text>
+</QuestDialog>

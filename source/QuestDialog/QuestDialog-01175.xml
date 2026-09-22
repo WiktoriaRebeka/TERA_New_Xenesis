@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Il faut reconnaître que les fouaille-tripes sont déterminés. Même argonifiés, ils ont encore des {@LinkCreature:46#202#chamanes fouaille-tripes argonomorphes}. Je ne sais pas s'ils occupent encore un rôle religieux, mais quoi qu'il en soit, il faut les tuer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">C'était sans doute un acte charitable, de tuer les chamanes argonomorphes. Après tout, ils ne peuvent plus "parler aux esprits" ni quoi que ce soit de la sorte.</Page>
+    </Text>
+</QuestDialog>

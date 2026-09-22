@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="5">Ecoutez bien, s'il vous plaît. Ce n'est pas une mission pour débutants&amp;nbsp;! J'ai découvert une arène au Village du Vent de Sable, où les fouaille-tripes obligent leurs prisonniers, leurs esclaves et même d'autres fouaille-tripes à combattre des monstres.&lt;BR&gt;&lt;BR&gt;Le pire étant le {@LinkCreature:24#5001#Merkaratos}&amp;nbsp;! Nous allons le tuer et priver ces pourritures de leur passe-temps favori&amp;nbsp;! Et, quand je dis "nous", je veux dire "vous" et quiconque vous pourrez convaincre de vous accompagner. Même si j'aimerais être de la fête, j'ai une autre mission à remplir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="5">Vous voulez que vos collègues soldats soient capturés et contraints à se battre jusqu'à la mort&amp;nbsp;? Allez tuer ce Mekaratos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">Je ne sais pas comment ils l'ont capturé, mais tant qu'on lui fournira des proies, ce {@LinkCreature:24#5001#Merkaratos} n'ira nulle part&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

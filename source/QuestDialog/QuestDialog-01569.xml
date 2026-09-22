@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0">Hé, vous ne seriez pas en route vers l'Atelier de création de Velika, par le plus grand des hasards ?&lt;BR&gt;&lt;BR&gt;J'attends la livraison d'une arme que j'y ai commandée... Vous pourriez vous aller y faire un tour pour demander à l'experte en fabrication d'armes quand elle sera prête ? Enfin, si c'est votre destination, bien entendu.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="0">Oh, ce bon à rien... ! Son arme m'était complètement sortie de la tête. Je croule sous le travail.&lt;BR&gt;&lt;BR&gt;Vous me rendriez un grand service en allant me procurer un plan et les matériaux auprès du marchand, là-bas.&lt;BR&gt;&lt;BR&gt;Écoutez, &lt;PCNAME&gt;, je vais aussi vous donner une {@RawItem:206809} et la chose sera un vrai jeu d'enfant. Ne vous en faites pas, je compte bien fabriquer l'arme moi-même. Ça ne dure pas bien longtemps, mais ça irait encore plus vite si le minerai était déjà préparé.&lt;BR&gt;&lt;BR&gt;Allez vite voir le marchand pour lancer la fabrication du {@RawItem:206814} !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1190">
+        <Page social="0">En effet, je me spécialise dans les plans et les matériaux.&lt;BR&gt;&lt;BR&gt;Pour traiter la pierre brute, il vous faut un lot de fabrication et un plan.&lt;BR&gt;&lt;BR&gt;Vous pouvez extraire la pierre brute du minerai ou l'acheter chez un revendeur. Les plans et les matériaux s'achètent toujours chez un marchand.&lt;BR&gt;&lt;BR&gt;Ainsi, vous voulez fabriquer un {@RawItem:206814} ? Pour ce faire, il vous faut une {@RawItem:206809} et un {@RawItem:204050}. Puisque c'est la première fois que vous nous faites l'honneur, je tiens à vous offrir un {@RawItem:204050}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1196">
+        <Page social="0">Haha, j'ai tout entendu !&lt;BR&gt;&lt;BR&gt;Je vous donne un plan. Exercez donc vos compétences de fabrication !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1098">
+        <Page social="0">C'est du bon travail ! Tenez, choisissez un autre plan de fabrication.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Bon sang, vous ne m'avez toujours pas procuré le {@RawItem:206814} ? Mais dépêchez-vous donc !</Page>
+    </Text>
+</QuestDialog>

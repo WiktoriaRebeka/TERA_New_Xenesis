@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Les {@LinkCreature:4#1011#Rejetons à crocs}... On dit "chien qui aboie ne mord pas"... Eux n'aboient jamais. Ces trucs vous arrachent un bras comme on arrache une queue de cerise.&lt;BR&gt;&lt;BR&gt;Eliminez-les, et ramenez leurs cœurs. Vous nous rendrez un grand service.&lt;BR&gt;&lt;BR&gt;Leur odeur repousse les autres carnivores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Ces rejetons à crocs se reproduisent vite, mais pour vous survivre, ils devraient doubler la cadence, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Ecoutez, tant que les rejetons à crocs frayeront dans le coin, il nous sera impossible de rouvrir les mines.&lt;BR&gt;&lt;BR&gt;Difficile de jouer de la pioche quand on vient de se faire dévorer un bras&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

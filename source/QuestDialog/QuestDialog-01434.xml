@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Cette nuit, quelqu'un ou quelque chose s'est infiltré à l'intérieur de la garnison. Seule une forme de sorcellerie puissante a pu permettre à des ennemis de passer inaperçus.&lt;BR&gt;&lt;BR&gt;Nous avons installé un genre de dispositif qui cherche des traces résiduelles de magie... Il en reste toujours quand on a recours à ce genre de sorts.&lt;BR&gt;&lt;BR&gt;Nous l'avons activé ce matin. Vous pourriez aller récupérer le détecteur contenant les relevés à l'intérieur de ce dispositif, &lt;PCNAME&gt;&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1012">
+        <Page social="6">Ah, &lt;PCNAME&gt;... Vous êtes à la hauteur de votre réputation.&lt;BR&gt;&lt;BR&gt;Je vais me charger d'examiner les relevés.&lt;NEXTPAGEBUTTON&gt;Lui donner les résultats&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh... De l'énergie argone&amp;nbsp;! Cela confirme l'idée selon laquelle Thulsa et eux travaillent main dans la main.</Page>
+    </Text>
+</QuestDialog>

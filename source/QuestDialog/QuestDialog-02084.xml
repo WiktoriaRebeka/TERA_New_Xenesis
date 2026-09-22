@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez rencontré Émun, le capitaine des gardiens, qui vous a expliqué qu'Anya et les autres enfants étaient emprisonnées dans l'arbre.&lt;BR&gt;&lt;BR&gt;Vous avez pris la route pour le Cœur du chagrin afin d'aller sauver les enfants et d'en découdre une nouvelle fois avec le prédateur argon. &lt;BR&gt;&lt;BR&gt;Le prédateur argon était encore plus puissant qu'auparavant. Devant votre détresse, Anya s'est éveillée de sa torpeur et a entonné un chant pour vous sauver.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="829" prevId="1" villagerId="109">
+        <Page social="0" voiceTypeId="0">(Anya n'abandonnerait jamais Zozo sans raison. Quelque chose de grave se trame.)&lt;NEXTPAGEBUTTON&gt;"Depuis combien de temps es-tu là, Zozo&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Zozo est encore chaude. La poupée ne doit pas être ici depuis bien longtemps.)&lt;NEXTPAGEBUTTON&gt;"Anya ne peut pas être bien loin."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="829" prevId="3" villagerId="103">
+        <Page social="0" voiceTypeId="0">(perclus de douleur) Ouuuuh ... Argh !&lt;BR&gt;&lt;BR&gt;Anya et les autres enfants sont tous emprisonnés là-haut, à l'endroit où se trouve le Cœur du chagrin.&lt;BR&gt;Il n'est peut-être pas encore trop tard.&lt;BR&gt;Ne vous préoccupez pas de moi. Allez-y et sauvez les enfants !&lt;BR&gt;N'oubliez pas d'emmener ça.&lt;NEXTPAGEBUTTON&gt;"Merci bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="829" prevId="4" villagerId="104">
+        <Page social="0">Mais ce n'est pas possible... Nous avons fait au plus vite et, apparemment, nous arrivons tout de même trop tard. Les argons ont déjà conquis l'intérieur de l'arbre. Et les enfants...&lt;BR&gt;&lt;BR&gt;Nous devons partir sur-le-champ pour protéger l'arbre de Tiaran et les enfants. Je vais y aller avec vous.&lt;BR&gt;&lt;BR&gt;Ne vous en faites pas pour Émun, les soldats qui suivent vont s'occuper de lui.&lt;NEXTPAGEBUTTON&gt;"En route."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="829" prevId="5" villagerId="107">
+        <Page social="4" voiceTypeId="0">Je suis désolé, &lt;PCNAME&gt;. Il semblerait qu'Anya essayait de vous protéger, mais sa seule solution pour cela était de ne faire plus qu'un avec Tiaran. Si vous la réveillez, l'Arbre du chagrin mourra et entraînera toute l'île dans sa chute.&lt;BR&gt;&lt;BR&gt;Je partage votre douleur... mais nous avons encore du pain sur la planche. Il y a un traître dans les rangs de la Fédération. Et puisque vous et moi sommes les seuls à le savoir, vous devez venir avec moi.&lt;NEXTPAGEBUTTON&gt;"Plus rien ne me retient ici à présent..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="194">
+        <Page social="4" voiceTypeId="0">Merci, &lt;PCNAME&gt; ! Votre bravoure et votre rapidité de réaction ont transformé une catastrophe imminente en victoire !&lt;BR&gt;&lt;BR&gt;Et dire que, ce matin encore, vous vous portiez volontaire pour récolter des échantillons d'écorce... Je crois que je comprends maintenant ce qu'Anya... a vu en vous. Vous êtes promis à un destin d'exception, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Mais... je n'ai pas pu sauver les enfants..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Écoutez-moi bien, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous avez fait tout votre possible&amp;nbsp;! Le village est encore sur pieds&amp;nbsp;! L'arbre est encore sur pieds&amp;nbsp;! L'île entière est encore là&amp;nbsp;! Tout ça, grâce à vous. Et cela signifie que, grâce à vous, il y a encore de l'espoir pour Anya&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Elle a beau être endormie... elle est encore en vie&amp;nbsp;! Et elle vivra sans doute aussi longtemps que Tiaran reste en vie. Et cela vaut pour tous les enfants. Et peut-être qu'un beau jour, le Mysterium trouvera un moyen de tous les réveiller.&lt;NEXTPAGEBUTTON&gt;"Puissiez-vous dire vrai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

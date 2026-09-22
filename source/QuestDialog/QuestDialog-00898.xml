@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="4">Votre peuple prendre tous les éclats, et ça faire mourir Wendigos.&lt;BR&gt;&lt;BR&gt;Madyar dire votre peuple pas vouloir guerre avec wendigos, mais pas arrêter chercher éclats. Vous faire quoi&amp;nbsp;? Aider nous à trouver solution&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je suis ici pour vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Force... ça important pour wendigos. {@LinkCreature:34#510#mages de givre} et {@LinkCreature:34#500#tisseurs de givre} wendigos tirer énergie de pierres jaunes. Pierres les rendre forts.&lt;BR&gt;&lt;BR&gt;Vous prendre pierres jaunes... eux faibles. Autres wendigos voir mages pas forts. Eux voir Uchamba puissant... eux comprendre qu'Uchamba a raison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1010">
+        <Page social="4">Vous faire ce que vous dire. Uchamba respecter vous et Madyar.&lt;BR&gt;&lt;BR&gt;Maintenant, nous pouvoir construire avenir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Madyar nommer pierres jaunes "éclats xanthiques". Vous affaiblir les mages.</Page>
+    </Text>
+</QuestDialog>

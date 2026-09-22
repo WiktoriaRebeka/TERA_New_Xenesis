@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9906">
+        <Page social="2" voiceTypeId="0">Encore merci pour votre aide de l'autre fois.&lt;BR&gt;Nous avons dévoré les anguilles ensemble.&lt;BR&gt;Elles étaient succulentes.&lt;BR&gt;&lt;BR&gt;Mais voilà que j'ai un problème et suis donc revenu ici avec mon fils.&lt;NEXTPAGEBUTTON&gt;"Que se passe-t-il donc ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Eh bien... mon fils était tellement ravi en voyant mes poissons qu'il s'est mis à raconter des histoires dans tout le village.&lt;BR&gt;Et tout d'un coup, j'ai eu une réputation de pêcheur hors pair.&lt;BR&gt;Si je n'arrive pas à attraper la sacrée bestiole, je ne peux plus me montrer dans le village.&lt;BR&gt;Aidez-moi, je vous en prie, &lt;PCNAME&gt; !&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce qu'il vous faut ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Vous saviez qu'une tête-de-serpent nage dans les eaux de ce lac ?&lt;BR&gt;C'est une sacrée bestiole extrêmement dure à capturer.&lt;BR&gt;Vous pourriez me l'attraper ?&lt;BR&gt;Vous ne la trouverez qu'en la pêchant vous-même. Quelque part au large du Site de pêche du Lac des larmes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Suite à une rumeur répandue par son fils, Paparung se sentait forcé de capturer la sacrée bestiole du site de pêche. Vous avez résolu son problème en attrapant la sacrée bestiole du Lac des larmes à sa place.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9906">
+        <Page social="0" voiceTypeId="0">Vous l'avez vraiment attrapé ? Hourra ! Je vais enfin pouvoir oser retourner dans mon village !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Vous avez attrapé la tête-de-serpent ?&lt;BR&gt;Elle nage quelque part au large du Site de pêche du Lac des larmes, mais vous devez le pêcher en personne.</Page>
+    </Text>
+</QuestDialog>

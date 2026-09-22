@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Hazto, le forgeron de la Vallée du carnage à Khanvovar vous a prié de lui procurer des composants de griffes d'acier pour neutraliser les canons de siège des argons.&lt;BR&gt;&lt;BR&gt;Il vous a également demandé de lui rapporter les cadavres et les effets des soldats disparus.&lt;BR&gt;&lt;BR&gt;Vous avez trouvé un survivant isolé auprès des canons de siège et il vous a aidé à éliminer les shamallans, des argons qui maniaient les armes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Retournez dans la Citadelle de Khanovar pour informer {@LinkCreature:248#2001#Tamur} que vous avez activé les canons de sièges et avez ainsi éliminé les argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10" voiceTypeId="0">Ah, vous voilà ! Vous avez fait du bon travail.&lt;BR&gt;Quelle chance que les canons de siège fonctionnent à nouveau.&lt;BR&gt;&lt;BR&gt;Et pourtant, nous n'avons aucune chance contre les armes des argons. Nous les appelons les "griffes d'acier".&lt;BR&gt;&lt;BR&gt;Nous avons essayé d'éliminer les argons pour désactiver ces canons. Mais malheureusement, le plan ne s'est pas déroulé comme prévu. &lt;BR&gt;&lt;BR&gt;J'aimerais que vous nous aidiez à étudier les griffes d'acier. Le forgeron {@LinkCreature:248#1032#Hazto} vous en dira plus.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1032">
+        <Page social="10" voiceTypeId="0">Bienvenue ! Nous avons besoin de votre aide de toute urgence ! Nous avons bien des canons de siège, mais les griffes d'acier des argons sont plus puissantes.&lt;BR&gt;&lt;BR&gt;Ils sont énormes et imprévisibles puisqu'ils attaquent par voie aérienne. Malheureusement, nous avons subi de lourdes pertes.&lt;BR&gt;&lt;BR&gt;Nous espérions avoir au moins une chance infime de remporter cette guerre en les neutralisant.&lt;NEXTPAGEBUTTON&gt;"Je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Mais nous devons d'abord récupérer des composants de griffe d'acier pour trouver une solution. Le problème, c'est que les soldats chargés de chercher ces composants ne sont toujours pas revenus. &lt;BR&gt;&lt;BR&gt;J'ai bien peur qu'ils aient échoué et n'en soient pas sortis vivants.&lt;BR&gt;&lt;BR&gt;Les alentours des griffes d'acier pullulent d'argons. Allez donc les éliminer et ramenez-moi les composants de sarjalod.&lt;BR&gt;&lt;BR&gt;Et... si vous trouvez les effets des soldats, ramenez-les moi aussi.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="48" prevId="4" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Vous êtes probablement &lt;PCNAME&gt;. J'ai beaucoup entendu parler de vous. Je suis bien content de ne pas devoir mourir seul. &lt;BR&gt;&lt;BR&gt;Ces griffes d'acier nous ont canardés dans une attaque aérienne interminable. &lt;BR&gt;&lt;BR&gt;Je vais tous les exterminer. Ils ont la mort de mes camarades sur la conscience. &lt;NEXTPAGEBUTTON&gt;"C'est trop dangereux sans escorte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je m'en moque bien. Je ne fais que mon devoir. Ma mission consiste à éliminer des argons !&lt;BR&gt;&lt;BR&gt;Vous êtes sans doute ici pour récupérer les composants de sarjalod, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dans ce cas, j'ai une faveur à vous demander. Les cadavres de mes camarades gisent dans les parages. Merci de collecter leurs plaques d'identification. En contrepartie, vous obtiendrez des informations. Rendez-moi donc ce service.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Ce soldat est tombé au combat en affrontant les argons pour rétablir la paix à {@Rgn:1}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="5" villagerId="1020">
+        <Page social="6" voiceTypeId="0">Ce soldat est tombé au combat en affrontant les argons pour rétablir la paix à {@Rgn:1}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="5" villagerId="1019">
+        <Page social="6" voiceTypeId="0">Ce soldat est tombé au combat en affrontant les argons pour rétablir la paix à {@Rgn:1}.&lt;BR&gt;&lt;BR&gt;Il tient quelque chose dans sa main.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que c'est que ça ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="4">(C'est {@RawItem:45304} des chapitres manquants de Dalmuri.) Vous devriez l'empocher.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="48" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Merci bien. Quand j'aurais éliminé les argons jusqu'au dernier et retrouvé ma troupe, je vanterai votre bravoure partout à la ronde. &lt;BR&gt;&lt;BR&gt;Comme promis, voici mes informations.  Les argons qui manipulent les griffes d'acier se font appeler les shamallans.&lt;BR&gt;&lt;BR&gt;Ils utilisent ces armes comme si elles étaient le prolongement d'eux-mêmes. &lt;NEXTPAGEBUTTON&gt;"Que pouvez-vous me dire des shamallans ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ce ne sont pas des argons ordinaires. &lt;BR&gt;&lt;BR&gt;En les éliminant, vous pourrez sans doute accéder aux composants des griffes d'acier. En effet, ils sont reliés l'un à l'autre. &lt;BR&gt;&lt;BR&gt;Vous arriverez certainement à les vaincre, &lt;PCNAME&gt;. Ils ne l'auront pas volé.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1032">
+        <Page social="6" voiceTypeId="0">Oh, je l'avais pressenti. Quelle tragédie !&lt;BR&gt;&lt;BR&gt;Heureusement que vous, au moins, vous revenez indemne, &lt;PCNAME&gt;. Bien joué ! &lt;BR&gt;&lt;BR&gt;Maintenant que nous avons les composants sarjalods, nous pouvons nous atteler à l'analyse de cette arme.&lt;BR&gt;Nous trouverons bien un moyen de les neutraliser.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="1032">
+        <Page social="0">Vous n'aurez aucun mal à trouver les griffes d'acier. Les argons stationnés près de ces canons vont certainement vous attaquer.&lt;BR&gt;&lt;BR&gt;Mais je ne m'en fais pas pour vous. Faites attention à vous et rapportez-moi les composants.</Page>
+    </Text>
+</QuestDialog>

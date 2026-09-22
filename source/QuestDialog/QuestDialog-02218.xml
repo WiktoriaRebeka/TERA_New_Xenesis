@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="2" voiceTypeId="0">Bon sang... que j'ai froid ! J'en ai les mains tout engourdies.&lt;BR&gt;Si seulement j'avais un peu de soupe de poisson bien chaude.&lt;BR&gt;&lt;BR&gt;Si je vous donne la recette nécessaire, vous voulez bien me préparer une soupe de poisson ?&lt;BR&gt;Je ne peux malheureusement pas bouger d'ici.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Au bord du Lac de Celsian, Anville vous a convaincu de brasser de la bière avec des truites saumonées d'argent. Vous avez capturé des truites saumonées d'argent en utilisant des plantes paradisiaques pour appât et son ami Jaedon en a fait de la bière.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Vous m'en avez vraiment préparé une ?&lt;BR&gt;Mille mercis !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Vous avez la soupe de poisson ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Merci encore pour la soupe.&lt;BR&gt;Je l'ai mangée avec mon ami Jaedon au bord du Rocher de la désolation.&lt;BR&gt;C'est lui qui m'a raconté qu'on peut même brasser de la bière avec les truites saumonées d'argent du lac. Un vrai délice, paraît-il !&lt;BR&gt;Certes, j'ai encore du mal à me l'imaginer, mais ça fait une éternité que je n'ai rien bu de corsé.&lt;BR&gt;Qu'en pensez-vous, &lt;PCNAME&gt; ?&lt;NEXTPAGEBUTTON&gt;"C'est intéressant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">En partant d'ici pour avancer vers le nord, vous tomberez sur les plantes paradisiaques qui poussent au pied de la montagne.&lt;BR&gt;Avec ces plantes, attraper les truites saumonées d'argent est un jeu d'enfant.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="83" prevId="5" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Ainsi, vous avez trouvé les plantes paradisiaques.&lt;BR&gt;Avec l'extrait de ces plantes, vous pouvez fabriquer un appât auquel les truites saumonées d'argent ne résistent pas.&lt;BR&gt;&lt;BR&gt;Utilisez donc cet extrait de plantes paradisiaques.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="83" prevId="6" villagerId="9905">
+        <Page social="0" voiceTypeId="0">Vous avez attrapé toutes les truites saumonées d'argent ! Voilà qui devrait suffire pour préparer la bière. Attendez donc que je finisse de la brasser.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Vous avez les truites saumonées d'argent ?&lt;BR&gt;Vous devriez pouvoir les attraper en fabriquant un appât à partir de l'extrait de plantes paradisiaques.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="83" prevId="7" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Merci ! Grâce à vous, j'ai pu brasser la bière.&lt;BR&gt;Bien entendu, je vous paye un coup à boire, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

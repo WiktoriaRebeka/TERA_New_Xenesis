@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Cette fois-ci, nous devons récupérer le noyau et venger Kaidun. Nous comptons sur vous, &lt;PCNAME&gt;. Sans votre soutien, la mission est vouée à l'échec. Accompagnez-moi donc jusqu'à la Montagne Fyr.&lt;NEXTPAGEBUTTON&gt;"Comptez sur moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Merci bien. Nous prendrons la route sitôt les préparatifs terminés. Vous devriez partir devant avec Élion. Il a l'habitude des missions de ce genre. Allez donc trouver Élion et expliquez-lui que vous allez former l'avant-garde.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bien déterminée à récupérer le noyau une bonne fois pour toutes et à venger Kaidun, Freya vous a chargé de constituer l'avant-garde avec Élion et vous a envoyés sur la Montagne Fyr. Vous avez pourchassé Akasha à l'aide d'Élion et Jelena. Alors qu'Akasha s'apprêtait à s'enfuir dans le Labyrinthe d'or avec le noyau, vous avez fini par réussir à la capturer et à vous emparer du noyau. Mais Serion, le porteur du noyau, s'est grièvement blessé dans la manœuvre et vous n'avez plus rien pu faire pour lui.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="1104">
+        <Page social="5" voiceTypeId="0">Je me charge de toutes sortes de missions pour l'avant-garde. Vous avez l'air préoccupé. Fraya vous l'a pourtant déjà dit : je suis habitué à de telles missions. Vous allez voir ce que c'est que de collaborer avec des traqueurs chevronnés. Je vous donne rendez-vous sur la Montagne Fyr.&lt;BR&gt;&lt;BR&gt;Ah, je vais communiquer les zones que je compte explorer à Arin, dans l'Avant-poste du chaudron de la Montagne Fyr. Bon, je me mets en route.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Vous êtes bien &lt;PCNAME&gt;, non ? J'ai un message d'Élion pour vous. Il souhaite explorer encore quelques endroits et vous attendra plus au nord, auprès de la {@linkcreature:204#1101#Base de feu de la bravoure}. Allez le retrouver.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1101">
+        <Page social="5" voiceTypeId="0">Comment j'ai fait pour arriver ici aussi vite&amp;nbsp;? Je voyage toujours léger, camarade.&lt;BR&gt;&lt;BR&gt;J'ai de bonnes nouvelles&amp;nbsp;: j'ai réussi à obtenir l'aide de Jelena, et par-dessus le marché, elle a déjà trouvé Akasha.&lt;BR&gt;&lt;BR&gt;Elle m'a dit qu'on l'avait repérée à proximité de la Gueule de bahaar, à l'est. Mais attention... c'est un territoire dangereux.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1102">
+        <Page social="5" voiceTypeId="0">Bon sang, si vous ne faites pas un peu attention, tout le monde sera bientôt au courant, &lt;pcname&gt; ! &lt;BR&gt;&lt;BR&gt;Vous vous êtes fait repérer. Akasha s'est même sans doute déjà lancée à votre poursuite. &lt;BR&gt;&lt;BR&gt;Si c'est bien le cas, nous devrions prendre les devants. Nous devons éliminer les sbires d'Akasha et découvrir ce qu'ils mijotent !&lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver ces sbires ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Voilà pourquoi vous avez toute mon estime, &lt;PCNAME&gt; ! Vous comprenez tout de suite ce que j'attends de vous !&lt;BR&gt;&lt;BR&gt;Éliminez {@linkcreature:4#7012#Jirakar}, un sbire d'Akasha situé à l'est de la Mâchoire de Bahaar. Il porte certainement les ordres d'Akasha sur lui.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="204" prevId="6" villagerId="1102">
+        <Page social="5" voiceTypeId="0">Oh, voilà qui est très fâcheux !&lt;BR&gt;&lt;BR&gt;Akasha veut amener le noyau dans le Labyrinthe d'or ! Si elle y parvient, il sera quasiment impossible de l'arrêter. Mais si nous arrivons à l'intercepter avant...&lt;BR&gt;&lt;BR&gt;Voici l'endroit où ils comptent se rassembler avant de partir ensemble pour le labyrinthe. Auprès des... Abysses de la Montagne Fyr ? Il faut en informer Élion sur-le-champ... !&lt;BR&gt;&lt;BR&gt;... Il était moins une... !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="204" villagerId="1102">
+        <Page social="0">Si nous ne découvrons pas ce qu'Akasha manigance, nous ne mettrons jamais les mains sur le noyau ! Vite !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1200">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, Jelena, qu'avez-vous découvert ?&lt;NEXTPAGEBUTTON&gt;"Voilà les ordres d'Akasha."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les ordres d'Akasha ! &lt;PCNAME&gt;, grâce à vous, nous allons peut-être pouvoir empêcher Akasha d'apporter le noyau dans le Labyrinthe d'or.&lt;BR&gt;&lt;BR&gt;Si nous parvenons à trouver et récupérer le noyau, la victoire sera à portée de main. Nous devons absolument empêcher Akasha d'emporter le noyau !&lt;BR&gt;&lt;BR&gt;Jelena va faire un rapport à la commandante Fraya. Rendons-nous au plus vite aux Abysses de la Montagne Fyr. Nous pouvons utiliser ce téléportail !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="403" prevId="9" villagerId="1101">
+        <Page social="5" voiceTypeId="0">Vous avez récupéré le noyau. Mais...&lt;BR&gt;&lt;BR&gt;Il semble endommagé. &lt;BR&gt;Retournez tout d'abord à Castanica. Nous pourrons y débattre calmement des prochaines étapes.&lt;BR&gt;&lt;BR&gt;Thulsa, le complice d'Akasha, est sans doute déjà au courant de l'échec du plan visant à s'emparer du noyau. &lt;BR&gt;&lt;BR&gt;Je vous donne mon parchemin de téléportation. &lt;BR&gt;Retrouvons-nous à Castanica.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="61" prevId="10" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Je n'ai pas eu l'occasion de vous remercier, sur la Montagne Fyr. &lt;BR&gt;Vous avez fait du bon boulot. Grâce à vous, nous avons pu récupérer le noyau.&lt;BR&gt;&lt;BR&gt;Certes, Thulsa nous a faussé compagnie, mais en sachant que le noyau est à nouveau entre nos mains, Kaidun va sans doute pouvoir dormir sur ses deux oreilles...&lt;NEXTPAGEBUTTON&gt;"Dans quel état est le noyau ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Nous avons beau puiser dans tout ce que la magie du Mysterium et la technologie de Castanica ont de meilleur, ça ne sent pas bon.&lt;BR&gt;&lt;BR&gt;A priori, Serion ne pourra plus contrôler la puissance du noyau très longtemps. Je suis responsable d'Allemantheia et sais que nous allons bientôt devoir prendre plusieurs décisions très importantes.&lt;BR&gt;&lt;BR&gt;Mais je tiens avant tout à vous remercier pour vos efforts. &lt;BR&gt;Tenez, c'est pour vous.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Vous voulez une plume dorée&amp;nbsp;? Je suis navré mais je me suis promis une chose&amp;nbsp;: de ne plus les faire.&lt;BR&gt;&lt;BR&gt;C'est à cause des douces plumes de struthio, le Shariar les a déclarées illégales. Et déclencher sa colère n'en vaut guère la peine.&lt;NEXTPAGEBUTTON&gt;"Mais j'ai déjà cette plume...";&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Vous en avez une&amp;nbsp;? Le Shariar n'a implémenté qu'une loi contre "la chasse", donc je pourrais vous en faire encore une.&lt;NEXTPAGEBUTTON&gt;"{@gender:Content/Contente de l'apprendre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Je suis navré, mais les vaillants combattants du Shariar ont rendu la chasse aux struthios illégale. Je vous conseille de vendre vos minerais de xermétal et vos fibres de luria, et d'oublier toute cette histoire.</Page>
+    </Text>
+</QuestDialog>

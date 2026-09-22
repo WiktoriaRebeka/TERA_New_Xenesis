@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Vous avez reçu une lettre de Dougal.&lt;BR&gt;&lt;BR&gt;Afin d'améliorer l'équipement de nos troupes, nous invitons tous les soldats à venir faire enchanter leurs armes. Vous êtes tous rappelés au {@Rgn:63009} de {@Rgn:63001}, où le nécessaire vous sera remis.&lt;BR&gt;&lt;BR&gt;- {@linkcreature:63#1160})</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Une recrue de votre trempe sait combien il est important de s'armer adéquatement, mais il est parfois plus intéressant d'enchanter une arme que de la revendre pour en acheter une nouvelle.&lt;BR&gt;&lt;BR&gt;Pour en savoir plus, allez donc parler à {@linkcreature:63#1605} dans l'Atelier de création.&lt;BR&gt;&lt;BR&gt;N'oubliez pas l'alkahest. Vous devriez acheter de l'alkahest de rang 3 avant d'aller le voir. On en trouve chez Mukhem, de l'Allée Boreas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Dougal m'a dit de m'attendre à votre visite. Je sens d'ici l'alkahest&amp;nbsp;; nous allons donc pouvoir nous mettre au travail.&lt;BR&gt;&lt;BR&gt;{@gender:Prêt/Prête} à tout apprendre de l'enchantement d'équipement&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1605">
+        <Page social="0">Ah, c'est vous la personne dont {@creature:63#1160} parlait. Vous n'avez pas d'&lt;B&gt;alkahest&lt;/b&gt; sur vous ? C'est fâcheux.&lt;BR&gt;J'ai besoin d'&lt;B&gt;alkahest&lt;/b&gt;, sans quoi je ne peux pas travailler. Vous pouvez en acheter auprès des marchands de l'Agora. Pour ce faire, rendez-vous auprès de {@linkcreature:63#1103}. En plus, ce n'est pas bien coûteux.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="4">Puisque vous êtes ici, &lt;PCNAME&gt;, vous devriez chercher à vous rendre utile à quelque chose.&lt;BR&gt;&lt;BR&gt;Dans l'immédiat, vous pourriez nous aider à nous venger d'un crime odieux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Hier, les {@LinkCreature:11#2002#abordeurs du Fouet rouge} ont tué Canrohl. Ils l'ont écorché comme un vulgaire porcidé et l'ont torturé pendant des heures. Un vrai cauchemar.&lt;BR&gt;&lt;BR&gt;Et si vous alliez leur infliger le même traitement&amp;nbsp;? Un prêté pour un rendu, comme on dit...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1014">
+        <Page social="4">Je pense que vous allez hanter leurs cauchemars pendant longtemps, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

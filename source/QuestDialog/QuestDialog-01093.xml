@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Muhrak, le forgeron légendaire, a envoyé une missive.&lt;BR&gt;Il m'a prié de vous retrouver au plus vite.&lt;BR&gt;Rendez-vous à Velika immédiatement après avoir reçu ce message.&lt;BR&gt;J'aimerais vous donner tous les détails de vive voix.&lt;BR&gt;&lt;BR&gt; Seir&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement de 457 ou supérieur est requis pour entrer dans le Camp des révolutionnaires.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le forgeron légendaire vous a prié de partir à la recherche de son fils. En remontant sa piste, vous avez découvert le Camp des révolutionnaires. &lt;BR&gt;&lt;BR&gt;Vous y avez appris que Karakhir s'est fait enlever par Hennika, la commandante des révolutionnaires du drapeau rouge.&lt;BR&gt;&lt;BR&gt;Vous avez libéré Karakhir, mais Hennika a pu s'enfuir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ah, vous voilà, &lt;PCNAME&gt; !&lt;BR&gt;&lt;BR&gt;Muhrak, le forgeron légendaire, m'a fait parvenir une missive pour me prier de vous trouver.&lt;NEXTPAGEBUTTON&gt;"De quoi s'agit-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Commencez par lire ceci.&lt;BR&gt;C'est un message de Karakhir que Muhrak a joint à la lettre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ce message est le dernier signe de vie que nous avons reçu de Karakhir.&lt;BR&gt;Muhrak affirme qu'une telle chose n'est encore jamais arrivée.&lt;BR&gt;&lt;BR&gt;Il est très inquiet et espère pouvoir compter sur le soutien de la Fédération. C'est donc pour cela qu'il m'a envoyé cette missive.&lt;NEXTPAGEBUTTON&gt;"Mais encore ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Il a demandé que ce soit vous qui l'aidiez, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il a une grande confiance en vous, puisque vous l'avez déjà sauvé.&lt;NEXTPAGEBUTTON&gt;"Le forgeron légendaire peut compter sur moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Parfait, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Quand vous serez prêt, rendez-vous à Frontera et explorez les environs. C'est de là qu'est venu le dernier le dernier message de Karakhir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="39" prevId="4" villagerId="400">
+        <Page social="0" voiceTypeId="0">(Une charrette à bras abandonnée présentant les signes d'une attaque. Elle ne contient plus aucun objet.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="39" prevId="5" villagerId="401">
+        <Page social="0" voiceTypeId="0">(Il semble s'agir d'une caisse provenant de la charrette à bras que vous venez d'examiner. La caisse est encore remplie d'objets. Apparemment, l'attaque ne visait donc pas à dévaliser les passagers.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="39" prevId="6" villagerId="402">
+        <Page social="0" voiceTypeId="0">(...khir)&lt;BR&gt;&lt;BR&gt;(Quelques lettres sont à peine visibles sur le tissu.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="739" prevId="7" villagerId="4002">
+        <Page social="4" voiceTypeId="0">Bonjour. Je suis l'apprenti de Karakhir.&lt;BR&gt;Je suis venu ici pour me rendre au Temple de Dagon en compagnie de mon maître, à la recherche de nouveaux matériaux d'armes.&lt;NEXTPAGEBUTTON&gt;"Qu'est-il arrivé à Karakhir ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je suis parti chercher de la nourriture pour mon maître et, à mon retour, j'ai vu une femme étrange l'enlever avec quelques monstres.&lt;BR&gt;Je l'ai poursuivie jusqu'ici.&lt;BR&gt;Je ne pensais pas trouver un tel village derrière une falaise...&lt;BR&gt;&lt;BR&gt;J'ai bien peur qu'ils fassent du mal à mon maître.&lt;BR&gt;Ne pourriez-vous pas le sauver ?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="739" prevId="8" villagerId="4006">
+        <Page social="0" voiceTypeId="0">Argh ! Disparaissez !&lt;BR&gt;Que me voulez-vous ?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="739" prevId="9" villagerId="4001">
+        <Page social="4" voiceTypeId="0">(Il est excédé.) Une femme nommée Hennika m'a enlevé et m'a forcé à construire une arme puissante.&lt;BR&gt;Ils veulent se soulever contre la Fédération.&lt;BR&gt;&lt;BR&gt;Je n'aime pas du tout travailler sous la menace. J'ai bien essayé de m'enfuir mais... Ils m'ont retrouvé et m'ont enfermé ici.&lt;BR&gt;&lt;BR&gt;Je croyais bien devoir mourir ici. Comment m'avez-vous retrouvé ?&lt;NEXTPAGEBUTTON&gt;"Muhrak m'en a fait la demande."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, ça alors ! Mon père est certainement très inquiet.&lt;BR&gt;Je dois quitter cet endroit au plus vite pour lui envoyer un message !&lt;NEXTPAGEBUTTON&gt;"Votre apprenti vous attend à l'extérieur."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Mon apprenti ? Mais qu'est-ce que vous racontez ?&lt;BR&gt;Je n'ai encore aucun véritable apprenti.&lt;BR&gt;Il s'agit sans doute d'un de ceux qui cherchent à témoigner leur respect à un forgeron.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, je vais me mettre en route.&lt;BR&gt;Je ferais sans doute mieux d'utiliser un parchemin d'évasion.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="39" prevId="10" villagerId="404">
+        <Page social="4" voiceTypeId="0">Oh, que s'est-il passé ? Vous avez rencontré mon maître ?&lt;BR&gt;Je suis resté ici à attendre tout ce temps, mais je ne l'ai pas vu...&lt;NEXTPAGEBUTTON&gt;"Laissez-moi tout vous dire !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Oh non ! Si c'est bien la corne de mon maître, alors un quelque chose d'imprévu lui est probablement arrivé.&lt;BR&gt;&lt;BR&gt;Les Amans sont pris d'une véritable panique quand une de leur corne vient à se briser.&lt;BR&gt;Or, s'il s'en est aperçu pendant qu'il utilisait le parchemin d'évasion, cela pourrait l'avoir distrait au point de l'envoyer à un tout autre endroit.&lt;BR&gt;&lt;BR&gt;Je ferai mieux d'explorer les environs à sa recherche.&lt;NEXTPAGEBUTTON&gt;"Je vais vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Il fait non de la tête.) Il vaut mieux que vous restiez ici, pour ne pas le manquer.&lt;BR&gt;Si vous le voyez, dites-lui de m'attendre ici. &lt;BR&gt;&lt;BR&gt;Voici une petite récompense pour avoir sauvé mon maître. Je vous prie de l'accepter.</Page>
+    </Text>
+</QuestDialog>

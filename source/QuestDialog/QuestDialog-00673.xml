@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="5">On m'a signalé de la fumée au-dessus de la Route d'Aurum. Allez voir Fayza à la Porte nord-ouest et demandez-lui confirmation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1014">
+        <Page social="4">De la fumée&amp;nbsp;? Qui a parlé de fumée&amp;nbsp;? Baruch est un bon capitaine, mais entre nous, il pourrait faire l'effort d'apprendre à connaître un peu mieux Val Aureum. Il n'y a pas de feux de forêt dans la région.&lt;BR&gt;&lt;BR&gt;Mais maintenant que vous en parlez, quelque chose a soulevé un gros nuage de poussière, dans cette direction. Vous voulez bien aller interroger {@linkcreature:224#1005#Veltana} au Poste d'observation ouest&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1005">
+        <Page social="5">Des renforts&amp;nbsp;! C'est la providence qui vous envoie. J'ai demandé de l'aide à nombreuses reprises.&lt;BR&gt;&lt;BR&gt;Du sable&amp;nbsp;? De la poussière&amp;nbsp;? Ca, on en a, et en quantité...&lt;BR&gt;&lt;BR&gt;Mais trouver des effectifs, c'est une autre paire de manches... Regardez donc.</Page>
+    </Text>
+</QuestDialog>

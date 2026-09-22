@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Aïe aïe aïe, gros problème. J'ai besoin de l'aide de {@LinkCreature:218#1027#Takucha}, mais je ne peux pas y aller.&lt;BR&gt;&lt;BR&gt;Allez le voir et dites que c'est moi qui vous envoie. Sinon, pas de discussion, pas de coup de main.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Hmm... Kunchara&amp;nbsp;? C'est un bon ami. Je vais l'aider.&lt;BR&gt;&lt;BR&gt;La tribu est devenue folle furieuse. Une histoire de sort. Pas moyen d'en annuler les effets.&lt;BR&gt;&lt;BR&gt;Il faut tuer le chef, {@LinkCreature:18#101#Tukarus}. Au boulot.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1027">
+        <Page social="0">C'est Tukarus. Je me souviens bien de lui.&lt;BR&gt;&lt;BR&gt;Il a toujours eu la grosse tête. HA HA&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Rapportez-la à Kunchara, d'accord&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1027">
+        <Page social="0">Vous cherchez votre chemin&amp;nbsp;? {@LinkCreature:18#101#Tukarus} est par là-bas.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="4" villagerId="1002">
+        <Page social="0">La tête de Tukarus&amp;nbsp;? Vous l'avez, hum...?&lt;BR&gt;&lt;BR&gt;Il connaissait la vérité, mais de là à penser que Takucha vous aurait demandé de...&lt;NEXTPAGEBUTTON&gt;"Vous vous sentez bien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh... oui&amp;nbsp;! Kunchara va bien.&lt;BR&gt;&lt;BR&gt;Merci pour... euh, pour tout.</Page>
+    </Text>
+</QuestDialog>

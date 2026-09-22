@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="4">Ces gros champignons que vous voyez libèrent des spores contaminatrices, qui aident le plan des argons.&lt;BR&gt;&lt;BR&gt;Ils sont incroyablement solides, mais les explosifs fonctionnent plutôt bien, alors je vais vous en donner.&lt;BR&gt;&lt;BR&gt;Quand vous aurez épuisé toutes vos bombes, adressez-vous au {@Rgn:47008$$Guet de l'est} pour voir s'il leur faut quelque chose.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1018">
+        <Page social="4">On raconte que les argons sont partis, mais la région est si encombrée de ce qu'ils ont laissé qu'on n'a pas encore pu planter les jeunes arbres envoyés par les fées depuis le Taillis de Morteseaux. Nous avons déjà du mal à protéger notre périmètre…</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">Il n'y a plus un poil de nourriture au camp. Même en nous rationnant, nous avons fini par engloutir les provisions qui ne nous avaient pas été volées. Le moral des hommes est en berne.&lt;BR&gt;&lt;BR&gt;Des gens de la Ferme de l'écho nous ont dit qu'il restait de la nourriture à Colchester, à l'est d'ici. Nous avons donc envoyé Sozia sur place, mais si tant est qu'elle y trouve de quoi nourrir tout le monde, elle va certainement avoir besoin d'aide pour rapporter le tout.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller lui donner un coup de main&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">Hmm&amp;nbsp;? Oh, c'est Dakona qui vous envoie&amp;nbsp;? Fort bien. Il y a bien de la nourriture dans le coin, mais chaque fois que je tente de m'en emparer, ces trucs me tombent dessus et je dois cavaler.&lt;BR&gt;&lt;BR&gt;Vous serez peut-être plus rapide que moi. Si vous pouviez piquer un sprint et récupérer ces sacs, nous pourrions les rapporter au camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1003">
+        <Page social="5">Oh, bien joué. Je commençais à me demander si nous parviendrions à rapporter ces sacs ici.&lt;BR&gt;&lt;BR&gt;Nous allons pouvoir tenir un peu plus longtemps&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" villagerId="1003">
+        <Page social="0">Vous n'avez pas trouvé&amp;nbsp;? Vous voulez que je vous indique le chemin&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

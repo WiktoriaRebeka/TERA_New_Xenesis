@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3001#Derik} vous demande.&lt;BR&gt;&lt;BR&gt;On dirait qu'il aimerait vous confier le sort de quelques argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">C'est un vrai plaisir de vous revoir, &lt;PCNAME&gt;. Il y a tellement d'argons, et le temps presse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je m'en chargerais moi-même si j'en avais l'occasion, mais j'ai pensé que vous pourriez vous charger d'en dégommer quelques-uns&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Hmm, avec grâce, rapidité et volupté.&lt;BR&gt;&lt;BR&gt;Ahem... Je veux dire, vous assurez un max&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Restez sur vos gardes, même si vous avez déjà chassé des douzaines de proies comme celle-là.&lt;BR&gt;&lt;BR&gt;La suffisance peut vous faire tuer&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">Ce ne sont pas les plus beaux des argons auxquels j'ai eu affaire, mais c'est tout de même gratifiant de les zigouiller, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Attention à vous.&lt;BR&gt;&lt;BR&gt;Ils attaquent d'en-dessous.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">C'est pas trop barbant pour vous&amp;nbsp;? Ou ça vous fait toujours un bon entraînement pour quand vous retournerez au front&amp;nbsp;?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Ne relâchez pas votre attention.&lt;BR&gt;&lt;BR&gt;C'est quand on combat des proies habituelles qu'on est le plus à même de faire des erreurs.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">L'ennemi a recruté nombre d'hommes de main dans la région...&lt;BR&gt;&lt;BR&gt;J'ai entendu dire que les emblèmes des {@LinkCreature:40#27#mercenaires crestaraths} ressemblaient à des crânes. Vous pourriez m'en trouver&amp;nbsp;? J'aimerais bien y jeter un œil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">C'est bien ce que je craignais. Ces emblèmes correspondent à ceux qui sont distribués au sein de la légion de Thulsa. Ce sont de bien mauvaises nouvelles.&lt;BR&gt;&lt;BR&gt;A côté de ça, je dois reconnaître qu'ils sont assez impressionnants...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1002">
+        <Page social="0">J'attends toujours les insignes en forme de crânes des {@LinkCreature:40#27#mercenaires}. Vous en avez trouvé&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

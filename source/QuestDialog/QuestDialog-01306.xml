@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">En tant qu'érudit, je ne peux qu'être intrigué par les {@Rgn:50008}... Manifestement, la corruption argone n'est pas parvenue à conquérir entièrement les lieux. Je me demande d'où leur vient cette résistance au processus de mutation&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les enjeux qui se cachent derrière la réponse à cette question sont colossaux.&lt;NEXTPAGEBUTTON&gt;"Et vous avez besoin d'aide..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous lisez dans mes pensées... Les rampeurs traînards des parages étaient autrefois des fleurs magnifiques... avant que les argons ne les transforment en créatures mutantes.&lt;BR&gt;&lt;BR&gt;Utilisez cette fleur de Tyalinth sur les rampeurs. Voyons s'il est possible d'inverser le processus de mutation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">Voilà des résultats prometteurs&amp;nbsp;! Si je parviens à adapter la méthode aux autres créatures, nous avons une chance de guérir ce monde.</Page>
+    </Text>
+</QuestDialog>

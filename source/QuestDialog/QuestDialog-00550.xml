@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1017">
+        <Page social="4">Au nord-est d'ici, vous verrez flotter la bannière de la Confrérie libre.&lt;BR&gt;&lt;BR&gt;Rapportez-la-moi et je me chargerai de la réduire en cendres.&lt;BR&gt;&lt;BR&gt;C'est purement symbolique, mais en attendant de pouvoir traduire la Confrérie libre en justice, c'est toujours mieux que rien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1024">
+        <Page social="4">(Il ne reste pas grand-chose du drapeau taché de sang.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1017">
+        <Page social="4">La Confrérie libre a du sang sur les mains. Brûler sa bannière est un moyen d'honorer la mémoire de ses victimes.</Page>
+    </Text>
+</QuestDialog>

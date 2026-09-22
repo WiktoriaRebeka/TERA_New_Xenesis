@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Jelena a examiné l'intérieur de la Forteresse de Berak en détail et vous recherchait.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le gardien et Mashik, un membre des Riverans, ont appris où se trouvent la Salle des machines et Élion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="110">
+        <Page social="0" voiceTypeId="0">Les déplacements des hauts dragons semblent indiquer qu'Élion est descendu.&lt;BR&gt;&lt;BR&gt;(Vous acquiescez.)&lt;BR&gt;&lt;BR&gt;Je me doutais que vous approuveriez.&lt;BR&gt;N'abandonnons surtout pas Élion à son sort. Vite !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="0" voiceTypeId="0">Je me présente, Ahrep, un allié de Revenj.&lt;BR&gt;&lt;BR&gt;Comme vous le voyez, je suis un vassal du commandant Rogash. Rogash... pour lui, la vie d'un naga vaut à peine mieux que celle d'un insecte.&lt;BR&gt;&lt;BR&gt;Si Revenj vous aide, cela signifie que vous êtes en mesure de repousser les hauts dragons.&lt;BR&gt;&lt;BR&gt;(Vous hochez la tête.)&lt;BR&gt;&lt;BR&gt;Parfait. La Salle des machines, c'est par là !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="111">
+        <Page social="4" voiceTypeId="0">Ici ! J'ai découvert une trace d'Élion.&lt;BR&gt;&lt;BR&gt;Elle part dans la direction qu'Ahrep nous a indiquée. Élion est sans doute déjà en route vers la Salle des machines.&lt;BR&gt;&lt;BR&gt;D'après Ahrep, la Salle des machines se trouve derrière cette porte, non ? C'est donc que nous y sommes presque.&lt;BR&gt;&lt;BR&gt;Allons, continuons !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" prevId="5" villagerId="112">
+        <Page social="4" voiceTypeId="0">Rendez-vous dans la Salle des machines avec Thro et désactivez le noyau.&lt;BR&gt;&lt;BR&gt;Je vais rechercher Élion.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="6" villagerId="132">
+        <Page social="0" voiceTypeId="0">Je ne vous ai pas dit la vérité sur cet endroit périlleux. Voilà pourquoi je vous ai suivi. Comme vous le voyez, l'endroit est contaminé.&lt;BR&gt;&lt;BR&gt;C'est ici qu'a séjourné la parf monarque en arrivant à Arborea.&lt;BR&gt;&lt;BR&gt;Comme vous le savez sans doute, elle a transformé en gemmes tous les êtres qui n'étaient pas immunisés. Or, des créatures de ce type hantent encore Berak.&lt;BR&gt;&lt;BR&gt;La Salle des machines se trouve du côté opposé. Votre camarade vous attend. Vite !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="7" villagerId="113">
+        <Page social="4" voiceTypeId="0">Avez-vous vu Ahrep ? Il m'a indiqué le chemin !&lt;BR&gt;&lt;BR&gt;C'est l'entrée de la Salle des machines. Élion se trouve sans doute à l'intérieur.</Page>
+    </Text>
+</QuestDialog>

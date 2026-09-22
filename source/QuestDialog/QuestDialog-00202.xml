@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Comment utiliser le Lien de Kaia</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Mission&amp;nbsp;: après avoir accompli la quête répétable, rapportez la récompense sélectionnée nommée &lt;font color='#0000FF'&gt;Lien de Kaia&lt;/font&gt;, à Dougal, du QG de Velika.&lt;BR&gt;&lt;BR&gt;Cible&amp;nbsp;: Dougal, du QG de Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Vous avez rapporté le &lt;font color='#0000FF'&gt;Lien de Kaia&lt;/font&gt;. C'est du bon travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Cet objet vous sera utile au cours de vos prochaines missions, alors autant apprendre à vous en servir au plus vite.&lt;BR&gt;&lt;BR&gt;Au cours de votre entreprise, vous serez {@gender:amené/amenée} à combattre des boss. Le pouvoir du Lien de Kaia vous permettra de désactiver certaines capacités de ces monstres. Bien utilisé, cet objet vous permettra de vous attaquer à ces créatures en solitaire.&lt;BR&gt;&lt;BR&gt;Vous pouvez obtenir le Lien de Kaia en accomplissant des quêtes répétables, alors apprenez à l'employer avec discernement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1160">
+        <Page social="0">Si vous me rapportez le &lt;font color='#0000FF'&gt;Lien de Kaia&lt;/font&gt;, avec la Bénédiction de Kaia, je vous apprendrai à vous en servir.</Page>
+    </Text>
+</QuestDialog>

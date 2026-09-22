@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="4">Nous devons d'abord éliminer les menaces les plus immédiates... les {@LinkCreature:16#2205#éclaireurs}, les {@LinkCreature:16#2206#guerriers}, les {@LinkCreature:16#2207#spadassins} et les {@LinkCreature:16#2208#assassins} de la Troupe des rôdeurs.&lt;BR&gt;&lt;BR&gt;Grâce à eux, le reste de leurs forces sera bientôt en mesure d'atteindre Popolion. Nous ne pouvons laisser une telle chose se produire.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs anneaux... nous allons montrer à leurs frères que nous non plus, nous ne plaisantons pas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">Vous avez les anneaux&amp;nbsp;? Bien, donnez-les moi.&lt;BR&gt;&lt;BR&gt;Oh, je sais exactement quoi en faire.&lt;BR&gt;&lt;BR&gt;Bon travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">Vous êtes toujours là&amp;nbsp;? Vous n'avez pas peur, hein&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

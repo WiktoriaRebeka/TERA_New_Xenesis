@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="4">Hé&amp;nbsp;! J'ai un service à vous demander&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Aujourd'hui, c'est l'anniversaire de mon frère. Et... c'est aussi le mien, en fait. Nous sommes nés à Pora Elinu et nous sommes inséparables.&lt;NEXTPAGEBUTTON&gt;"Joyeux anniversaire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Merci&amp;nbsp;! Cette année, c'est mon frère {@LinkCreature:225#2002$$Shurin} qui se charge d'organiser la fête. Si je vous téléporte jusqu'à lui, vous pourriez voir si tout se passe bien de son côté&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="2002">
+        <Page social="4">C'est {@LinkCreature:225#2001$$Maoran} qui vous envoie&amp;nbsp;? Son impatience le perdra&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:225#2000$$Deirin} a commandé des gâteaux spéciaux à Popolion, mais je ne sais pas s'ils arriveront à temps.&lt;BR&gt;&lt;BR&gt;Vous pourriez peut-être faire un tour au Fortin de la Cathédrale pour poser la question à {@LinkCreature:225#2000$$Deirin}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="2000">
+        <Page social="4">Ha&amp;nbsp;! Ils sont pénibles, des fois. Oui, tout va bien. J'ai rangé les gâteaux dans une caisse au Campement des Croisés.&lt;BR&gt;&lt;BR&gt;Dites à {@LinkCreature:225#2001$$Maoran} d'arrêter de s'inquiéter&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="4" villagerId="2001">
+        <Page social="4">Hé hé&amp;nbsp;! Des gâteaux pour la fête d'anniversaire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quand vous en aurez assez de tuer des descendants de Lok, passez nous voir&amp;nbsp;! Ces gâteaux sont à mourir.&lt;BR&gt;&lt;BR&gt;Enfin... façon de parler, évidemment.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Les instruments de mesure des chercheurs ont relevé la présence d'une énergie magique ténébreuse. Intrigué, Lian vous a proposé d'aller mener l'enquête à l'Autel de Yurian, où les manifestations de cette magie se faisaient le plus fortement ressentir.&lt;BR&gt;&lt;BR&gt;Vous y avez récupéré le Fléau du démon, l'épée d'Elion. Eria, qui semble entretenir des rapports particuliers avec Lian, vous a confirmé qu'il s'agissait bien de la lame du chef de l'expédition, et que la corruption qui la souillait était d'origine démoniaque.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Nos recherches concernant les créatures de l'île n'ont rien indiqué de particulier, mais les derniers échantillons analysés ont mis en avant la présence d'une énergie magique inconnue.&lt;BR&gt;&lt;BR&gt;Allez parler de cette découverte à Eria. Elle est un peu butée, mais connaît bien son sujet. Espérons que ça l'inspirera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">Butée&amp;nbsp;? Il a dit que j'étais butée&amp;nbsp;? C'est vraiment l'hôpital qui se moque de la charité&amp;nbsp;! Pfff...&lt;BR&gt;&lt;BR&gt;Enfin, je vais faire un effort. Après tout, son frère a disparu... s'il n'est pas tout simplement mort.&lt;BR&gt;&lt;BR&gt;Vous avez quelque chose pour moi&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Ces jauges contiennent les derniers échantillons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Voyons un peu ça.&lt;BR&gt;&lt;BR&gt;Fascinant&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Cette magie n'est pas d'origine spirituelle ou arcanique. Et j'y sens quelque chose de maléfique. Je peux remonter sa trace... quelque chose à l'ouest.&lt;BR&gt;&lt;BR&gt;Attendez, c'est... l'Autel de Yurian. C'est de là que provient ce flux d'énergie. Maintenant, je sens clairement sa noirceur.&lt;BR&gt;&lt;BR&gt;J'espère que mes commentaires éclairés aideront ce pauvre petit Lian... qui est tout aussi borné que moi, en plus d'être émotionnellement à la ramasse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Alors, qu'avez-vous pu apprendre d'Eria&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Hmmm... alors ce serait ça. L'Autel de Yurian, dites-vous&amp;nbsp;? Et elle n'a rien ajouté&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Elle... espère vous avoir été utile."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Intéressant. Une énergie noire, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nos éclaireurs surveillent depuis un moment un groupe d'orkans postés au sud, mais il est impossible qu'ils aient quoi que ce soit à voir là-dedans.&lt;NEXTPAGEBUTTON&gt;"Et maintenant&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Maintenant&amp;nbsp;? C'est évident&amp;nbsp;: nous devons mener l'enquête à l'{@LinkCreature:213#1036#Autel de Yurian}. Nous nous retrouverons sur place.&lt;BR&gt;&lt;BR&gt;Tâchez de ne pas vous faire suivre par les orkans. Nous sommes là pour effectuer des recherches, pas pour combattre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1036">
+        <Page social="4">Hmm... cette épée m'est très familière, mais quelque chose cloche avec l'énergie qui en émane.&lt;BR&gt;&lt;BR&gt;Allez la remettre à Eria. Elle saura identifier la nature de la corruption qui la souille.&lt;BR&gt;&lt;BR&gt;Le temps joue contre nous, &lt;PCNAME&gt;. Faites vite.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1021">
+        <Page social="4">Cette épée...?&lt;BR&gt;&lt;BR&gt;Oh, non&amp;nbsp;! C'est la lame d'Elion... le Fléau du démon&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous l'avez découverte près de l'autel&amp;nbsp;? Mais comment une énergie aussi noire a-t-elle pu imprégner cette arme de la sorte&amp;nbsp;? C'est à n'y rien comprendre.&lt;BR&gt;&lt;BR&gt;Mais ce qui m'inquiète le plus, c'est qu'Elion adorait cette arme... Jamais il n'aurait accepté de s'en départir ou de l'abandonner. J'ai bien peur que Lian ne doive se préparer à une triste perspective.&lt;NEXTPAGEBUTTON&gt;"Elion serait vraiment mort&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Espérons que non&amp;nbsp;! Les dieux ne le toléreraient pas&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Trêve de spéculations... pour l'instant, tout ce que je peux dire, c'est que cette lame est imprégnée d'une énergie ténébreuse... démoniaque... et extrêmement puissante. Ce n'est pas bon, &lt;PCNAME&gt;, pas bon du tout.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="215" prevId="0" villagerId="1010">
+        <Page social="0" voiceTypeId="0">{@linkcreature:215#1027$$Bedoram} est parti vers le nord pour analyser les pierres magiques dans le Camp de la vigilance. &lt;BR&gt;&lt;BR&gt;Le royaume des Poporis a déjà envoyé des instruments de recherche et des vivres pour l'analyse du sang fou. Il ne nous manque plus que de la main-d'œuvre.  &lt;BR&gt;&lt;BR&gt;Longez cette route jusqu'au Camp de la vigilance. Puis-je encore vous demander une autre faveur ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous aidez Bedoram et apprenez que la pierre magique rageuse est à l'origine du sang fou.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="1" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Notre Ordnarath se trouve sur la route menant à Bedoram. On le surnomme actuellement Terre de la Furie en raison des monstres déments. &lt;BR&gt;&lt;BR&gt;Vous y trouverez des caisses contenant des outils agricoles. &lt;BR&gt;&lt;BR&gt;L'une d'entre elles contient un document que vous devez remettre à Bedoram. &lt;BR&gt;&lt;BR&gt;Ceux qui étaient chargés de surveiller cet endroit sont aussi affectés par le sang fou.&lt;BR&gt;&lt;BR&gt;Je vais vous expliquer comment y aller.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1027">
+        <Page social="4" voiceTypeId="0">Vous voilà enfin, dieu merci !&lt;BR&gt;Balder doit nous avoir à la bonne !&lt;BR&gt;&lt;BR&gt;Et vous avez même les notes de l'Ordnarath ! &lt;BR&gt;&lt;BR&gt;(Bedoram consulte les notes de l'Ordnarath.)&lt;BR&gt;&lt;BR&gt;Ces notes permettent de se faire une idée de la progression de la maladie. Amallen a bien veillé au grain. &lt;NEXTPAGEBUTTON&gt;"Oui, c'est exact."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Très bien. Ma théorie était fondée.&lt;BR&gt;&lt;BR&gt;La pierre magique se trouve tout près d'ici. &lt;BR&gt;Cette pierre magique a soudain grossi après la guerre argonne. &lt;BR&gt;&lt;BR&gt;Les Poporis qui géraient l'Ordnarath l'ont découverte en premiers.&lt;BR&gt;&lt;BR&gt;La pierre magique n'est certainement pas étrangère à la propagation du sang fou. &lt;BR&gt;&lt;BR&gt;(Le visage de Bedoram s'assombrit.)&lt;NEXTPAGEBUTTON&gt;"Il y a un problème ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Mais ce n'est pas possible ! Il y a un os !&lt;BR&gt;&lt;BR&gt;Le chariot transportant les instruments de recherche s'est fait attaquer ! &lt;BR&gt;&lt;BR&gt;Je vous y emmène !&lt;BR&gt;&lt;BR&gt;S'il vous plaît, aidez-nous !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Seren soit louée, le chariot est à l'abri. &lt;pcname&gt;, grâce à vous, je peux continuer mes recherches. &lt;BR&gt;&lt;BR&gt;Maintenant que l'appareil de recherche fonctionne correctement, il me faut des échantillons pour mes expériences.&lt;NEXTPAGEBUTTON&gt;"Des échantillons ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci de me rapporter du sang de {@linkcreature:15#14#pestesangs}. Vous en croiserez beaucoup en empruntant le sentier nord. &lt;BR&gt;&lt;BR&gt;Pourriez-vous aller récupérer les échantillons dont j'ai besoin ? Avec le temps, l'énergie du champ entraîne des mutations physiques. C'est pourquoi je dois analyser le sang des pestesangs qui rôdent sur Falaises de la folie.&lt;BR&gt;&lt;BR&gt;Je pourrai alors prouver que la pierre magique rageuse joue bien un rôle dans la propagation du sang fou !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="215" prevId="5" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Bien joué ! J'ai quasiment fini de recouper les données que j'ai recueillies. Je n'ai plus qu'à ajouter cet échantillon de sang et l'appareil se chargera de comparer les échantillons déjà collectés avec le fragment de pierre magique rageuse.&lt;BR&gt;&lt;BR&gt;Les résultats nous dirons ce qui se passe ici et comment reprendre le contrôle de la situation.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" villagerId="1030">
+        <Page social="0">Merci de me rapporter du sang de {@linkcreature:15#14#pestesangs}. &lt;BR&gt;&lt;BR&gt;En analysant le sang, nous saurons si ma théorie est exacte et si la pierre magique rouge a bien un rapport avec la maladie des Falaises de la folie.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="215" prevId="6" villagerId="1030">
+        <Page social="4" voiceTypeId="0">(Bedoram regarde les résultats et sa mine s'assombrit.)&lt;BR&gt;&lt;BR&gt;Le résultat est bien conforme à mes suppositions. &lt;BR&gt;&lt;BR&gt;Le sang fou se propage par le sang des Humains. Il doit s'agir d'une malédiction sanguine très puissante. La malédiction s'immisce dans le corps et son porteur est immédiatement contaminé.&lt;BR&gt;&lt;BR&gt;L'énergie de la pierre magique correspond à celle des échantillons de sang. La {@linkcreature:15#21#pierre magique rageuse} doit donc être à l'origine de la maladie. &lt;NEXTPAGEBUTTON&gt;"La pierre magique rageuse ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La pierre était inoffensive, à condition de ne pas trop s'en approcher. Je suis convaincu que quelqu'un se sert de la pierre magique pour propager le sang fou.&lt;BR&gt;&lt;BR&gt;J'ai la chance d'être immunisé contre de telles malédictions, mais tous les autres sont contaminés sur-le-champ. &lt;BR&gt;&lt;BR&gt;Si la pierre magique continue à croître, le sang fou va se propager dans tout Popolion à une vitesse vertigineuse.&lt;BR&gt;&lt;BR&gt;Nous devons immédiatement détruire la pierre rageuse pour arrêter la propagation du sang fou.&lt;BR&gt;&lt;BR&gt;Quel soulagement d'avoir découvert tout ça. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

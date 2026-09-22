@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1013">
+        <Page social="4">Madjuk a tort. Il ne comprend pas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="4">Nous ne portons pas de colliers verts parce que notre peau est verte, mais parce que notre sang est vert. Le vert est la couleur de la fierté orkane. Vous pouvez aller lui dire ça&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1023">
+        <Page social="4">Le sang, la peau, quelle différence&amp;nbsp;? Notre peau est verte parce que notre sang est vert. Cela n'a rien à voir avec de jolies babioles. Ce que raconte Kuban n'a aucun sens. Vous pouvez aller lui dire ça&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1013">
+        <Page social="4">Ha&amp;nbsp;! Qu'en pensez-vous, &lt;PCNAME&gt;&amp;nbsp;? Ce collier n'est-il qu'une jolie babiole ou le symbole de notre tribu&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je n'en sais rien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous ne m'aidez pas vraiment.</Page>
+    </Text>
+</QuestDialog>

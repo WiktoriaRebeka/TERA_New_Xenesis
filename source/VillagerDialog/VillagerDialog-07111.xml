@@ -1,0 +1,9 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5004" huntingZoneId="783" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Ah, merci de votre aide.&lt;BR&gt;&lt;BR&gt;Je m'apprêtais à utiliser le parchemin d'évasion quand une de mes cornes s'est brisée.&lt;BR&gt;&lt;BR&gt;Ces bougres du drapeau rouge ou du drapeau bleu m'ont alors mis la main dessus.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Mais je peux m'enfuir.&lt;BR&gt;&lt;BR&gt;Prenez garde aux lasers électriques.&lt;BR&gt;Vous avez besoin de résistance électrique. Sans quoi, vous ne pourrez plus bouger.&lt;BR&gt;&lt;BR&gt;Je me suis blessé en essayant d'approcher l'endroit.&lt;TEXTBUTTON&gt;"Faites vites !"&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;"Ne vous en faites pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je compte sur vous ! &lt;BR&gt;Nous aurons peut-être l'occasion de nous revoir.&lt;BR&gt;&lt;BR&gt;Auquel cas, je vous paye ma tournée.&lt;CLOSEPAGEBUTTON&gt;"Je vous prends au mot !"&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

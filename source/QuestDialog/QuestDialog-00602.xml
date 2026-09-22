@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">Le capitaine Liska réclame plus de données, et donc de nouvelles recherches.&lt;BR&gt;&lt;BR&gt;Il me faut des pierres d'attar que l'on trouve sur les {@LinkCreature:21#3#orisks vicieux}. Rapportez-en moi et je ferai de mon mieux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="4">Votre compétence et votre nature volontaire sont un bienfait pour nous. Prenez ça et merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">Je déteste devoir vous imposer ça, mais Liska insiste et il n'y a personne d'autre que vous pour y aller. Je vous en prie, hâtez-vous&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

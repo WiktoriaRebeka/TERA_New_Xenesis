@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="5">(C'est une caisse de provisions de la Fédération. Elle doit contenir l'équivalent d'un mois de nourriture pour un bataillon complet.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="5">Qu'est-ce que vous... oh, nos provisions&amp;nbsp;! Vous les avez retrouvées&amp;nbsp;! &lt;PCNAME&gt;, vous nous sauvez la mise&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je le savais... Je savais que nos provisions avaient fini entre les mains du Culte. Si je trouve celui ou celle qui a signé le reçu...</Page>
+    </Text>
+</QuestDialog>

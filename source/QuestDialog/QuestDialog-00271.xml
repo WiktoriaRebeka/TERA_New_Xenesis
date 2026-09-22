@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ordres de mission&lt;BR&gt;&lt;BR&gt;Eliminez les ennemis patrouillant dans la Galerie du Chaos et la Galerie du Destin du Labyrinthe d'Azarel et rapportez des preuves de leur mort.&lt;BR&gt;&lt;BR&gt;Cibles&amp;nbsp;: les {@LinkCreature:9#810#gourmands gulas}, les {@LinkCreature:9#910#zélotes caïmans}, les {@LinkCreature:9#440#étripeurs gulas}, les {@LinkCreature:9#450#enragés gulas}, les {@LinkCreature:9#1000#faucheurs sanglants de Lok}, les {@LinkCreature:9#1100#maîtres archers de Lok}, les {@LinkCreature:9#1200#champions de Lok} et les {@LinkCreature:9#1300#enragés sanglants de Lok}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">La Fédération tient à vous remettre cette récompense. Avec nos remerciements à tous les membres de la guilde&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

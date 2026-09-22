@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Bashik attendait votre arrivée auprès de la plateforme de la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez appris que la Forteresse de Berak abrite une Salle des machines permettant de contrôler le noyau sombre. Vous vous êtes déguisé en haut dragon et avez infiltré la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="126">
+        <Page social="0" voiceTypeId="0">Les mesures de sécurité sont très rigoureuses, par ici. Les nagas ordinaires comme moi ne peuvent pas aller plus loin.&lt;BR&gt;&lt;BR&gt;Au-delà de la plateforme, tout n'est que zone interdite. La zone interdite abrite les vassaux nagas qui servent le Vanarch haut dragon. Je ne vous retiens pas plus longtemps.&lt;BR&gt;&lt;BR&gt;Quittez la zone interdite et allez retrouver Revenj. Longez tout simplement la route dans la vallée.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">Apparemment, votre camarade Élion est en route pour la forteresse.&lt;BR&gt;&lt;BR&gt;Les gardes qui surveillaient l'entrée de la zone interdite sont partis sur-le-champ pour la forteresse.&lt;BR&gt;Elle est gardée par les troupes d'élite des hauts dragons et s'y infiltrer ne sera donc pas une mince affaire. Nous devrions nous déguiser en hauts dragons.&lt;NEXTPAGEBUTTON&gt;"Et comment faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ressembler à un haut dragon est une chose, mais leur odeur a également son importance.&lt;BR&gt;&lt;BR&gt;Si nous ne l'imitons pas à la perfection, ils nous repèreront sur-le-champ.&lt;BR&gt;J'ai déjà une partie des matériaux nécessaires. Dégotez-moi quelques fragments de métal d'Exodor et du mucus nauséabond et je vous transformerai en parfait haut dragon.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="100">
+        <Page social="0" voiceTypeId="0">Vous avez tout récupéré. J'ai donc tout le nécessaire.&lt;BR&gt;&lt;BR&gt;Fabriquez un outil d'accoutrement avec les matériaux et vous n'aurez aucune peine à rentrer dans la forteresse.&lt;BR&gt;&lt;BR&gt;Puis-je vous demander un service avant que vous n'alliez dans la forteresse ?&lt;NEXTPAGEBUTTON&gt;"De quoi s'agit-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Pourriez-vous éliminer les vassaux nagas d'ici.&lt;BR&gt;&lt;BR&gt;Je rechigne à l'idée de laisser les Riverans s'en charger.&lt;BR&gt;&lt;BR&gt;Aidez-moi et les Riverans pourront alors bien s'occuper de cet endroit.&lt;BR&gt;&lt;BR&gt;Quand l'outil d'accoutrement sera terminé, je le remettrai à Jelena et Thro.&lt;BR&gt;Vous les trouverez devant la porte des frissons. Accomplissez votre mission et allez retrouver vos amis.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" villagerId="100">
+        <Page social="0">Vous n'avez pas assez de matériaux. Vous ne pouvez pas fabriquer l'outil d'accoutrement à moins d'avoir rassemblé tous les matériaux.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">Attendez, n'attaquez pas. C'est moi, Thro.&lt;BR&gt;&lt;BR&gt;Votre outil d'accoutrement est prêt.&lt;BR&gt;&lt;BR&gt;Pour quel haut dragon voulez-vous vous faire passer ?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">Ah bon ? Un haut dragon féminin ?&lt;BR&gt;&lt;BR&gt;Un instant. Je vous retrouve le bon outil d'accoutrement.&lt;BR&gt;Voyons voir... féminin...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">Un haut dragon masculin ? &lt;BR&gt;&lt;BR&gt;Un instant. Je vous retrouve le bon outil d'accoutrement.&lt;BR&gt;Voyons voir... masculin...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">Ah, le voilà. Tenez, c'est pour vous.&lt;BR&gt;&lt;BR&gt;Quelle odeur nauséabonde, n'est-ce pas ? Étonnamment, l'odeur change une fois que vous vous déguisez.&lt;BR&gt;&lt;BR&gt;Utilisez ceci et vous deviendrez immédiatement un haut dragon.&lt;BR&gt;&lt;BR&gt;Jelena est déjà partie pour la forteresse. Quand tout est prêt, allons donc rejoindre la forteresse ensemble.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">Ah, le voilà. Tenez, c'est pour vous.&lt;BR&gt;&lt;BR&gt;Quelle odeur nauséabonde, n'est-ce pas ? Étonnamment, l'odeur change une fois que vous vous déguisez.&lt;BR&gt;&lt;BR&gt;Utilisez ceci et vous deviendrez immédiatement un haut dragon.&lt;BR&gt;&lt;BR&gt;Jelena est déjà partie pour la forteresse. Quand tout est prêt, allons donc rejoindre la forteresse ensemble.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2003" prevId="11" villagerId="120">
+        <Page social="0" voiceTypeId="0">Pourquoi rôdez-vous par ici ?&lt;BR&gt;&lt;BR&gt;N'avez-vous pas reçu les instructions de Rukmia, la commandante en chef ?&lt;BR&gt;Rendez-vous dans la forteresse et retrouvez les intrus.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2003" prevId="12" villagerId="110">
+        <Page social="4" voiceTypeId="0">Par ici. Vous êtes indemne, tant mieux !&lt;BR&gt;&lt;BR&gt;Je ne m'attendais pas à ce que le déguisement de Revenj soit aussi efficace.&lt;BR&gt;&lt;BR&gt;Explorons un peu les environs.</Page>
+    </Text>
+</QuestDialog>

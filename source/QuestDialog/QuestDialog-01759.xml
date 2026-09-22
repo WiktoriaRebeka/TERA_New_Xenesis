@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="0">&lt;PCNAME&gt; a récolté des indices sur le meurtrier en parlant aux barakas rescapés.&lt;BR&gt;Après quoi &lt;PCNAME&gt; a croisé un soldat suspect qui a prétendu ne jamais avoir entendu parler des paroles de Skald Omero, trahissant ainsi qu'il était en réalité un membre infiltré de l'armée impériale archidevanne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ces soldats barakas faisaient partie d'une patrouille qui a disparu. Les gardes de Hautegarde la cherchaient.&lt;BR&gt;&lt;BR&gt;Vous devriez informer leur capitaine que nous avons retrouvé leur dépouille et que vous avez purifié leurs âmes.&lt;NEXTPAGEBUTTON&gt;"Je vais le tenir au courant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Toutes mes excuses, &lt;PCNAME&gt;. Je suis un peu à cran et ne vous ai tout d'abord pas reconnu{@g:/e}&lt;BR&gt;&lt;BR&gt;Nous cherchons les membres d'une patrouille qui a disparu la nuit dernière. Nous en avons retrouvé quelques-uns, mais beaucoup manquent encore à l'appel.&lt;BR&gt;&lt;BR&gt;Vous avez des informations à leur sujet&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je les ai vus... assassinés en pleine nuit par les Archidevans."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'est ce que je craignais. Les Archidevans sont devenus bien plus audacieux depuis l'enlèvement de Verikam.&lt;BR&gt;&lt;BR&gt;Nous en avons retrouvé des vivants, mais ils ne sont pas... tout à fait eux-mêmes. Peut-être que vous pourriez leur parler. Ils vous diront éventuellement ce qui s'est passé et comment les Archidevans ont été en mesure de les prendre par surprise&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Cherchez des Philtres d'aplomb dans ces caisses médicales et, si vous en trouvez, donnez-les aux survivants que vous trouverez. Cela devrait leur remettre les idées en place.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1028">
+        <Page social="4" voiceTypeId="0">(Parmi les bouteilles brisées et les bandages déchirés, vous trouvez une fiole sur laquelle est inscrit "Aplomb")&lt;NEXTPAGEBUTTON&gt;"Ce doit être ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Non non... pas moi&amp;nbsp;! Reculez, éloignez-vous de moi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Du calme, soldat. Voilà, cela devrait apaiser vos souffrances."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Naaan&amp;nbsp;! Non&amp;nbsp;! Je... je... je vous connais&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Aaah, ça me revient maintenant...&lt;BR&gt;&lt;BR&gt;Nous étions occupés à patrouiller quand soudain, mes camarades se sont mis à courir et à crier. Je ne sais pas comment cela a commencé, mais peu après, j'ai été moi aussi saisi par une panique aveugle&amp;nbsp;! Quelque chose... nous poursuivait à une allure prodigieuse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais maintenant, la panique est retombée, merci. Suis-je le seul rescapé&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est ce que j'essaye de déterminer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1027">
+        <Page social="0" voiceTypeId="0">Ayez pitié&amp;nbsp;! Pitié&amp;nbsp;! Je vous en supplie, laissez-moi la vie sauve. Ou tout du moins, prenez la vite&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Du calme. Tenez, cela devrait vous aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Quoi...&amp;nbsp;? Que s'est-il passé&amp;nbsp;? Où est-il allé&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;&amp;nbsp;! J'ai vu ce qui est arrivé&amp;nbsp;! C'était l'un d'entre nous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;C'ètait quelque chose déguisé en soldat de Hautegarde&amp;nbsp;! Je pensais qu'il s'agissait d'un nouveau membre de la patrouille. Mais une fois que nous nous trouvions suffisamment loin des lumières de la ville, il nous a attaqués&amp;nbsp;! Mais il ne s'agissait pas d'un simple déguisement&amp;nbsp;! Il... il a réussi à semer une panique aveugle dans nos rangs&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vous le dis, &lt;PCNAME&gt;&amp;nbsp;: quelque chose sa cache parmi nous, qui se fait passer pour l'un de nous... Trouvez-le avant que d'autres soldats ne meurent&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je vous en donne ma parole."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">J'ai dit que cette voie est close.&lt;BR&gt;&lt;BR&gt;Si vous ne vous en allez pas immédiatement, je vais vous ligoter et vous laisser sur le bord de la route pour nourrir les hyènes,&lt;BR&gt;&lt;BR&gt;Mais pour qui vous prenez-vous, vermine étrangère&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Omeros m'envoie, pour vous délivrer un message."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah, oui... Omeros le... grand Scrutateur. Et quel est le message&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Nous allons vous régler votre compte, Archidevan&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Un Archidevan déguisé en garde de Hautegarde&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Une bien sombre nouvelle. Il me faut en informer le Sagegarde&amp;nbsp;: il tiendra à ce que nos rangs ne se fassent pas à nouveau infiltrer.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"A quoi servent les amis&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

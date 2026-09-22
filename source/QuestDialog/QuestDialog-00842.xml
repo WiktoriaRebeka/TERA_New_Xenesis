@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">Comment me concentrer sur mon devoir... Nashwa occupe toutes mes pensées.&lt;BR&gt;&lt;BR&gt;Pour qu'elle me regarde, je serais prêt à me jeter tête baissée dans la fosse aux lions, mais elle est trop préoccupée par le manque d'armes pour remarquer quoi que ce soit.&lt;BR&gt;&lt;BR&gt;On dit que les troupes d'Acarum se sont procuré des armes en pillant les camps de mercenaires. Vous pensez pouvoir faire la même chose pour nous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous avons trop peu de soldats pour confier cette mission à l'un d'eux, mais si vous attaquez les camps en question, vous trouverez certainement des armes pour nos recrues sur les {@linkcreature:32#8#destructeurs de la troupe des rôdeurs}. Et quand elle aura la tête libre... Nashwa finira peut-être par poser les yeux sur moi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">Fantastique... si j'apporte ça à Nashwa, je deviendrai son héros&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Voici un petit témoignage de ma gratitude. Achetez-vous un joli costume pour le jour de notre mariage&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">C'est dans les camps de mercenaires de la Toundra sombre que vous avez le plus de chances de trouver des armes. Il vous suffira de tuer les {@LinkCreature:32#7#faucheurs de la troupe des rôdeurs} et les {@LinkCreature:32#8#destructeurs de la troupe des rôdeurs}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">Ma parole, mais il me prend pour une fille légère&amp;nbsp;? Khasib vient de m'apporter un paquet d'armes comme s'il s'agissait d'un bouquet de fleurs. A quoi s'attendait-il&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous sommes au beau milieu d'une guerre et il veut me compter fleurette. J'ai été trop bonne... la prochaine fois, je l'enverrai sur les roses dans les règles.</Page>
+    </Text>
+</QuestDialog>

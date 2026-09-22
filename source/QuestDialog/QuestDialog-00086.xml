@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">Vous savez certainement qu'un basilic n'hésite pas à tuer, même s'il n'est pas affamé. De nombreuses personnes pourraient en témoigner si elles étaient encore en vie.&lt;BR&gt;&lt;BR&gt;Je suis ici en mémoire de ces gens. Je cherche à créer un élixir permettant de les ressusciter&amp;nbsp;! Les yeux de basilics me seront très utiles pour créer l'élixir en question.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, rapportez-moi des yeux de {@LinkCreature:3#300811#basilics}. Les basilics ont plus d'une paire d'yeux, mais seuls ceux qui sont restés intacts m'intéressent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="8">Intrigant. Je n'ai jamais vu un œil de basilic de si près, en dehors des fois où j'ai failli me faire dévorer par ces monstres géants.&lt;BR&gt;&lt;BR&gt;Je vais poursuivre mes recherches. Si je parviens à créer cet élixir, je lui donnerai votre nom&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">Désolé, &lt;PCNAME&gt;, mais il me faut des yeux de basilics intacts. Autrement, ça ne me sert à rien.</Page>
+    </Text>
+</QuestDialog>

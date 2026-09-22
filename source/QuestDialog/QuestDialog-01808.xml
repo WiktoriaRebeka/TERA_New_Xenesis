@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Équipement de la Fédération destiné à aider &lt;PCNAME&gt; à vaincre l'armée archidevanne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Lettre de Dougall]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;J'ai bien peur que la menace archidevanne soit loin d'être écartée. Nous devons donc nous préparer à une nouvelle bataille.&lt;BR&gt;J'ai de nouvelles marchandises de la Fédération qui pourraient s'avérer utiles.&lt;BR&gt;Venez me retrouver à Hautegarde quand vous êtes prêt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">Ravi de vous revoir, &lt;PCNAME&gt;.&lt;BR&gt;J'ai de nouveaux équipements confectionnés par les meilleurs forgerons de la Fédération. Ce n'est jamais une mauvaise idée de renouveler son équipement.&lt;BR&gt;Bonne chance ! Je ne cesserai jamais de vous soutenir.</Page>
+    </Text>
+</QuestDialog>

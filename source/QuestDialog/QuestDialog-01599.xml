@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="528" prevId="0" villagerId="5024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="528" prevId="0" villagerId="5024">
+        <Page social="6">Chaque jour, nombreux sont les soldats de la Fédération qui s'affrontent entre eux pour gagner en renommée.&lt;BR&gt;&lt;BR&gt;Certains ne comprennent pas que l'on puisse combattre entre membres d'une même faction et soulignent l'imprudence et la gratuité de ces pratiques, mais ils ne connaissent rien au frisson du combat et au plaisir procuré par une bonne poussée d'adrénaline.&lt;BR&gt;&lt;BR&gt;Je parie que vous me comprenez, &lt;PCNAME&gt;, je me trompe&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, mais je m'égare...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous comptez nous prouver votre force à la Gorge de Venteguerre&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Revenez me voir {@gender:victorieux/victorieuse}, et je vous récompenserai plus que généreusement. Bonne chance&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;[Vous pouvez accéder à la Gorge de Venteguerre via le menu de recherche de champs de bataille.]</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5024">
+        <Page social="4">Félicitations, &lt;PCNAME&gt;&amp;nbsp;! Vous êtes aussi {@gender:doué/douée} qu'on le dit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Continuez de vous illustrer à la Gorge de Venteguerre et, bientôt, toutes les recrues de la Fédération jalouseront votre renommée.&lt;BR&gt;&lt;BR&gt;Les points de réputation de Bellicarium ne peuvent être obtenus qu'en combattant à la Gorge de Venteguerre et vous permettront d'acquérir différents objets auprès du quartier-maître de votre équipe, qui se trouve là-bas.&lt;BR&gt;&lt;BR&gt;Pour la gloire de la Fédération&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

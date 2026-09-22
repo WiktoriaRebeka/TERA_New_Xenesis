@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">Pour la plupart, les orkans les plus âgés ne pensent pas que la paix soit possible pour nous. Ils veulent continuer à faire éternellement la guerre à la Fédération. &lt;NEXTPAGEBUTTON&gt;"Mais vous n’êtes pas de cet avis. Pourquoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Karba et d’autres sages orkans nous ont aidés à voir les choses autrement. Karba dit qu’il n’est pas étonnant que la Fédération nous voie comme des animaux, puisque nous agissons comme tels. Il dit que la seule façon d’avancer est de faire la paix, et nous sommes nombreux à le croire. Mais nos opinions nous ont condamnés à l’exil, et beaucoup d’autres ont été tués.&lt;BR&gt;&lt;BR&gt;Cette statue est un symbole de paix. Montrez-la aux orkans près de l'arène. S'ils croient à ce que nous faisons, ils comprendront.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">Les orkans ont fabriqué ça. Vous connaissez sa signification, bien sûr, et nous aussi. Je crois que nous devons vous faire confiance, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

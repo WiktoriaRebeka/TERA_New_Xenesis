@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Karascha, le seigneur des Démons, menaçait la sécurité de l'expédition et du monde entier.&lt;BR&gt;&lt;BR&gt;Vous avez pénétré dans le Repaire de Karascha et l'avez tué. Mais les mots prononcés au moment de sa mort suggèrent que ses agissements n'étaient qu'une diversion servant des desseins bien plus sombres. Vous avez également mis la main sur un document qui semble indiquer qu'Elion a survécu à une confrontation avec Karascha et qu'il est encore en vie, en quête de réponses.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Tous nos efforts convergeaient vers ce moment crucial, &lt;PCNAME&gt;. Il nous faut à tout prix empêcher Karascha de mener le rituel à son terme. Si l'on en croit le document que vous avez trouvé, il y a un sanctuaire au nord-est de ce camp. Frayez-vous un chemin parmi les démons que vous rencontrerez tandis que je mobilise nos forces.&lt;BR&gt;&lt;BR&gt;Nous devons affronter Karascha dans son antre et l'achever.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Dès que vous avez porté le coup fatal, les démons ont battu en retraite. On peut déjà déceler un changement dans l'énergie de la vallée.&lt;NEXTPAGEBUTTON&gt;"Karascha a prononcé quelques paroles..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah&amp;nbsp;? Lian devrait bientôt être ici, il faut sans doute le mettre au courant. Et le voilà qui arrive.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1037">
+        <Page social="4">Quand Sersine, fille de Karas, m'a fait demander, j'espérais voir Elion. Mais je suis toutefois content de voir que vous êtes en vie. Quelles nouvelles de mon frère m'apportez-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Voici ce qui est arrivé..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hum. J'aurais pensé qu'Élion ne manquerait pas un moment aussi crucial. Mais apparemment, mon frère est introuvable. Vous n'avez aucune autre information à ce sujet ? &lt;NEXTPAGEBUTTON&gt;"Eh bien, j'ai trouvé ce parchemin..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Lian lit le parchemin)&lt;BR&gt;&lt;BR&gt;Une écriture antique, mais je sais la lire. Ce passage dit&amp;nbsp;: "Elion nous a échappé... tous les agents d'Arun ont pour ordre de le retrouver et de le réduire au silence une bonne fois pour toutes".&lt;BR&gt;&lt;BR&gt;On dirait que l'absence de mon frère n'est pas délibérée et qu'il pourrait encore être en danger. Suivez-moi jusqu'à la Base de la Tour, &lt;PCNAME&gt;. Adria doit être mise au courant.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">D'accord. Ainsi, Elion a été capturé. Au moins, nous savons qu'il s'est échappé. &lt;BR&gt;&lt;BR&gt;Gardez ça pour vous pour le moment. Si ses ravisseurs venaient à apprendre que vous le cherchez, vous pourriez courir un grand danger. Nous trouverons bien une histoire à raconter qui calmera tous les esprits.</Page>
+    </Text>
+</QuestDialog>

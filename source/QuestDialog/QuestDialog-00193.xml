@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="5">Les attaques des orkans nous ont empêchés d'acheminer le ravitaillement à la Ferme de Godric comme prévu. Grâce à vous, nous allons pouvoir remédier à ce problème.&lt;BR&gt;&lt;BR&gt;Allez remettre ces marchandises à {@LinkCreature:207#1005#Heroth}. Il s'occupe des derniers fermiers de la région et assure la protection de quelques pointures du Mysterium. Ces provisions devraient lui remonter le moral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">De la nourriture&amp;nbsp;? De la vraie&amp;nbsp;? Pas du rat séché ou les herbes dont les chèvres ou les vaches n'ont pas voulu&amp;nbsp;? Formidable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je savais que Drustan ne nous oublierait pas. C'est un bon officier... Il prend soin de ses troupes. Je vous remercie de nous avoir fait parvenir ces provisions, &lt;PCNAME&gt;. Mes soldats en avaient besoin.</Page>
+    </Text>
+</QuestDialog>

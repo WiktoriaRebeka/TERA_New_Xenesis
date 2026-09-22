@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">On n'entend parler que de notre problème de ravitaillement, mais je vais vous dire quelque chose, le fond du problème est bien plus grave que ça.&lt;BR&gt;&lt;BR&gt;Moi, ce qui me chagrine, c'est que nous n'avons qu'une cohorte de bleus mal dégrossis. Je ne parle pas de vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, les {@LinkCreature:9#100#dents-de-sabre fauves} sont en train de s'enfler la panse à force d'engloutir nos jeunes recrues les unes après les autres. Si vous alliez éclaircir leurs rangs, nos bleus auraient peut-être une chance de vivre assez longtemps pour devenir des vétérans comme vous et moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">Bon boulot, &lt;PCNAME&gt;. En répétant l'opération, les dents-de-sabre détaleront aussitôt qu'ils apercevront un uniforme.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">(Vous examinez le parchemin de désactivation de sceau d'Élion.)&lt;BR&gt;&lt;BR&gt;Ce parchemin permet d'ouvrir la porte de la chambre secrète que seul Terkasia peut rejoindre.&lt;BR&gt;&lt;BR&gt;Il suffit de détruire le sceau eldritch à l'aide de ce parchemin pour ouvrir la porte de la chambre secrète. Nous saurons alors enfin ce que Terkasia a caché ici. Quelle que soit la chose que la salle abrite, elle ne peut être favorable à la fédération, si ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Le guerrier Bhaozurbas ? Que fait-il là ? Nous devons l'examiner ! Il est hors de question de laisser les argons rejoindre Arun. Oh, mince. L'Atel Akaad a beau être vaincu, il y a toujours de nouveaux importuns.</Page>
+    </Text>
+</QuestDialog>

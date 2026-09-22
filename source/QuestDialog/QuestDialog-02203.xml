@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="609" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="0">Participez à l'entraînement de la garde principale.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="1" voiceTypeId="0">Vous vous sentez encore en pleine forme ?&lt;BR&gt;Que diriez-vous de participer à l'entraînement de notre garde principale,&lt;BR&gt;pour vous échauffer ?&lt;BR&gt;&lt;BR&gt;Vous empocherez même une petite récompense.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2024">
+        <Page social="1" voiceTypeId="0">Je savais que vous vous en sortiriez sans peine !&lt;BR&gt;&lt;BR&gt;Que dites-vous ?&lt;BR&gt;L'entraînement de nos soldats est bien plus exigeant&lt;BR&gt;que celui des gardes de la porte sud, hein ! Nous sommes de vrais guerriers !&lt;BR&gt;&lt;BR&gt;Voici la récompense promise.&lt;NEXTPAGEBUTTON&gt;"J'en ai bien profité."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

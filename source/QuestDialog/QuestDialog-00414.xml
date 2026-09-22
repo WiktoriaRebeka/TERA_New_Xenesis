@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Vous devriez prendre le temps de faire connaissance avec le personnel de la Base de la Tour.&lt;BR&gt;&lt;BR&gt;Commencez par le &lt;b&gt;marchand itinérant Rutgar&lt;/b&gt;. Il se trouve au sud, près du centre de la base.&lt;BR&gt;&lt;BR&gt;Et, entre nous, je vous donne à titre officieux l'autorisation d'ignorer toute demande émanant d'Helier. C'est un rigolo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">Bienvenue, soldat&amp;nbsp;! Je suis Rutgar, et dans le coin, je ne vais pas tarder à devenir votre meilleur ami.&lt;BR&gt;&lt;BR&gt;Sur cette île, il y a deux types de soldats&amp;nbsp;: ceux qui pensent à venir régulièrement se ravitailler chez moi et ceux qu'on appelle les "grands blessés".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1007">
+        <Page social="4">C'est moi qui enseigne les compétences de combat, dans le coin. Apprendre, ça peut être aussi stimulant que le vrai combat, et je suis tout disposé à vous enseigner ce que je sais.&lt;BR&gt;&lt;BR&gt;En parlant de compétences... la magie, c'est pas mon truc. C'est l'affaire de Charise.&lt;NEXTPAGEBUTTON&gt;"Compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Salut, j'ai entendu dire qu'Eleon avait disparu de nouveau. On en sait plus à ce sujet&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Cette île est si belle, si mystérieuse. Et combien de secrets y sommeillent&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Pourquoi les titans l'ont-ils dissimulée&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Et plus étrangement encore, pourquoi l'ont-ils finalement révélée au monde&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Hmmm..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Cette île a quantité de choses à nous offrir, et j'enseigne aux nouvelles recrues comment tirer profit de ces richesses, afin de les utiliser au mieux.&lt;BR&gt;&lt;BR&gt;Mais enfin, ne laissez pas les bavardages d'une modeste instructrice vous mettre en retard. Le devoir vous appelle&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

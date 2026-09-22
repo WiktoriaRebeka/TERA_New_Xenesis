@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">Je sais que les temps sont durs pour tout le monde, et ça me dérange d'avoir à vous demander quelque chose, mais j'ai besoin de votre aide. Ohdi, mon chien, s'est fait la malle. Des gamins m'ont dit l'avoir vu filer vers le cimetière de Berzerad. Je ne me permettrais pas de vous demander ça dans mon seul intérêt. Ici, tout le monde adore Ohdi, c'est un peu notre mascotte.&lt;BR&gt;&lt;BR&gt;Prenez ce sac. J'y ai placé une friandise spécialement préparée par Esedran. Présentez-la à Ohdi, et je suis certain qu'il sautera dans le sac. S'il vous plaît...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">Le toutou de Corann&amp;nbsp;? Le gars qui a inventé l'expression "un chien dans un jeu de quille" devait penser à ce clébard.&lt;BR&gt;&lt;BR&gt;En effet, maintenant que vous en parlez, je crois bien l'avoir vu foncer vers la colline. {@LinkCreature:203#1025#Ohdi} a l'air d'adorer le cimetière qui s'y trouve.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">(Les pattes d'Ohdi sont couvertes de terre et le sol du cimetière est parsemé de nouveaux trous. Ohdi vous regarde en remuant la queue, le regard pétillant de joie.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;, je vous dois beaucoup. Merci d'avoir été chercher Ohdi. Je ne sais pas ce que je... euh... ce que la ville aurait fait sans vous.</Page>
+    </Text>
+</QuestDialog>

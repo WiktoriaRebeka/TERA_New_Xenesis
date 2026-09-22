@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="1">Maudit Mysterium&amp;nbsp;! Allemantheia n'enverra pas plus de troupes parce que les paresseux ne "sont pas carnivores", disent-ils. Billevesées&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Avez-vous vu les dents de ces {@LinkCreature:30#110#paresseux entailleurs}&amp;nbsp;? Assez aiguisées pour... eh, ça c'est une idée.&lt;BR&gt;&lt;BR&gt;Aiderez-vous un camarade soldat&amp;nbsp;? Tuez quelques {@LinkCreature:30#110#paresseux entailleurs} et apportez-moi leurs dents pour que je les envoie à mon commandant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">Excellent. Lors de notre prochaine réunion, je les leur jetterai en pleine figure&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1010">
+        <Page social="0">Tuez ces {@LinkCreature:30#110#paresseux entailleurs} et arrachez leurs crocs.</Page>
+    </Text>
+</QuestDialog>

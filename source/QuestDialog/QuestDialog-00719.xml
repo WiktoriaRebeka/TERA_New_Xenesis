@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">C'est un fait méconnu, mais certains de nos officiers semblent liés de trop près aux cultistes. Samael n'est pas le seul à avoir disparu quand nous sommes partis en guerre contre eux.&lt;BR&gt;&lt;BR&gt;J'ai besoin de l'aide de quelqu'un pour aller récupérer leurs affaires.&lt;NEXTPAGEBUTTON&gt;"Pour les rendre à leurs familles&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Une fois que nous les aurons triées, oui. Certaines seront détruites de façon à ce que nous puissions annoncer la mort de leurs propriétaires sans nous déshonorer, c'est-à-dire sans que l'on puisse faire le lien avec nous. La Fédération ne peut se permettre d'être soupçonnée d'entretenir des relations avec les cultistes. Vous pourrez obtenir les noms des autres traîtres auprès de Madragath. Il vous dira les affaires de quels officiers vous devez récupérer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1002">
+        <Page social="4">Si vous essayez de m'effrayer, vous allez devoir faire mieux que ça. J'ai vu des choses horribles.&lt;BR&gt;&lt;BR&gt;Les officiers avaient pour habitude de se rassembler dans le Caveau des Grimoires. Ces imbéciles pensaient que le culte ne les laisserait pas tomber, mais pour Akia et Arcras, personne n'est indispensable.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1025">
+        <Page social="4">(Cet anneau porte l'emblème de la Fédération Valkyon. On peut encore y lire l'inscription "Secrétaire".)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1030">
+        <Page social="4">(Ces papiers semblent provenir de documents confidentiels.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="3" villagerId="1026">
+        <Page social="4">(Il s'agit d'un insigne des Forces de contre-espionnage. Leurs hommes devaient se cacher ici pour éviter l'arrestation.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="4" villagerId="1028">
+        <Page social="4">Est-il nécessaire de vous préciser que tout ceci doit rester confidentiel&amp;nbsp;? La trahison de Samael jette l'opprobre sur toute l'armée, et le quartier général tient à éviter que la nouvelle ne devienne publique. Une fois que ces preuves seront détruites, les choses devraient se calmer un peu.&lt;BR&gt;&lt;BR&gt;De mon côté, je vais attendre les ordres. Vous devriez retourner voir Rendalf et lui demander si vous pouvez faire quoi que soit d'autre.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4">Vous voilà de retour. J'aurais voulu pouvoir vous éviter d'avoir à m'aider pour cette mission. Ca a dû être pénible.</Page>
+    </Text>
+</QuestDialog>

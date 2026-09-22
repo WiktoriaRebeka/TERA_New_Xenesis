@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="80" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="42">Ordres de mission&lt;BR&gt;&lt;BR&gt;Les derniers nagas gardent la Galerie au troisième niveau du Temple.&lt;BR&gt;&lt;BR&gt;Eliminez les {@LinkCreature:42#210#croisés dagonites}, les {@LinkCreature:42#310#gladiateurs au trident nagas}, les {@LinkCreature:42#330#gardiens nagas}, les {@LinkCreature:42#900#chamanes mekonaris}, les {@LinkCreature:42#910#sorciers mekonaris} et les {@LinkCreature:42#1000#sentinelles mekonaris}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="0">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="4">Les mekonaris ont érigé des dispositifs magiques qui s'apparentent à des pierres tombales.&lt;BR&gt;&lt;BR&gt;De temps à autre, un argon ou un mekonari vient les recouvrir de sang, ça doit certainement faire partie de leur rituel. N'est-ce pas une raison suffisante pour les détruire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1022">
+        <Page social="4">Puis-je voir les fragments&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Grands dieux, quelle horreur&amp;nbsp;! Ils ont donc bien été conçus pour rompre le lien entre les âmes et le Rêve&amp;nbsp;! Je n'aurais jamais cru cela possible. Les mekonaris ne se rendent pas compte de ce qu'ils font&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1022">
+        <Page social="0">Pulvérisez ces tombes de sang, &lt;PCNAME&gt;, ça ne peut que desservir ce rituel.</Page>
+    </Text>
+</QuestDialog>

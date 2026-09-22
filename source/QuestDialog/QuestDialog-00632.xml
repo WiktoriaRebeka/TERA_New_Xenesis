@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">L'Académie Eldritch dispose d'un ingénieux système de sécurité faisant appel aux créatures locales. Nous les rendons utiles à quelque chose, en échange de quoi nous les traitons avec les égards qui leur sont dus.&lt;BR&gt;&lt;BR&gt;Les épouvantails sont censés défendre les jardins, mais au lieu de ça, ils se sont mis à tout ravager. Ils s'en prennent même à nous... Après tout ce que nous avons fait pour eux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous pourriez mener votre petite enquête&amp;nbsp;? Cela nous permettra peut-être de comprendre quelle mouche les a piqués.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1051">
+        <Page social="0">(L'épouvantail est détruit.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1052">
+        <Page social="0">(Cet épouvantail est également détruit.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1053">
+        <Page social="0">(Encore un épouvantail détruit.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1005">
+        <Page social="0">Les épouvantails sont tous hors service&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Pfff... Et maintenant, que vais-je faire&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin, merci de votre aide. Tout cela est bien embêtant...</Page>
+    </Text>
+</QuestDialog>

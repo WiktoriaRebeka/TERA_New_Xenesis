@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, une chose terrible vient de se produire.&lt;BR&gt;Nous avons reçu une lettre du laboratoire du Mysterium, situé à côté du site de pêche. &lt;BR&gt;Il se pourrait que nous ne soyons plus autorisés à pêcher dans ce lac.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller trouver le chercheur {@linkcreature:207#1010#Meridien} ? &lt;BR&gt;Bien entendu, il est hors de question de vous y présenter les mains vides. &lt;BR&gt;Les Humains sont toujours plus coopératifs quand ils ont le ventre plein !&lt;NEXTPAGEBUTTON&gt;"Comment ça ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3" voiceTypeId="0">Tenez, prenez ce plan de cuisine. &lt;BR&gt;Même les plus fins gourmets ne peuvent résister au doux fumet du poisson mariné.&lt;BR&gt;&lt;BR&gt;Alors apportez donc un poisson mariné à {@linkcreature:207#1010#Meridien}. &lt;BR&gt;Vous pouvez acheter les ingrédients dans un magasin d'articles de pêche ou auprès d'un marchand de consommables. &lt;BR&gt;Si vous avez assez d'or, vous pouvez aussi acheter les mets auprès de l'hôtel de ventes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La fédération de pêche vous a prié d'aller voir Meridien pour vous charger des problèmes du laboratoire du Mysterium. Vous avez résolu le problème de Meridien, qui, dans son ivresse, avait jeté ses matériaux de recherche à l'eau.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Hein ? Serait-ce là ce fameux poisson mariné qui est sur toutes les bouches ? &lt;BR&gt;Il est pour moi ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Miam ! Quel goût exquis ! Les arômes du poisson se marient au sel et au vinaigre pour donner une saveur aigre-douce incomparable ! &lt;BR&gt;Et il ne sent absolument pas le poisson ! Je vous suis très reconnaissant de m'avoir donné ce mets succulent ! &lt;BR&gt;Avec le ventre plein, ça va beaucoup mieux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1010">
+        <Page social="0">Oh, non. Oh non...&lt;BR&gt;Qu'est-ce qu'il y a ? Si ce n'est pas important, ne me dérangez pas !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">C'est la fédération de pêche qui vous envoie ? Donc, vous savez pêcher.&lt;BR&gt;Dans ce cas, vous pouvez peut-être m'aider.&lt;BR&gt;&lt;BR&gt;La nuit dernière, j'ai eu le malheur de laisser tomber tous mes documents de recherche importants dans le lac de Murica.&lt;BR&gt;Comment c'est arrivé ? J'ai une faiblesse pour l'alcool. L'alcool...&lt;BR&gt;J'ai du mal à m'arrêter.&lt;BR&gt;Le seul problème, c'est que je ne peux pas récupérer mon ellinium de recherche.&lt;BR&gt;Si vous acceptez de m'aider, je veux bien discuter de la fédération de pêche.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Fort bien. Je vais vous expliquer comment repêcher mon ellinium de recherche tombé à l'eau.&lt;BR&gt;&lt;BR&gt;Commencez par fouiller la caisse de matériaux de recherche, posée à côté de moi, à la recherche des fragments de cellisium qui vous serviront d'appât.&lt;BR&gt;Jetez votre ligne et l'ellinium sera attiré vers la surface, comme un aimant. Si vous êtes à court d'appât, je vous en donnerai d'autres.&lt;BR&gt;Allez, dépêchez-vous. Il faut que je récupère l'ellinium avant que mon chef n'arrive pour son inspection.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Oh ! Vous avez tout retrouvé.&lt;BR&gt;C'est de l'excellent travail.&lt;BR&gt;Je n'ai donc plus de soucis à me faire concernant l'inspection.&lt;BR&gt;Je vais parler à mon chef au sujet du site de pêche.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" villagerId="1010">
+        <Page social="0">Vous avez l'ellinium de recherche.&lt;BR&gt;S'il vous plaît, dépêchez-vous ! Il faut que tout soit prêt avant que mon chef n'arrive.&lt;BR&gt;&lt;BR&gt;Prenez les appâts de la caisse de matériaux de recherche située à côté de moi et allez pêcher sur le Site de pêche de Murica.</Page>
+    </Text>
+</QuestDialog>

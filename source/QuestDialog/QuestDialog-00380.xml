@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine suspectait Kugai le Puissant de détenir des indices sur ce qui se tramait dans la Vallée maudite. Elle vous a donc envoyé{@g:/e} le tuer. Elle avait raison&amp;nbsp;: sur sa dépouille, vous avez découvert un document rédigé dans une langue antique.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Avec ce que nous avons appris aujourd'hui, je ne peux pas recommander que nos forces se retirent de l'île. Mais des soupçons ne doivent pas être pris pour des faits et le moyen de les confirmer est entre vos mains.&lt;BR&gt;&lt;BR&gt;{@linkcreature:13#1004#Kugai le Puissant} arpente sans encombre les terres infestées de démons tandis que tant de nos camarades gisent à ses pieds, trucidés.&lt;BR&gt;&lt;BR&gt;Fouillez son cadavre à la recherche d'indices.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Kugai est tombé sous vos coups, mais au lieu de réponses, ce sont des questions supplémentaires que vous me ramenez. Ce parchemin porte des inscriptions similaires à celle des insignes que vous avez récupérés plus tôt. Rares sont ceux qui, comme moi, comprennent la langue antique de ces inscriptions.&lt;NEXTPAGEBUTTON&gt;"Qu'y a-t-il d'écrit&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Sersine parcourt le parchemin.)&lt;BR&gt;&lt;BR&gt;Je crains fort qu'un rituel se prépare afin d'invoquer des ténèbres destinées à se répandre à travers le monde.&lt;BR&gt;&lt;BR&gt;Aidé en cela par un seigneur démoniaque et vassal de Lok que nous pensions vaincu depuis bien longtemps.&lt;BR&gt;&lt;BR&gt;Karascha.</Page>
+    </Text>
+</QuestDialog>

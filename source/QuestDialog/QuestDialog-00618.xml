@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">&lt;PCNAME&gt;, je pense avoir mis le doigt sur quelque chose d'important&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous savez forcément que la manipulation magique de l'esprit est l'une des disciplines les plus rares et les plus ardues. Une magie à l'échelle qui nous affecte en ce moment reste inaccessible à tout individu, mais pas à un groupe&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si j'ai vu juste, c'est aux instructeurs qu'il faut le reprocher&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Aux instructeurs&amp;nbsp;? Impossible&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Difficile à imaginer, mais pas impossible. Je veux que vous alliez fouiller les malles des instructeurs dans la salle de classe Est du deuxième étage. Il pourrait aussi y avoir des indices dans l'Athanaeum.&lt;BR&gt;&lt;BR&gt;Faites vite&amp;nbsp;! Si nous ne reprenons pas rapidement le contrôle de l'académie, la Fédération pourrait décider de la détruire, avec tous ceux qui sont à l'intérieur&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">Vous êtes de retour&amp;nbsp;! J'espère que vous avez réussi&amp;nbsp;! La vision des préfets s'enfonçant encore dans la folie m'a glacé le sang.&lt;BR&gt;&lt;BR&gt;Voyons ce que vous avez trouvé. Hum&amp;nbsp;! Mauvaise nouvelle, mais peut-être une piste.&lt;BR&gt;&lt;BR&gt;Je dois y réfléchir. Que le pouvoir vous protège, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1007">
+        <Page social="0">Ce n'est pas le moment de lambiner&amp;nbsp;! Des enfants meurent&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

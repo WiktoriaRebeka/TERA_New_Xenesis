@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">Une sorte de bulle enveloppe le marais situé au centre de la vallée. Il doit s'agir d'un genre de champ de force argon. Je pense qu'il est généré par les {@Creature:45#7002#aiguilles trolniks} qui se trouvent dans son enceinte.&lt;BR&gt;&lt;BR&gt;Pourriez-vous me rapporter des composants prélevés sur ces aiguilles de contrôle pour étude&amp;nbsp;? Pour ce faire, vous allez devoir détruire les aiguilles en question...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Ceci devrait faire l'affaire, &lt;PCNAME&gt;. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">Vous avez mes fragments d'aiguilles&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

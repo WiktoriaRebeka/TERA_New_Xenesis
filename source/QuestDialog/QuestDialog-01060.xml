@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1037">
+        <Page social="4">Ce Podun… Quel idiot&amp;nbsp;! Il va me faire perdre ma couverture, c'est évident.&lt;BR&gt;&lt;BR&gt;Vous pourriez créer une diversion en attaquant ces {@LinkCreature:40#31#trilames mutés}&amp;nbsp;? Donnez-moi le temps de récolter quelques renseignements.&lt;BR&gt;&lt;BR&gt;Et demandez à {@LinkCreature:240#1004$$Lashirah} de réaffecter Podun loin de moi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Podun est un idiot, mais il est très observateur.&lt;BR&gt;&lt;BR&gt;Munisk a les nerfs en pelote, c'est tout.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">Si notre sort vous intéresse, il y a un autre service que vous pourriez me rendre. Avant de partir d'ici, je voudrais me venger des tuwangis qui m'ont pourchassé.&lt;BR&gt;&lt;BR&gt;Ils sont nombreux et ne demanderaient qu'à recommencer s'ils en avaient l'occasion. Vous pourriez peut-être aller voir les {@LinkCreature:5#9#ochemartels tuwangis} et leur montrer ce que ça fait que d'avoir la mort aux trousses.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">Ha&amp;nbsp;! Bien joué... Le coup du marteleur martelé, ça a dû leur faire tout drôle&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pas vrai&amp;nbsp;? Ha ha&amp;nbsp;! Merci beaucoup, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1003">
+        <Page social="0">Alors, comment ça se passe avec les tuwangis&amp;nbsp;? C'est la panique&amp;nbsp;? Vous leur avez collé une trouille bleue&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

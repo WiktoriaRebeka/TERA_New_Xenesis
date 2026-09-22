@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1606">
+        <Page social="0">Les matériaux nécessaires à la fabrication des bâtons d'officier sont ici. Quand ils seront prêts, apportez-les ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1606">
+        <Page social="0">Bien joué. Chaque bâton fabriqué aide la Fédération à planter un clou de plus dans le cercueil des argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1606">
+        <Page social="0">Le plan et les kits sont fournis. Il faut voir auprès des vendeurs d'artisanat si d'autres matériaux sont nécessaires.</Page>
+    </Text>
+</QuestDialog>

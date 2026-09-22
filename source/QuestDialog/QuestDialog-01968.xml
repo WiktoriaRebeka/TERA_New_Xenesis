@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les imperfections du monde intérieur vous ont permis d'expérimenter l'éveil total et de triompher de Kermadea, le dragon noir qui avait détruit Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="508" prevId="1" villagerId="7001">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, gardien d'Arborea.&lt;BR&gt;&lt;BR&gt;Vous vous êtes enfin débarrassé de toutes les imperfections du monde intérieur.&lt;BR&gt;Vous avez éveillé votre puissance dans toute sa splendeur.&lt;BR&gt;&lt;BR&gt;Cela signifie que vous devez retourner à la Muraille des mondes pour affronter à nouveau le dragon noir.&lt;BR&gt;&lt;BR&gt;C'est là le cadeau que je vous fais.&lt;BR&gt;Éliminez le dragon noir.&lt;BR&gt;Rétablissez la paix à Arborea, je vous en supplie...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="507" prevId="3" villagerId="7001">
+        <Page social="0" voiceTypeId="0">La Muraille des mondes est fissurée.&lt;BR&gt;C'est sans doute là l'œuvre du dragon noir.&lt;BR&gt;&lt;BR&gt;Nous devons d'abord restaurer la Muraille des mondes.&lt;BR&gt;&lt;BR&gt;Moi, Mystel, déesse de la destinée, suis la seule à pouvoir y entrer.&lt;NEXTPAGEBUTTON&gt;"Heureusement que nous avons pu arrêter le dragon noir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le dragon noir et ses disciples...&lt;BR&gt;&lt;BR&gt;Sur tout le continent, je n'avais encore jamais vu l'appareil qu'ils utilisaient.&lt;BR&gt;Il semble être constitué d'une substance noire inconnue.&lt;BR&gt;&lt;BR&gt;Je dois l'étudier en détail.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;Je vous ai demandé en raison d'une affaire pressante de la Fédération Valkyon. Une fête va bientôt être organisée à Velika, pour célébrer la paix durable. &lt;BR&gt;&lt;BR&gt;Voici votre invitation.&lt;BR&gt;Halran en a également reçu une.&lt;BR&gt;Apparemment, une multitude de convives se rassemblent en ce lieu historique.&lt;BR&gt;&lt;BR&gt;L'invitation vous téléporte directement à Velika. Utilisez cette invitation si vous voulez participer aux festivités.</Page>
+    </Text>
+</QuestDialog>

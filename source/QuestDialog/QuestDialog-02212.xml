@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Je voulais plaider en faveur de la fédération de pêche auprès de mon chef, mais rien à faire.&lt;BR&gt;Je le regrette vraiment.&lt;BR&gt;&lt;BR&gt;Vous voulez peut-être essayer de lui parler ?&lt;BR&gt;Il s'appelle Mattin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mattin vous a raconté qu'il y avait des soucis de ravitaillement en écailles de poisson antiques depuis que la fédération de pêche exploite le site de pêche. Vous avez résolu le problème en pêchant en personne la sacrée bestiole, un poisson ancestral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1001">
+        <Page social="1" voiceTypeId="0">Qu'y a-t-il ? Pêcher !?&lt;BR&gt;&lt;BR&gt;Ne me parlez surtout pas de pêche. Rien que l'odeur du poisson me donne de l'urticaire.&lt;BR&gt;Pendant des années, j'ai péniblement collecté la poudre dorée au fond du lac pour l'étudier.&lt;BR&gt;En effet, ce n'est pas une poudre ordinaire.&lt;BR&gt;C'est un minéral produit par l'oxydation de vieilles écailles de poissons&lt;BR&gt;Mais depuis l'apparition de la fédération de pêche, mes recherches stagnent.&lt;BR&gt;C'est évidemment très fâcheux et c'est la raison pour laquelle nous sommes en conflit.&lt;NEXTPAGEBUTTON&gt;"Soyez donc magnanime."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Si vous me rapportez de la vieille poudre d'écaille, je veux bien y réfléchir.&lt;BR&gt;Où en trouver ?&lt;BR&gt;&lt;BR&gt;Posez donc la question au responsable du site de pêche.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="9903">
+        <Page social="1" voiceTypeId="0">Vous lui avez parlé ? De vieilles écailles !?&lt;BR&gt;Parlerait-il du silure géant, la sacrée bestiole de ce lac ?&lt;BR&gt;Il paraît qu'un poisson légendaire nage dans les eaux de ce site de pêche : le silure géant.&lt;BR&gt;Il aurait plusieurs milliers d'années et on prétend qu'il provoque un séisme quand il saute hors de l'eau.&lt;BR&gt;Il ne sera sans doute pas facile à capturer, mais vous ne voulez pas essayer, pour la fédération de pêche ?&lt;BR&gt;Mattin sera certainement fou de joie si nous lui ramenons le poisson entier au lieu de la poudre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1001">
+        <Page social="1" voiceTypeId="0">Ce ne serait pas le poisson qui vit ici depuis une éternité ?&lt;BR&gt;Ses écailles me donneront plus de poudre que je ne pourrais en récolter pendant des années.&lt;BR&gt;Un immense merci ! Avec ça, je vais pouvoir conclure mes recherches.&lt;BR&gt;&lt;BR&gt;Adressez donc mes remerciements au responsable de pêche.&lt;BR&gt;À compter d'aujourd'hui, tout ira bien entre nous.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" villagerId="1001">
+        <Page social="0">Vous m'avez apporté des écailles de l'ancien poisson ?&lt;BR&gt;Le responsable prétend qu'il faut pêcher une sacrée bestiole pour en obtenir. Apparemment, elles sont extrêmement rares et difficiles à capturer.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="5" villagerId="9903">
+        <Page social="1" voiceTypeId="0">Ainsi, nous avons bel et bien réussi à sauver notre site de pêche !&lt;BR&gt;Vous avez toute ma gratitude !&lt;BR&gt;Voici votre récompense !</Page>
+    </Text>
+</QuestDialog>

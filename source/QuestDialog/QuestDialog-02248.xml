@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7002">
+        <Page social="0">Vous avez aidé Tagun à rameuter son troupeau.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7002">
+        <Page social="4">Content de vous revoir. Mes moutons, ils se sont échappés. Encore. Pourriez-vous m'aider à les rameuter ? &lt;NEXTPAGEBUTTON&gt;"Bien sûr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="702" villagerId="7">
+        <Page social="0">Beeeee&amp;nbsp;! Beeeee&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7002">
+        <Page social="4">Dites-moi quel mouton a été le plus farouche et je lui lirai la recette de l'agneau bulgogi.&lt;BR&gt;&lt;BR&gt;Bon, merci pour votre aide. Voici un petit quelque chose pour vous exprimer ma gratitude ! &lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

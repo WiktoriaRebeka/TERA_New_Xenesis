@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">La plate-forme de téléportation nous a permis d'étudier les argons sans nous faire remarquer. Je vous explique comment l'utiliser.&lt;NEXTPAGEBUTTON&gt;"Une plate-forme de téléportation ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous souvenez-vous de pégase ? C'est similaire.&lt;BR&gt;&lt;BR&gt;Les plateformes de téléportation sont alimentées par de la {@RawItem:206811}. On en trouve facilement. Le seul problème, c'est qu'il n'y a pas gisement à proximité.&lt;BR&gt;&lt;BR&gt;Récupérez de la {@RawItem:206811} à l'{@Rgn:49002}. J'espère que vous savez comment rejoindre {@Rgn:76001} ?&lt;NEXTPAGEBUTTON&gt;"C'est moins compliqué que ça n'en a l'air."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ce n'est pas aussi compliqué que ça en a l'air. Essayez-la donc par vous-même et vous trouverez vite vos repères.&lt;BR&gt;&lt;BR&gt;Commencez par chercher les {@LinkCreature:249#1101}. Je vous attendrai là-bas.&lt;BR&gt;&lt;BR&gt;Quittez le village et avancez vers le sud. Vous tomberez forcément dessus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Parfait. Vous l'avez trouvé.&lt;BR&gt;&lt;BR&gt;Au sud d'ici se trouve l'{@Rgn:49002}. Les Argons y récupèrent des pierres magiques. Le {@Collection:106} s'y trouvant renferme de la {@RawItem:206811} à récupérer avant de pouvoir utiliser la plateforme.&lt;BR&gt;&lt;BR&gt;Venez me voir quand vous souhaiterez apprendre la compétence de minage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">Utilisez de la {@RawItem:206811} pour utiliser la plateforme de téléportation.&lt;BR&gt;&lt;BR&gt;Vous pouvez ainsi retourner à {@Rgn:76001}.&lt;BR&gt;&lt;BR&gt;Je me mets déjà en route.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">Utilisez une pioche pour récupérer de la {@RawItem:206811}. Vous en avez une ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">Bien joué ! Vous savez maintenant comment fonctionnent les plateformes de téléportation.&lt;BR&gt;&lt;BR&gt;Elles sont toutes reliées entre elles. Il vous faut juste de la {@RawItem:206811} pour voyager.&lt;BR&gt;&lt;BR&gt;Vous ne pourrez bientôt plus vous en passer !</Page>
+    </Text>
+</QuestDialog>

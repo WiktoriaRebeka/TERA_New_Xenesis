@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0">Une fois que la paix sera revenue, l’un de nos jeunes braves, Kurio, peut-être, deviendra le chef suprême des orkans, et portera une couronne faite du crâne d'un {@LinkCreature:41#4002#maître de guerre géant}. La nôtre a été détruite lorsque nous sommes partis en exil.&lt;BR&gt;&lt;BR&gt;Notre nouveau chef serait fier de porter une couronne provenant d'une bête que vous avez chassée. Nous ferez-vous l'honneur d'en tuer une et de prendre sa tête&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">Beau travail. Je vais donc façonner la couronne et attendre que la paix revienne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Vous avez apporté le crâne&amp;nbsp;? Quand j’en aurai un, je créerai une couronne digne d’un grand chef.</Page>
+    </Text>
+</QuestDialog>

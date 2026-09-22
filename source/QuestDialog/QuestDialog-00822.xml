@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="4">Je ne connais rien de plus effrayant que les {@LinkCreature:31#21#colosses nagas}. Ce sont des adversaires tempétueux, redoutables et destructeurs.&lt;BR&gt;&lt;BR&gt;Mais ils ne devraient pas poser de problèmes à un soldat de votre trempe, pas vrai, &lt;PCCLASS:lcase&gt;&amp;nbsp;? En fait, je parie que vous pourriez abattre une pléthore de colosses et me rapporter leurs insignes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1026">
+        <Page social="4">Vous êtes une pointure&amp;nbsp;! Joli boulot&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1026">
+        <Page social="0">Je me moque de ce qu'on dit. Je vous crois capable de triompher d'un {@LinkCreature:31#21#colosse naga}.</Page>
+    </Text>
+</QuestDialog>

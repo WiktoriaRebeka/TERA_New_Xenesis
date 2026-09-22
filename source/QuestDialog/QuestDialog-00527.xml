@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Encore des problèmes.&lt;BR&gt;&lt;BR&gt;Kunchara sait faire des... c'est quoi le mot déjà&amp;nbsp;? "In-tan-ca-sions"... Ou un truc comme ça. Il écrit des mots sur un papier, il met le papier sur une hache et bam&amp;nbsp;! Elle cogne plus fort.&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:218#1027$$Takucha}. Nos talismans ne sont pas pour Tukarus&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Oooh, oui... La tente de Kunchara a brûlé, mais un coup de vent a soufflé l'incendie... et la tente. Takucha a essayé de récupérer les talismans, mais Tukarus cogne fort. Vous voyez cette cicatrice&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tukarus donne nos talismans à la {@LinkCreature:18#11#tribu de métal}... Ces gros machins avec des roues.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1002">
+        <Page social="0">Bien&amp;nbsp;! Très bien, même&amp;nbsp;! Pas de talismans pour Tukarus et les golems&amp;nbsp;! Vous êtes {@gender:doué/douée}, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Vous feriez {@gender:un/une} {@gender:bon/bonne} chamane&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1002">
+        <Page social="0">La tribu de métal&amp;nbsp;? Takucha veut parler des golems. Des golems avec des talismans&amp;nbsp;? Bam&amp;nbsp;! Cela fait mal.</Page>
+    </Text>
+</QuestDialog>

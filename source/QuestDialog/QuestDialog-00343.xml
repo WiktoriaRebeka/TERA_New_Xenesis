@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="4">Vous m'avez bien entendu, je suis prêt à payer pour avoir la paix, mais il faudra me rendre un petit service par la même occasion.&lt;BR&gt;&lt;BR&gt;Quand les pirates m'ont chassé, j'ai dû me délester d'une partie de ma cargaison pour garder de l'avance sur eux.&lt;BR&gt;&lt;BR&gt;Transportée par les courants, elle a fini par s'échouer sur la portion de plage située en contrebas des escaliers que vous trouverez à l'est du village. Rapportez-la à {@LinkCreature:212#1002$$Sidara}. Elle vous paiera et vous pourrez mettre les bouts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">Décidément, vous en avez récupéré plus que Dirken n'en attendait. Mais... Ce n'est pas étonnant... Vous avez récupéré des caisses qui ne sont pas les nôtres.&lt;BR&gt;&lt;BR&gt;Celle-ci appartient à ces maudits soldats de... Mmh...&lt;BR&gt;&lt;BR&gt;Après tout, "trouver" n'est pas "voler", hein&amp;nbsp;? Et puisque je vous paye, je ne vois pas ce que cette petite "transaction d'ordre privé" pourrait avoir d'irrégulière. On se comprend&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Que faites-vous ici&amp;nbsp;? Contrairement aux soldats, je ne gagne pas ma vie en faisant le planton pour que la jeunesse admire mon uniforme.&lt;BR&gt;&lt;BR&gt;Moi, je dois travailler pour gagner ma croûte. Et vous pourriez faire exactement la même chose en allant me chercher ces caisses sur la plage.</Page>
+    </Text>
+</QuestDialog>

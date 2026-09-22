@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Nos chercheurs ne sont toujours pas en sécurité dans la {@Rgn:47002$$Forêt de la gelée blanche}. J'aimerais que vous alliez donner la chasse aux {@LinkCreature:47#1001#grizzlys de Tirkai}. Et tant que vous y serez, régulez donc un peu les populations de {@LinkCreature:47#4001#croisés dagonites argonomorphes} et de {@LinkCreature:47#2001#farfadets caprins argonomorphes}.&lt;BR&gt;&lt;BR&gt;C'est {@Creature:247#1002$$Salaine}, de la {@Rgn:47006$$Base de la Folie}, qui se chargera de vous récompenser.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Merci beaucoup.&lt;BR&gt;&lt;BR&gt;Grâce à vous, nous sommes tous un peu plus en sécurité.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">Repassez une fois que vous aurez éliminé les {@LinkCreature:47#1001#grizzlys de Tirkai}, les {@LinkCreature:47#4001#croisés dagonites argonomorphes} et les {@LinkCreature:47#2001#farfadets caprins argonomorphes} de la {@Rgn:47002$$Forêt de la gelée blanche}.</Page>
+    </Text>
+</QuestDialog>

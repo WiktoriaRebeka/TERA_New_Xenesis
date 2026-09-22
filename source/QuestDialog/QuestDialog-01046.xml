@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="4">Les {@LinkCreature:40#18#mycanars violents} sont aussi victimes de la mutation. En étudiant leurs noyaux, nous pourrions en apprendre beaucoup sur la maladie. Est-ce que &lt;PCNAME&gt; pourrait m’obtenir quelques mycanodules&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1013">
+        <Page social="4">Alors c’est à ça qu’elles ressemblent. Je vais me mettre immédiatement au travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1013">
+        <Page social="0">Tuez les {@LinkCreature:40#18#mycanars violents} et ramenez-moi leurs nodules, je ne peux pas y arriver sans eux.</Page>
+    </Text>
+</QuestDialog>

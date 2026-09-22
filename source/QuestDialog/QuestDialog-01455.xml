@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="4">Des unités de morts-vivants ossombres n'arrêtent pas d'arriver par la route sud. Quelque chose me dit qu'ils sont... frais.&lt;BR&gt;&lt;BR&gt;Prenez ces fioles. Les morts-vivants rejettent un liquide noir en mourant&amp;nbsp;; remplissez-les et rapportez-les-moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1024">
+        <Page social="4">Pleines&amp;nbsp;? Toutes les fioles&amp;nbsp;? Fantastique, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Très bien, voyons voir... Oh, la rage sanglante de Velik, j'avais donc raison. Ces pauvres créatures étaient en vie il y a moins d'un jour.&lt;BR&gt;&lt;BR&gt;Il s'agit des villageois enlevés récemment. Ces monstres nous les renvoient&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1024">
+        <Page social="0">Ces argousins, entailleurs et défenseurs ossombres nous empêchent tout contact avec la ville. Eliminez-les et aidez-moi à retrouver d'où ils viennent, soldat&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

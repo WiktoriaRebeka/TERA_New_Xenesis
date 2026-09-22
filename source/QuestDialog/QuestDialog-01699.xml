@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1608">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1608">
+        <Page social="0">Vous avez tout ce qu'il vous faut pour commencer à fabriquer des cuirasses d'officier. Allez, au boulot. Allez voir Harmain quand vous aurez terminé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1604">
+        <Page social="0">Ces efforts n'ont pas été vains. Toute la Fédération apprécie le dur travail de l'artisan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1604">
+        <Page social="0">Le plan et les kits ont été fournis. Un artisan qui aurait besoin de matériaux supplémentaires devrait aller voir les vendeurs d'artisanat dans notre chère cité.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="4">Vous avez vu la garde ksharane de Thulsa&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Elle s'est emparée du centre de commande central situé au nord-est de la fournaise, et tant que nous ne les aurons pas affrontés, nous ne pourrons reprendre le reste du complexe.&lt;BR&gt;&lt;BR&gt;J'aimerais que vous éliminiez les archiprêtres et avant-gardes ksharans, avant de me rapporter leurs amulettes. Vous pensez pouvoir vous charger de ça, &lt;PCNAME&gt;&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1035">
+        <Page social="4">J'avais raison... je savais que vous réussiriez&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous sommes en bonne voie pour reprendre cet endroit à l'ennemi. Bien joué&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1035">
+        <Page social="0">Rapportez-moi une preuve de la mort des ksharans.&lt;BR&gt;&lt;BR&gt;Je sais que c'est difficile, mais j'ai foi en vos capacités.</Page>
+    </Text>
+</QuestDialog>

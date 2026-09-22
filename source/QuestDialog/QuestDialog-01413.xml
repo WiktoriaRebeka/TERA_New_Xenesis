@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Les bêtes des environs deviennent chaque jour plus brutales, kyukyu.&lt;br&gt;Les fées redoutent surtout les gigantesques mugatos cornesang, kyu !&lt;br&gt;&lt;br&gt;Pourriez-vous éliminer les mugatos cornesang, kyu ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Merci beaucoup, kyu !&lt;br&gt;Me voilà soulagé d'un lourd fardeau, kyu !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="493" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Après un combat de titans, vous avez tué Akasha et ainsi éliminé la menace qu'elle faisait peser sur Allemantheia.&lt;BR&gt;&lt;BR&gt;Thulsa est toujours là, à manigancer et à faire la guerre aux races mortelles, tout comme les argons qui ne reculent pas, mais grâce à vos efforts, la Fédération Valkyon est désormais prête à relever tous les défis&amp;nbsp;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Allemantheia ne sera jamais sûre tant qu'Akasha sera en vie.&lt;BR&gt;&lt;BR&gt;Allez dans la Chambre d'Akasha et éliminez la déesse !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1138">
+        <Page social="5" voiceTypeId="0">Je savais que vous en étiez capable !&lt;BR&gt;&lt;BR&gt;Akasha, la déesse des épidémies, rien que ça... Même si le sceau du nouveau monde l'a affaiblie, elle n'en a pas moins jadis été une divinité. Votre victoire signifie donc que vous avez encore perfectionné vos aptitudes.&lt;NEXTPAGEBUTTON&gt;"Et Thulsa ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Malheureusement, je ne détecte aucune trace de Thulsa dans les parages. La mort d'Akasha ne suffira pas à lui faire baisser les bras. &lt;BR&gt;&lt;BR&gt;Pour l'heure, il ne fait pas de remous, mais il mijote autre chose et compte à nouveau menacer Allemantheia et l'alliance.&lt;BR&gt;&lt;BR&gt;Combattons à nouveau côte à côte, le moment venu.</Page>
+    </Text>
+</QuestDialog>

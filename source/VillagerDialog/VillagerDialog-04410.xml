@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="225" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">&lt;img src='img://__Image_Dungeon_9089.9089'/&gt;&lt;BR&gt;Elion, nos collègues et moi-même avons mis des semaines à révéler le complot d'Atel Akaad.&lt;BR&gt;Aujourd'hui, nous récoltons enfin les fruits de notre labeur.&lt;BR&gt;(Le &lt;font color='#0000FF'&gt;Refuge des Cultistes&lt;/font&gt; est un donjon à 5 personnes qui permet de valider les quêtes associées.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Il est maintenant possible d'utiliser la Porte des dimensions. Allons-y.&lt;TEXTBUTTON&gt;Utiliser la Porte des dimensions&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Entrer dans le Refuge des cultistes&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

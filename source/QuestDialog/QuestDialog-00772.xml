@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="1">Nous étudions les légers changements dans le Motif de Balder : les glyphes et les lignes qui apparaissent de jour dans le ciel. Toutefois, impossible de faire un travail correct sans étudier le motif au même moment mais depuis des endroits différents.&lt;BR&gt;&lt;BR&gt;J'ai posté des chercheurs dans les {@Rgn:30009$$Ruines du temple} et le {@Rgn:30008$$Temple de l'autorité}, mais leurs rapports se font attendre.&lt;BR&gt;&lt;BR&gt;Pouvez-vous aller les voir et leur rappeler que le temps presse ? Allez d'abord voir {@LinkCreature:230#1026$$Meterok}. Il se trouve quelque part dans les Ruines du temple.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1026">
+        <Page social="1">Un rapport&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je ne peux pas envoyer de rapport tant que je n'ai pas eu de nouvelles de {@LinkCreature:230#1020$$Ronush}, mais il n'a pas terminé ses observations. Comme d'habitude.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1020$$Ronush} a aussi mes données. Vous pouvez aller là-bas et faire d'une pierre deux coups.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1020">
+        <Page social="1">C'est la collecte pour la société d'aide aux vétérans&amp;nbsp;? J'ai déjà donné le mois dernier...&lt;BR&gt;&lt;BR&gt;Pardon, c'est Sestena qui vous envoie&amp;nbsp;? Bien sûr que oui&amp;nbsp;; elle est plutôt du genre impatiente, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nous devons chronométrer exactement les changements dans le Motif de Balder, mais les notes de {@LinkCreature:230#1026$$Meterok} ne sont pas bien en ordre, ce qui me freine énormément.&lt;BR&gt;&lt;BR&gt;Vous devrez attendre que mes observations soient finies. Et pour tuer le temps, un petit travail original en échange d'or, ça vous intéresse&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

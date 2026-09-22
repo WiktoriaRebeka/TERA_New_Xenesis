@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="213">Notre voie d'accès à la Vallée maudite est bloquée par un groupe de {@LinkCreature:13#300910#cromos rôdeurs} postés près de l'entrée.&lt;BR&gt;&lt;BR&gt;Chione est la seule de nos pilotes à savoir naviguer dans cette partie de l'île. Tant qu'on ne l'aura pas remplacée, nous ne pourrons compter que sur les coursiers pour communiquer.&lt;BR&gt;&lt;BR&gt;Tuez des cromos puis faites votre rapport à {@linkcreature:213#1025$$Sersine} à la Vallée maudite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Je suis heureux d'apprendre que vous avez débarrassé ce chemin de ces créatures perfides.&lt;BR&gt;&lt;BR&gt;Écoutez, ne sous-estimez pas cette île. N'oubliez pas que nos troupes se retirent à cause des problèmes que connait la Fédération. Ce n'est pas parce que cet endroit est sûr.&lt;BR&gt;&lt;BR&gt;Restez vigilant.</Page>
+    </Text>
+</QuestDialog>

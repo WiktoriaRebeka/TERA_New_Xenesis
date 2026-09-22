@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">Il y a trop de paresseux au {@Rgn:30001$$Refuge de Balder}, et ils nous pourrissent la vie. C'est un fait.&lt;BR&gt;&lt;BR&gt;Eradiquez les paresseux {@LinkCreature:30#100#nerveux}, les {@LinkCreature:30#110#entailleurs} et les {@LinkCreature:30#120#alanguis}.&lt;BR&gt;&lt;BR&gt;Retournez voir Raciba pour votre récompense.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1089">
+        <Page social="1">Vous êtes la némésis des paresseux, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Beau travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1089">
+        <Page social="0">Sérieusement, &lt;PCCLASS:lcase&gt;. Ce sont des paresseux.</Page>
+    </Text>
+</QuestDialog>

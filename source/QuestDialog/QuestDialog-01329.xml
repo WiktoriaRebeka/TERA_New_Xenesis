@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">La Carte de Ghabar indique que les pylônes sortent tout droit de Raseri Festning... c'est la forteresse des géants de la région. Croiser la technologie des géants avec celle des argons fait un dangereux mélange. Nous ne pouvons rester sans réagir.&lt;BR&gt;&lt;BR&gt;Vous allez devoir infiltrer les lieux et détruire les pylônes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Grâce à vos efforts, la Vallée des Aiguilles est en train de redevenir un endroit sûr. La Fédération... je veux dire "nous"... vous sommes tous redevables&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Rentrez présenter votre rapport à Habere et faites part de notre situation aux autorités. Elles doivent se préparer à mobiliser nos forces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1007">
+        <Page social="4">Si Thulsa n'a plus le contrôle de la vallée, ça signifie que nous allons pouvoir y déployer nos troupes. Il n'a plus personne derrière qui se cacher&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le règne de Thulsa touchera bientôt à son terme, et c'est en bonne partie grâce à vous&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

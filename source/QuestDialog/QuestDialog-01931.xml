@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">Ce sont les cultistes de cette grotte qui vous intéressent&amp;nbsp;? Il y a de quoi.&lt;BR&gt;&lt;BR&gt;Ecoutez, ils portent des insignes sertis d'onyx. Cette pierre a de la valeur.&lt;BR&gt;&lt;BR&gt;Rapportez-moi ces objets, et je vous en donnerai un bon prix.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Ah, ils sont un peu plus petits que je ne le pensais.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, vous avez rempli votre part du contrat... j'apprécie. Veuillez accepter ceci, avec mes remerciements.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">Je vous paierai, c'est promis.&lt;BR&gt;&lt;BR&gt;Maintenant, au boulot.</Page>
+    </Text>
+</QuestDialog>

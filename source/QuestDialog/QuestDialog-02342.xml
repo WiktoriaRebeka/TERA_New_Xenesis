@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2002" prevId="0" villagerId="130">
+        <Page social="5">Je peux me procurer moi-même la cigüe de Viridian, mais j'ai besoin d'aide pour les queues de fauve, l'ingrédient principal du remède.&lt;BR&gt;&lt;BR&gt;Je vous serais reconnaissante de bien vouloir m'aider.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="5">C'est sans doute suffisant. Merci, &lt;PCNAME&gt; ! Je vais examiner le refuge des Riverans plus en détail.&lt;BR&gt;&lt;BR&gt;Sauvez donc Élion et le villageois.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" villagerId="130">
+        <Page social="0">Cela ne suffit pas. Rapportez-m'en un peu plus.</Page>
+    </Text>
+</QuestDialog>

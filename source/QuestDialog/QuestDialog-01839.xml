@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="0">&lt;PCNAME&gt; a combattu jusqu'à la plate-forme de l'aéronef, puis a embarqué pour attaquer les Parthes par voie aérienne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="4">Je veux que vous preniez l'ennemi à revers à l'aide de vos étranges machines volantes.&lt;BR&gt;&lt;BR&gt;Nous les prendrons en tenaille et nous donnons rendez-vous au milieu&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2132">
+        <Page social="4">Pour atteindre la plate-forme de l'aéronef, vous allez tout d'abord devoir vous frayer un passage parmi les Archidevans de la vallée située du nord.&lt;BR&gt;&lt;BR&gt;Une fois le chemin déblayé, vous pourrez embarquer sur votre vaisseau.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2133">
+        <Page social="4">Je vous ai vu combattre. Vous savez y faire. Ravi de savoir que Seir sait encore choisir la fine fleur des combattants.&lt;BR&gt;&lt;BR&gt;Il nous faut encore récupérer quelques pièces détachées pour l'aéronef. Il ne pourra pas décoller sans elles.&lt;BR&gt;&lt;BR&gt;Trouver les boîtes et ramenez-les à Garog.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2103">
+        <Page social="4">Kaia soit louée, vous les avez trouvées.&lt;BR&gt;&lt;BR&gt;Je remets l'aéronef en état de marche et vous embarquez. Nous allons enfin pouvoir donner l'assaut&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="2103">
+        <Page social="0">Sans ces pièces, la mission fait du surplace.</Page>
+    </Text>
+</QuestDialog>

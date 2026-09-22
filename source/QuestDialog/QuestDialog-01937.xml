@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3001" prevId="0" villagerId="1113">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3001" prevId="0" villagerId="1113">
+        <Page social="0" voiceTypeId="0">(Le livre crypté est rédigé dans une langue étrangère.) Remettez ce livre à Jodoc, à Crescentia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="5" voiceTypeId="0">Eh bien, voyons ça. J'ai dû me rouiller un peu avec le temps, mais il me semble que cet ouvrage traite de l'organisation hiérarchique d'un ordre, ou quelque chose comme ça.&lt;BR&gt;&lt;BR&gt;Je vais envoyer ça à Velika. On verra ce que les experts peuvent en tirer.</Page>
+    </Text>
+</QuestDialog>

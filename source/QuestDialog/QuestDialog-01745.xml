@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="0">Rhodos a dévoilé une partie de l'histoire du Nord d'Arun, tandis que Paesyn s'essayait à une nouvelle tactique pour gagner les faveurs de Zolyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="4">Le fait que les Khiriens nous aient accueillis en dit long sur la qualité de votre travail, &lt;PCNAME&gt;. Nous avions bien besoin d'un peu d'abri.&lt;BR&gt;&lt;BR&gt;Celui qui se nomme Rhodos nous a parlé de choses qui tombent du ciel. Peut-être arrivera-t-on à récupérer l'Intrépide&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Notre mission n'est peut-être pas vouée à l'échec.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1301">
+        <Page social="4">Paesyn aimerait vous parler, si vous avez un moment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1100">
+        <Page social="4">Voilà pourquoi je vous estime autant&amp;nbsp;! Vous nous avez encore sauvés la mise&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'ai vu un certain nombre de morceaux de l'épave de l'Intrépide. Je vais les examiner et essayer d'impressionner un peu Zolyn. Pour qu'elle commence à m'apprécier&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Puisque mon poème ne l'a pas touchée, j'ai fait un portrait d'elle. Vous pourriez le lui amener, s'il vous plaît&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1102">
+        <Page social="4">J'ai entendu dire que vous avez sauvé Madat. Pas mal. Vous êtes un soldat qui se débrouille.&lt;NEXTPAGEBUTTON&gt;"Paesyn a dessiné ceci pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Je retire ce que j'ai dit.&lt;BR&gt;&lt;BR&gt;Arrêter de me faire perdre mon temps avec ces âneries. Qu'est-ce qui lui prend à cet imbécile d'ingénieur&amp;nbsp;? N'a-t-il donc pas de travail à faire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1301">
+        <Page social="4">Vous n'auriez pas vu où Paesyn est allé, par le plus grand des hasards&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Il examine l'épave."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eh bien, nous devons continuer à progresser.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1206">
+        <Page social="4">Ce qui nous attend ne sera pas facile. Vous venez d'arriver à Val Oriyn. Laissez-nous donc vous conter notre triste destin.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">Nous, les Khiriens, nous résistons aux Archidevans, mais la plupart des miens sont réduits en esclavages. Nous les appelons les Parthes.&lt;BR&gt;&lt;BR&gt;Ils ont un camp dans les environs, mais je ne sais pas s'ils nous laisseront passer sans combattre.&lt;NEXTPAGEBUTTON&gt;"Je vais leur parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'espère que la diplomatie vous sourira.&lt;BR&gt;&lt;BR&gt;Cherchez Pariya. Les Parthes la respectent, mais soyez sur vos gardes.&lt;BR&gt;&lt;BR&gt;Elle est dangereuse.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1015">
+        <Page social="0">Hatishna&amp;nbsp;? Vous croyez à une telle fable popori&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Personne ne résiste au seigneur Dkurion. Vous devriez tous courber l'échine devant lui&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="172" prevId="9" villagerId="1200">
+        <Page social="4">Oh, &lt;PCNAME&gt;&amp;nbsp;! Vous êtes ici&amp;nbsp;! Parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Zolyn a-t-elle vu mon dessin&amp;nbsp;? J'y ai passé plusieurs jours. Et, qu'en a-t-elle dit&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Elle n'a pas eu l'air d'apprécier."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Elle n'apprécie pas mon réalisme abstrait à sa juste valeur. J'ai fait deux jours d'études en beaux-arts à Velika. Je suis donc incollable sur le sujet.</Page>
+    </Text>
+</QuestDialog>

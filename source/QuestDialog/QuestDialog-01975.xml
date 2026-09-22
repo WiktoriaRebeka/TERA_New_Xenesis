@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, je sais ce que je veux cuisiner maintenant ! &lt;BR&gt;Venez me voir sur l'Île de l'aube !&lt;BR&gt;&lt;br&gt;Ollivang</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez apporté la durignite d'un fimbrilisk à Ollivang qui vous a remis le deuxième fragment de la pierre précieuse d'espérance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Ah, vous voilà !&lt;BR&gt;&lt;BR&gt;Mon prochain plat sera la "glace magmatique" !&lt;BR&gt;Pour la préparer, j'ai besoin de durignite de {@linkcreature:13#7005#fimbrilisk cruel}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Oh oui, c'est de la belle durignite !&lt;BR&gt;Elle n'est même pas aussi chaude qu'elle en a l'air, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Je vais pouvoir préparer de la glace avec.&lt;BR&gt;&lt;BR&gt;Chaud devant !&lt;NEXTPAGEBUTTON&gt;"D'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La glace magmatique, c'est un régal. Cette expérience gustative va vous émerveiller !&lt;BR&gt;&lt;BR&gt;Quel génie !&lt;BR&gt;&lt;BR&gt;Goûter vite, vous allez voir !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">Mes plats sont pensés pour des gourmets.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">C'est à la fois chaud et froid, n'est-ce pas ?&lt;BR&gt;C'est l'effet magique de la durignite de fimbrilisk !&lt;BR&gt;&lt;BR&gt;J'ai déjà essayé d'en faire du pain, mais il était bien trop froid...&lt;BR&gt;&lt;BR&gt;C'est comme ça que j'ai découvert cet effet.&lt;NEXTPAGEBUTTON&gt;"Incroyable !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'était parfait !&lt;BR&gt;Je parie que la déesse Velik n'a jamais savouré de telles préparations !&lt;BR&gt;&lt;BR&gt;Tenez, voici le deuxième fragment de pierre précieuse que je vous avais promis.&lt;BR&gt;&lt;BR&gt;N'oubliez pas de me montrer la couronne quand elle sera complète !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="9005">
+        <Page social="0" voiceTypeId="0">La couronne d'éternité devient toujours plus somptueuse.&lt;br&gt;Elle est tout aussi merveilleuse que mon art culinaire ! Hum ! Hum !&lt;BR&gt;&lt;BR&gt;Il vous manque le troisième et dernier fragment, n'est-ce pas ?&lt;NEXTPAGEBUTTON&gt;"De quoi avez-vous besoin cette fois-ci ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est dur de choisir. J'ai trop d'idées géniales qui fourmillent dans ma tête !&lt;BR&gt;&lt;BR&gt;Je vous ferai signe dès que j'aurais choisi un plat.&lt;BR&gt;&lt;BR&gt;Vous savez où me trouver !</Page>
+    </Text>
+</QuestDialog>

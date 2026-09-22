@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3010">
+        <Page social="4">Hé, &lt;PCNAME&gt;&amp;nbsp;! {@LinkCreature:76#3001#Keinbara} m'a demandé de vous envoyer auprès de lui si je vous voyais. Voilà, c'est fait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">Merci d'être {@gender:venu/venue} , &lt;PCNAME&gt;. Non, je n'ai pas de mission pour vous.&lt;BR&gt;&lt;BR&gt;Vous êtes {@gender:un/une} {@gender:chasseur/chasseuse} fantastique, et de loin. Nous avons souhaité vous remettre cette petite récompense.&lt;BR&gt;&lt;BR&gt;Portez-la avec fierté.</Page>
+    </Text>
+</QuestDialog>

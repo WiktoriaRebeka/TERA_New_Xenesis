@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Les golems du {@Rgn:30008$$niveau inférieur des archives} refont parler d'eux.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3004#Kurda} les a identifiés.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">Certains gardiens que les dieux ont placés là ne fonctionnent pas très bien.&lt;BR&gt;&lt;BR&gt;Certains n'ont pas cessé de fonctionner comme prévu, d'autres ont simplement baissé de régime.&lt;BR&gt;&lt;BR&gt;Et aujourd'hui, celui-ci me barre la route.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">La taille ne se fait pas correctement.&lt;BR&gt;&lt;BR&gt;Et je n'arrive pas à trouver comment reprogrammer ce machin.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="3004">
+        <Page social="4">C'en était rempli, avant. Mais quand le refuge a rouvert ses portes, tout a disparu.&lt;BR&gt;&lt;BR&gt;Mais certains spécimens essaient de revenir.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3004">
+        <Page social="4">Je pense que ce gardien était posté dans le Niveau inférieur des Archives.&lt;BR&gt;&lt;BR&gt;C'est sûr, ils ne réalisent même pas qu'ils sont partis&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

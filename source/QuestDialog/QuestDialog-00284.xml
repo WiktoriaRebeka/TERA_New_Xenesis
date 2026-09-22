@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1105">
+        <Page social="4">Ecryl songe à nous faire parvenir des renforts via la plage, mais les {@LinkCreature:10#2#kamaras des bosquets} et les {@LinkCreature:10#3#kamaras vireks} rendent hasardeuse toute tentative de débarquement. Heureusement, nous avons un plan.&lt;BR&gt;&lt;BR&gt;Vous allez tuer les kamaras. Simple, non&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1105">
+        <Page social="4">Très bon travail, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Malheureusement, la demande de renforts d'Ecryl n'a pas abouti, mais voyons le bon côté des choses... La viande de kamara grillée est un délice.</Page>
+    </Text>
+</QuestDialog>

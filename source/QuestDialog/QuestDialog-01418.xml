@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="4">Le moral des troupes remonterait si on avait de quoi leur donner un repas chaud, avec un peu de viande de préférence.&lt;BR&gt;&lt;BR&gt;Ne le prenez pas mal, mais nous avons plus besoin de gens au moral solide que d'armes acérées.&lt;BR&gt;&lt;BR&gt;Vous croyez pouvoir tuer quelques-uns des sangliers qui traînent près de la Chute du Dragon&amp;nbsp;? Ca ferait un bon repas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">Ce n'est peut-être pas héroïque pour un soldat de votre trempe, mais donner de l'espoir à ces gens, c'est parfois la plus grande des victoires.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="80" villagerId="1020">
+        <Page social="0">Si les gens ne voient pas d'amélioration d'ici peu, je crains qu'ils ne craquent et désertent la ville, ce qui reviendrait à offrir sur un plateau à nos ennemis un bastion à deux pas de Kaiator.</Page>
+    </Text>
+</QuestDialog>

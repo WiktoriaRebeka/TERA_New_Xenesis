@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez utilisé le document de Garta puis avez enfourché le Hongre bai volant pour vous poser en haut du charriot. Mais la grenouille de Garta était trop lourde et têtue redescendre. En apprenant cela, Garta s'en est désintéressé et a voulu vous renvoyer. &lt;BR&gt;&lt;BR&gt;Quand vous avez réclamé le document de Rikum, il vous a révélé qu'il s'agissait du document que vous avez utilisé pour votre tentative de sauvetage avortée. Vous avez donc dû admettre à Rikum que Garta vous avait dupé{@g:/e}.&lt;BR&gt;&lt;BR&gt;Il s'est cependant avéré qu'avec ce document, Rikum cherchait à déterminer si l'invocation de montures volantes avait des effets secondaires inconnus. Puisque l'invocation ne vous a causé aucun désagrément, Rikum s'est montré satisfait et vous a remercié{@g:/e} de votre aide.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1501">
+        <Page social="0">Il s'agit probablement de la grenouille de Garta.&lt;BR&gt;Comment une bestiole aussi énorme a-t-elle pu monter là&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;Vous prenez la grenouille avec vous.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La grenouille est trop lourde pour la porter.&lt;BR&gt;Quand vous essayez de l'appâter, elle reste stoïque.&lt;BR&gt;&lt;BR&gt;Allez en informer Garta.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">Krr&amp;nbsp;!? Incapable. Même pas capable rapporter petite grenouille.&lt;BR&gt;Bah, quand grenouille avoir faim, grenouille descendre toute seule. Krrr.&lt;BR&gt;&lt;BR&gt;Garta être au courant. Tu t'en aller. Krrr.&lt;NEXTPAGEBUTTON&gt;"Et le document&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">De quoi parler&amp;nbsp;? Krrrr.&lt;BR&gt;&lt;BR&gt;Garta toi déjà donner document. Mais toi l'utiliser pour voler sur charriot. Krrr.&lt;BR&gt;&lt;BR&gt;Garta toi donner document, toi utiliser document.&lt;BR&gt;Toi arrêter importuner Garta. Krrr.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="1500">
+        <Page social="4">Ah, vous revoilà enfin&amp;nbsp;! Le document est-il intact&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;(Vous lui racontez l'incident avec Garta et la grenouille).&lt;BR&gt;&lt;BR&gt;Comment&amp;nbsp;? Oh non&amp;nbsp;! Cette satanée crapule&amp;nbsp;! Ce document m'était si précieux...&lt;NEXTPAGEBUTTON&gt;"Et maintenant&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bon, pour être tout à fait honnête, ce document n'était qu'une copie. Je l'ai préparée pour voir si son utilisation entraînait des effets secondaire.&lt;BR&gt;Mais puisqu'il ne vous est rien arrivé, il ne semble y avoir aucun problème de ce côté-là.&lt;BR&gt;Je suis désolé que Garta vous ait roulé{@g:/e} dans la farine, mais je suis également surpris que ce rapace vous ait donné le document sans réclamer son argent.&lt;BR&gt;&lt;BR&gt;Bref, merci de votre aide. Tenez, acceptez ce petit dédommagement.</Page>
+    </Text>
+</QuestDialog>

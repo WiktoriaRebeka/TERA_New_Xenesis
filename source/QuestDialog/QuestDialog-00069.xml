@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">J'ai capturé un bandit dans les bois, il y a peu de temps. Il était porteur d'une carte. On dirait bien que les bandits gardent nos marchandises près des points entourés d'un cercle. Ça se trouve dans la &lt;FONT COLOR='#660000'&gt;zone nord-est de la Piste sanglante&amp;nbsp;!&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;C'est notre chance de récupérer nos biens. &lt;PCNAME&gt;, je vous en prie, aidez-nous.&lt;BR&gt;&lt;BR&gt;Si vous allez sur la &lt;FONT COLOR='#660000'&gt;Piste sanglante&lt;/FONT&gt;, vous y trouverez des coffres volés par les Bandits. Rapportez-nous nos marchandises&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1005">
+        <Page social="8">Oh&amp;nbsp;! &lt;PCNAME&gt;, votre aide m'aura définitivement été précieuse. Je pensais ne jamais récupérer ce que les bandits devans m'avaient volé, mais vous avez fait du bon boulot. Les dieux vous le rendront&amp;nbsp;! En tout cas, c'est tout ce que je vous souhaite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1005">
+        <Page social="0">Vous avez trouvé mes marchandises&amp;nbsp;? Ou bien ce sont les devans qui vous sont tombés dessus les premiers&amp;nbsp;? Quelles détestables petites vermines, n'est-ce pas&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

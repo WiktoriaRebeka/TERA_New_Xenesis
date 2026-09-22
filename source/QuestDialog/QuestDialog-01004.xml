@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="18">Quand les prions nous ont chassés du Repaire du Tonnerre, Jabel ne semble pas s'en être sorti. Si Elinu a veillé sur lui, il peut avoir survécu et s'être caché dans les ruines en attendant les secours. Dans le cas contraire...&lt;BR&gt;&lt;BR&gt;Je préfère éviter d'envisager la question pour l'instant. Quelqu'un doit se mettre à sa recherche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1014">
+        <Page social="5">(Jabel est mort. Ses membres raidis enserrent encore un livre.)&lt;NEXTPAGEBUTTON&gt;Examiner le livre&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">(Il est rédigé dans une langue inconnue.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1029">
+        <Page social="5">Si Jabel est mort pour ça, il doit certainement s'agir de quelque chose d'important.&lt;BR&gt;&lt;BR&gt;Voyez si Jerad peut le traduire... il parle au moins une douzaine de langues.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="4" villagerId="1027">
+        <Page social="5">C'est l'ouvrage que vous avez trouvé sur le corps de Jabel&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il a manifestement été rédigé par un prion. Donnez-moi quelques instants...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0">Vous avez le design, mais je vois que vous vous demandez quels matériaux il vous faut pour la forgeobscure, &lt;PCNAME&gt;. Vous avez besoin de revêtements métalliques. J'ai entendu dire que Kerkion et Barbosa ont des morceaux d'une arme d'un autre monde. Vous ne pouvez pas vous battre avec une arme brisée, mais je peux les faire fondre pour en faire un matériel utile. Récupérez deux armes brisée pour que j'ai suffisamment de métal&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">Ces armes seront utilisées pour fabriquer des revêtements métalliques pour l'équipement forgobscur.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" villagerId="5001">
+        <Page social="0">Ce n'est pas facile, &lt;PCNAME&gt; mais je sais que vous pouvez le faire.&lt;BR&gt;&lt;BR&gt;Souriez&amp;nbsp;! Nous n'avons que deux monstres à tuer&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

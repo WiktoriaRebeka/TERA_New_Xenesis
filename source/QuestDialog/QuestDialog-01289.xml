@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez éliminé Shandra Manaya, qui s'était emparée du feu de Sikander possédant la puissance de régénération. En réalisant cet exploit, vous avez mis un terme à la guerre argonne d'Arborea.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Kaia s'est rendue à {@Rgn:76001$$Kanstria} pour y prendre des nouvelles de Shandra Manaya. Allez à sa rencontre et parlez-lui du feu de Sikander dérobé par Shandra Manaya.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1040">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt; !&lt;BR&gt;Que s'est-il donc passé ?&lt;BR&gt;&lt;BR&gt;Le feu de Sikander est...&lt;BR&gt;Il a complètement disparu d'Arborea !&lt;NEXTPAGEBUTTON&gt;"Shandra Manaya l'a emporté."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Shandra Manaya a mis la main sur le feu de Sikander... ?&lt;BR&gt;&lt;BR&gt;C'est une très mauvaise nouvelle. Voilà pourquoi les argons ont emporté la dépouille de Kelsaik. Mais s'ils ont extrait le feu de Sikander de Kelsaik...&lt;BR&gt;&lt;BR&gt;Manahan...&lt;BR&gt;Vous avez vraiment engendré quelque chose de terrible.&lt;BR&gt;Pas étonnant qu'Arun et Shara vous aient emprisonné.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Je ne vous le fais pas dire !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Manahan est... un nom que le monde a oublié, &lt;PCNAME&gt;... et c'est très bien comme ça.&lt;BR&gt;&lt;BR&gt;Ne perdez pas votre objectif de vue. La Flamme de Sikander est un rémanent des forces ayant présidé à la création. Prenez la puissance du Noyau et multipliez-la par mille... ça vous parle&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Entre les griffes de Shandra Manaya, le Feu de Sikander pourrait bien faire rimer création avec destruction et changer la face du monde. Vous devez à tout prix trouver Shandra Manaya et récupérer le Feu de Sikander&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1033">
+        <Page social="1" voiceTypeId="0">J'ai ressenti la mort de Shandra Manaya.&lt;BR&gt;&lt;BR&gt;La guerre est peut-être terminée pour la fédération, &lt;pcname&gt;, mais nous n'avons toujours pas découvert ce qu'ils comptaient faire avec le feu de Sikander.&lt;BR&gt;&lt;BR&gt; Mais malgré tout, vous avez redonné de l'espoir à Arborea, hantée par le spectre de la terreur. &lt;BR&gt;&lt;BR&gt;L'ensemble des dieux et moi-même serons toujours à vos côtés.</Page>
+    </Text>
+</QuestDialog>

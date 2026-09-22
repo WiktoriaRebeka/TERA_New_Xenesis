@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Il vaut mieux qu'un vrai marchand s'occupe des derniers détails du marché. Or, cela implique pour lui de se mettre parfois en danger. Je suis ici pour une raison similaire. &lt;BR&gt;&lt;BR&gt;Un aventurier m'a récemment remis un cuir de grande qualité. Ce cuir est si robuste qu'un couteau suffit à peine à le découper. Je m'en suis servi pour faire des gants d'exception. Les bûcherons en étaient ravis. &lt;NEXTPAGEBUTTON&gt;"Vous m'en direz tant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ca oui... du coup, j'ai essayé de me refaire un stock de ce cuir, mais personne n'en vend et je ne suis pas en mesure d'affronter les bestiaux sur lesquels on le trouve.&lt;BR&gt;&lt;BR&gt;Si vous allez faire un tour dans cette grotte et que vous me rapportez le cuir en question, je vous en donnerai une belle somme.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Ah&amp;nbsp;! Vous avez trouvé le cuir&amp;nbsp;! Et en quantité&amp;nbsp;! Merci, c'est exactement ce qu'il me fallait.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">J'ai vraiment besoin de ce cuir. S'il vous plaît, donnez-moi un coup de main.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">Au cours de mes tentatives de purification de cet endroit, j'ai essayé différentes plantes et composés, mais ça n'a rien donné. Toutefois, je pense pouvoir obtenir des résultats avec la filipendule.&lt;BR&gt;&lt;BR&gt;C'est un désinfectant puissant. Vous pourriez aller en récupérer pour moi&amp;nbsp;? On en trouve dans les environs du village.&lt;BR&gt;&lt;BR&gt;Donnez-les à {@LinkCreature:240#1101#Nevis} pour qu'elle essaie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1101">
+        <Page social="0">Ah, ça fait un joli bouquet de filipendules. C'est bien assez pour entamer mes expériences.&lt;BR&gt;&lt;BR&gt;Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1101">
+        <Page social="0">C'est vrai que la filipendule paraît très prometteuse. Vous pouvez m'en rapporter&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="4">Mon père était bûcheron de métier, mais aussi de cœur&amp;nbsp;: il adorait la nature. Quand il abattait des arbres, il allait toujours replanter un nombre de graines supérieur, en m'expliquant qu'il était capital de rendre à la nature ce qu'elle nous avait offert.&lt;BR&gt;&lt;BR&gt;Il insistait toujours sur l'importance de comprendre les fées et de vivre en harmonie avec ce peuple, dans un respect commun de la nature et de la forêt... mais c'était... avant que tout cela ne se produise. &lt;NEXTPAGEBUTTON&gt;"Quoi&amp;nbsp;? Que s'est-il passé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mon père entretenait de bonnes relations avec les fées vivant à proximité de la forêt. Il était particulièrement proche d'un centaure nommé {@LinkCreature:2#203#Likhan}.&lt;BR&gt;&lt;BR&gt;A écouter ce qu'en disait mon père, j'ai tout d'abord pris les centaures pour des créatures sages et bienveillantes.&lt;BR&gt;&lt;BR&gt;Mais un jour, mon père n'est pas revenu de l'une de ses excursions, alors qu'il était parti rendre visite à Likhan. On a retrouvé son corps lardé de marques de lance et recouvert d'hématomes laissés par des sabots. C'était atroce. &lt;NEXTPAGEBUTTON&gt;"Je suis {@g:désolé/désolée}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Il a été tué d'un coup de lance de ce centaure. Je le sais car j'ai trouvé une décoration unique de lance que {@LinkCreature:2#203#Likhan} portait sur lui. Je ne le lui pardonnerai jamais&amp;nbsp;! Je vous en supplie, &lt;PCNAME&gt;, tuez cette bête malfaisante et vengez la mort de mon père&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1045">
+        <Page social="4">Oh père... je sais que nous nous retrouverons un jour au sein du Rêve.&lt;BR&gt;&lt;BR&gt;Puisses-tu reposer en paix. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

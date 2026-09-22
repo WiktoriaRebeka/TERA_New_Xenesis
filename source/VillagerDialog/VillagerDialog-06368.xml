@@ -1,0 +1,10 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Hein ? Qui... qui êtes-vous ? Crrr !&lt;BR&gt;&lt;BR&gt;(Il s'empresse de dissimuler quelque chose derrière son dos.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Hé ! Pourquoi est-ce que vous me volez mes biens ? Pour qui vous prenez-vous ? Crrr !&lt;TEXTBUTTON&gt;"Qu'est-ce que vous cachez dans votre dos ?"&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;Vous lui montrez votre arme.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bon, bon ! Mais laissez-moi en vie ! Crr...&lt;BR&gt;&lt;BR&gt;(Il vous montre ce qu'il dissimulait. C'est un collier avec un médaillon dans lequel il est possible d'insérer image.)&lt;NEXTPAGEBUTTON&gt;Vous ouvrez le pendentif.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.46904'/&gt;&lt;BR&gt;&lt;BR&gt;(L'image représente Syona et une Élin. Elles semblent être amies.)&lt;EVENTPAGEBUTTON&gt;Vous récupérez le pendentif de Syona.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Nous savons que les troupes argones stationnant ici sont censées rejoindre le Front de Khanovar, mais nous ignorions d'où elles arrivaient. Grâce aux informations qu'Hasmina et vous nous avez fournies, nous savons maintenant comment les argons s'y prennent.&lt;BR&gt;&lt;BR&gt;Et nous allons les arrêter.&lt;NEXTPAGEBUTTON&gt;"Formidable&amp;nbsp;! Et comment&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@LinkCreature:76#1025} a préparé un petit quelque chose pour l'occasion. Il vous fera un topo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1025">
+        <Page social="6">Prenez ces bombes. Elles sont étudiées pour entrer en résonnance avec les ondes harmoniques des transporteurs zolnajs.&lt;BR&gt;&lt;BR&gt;Trouvez un moyen de vous infiltrer dans le {@Rgn:49004}, éliminez les gardiens argons et posez les bombes. On ne peut pas faire plus simple.&lt;BR&gt;&lt;BR&gt;Enfin, faites quand même attention... Un membre arraché par le souffle d'une explosion, ça ne repousse pas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1005">
+        <Page social="6">Hé, des renforts&amp;nbsp;! Enfin une bonne nouvelle&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'ai essayé de détruire le transporteur, mais mes armes ont fait pschitt...&lt;BR&gt;&lt;BR&gt;Enfin, façon de parler....&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, si vous voulez aller y jeter un œil, méfiez-vous. Les argons sont pléthore, dans le coin.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">La destruction du transporteur va empêcher les renforts argons de débouler en trop grand nombre au {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Vous nous avez offert un temps de répit.</Page>
+    </Text>
+</QuestDialog>

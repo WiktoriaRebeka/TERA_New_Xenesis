@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">Les {@LinkCreature:11#2003#sentinelles du Fouet rouge} surveillant la zone en permanence, il nous est impossible de circuler librement dans la grotte.&lt;BR&gt;&lt;BR&gt;Si ces sentinelles venaient à disparaître, nous pourrions accéder facilement aux passages principaux de la grotte depuis le dock.&lt;BR&gt;&lt;BR&gt;A vous de jouer, &lt;PCNAME&gt;. Eliminez ces sentinelles&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1011">
+        <Page social="4">Maintenant, nous allons pouvoir nous aventurer à l'intérieur de la grotte. Pour la Fédération&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1011">
+        <Page social="0">Allez nous débarrasser de ces {@LinkCreature:11#2003#Sentinelles du Fouet rouge}. C'est la première étape.</Page>
+    </Text>
+</QuestDialog>

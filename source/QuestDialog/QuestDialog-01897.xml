@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="4" voiceTypeId="0">La garde personnelle de Thulsa patrouillant dans la Tour d'Ébène forme la Légion sanglante. Grâce à la nécromancie, Thulsa a offert l'immortalité aux soldats de cette unité.&lt;BR&gt;&lt;BR&gt;Leurs cœurs immortels, qui renferment leurs âmes, régénèrent constamment leur énergie vitale.&lt;BR&gt;&lt;BR&gt;Eliminez les soldats de la Légion sanglante et rapportez-moi leurs cœurs. Sans ces derniers, Thulsa sera dans l'incapacité de les ramener à la vie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1034">
+        <Page social="4" voiceTypeId="0">Bien joué, &lt;PCNAME&gt;. Nous allons trouver un moyen de les détruire ou de les enfermer quelque part jusqu'à la fin des temps.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1034">
+        <Page social="0">Pensez à me rapporter le cœur de tous les membres de la Légion sanglante que vous tuerez, sans quoi Thulsa pourra les ressusciter.</Page>
+    </Text>
+</QuestDialog>

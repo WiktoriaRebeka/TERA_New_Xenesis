@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1019">
+        <Page social="5">Les arachnéens se multiplient plus vite que nous ne pouvons les éliminer. Ceux qui se trouvent ici, à Tor Exsul, semblent se nourrir de moutons. &lt;BR&gt;&lt;BR&gt; Êtes-vous disposé à les priver de leur dîner ? Rapportez tous les cadavres de moutons que vous trouverez à l'Avant-poste du feu de mana et nous les brûlerons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1019">
+        <Page social="8">Si les arachnéens sont affamés, peut-être qu'ils penseront à autre chose qu'à se reproduire. Et avec un peu de chance, ils commenceront même à se dévorer entre eux !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1019">
+        <Page social="0">Les arachnéens ne vont pas souffrir de la perte de quelques moutons. Il nous en faut bien plus si nous voulons affamer ces monstres.</Page>
+    </Text>
+</QuestDialog>

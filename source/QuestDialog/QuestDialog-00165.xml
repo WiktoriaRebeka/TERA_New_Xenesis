@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1016">
+        <Page social="5">La proximité de Boquillon nous garantit une sécurité relative, mais je m'inquiète pour les gens de la Ferme de l'écho.&lt;BR&gt;&lt;BR&gt;Vous devriez aller y faire un tour et leur demander s'ils ont besoin d'aide. Sur place, allez parler à Zackran.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1001">
+        <Page social="12">Furlan vous a demandé de venir voir comment je m'en sortais&amp;nbsp;? Je m'en sors comme un type qui veut voir ces foutus bestiaux déguerpir de sa ferme, voilà comment&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Maintenant, au boulot&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

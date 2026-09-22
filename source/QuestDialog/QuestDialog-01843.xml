@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="0">&lt;PCNAME&gt; a restreint les options de renforts des archidevans en détruisant les portes du vortex.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="4">&lt;PCNAME&gt;, pour pouvoir attaquer la forteresse, nous devons réduire leur nombre. Attaquez leurs portails et éliminez ces maudits demokrons&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">Vous avez bien combattu, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Continuons&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

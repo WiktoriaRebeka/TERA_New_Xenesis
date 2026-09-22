@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="4">Pfft...&amp;nbsp;! Je suis ici pour trouver des reliques, mais les érudits pour le compte desquels je travaille m'ont fait dire qu'ils n'étaient plus intéressés&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'ai entendu parler de collectionneurs qui paient très cher pour un collier d'orkan. Le problème, c'est que je ne suis pas vraiment équipé pour chasser le {@LinkCreature:24#11#berserker orkan cornu}.&lt;BR&gt;&lt;BR&gt;Et d'ailleurs, ça vous intéresserait de vous faire un peu d'argent&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je récupère de la marchandise à revendre, vous avez de l'or, la sécurité du camp est renforcée, et les orkans nourrissent les scorpions. Tout le monde y trouve son compte. Vous en dites quoi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1020">
+        <Page social="4">Qui aurait cru que les orkans pouvaient fabriquer d'aussi jolies babioles&amp;nbsp;? Ca devrait se vendre un bon prix&amp;nbsp;! Encore quelques-uns comme ça et je mets le cap sur la côte. Voilà votre part. c'est un plaisir de faire affaire avec vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1020">
+        <Page social="0">Pas d'excuse minable&amp;nbsp;! Si vous avez survécu jusqu'ici, ce ne sont pas quelques orkans qui vont vous faire peur&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Retournez-y et ne salissez pas les bijoux avec leur sang&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

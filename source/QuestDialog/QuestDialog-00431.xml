@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="90" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="4">Pourriez-vous me rendre un service&amp;nbsp;?&lt;BR&gt;&lt;BR&gt; Nous devons installer un bouclier magique autour de notre avant-poste mais nous sommes à court de pierres de relique.&lt;BR&gt;&lt;BR&gt; Aller voire la &lt;b&gt;Maîtresse de téléportation Hermaiorni&lt;/b&gt; à la Base de la Tour et dites-lui que c'est moi qui vous envoie. Elle vous donnera des pierres de relique.&lt;BR&gt;&lt;BR&gt;C'est urgent, donc veuillez utiliser le &lt;b&gt;Parchemin de téléportation&lt;/b&gt; pour vous déplacer plus rapidement. Vous pouvez utiliser le service de téléportation Hermaiorni pour revenir. Faites vite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1050">
+        <Page social="4">C'est Fili qui vous envoie&amp;nbsp;? Elle connaît bien les règles d'approvisionnement et pourtant, pas moyen de lui faire respecter le protocole.&lt;BR&gt;&lt;BR&gt;Nous aurions pu nous débrouiller simplement entre nous, mais il a fallu qu'elle fasse intervenir une tierce personne. Quoi qu'il en soit, je peux satisfaire ses besoins et vous montrer par la même occasion comment fonctionne la &lt;b&gt;téléportation&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Pour le voyageur, il n'y a rien de plus simple. Une fois que vous avez visité un endroit, les &lt;b&gt;maîtres de téléportation&lt;/b&gt; comme moi peuvent vous y renvoyer directement.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1141">
+        <Page social="4">Vous êtes venu&amp;nbsp;! Merci&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;N'oubliez pas qu'un parchemin de téléportation ou un maître de téléportation sont des moyens très pratiques de se déplacer.</Page>
+    </Text>
+</QuestDialog>

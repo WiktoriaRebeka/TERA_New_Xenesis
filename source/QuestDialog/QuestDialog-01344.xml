@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion vous a fourni une information capitale&amp;nbsp;: le moyen de vous introduire dans la Tour d'Ébène, la forteresse de Thulsa. Mais il vous fallait pour cela entrer en possession d'une clé&amp;nbsp;: une gemme appartenant à Killian, le dieu du chaos. Elion et Jelena vous ont accompagné au Labyrinthe de la Terreur, la demeure de Killian. Sur place, Elion s'est interposé pour vous protéger d'un sort qui vous était adressé... au péril de sa vie...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">{@gender:Cher/Chère} &lt;PCNAME&gt;... on dirait bien que nous allons devoir combattre une fois de plus côte à côte. Thulsa et Killian ont réveillé Kelsaik, mais vous les avez empêchés de prendre le contrôle de la créature.&lt;BR&gt;&lt;BR&gt;Kelsaik ne doit pas se trouver bien loin de Thulsa... C'est préoccupant, mais d'un autre côté, ça nous donne une belle opportunité. Jelena et moi savons où Thulsa se trouve&amp;nbsp;: il se cache dans la Vallée des Aiguilles, à Lorcada.&lt;BR&gt;&lt;BR&gt;Nous devrions discuter de tout ça de vive voix. Je vous retrouverai à l'atelier du forgeron.&lt;BR&gt;&lt;BR&gt;Bien à vous - Elion</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5002">
+        <Page social="4" voiceTypeId="0">Cela faisait bien longtemps, &lt;PCNAME&gt;.&lt;BR&gt;Thulsa... Killian... et Kelsaik. Vous voilà encore fourré dans une affaire bien épineuse.&lt;BR&gt;Je suis ici pour vous aider.&lt;BR&gt;&lt;BR&gt;La Tour d'ébène...&lt;BR&gt;C'est bien la tour qui est apparue un beau jour dans la Vallée des aiguilles, au nord de Shara. J'ai la certitude que c'est là que se trouve Thulsa. Mais Thulsa a verrouillé la Tour d'ébène.&lt;NEXTPAGEBUTTON&gt;"Et que faire maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Nous avons besoin de la gemme incrustée sur le Bâton de Killian. Sans elle, nous ne pourrons pas entrer dans la Tour d'ébène. Si nous n'éliminons pas Killian, nous ne pourrons pas non plus vaincre Thulsa et Kelsaik.&lt;BR&gt;&lt;BR&gt;Or, j'ai encore un compte à régler avec Thulsa ! &lt;BR&gt;Aidez-moi donc à éliminer Killian et Thulsa.&lt;BR&gt;Killian se trouve dans le Labyrinthe de la terreur. &lt;BR&gt;Je vais vous y emmener.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1105">
+        <Page social="1" voiceTypeId="0">Nous venons de rompre le sceau. &lt;BR&gt;Jelena s'est déjà mise en route. &lt;BR&gt;Nous devrions y aller.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3008" prevId="4" villagerId="1019">
+        <Page social="1" voiceTypeId="0">Je vais ramener Élion.&lt;BR&gt;Je m'excuse de ne pas pouvoir vous aider. &lt;BR&gt;Mais je ne peux pas abandonner Élion.&lt;NEXTPAGEBUTTON&gt;"Je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous allez y arriver. Ça ne fait aucun doute. &lt;BR&gt;Je vais vous attendre à Habere.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3008" prevId="5" villagerId="1500">
+        <Page social="1" voiceTypeId="0">(Cette phrase est bien étrange : "Puisse celui qui a trouvé cet endroit trouver l'extase dans les cris de douleurs.")</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3008" prevId="6" villagerId="1021">
+        <Page social="1" voiceTypeId="0">Vous avez extrait la gemme du bâton de Killian qui donne accès à la Tour d'Ébène.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1103">
+        <Page social="1" voiceTypeId="0">Ainsi, vous avez réussi, &lt;PCNAME&gt;... &lt;BR&gt;&lt;BR&gt;Élion est dans un état critique. Nos guérisseurs ne savent pas s'il va réussir à s'en remettre. &lt;BR&gt;&lt;BR&gt;C'est peut-être un peu égoïste, mais j'aimerais rester à ses côtés. Je pourrais éventuellement faire quelque chose pour lui. &lt;BR&gt;&lt;BR&gt;Je refuse de l'abandonner... &lt;NEXTPAGEBUTTON&gt;"Je comprends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pardonnez-moi, &lt;PCNAME&gt;. C'est à vous qu'il incombe désormais d'éliminer Kelsaik.&lt;BR&gt;&lt;BR&gt;Je crois en vous.&lt;BR&gt;Puisse la bénédiction de la déesse Kaia vous accompagner.</Page>
+    </Text>
+</QuestDialog>

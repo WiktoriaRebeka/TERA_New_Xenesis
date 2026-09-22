@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Vidé&amp;nbsp;? Il a été vidé de son sang&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bon, il se trouve précisément qu'un groupe de soldats est en train de se rendre sur place. Rejoignez-les dans la Plaine biscornue et présentez votre rapport à {@LinkCreature:216#1012#Ludin}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">C'est Paka qui vous envoie&amp;nbsp;? D'accord, bien. Vous voyez cette colonne d'ennemis, là-bas&amp;nbsp;? Ils tuent tout ce qui s'approche d'eux, et nous ne pouvons plus accéder au village.&lt;BR&gt;&lt;BR&gt;Faites votre possible pour nous aider.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="4">Mon {@gender:ami/amie}, j'aimerais pouvoir étudier l'arbre casian, mais le chemin qui y mène n'est pas sûr. Puis-je compter sur vos talents de {@gender:combattant/combattante} pour arriver à bon port&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Bien sûr."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Formidable... L'endroit en question se trouve au nord-ouest. Faites-moi signe quand vous serez {@gender:prêt/prête} à partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="49" villagerId="35">
+        <Page social="0">Vous êtes {@gender:prêt/prête}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="2" villagerId="1001">
+        <Page social="6">A couper le souffle, n'est-ce pas&amp;nbsp;? Oh, regardez... Un petit sanctuaire.&lt;BR&gt;&lt;BR&gt;Quelque chose me dit que cette petite virée va être payante.</Page>
+    </Text>
+</QuestDialog>

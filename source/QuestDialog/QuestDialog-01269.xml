@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">Nous sommes en train de préparer une offensive contre les argons. Evidemment, nous allons avoir besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Nous aimerions nous débarrasser d'un certain nombre de surveillants akalaths du {@Rgn:49004}.&lt;BR&gt;&lt;BR&gt;Eliminez-les.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1033">
+        <Page social="6">Vous avez fait du très bon boulot. Je vais faire parvenir les nouvelles au haut commandement.&lt;BR&gt;&lt;BR&gt;Si vous en avez le temps, prenez un peu de repos. Vous l'avez bien mérité.</Page>
+    </Text>
+</QuestDialog>

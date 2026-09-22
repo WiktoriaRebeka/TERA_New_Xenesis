@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1004">
+        <Page social="4">Vous avez remarqué les armes dont disposent ces {@LinkCreature:19#4000#enragés de Lok}&amp;nbsp;? Je donnerais cher pour en voir une de près.&lt;BR&gt;&lt;BR&gt;Dites... Si vous trouviez le moyen de m'en procurer quelques-unes, je pourrais les faire parvenir à Velika où le haut commandement se chargerait de les faire produire en masse pour les soldats de la Fédération.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Formidable&amp;nbsp;! Je les envoie à Velika sur-le-champ.&lt;BR&gt;&lt;BR&gt;Oh, c'est formidable, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;... Comment&amp;nbsp;? Il se trouve que j'aime les nouvelles armes. Les miennes sont un peu dépassées.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1004">
+        <Page social="0">Ça vous pose un problème de détourner les ressources de l'ennemi pour nous renforcer&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je trouve que c'est la stratégie la plus sage.</Page>
+    </Text>
+</QuestDialog>

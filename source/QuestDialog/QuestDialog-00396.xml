@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="4">Jehan a placé de la nourriture contenant de petits détecteurs dans les pâturages situés au &lt;b&gt;sud&lt;/b&gt;. Comme prévu, les {@LinkCreature:13#300920#noruks broussailleux} les ont détruits ou mangés.&lt;BR&gt;&lt;BR&gt;En temps normal, je n'aime pas devoir m'en prendre à d'aussi nobles gardiens, mais Jehan tient à récupérer ses &lt;font color='#660000'&gt;jauges d'énergie&lt;/font&gt;. Vous pourriez aller nous les chercher&amp;nbsp;? Je m'en occuperais bien en personne, mais je me suis blessé à la cheville, et mon escorte... refuse de me donner un coup de main.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Kamarnu sait choisir ses agents. Ces jauges vont nous permettre de comprendre ce qui affecte les gardiens de cette île.&lt;BR&gt;&lt;BR&gt;Sachant à quel point vous avez su vous montrer utile aux chercheurs, vous n'allez pas manquer de travail, au camp. Vous devriez rester dans les environs, nous avons d'autres missions à vous confier.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Kamarnu a des ordres, mais il tire au flanc. Les jauges d'énergie ont un temps de vie limité. Chaque {@LinkCreature:13#300920#noruk broussailleux} qui se promène en liberté sans être examiné est une chance que nous laissons passer.</Page>
+    </Text>
+</QuestDialog>

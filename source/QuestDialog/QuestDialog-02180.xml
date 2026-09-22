@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Plusieurs érudits ont noté les changements sur les pierres exposées au nexus. Si nous pouvions identifier l'agent déclencheur, nous pourrions élaborer une contre-mesure.&lt;BR&gt;&lt;BR&gt;Il nous faut des fragments nexulitiques. {@gender:Prêt/Prête} à relever le défi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">Nous allons immédiatement examiner ces échantillons. Il doit y avoir un lien.&lt;BR&gt;&lt;BR&gt;Vous avez toute notre gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">Vous trouverez des fragments dans les débris de la montagne corrompue partout où un nexus s'est formé récemment. Quadrillez le district d'Helkan et Val Kaeli.</Page>
+    </Text>
+</QuestDialog>

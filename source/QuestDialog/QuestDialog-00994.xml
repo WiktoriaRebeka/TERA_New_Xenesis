@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="4">Ce sont peut-être les trésors de Ger ou la perspective d'un bon combat qui donnent des palpitations à notre {@gender:bon/bonne} &lt;PCNAME&gt;. Quoi qu'il en soit, notre commandant du Quartier de la Falaise aux Perchoirs n'a pas semblé apprécier les derniers renforts que nous avons envoyés.&lt;BR&gt;&lt;BR&gt;En envoyant une recrue aussi aguerrie que l'illustre &lt;PCNAME&gt;, nous rentrerons peut-être dans les bonnes grâces d'Areish.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1006">
+        <Page social="4">A quoi Raynor pensait-il quand il m'a envoyé Elraine&amp;nbsp;? Il a dit "mieux vaut elle que personne".&lt;BR&gt;&lt;BR&gt;En fait, il aurait mieux valu personne. Donc, étant donné qu'elle est complètement incapable de faire son travail, c'est vous qui allez vous en occuper, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Au sud-est, se trouvent des ruines dans lesquelles nous travaillions avant que les prions ne débarquent. Vous allez devoir éliminer leurs chefs, Veriksha et Narak, et en profiter pour réduire un peu la population de prions, afin que nous puissions reprendre le travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1006">
+        <Page social="6">Vous avez fait du bon boulot, mais je me demande combien de temps durera ce répit. Là où se trouvent les prions, Saleron ne peut pas être bien loin, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les dieux, leurs plans, et nous... perdus au milieu... c'est toujours la même histoire.</Page>
+    </Text>
+</QuestDialog>

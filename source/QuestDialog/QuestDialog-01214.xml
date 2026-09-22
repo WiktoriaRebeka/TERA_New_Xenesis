@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="4">Soldat, j'ai besoin d'une estafette. Après ce dernier assaut argon, nos lignes de communication ont été fermées. Nous ne pouvons pas continuer comme ça.&lt;NEXTPAGEBUTTON&gt;"Je vous aiderai avec plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent. Rendez-vous à la {@Rgn:48004} et remettez ces ordres à {@LinkCreature:248#1015}. Eh chemin, essayez de trouver {@LinkCreature:78#1012} près de la {@Rgn:78001} et ordonnez-lui de rentrer à la base.&lt;BR&gt;&lt;BR&gt;Rompez.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1012">
+        <Page social="4">Rentrer à la base&amp;nbsp;? Mais je n'ai pas terminé de distribuer le ravitaillement.&lt;BR&gt;&lt;BR&gt;Ce sont des vivres périssables. Vous pourriez les déposer de ma part&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Si c'est sur mon chemin, avec plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Super&amp;nbsp;! {@LinkCreature:78#1009} a rôti des porcidés pour les forgerons du {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Retrouvez {@LinkCreature:248#1044}, au sud-est de la forteresse. Vous le reconnaîtrez, c'est un aman avec un gros marteau qui doit avoir très faim...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1044">
+        <Page social="6">Par les titans, ça sent bon&amp;nbsp;! Je ne me rappelle même plus la dernière fois que j'ai mangé de la viande fraîche&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il ne reste plus qu'à survivre le temps d'en profiter.&lt;NEXTPAGEBUTTON&gt;"Des problèmes avec les argons&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Toujours. Si vous allez à la {@Rgn:78001}, pourriez-vous tuer quelques horreurs cadavériques argonomorphes pour moi&amp;nbsp;? C'est sur votre chemin et cela m'aiderait à protéger nos hommes.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="1015">
+        <Page social="6">C'est un plaisir de vous rencontrer, &lt;PCNAME&gt;. Muhrak m'a dit beaucoup de bien de vous.&lt;BR&gt;&lt;BR&gt;Merci pour les ordres. Quand nous nous sommes retrouvés isolés, je me suis demandé si nous devions vraiment rester. Mais si nous parvenions à maîtriser la technologie argone, cela changerait la guerre.&lt;BR&gt;&lt;BR&gt;J'espère que le jeu en vaut la chandelle.</Page>
+    </Text>
+</QuestDialog>

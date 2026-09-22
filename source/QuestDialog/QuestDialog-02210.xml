@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9904">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, vous avez empoché beaucoup d'insignes de pêche ?&lt;BR&gt;Vous pouvez vous en servir pour faire évoluer votre canne à pêche.&lt;BR&gt;Une canne à pêche évoluée, quant à elle, vous permet d'attraper des poissons plus retors.&lt;BR&gt;Si vous voulez en savoir plus à ce sujet, je vous envoie au Marais Vexatus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Au bord du Marais Vexatus, vous avez appris comment fonctionne l'évolution des cannes à pêche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Êtes-vous prêt à vous rendre sur le Site de pêche du Marais Vexatus ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Alors saluez bien le responsable du Marais Vexatus de ma part.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">Argh ! Doucement ! Vous allez nous faire fuir tous les poissons avec votre vacarme.&lt;BR&gt;C'est compris ? C'est le responsable du Lac des larmes qui vous envoie ?&lt;BR&gt;Alors excusez-moi ! Je suis un peu irritable parce que j'épie les poissons.&lt;BR&gt;&lt;BR&gt;Pourquoi ne m'aidez-vous pas ?  &lt;NEXTPAGEBUTTON&gt;"C'est d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Plus vous faites évoluer votre canne à pêche, plus vous pourrez attraper de poissons difficiles.&lt;BR&gt;Vous avez sans doute déjà acheté une canne dans la boutique, avec vos insignes de pêche, non ?&lt;BR&gt;Alors essayez donc d'attraper des poissons de rang supérieur.&lt;BR&gt;&lt;BR&gt;Pourriez-vous me capturer un carassin [rang 3] sur le Site de pêche du Marais Vexatus ?&lt;BR&gt;En échange, je vous donnerai un bon appât collant.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Vous l'avez ! C'est de l'excellent travail.&lt;BR&gt;&lt;BR&gt;Je n'ai rien de plus à vous apprendre.&lt;BR&gt;&lt;BR&gt;Chaque site de pêche abrite un poisson géant, surnommé sacrée bestiole. Il ne reste jamais au même endroit et vous devez pêcher vous-même pour pouvoir le capturer. Cependant, les chances de l'attraper sont très minces.&lt;BR&gt;Tentez donc votre chance quand la météo est favorable.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Puisque la fédération de pêche se met encore en place, nous avons besoin de l'aide de débutants comme vous, &lt;PCNAME&gt;.&lt;BR&gt;Rendez-vous donc sur les autres sites de pêche et voyez comment vous pouvez vous rendre utile.&lt;BR&gt;La fédération vous récompensera dignement.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9904">
+        <Page social="0">Vous avez attrapé le carassin ? Pour le capturer, vous devez impérativement utiliser une canne à pêche de rang approprié.&lt;BR&gt;Si, par-dessus le marché, vous utilisez un appât collant de haut rang, ça ne devrait pas être bien difficile.</Page>
+    </Text>
+</QuestDialog>

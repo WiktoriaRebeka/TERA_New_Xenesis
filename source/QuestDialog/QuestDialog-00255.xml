@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0">C'est simple, &lt;PCCLASS:lcase&gt;. Les têtes des {@LinkCreature:9#430#taille-tripes gulas} ont été mises à prix.&lt;BR&gt;&lt;BR&gt;Pour quelles raisons&amp;nbsp;? Crimes contre la Fédération, homicides, cannibalisme... des charges auxquelles j'ajoute à titre personnel leur obésité répugnante et leur laideur inique.&lt;BR&gt;&lt;BR&gt;Et pensez à me rapporter leurs couteaux en preuve du travail accompli, entendu&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Vous avez des couteaux, j'ai de l'argent. Pas la peine de palabrer des heures.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Regardez la créature et demandez-vous si on pourrait faire plus adipeux et plus repoussant.&lt;BR&gt;&lt;BR&gt;Si la réponse est non, alors il n'y a pas de doute, c'est bien un {@LinkCreature:9#430#taille-tripes gulas}.&lt;BR&gt;&lt;BR&gt;A moins qu'il ne s'agisse de votre mère.</Page>
+    </Text>
+</QuestDialog>

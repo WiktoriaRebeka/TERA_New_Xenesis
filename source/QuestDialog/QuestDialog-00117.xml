@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">Le Mysterium nous assure qu'il ne sait rien sur les pylônes cachés dans toute la Montagne Fyr. Vous avez peut-être déjà eu affaire au pylône cruental&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Lorsque mon peuple est incapable de se rappeler d'une réponse, nous devons l'apprendre de nouveau. D'où cette enquête...&lt;NEXTPAGEBUTTON&gt;"Je n'ai rien d'un sage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La quête de connaissances n'est pas réservée aux sages, &lt;PCNAME&gt;. Les interactions passées avec le pylône cruental ont prouvé qu'il était question de magie des shurians.&lt;BR&gt;&lt;BR&gt;Si leur magie s'inverse, alors tous pylônes du réseau de défense n'auront plus aucune utilité.&lt;BR&gt;&lt;BR&gt;Et quel est le plus puissant symbole d'inversion&amp;nbsp;? Un miroir... comme ceux que transportent les {@LinkCreature:4#3041#asservisseuses d'esprit shurians} et leurs {@LinkCreature:4#3042#serviteurs hellions}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Ca y est, la première étape en vue de...&lt;BR&gt;&lt;BR&gt;L'inversion&amp;nbsp;! complète&amp;nbsp;! de la magie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nos projets commencent à prendre de la vitesse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">Les {@LinkCreature:4#3041#soumetteurs d'esprit shurians} ont les miroirs nécessaires pour l'inversion... complète... de la magie&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

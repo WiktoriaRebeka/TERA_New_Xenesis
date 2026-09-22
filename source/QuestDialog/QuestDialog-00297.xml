@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">Les nagas ont confié la supervision de l'opération visant à réveiller Dagon à l'une des leurs.&lt;BR&gt;&lt;BR&gt;Vous voyez certainement où je veux en venir, alors n'atermoyons pas. Votre cible se nomme {@LinkCreature:10#19#Siraxatol}. Allez la tuer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Nous sommes en train de déborder les nagas. Ces créatures n'ont pas le temps de régler un problème que nous leur donnons de nouvelles raisons de se faire du mouron.&lt;BR&gt;&lt;BR&gt;Et c'est à votre diligence que nous le devons, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="810" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Un petit groupe de Devans a découvert une prison secrète, cachée au cœur du précipice. Il s'agit d'une prison dont nous supposons qu'elle n'abrite qu'un seul prisonnier&amp;nbsp;: le dieu Lakan. &lt;BR&gt;&lt;BR&gt;Nous avons envoyé une troupe d'éclaireurs d'élite pour avoir confirmation, mais nous avons perdu contact avec eux sitôt après qu'ils ont rencontré la chef des Devans, une sorcière nommée Risalke.&lt;BR&gt;&lt;BR&gt;Les Devans ne savent peut-être pas de qui est la prison qu'ils profanent, mais il est impossible que Risalke l'ignore. Nous ne pouvons la laisser voler le pouvoir de Lakan ou, pire encore, libérer ce dernier. Vous devez vous y rendre et l'arrêter.&lt;BR&gt;&lt;BR&gt;Vous trouverez l'entrée de la Prison de Lakan à l'ouest du Bois de l'Oubli.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="810" prevId="2" villagerId="510">
+        <Page social="0">Par ici...&lt;BR&gt;&lt;BR&gt;Content que vous ayez réussi. Je suis le seul à avoir survécu. Tous les autres membres de ma troupe sont morts, décimés, soit par les Devans, soit par Trolok, le garde du corps de Risalke.&lt;BR&gt;&lt;BR&gt;Vous devez arrêter Risalke. Elle se trouve dans la prison, en train de négocier avec Lakan. Elle lui promet la liberté en échange de son pouvoir. Et si Lakan vient à s'échapper ou bien même si elle obtient une fraction de son pouvoir, le monde tout entier court à sa perte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1009">
+        <Page social="0">Vous avez réussi&amp;nbsp;! Vous avez sauvé le monde entier.&lt;BR&gt;&lt;BR&gt;Ce n'est peut-être pas la seule entrée vers la Prison de Lakan, mais nous ferons notre possible pour qu'elle reste scellée, afin que ceci ne se reproduise jamais.&lt;BR&gt;&lt;BR&gt;Et si nous échouons, au moins, nous savons que nous pouvons compter sur vous.</Page>
+    </Text>
+</QuestDialog>

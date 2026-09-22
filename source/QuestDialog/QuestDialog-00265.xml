@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Excusez-moi... Mon époux, Arimol, est un sorcier du Mysterium.&lt;BR&gt;&lt;BR&gt;Il m'envoyait régulièrement des lettres, mais depuis qu'il a été affecté ici, je suis sans nouvelles.&lt;BR&gt;&lt;BR&gt;J'ai essayé de rencontrer {@LinkCreature:209#1005$$Tryphena}, mais il est impossible pour les civils de l'approcher. Pourriez-vous aller prendre des nouvelles de mon mari&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Arimol&amp;nbsp;? Ce nom ne me dit rien. Laissez-moi jeter un œil au registre.&lt;BR&gt;&lt;BR&gt;Ah, nous y voilà. Il semblerait que... Oh...&lt;BR&gt;&lt;BR&gt;Il est... Enfin... Je vais devoir vous charger de transmettre mes condoléances à sa veuve.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1012">
+        <Page social="4">Oh...&lt;BR&gt;&lt;BR&gt;Je... Merci de votre aide.&lt;BR&gt;&lt;BR&gt;Ne m'en veuillez pas, mais je crois que je vais avoir besoin de rester seule un moment.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez rencontré Rikum, l'ingénieur de vol du Poste de commerce d'Amadjuak. Afin de l'aider à récupérer son document de recherche,  gagé auprès de Garta, vous avez rendu visite à ce dernier pour vérifier si le document était endommagé.&lt;BR&gt;&lt;BR&gt;Puisque le délai de remboursement de Rikum était écoulé, vous avez accepté de rendre un service à Garta en échange du rapport de Rikum. Vous avez été chargé{@g:/e} de retrouver la grenouille de Garta. Celle-ci se nichait tout en haut d'un chariot et, pour vous permettre de la sortir de là, Garta vous a confié un document mystérieux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1500">
+        <Page social="4">Vous accepteriez de m'aider&amp;nbsp;?&lt;BR&gt;Pour pouvoir continuer mes recherches, j'ai emprunté un peu d'argent à Garta, au Poste de commerce d'Amadjuak.&lt;BR&gt;En échange, ce rapace a exigé que j'engage un document contenant mes notes de recherches, très précieux à mes yeux.&lt;NEXTPAGEBUTTON&gt;Vous écoutez la suite.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je peux désormais lui rendre l'argent emprunté et récupérer mon document. &lt;BR&gt;&lt;BR&gt;Mais j'ai peur qu'il l'ait endommagé. Après tout, il ne s'intéresse qu'à l'argent.&lt;BR&gt;Vous voulez bien aller le voir pour vérifier qu'il n'a pas maltraité mon document&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">Krr&amp;nbsp;? Grassouillet être mal barré&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Qu'importe. Document m'appartenir.&lt;BR&gt;Argent aurait dû rembourser plus vite. C'être à moi maintenant. Krrr&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Nous pouvons peut-être trouver un arrangement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">Krrr, si tu vouloir aider, Garta réfléchir.&lt;BR&gt;&lt;BR&gt;Adorable grenouille de Garta disparaître ce matin.&lt;BR&gt;Elle aimer toutes choses brillantes.&lt;BR&gt;Sans doute bondir jusqu'au marchand de cristaux. Krr.&lt;BR&gt;&lt;BR&gt;Rapporter grenouille à Garta et Garta redonner documents de grassouillet. Krrrr.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2904">
+        <Page social="0">Comment&amp;nbsp;? La grenouille de Garta&amp;nbsp;?&lt;BR&gt;Cette bestiole ne s'intéresse qu'à ce qui brille, comme son maître... Je l'ai vue bondir dans les parages, tout à l'heure, mais je l'ai chassée...&lt;BR&gt;&lt;BR&gt;Vous voyez cet énorme charriot, là-bas&amp;nbsp? Je crois qu'elle est partie dans cette direction.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2002">
+        <Page social="3">Krr&amp;nbsp;? Adorable grenouille aimer hauteur. Vouloir peut-être des ailes. Et donc grimper là-haut.&lt;BR&gt;Tenez, prendre ça. Si tu l'utiliser, tu pouvoir atteindre grenouille. Krrr.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="4">Psssst&amp;nbsp;! Hé, vous&amp;nbsp;! Rendez-moi service. Je suis infiltré. Vous aviez remarqué&amp;nbsp;? Mais je commence à manquer de bons déguisements.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller me chercher les vêtements de ces {@LinkCreature:40#2#pantins berserkers} et {@LinkCreature:40#10#travailleurs fous}&amp;nbsp;? Je pourrais en faire d’excellents déguisements&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et n’en parlez pas à Narpa, d’accord&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Attendez de voir les déguisements que je vais confectionner avec ça&amp;nbsp;! Ca reste entre nous, hein&amp;nbsp;? Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1036">
+        <Page social="0">Pssssst&amp;nbsp;! Vous m’avez récupéré ces habits de {@LinkCreature:40#2#pantins berserkers} et de {@LinkCreature:40#10#travailleurs fous}&amp;nbsp;? J’en ai vraiment besoin&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

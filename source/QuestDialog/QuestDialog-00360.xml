@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="5">Même aujourd'hui, les habitants de nos Fédérations sont vendus comme esclaves dans les Prisons de la Pluie. Nous ne pouvons pas laisser le Syndicat Kazuur s'enrichir aux dépens de notre peuple&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Rassemblez vos alliés et frappez les {@LinkCreature:12#17#maraudeurs du Fouet rouge}. Ils sont le bras armé du Syndicat.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1004">
+        <Page social="5">Maintenant que les esclavagistes et les pirates appartiennent au passé, la région va pouvoir envisager de participer à l'effort de guerre.&lt;BR&gt;&lt;BR&gt;Depuis le début de cette guerre, la population locale ne s'est jamais autant sentie en sécurité. Je sais que les nagas et les gulas n'ont pas disparu de la région, mais vous nous avez prouvé qu'ils n'étaient pas invulnérables.&lt;BR&gt;&lt;BR&gt;Nous pouvons gagner cette guerre&amp;nbsp;! La Fédération est plus solide que jamais&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

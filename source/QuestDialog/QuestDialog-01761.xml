@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Les effets de la potion se sont soudainement dissipés en plein territoire ennemi, mais &lt;PCNAME&gt; a rapidement pu s'échapper, en tuant des ennemis sur sa route.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(La potion d'invisibilité s'est dissipée&amp;nbsp;! Les Parthes peuvent vous voir et ils n'en ont pas l'air ravi&amp;nbsp;!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">J'ai parlé à Hagand qui m'a dit qu'il vous avait donné une potion d'invisibilité. Vous ne vous en êtes pas donné la peine&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ça, c'est &lt;PCNAME&gt; tout{@g:/e} craché{@g:/e}&amp;nbsp;! Pas étonnant que tout le monde ne parle que de vous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous avez obtenu les Pierres de relativité&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"J'en ramène une bonne douzaine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

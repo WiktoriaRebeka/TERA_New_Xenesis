@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Thulsa craint pour sa misérable carcasse... il a fait rassembler ses troupes.&lt;BR&gt;&lt;BR&gt;Il a rappelé ses chamanes et gardes de la Tour d'Ébène, ainsi que les gardes, les tourne-douleurs arachnéens et autres serviteurs d'angoisse normalement affectés à d'autres contingents.&lt;BR&gt;&lt;BR&gt;Il commence à manquer de troupes. Allez ruiner ses efforts&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Fantastique&amp;nbsp;! Si vous n'êtes pas {@gender:béni/bénie} par Kaia, je me demande qui peut l'être.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1035">
+        <Page social="0">Si la voie de la vertu est de montrer de la compassion pour les serviteurs du mal, alors je choisis la voie du vice&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

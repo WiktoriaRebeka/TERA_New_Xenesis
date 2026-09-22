@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="402" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(La pierre est couverte de marques aussi étranges qu'elles vous sont familières. Vous ressentez la présence d'une grande puissance endormie dans les parages.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Une épreuve vous attend, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Êtes-vous prêt ?&lt;TEXTBUTTON&gt;Vous lisez l'inscription.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous dites que vous êtes prêt.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

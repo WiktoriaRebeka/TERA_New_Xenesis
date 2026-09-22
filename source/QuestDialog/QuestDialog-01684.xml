@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">L'artisanat dans l'effort de guerre&lt;BR&gt;&lt;BR&gt;Soutenez la Fédération et l'effort de guerre en fabriquant des bâtons&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1606">
+        <Page social="0">Oui, on manque de bâtons. Allez voir Nunahd au Rocher de la désolation, il détient le plan qui vous aidera à fabriquer des bâtons d'officier. Vous pouvez aller le récupérer&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1004">
+        <Page social="0">C'est Jennes qui vous envoie&amp;nbsp;? Vous voulez un plan, n'est-ce pas&amp;nbsp;? C'est votre jour de chance.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1606">
+        <Page social="0">L'important désormais est de faire parvenir ce plan à un maximum d'artisans. En tant qu'artisan, vous devriez nous aider.&lt;BR&gt;&lt;BR&gt;Prenez le plan de fabrication de ce bâton d'officier et gravez-le dans votre tête.</Page>
+    </Text>
+</QuestDialog>

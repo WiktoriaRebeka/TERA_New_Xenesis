@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="4">Dans ses recherches, Linkia parlait de la reine argone... Shandra Manaya. Elle ferait manifestement une cible de choix.&lt;BR&gt;&lt;BR&gt;Je vais donc vous demander d'aller prêter main-forte à {@LinkCreature:250#1003}. Si nous parvenons à découvrir où se terre la reine argone, nous l'éliminerons... ou nous mourrons en essayant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1003">
+        <Page social="6">Je ne voudrais pas vous donner de faux espoirs, mais je trouve le dispositif de sécurité particulièrement renforcé, dans le coin. Que la reine se trouve ici ou pas, les argons n'ont pas l'air de tenir à ce que nous venions jouer les chiens dans leur jeu de quilles.&lt;BR&gt;&lt;BR&gt;Si vous parvenez à tuer Dulixan et ses gardiens prismars, je pourrai faire une reconnaissance pour Medhvan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1008">
+        <Page social="6">Formidable&amp;nbsp;! Ha&amp;nbsp;! J'ai le sang qui bout à l'idée d'écraser cette vermine&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais faire parvenir ces informations à Kaiator au plus vite. C'est du bon boulot, soldat&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

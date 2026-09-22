@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">Beaucoup de villageois sont tombés par ici. Malheureusement, leurs âmes sont emprisonnées dans le manoir et protègent les vampires qui ont causé leur décès. &lt;BR&gt;&lt;BR&gt;Leurs âmes se sont changées en démons qui hantent le manoir. Leurs corps se tortillent et n'arrivent pas à quitter les lieux. &lt;BR&gt;&lt;BR&gt;Éliminez donc les spectres sépulcraux et les cobayes déments pour libérer leurs âmes. Ramenez-moi donc l'essence de leurs âmes corrompues.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Les corps sont morts il y a longtemps, mais leurs âmes vont pouvoir enfin retourner dans le Rêve. Nous en sortons tous enrichis&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">S'il vous plaît&amp;nbsp;! Même les spectres méritent mieux que ça&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

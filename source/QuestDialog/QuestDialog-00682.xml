@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="4">C'est la faillite&amp;nbsp;! Ces saletés de fouaille-tripes ont pris mes marchandises, mes chariots, et presque toutes mes peaux&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils croient avoir gagné, mais j'ai encore assez d'or pour mettre à prix la tête de ces {@LinkCreature:24#6#fouaille-tripes}, de ces {@LinkCreature:24#7#champions}, et de ces {@LinkCreature:24#8#prophètes}, et puis aussi de ces {@LinkCreature:24#57#écraseurs}, de ces {@LinkCreature:24#58#chamanes} et de ces {@LinkCreature:24#156#ravageurs} du vent de sable.&lt;BR&gt;&lt;BR&gt;Tuez-les tous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1019">
+        <Page social="4">Je tiens ma vengeance. Je vais pouvoir dormir en paix. Merci&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

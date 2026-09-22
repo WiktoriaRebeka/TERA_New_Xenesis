@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="4">Les {@LinkCreature:31#24#arcanistes sombres} devraient se trouver au Mont Tyrannas, aux côtés de l'armée du traître, mais nous en avons repéré un groupe isolé, sur la glace. Nous n'avons aucune idée de ce qu'ils bricolent, mais vous savez aussi bien que moi qu'il faut les arrêter avant qu'ils ne fassent quoi que ce soit de regrettable. Je ne tiens pas à ce que cet endroit devienne un Mont Tyrannas bis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1043">
+        <Page social="4">Bon travail, &lt;PCNAME&gt;&amp;nbsp;! Nous n'avons plus à nous soucier d'eux.</Page>
+    </Text>
+</QuestDialog>

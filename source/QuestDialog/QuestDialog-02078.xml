@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">Kiecey est passé ici, récemment. &lt;BR&gt;Apparemment, quelques garnements ont fait pleurer Anya.&lt;BR&gt;&lt;BR&gt;J'ai d'abord mis ça sur le compte d'enfantillages, mais la chose me tracasse quand même.&lt;BR&gt;&lt;BR&gt;Vous et Anya êtes bien amis, non ? Allez donc prendre de ses nouvelles.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Certains enfants bien particuliers descendent de Tiaran, à Tiarania.&lt;BR&gt;&lt;BR&gt;Les enfants de Tiaran se sont montrés très agités quand les gardiens ont examiné les racines de Tiaran. Jerdan et Pilt ont fait pleurer Anya en lui volant sa poupée.&lt;BR&gt;&lt;BR&gt;Allez donc trouver la poupée dans les broussailles, réparez-la et ramenez-la à Anya, &lt;PCNAME&gt;. Cela devrait lui redonner le sourire. Et si vous avez un peu de temps, jouez donc avec elle et sa poupée, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="122">
+        <Page social="13" voiceTypeId="281">Zozo a disparu&amp;nbsp;! Ils me l'ont volée et, maintenant, je ne la retrouve plus&amp;nbsp;! C'est Niyum et sa bande&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous êtes un{@g:/e} adulte&amp;nbsp;! Forcez-les à me la rendre&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ne t'en fais pas, je vais retrouver Zozo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="118">
+        <Page social="4" voiceTypeId="0">Je n'ai rien fait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je voulais juste jouer avec Zozo et, c'est vrai, je l'ai prise... mais Peter et Jerdan m'ont dit qu'il n'y a que les bébés qui jouent à la poupée. Donc j'ai voulu rendre Zozo à Anya.&lt;BR&gt;&lt;BR&gt;Ils m'ont dit qu'ils allaient la ramener eux-mêmes... mais ils ont menti&amp;nbsp;! Ils ont pris Zozo et l'ont jetée dans les buissons&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Merci de ton honnêteté, Niyum."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="201">
+        <Page social="4" voiceTypeId="0">(La poupée d'Anya n'est plus en très bon état après avoir été jetée dans un buisson épineux. Certaines de ses coutures sont déchirées et son rembourrage ressort par ces trous. Si Anya voit Zozo dans cet état, elle aura le cœur brisé.)&lt;NEXTPAGEBUTTON&gt;"Je crois que je vais devoir réparer Zozo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="599" prevId="5" villagerId="119">
+        <Page social="4" voiceTypeId="0">On ne voulait pas casser sa poupée, je vous le jure&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;On a juste joué avec et elle est tombée dans le buisson. On comptait la sortir de là... mais on a oublié.&lt;BR&gt;&lt;BR&gt;Pourquoi en faire toute une histoire&amp;nbsp;? C'est juste une sale poupée&amp;nbsp;!&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Vous avez fait pleurer Anya."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mais on n'a pas fait exprès. Désolé, on ne pensait pas que...&lt;BR&gt;&lt;BR&gt;Ne lui dites pas que c'était nous, je vous en prie&amp;nbsp;! Anya est comme notre petite sœur&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Zozo est dans un sale état, hein&amp;nbsp;? Attendez, ma mère m'a donné une aiguille et du fil. Vous pouvez les prendre pour réparer Zozo&amp;nbsp;? Peut-être que vous pouvez prendre de l'herbe poisseuse pour la rembourrer&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ça vaut la peine d'essayer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="116">
+        <Page social="4" voiceTypeId="0">C'est... c'est ma petite Zozo&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Zozo, vous me l'avez ramenée&amp;nbsp;! Merci, &lt;PCNAME&gt;&amp;nbsp;! Vous êtes quelqu'un de très spécial, même si vous ne le savez pas encore&amp;nbsp;! Merci, merci, un grand merci&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Tout va mieux, Anya&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="282">Oui&amp;nbsp;! Beaucoup mieux&amp;nbsp;! Merci&amp;nbsp;! Zozo aussi vous remercie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Zozo aimerait que vous soyez l'invité{@g:/e} d'honneur d'un petit goûter&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Là&amp;nbsp;! Asseyez-vous à côté de Zozo&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"D'accord, mais je ne peux pas rester bien longtemps."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="599" villagerId="116">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="827" prevId="7" villagerId="100">
+        <Page social="4" voiceTypeId="0">Nous sommes à court de thé, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;C'est déjà l'heure de rentrer&amp;nbsp;? Je préfère jouer encore un peu plutôt que de faire une sieste.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Nous pouvons rejouer demain."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'est promis&amp;nbsp;? Parce que ce soir, c'est la dernière fois que je dois prendre part au sommeil expérimental... c'est ce qu'ils ont dit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tout le monde pense que la Vision est quelque chose de très spécial, mais je n'aime pas faire de sieste. Je veux juste jouer&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous me le promettez, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je te le promets, Anya."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

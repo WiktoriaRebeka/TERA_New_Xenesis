@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="4">Ces {@LinkCreature:13#300541#ramperocs} dévorent les reliques qu'ils trouvent.&lt;BR&gt;&lt;BR&gt;Chaque fois que l'un d'eux en détruit une, Eria se met à hurler. Pour le salut de nos tympans, vous pourriez aller leur reprendre des fragments de reliques avant qu'ils ne soient perdus à jamais&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1128">
+        <Page social="4">Ca devrait suffire pour l'instant. J'ai vu Eria vous observer cachée derrière un pilier pendant que vous combattiez... Je crois qu'elle vous admire beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1128">
+        <Page social="0">Il va falloir plus que des promesses pour calmer cette femme. Je crois que Lian a dû boucher ses grandes oreilles à la cire pour supporter les cris d'Eria.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, &lt;PCNAME&gt;, je vous en implore. Aidez un pauvre soldat, trouvez une solution à mon problème&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

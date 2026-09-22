@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="4">{@LinkCreature:49#21} est un argon puissant... Mon ennemi juré, en quelques sortes.&lt;BR&gt;&lt;BR&gt;C'est lui qui supervise l'attaque contre l'arbre casian. Son élimination devrait arranger nos affaires et compliquer celles de l'ennemi, tout en assurant la sécurité de notre ami.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1013">
+        <Page social="6">Je perçois un changement chez l'ennemi... et il en va de même pour notre vieil ami. Vous avez mené votre mission à bien&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Excellent.&lt;BR&gt;&lt;BR&gt;Le combat qui fait rage ici va atteindre son point culminant. Grâce à vous, nous sommes mieux préparés aux épreuves qui nous attendent.</Page>
+    </Text>
+</QuestDialog>

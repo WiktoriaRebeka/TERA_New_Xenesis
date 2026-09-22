@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Pour la première fois depuis des mois, nous avons l'impression de reprendre le contrôle de la situation. Il est maintenant temps d'envisager la contre-attaque.&lt;BR&gt;&lt;BR&gt;Que faites-vous encore ici&amp;nbsp;? Je n'ai rien de mieux alors vous ferez l'affaire... J'ai ici un document vous plaçant sous les ordres de {@LinkCreature:218#1009#Chenast}, qui vous attend à l'Arène des Inspirés. En route&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">C'est Anaka qui vous envoie&amp;nbsp;? Mmh...&lt;BR&gt;&lt;BR&gt;Bon, très bien... J'ai du boulot pour vous. Les {@LinkCreature:18#19#avant-gardes de Lok} et les {@LinkCreature:18#23#maîtres de Lok} sont en train de se préparer pour un genre de rituel.&lt;BR&gt;&lt;BR&gt;Arrêtez-les avant qu'ils ne mènent leur entreprise à bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1009">
+        <Page social="4">Ce sont des... des… têtes&amp;nbsp;!.&lt;BR&gt;&lt;BR&gt;Eh bien&amp;nbsp;! Ça va faire plaisir à Anaka. Elle adore faire la décoration avec des trucs appartenant aux cultistes. Elle pense que ça les intimide. Elle a peut-être raison.&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, posez tout ça. Merci.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1009">
+        <Page social="0">Si vous continuez de traîner, ils vont avoir le temps d'accomplir leur rituel. Vous devez aller vous occuper des {@LinkCreature:18#21#fendeur de crâne} et des {@LinkCreature:18#22#prêtres} de Lok.</Page>
+    </Text>
+</QuestDialog>

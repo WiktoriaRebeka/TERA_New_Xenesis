@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="4">Après la tempête, le climat ne s'est pas arrangé, au contraire. Vous savez, les gens qui vous disent que c'est une "belle journée"... c'est surtout pour faire bonne figure. Combattre les morts-vivants est une chose, et tenir une épée les mains gercées en est une autre.&lt;BR&gt;&lt;BR&gt;Si vous avez encore la force de combattre, vous nous rendriez un grand service en nous débarrassant des {@LinkCreature:31#6#chargeurs givre-morts}. Rapportez-moi leurs os en preuve du travail accompli et je vous récompenserai.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1015">
+        <Page social="4">On peut dire que vous ne manquez pas d'énergie&amp;nbsp;! Bon travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous ne sommes pas au bout de nos peines, mais c'est un bon début.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1015">
+        <Page social="0">Impossible de travailler tant que ces {@LinkCreature:31#6#chargeurs givre-morts} nous harcèleront.</Page>
+    </Text>
+</QuestDialog>

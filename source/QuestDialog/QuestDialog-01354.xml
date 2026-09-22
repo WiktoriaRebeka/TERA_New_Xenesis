@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">En dehors de ses éclaireurs et de ses bestioles, Thulsa dispose d'un bataillon d'assaut posté près de la porte ouest d'Habere. Eliminez ces troupes, histoire que nous puissions respirer un peu.&lt;BR&gt;&lt;BR&gt;Vous avez jusqu'ici fait preuve d'une grande bravoure, alors ne relâchez pas vos efforts&amp;nbsp;! Allez parler au centurion Turua, à la porte ouest. Il vous indiquera la marche à suivre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1017">
+        <Page social="4">Laissez-moi vous expliquer notre situation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Les forces de Thulsa présentes dans la région obéissent à Warkul. L'élimination de ce dernier et de ses troupes nous donnera un avantage certain dans cette guerre, et peut-être même une chance de reprendre le contrôle de la situation sur cette terre maudite.&lt;BR&gt;&lt;BR&gt;Menez-nous à la victoire, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1017">
+        <Page social="4">Il reste quelques survivants, mais ils ne représentent plus une menace pour Habere.&lt;BR&gt;&lt;BR&gt;Merci infiniment, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

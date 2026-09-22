@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1004">
+        <Page social="4">Nous allons libérer les esclaves. Je me moque de savoir ce que ça nous coûtera&amp;nbsp;; il est temps d'agir.&lt;BR&gt;&lt;BR&gt;Enfin, quand nous aurons réglé un autre problème... C'est {@LinkCreature:212#1018#Tairia} qui a étudié le plan d'attaque, mais elle s'est fait prendre par l'ennemi alors qu'elle était partie reconnaître le terrain.&lt;BR&gt;&lt;BR&gt;Vous accepteriez de vous mettre à sa recherche&amp;nbsp;? Nous pourrions aller libérer les esclaves sans son aide, mais ce serait beaucoup plus risqué.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1018">
+        <Page social="0">Ces cannibales sont des monstres abominables. J'entends nuit et jour les hurlements de leurs victimes.&lt;BR&gt;&lt;BR&gt;Nous devons filer d'ici avant qu'ils ne nous repèrent&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

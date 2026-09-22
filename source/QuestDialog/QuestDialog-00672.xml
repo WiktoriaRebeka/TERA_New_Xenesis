@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0">(Cette caisse de ravitaillement porte une drôle de marque, on dirait qu'elle a été abandonnée par les bandits. Peut-être que cette marque peut permettre d'identifier les bandits&amp;nbsp;!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">Beau travail, soldat&amp;nbsp;! Qu'est-ce que vous avez là&amp;nbsp;? Eh, ce ne sont pas des marchandises de la Fédération, cette marque est utilisée par les fouaille-tripes&amp;nbsp;! Et cette odeur&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;On dirait qu'ils ne se contentent pas d'inciter les kobolds à nous attaquer, ils leur fournissent des explosifs en plus&amp;nbsp;! A présent, plus de doute, nous allons devoir briser l'emprise des fouaille-tripes sur ces créatures&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Vous avez un plan&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'ai des dizaines de plans&amp;nbsp;! La Fédération peut réaliser tous nos rêves, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Le problème, c'est que si les amans sont prêts à accorder le bénéfice du doute à la Fédération, les chefs restent sceptiques. Notre travail ici est de toute première importance, mais je ne prétendrais pas qu'il soit facile.&lt;BR&gt;&lt;BR&gt;Pour le moment, j'ai juste besoin de quelque chose qui prouve que nous nous occupons des {@LinkCreature:24#15#hyènes pattes sableuses} et des {@LinkCreature:24#106#faucheurs du vent de sable}, pendant que j'essaie de convaincre Turrek de partager ses réserves.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1001">
+        <Page social="4">Excellent travail, soldat. Ca pourrait infléchir la position de Turrek et des autres chefs. Et sinon, nous avons au moins affaibli les fouaille-tripes et leurs sbires.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" villagerId="1001">
+        <Page social="0">Vous avez les peaux&amp;nbsp;? Je dois bientôt voir Turrek.</Page>
+    </Text>
+</QuestDialog>

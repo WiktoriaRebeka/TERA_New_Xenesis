@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">EX-TRX, notre prototype de robot magique, requiert un afflux constant d'énergie afin de pouvoir fonctionner. Et ça ne vous dirait pas de le voir en action&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Apportez-moi des cristaux trouvés sur les {@LinkCreature:34#1010#géants ravage-glace} de la Plaine gelée.&lt;BR&gt;&lt;BR&gt;Et ne me regardez pas comme ça&amp;nbsp;! Pendant la phase de création, des cristaux de géants ne me paraissaient pas du tout être incongrus comme source d'énergie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1704">
+        <Page social="4">Il y a assez de cristaux pour que le robot fonctionne toute la journée&amp;nbsp;! C'est très bien, mais je vais avoir besoin de votre aide à nouveau demain.&lt;BR&gt;&lt;BR&gt;EX-TRX est tout sauf économe en énergie&amp;nbsp;! Hmmm. On va dire que je n'ai rien dit...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1704">
+        <Page social="0">Pour que cette machine fonctionne, il me faut de l'énergie. Et plus exactement, j'ai besoin de cristaux de géants ravage-glace.&lt;BR&gt;&lt;BR&gt;C'est de la science, vous ne pouvez pas comprendre.</Page>
+    </Text>
+</QuestDialog>

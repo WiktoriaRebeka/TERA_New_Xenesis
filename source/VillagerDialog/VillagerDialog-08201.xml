@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="3005" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">Cette pierre magique est gravée d'un glyphe scellé.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Le glyphe émet une lueur intense.&lt;TEXTBUTTON&gt;Vous examinez le glyphe.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous tendez la main vers le glyphe.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

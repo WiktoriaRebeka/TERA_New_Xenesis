@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="4">Ma mission est de développer des armes qui nous donneront un avantage sur les argons, faute d'avoir l'avantage du nombre.&lt;NEXTPAGEBUTTON&gt;"Vous avez des prototypes&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eh bien, j'ai ces modulateurs argons. Ils sont censés affecter les argons, sans mettre les autres en danger.&lt;BR&gt;&lt;BR&gt;J'aurais juste besoin que vous les testiez sur le terrain. Sans mourir, bien sûr.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">Cette bombe ne devrait affecter que les aplatisseurs hulraps près du {@Rgn:48008}. Cela ne les tuera sans doute pas, mais ça pourrait les rendre dociles.&lt;BR&gt;&lt;BR&gt;Ou avoir un effet tout autre… Si vous avez des boutons, venez me prévenir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Après avoir sélectionné la partie 1, Page de dialogue 1)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Après avoir sélectionné la partie 2, Page de dialogue 1)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Après avoir sélectionné la partie 3, Page de dialogue 1)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="6">Prenez ce modulateur de flux argon. Testez-le rapidement sur les {@LinkCreature:48#5#aplatisseurs hulraps} et revenez me faire votre rapport.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="1017">
+        <Page social="6">Il s'est transformé en grenouille&amp;nbsp;? Extraordinaire…&lt;BR&gt;&lt;BR&gt;S'il s'était transformé en porcidé, nous aurions bientôt l'armée la plus grasse de l'histoire.&lt;BR&gt;&lt;BR&gt;Bon, je retourne plancher.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="1017">
+        <Page social="6">Prenez ce modulateur de flux argon. Testez-le rapidement sur les aplatisseurs hulraps et revenez me faire votre rapport.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1017">
+        <Page social="6">Il a rétréci&amp;nbsp;? Remarquable…&lt;BR&gt;&lt;BR&gt;Si je parviens à ajuster la formule pour affecter les akalaths ou les gilgashs, ça pourrait changer le cours de la guerre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="1017">
+        <Page social="6">Prenez ce modulateur de flux argon. Testez-le rapidement sur les aplatisseurs hulraps et revenez me faire votre rapport.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="1017">
+        <Page social="6">Plus fort&amp;nbsp;? C'est mauvais, ça…&lt;BR&gt;&lt;BR&gt;Je ne sais pas où la formule peut être fausse. Je vais relire mes notes. Je retourne plancher.</Page>
+    </Text>
+</QuestDialog>

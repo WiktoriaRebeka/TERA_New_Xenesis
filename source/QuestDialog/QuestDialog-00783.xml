@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Les Consos ont vécu pendant des siècles dans le Refuge de Balder. Des empires ont prospéré et décliné, mais nous n'avons jamais quitté cet endroit.&lt;BR&gt;&lt;BR&gt;J'ai quelques notions de ce qu'il s'est passé dans le monde extérieur, mais ma connaissance de ce que vous appelez les "évènements actuels" est lamentablement inadéquate.&lt;BR&gt;&lt;BR&gt;Parcourez le monde, &lt;PCNAME&gt;, et écoutez les histoires. Puis venez me les rapporter, mais avant tout&amp;nbsp;: écoutez vraiment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1037">
+        <Page social="1">Nandu veut qu'on lui raconte l'histoire des Poporis depuis la mort du dieu Balder&amp;nbsp;? Il a un mois à gaspiller&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Très bien. Dites-lui ceci. La famille royale elin nous a guidé depuis {@Rgn:68001$$Pora Elinu}. Rida, une des princesses, était au Refuge de Balder il y a peu, et Nandu l'a peut-être rencontrée.&lt;NEXTPAGEBUTTON&gt;"Dites-m'en plus."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Eh bien, la déesse Elinu nous a cachés aux yeux du monde pendant des siècles, mais ensuite elle a disparu. Nous devrions le savoir mieux que quiconque&amp;nbsp;: personne ne peut s'isoler comme Elinu. Les Poporis et les Elins ont rejoint la Fédération dès que nous avons appris que les argons détruisaient le monde en plus de le conquérir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">L'histoire des Hauts-Elfes devrait être connue, même de quelqu'un d'aussi reclus que Nandu.&lt;BR&gt;&lt;BR&gt;Mais il cherche peut-être à avoir le point de vue d'un Haut-Elfe cultivé plutôt que d'obtenir des récits de gloire par ouï-dire. Parfait.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"S'il vous plaît, juste un résumé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">La société elfe prospérait et était enviée du monde entier, jusqu'à l'accident causé par la Fleur de vie, la source de toute la puissance d'Allemantheia, qui a dégénéré.&lt;BR&gt;&lt;BR&gt;Seul le sacrifice des plus grands esprits elfes a permis de contrôler à nouveau la magie sous la forme d'un artefact vivant appelé le Noyau.&lt;BR&gt;&lt;BR&gt;Aujourd'hui les Elfes sont l'une des nombreuses races de la Fédération Valkyon, mais comme toujours, ils dirigent par l'exemple. Mon peuple corrige doucement et gentiment nos frères les moins raffinés.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1034">
+        <Page social="1">Nandu sait que les dieux combattent souvent entre eux. Durant des siècles, il a vécu à l'endroit où le plus noble des dieux, Balder, a péri aux mains de ses ennemis divins.&lt;BR&gt;&lt;BR&gt;Après la Guerre divine, les dieux survivants étaient en sécurité. Jusqu'à récemment.&lt;BR&gt;&lt;BR&gt;Mais à présent... Akasha&amp;nbsp;? Morte. Killian&amp;nbsp;? Mort. Thulsa&amp;nbsp;? Mort. Tous de la main d'un seul mortel. N'est-ce pas vrai, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je n'ai pas agi {@gender:seul/seule}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Est-ce de la modestie ou de la prudence&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Inutile de vous nommer, mais vous pouvez dire à Nandu que tout le monde, le Mysterium, la Fédération, les argons, les dieux eux-mêmes surveillent le mortel qui a tué ces dieux.&lt;BR&gt;&lt;BR&gt;Je me demande comment ce mortel tueur de dieux supporte d'être autant scruté. Mais je parie que vous ne vous le demandez pas, hein&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">Trois histoires de trois conteurs. Pour moi, une leçon intéressante sur les évènements actuels.&lt;BR&gt;&lt;BR&gt;Et pour vous une intéressante leçon de psychologie.&lt;NEXTPAGEBUTTON&gt;"Et pourquoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Prenez ceci en compte, &lt;PCNAME&gt;&amp;nbsp;: ces conteurs vous ont-ils appris quelque chose sur l'histoire, ou par inadvertance quelque chose sur eux-mêmes&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

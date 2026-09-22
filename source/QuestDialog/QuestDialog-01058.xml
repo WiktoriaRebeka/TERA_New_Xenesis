@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">D'abord, ils installent une grosse pierre. A présent, ils se rassemblent autour. Y a-t-il un rapport avec toutes ces morts et ces mutations&amp;nbsp;? Je n'ai aucune preuve. Vous aurez peut-être plus de chance que moi, qui sait&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Trouvez quelque chose qui prouve l'implication des {@LinkCreature:40#13#éviscérateurs prions} dans cette histoire de fléau et remettez-le à {@LinkCreature:240#1004$$Lashirah}.&lt;BR&gt;&lt;BR&gt;Je sais que vous le feriez sans cela, mais il y a une récompense à la clé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Bravo. Cela répond à beaucoup de questions.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">Vous avez trouvé quelque chose&amp;nbsp;? Toujours pas&amp;nbsp;? Débusquez quelques {@LinkCreature:40#13#éviscérateurs prions}, tuez-les et fouillez leurs cadavres.</Page>
+    </Text>
+</QuestDialog>

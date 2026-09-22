@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Si le fléau se contentait de tuer les gens, ce serait une chance dans notre malheur. Mais au lieu de ça, il transforme les survivants en monstres. J'ai tellement peur que ça finisse par m'arriver...&lt;BR&gt;&lt;BR&gt;J'ai une triste besogne à vous confier, si vous en acceptez la charge. J'aimerais que vous alliez abréger les souffrances des {@LinkCreature:40#28#espions selvaras}, des {@LinkCreature:40#15#travailleurs mutants} et des {@LinkCreature:40#30#trilames mutants}.&lt;BR&gt;&lt;BR&gt;Je n'aimerais pas être à leur place, pas vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Vous avez fait preuve de miséricorde, &lt;PCNAME&gt;. N'oubliez jamais cela.</Page>
+    </Text>
+</QuestDialog>

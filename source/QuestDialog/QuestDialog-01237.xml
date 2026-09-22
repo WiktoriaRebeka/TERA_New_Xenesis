@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Je vais encore avoir besoin de votre aide.&lt;NEXTPAGEBUTTON&gt;"Qu'avez-vous découvert&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Le navashad qui massacre nos troupes n'est ni le fruit de la magie... ni même une créature pensante. Les argons contrôlent ses tentacules à l'aide de leur technologie.&lt;BR&gt;&lt;BR&gt;Eliminez ceux qui tirent les ficelles du monstre, et la machine de guerre des argons ne leur servira plus à rien. J'ai vu un zariik du nom de Nauti prendre le contrôle du navashad.&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Vous avez réussi&amp;nbsp;! Le navashad est inerte&amp;nbsp;! Débarrassées de ce monstre de métal, nos troupes ont enfin une chance de s'en sortir, enfin... pour le moment.&lt;NEXTPAGEBUTTON&gt;"Nous devons le neutraliser définitivement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui... J'ignore d'où le navashad peut tirer l'énergie qui l'alimente, mais je vais ordonner à l'avant-garde de se pencher au plus vite sur le problème.&lt;BR&gt;&lt;BR&gt;Bon travail, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

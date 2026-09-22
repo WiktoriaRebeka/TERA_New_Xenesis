@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="5">En arrivant ici, je rêvais de mettre la main sur des reliques anciennes que j'aurais revendues à prix d'or. Pour l'instant tout ce que j'ai trouvé, c'est du sable...&lt;BR&gt;&lt;BR&gt;Il y a forcément des ressources intéressantes à exploiter dans la région, mais j'ai pour ordre de rester ici. Vous pourriez aller chercher pour moi&amp;nbsp;? Je vous paierai, bien entendu.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1008">
+        <Page social="0">Oh, formidable... Je devrais pouvoir revendre ça un bon prix à Tulufan. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1008">
+        <Page social="0">Continuez de chercher, &lt;PCNAME&gt;. Il y a forcément des ressources intéressantes dans le coin.</Page>
+    </Text>
+</QuestDialog>

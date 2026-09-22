@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="4">Mansur travaille à rebâtir les maisons qui ont été rasées par la tempête, mais comme vous le voyez, les arbres poussent mal, dans la région.&lt;BR&gt;&lt;BR&gt;Vous lui rendriez service en allant récupérer le bois réutilisable des bâtiments endommagés.&lt;NEXTPAGEBUTTON&gt;"Je peux le faire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous trouverez du bois récupérable en quantité dans les parages de la maison abandonnée proche des Etendues de Glace. Une fois dégivré, il devrait encore être solide.&lt;BR&gt;&lt;BR&gt;J'espère que ça permettra à Mansur de finir son boulot... nous aimerions tous pouvoir reprendre une existence normale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">Vous avez du bois pour moi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bah&amp;nbsp;! Il est glacé jusqu'au cœur de la fibre. On aura de la chance s'il ne pourrit pas en dégelant, comme le fait généralement le bois de la région.&lt;BR&gt;&lt;BR&gt;Enfin... il ne faut rien gâcher. Encore heureux que je suis le meilleur charpentier de Westonia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1016">
+        <Page social="0">Vous avez du bois pour moi&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

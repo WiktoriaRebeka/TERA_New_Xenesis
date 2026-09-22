@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Vous avez trouvé l'entrée des papillons. Entrez et regardez si vous y trouvez d'autres papillons.&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement de 463 ou supérieur est requis pour entrer dans le Nid de Parquina (facile).]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez approché le nid artificiel des papillons avec Armande. &lt;BR&gt;&lt;BR&gt;Vous y avez vaincu Ferva, la reine mielleuse qui occupait la réserve de miel. &lt;BR&gt;&lt;BR&gt;À l'aide d'Armande, vous avez traversé indemne la salle d'injection pour arriver dans la chambre de la reine. &lt;BR&gt;Là, vous avez éliminé Parquina, la reine des papillons. &lt;BR&gt;&lt;BR&gt;Armande a pu réunir quelques indices susceptibles d'expliquer pourquoi les papillons menacent Arborea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="1" villagerId="1162">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt; et Armande ! &lt;BR&gt;Vous êtes indemnes ! &lt;BR&gt;&lt;BR&gt;Pourriez-vous me dépeindre ce qui est arrivé là-dedans ?&lt;NEXTPAGEBUTTON&gt;"Oui, je vais tout vous raconter."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Comment ? Un nid artificiel ?&lt;BR&gt;Spécialement créé pour que Parquina, la reine des papillons, y ponde ses œufs ?&lt;BR&gt;Apparemment, quelqu'un tient vraiment à nous nuire. &lt;BR&gt;&lt;BR&gt;Hum, peut-être que toute cette affaire a un rapport avec l'objet volant mystérieux qui est apparu dans le Nord d'Arun ? &lt;BR&gt;&lt;BR&gt;Nous devrions éviter de tirer des conclusions hâtives, mais rester les bras croisés ne nous avance pas plus. Je vais en informer la Fédération Valkyon et préparer les prochaines étapes avec Jelena.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="1107">
+        <Page social="4" voiceTypeId="0">Une seule aventure et mes recherches ont progressé comme jamais auparavant. &lt;BR&gt;&lt;BR&gt;Je dois rédiger un rapport pour la Mysterium. Je ne vous remercierai jamais assez pour votre aide.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1016">
+        <Page social="5">Les noruks ! Ils sont partout ! Ils ont envahi les champs, et d'ici peu, nous n'aurons plus de fourrage pour nourrir les moutons.&lt;BR&gt;&lt;BR&gt;S'il vous plaît... pourriez-vous chasser les noruks ruminants ? Je refuse d'abandonner ma ferme à cause de ces sales bêtes !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1016">
+        <Page social="5">Oh, merci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Sans ces fouaille-tripes, nous n'aurions pas ce problème de noruks. La vieille histoire des relations de cause à effet, vous voyez...&lt;BR&gt;&lt;BR&gt;Enfin... quoi qu'il en soit, merci beaucoup.</Page>
+    </Text>
+</QuestDialog>

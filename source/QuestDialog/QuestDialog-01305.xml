@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="0">Chasse au dévoreur de fer</Page>
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="4">Vous connaissez {@LinkCreature:249#1013}, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il est parti étudier les {@Rgn:50008} en solitaire.&lt;NEXTPAGEBUTTON&gt;"C'est dangereux&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui... Les spodas zariiks rôdant à proximité des {@Rgn:50008} ne feraient qu'une bouchée de lui. Il n'a rien d'un soldat.&lt;BR&gt;&lt;BR&gt;Vous me rendriez un grand service en allant lui sauver la mise.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">Tiens, c'est cocasse&amp;nbsp;! J'étais justement en train de me demander comment j'allais me sortir de là en vie... et vous voilà&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous donnez tout son sens à l'expression "arriver à point nommé".</Page>
+    </Text>
+</QuestDialog>

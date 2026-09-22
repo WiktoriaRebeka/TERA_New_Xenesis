@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">Au beau milieu d'{@Rgn:49001} se trouve une sorte de tour énorme nommée {@Rgn:49003}. D'après les informations dont nous disposons, c'est l'énergie qu'elle renferme qui sert au ravitaillement des troupes argones. Si on ne tient pas là une jolie cible prioritaire...&lt;BR&gt;&lt;BR&gt;Le hic, c'est le contingent d'arzakaars thassalirs qu'elle abrite.&lt;BR&gt;&lt;BR&gt;Débarrassez-nous d'eux. Ce sont les plus costauds des gardes du site.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1033">
+        <Page social="6">Intéressant... On dirait que les arzakaars n'étaient pas chargés d'assurer la sécurité du site... comme s'ils étaient venus y faire autre chose.&lt;BR&gt;&lt;BR&gt;Enfin... Maintenant, ça importe peu. Ils sont morts et nous avons toujours du pain sur la planche si nous voulons gagner cette guerre.</Page>
+    </Text>
+</QuestDialog>

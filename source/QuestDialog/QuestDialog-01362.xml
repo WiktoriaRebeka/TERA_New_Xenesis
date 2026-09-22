@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Très bien, "{@gender:héros/héroïne} de Valkyon", voyons un peu ce que vous valez.&lt;BR&gt;&lt;BR&gt;Et si je vous demandais de me rapporter la tête de Tersa, le chef des nécromanciens ennemis&amp;nbsp;? C'est dans vos cordes&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Dites-moi juste où le trouver."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Je plaisantais, mais vous avez du cran, &lt;PCCLASS:lcase&gt;, ça me plaît. Bon, maintenant, plus sérieusement, si vous...&lt;BR&gt;&lt;BR&gt;Quoi&amp;nbsp;? Ne me regardez pas comme ça&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon, très bien, comme vous voulez, allez donc chercher Tersa. On ne nous envoie qu'un soldat, eh bien ça ne fera qu'une victime.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">C'est vraiment la tête de Tersa&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je n'arrive pas à croire que vous soyez {@gender:venu/venue} à bout du chef des nécromanciens&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;... Bon, je dois avouer que vous faites partie des meilleurs &lt;PCCLASS:lcase&gt;s qu'il m'ait été donné l'occasion de rencontrer. Apparemment, {@gender:un/une} &lt;PCNAME&gt; pourrait bien valoir toute une division de soldats d'élite de Kaiator.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1044">
+        <Page social="0">Si vous n'avez pas les tripes d'aller affronter Tersa, rentrez à Kaiator.&lt;BR&gt;&lt;BR&gt;Lancez-vous dans l'artisanat ou trouvez-vous un boulot tranquille&amp;nbsp;! Je me moque de savoir lequel.</Page>
+    </Text>
+</QuestDialog>

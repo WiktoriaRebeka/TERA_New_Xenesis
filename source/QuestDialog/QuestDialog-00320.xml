@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Pendant que vous étiez en train de vous occuper des pirates du Fouet rouge sur le dock, nous avons envoyé un éclaireur en mission. Armantes se trouve au sous-sol.&lt;BR&gt;&lt;BR&gt;Il est dans une remise, si on peut dire. Allez lui parler des bombes des pirates et demandez-lui s'il en sait quoi que ce soit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">Des pirates avec des bombes&amp;nbsp;? Ça ne me dit rien qui vaille.&lt;BR&gt;&lt;BR&gt;De mon côté, je n'ai rien remarqué de particulier, mais ça fait peu de temps que j'ai entamé ma reconnaissance des lieux.</Page>
+    </Text>
+</QuestDialog>

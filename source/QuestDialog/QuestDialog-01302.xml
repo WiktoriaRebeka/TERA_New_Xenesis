@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Le {@LinkCreature:250#1001} que j'ai vu à {@Rgn:76001} s'est engagé dans les cavernes de Viridia. Que se passe-t-il&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je m'occupe de ça. Restez ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Entendu... Je ne bouge pas.&lt;BR&gt;&lt;BR&gt;De votre côté, soyez {@gender:prudent/prudente}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1001">
+        <Page social="4">Je me souviens de vous. Pouvez-vous m'aider&amp;nbsp;? Je dois amalgamer les éclats d'iteris au métal pour pouvoir forger l'arme. Si je pouvais lui remettre la sève à laquelle je pense, un alchimiste pourrait me concocter l'agent de fusion dont j'ai besoin.&lt;NEXTPAGEBUTTON&gt;"Je vais vous chercher ça."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Merci&amp;nbsp;! J'ai besoin de sève du rati. C'est un arbre qui pousse dans une caverne pas très loin. Je pensais pouvoir en trouver, mais j'ai peut-être perdu mon chemin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1023">
+        <Page social="6">(C'est l'arbre de rati.)&lt;BR&gt;&lt;BR&gt;(Vous devriez prélever sa sève.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="4" villagerId="1001">
+        <Page social="6">Je vous serai éternellement redevable. Grâce à vous, je vais pouvoir finir de forger mon arme et passer le rite initiatique du hushang.&lt;BR&gt;&lt;BR&gt;Je ferais bien de rentrer à Kanstria. Merci encore&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

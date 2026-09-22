@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8018">
+        <Page social="4">Cet homme n'était pas parmi les cadavres que nous avons découverts.&lt;BR&gt;&lt;BR&gt;Suite à l'incident, toutes les routes ont été fermées dans la région, il doit donc encore être ici.&lt;BR&gt;&lt;BR&gt;J'ai envoyé mes subalternes à sa recherche.&lt;PCNAME&gt;, j’apprécierais que vous éliminiez les monstres des environs, ce qui nous aiderait un peu dans nos recherches. Bien entendu, j'apporterai également ma contribution. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8025">
+        <Page social="4">...&lt;BR&gt;&lt;BR&gt;Houla&amp;nbsp;!&lt;BR&gt;J'ai eu peur&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que vous faites ici&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pardon&amp;nbsp;? Oh... donc... hm.&lt;BR&gt;C'est donc ça...&lt;BR&gt;&lt;BR&gt;Je suis venu faire des rapports&amp;nbsp;!&lt;BR&gt;J'étais sur le point de partir.&lt;BR&gt;&lt;BR&gt;Au revoir.&lt;NEXTPAGEBUTTON&gt;Molly, manifestement nerveuse, s'en va sans tarder.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8019">
+        <Page social="4">Quoi ? &lt;BR&gt;La Maîtresse du Collectif de libre échange ? &lt;BR&gt;&lt;BR&gt;Jusqu'à récemment, elle jouait l'innocente et affirmait ne rien savoir et je suis tombé dans le panneau.&lt;BR&gt;&lt;BR&gt;Est-ce vrai que l'homme a dit vouloir &lt;BR&gt;restituer la force vitale ?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;Effectivement.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nous n'avons qu'à attaquer la cachette dont l'homme a parlé ! &lt;BR&gt;Nous devons en informer Adria et lui demander son aide. &lt;BR&gt;&lt;BR&gt;Je vous suis, prenez vite les devants ! &lt;NEXTPAGEBUTTON&gt;Bon, très bien.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="436" prevId="4" villagerId="8001">
+        <Page social="4">Que se passe-t-il&amp;nbsp;? Vous avez des preuves&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;Mettez fin à la conversation.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="436" prevId="5" villagerId="8002">
+        <Page social="4">Quelle impertinence !&lt;BR&gt;J'ai parfaitement entendu ce qui vient de se dire.&lt;BR&gt;Inutile de chercher un prétexte ! &lt;NEXTPAGEBUTTON&gt;Vous mettez un terme à la conversation.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

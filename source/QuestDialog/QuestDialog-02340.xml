@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Thro vous recherchait après avoir découvert quelque chose en remontant la piste d'Élion.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena a rejoint le gardien et Thro tandis qu'ils suivaient Élion. Le groupe du gardien a fini par mettre le cap sur la Forteresse de Berak, au centre d'Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="150">
+        <Page social="4" voiceTypeId="0">Cela ressemble à une piste laissée par Élion.&lt;BR&gt;&lt;BR&gt;Mais elle s'arrête ici brusquement.&lt;BR&gt;&lt;BR&gt;Explorons le jardin et nous trouverons sans doute d'autres traces de son passage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="160">
+        <Page social="0" voiceTypeId="0">(En vous approchant, vous constatez que le naga a été blessé par une épée tranchante.)&lt;BR&gt;&lt;BR&gt;(Bizarrement, la blessure est noircie.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="151">
+        <Page social="4" voiceTypeId="0">C'est l'œuvre d'Élion, cela ne fait aucun doute. Mais pourquoi cette énergie sombre entoure-t-elle la plaie... ?&lt;BR&gt;&lt;BR&gt;C'est peut-être dû au pouvoir de Killian... Les blessures qu'inflige Killian ne se résorbent jamais complètement.&lt;BR&gt;&lt;BR&gt;Nous devons vite retrouver Élion.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="161">
+        <Page social="0" voiceTypeId="0">(Ce cadavre de naga est mutilé.)&lt;BR&gt;&lt;BR&gt;(L'énergie noire qui s'échappe de la plaie enveloppe le corps entier.)&lt;BR&gt;&lt;BR&gt;(Décidément, quelque chose d'inquiétant semble arriver à Élion.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" prevId="6" villagerId="170">
+        <Page social="0" voiceTypeId="0">Argh... N'êtes-vous pas nos camarades ?&lt;BR&gt;Votre compagnon a exécuté nos camarades de sang-froid.&lt;BR&gt;&lt;BR&gt;J'ai pu m'enfuir... mais les autres...&lt;NEXTPAGEBUTTON&gt;"J'ai vu le cadavre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Apparemment, il n'a plus rien d'humain.&lt;BR&gt;De l'énergie noire s'échappe de ses yeux et enveloppe son visage. Chaque attaque semble le précipiter davantage dans une rage meurtrière...&lt;BR&gt;&lt;BR&gt;Je n'avais encore jamais rien vu d'aussi infâme.&lt;BR&gt;Je prends mes affaires et je déguerpis.&lt;BR&gt;&lt;BR&gt;Vous trouverez un outil utile dans mes bagages.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" villagerId="172">
+        <Page social="0">Si vous avez rassemblé vos bagages, je vous amène auprès de vos camarades. Houla.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="7" villagerId="171">
+        <Page social="0" voiceTypeId="0">Vous êtes ici en sécurité.&lt;BR&gt;&lt;BR&gt;Mais ne prenez pas plus de retard. Partez devant.&lt;BR&gt;&lt;BR&gt;Je vais attendre mes camarades ici.&lt;BR&gt;&lt;BR&gt;Donnez donc le paquet à Revenj. Il vous sera utile pour rejoindre la forteresse.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="180">
+        <Page social="4" voiceTypeId="0">Quelle joie de vous voir indemne.&lt;BR&gt;&lt;BR&gt;Votre amie Jelena comptait aussi emprunter cette route et j'ai donc envoyé Bashik l'aider. Le guérisseur a bien essayé de l'arrêter, mais en vain.&lt;BR&gt;&lt;BR&gt;Et voilà que Bashik se fait attendre...&lt;BR&gt;&lt;BR&gt;Allez donc chercher Jelena et Bashik.&lt;BR&gt;Venez auprès de la plateforme une fois que vous les avez trouvés.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="10" villagerId="190">
+        <Page social="4" voiceTypeId="0">Excusez-moi de vous avoir causé tant de tracas. Je n'ai pas pu rejoindre le lieu de rendez-vous car j'étais trop occupé à semer mes poursuivants.&lt;BR&gt;&lt;BR&gt;Mais nous nous sommes retrouvés, c'est l'essentiel. Des nouvelles d'Élion ?&lt;NEXTPAGEBUTTON&gt;"Quelque chose ne tourne pas rond chez Élion. Il semble être devenu méchant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est ce que je craignais...&lt;BR&gt;&lt;BR&gt;Nous devons faire vite ! Le corps d'Élion est le théâtre d'une lutte de pouvoir constante entre Killian et lui. Nous devons retrouver Élion avant qu'il ne succombe entièrement à la volonté de Killian.&lt;BR&gt;&lt;BR&gt;Allons trouver Revenj.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="11" villagerId="124">
+        <Page social="0" voiceTypeId="0">Voici la plateforme.&lt;BR&gt;&lt;BR&gt;Les traqueurs vont sans doute nous chercher là-bas.&lt;BR&gt;&lt;BR&gt;Je vais donc d'abord me rendre auprès de la plateforme avec Revenj pour attirer l'attention des poursuivants.&lt;BR&gt;&lt;BR&gt;Vous pourrez alors éliminer les adversaires et rejoindre ensuite la plateforme.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2002" prevId="12" villagerId="125">
+        <Page social="0" voiceTypeId="0">Les traqueurs sont tous allés à la forteresse.&lt;BR&gt;Ils poursuivent sans doute Élion.&lt;BR&gt;&lt;BR&gt;Partons pour la plateforme.&lt;BR&gt;&lt;BR&gt;Revenj nous attend.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2002" prevId="13" villagerId="181">
+        <Page social="4" voiceTypeId="0">La plupart d'entre eux ont vu Élion se diriger vers la forteresse.&lt;BR&gt;&lt;BR&gt;Pour l'heure, les traqueurs nagas et hauts dragons essayent de le capturer. Il se peut que le commandant Kalligar se charge personnellement de l'affaire.&lt;BR&gt;&lt;BR&gt;Bashik et moi-même allons partir devant pour sécuriser le passage.&lt;BR&gt;Utilisez l'ascenseur quand vous êtes prêt.&lt;BR&gt;&lt;BR&gt;Bashik va vous attendre.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2002" prevId="14" villagerId="126">
+        <Page social="0" voiceTypeId="0">Ah, vous voilà.&lt;BR&gt;Cet endroit fait partie de la Forteresse de Berak.&lt;BR&gt;&lt;BR&gt;La source de la puissance que vous cherchez se trouve en plein cœur de la forteresse.&lt;BR&gt;&lt;BR&gt;Revenj surveille minutieusement les allées et venues dans la forteresse pour vous aider.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,2282 @@
+<StrSheet_Region xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Region StrSheet_Region.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Region">
+    <String id="1" string="Le Monde" />
+    <String id="2" string="Monde extérieur" />
+    <String id="101" string="Arun" />
+    <String id="102" string="Sud de Shara" />
+    <String id="103" string="Nord de Shara" />
+    <String id="104" string="Nord d'Arun" />
+    <String id="105" string="Exodor" />
+    <String id="106" string="Osnium Agaia" />
+    <String id="107" string="Battle Arena" />
+    <String id="110" string="Champ de bataille souterrain" />
+    <String id="111" string="Vallée du tonnerre" />
+    <String id="112" string="Gorge de Venteguerre" />
+    <String id="113" string="Cercle céleste des Champions (Ancien)" />
+    <String id="114" string="Base d'Acrada (Ancien)" />
+    <String id="115" string="Cercle céleste des Champions" />
+    <String id="116" string="Fort des Corsaires" />
+    <String id="117" string="Refuge de Kumas" />
+    <String id="118" string="Berceau des Kumas" />
+    <String id="152" string="Velika : Siècle du chaos guerrier" />
+    <String id="156" string="Course aux pièces d'or" />
+    <String id="200" string="Île de l'Aube" />
+    <String id="201" string="Velika" />
+    <String id="202" string="Île de l'Aube" />
+    <String id="203" string="Arcadia" />
+    <String id="204" string="Poporia" />
+    <String id="205" string="Val Aureum" />
+    <String id="206" string="Ostgarath" />
+    <String id="207" string="Baldera" />
+    <String id="208" string="Étendues de Velika" />
+    <String id="209" string="TBD" />
+    <String id="210" string="Allemantheia" />
+    <String id="211" string="Val Elenium" />
+    <String id="212" string="Westonia" />
+    <String id="213" string="Essenia" />
+    <String id="214" string="Val Palrada" />
+    <String id="215" string="District de Veritas" />
+    <String id="216" string="TBD" />
+    <String id="217" string="TBD" />
+    <String id="218" string="Kaiator" />
+    <String id="219" string="Lorcada" />
+    <String id="220" string="Sylvanoth" />
+    <String id="221" string="Val Tirkai" />
+    <String id="222" string="Val Kaeli" />
+    <String id="223" string="District d'Helkan" />
+    <String id="224" string="TBD" />
+    <String id="225" string="TBD" />
+    <String id="226" string="Val d'Oriyn" />
+    <String id="227" string="Île Marchepierre" />
+    <String id="260" string="Champ de bataille" />
+    <String id="265" string="Territoire côtier" />
+    <String id="291" string="Champ de bataille Ouest" />
+    <String id="500" string="Passage de Melricas" />
+    <String id="505" string="Salle de banquet de Velika (difficile)" />
+    <String id="506" string="Salle de banquet de Velika" />
+    <String id="507" string="Sentier de Mystel" />
+    <String id="508" string="Monde intérieur" />
+    <String id="510" string="Quête annexe : Le cauchemar commence" />
+    <String id="612" string="Groupe de recherche d'Exodor" />
+    <String id="613" string="Cantonnement d'Exceptio de cristal" />
+    <String id="614" string="Conseiller civil de Valkyon" />
+    <String id="615" string="Unité spéciale d'Exodor" />
+    <String id="616" string="Riveran" />
+    <String id="620" string="Évènement de Lilli" />
+    <String id="622" string="Évènement de Lilli" />
+    <String id="628" string="Évènement de Lilli" />
+    <String id="833" string="Gorge du Wyrm" />
+    <String id="1001" string="Région des Ruines" />
+    <String id="1023" string="Terrain de chasse pour compétences/évènements" />
+    <String id="2001" string="Forêt féérique" />
+    <String id="2002" string="Palissade du Bûcheron" />
+    <String id="2003" string="Étang des Fées" />
+    <String id="2004" string="Bois des Stigmates" />
+    <String id="2005" string="Domaine abandonné" />
+    <String id="2007" string="Chemin boisé" />
+    <String id="2008" string="Forêt Eldrun" />
+    <String id="2009" string="Bois de sombres racines" />
+    <String id="2010" string="Camp de la Vallée Faevine" />
+    <String id="2011" string="Croisement" />
+    <String id="2012" string="Départ du sentier du marécage" />
+    <String id="2013" string="Village de verdure" />
+    <String id="2015" string="Cabane de Maon" />
+    <String id="2016" string="Camp d'Aron" />
+    <String id="2017" string="Refuge des Esprits" />
+    <String id="2018" string="Forêt effritée" />
+    <String id="2050" string="Zone centrale" />
+    <String id="2105" string="Résidence des commandants (solo)" />
+    <String id="2500" string="Osnium Agaia" />
+    <String id="2501" string="Site de scellage" />
+    <String id="2502" string="Bois renégat" />
+    <String id="2503" string="Forteresse de Raqnan" />
+    <String id="2504" string="Salle des machines d'Exodor" />
+    <String id="2530" string="Camp d'entraînement pour héros" />
+    <String id="3001" string="Bois de l'Oubli" />
+    <String id="3002" string="Cimetière de Berzerad" />
+    <String id="3003" string="Piste sanglante" />
+    <String id="3004" string="Deva Silva" />
+    <String id="3005" string="Vallée de la Bête" />
+    <String id="3006" string="Camp de la Digue" />
+    <String id="3007" string="Poste de l'Avant-garde" />
+    <String id="3008" string="Sépulture du Chevalier ressuscité" />
+    <String id="3009" string="Caverne des Echos lugubres" />
+    <String id="3010" string="Vallée de la Bête" />
+    <String id="3011" string="Poste de l'Avant-garde" />
+    <String id="3017" string="Abîme d'Antaros (difficile, 7 personnes)" />
+    <String id="3018" string="Forteresse de Ténébris (difficile, 7 personnes)" />
+    <String id="3019" string="Hall souterrain de Lian (difficile, 7 personnes)" />
+    <String id="3020" string="Écaille dorée" />
+    <String id="3023" string="Zone secrète de la Forteresse de Berak" />
+    <String id="3024" string="Couveuse d'Arkarp" />
+    <String id="3025" string="Couveuse d'Arkarp" />
+    <String id="3026" string="Repaire de Kelsaik" />
+    <String id="3027" string="Arène du courroux" />
+    <String id="3028" string="[Entraînement] Hall souterrain de Lian (difficile)" />
+    <String id="3029" string="[Entraînement] Abîme d'Antaros (difficile)" />
+    <String id="3030" string="Résidence du légat" />
+    <String id="3031" string="Zone nucléique" />
+    <String id="3032" string="[Entraînement] Zone secrète de la Forteresse de Berak" />
+    <String id="3033" string="[Entraînement] Nid de Parquina (difficile)" />
+    <String id="3034" string="Hangar du RK-9 (difficile)" />
+    <String id="3036" string="Croiseur céleste (difficile)" />
+    <String id="3037" string="[Entraînement] Temple de Bahaar" />
+    <String id="3101" string="Nid de Parquina (facile)" />
+    <String id="3102" string="Résidence des commandants" />
+    <String id="3103" string="Arène du courroux" />
+    <String id="3104" string="Rukmia" />
+    <String id="3126" string="Repaire de Kelsaik (difficile)" />
+    <String id="3201" string="Nid de Parquina (difficile)" />
+    <String id="3202" string="Résidence des commandants (difficile)" />
+    <String id="3203" string="Arène du courroux" />
+    <String id="3204" string="Rukmia" />
+    <String id="4001" string="Montagne Fyr" />
+    <String id="4002" string="Hautes terres sulfureuses" />
+    <String id="4003" string="Val embrasé" />
+    <String id="4004" string="Plaine en fusion" />
+    <String id="4005" string="Mâchoire de Bahaar" />
+    <String id="4006" string="Forge de la Fureur" />
+    <String id="4007" string="Avant-poste du Chaudron" />
+    <String id="4008" string="Base de feu de l'Intrépidité" />
+    <String id="4009" string="Base de feu de la Bravoure" />
+    <String id="4010" string="Mine de Delthin" />
+    <String id="4011" string="Mine de Tansin" />
+    <String id="4012" string="Entrée du Repaire d'Akasha" />
+    <String id="4013" string="Dents des chaînes de montagnes" />
+    <String id="4014" string="Entrée du temple de Baharr" />
+    <String id="5001" string="Marais Tuwangi" />
+    <String id="5002" string="Garnison Tuwangi" />
+    <String id="5003" string="Vallée de Babok" />
+    <String id="5004" string="Marécages" />
+    <String id="5005" string="Hameau Tuwangi" />
+    <String id="5006" string="Bassin de Grandereinette" />
+    <String id="5008" string="Val moussu" />
+    <String id="5009" string="Autel de la Grenouille embrasée" />
+    <String id="5010" string="Étang de conjuration sacré" />
+    <String id="5011" string="Camp tuwangi" />
+    <String id="6001" string="Vallée des Titans" />
+    <String id="6002" string="Zone de paix" />
+    <String id="6003" string="Mags Strix" />
+    <String id="6004" string="Terres du Silence" />
+    <String id="6005" string="Colchester" />
+    <String id="6006" string="Mags Kulkar" />
+    <String id="6007" string="Village fouaille-tripes" />
+    <String id="6008" string="Route sauvage" />
+    <String id="6009" string="Sanctuaire de Valselok" />
+    <String id="6010" string="Autel de l'Angoisse" />
+    <String id="6011" string="Ferme des Deux Chênes" />
+    <String id="6012" string="Ferme de l'Echo" />
+    <String id="6013" string="Camp des Défenseurs" />
+    <String id="6017" string="Porte de Crescentia" />
+    <String id="6464" string="Ville proche" />
+    <String id="6465" string="Se rendre au Château céleste" />
+    <String id="6466" string="Château céleste" />
+    <String id="6467" string="Place supérieure de Velika" />
+    <String id="6468" string="Symposium des Anciens à Allemantheia" />
+    <String id="7001" string="Collines célestes" />
+    <String id="7002" string="Plaines d'Omphalos" />
+    <String id="7003" string="Ruines de Muricai" />
+    <String id="7004" string="Лаборатория Мистериума" />
+    <String id="7005" string="Poste de Casidhe" />
+    <String id="7006" string="Vestiges de Cardovek" />
+    <String id="7007" string="Ferme de Godric" />
+    <String id="7008" string="Bivouac orkan" />
+    <String id="7009" string="Pierre consacrée" />
+    <String id="7010" string="Croisée de la Pythie" />
+    <String id="7777" string="Zone de mission de gardien" />
+    <String id="8001" string="Cavernes affamées" />
+    <String id="8002" string="Chambres des Cavernes affamées" />
+    <String id="8003" string="Catacombes des Cavernes affamées" />
+    <String id="8004" string="Profondeurs des Cavernes affamées" />
+    <String id="8005" string="Avant-poste du Vengeur" />
+    <String id="8006" string="Caverne des Entraves" />
+    <String id="8007" string="Caverne de la Faim" />
+    <String id="8008" string="Caverne du Massacre" />
+    <String id="8009" string="Caverne de la Douleur" />
+    <String id="8010" string="Caverne des Larmes" />
+    <String id="8011" string="Entrée des Cavernes affamées" />
+    <String id="8012" string="Poste alpha de l'avant-garde" />
+    <String id="8013" string="Poste bêta de l'avant-garde" />
+    <String id="8014" string="Entrée du Labyrinthe d'or" />
+    <String id="8888" string="Champ de bataille de TERA" />
+    <String id="9001" string="Vallée de l'Ascension" />
+    <String id="9002" string="Labyrinthe d'Azarel" />
+    <String id="9003" string="Profondeurs du Labyrinthe d'Azarel" />
+    <String id="9004" string="Galerie du Chaos" />
+    <String id="9005" string="Galerie de la Luxure" />
+    <String id="9006" string="Galerie de l'Imposture" />
+    <String id="9008" string="Base avancée détruite" />
+    <String id="9009" string="Galerie du Destin" />
+    <String id="9010" string="Forêt du Bastion" />
+    <String id="9011" string="Avant-poste des Chasseurs de Reliques" />
+    <String id="9012" string="Marais Vexatus" />
+    <String id="9013" string="Entrée de l'Ascension de Saravash" />
+    <String id="9034" string="Pic de l'effroi (difficile)" />
+    <String id="9044" string="Temple de Baharr" />
+    <String id="9054" string="Entrée de l'Ascension bathyssale" />
+    <String id="9056" string="Espace-temps de Valona (difficile)" />
+    <String id="9057" string="Fournaise d'Archeron (difficile)" />
+    <String id="9059" string="L'Île délaissée" />
+    <String id="9060" string="Cuirassé de Kalivan (difficile)" />
+    <String id="9066" string="Roulette de Demoroth" />
+    <String id="9067" string="Laboratoire de Verno (difficile)" />
+    <String id="9068" string="Temple sanglant de Dkurion (difficile)" />
+    <String id="9069" string="Forteresse de Raqnan" />
+    <String id="9070" string="Plateau trompeur" />
+    <String id="9503" string="Résidence des commandants" />
+    <String id="9505" string="Salle de banquet de Velika (difficile)" />
+    <String id="9506" string="Salle de banquet de Velika" />
+    <String id="9507" string="Salle inconnue" />
+    <String id="9508" string="Monde intérieur" />
+    <String id="9509" string="Salle de banquet paisible de Velika" />
+    <String id="9618" string="Arène d'évènement (Velika)" />
+    <String id="9681" string="Rêve de Velik" />
+    <String id="9710" string="Prison de Lakan (difficile)" />
+    <String id="9720" string="Abîme d'Antaros" />
+    <String id="9735" string="Hangar du RK-9" />
+    <String id="9739" string="Camp des révolutionnaires" />
+    <String id="9756" string="Espace-temps de Valona" />
+    <String id="9759" string="L'Île délaissée (difficile)" />
+    <String id="9760" string="Cuirassé de Kalivan" />
+    <String id="9767" string="Laboratoire de Verno" />
+    <String id="9768" string="Temple sanglant de Dkurion" />
+    <String id="9769" string="Forteresse de Lilitas (facile)" />
+    <String id="9770" string="Ruines de Lachelitas (facile)" />
+    <String id="9780" string="Porte souterraine de Velika" />
+    <String id="9781" string="Sanctuaire de Velik" />
+    <String id="9782" string="Hall souterrain de Lian" />
+    <String id="9783" string="Forteresse de Ténébris" />
+    <String id="9794" string="Station de recherche de Syruk" />
+    <String id="9795" string="" />
+    <String id="9810" string="Entrée de la Prison de Lakan" />
+    <String id="9830" string="Trône céleste" />
+    <String id="9833" string="Gorge du Wyrm" />
+    <String id="9860" string="Cuirassé de Kalivan (facile)" />
+    <String id="9920" string="Abîme d'Antaros (difficile)" />
+    <String id="9935" string="Hangar du RK-9 (difficile)" />
+    <String id="9939" string="Camp des révolutionnaires terrifiant" />
+    <String id="9950" string="Passage détruit du royaume des dieux" />
+    <String id="9969" string="Forteresse de Lilitas (difficile)" />
+    <String id="9970" string="Ruines de Lachelitas (difficile)" />
+    <String id="9980" string="Porte souterraine effondrée de Velika" />
+    <String id="9981" string="Sanctuaire effondré" />
+    <String id="9982" string="Hall souterrain de Lian (difficile)" />
+    <String id="9983" string="Forteresse de Ténébris (difficile)" />
+    <String id="9994" string="Station de recherche de Syruk (difficile)" />
+    <String id="9999" string="Zone instanciée de TERA" />
+    <String id="10001" string="Île Serpentis" />
+    <String id="10002" string="Rivage du Boa" />
+    <String id="10003" string="Plage de la Tortue dragon" />
+    <String id="10004" string="Ile Kerozen" />
+    <String id="10005" string="Jungle Adderkin" />
+    <String id="10006" string="Tombe de Dagon" />
+    <String id="10007" string="La Tête de pont" />
+    <String id="10008" string="Poste de guet côtier" />
+    <String id="10009" string="Camp de la Vipère" />
+    <String id="10010" string="Taverne à l'Ouest de la Plage" />
+    <String id="10011" string="Potager à pastèques de Wahmel" />
+    <String id="10012" string="Batterie de canons pulvérisants de Chelton" />
+    <String id="10013" string="Batterie de canons pulvérisants de Zaith" />
+    <String id="10014" string="Atelier de Corne de Dolme" />
+    <String id="10015" string="Taverne au Sud de la Plage" />
+    <String id="10016" string="Soirée plage" />
+    <String id="10017" string="Tour de Nakatam" />
+    <String id="10018" string="Repaire de Gruber" />
+    <String id="11001" string="Côte déchiquetée" />
+    <String id="11002" string="Route de la jungle" />
+    <String id="11003" string="Camp des patrouilleurs de la jungle" />
+    <String id="11004" string="Parcelles englouties" />
+    <String id="11005" string="Grotte des pirates" />
+    <String id="11006" string="Limite de la Jetée" />
+    <String id="11007" string="Ancrage sombre" />
+    <String id="11008" string="Cabine du capitaine des pirates" />
+    <String id="11009" string="Bastion de l'avant-garde" />
+    <String id="11010" string="Enclos de chèvres" />
+    <String id="11011" string="Perchoir du maître" />
+    <String id="11012" string="Perchoir des pirates" />
+    <String id="11013" string="Camp de subjugation" />
+    <String id="11014" string="Les planches" />
+    <String id="11015" string="Avant-poste marin" />
+    <String id="11016" string="Le Bastion" />
+    <String id="11017" string="Repositorium" />
+    <String id="11018" string="Zone de pêche" />
+    <String id="12001" string="Ile des brumes" />
+    <String id="12002" string="Plage des gorges tranchées" />
+    <String id="12003" string="Prisons de la pluie" />
+    <String id="12004" string="Forêt des brumes" />
+    <String id="12005" string="Côte abandonnée" />
+    <String id="12006" string="Côte sinistre" />
+    <String id="12007" string="Route ténébreuse" />
+    <String id="12008" string="Plage des bancs de sable" />
+    <String id="12009" string="Entrée du {@Rgn:9024001}" />
+    <String id="12012" string="Camp de base des Défenseurs" />
+    <String id="12013" string="Avant-poste des Défenseurs" />
+    <String id="13001" string="Île de l'aube" />
+    <String id="13002" string="Plateforme du pégase" />
+    <String id="13003" string="Ruines mystérieuses" />
+    <String id="13004" string="Vallée maudite" />
+    <String id="13005" string="Point de contrôle nord" />
+    <String id="13006" string="Autel du Dieu démoniaque" />
+    <String id="13007" string="Aiguille mathar" />
+    <String id="13008" string="Bivouac orkan" />
+    <String id="13009" string="Pont de la Vallée maudite" />
+    <String id="13010" string="Poste de guet est" />
+    <String id="13011" string="Repaire de Karascha" />
+    <String id="13012" string="Temple mystérieux" />
+    <String id="13013" string="Piste d'atterrissage de l'aéronef" />
+    <String id="13014" string="Pont de la Vallée maudite" />
+    <String id="13015" string="Campement abandonné" />
+    <String id="13016" string="Pont de l'aube" />
+    <String id="13017" string="Campement de Dulari" />
+    <String id="13018" string="Poste de guet du Nord" />
+    <String id="13019" string="Île de l'Aube Ouest" />
+    <String id="13020" string="Point de contrôle Sud" />
+    <String id="13021" string="Île de l'Aube Est" />
+    <String id="13022" string="Garnison de la Vallée maudite" />
+    <String id="13023" string="Île de l'Aube Sud" />
+    <String id="13024" string="Autel de Yurian" />
+    <String id="13025" string="Roche teintée" />
+    <String id="13026" string="Vallée maudite Nord" />
+    <String id="13027" string="Avant-poste de la Vallée maudite" />
+    <String id="13028" string="Hauteurs d'Arun" />
+    <String id="13029" string="Gueule de la Vallée maudite" />
+    <String id="13030" string="Bois intemporels" />
+    <String id="13031" string="Dock nord" />
+    <String id="13032" string="Poste de guet du Nord" />
+    <String id="13033" string="Poste de guet central" />
+    <String id="13034" string="Poste de guet sud" />
+    <String id="13035" string="Place du temple sinistrée" />
+    <String id="14001" string="Noobaria" />
+    <String id="15001" string="Falaises de la Folie" />
+    <String id="15002" string="Terre de la Furie" />
+    <String id="15003" string="Butte aux Hurlements" />
+    <String id="15004" string="Ferme du Sud" />
+    <String id="15005" string="Ordnarath" />
+    <String id="15006" string="Camp de la Vigilance" />
+    <String id="15007" string="Camp de la Vengeance" />
+    <String id="15008" string="Pierre magique rageuse" />
+    <String id="15009" string="Camp de la Rédemption" />
+    <String id="15201" string="Embarcadère" />
+    <String id="15202" string="Porte est" />
+    <String id="15203" string="Porte ouest" />
+    <String id="15204" string="Ruine" />
+    <String id="15205" string="Montagnes de Gidd" />
+    <String id="15206" string="Ferme" />
+    <String id="15601" string="Mine" />
+    <String id="15602" string="Bastion" />
+    <String id="15603" string="Ferme" />
+    <String id="15604" string="Marché" />
+    <String id="15605" string="Port" />
+    <String id="16001" string="Val du Croc" />
+    <String id="16002" string="Plaine biscornue" />
+    <String id="16003" string="Champs abandonnés" />
+    <String id="16006" string="Manoir sinistre" />
+    <String id="16007" string="Dernier espoir d'Alethea" />
+    <String id="16008" string="Site de recherche de Runicar" />
+    <String id="16009" string="Chemin de primevères" />
+    <String id="16010" string="Entrée de service du Manoir sinistre" />
+    <String id="17001" string="Ravin de Paraanon" />
+    <String id="17002" string="Plaines de Paraanon" />
+    <String id="17003" string="Paradis des Fanatiques" />
+    <String id="17004" string="Autel de la foi" />
+    <String id="17006" string="Avant-poste assiégé" />
+    <String id="17007" string="Avant-poste lugubre" />
+    <String id="18001" string="Ruines colossales" />
+    <String id="18002" string="Mags Kuchanaru" />
+    <String id="18003" string="Mags Kurata" />
+    <String id="18004" string="Temple de Tithus" />
+    <String id="18005" string="Place du Tout-puissant" />
+    <String id="18006" string="Arène des Inspirés" />
+    <String id="18007" string="Camp de Marrakeen" />
+    <String id="18008" string="Sietch Bidaum" />
+    <String id="19001" string="Terres libres" />
+    <String id="19002" string="Champs lugubres" />
+    <String id="19003" string="Ferme de Digory" />
+    <String id="19004" string="Ferme de Lein" />
+    <String id="19005" string="Veillée de Velik" />
+    <String id="19006" string="Champ de l'Esclavage" />
+    <String id="19007" string="Hameau en ruines" />
+    <String id="19008" string="Site de la fin de Lee" />
+    <String id="19009" string="La fin de Lee" />
+    <String id="19010" string="Ferme laitière de Filton" />
+    <String id="19011" string="Campement de la confrérie libre" />
+    <String id="19012" string="Champ de foire du festival des Campagnes en fête" />
+    <String id="19013" string="Bamarama" />
+    <String id="19014" string="Ferme de Lein" />
+    <String id="19015" string="Parc public" />
+    <String id="19016" string="Enclos à cochons" />
+    <String id="19017" string="Ferme ovine" />
+    <String id="19018" string="Etang céleste" />
+    <String id="19019" string="Chaudron du champ de foire" />
+    <String id="19020" string="Poêle à frire et four du champ de foire" />
+    <String id="19021" string="Brasero du champ de foire" />
+    <String id="19022" string="Buffet de salade du champ de foire" />
+    <String id="19023" string="Environnement de Bamarama" />
+    <String id="19101" string="Arx Umbra" />
+    <String id="19102" string="Approche d'Inferus" />
+    <String id="19103" string="Avant-poste de Domare" />
+    <String id="19104" string="Val du gel" />
+    <String id="19105" string="Zone de combat" />
+    <String id="19106" string="Avant-poste parthe alpha" />
+    <String id="19107" string="Avant-poste parthe beta" />
+    <String id="19108" string="Front Delvias" />
+    <String id="19109" string="Forteresse de Raqnan" />
+    <String id="19110" string="Falaises de Mingor" />
+    <String id="19111" string="Falaises de Mingor" />
+    <String id="19112" string="Avant-poste de la tempête" />
+    <String id="19113" string="Entrée de la Forteresse de Raqnan" />
+    <String id="19114" string="Plateforme de téléportation de la zone de combat : Front Delvias" />
+    <String id="19115" string="Plateforme de téléportation de la zone de combat : Entrée de la Forteresse de Raqnan" />
+    <String id="19116" string="Plateforme de téléportation de la Forteresse de Raqnan : porte sud" />
+    <String id="19117" string="Plate-forme de téléportation ouest" />
+    <String id="19118" string="Plate-forme de téléportation nord" />
+    <String id="19119" string="1er niveau de la Forteresse de Raqnan" />
+    <String id="19120" string="Plate-forme de l'aéronef" />
+    <String id="19121" string="Noyau de la forteresse" />
+    <String id="19122" string="Avant-poste parthe" />
+    <String id="19123" string="Cour intérieure" />
+    <String id="19124" string="Porte sud" />
+    <String id="20001" string="Mines ténébreuses" />
+    <String id="20002" string="Halls de la Mélancolie" />
+    <String id="20003" string="Halls des Ombres" />
+    <String id="20004" string="Halls des Ténèbres" />
+    <String id="20005" string="La Fosse" />
+    <String id="20006" string="Guet du contremaître" />
+    <String id="20007" string="Station du reliquaire" />
+    <String id="20008" string="Avant-poste des Ténèbres" />
+    <String id="21001" string="Roc du Basilic" />
+    <String id="21002" string="Oasis Ubari" />
+    <String id="21003" string="Vallée désolée" />
+    <String id="21004" string="Étendues de sable" />
+    <String id="21005" string="Piste de la Vieille mine" />
+    <String id="21006" string="Vallée des Hurlements" />
+    <String id="21007" string="Vallée des Tombes" />
+    <String id="21008" string="Poste de guet du désert" />
+    <String id="21009" string="Avant-poste des Terres arides" />
+    <String id="21010" string="Station de recherche du désert" />
+    <String id="21011" string="Restes de piliers de pierre" />
+    <String id="21012" string="Mags Tohopka" />
+    <String id="22001" string="Académie Eldritch" />
+    <String id="22002" string="Académie Eldritch" />
+    <String id="22003" string="Halls de la Connaissance" />
+    <String id="22004" string="Halls du Pouvoir" />
+    <String id="22005" string="Laboratoires maléfiques" />
+    <String id="22006" string="Catacombes de la reine des sorcières" />
+    <String id="22007" string="Parc de Serena" />
+    <String id="22008" string="Bastion eldritch" />
+    <String id="22009" string="Fortin des Professeurs" />
+    <String id="22010" string="Athenaeum" />
+    <String id="22011" string="Galerie" />
+    <String id="22012" string="Bibliothèque occulte" />
+    <String id="22013" string="Bibliothèque scientifique" />
+    <String id="22014" string="Chambre du Thaumaturge" />
+    <String id="22015" string="Grand Hall" />
+    <String id="22016" string="Sanctuaire des Arcanes" />
+    <String id="22017" string="Laboratoire chirurgical" />
+    <String id="22018" string="Hall de Vadoma" />
+    <String id="23001" string="Lac des Larmes" />
+    <String id="23002" string="Plateforme du pégase de Pora Elinu" />
+    <String id="23004" string="Bosquet d'Elin" />
+    <String id="23005" string="Forêt bénie" />
+    <String id="23006" string="Camp de la Serre de sang" />
+    <String id="23007" string="Chemin du Bouffon fou" />
+    <String id="23008" string="Camp de la Fédération Valkyon" />
+    <String id="23009" string="Camp d'urgence" />
+    <String id="23010" string="Avant-poste de l'Esprit" />
+    <String id="23011" string="Cabane de l'Exil" />
+    <String id="23012" string="Camp d'éclaireurs kobolds" />
+    <String id="24001" string="Route d'Aurum" />
+    <String id="24002" string="Désert de Rapine" />
+    <String id="24003" string="Route d'Aurum nord" />
+    <String id="24004" string="Route d'Aurum sud" />
+    <String id="24005" string="Village du Vent de sable" />
+    <String id="24006" string="Fortin de Lok" />
+    <String id="24007" string="Ruines de Storst" />
+    <String id="24008" string="Poste d'Observation Ouest" />
+    <String id="24009" string="Refuge de Marchesable" />
+    <String id="24010" string="Avant-poste du Torrent" />
+    <String id="24011" string="La Ville Dévastée" />
+    <String id="24012" string="Campement des Croisés" />
+    <String id="24013" string="Fortin de la Cathédrale" />
+    <String id="24014" string="Rivière souterraine" />
+    <String id="25001" string="Passage de la cathédrale" />
+    <String id="25002" string="Cathédrale sombre" />
+    <String id="25003" string="Transepts" />
+    <String id="25004" string="Fortin des Défenseurs" />
+    <String id="25005" string="Caveau des grimoires" />
+    <String id="25006" string="Autel de la Perle sanglante" />
+    <String id="25007" string="Cathédrale sombre" />
+    <String id="25008" string="Grande chapelle" />
+    <String id="25009" string="Stade de la Renaissance" />
+    <String id="25010" string="Salle capitulaire" />
+    <String id="25011" string="Stade du sacrifice" />
+    <String id="25012" string="Le Portail" />
+    <String id="25013" string="Salle de la Dévotion" />
+    <String id="26001" string="Bassin béni" />
+    <String id="26002" string="Piste du Cerf blanc" />
+    <String id="26003" string="Repos de Celestus" />
+    <String id="26004" string="Forêt éthérée" />
+    <String id="26005" string="Fontaine de Shara" />
+    <String id="26006" string="Camp du Carrefour" />
+    <String id="26007" string="Locus des Scrutateurs" />
+    <String id="27001" string="Crête essénianne" />
+    <String id="27002" string="Refuge de Shakazen" />
+    <String id="27003" string="Vallée de la Sérénité" />
+    <String id="27004" string="Forteresse sanglante" />
+    <String id="27005" string="Collines du Silence" />
+    <String id="27006" string="Castra Mysterium" />
+    <String id="27007" string="Station de la Libération" />
+    <String id="27008" string="Ferme du Refuge" />
+    <String id="27009" string="Poste de défense 1" />
+    <String id="27010" string="Poste de défense 2" />
+    <String id="27011" string="Poste de défense 3" />
+    <String id="27012" string="Poste de défense 4" />
+    <String id="27016" string="Place des papillons" />
+    <String id="28001" string="Bois malade" />
+    <String id="28002" string="Talion de Shakan" />
+    <String id="28003" string="Sentier Herath" />
+    <String id="28004" string="Vallée sinueuse" />
+    <String id="28009" string="Camp de Zakai" />
+    <String id="28010" string="Avant-poste de Garbi" />
+    <String id="29001" string="Bois intemporels" />
+    <String id="29002" string="Bois des Murmures" />
+    <String id="29003" string="Cœur de bois" />
+    <String id="29004" string="Forêt de l'arbre étoilé" />
+    <String id="29005" string="Pointe du Randonneur" />
+    <String id="29006" string="Avant-poste de Dorana" />
+    <String id="30001" string="Refuge de Balder" />
+    <String id="30002" string="Haute Vallée" />
+    <String id="30003" string="Hall de Seren" />
+    <String id="30004" string="Hall de la forêt" />
+    <String id="30005" string="Jardin de Seren" />
+    <String id="30006" string="Clairière Vivefeuille" />
+    <String id="30007" string="Pavillon de Balder" />
+    <String id="30008" string="Niveau inférieur des archives" />
+    <String id="30009" string="Ruines du temple" />
+    <String id="30010" string="Camp de l'Ensoleillement" />
+    <String id="30011" string="Camp de la Clairvoyance" />
+    <String id="30012" string="Camp de la Curiosité" />
+    <String id="30013" string="Rez-de-chaussée des archives" />
+    <String id="30014" string="Lac de Seren" />
+    <String id="30015" string="Forteresse des Archives" />
+    <String id="30016" string="Camp de la Forteresse" />
+    <String id="30017" string="Lance de Lok" />
+    <String id="30018" string="Perchoir d'Arkai" />
+    <String id="30019" string="Entrée du Temple de Balder" />
+    <String id="30020" string="Entrée du Phare du Soleil" />
+    <String id="30021" string="Arbre de la Sagesse" />
+    <String id="30022" string="Emplacement pour la pierre magique" />
+    <String id="31000" string="Prison de Lakan" />
+    <String id="31001" string="Plaine des Tempêtes" />
+    <String id="31002" string="Étendues de glace" />
+    <String id="31003" string="Plaines de la Mort givrée" />
+    <String id="31004" string="Lac de Glacecroc" />
+    <String id="31005" string="Crique de Glacecroc" />
+    <String id="31006" string="Le Maelstrom" />
+    <String id="31007" string="Baie glaciale" />
+    <String id="31008" string="Station de recherche de la baie glaciale" />
+    <String id="31009" string="Garnison de la Pointe du Phare" />
+    <String id="31010" string="Epave du Batia" />
+    <String id="32001" string="Mont Tyrannas" />
+    <String id="32002" string="Passage de l'Intimidation" />
+    <String id="32003" string="Campement des Loups de Frimas" />
+    <String id="32004" string="Toundra sombre" />
+    <String id="32005" string="Campement des Mercenaires Lamesang" />
+    <String id="32006" string="Veillée insensible" />
+    <String id="32007" string="Poste de guet du tyran" />
+    <String id="32008" string="Fortin des Irréductibles" />
+    <String id="32009" string="Palissade audacieuse" />
+    <String id="32010" string="Ossuaire d'Acarum" />
+    <String id="33001" string="Citadelle du Tourment" />
+    <String id="33002" string="Chemin du Tourment" />
+    <String id="33003" string="Route de ravitaillement est" />
+    <String id="33004" string="Antichambres" />
+    <String id="33005" string="Hall des Demoiselles" />
+    <String id="33006" string="Hall des Maîtres" />
+    <String id="33007" string="Quartiers des Bouffons" />
+    <String id="33008" string="Plaine du Vertige" />
+    <String id="33009" string="Galerie de l'Angoisse" />
+    <String id="33010" string="Catacombes hurlantes" />
+    <String id="33011" string="Catacombe de la Tourmente" />
+    <String id="33012" string="Prison de Distorsion" />
+    <String id="33013" string="Profondeurs sanglantes" />
+    <String id="33014" string="Poste de sentinelle du Triste repaire" />
+    <String id="33015" string="Refuge des Espions" />
+    <String id="33016" string="Cachette sanguine" />
+    <String id="33017" string="Voie délitée" />
+    <String id="33018" string="Profondeurs sanglantes" />
+    <String id="34001" string="Plaine gelée" />
+    <String id="34002" string="Sentier des glaces" />
+    <String id="34003" string="Glacier hurlant" />
+    <String id="34004" string="Champ enneigé hurlant" />
+    <String id="34005" string="Site de pêche du Lac de Celsian" />
+    <String id="34006" string="Autel d'Azurice" />
+    <String id="34007" string="Base de Glace du Rôdeur" />
+    <String id="34008" string="Camp des Voyageurs" />
+    <String id="34009" string="Base junaidar" />
+    <String id="35001" string="Gorge du Wyrm" />
+    <String id="35002" string="Sanctuaire de Zaeltarazad" />
+    <String id="35003" string="Vallée de la Mort" />
+    <String id="35004" string="Mines de Croskurn" />
+    <String id="35005" string="Approche de Croskurn" />
+    <String id="35006" string="Crête déchiquetée" />
+    <String id="35007" string="Avant-poste de l'Epine ardente" />
+    <String id="36001" string="Tor Exsul" />
+    <String id="36002" string="Vallon ardent" />
+    <String id="36003" string="Repaire des Hors-la-loi" />
+    <String id="36004" string="Oasis des Arbres à pluie" />
+    <String id="36005" string="Vallée du Sang" />
+    <String id="36006" string="Point de Contrôle d'Ébène" />
+    <String id="36007" string="Avant-poste du Feu de Mana" />
+    <String id="36008" string="Guet du Coureur" />
+    <String id="36009" string="Portail du Sceau d'Adstringo" />
+    <String id="37001" string="Crypte de l'abandon" />
+    <String id="37002" string="Crypte de l'égarement" />
+    <String id="37003" string="Crypte des maudits" />
+    <String id="37004" string="Station de recherche de la Phalange" />
+    <String id="37005" string="Site de recherche de Corpus" />
+    <String id="37006" string="Fortin rebelle" />
+    <String id="37007" string="Site de recherche de Saleron" />
+    <String id="37008" string="Pont de la Douleur" />
+    <String id="37009" string="Travée d'Ébène" />
+    <String id="37010" string="Zone d'incursion" />
+    <String id="37011" string="Crypte maudite" />
+    <String id="38001" string="Gorges de Sienna" />
+    <String id="38002" string="Entrée de l'Arène du courroux" />
+    <String id="38004" string="Ravin de Feldrin" />
+    <String id="38005" string="Champ de feu" />
+    <String id="38006" string="Repaire du Tonnerre" />
+    <String id="38007" string="Quartier de la falaise aux perchoirs" />
+    <String id="38008" string="Avant-poste du Cratère" />
+    <String id="38009" string="Guet de la Vouivre" />
+    <String id="38010" string="Accès à la Crypte maudite" />
+    <String id="38011" string="Coulée de Pointequeue" />
+    <String id="38012" string="Station de quarantaine" />
+    <String id="39001" string="Arachnaea" />
+    <String id="39002" string="Réseau arachnéen" />
+    <String id="39003" string="La tanière" />
+    <String id="39004" string="Avant-poste du Voyou" />
+    <String id="39005" string="Pointe de la Vengeance" />
+    <String id="39006" string="La Couveuse" />
+    <String id="39007" string="Sanctuaire" />
+    <String id="39008" string="Vigie défiante" />
+    <String id="39009" string="Autel de la Résurrection" />
+    <String id="39010" string="Pointe de la vengeance" />
+    <String id="39011" string="Tombes aux cocons" />
+    <String id="40001" string="Zone de quarantaine" />
+    <String id="40002" string="Village en quarantaine" />
+    <String id="40003" string="Village en ruines" />
+    <String id="40004" string="Mines perdues" />
+    <String id="40005" string="Vallée maculée" />
+    <String id="40008" string="Avant-poste de la Quarantaine" />
+    <String id="40009" string="Zone de Quarantaine du Centre de recherche" />
+    <String id="40010" string="Cavernes d'Arachnaea" />
+    <String id="40011" string="Fléau d'Arachné" />
+    <String id="41001" string="Vallée sauvage" />
+    <String id="41002" string="Pointe de l'Emissaire" />
+    <String id="41003" string="Station de la Vallée sauvage" />
+    <String id="41004" string="Vallée sauvage nord" />
+    <String id="41005" string="Avant-poste d'Experior" />
+    <String id="41006" string="Arène sanglante" />
+    <String id="41007" string="Vallée sauvage sud" />
+    <String id="41008" string="Paxomnia" />
+    <String id="42001" string="Temple de Dagon" />
+    <String id="42002" string="Couloirs de la corruption" />
+    <String id="42003" string="Profondeurs de la corruption" />
+    <String id="42004" string="Chambre de l'Avarice" />
+    <String id="42005" string="Chambre de la Malveillance" />
+    <String id="42006" string="Chambre des Ames perdues" />
+    <String id="42007" string="Salle capitulaire du Temple" />
+    <String id="42008" string="Le Sanctum" />
+    <String id="42009" string="Chambre de l'Exaltation" />
+    <String id="42010" string="Chambre de l'Illumination" />
+    <String id="42011" string="Atrium d'Ecdysi" />
+    <String id="42012" string="Camp du Venin" />
+    <String id="42013" string="Transepts spiriformes" />
+    <String id="42014" string="Chambre des Ames éminentes" />
+    <String id="43001" string="Cathuulrach" />
+    <String id="44001" string="Abords de Gueule d'ébène" />
+    <String id="44002" string="Gueule d'ébène" />
+    <String id="44003" string="Gueule d'ébène - deuxième étage" />
+    <String id="44004" string="Gueule d'ébène - troisième étage" />
+    <String id="44005" string="Gueule d'ébène - quatrième étage" />
+    <String id="45001" string="Forteresse de la Servitude" />
+    <String id="45002" string="Abords de la Tour" />
+    <String id="45003" string="Val du Faucheur" />
+    <String id="45004" string="Pointe du Guet" />
+    <String id="45005" string="Champs célestes" />
+    <String id="45006" string="Base de la Riposte" />
+    <String id="45007" string="Base de la Résistance" />
+    <String id="45008" string="Base de la Vaillance" />
+    <String id="45009" string="Camp de la Folie" />
+    <String id="45010" string="Poste d'observation de Bravoure" />
+    <String id="45011" string="Camp du Guet du marais" />
+    <String id="45012" string="Entrée de la forteresse argone effondrée" />
+    <String id="45013" string="Poste de Khanovar" />
+    <String id="46001" string="Trois Tours" />
+    <String id="46002" string="Raga Evala" />
+    <String id="46003" string="Raga Shadi" />
+    <String id="46004" string="Raga Kabash" />
+    <String id="46005" string="Profondeurs des Trois Tours" />
+    <String id="46006" string="Profondeurs de Raga Shadi" />
+    <String id="46007" string="Profondeurs de Raga Evala" />
+    <String id="46008" string="Profondeurs de Raga Kabash" />
+    <String id="46009" string="Aiguilles des Trois Tours" />
+    <String id="46010" string="Aiguille de Raga Evala" />
+    <String id="46011" string="Aiguille de Raga Shadi" />
+    <String id="46012" string="Aiguille de Raga Kabash" />
+    <String id="46013" string="Exetron" />
+    <String id="46014" string="Site de recherche des Trois Tours" />
+    <String id="46015" string="Chambre Cœur-sort" />
+    <String id="46016" string="Chambre de la Couronne de l'Esprit" />
+    <String id="46017" string="Chambre de la Lueur d'ombre" />
+    <String id="46018" string="Aiguilles des Trois Tours" />
+    <String id="46019" string="Chambre Grondebête" />
+    <String id="46020" string="Chambre Brilleracine" />
+    <String id="46021" string="Chambre Discœur" />
+    <String id="46022" string="Chambre Métagraine" />
+    <String id="46023" string="Chambre tord-sang" />
+    <String id="46024" string="Chambre déferlâme" />
+    <String id="46025" string="Bureau de transmission de Raga" />
+    <String id="47001" string="Forêt de Tirkai" />
+    <String id="47002" string="Forêt de la gelée blanche" />
+    <String id="47003" string="Tête de pont" />
+    <String id="47004" string="Hurlefléau" />
+    <String id="47005" string="Frontière argone" />
+    <String id="47006" string="Base de la Folie" />
+    <String id="47007" string="Station de recherche de la Destruction" />
+    <String id="47008" string="Guet de l'Est" />
+    <String id="47009" string="Camp temporaire de la patrouille" />
+    <String id="47010" string="Treillis de puissance argon" />
+    <String id="47011" string="Zone d'émission des spores" />
+    <String id="47012" string="Emetteur du bouclier argon" />
+    <String id="47013" string="Ancien camp d'éclaireurs" />
+    <String id="47014" string="Epave argone" />
+    <String id="47015" string="Champ de champignons pétrifiés" />
+    <String id="47017" string="Étang du Fléau" />
+    <String id="48001" string="Front de Khanovar" />
+    <String id="48002" string="Citadelle de Khanovar" />
+    <String id="48003" string="Caverne du Péril" />
+    <String id="48004" string="Fonderie de Cyanocanon" />
+    <String id="48005" string="Forteresse de Valgurati" />
+    <String id="48006" string="Vallée du Carnage" />
+    <String id="48007" string="Rempart argon" />
+    <String id="48008" string="Cratère de Magthulk" />
+    <String id="48009" string="Convertisseur de cyasma" />
+    <String id="48010" string="Caverne des Catacombes" />
+    <String id="49001" string="Argonea" />
+    <String id="49002" string="Extracteur de mana Ilithieri" />
+    <String id="49003" string="Machine d'Agnurok" />
+    <String id="49004" string="Portail melgatol" />
+    <String id="49005" string="Arbre casian" />
+    <String id="49090" string="Plateforme de téléportation sud" />
+    <String id="49091" string="Plateforme de téléportation nord" />
+    <String id="49092" string="Plateforme de téléportation est" />
+    <String id="50001" string="Granarkus" />
+    <String id="50002" string="Avant-poste du Linceul" />
+    <String id="50003" string="Grotte d'Helkir" />
+    <String id="50004" string="Nid kargon" />
+    <String id="50005" string="Extracteur noyul" />
+    <String id="50006" string="Complexe sorgalur" />
+    <String id="50007" string="Stalactite kargon" />
+    <String id="50008" string="Cavernes de Viridia" />
+    <String id="50009" string="Entrée du Repaire de la Reine" />
+    <String id="50090" string="Plateforme de téléportation de Granarkus" />
+    <String id="51001" string="Vallée des Aiguilles" />
+    <String id="51002" string="Tour d'Ebène" />
+    <String id="51003" string="Hurlement du Wendigo" />
+    <String id="51004" string="Raseri Festning" />
+    <String id="51005" string="Crique de Glacecroc" />
+    <String id="51006" string="Base de Glace du Défi" />
+    <String id="52001" string="Plaine des Damnés" />
+    <String id="52002" string="Champ de neige brûlant" />
+    <String id="52003" string="Crypte de neige et de cendre" />
+    <String id="52004" string="Bûcher du Traître" />
+    <String id="52005" string="Fournaise divine" />
+    <String id="52006" string="Base de feu de l'Audace" />
+    <String id="52007" string="Guet de la Tombe des Exilés" />
+    <String id="52008" string="Approche de la Fournaise" />
+    <String id="52009" string="Centre de commande central" />
+    <String id="52010" string="Pont de la peine" />
+    <String id="52011" string="Loge perdue" />
+    <String id="52012" string="Entrée de l'Atelier de Muhrak" />
+    <String id="53001" string="Labyrinthe de la Terreur" />
+    <String id="53002" string="Hall de Shriekaal" />
+    <String id="53003" string="Hall de Tragieron" />
+    <String id="53004" string="Hall d'Agonal" />
+    <String id="53006" string="Hall des Cauchemars" />
+    <String id="53007" string="Hall des Hurlements" />
+    <String id="53008" string="Hall de Kriegar" />
+    <String id="53009" string="Hall d'Anarxis" />
+    <String id="54001" string="Taillis de Morteseaux" />
+    <String id="54002" string="Bois de Bruitsourd" />
+    <String id="54003" string="Le Belvédère" />
+    <String id="54004" string="Vallée Faevine" />
+    <String id="54005" string="Valfée" />
+    <String id="54006" string="Poste d'observation de la Grande porte" />
+    <String id="54007" string="Campement verdoyant" />
+    <String id="54008" string="Avant-poste d'Arcanum" />
+    <String id="55001" string="Bois obscur" />
+    <String id="55002" string="Vallée de la Solitude" />
+    <String id="55003" string="Jardin des Ombres menaçantes" />
+    <String id="55004" string="Place des Déchus" />
+    <String id="55005" string="Les Feuilles célestes" />
+    <String id="55006" string="Garnison du Bois obscur" />
+    <String id="55007" string="Pointe Ceravin" />
+    <String id="55008" string="Guérite d'Araste" />
+    <String id="55009" string="Place des Déchus" />
+    <String id="55010" string="Bâton d'Isren" />
+    <String id="55011" string="Avant-poste de Valumnir" />
+    <String id="55012" string="Val obscur" />
+    <String id="56001" string="Bois Sussurus" />
+    <String id="56002" string="Croisement Dakonan" />
+    <String id="56003" string="Sorguebois" />
+    <String id="56004" string="Autel du Corbeau" />
+    <String id="56005" string="Poste de guet Dakonan" />
+    <String id="56006" string="Camp de la Source noire" />
+    <String id="56007" string="Camp Umbra" />
+    <String id="57001" string="Amena Quatla" />
+    <String id="57002" string="Cour d'Amena Quatla" />
+    <String id="57003" string="La Barbacane" />
+    <String id="57004" string="La Couveuse" />
+    <String id="57005" string="Camp du Marteau pourpre" />
+    <String id="57006" string="Camp du Pont brisé" />
+    <String id="57007" string="Avant-poste Epervier" />
+    <String id="57008" string="Temple de Sikander" />
+    <String id="57009" string="Autel de Résurrection" />
+    <String id="58001" string="Balderon" />
+    <String id="59001" string="Crescentia" />
+    <String id="59002" string="Place de Crescentia" />
+    <String id="59003" string="Plateforme du pégase de Crescentia" />
+    <String id="60001" string="Boquillon" />
+    <String id="60002" string="Place de Boquillon" />
+    <String id="60003" string="Jardin de Boquillon" />
+    <String id="60004" string="Plateforme du pégase de Boquillon" />
+    <String id="61001" string="Castanica" />
+    <String id="61002" string="Rue des Plaisirs" />
+    <String id="61003" string="Souk" />
+    <String id="61004" string="Place du Souvenir" />
+    <String id="61005" string="Place des maîtres" />
+    <String id="61006" string="Place du Désir" />
+    <String id="61007" string="Rue des Plaisirs" />
+    <String id="61008" string="Rue du Crépuscule" />
+    <String id="61009" string="Rue de la Méfiance" />
+    <String id="62001" string="Port Coupe-gorge" />
+    <String id="62002" string="Plateforme du pégase du Port Coupe-gorge" />
+    <String id="62003" string="Commandement de la sentinelle " />
+    <String id="63001" string="Velika" />
+    <String id="63002" string="Bureau de contrôle des voyages de Velika" />
+    <String id="63003" string="Atelier de création" />
+    <String id="63004" string="Porte nord du marché" />
+    <String id="63005" string="Porte Nord de Velika" />
+    <String id="63006" string="Académie de magie" />
+    <String id="63007" string="Pas de Velik" />
+    <String id="63008" string="Place de la Liberté" />
+    <String id="63009" string="Quartier général de la Fédération Valkyon" />
+    <String id="63010" string="Place de la Chasseresse" />
+    <String id="63011" string="Noviciat guerrier" />
+    <String id="63012" string="Bureau de l'Exarque de Velika" />
+    <String id="63013" string="Porte Ouest de Velika" />
+    <String id="63014" string="Commandement stratégique" />
+    <String id="63015" string="Allée Notus" />
+    <String id="63016" string="Allée Boreas" />
+    <String id="63017" string="Consulat de Velika" />
+    <String id="63023" string="Environs de Velika" />
+    <String id="63024" string="Place circulaire" />
+    <String id="63025" string="Téléportail de ville" />
+    <String id="63026" string="Plate-forme d'aéronef" />
+    <String id="63027" string="Entrée de l'arène d'évènement (Velika)" />
+    <String id="63028" string="Arène d'évènement (Velika)" />
+    <String id="64001" string="Base de la Tour" />
+    <String id="64002" string="Poste de commande de l'explorateur" />
+    <String id="64003" string="Avant-poste de Lian" />
+    <String id="64004" string="Base de la Tour" />
+    <String id="64005" string="Camp principal de l'expédition" />
+    <String id="64006" string="Poste de guet est" />
+    <String id="64007" string="Quartier des Chercheurs" />
+    <String id="64008" string="Temple mystérieux" />
+    <String id="64009" string="Pilier des Merveilles" />
+    <String id="65001" string="Chebika" />
+    <String id="65002" string="Plateforme du pégase de Chebika" />
+    <String id="66001" string="Tulufan" />
+    <String id="66002" string="Plateforme du pégase de Tulufan" />
+    <String id="67001" string="Popolion" />
+    <String id="67002" string="Plateforme du pégase de Popolion" />
+    <String id="68001" string="Pora Elinu" />
+    <String id="69001" string="Tralion" />
+    <String id="69002" string="Plateforme du pégase de Tralion" />
+    <String id="70001" string="Tria" />
+    <String id="70002" string="Plateforme du pégase de Tria" />
+    <String id="70003" string="Place de Tria" />
+    <String id="70004" string="Résidence du Magistrat de Tria" />
+    <String id="70101" string="Festival du Soleil (Arbre de la Sagesse)" />
+    <String id="70102" string="Beach Party (Plage de la Tortue dragon)" />
+    <String id="70103" string="Campagnes en fête (champ de foire)" />
+    <String id="70104" string="Fête de l'étang (Garnison Tuwangi)" />
+    <String id="71001" string="Bastion" />
+    <String id="71002" string="Plateforme du pégase du bastion" />
+    <String id="72001" string="Allemantheia" />
+    <String id="72002" string="Environs d'Allemantheia" />
+    <String id="72003" string="Allemantheia occidentale" />
+    <String id="72004" string="Pilier des âges" />
+    <String id="72005" string="Académie de magie" />
+    <String id="72006" string="Symposium des Anciens" />
+    <String id="72007" string="Agora" />
+    <String id="72008" string="Atelier de création" />
+    <String id="72009" string="Noviciat guerrier" />
+    <String id="72010" string="Commandement stratégique" />
+    <String id="72011" string="Commandement de Shara" />
+    <String id="72012" string="Portes d'Honneur" />
+    <String id="72013" string="Consulat d'Allemantheia" />
+    <String id="72099" string="Quartier général d'Allemantheia" />
+    <String id="72100" string="Via Westonia" />
+    <String id="72101" string="Via Essenia" />
+    <String id="72102" string="Via Palrada" />
+    <String id="72103" string="Plateforme du pégase d'Allemantheia" />
+    <String id="72112" string="Symposium des Anciens" />
+    <String id="72113" string="Mysterium" />
+    <String id="72114" string="Laboratoire du Domaine unifié" />
+    <String id="73001" string="Acarum" />
+    <String id="73002" string="Plateforme du pégase d'Acarum" />
+    <String id="74001" string="Elenea" />
+    <String id="74002" string="Plateforme du pégase d'Elenea" />
+    <String id="75001" string="Frontera" />
+    <String id="75002" string="Plateforme du pégase de Frontera" />
+    <String id="75003" string="Entrée de la Gorge de Kezzel" />
+    <String id="76001" string="Kanstria" />
+    <String id="76002" string="Plateforme de vol de {@Rgn:76001}" />
+    <String id="76090" string="Pierre ailée de Kanstria" />
+    <String id="76901" string="Entrée de la Forteresse de Lilitas, des Ruines de Lachelitas" />
+    <String id="77001" string="Avant-poste du Pionnier" />
+    <String id="77002" string="Plateforme de vol de l'Avant-poste du Pionnier" />
+    <String id="78001" string="Forteresse de Zulfikar" />
+    <String id="78002" string="Plateforme de vol de la {@Rgn:78001}" />
+    <String id="79001" string="Habere" />
+    <String id="79002" string="Plateforme de vol d'Habere" />
+    <String id="80001" string="Chute du Dragon" />
+    <String id="80002" string="Plateforme de vol de la Chute du Dragon" />
+    <String id="81001" string="Scythera Fae" />
+    <String id="81002" string="Plateforme de vol de Scythera Fae" />
+    <String id="83001" string="Rocher de la Désolation" />
+    <String id="83002" string="Plateforme du pégase du Rocher de la Désolation" />
+    <String id="84001" string="Kaiator" />
+    <String id="84002" string="Environs de Kaiator" />
+    <String id="84003" string="Porte ouest de Kaiator" />
+    <String id="84004" string="Pont du Bouclier de Kaia" />
+    <String id="84005" string="Pont d'Anicetus" />
+    <String id="84006" string="Pont de la Victoire" />
+    <String id="84007" string="Place du Triomphe" />
+    <String id="84008" string="Chambre de la Vaillance" />
+    <String id="84009" string="Atelier de création" />
+    <String id="84010" string="Grand-rue" />
+    <String id="84011" string="Agora" />
+    <String id="84012" string="Emporium" />
+    <String id="84013" string="Plateforme de vol de Kaiator" />
+    <String id="84014" string="Cœur de la Forge" />
+    <String id="84015" string="Entrée du Fortin" />
+    <String id="84016" string="Académie de magie" />
+    <String id="84017" string="Quartier général de Kaiator" />
+    <String id="84018" string="Noviciat guerrier" />
+    <String id="84019" string="Emporium" />
+    <String id="84020" string="Entrée nord de Kaiator" />
+    <String id="84021" string="Porte ouest de Kaiator" />
+    <String id="84022" string="Porte nord de Kaiator" />
+    <String id="84023" string="Porte sud de Kaiator" />
+    <String id="84024" string="Consulat de Kaiator" />
+    <String id="84025" string="Rue nord de la Place du Triomphe" />
+    <String id="84026" string="Hall de Transport" />
+    <String id="84027" string="Kaiator" />
+    <String id="84101" string="Camp Kapina" />
+    <String id="85001" string="Refuge de Davarn" />
+    <String id="86001" string="Allemantheia orientale" />
+    <String id="87001" string="Espoir en cendres" />
+    <String id="87002" string="Campement du Deuil du pays" />
+    <String id="87003" string="Bois perdus" />
+    <String id="87004" string="Repaire Orkan" />
+    <String id="87005" string="Elinu en ruines" />
+    <String id="87006" string="Camp Verselarme" />
+    <String id="90000" string="1–11" />
+    <String id="90001" string="10–25" />
+    <String id="90002" string="23–36" />
+    <String id="90003" string="27–38" />
+    <String id="90004" string="30–51" />
+    <String id="90005" string="38–43" />
+    <String id="90006" string="40–45" />
+    <String id="90007" string="44–46" />
+    <String id="90008" string="50–59" />
+    <String id="90009" string="53–58" />
+    <String id="90010" string="56–60" />
+    <String id="90011" string="De 33 à 57" />
+    <String id="90012" string="64 et 65" />
+    <String id="90013" string="63 et 64" />
+    <String id="90014" string="59–60" />
+    <String id="90015" string="60-65" />
+    <String id="90016" string="65" />
+    <String id="97201" string="Entrée de l'Abîme d'Antaros" />
+    <String id="99000" string="Tiarania&lt;br&gt;De 1 à 11" />
+    <String id="99001" string="Forêt féérique&lt;br&gt;De 10 à 15" />
+    <String id="99002" string="Bois de l'oubli&lt;br&gt;De 11 à 20" />
+    <String id="99003" string="Vallée des titans&lt;br&gt;De 16 à 20" />
+    <String id="99004" string="Marais tuwangi&lt;br&gt;De 19 à 23" />
+    <String id="99005" string="Collines célestes&lt;br&gt;De 21 à 25 (68)" />
+    <String id="99006" string="Falaises de la folie&lt;br&gt;De 23 à 25" />
+    <String id="99007" string="Val du croc&lt;br&gt;De 24 à 29" />
+    <String id="99008" string="Ravin de Paraanon&lt;br&gt;De 24 à 29" />
+    <String id="99009" string="Roc du basilic&lt;br&gt;De 27 à 30" />
+    <String id="99010" string="Terres libres&lt;br&gt;De 28 à 31" />
+    <String id="99011" string="Île des brumes&lt;br&gt;De 30 à 33" />
+    <String id="99012" string="&lt;br&gt;De 31 à 32" />
+    <String id="99013" string="Côte déchiquetée&lt;br&gt;De 32 à 33" />
+    <String id="99014" string="Lac des larmes&lt;br&gt;De 33 à 36" />
+    <String id="99015" string="Ruines colossales&lt;br&gt;De 35 à 38" />
+    <String id="99016" string="Route d'Aurum&lt;br&gt;De 35 à 38" />
+    <String id="99017" string="Bois malade&lt;br&gt;De 38 à 41" />
+    <String id="99018" string="Bassin béni&lt;br&gt;De 38 à 41 (65)" />
+    <String id="99019" string="Bois intemporels&lt;br&gt;De 38 à 42 (65)" />
+    <String id="99020" string="Crête essénianne&lt;br&gt;De 38 à 43 (66)" />
+    <String id="99021" string="Mont Tyrannas&lt;br&gt;De 40 à 45" />
+    <String id="99022" string="Plaine des Tempêtes&lt;br&gt;De 41 à 43" />
+    <String id="99023" string="Plaine gelée&lt;br&gt;De 41 à 45" />
+    <String id="99024" string="Zone de quarantaine&lt;br&gt;De 44 à 46" />
+    <String id="99025" string="Vallée sauvage&lt;br&gt;De 45 à 46" />
+    <String id="99026" string="De 47 à 51&lt;br&gt;&lt;br&gt;Vallée de l'ascension&lt;br&gt;&lt;br&gt;De 31 à 32" />
+    <String id="99027" string="Île Serpentis&lt;br&gt;De 47 à 51" />
+    <String id="99028" string="Montagne Fyr&lt;br&gt;De 47 à 51" />
+    <String id="99029" string="Bois obscur&lt;br&gt;De 50 à 53" />
+    <String id="99030" string="Bois Sussurus&lt;br&gt;De 50 à 53" />
+    <String id="99031" string="Amena Quatla&lt;br&gt;De 50 à 54" />
+    <String id="99032" string="Gorges de Sienna&lt;br&gt;De 53 à 56 (67, 69)" />
+    <String id="99033" string="Tor Exsul&lt;br&gt;De 53 à 57" />
+    <String id="99034" string="Gorge du Wyrm&lt;br&gt;De 53 à 58" />
+    <String id="99035" string="Taillis de Morteseaux&lt;br&gt;De 56 à 59" />
+    <String id="99036" string="Vallée des aiguilles&lt;br&gt;De 56 à 59" />
+    <String id="99037" string="Plaine des damnés&lt;br&gt;De 56 à 60" />
+    <String id="99038" string="Forteresse de la servitude&lt;br&gt;De 45 à 48 (58)" />
+    <String id="99039" string="Forêt de Tirkai&lt;br&gt;De 33 à 36" />
+    <String id="99040" string="Granarkus&lt;br&gt;64 et 65" />
+    <String id="99041" string="Argonea&lt;br&gt;64" />
+    <String id="99042" string="Front de Khanovar&lt;br&gt;63 et 64" />
+    <String id="99043" string="Refuge de Balder&lt;br&gt;De 59 à 60 (67)" />
+    <String id="99044" string="Plaine barbare&lt;br&gt;De 60 à 61" />
+    <String id="99045" string="Vallée printanière&lt;br&gt;De 61 à 62" />
+    <String id="99046" string="Ex Prima&lt;br&gt;De 62 à 63 (68)" />
+    <String id="99047" string="Arx Umbra&lt;br&gt;De 63 à 65" />
+    <String id="99048" string="Île de l'aube&lt;br&gt;65" />
+    <String id="99049" string="Domaine de Rogash&lt;br&gt;70" />
+    <String id="99050" string="Plantation d'Exodor&lt;br&gt;71" />
+    <String id="99051" string="Marécage de Viridian&lt;br&gt;72" />
+    <String id="99052" string="Forteresse de Berak&lt;br&gt;73" />
+    <String id="99053" string="Zone centrale&lt;br&gt;73" />
+    <String id="99054" string="Région nord&lt;br&gt;73" />
+    <String id="99055" string="Région sud&lt;br&gt;73" />
+    <String id="99999" string="Inexploré" />
+    <String id="102001" string="Champ de Neige d'Hivera" />
+    <String id="103001" string="Champ de neige d'Hivera" />
+    <String id="103002" string="Champ de neige d'Hivera" />
+    <String id="111001" string="Vallée du tonnerre" />
+    <String id="111002" string="Forteresse de l'Aile bleue" />
+    <String id="111003" string="Forteresse du Pavillon rouge" />
+    <String id="111004" string="Champ de bataille du Lac d'acier" />
+    <String id="111005" string="Base avancée de l'Aile bleue" />
+    <String id="111006" string="Camp d'éclaireurs du Pic boisé" />
+    <String id="111007" string="Base avancée du Pavillon rouge" />
+    <String id="111008" string="Camp d'éclaireurs du Val ancien" />
+    <String id="112001" string="Gorge de Venteguerre" />
+    <String id="112002" string="Base équipe B" />
+    <String id="112003" string="Base équipe A" />
+    <String id="112004" string="Bûcher central (1)" />
+    <String id="112005" string="Bûcher sud (2)" />
+    <String id="112006" string="Bûcher nord (3)" />
+    <String id="113001" string="Cercle céleste des Champions" />
+    <String id="113002" string="Base équipe A" />
+    <String id="113003" string="Base équipe B" />
+    <String id="113004" string="Sanctuaire d'entraînement" />
+    <String id="114001" string="Base d'Acrada" />
+    <String id="115001" string="Cercle céleste des Champions" />
+    <String id="115002" string="Base équipe A" />
+    <String id="115003" string="Base équipe B" />
+    <String id="115004" string="Sanctuaire d'entraînement" />
+    <String id="116001" string="Fort des Corsaires" />
+    <String id="116002" string="Bastion des Attaquants" />
+    <String id="116003" string="Citadelle des Défenseurs" />
+    <String id="116004" string="Bûcher central (1)" />
+    <String id="116005" string="Bûcher nord (3)" />
+    <String id="116006" string="Bûcher sud (2)" />
+    <String id="116007" string="Porte extérieure gauche" />
+    <String id="116008" string="Porte extérieure droite" />
+    <String id="116009" string="Échelle gauche" />
+    <String id="116010" string="Échelle droite" />
+    <String id="117001" string="Refuge de Kumas" />
+    <String id="117002" string="Parc à bébé" />
+    <String id="117003" string="Aire de jeu" />
+    <String id="117004" string="Embarcadère" />
+    <String id="117005" string="Sanctuaire de la restauration" />
+    <String id="118001" string="Champ de bataille souterrain" />
+    <String id="118002" string="Territoire côtier" />
+    <String id="119001" string="Primatodrome" />
+    <String id="152001" string="Nid d'Anansha" />
+    <String id="152002" string="Nid de Frygaras" />
+    <String id="152003" string="Nid de Sabranak" />
+    <String id="172001" string="Plaine barbare" />
+    <String id="172011" string="Ascension sinistre" />
+    <String id="172012" string="Plateau Boscan" />
+    <String id="172013" string="Mjusu Kraal" />
+    <String id="172014" string="Bassins de Zurusuru" />
+    <String id="172015" string="Collines Yaldaru" />
+    <String id="172016" string="Etang de la jungle" />
+    <String id="172017" string="Avant-poste khirien" />
+    <String id="172019" string="Caverne de Mendara" />
+    <String id="172020" string="Grotte de l'oracle" />
+    <String id="172021" string="Bassins de Zurusuru" />
+    <String id="172022" string="Lac placide" />
+    <String id="172023" string="Collines Yaldaru" />
+    <String id="172024" string="Vallon Uchawi" />
+    <String id="172100" string="Velika" />
+    <String id="172101" string="Plaine barbare" />
+    <String id="172111" string="Sanctuaire khirien" />
+    <String id="172112" string="Plate-forme de téléportation des Collines Yaldaru" />
+    <String id="172113" string="Plate-forme de téléportation de Mjusu Kraal" />
+    <String id="172114" string="Plate-forme de téléportation du Sanctuaire khirien" />
+    <String id="172115" string="Plate-forme de téléportation de l'Avant-poste khirien" />
+    <String id="181001" string="Ex Prima" />
+    <String id="181002" string="Ruines de Pierrefuge" />
+    <String id="181003" string="Ravin languissant" />
+    <String id="181004" string="Arche du Scrutateur" />
+    <String id="181005" string="Précipice du Feu verdoyant" />
+    <String id="181006" string="Station Queldar" />
+    <String id="181007" string="Camp temporaire archidevan" />
+    <String id="181008" string="Cave effondrée" />
+    <String id="181009" string="Guet hulrain" />
+    <String id="181010" string="Canyon du butin" />
+    <String id="181011" string="Entrée de l'Energia Celo" />
+    <String id="181012" string="Bord de la rivière" />
+    <String id="181013" string="Poste Baaldaz" />
+    <String id="181014" string="Porte sud de Hautegarde" />
+    <String id="181015" string="Plateforme de téléportation du Ravin languissant : Aiguille en fusion" />
+    <String id="181016" string="Plateforme de téléportation du Ravin languissant : Carrière de Dirana" />
+    <String id="181017" string="Plateforme de téléportation du Précipice du feu verdoyant : Camp temporaire archidevan" />
+    <String id="181018" string="Plate-forme de téléportation des Ruines de Pierrefuge" />
+    <String id="181019" string="Ruines de Shalek" />
+    <String id="181020" string="Carrière de Dirana" />
+    <String id="181021" string="Aiguille en fusion" />
+    <String id="181041" string="Plate-forme de téléportation de la Station Queldar" />
+    <String id="181042" string="Plate-forme de téléportation du Poste Baaldaz" />
+    <String id="181043" string="Plate-forme de téléportation du Guet hulrain" />
+    <String id="182001" string="Vallée printanière" />
+    <String id="182002" string="Poste de commerce Amadjuak" />
+    <String id="182003" string="Traversée des nerines" />
+    <String id="182004" string="Sources chaudes d'Hina" />
+    <String id="182005" string="Guet parthe" />
+    <String id="182006" string="Laboratoire d'ombre de sang" />
+    <String id="182007" string="Terrain d'entraînement demokron" />
+    <String id="182008" string="Point de scrutation" />
+    <String id="182009" string="Guet des Scrutateurs" />
+    <String id="182010" string="Vue printanière" />
+    <String id="182011" string="Eleutheros" />
+    <String id="182012" string="Chutes de la quiétude" />
+    <String id="182013" string="Tanière noire d'encre" />
+    <String id="182014" string="Grotte d'entrepôt" />
+    <String id="182015" string="Arête de Kazan" />
+    <String id="182016" string="Entrée de l'Armurerie Sabex" />
+    <String id="182017" string="Collines d'émeraude" />
+    <String id="182018" string="Entrée de l'Armurerie Sabex" />
+    <String id="182019" string="Base avancée de Valkyon" />
+    <String id="182030" string="Plate-forme de téléportation du poste de commerce d'Amadjuak" />
+    <String id="182031" string="Troupe d'assaut d'Exodor" />
+    <String id="182100" string="Plate-forme de téléportation des sources de l'ouest" />
+    <String id="182101" string="Plate-forme de téléportation des sources de l'est" />
+    <String id="182102" string="Plate-forme de téléportation des Marches divines" />
+    <String id="182103" string="Plate-forme de téléportation des Collines d'émeraude" />
+    <String id="182200" string="Sources chaudes d'Hina" />
+    <String id="182300" string="Sources chaudes d'Hina" />
+    <String id="182400" string="Arête de Kazan" />
+    <String id="182500" string="Collines d'émeraude" />
+    <String id="182838" string="" />
+    <String id="183001" string="Environs de Hautegarde" />
+    <String id="183002" string="Hautegarde" />
+    <String id="183003" string="Sanctuaire d'illumination" />
+    <String id="183004" string="Sentier de la Méditation" />
+    <String id="183005" string="Caveau de Veritas" />
+    <String id="183006" string="Hall des armes" />
+    <String id="183007" string="Hall de l'accord" />
+    <String id="183008" string="Commandement d'Erudar" />
+    <String id="183009" string="Cour des illuminés" />
+    <String id="183010" string="Agora" />
+    <String id="183011" string="Halle des artisans" />
+    <String id="183012" string="Vigile d'Oriyn" />
+    <String id="183013" string="Hall de l'accord" />
+    <String id="183014" string="Téléportail" />
+    <String id="183015" string="Entrée du Temple sanglant de Dkurion" />
+    <String id="191001" string="Trellum Consurgo" />
+    <String id="200001" string="Responsable des vols" />
+    <String id="200002" string="Téléportail" />
+    <String id="200003" string="Intendant de guilde" />
+    <String id="200004" string="Marchand de teintures" />
+    <String id="200005" string="Courtier" />
+    <String id="200006" string="Marchand itinérant" />
+    <String id="200007" string="Marchand de réputation" />
+    <String id="200008" string="Récompenses d'insignes" />
+    <String id="221501" string="Entrée du Plateau trompeur" />
+    <String id="248001" string="Front de Khanovar" />
+    <String id="249001" string="Argonea" />
+    <String id="250001" string="Granarkus" />
+    <String id="250101" string="Site de scellage" />
+    <String id="250201" string="Sigil" />
+    <String id="250202" string="Centre de Sigil" />
+    <String id="250203" string="Point d'activation du cercle de bannissement" />
+    <String id="250301" string="Forteresse de Raqnan" />
+    <String id="250401" string="Salle des machines (RdC)" />
+    <String id="250402" string="Salle des machines (1er étage)" />
+    <String id="250403" string="Salle des machines (2e étage)" />
+    <String id="302301" string="Passage secret de la Forteresse de Berak" />
+    <String id="302701" string="Salle d'attente de l'Arène du courroux" />
+    <String id="302702" string="Chemin vers l'Arène du courroux" />
+    <String id="303201" string="[Entraînement] Passage secret de la Forteresse de Berak" />
+    <String id="310301" string="Salle d'attente de l'Arène du courroux" />
+    <String id="310302" string="Chemin vers l'Arène du courroux" />
+    <String id="320301" string="Salle d'attente de l'Arène du courroux" />
+    <String id="320302" string="Chemin vers l'Arène du courroux" />
+    <String id="469001" string="Arx Umbra : il y a environ 50 ans" />
+    <String id="505111" string="Élénea" />
+    <String id="505112" string="Avant-poste de l'Épine ardente" />
+    <String id="506001" string="Salle de banquet de Velika" />
+    <String id="506002" string="Portail inconnu" />
+    <String id="506003" string="Portail inconnu" />
+    <String id="506004" string="Salle de banquet de Velika (difficile)" />
+    <String id="506005" string="Muraille des mondes" />
+    <String id="506006" string="Salle de banquet réconciliée de Velika" />
+    <String id="506015" string="Salle inconnue" />
+    <String id="506016" string="Muraille des mondes" />
+    <String id="507001" string="Salle inconnue" />
+    <String id="508001" string="Salle inconnue" />
+    <String id="569001" string="Souvenirs de la Forteresse de Raqnan (solo)" />
+    <String id="599001" string="Les Pierres de gué" />
+    <String id="599002" string="Écheveau" />
+    <String id="599003" string="Entrée de l'Arbre des ombrages" />
+    <String id="599004" string="Arbre des ombrages" />
+    <String id="599005" string="Temple de l'Arbre" />
+    <String id="599006" string="Poste de la Fédération Valkyon" />
+    <String id="599007" string="Mont du Moulin" />
+    <String id="599008" string="Pont enraciné" />
+    <String id="599009" string="Grandes arches de racine" />
+    <String id="599010" string="Entrepôt" />
+    <String id="599011" string="Plateforme du Pégase de Marchepierre" />
+    <String id="599012" string="Grotte des racines séveuses" />
+    <String id="599013" string="Pépinière" />
+    <String id="780781" string="Porte souterraine de Velika" />
+    <String id="818001" string="Laboratoire secret" />
+    <String id="818002" string="Corridor d'accès au laboratoire" />
+    <String id="818003" string="Cages expérimentales" />
+    <String id="818004" string="Couloir du laboratoire principal" />
+    <String id="818005" string="Laboratoire principal" />
+    <String id="826001" string="Laboratoire souterrain de la Forteresse de Raqnan" />
+    <String id="827001" string="Les Pierres de gué" />
+    <String id="827002" string="L'Écheveau" />
+    <String id="827003" string="Arbre des ombrages" />
+    <String id="827004" string="Entrée de l'Arbre des ombrages" />
+    <String id="827005" string="Entrepôt" />
+    <String id="828001" string="Arbre des ombrages" />
+    <String id="828002" string="Entrepôt" />
+    <String id="828003" string="Instructeur de tactiques et de magie" />
+    <String id="828004" string="Maître de vol" />
+    <String id="829001" string="Tiaran l'Arbre du Chagrin" />
+    <String id="829002" string="Cœur du Chagrin" />
+    <String id="905601" string="Espace-temps de Valona (difficile)" />
+    <String id="905602" string="Voie écarlate" />
+    <String id="905603" string="Au-delà de l'Épreuve du Tonnerre" />
+    <String id="905604" string="Jugement dernier" />
+    <String id="905901" string="Les Brumes" />
+    <String id="905902" string="Cité maudite" />
+    <String id="905903" string="Parvis d'exécution" />
+    <String id="906701" string="Entrée du Laboratoire de Verno (difficile)" />
+    <String id="906702" string="Chambre d'Odon (difficile)" />
+    <String id="906703" string="Chambre de Verno (difficile)" />
+    <String id="906900" string="Cour de la Forteresse de Raqnan" />
+    <String id="906901" string="Caves voûtées de la Forteresse de Raqnan" />
+    <String id="906902" string="Camp d'entraînement de la Bête" />
+    <String id="906903" string="Usine de traitement sale" />
+    <String id="906904" string="Campement souterrain" />
+    <String id="906905" string="Usine de traitement boueuse" />
+    <String id="906906" string="Chambre sans retour" />
+    <String id="906907" string="Passage secret" />
+    <String id="906908" string="Résistance" />
+    <String id="906909" string="Atelier de recherche en armement" />
+    <String id="906910" string="Salle d'audience" />
+    <String id="906911" string="Quartiers de Myula" />
+    <String id="906912" string="Autel secret" />
+    <String id="906913" string="Avenue du Palais de Myula" />
+    <String id="907001" string="Entrée du Plateau trompeur" />
+    <String id="907002" string="Aire de jeu" />
+    <String id="950001" string="Passage détruit du royaume des dieux" />
+    <String id="950002" string="Entrée détruite du royaume des dieux" />
+    <String id="973501" string="Hangar du RK-9" />
+    <String id="973502" string="Entrée du Hangar du RK-9" />
+    <String id="975601" string="Espace-temps de Valona" />
+    <String id="975602" string="Voie écarlate" />
+    <String id="975603" string="Au-delà de l'Épreuve du Tonnerre" />
+    <String id="975604" string="Jugement dernier" />
+    <String id="976701" string="Entrée du Laboratoire de Verno" />
+    <String id="976702" string="Chambre d'Odon" />
+    <String id="976703" string="Chambre de Verno" />
+    <String id="976901" string="Entrée de la Forteresse de Lilitas, des Ruines de Lachelitas" />
+    <String id="976902" string="Jardin ardent" />
+    <String id="976903" string="Hall de la gloire" />
+    <String id="976904" string="Domaine de Lilitas" />
+    <String id="976905" string="Chemin des épreuves" />
+    <String id="976906" string="Entrée de la Forteresse de Lilitas (facile)" />
+    <String id="978000" string="Porte souterraine de Velika" />
+    <String id="978001" string="Entrée du passage souterrain de Velika" />
+    <String id="978002" string="Passage mystérieux" />
+    <String id="978003" string="Commune annexée" />
+    <String id="978004" string="Souterrain de Velika" />
+    <String id="978005" string="Passage souterrain dérobé" />
+    <String id="978010" string="Sentier des vertiges" />
+    <String id="978011" string="Sanctuaire de Kabador" />
+    <String id="978020" string="Entrée du Cabinet en pierres de la magie bleue" />
+    <String id="978021" string="Cabinet en pierres de la magie bleue" />
+    <String id="978030" string="Lieu dénaturé" />
+    <String id="978031" string="Porte souterraine de Velika" />
+    <String id="979501" string="" />
+    <String id="996901" string="Entrée de la Forteresse de Lilitas, des Ruines de Lachelitas" />
+    <String id="996902" string="Jardin ardent" />
+    <String id="996903" string="Hall de la gloire" />
+    <String id="996904" string="Domaine de Lilitas" />
+    <String id="996905" string="Chemin des épreuves" />
+    <String id="996906" string="Entrée de la Forteresse de Lilitas (facile)" />
+    <String id="998000" string="Porte souterraine effondrée de Velika" />
+    <String id="998001" string="Entrée du passage souterrain de Velika" />
+    <String id="998002" string="Passage mystérieux" />
+    <String id="998003" string="Commune annexée" />
+    <String id="998004" string="Souterrain effondré de Velika" />
+    <String id="998005" string="Passage souterrain dérobé" />
+    <String id="998010" string="Sentier des vertiges" />
+    <String id="998011" string="Sanctuaire de Kabador" />
+    <String id="998020" string="Entrée du Cabinet en pierres de la magie bleue" />
+    <String id="998021" string="Cabinet en pierres de la magie bleue" />
+    <String id="998030" string="Lieu dénaturé" />
+    <String id="998031" string="Porte souterraine effondrée de Velika" />
+    <String id="1810041" string="Entrée de l'Ascension batyhssale" />
+    <String id="2000000" string="Domaine de Rogash" />
+    <String id="2000001" string="Plantation d'Exodor" />
+    <String id="2000002" string="Marécage de Viridian" />
+    <String id="2000003" string="Forteresse de Berak" />
+    <String id="2000004" string="Zone centrale" />
+    <String id="2000005" string="Quartier nord" />
+    <String id="2000006" string="Quartier sud" />
+    <String id="2000010" string="Domaine de Konzi" />
+    <String id="2000011" string="Sanctuaire de Rogash" />
+    <String id="2000012" string="Couveuse des larves" />
+    <String id="2000013" string="Entrée de la Couveuse des larves" />
+    <String id="2000014" string="Sortie de la Couveuse des larves" />
+    <String id="2000015" string="Plateforme du domaine" />
+    <String id="2000016" string="Arrière-cour de Rogash" />
+    <String id="2000017" string="Manoir de Rogash" />
+    <String id="2000018" string="Vallée des cristaux" />
+    <String id="2000019" string="Bivouac de l'expédition d'Exodor" />
+    <String id="2000020" string="Saillie de la Couveuse" />
+    <String id="2000021" string="Zone dérobée" />
+    <String id="2000100" string="Arbre primus" />
+    <String id="2000101" string="Arbre secundus" />
+    <String id="2000102" string="Arbre tertius" />
+    <String id="2000103" string="Entrepôt de sécrétion" />
+    <String id="2000104" string="Base de la Fédération" />
+    <String id="2000150" string="Casque des papillons" />
+    <String id="2001010" string="Plateforme de la plantation" />
+    <String id="2001011" string="Camp naga" />
+    <String id="2001012" string="Entrée de la base des Riverans" />
+    <String id="2001013" string="Base des Riverans" />
+    <String id="2001014" string="Sortie de la Base des Riverans" />
+    <String id="2001015" string="Mine de cristal" />
+    <String id="2001016" string="Bivouac de la Fédération Valkyon" />
+    <String id="2001017" string="Bivouac des Riverans" />
+    <String id="2001018" string="Site de collecte des cristaux" />
+    <String id="2001019" string="Enclos à larves" />
+    <String id="2001020" string="Camp de défense de la plantation" />
+    <String id="2001021" string="Plateforme d'orientation du marécage" />
+    <String id="2001022" string="Cachette secrète" />
+    <String id="2001023" string="Ferme d'Azra" />
+    <String id="2001024" string="Enclos à bête" />
+    <String id="2001025" string="Lac mimétique" />
+    <String id="2001026" string="Zone dérobée" />
+    <String id="2001050" string="Dépôt de cristal" />
+    <String id="2001051" string="Zone de chasse des parfs monarques" />
+    <String id="2001052" string="Refuge des parfs monarques" />
+    <String id="2002001" string="Plateforme du marécage" />
+    <String id="2002002" string="Entrée du Marécage de Viridian" />
+    <String id="2002003" string="Marécage de Viridian" />
+    <String id="2002004" string="Poste désaffecté" />
+    <String id="2002005" string="Territoire des fauves" />
+    <String id="2002006" string="Vallée de la brèche" />
+    <String id="2002007" string="Enclos à monstre" />
+    <String id="2002008" string="Cachot disciplinaire" />
+    <String id="2002009" string="Jardin de fantaisie" />
+    <String id="2002010" string="Pont du cachot" />
+    <String id="2002011" string="Plateforme d'orientation de la forteresse" />
+    <String id="2002012" string="Bivouac des survivants" />
+    <String id="2002013" string="Faille isolée" />
+    <String id="2002014" string="Zone dérobée" />
+    <String id="2002050" string="Vallée sinistre" />
+    <String id="2003001" string="Plateforme de la Forteresse de Berak" />
+    <String id="2003002" string="Poste de contrôle" />
+    <String id="2003003" string="Entrée du Passage des frissons" />
+    <String id="2003004" string="Porte des frissons" />
+    <String id="2003005" string="Jardin des frissons (côté nord)" />
+    <String id="2003006" string="Jardin des frissons (côté sud)" />
+    <String id="2003007" string="Forteresse de Berak" />
+    <String id="2003008" string="Entrée de la Forteresse de Berak" />
+    <String id="2003009" string="Sous-sol de la Forteresse de Berak" />
+    <String id="2003010" string="Parvis de la Salle des machines" />
+    <String id="2003011" string="Passage des frissons" />
+    <String id="2003012" string="Fort des Riverans" />
+    <String id="2003013" string="Zone de défense" />
+    <String id="2003014" string="Couloir de la Zone interdite" />
+    <String id="2003015" string="Entrée du cœur" />
+    <String id="2003016" string="Couloir du cœur" />
+    <String id="2003017" string="Périmètre de sécurité" />
+    <String id="2003018" string="Étage supérieur de la Forteresse de Berak" />
+    <String id="2003019" string="Cave de la Forteresse de Berak" />
+    <String id="2003020" string="Couloir de la Salle des machines" />
+    <String id="2003021" string="Couloir du périmètre de sécurité" />
+    <String id="2003022" string="Sous-sol de la Forteresse de Berak" />
+    <String id="2003023" string="Cœur de la Forteresse de Berak" />
+    <String id="2003024" string="Toit du poste de contrôle" />
+    <String id="2003025" string="Entrée de la Résidence des commandants" />
+    <String id="2003050" string="Quartiers des troupes d'Arkarp" />
+    <String id="2003051" string="Siège de Rosema" />
+    <String id="2003052" string="Île Kerozen" />
+    <String id="2010001" string="Ferme d'Arkarp" />
+    <String id="2011001" string="Îlot de pêche du Jardin céleste" />
+    <String id="2012001" string="Îlot de pêche de l'Étang féérique" />
+    <String id="2013001" string="Îlot de la Mer nuageuse" />
+    <String id="2014001" string="Îlot de pêche de Viridian" />
+    <String id="2015001" string="Îlot de pêche de Berak" />
+    <String id="2020001" string="Périphérie d'Exodor" />
+    <String id="2052001" string="Zone de conquête d'Arkarp (noyau)" />
+    <String id="2054001" string="Zone de conquête d'Arkarp (bordure sud)" />
+    <String id="2100001" string="Cœur du sanctuaire de Rogash" />
+    <String id="2100002" string="Vous vous téléportez dans la Couveuse des larves." />
+    <String id="2101001" string="Couveuse des larves" />
+    <String id="2102001" string="Centre d'interrogatoire" />
+    <String id="2103001" string="Salle des machines du noyau sombre (RdC)" />
+    <String id="2103002" string="Salle des machines du noyau sombre (1er étage)" />
+    <String id="2103003" string="Salle des machines du noyau sombre (2e étage)" />
+    <String id="2105001" string="Résidence des commandants (solo)" />
+    <String id="2500001" string="Osnium Agaia" />
+    <String id="2500002" string="Centre" />
+    <String id="2500003" string="Jeune Arbre des mondes" />
+    <String id="2500004" string="Tour de Shara" />
+    <String id="3001001" string="Base secrète (solo)" />
+    <String id="3002001" string="Manoir sinistre (solo)" />
+    <String id="3003001" string="Refuge des cultistes (solo)" />
+    <String id="3004001" string="Tombe des nécromanciens (solo)" />
+    <String id="3005001" string="Labyrinthe d'or (solo)" />
+    <String id="3006001" string="Repaire d'Akasha (solo)" />
+    <String id="3007001" string="Jardin céleste de Saleron (solo)" />
+    <String id="3008001" string="Labyrinthe de la terreur (solo)" />
+    <String id="3009001" string="Tour d'ébène (solo)" />
+    <String id="3010001" string="Nid de Kelsaik (solo)" />
+    <String id="3011001" string="Noyau de Manaya (solo)" />
+    <String id="3017000" string="Abîme d'Antaros (difficile, 7 personnes) : point de départ" />
+    <String id="3017001" string="Abîme d'Antaros (difficile, 7 personnes) : zone interdite" />
+    <String id="3017002" string="Abîme d'Antaros (difficile, 7 personnes) : place des châtiments" />
+    <String id="3017003" string="Abîme d'Antaros (difficile, 7 personnes) : salle de l'épreuve" />
+    <String id="3017004" string="Environs de Velika" />
+    <String id="3017005" string="Environs de Velika" />
+    <String id="3018000" string="Entrée de la Forteresse de Ténébris (difficile)" />
+    <String id="3018001" string="Place centrale" />
+    <String id="3018002" string="Bibliothèque centrale" />
+    <String id="3018003" string="Toit de la forteresse" />
+    <String id="3019000" string="Entrée du Hall souterrain de Lian" />
+    <String id="3019001" string="Sanctuaire de Nedra" />
+    <String id="3019002" string="Place des exécutions" />
+    <String id="3019003" string="Salle dénaturée" />
+    <String id="3019004" string="Entrée de la salle dénaturée" />
+    <String id="3020000" string="Écaille dorée" />
+    <String id="3024001" string="Réinitialiser le donjon et revenir" />
+    <String id="3025001" string="Réinitialiser le donjon et revenir" />
+    <String id="3026001" string="Repaire de Kelsaik" />
+    <String id="3026002" string="Hall de Kelsaik" />
+    <String id="3026003" string="Île satellite" />
+    <String id="3026004" string="Repaire de Kelsaik (difficile)" />
+    <String id="3026005" string="Entrée du Repaire de Kelsaik" />
+    <String id="3026006" string="Hall de Kelsaik cauchemardesque" />
+    <String id="3027001" string="Arène du courroux" />
+    <String id="3028000" string="Entrée du Hall souterrain de Lian" />
+    <String id="3028001" string="Sanctuaire de Nedra" />
+    <String id="3028002" string="Place des exécutions" />
+    <String id="3028003" string="Salle dénaturée" />
+    <String id="3028004" string="Entrée de la salle dénaturée" />
+    <String id="3029000" string="[Entraînement] Abîme d'Antaros (difficile) : Point de départ" />
+    <String id="3029001" string="[Entraînement] Abîme d'Antaros (difficile) : Zone interdite" />
+    <String id="3029002" string="[Entraînement] Abîme d'Antaros (difficile) : Place des châtiments" />
+    <String id="3029003" string="[Entraînement] Abîme d'Antaros (difficile) : Salle de l'épreuve" />
+    <String id="3029004" string="Hautegarde : Hall des armes" />
+    <String id="3029005" string="Hautegarde : Hall des armes" />
+    <String id="3029006" string="" />
+    <String id="3029007" string="" />
+    <String id="3030001" string="Résidence du légat" />
+    <String id="3030002" string="Base de la Fédération" />
+    <String id="3031001" string="Zone nucléique" />
+    <String id="3031002" string="Zone centrale" />
+    <String id="3033000" string="[Entraînement] Entrée du Nid de Parquina (facile)" />
+    <String id="3033001" string="[Entraînement] Réserve de miel" />
+    <String id="3033002" string="[Entraînement] Chambre de la reine" />
+    <String id="3033003" string="[Entraînement] Salle d'injection" />
+    <String id="3033004" string="" />
+    <String id="3033005" string="" />
+    <String id="3033006" string="" />
+    <String id="3034001" string="Centre de recherche énergétique" />
+    <String id="3034002" string="Centrale d'aération du hangar" />
+    <String id="3034003" string="Centre de recherche des champs magnétiques" />
+    <String id="3034004" string="Centre de traitement de marchandises" />
+    <String id="3034005" string="Zone interdite : D" />
+    <String id="3034006" string="Zone interdite : E" />
+    <String id="3034007" string="Zone interdite : Hangar du RK-9" />
+    <String id="3035001" string="Autel de Velik" />
+    <String id="3036001" string="Croiseur céleste (difficile)" />
+    <String id="3036002" string="Plateforme du Croiseur céleste (difficile)" />
+    <String id="3036003" string="Salle des commandes du Croiseur céleste (difficile)" />
+    <String id="3036004" string="Salle des machines du Croiseur céleste (difficile)" />
+    <String id="3036005" string="Pont du Croiseur céleste (difficile)" />
+    <String id="3037000" string="[Entraînement] Entrée du Temple de Bahaar" />
+    <String id="3037001" string="[Entraînement] Temple de Bahaar" />
+    <String id="3037002" string="[Entraînement] Temple de Bahaar : porte scellée" />
+    <String id="3037003" string="[Entraînement] Temple de Bahaar : salle de l'incarnation" />
+    <String id="3037004" string="[Entraînement] Temple de Bahaar : salle de l'incarnation" />
+    <String id="3101001" string="Réserve de miel" />
+    <String id="3101002" string="Chambre de la reine" />
+    <String id="3101003" string="Salle d'injection" />
+    <String id="3102001" string="Résidence des commandants" />
+    <String id="3102002" string="Entrée de la Résidence des commandants" />
+    <String id="3103001" string="Arène du courroux" />
+    <String id="3201000" string="Entrée du Nid de Parquina (facile)" />
+    <String id="3201001" string="Réserve de miel" />
+    <String id="3201002" string="Chambre de la reine" />
+    <String id="3201003" string="Salle d'injection" />
+    <String id="3202001" string="Résidence des commandants (difficile)" />
+    <String id="3202002" string="Entrée de la Résidence des commandants" />
+    <String id="3203001" string="Arène du courroux" />
+    <String id="5051101" string="Élénea" />
+    <String id="5051201" string="Salle inconnue" />
+    <String id="5051202" string="Salle inconnue" />
+    <String id="5051501" string="Crête déchiquetée" />
+    <String id="5051701" string="Salle inconnue" />
+    <String id="5052501" string="Salle inconnue" />
+    <String id="8000001" string="Avant-poste des Chasseurs de Reliques" />
+    <String id="8000002" string="Velika : Quartier général de la Fédération Valkyon" />
+    <String id="8000003" string="Locus des Chercheurs" />
+    <String id="8000004" string="Base de feu de la Bravoure" />
+    <String id="8000005" string="Base de feu de l'Audace" />
+    <String id="8000006" string="Pointe de la Vengeance" />
+    <String id="8000007" string="Небесные холмы – Лаборатория Мистериума" />
+    <String id="8000008" string="La Fosse" />
+    <String id="8000009" string="Camp des Défenseurs" />
+    <String id="8000010" string="Sietch Bidaum" />
+    <String id="8000011" string="Avant-poste de la Vallée maudite" />
+    <String id="8000012" string="Camp de base des Défenseurs" />
+    <String id="8000013" string="La Couveuse" />
+    <String id="8000014" string="Camp du Pont brisé" />
+    <String id="8000015" string="Exetron" />
+    <String id="8000016" string="Raga Kabash : Tour de l'Harmonie" />
+    <String id="8000017" string="Forêt féérique : Étang des fées" />
+    <String id="8000018" string="Fortin des Professeurs" />
+    <String id="8000019" string="Profondeurs de la Corruption" />
+    <String id="8000020" string="Profondeurs sanglantes" />
+    <String id="8000021" string="Entrée du Labyrinthe d'or" />
+    <String id="8000022" string="Repoussoir de Thulsa" />
+    <String id="8000023" string="Vallée de la Bête" />
+    <String id="8000024" string="Entrée de service du Manoir sinistre" />
+    <String id="8000025" string="Cathédrale sombre" />
+    <String id="8000026" string="Profondeurs du Labyrinthe d'Azarel" />
+    <String id="8000027" string="Bastion de l'Avant-garde" />
+    <String id="8000028" string="Camp de subjugation" />
+    <String id="8000029" string="Fortin de la Cathédrale" />
+    <String id="8000030" string="Fortin des Défenseurs" />
+    <String id="8000031" string="Grande chapelle" />
+    <String id="8000032" string="Catacombes des Cavernes affamées" />
+    <String id="8000033" string="Profondeurs des Cavernes affamées" />
+    <String id="8000034" string="Poste de sentinelle du Triste repaire" />
+    <String id="8000035" string="Refuge des Espions" />
+    <String id="8000036" string="Avant-poste du Voyou" />
+    <String id="8000037" string="Sanctuaire" />
+    <String id="8000038" string="Repaire d'Akasha" />
+    <String id="8000039" string="Entrée du Repaire d'Akasha" />
+    <String id="8000040" string="Chambres des Cavernes affamées" />
+    <String id="8000041" string="Camp de la Rédemption" />
+    <String id="8000042" string="Halls des Ombres" />
+    <String id="8000043" string="Halls des Ténèbres" />
+    <String id="8000044" string="Halls de la Mélancolie" />
+    <String id="8000045" string="Catacombes de la Reine des Sorcières" />
+    <String id="8000046" string="Halls de la Connaissance" />
+    <String id="8000047" string="Catacombes hurlantes" />
+    <String id="8000048" string="Catacombe de la Tourmente" />
+    <String id="8000049" string="Antichambres" />
+    <String id="8000050" string="Autel du corbeau" />
+    <String id="8000051" string="Sanctuaire de la Résurrection" />
+    <String id="8000052" string="Villa du bouffon" />
+    <String id="8000053" string="Chambre en fusion" />
+    <String id="8000054" string="Camp Umbra" />
+    <String id="8000055" string="Camp du Pont brisé" />
+    <String id="8000056" string="Point de Contrôle d'Ébène" />
+    <String id="8000057" string="Guet de la Tombe des Exilés" />
+    <String id="8000058" string="Entrée du Nid de Kelsaik" />
+    <String id="8000059" string="Siège central de Kaiator" />
+    <String id="8000060" string="Consulat de Kaiator" />
+    <String id="8000061" string="Entrée du Quartier général de Kaiator" />
+    <String id="8000062" string="Site de recherche de Saleron" />
+    <String id="8000063" string="Site de recherche de Corpus" />
+    <String id="8000064" string="Fortin rebelle" />
+    <String id="8000065" string="Station de recherche de la Phalange" />
+    <String id="8000066" string="Site de recherche de Corpus" />
+    <String id="8000067" string="Fortin rebelle" />
+    <String id="8000068" string="Station de recherche de la Phalange" />
+    <String id="8000069" string="Site de recherche de Saleron" />
+    <String id="8000070" string="Fortin rebelle" />
+    <String id="8000071" string="Station de recherche de la Phalange" />
+    <String id="8000072" string="Site de recherche de Saleron" />
+    <String id="8000073" string="Site de recherche de Corpus" />
+    <String id="8000074" string="Crypte maudite : Travée d'ébène" />
+    <String id="8000075" string="Entrée du Consulat de Kaiator" />
+    <String id="8000076" string="Villa du Bouffon" />
+    <String id="8000077" string="Tour d'Ébène (difficile)" />
+    <String id="8000078" string="Labyrinthe de la Terreur (difficile)" />
+    <String id="8000079" string="Repaire d'Akasha (difficile)" />
+    <String id="8000080" string="Nid de Kelsaik (difficile)" />
+    <String id="8000081" string="Entrée de la Tour d'Ébène" />
+    <String id="8000082" string="Quartier général de Kaiator" />
+    <String id="8000083" string="Entrée du Labyrinthe de la Terreur" />
+    <String id="8000084" string="Entrée de l'Autel de la Mort" />
+    <String id="8000085" string="Fléau d'Arachné" />
+    <String id="8000086" string="Entrée de l'Ascension de Saravash" />
+    <String id="8000087" string="Portail du Sceau d'Adstringo" />
+    <String id="8000088" string="Cœur de la Forge" />
+    <String id="8000089" string="Refuge de Dratheel" />
+    <String id="8000090" string="Ossuaire d'Acarum" />
+    <String id="8000091" string="Entrée du tunnel souterrain du front" />
+    <String id="8000092" string="Entrée du Phare du Soleil" />
+    <String id="8000093" string="Velika" />
+    <String id="8000094" string="Site de pêche de Murica" />
+    <String id="8000095" string="Site de pêche du Port Coupe-gorge" />
+    <String id="8000096" string="Site de pêche du Lac des larmes" />
+    <String id="8000097" string="Site de pêche du Marais Vexatus" />
+    <String id="8000098" string="Site de pêche du Lac de Celsian" />
+    <String id="8000099" string="Site de pêche du Lac de Seren" />
+    <String id="8104000" string="Entrée de la Prison de Lakan" />
+    <String id="8104002" string="Entrée de la Prison de Lakan (difficile)" />
+    <String id="8999001" string="Sanctuaire de Velik" />
+    <String id="9001001" string="Résidence de Samael" />
+    <String id="9002001" string="Fontaine de Shara" />
+    <String id="9003001" string="Abysses de la Montagne Fyr" />
+    <String id="9006001" string="Labyrinthe de la Terreur" />
+    <String id="9007001" string="Autel caché" />
+    <String id="9008001" string="Laboratoire de Malachai" />
+    <String id="9009001" string="Laboratoire de Malachai" />
+    <String id="9011001" string="Atelier de Muhrak" />
+    <String id="9012001" string="Aiguilles des Trois Tours" />
+    <String id="9013001" string="Aiguille de cyasma" />
+    <String id="9014001" string="Poste de Khanovar" />
+    <String id="9015001" string="Côte de l'Île de l'Aube" />
+    <String id="9016001" string="Falaises de l'Île de l'Aube" />
+    <String id="9017001" string="Phare du Soleil" />
+    <String id="9018001" string="Catacombes argones" />
+    <String id="9019001" string="Атриум лаборатории Мистериума" />
+    <String id="9020001" string="Bastion de l'armurerie de Lok" />
+    <String id="9021001" string="Tunnel caché" />
+    <String id="9022001" string="Chambre de la Gloire" />
+    <String id="9023001" string="Repaire de Kutmaschuk" />
+    <String id="9024001" string="Temple de Kaprima" />
+    <String id="9024002" string="Cathédrale détruite" />
+    <String id="9024003" string="Hall des apôtres" />
+    <String id="9024004" string="Chambre d'invocation de Kaprima" />
+    <String id="9025001" string="Temple de Balder" />
+    <String id="9025090" string="Entrée du Temple" />
+    <String id="9025091" string="Labyrinthe du Temple" />
+    <String id="9025092" string="Bassin du Temple" />
+    <String id="9025093" string="Jardin du Temple" />
+    <String id="9025094" string="Cave du Temple" />
+    <String id="9025095" string="Centre du Temple" />
+    <String id="9025096" string="Sanctum du Temple" />
+    <String id="9025097" string="Chambre des Reliques" />
+    <String id="9025098" string="Pont du Temple" />
+    <String id="9026001" string="Corpus argon (normal)" />
+    <String id="9026002" string="Cellule du Poing" />
+    <String id="9026003" string="Chambre du Gardien de l'ascension" />
+    <String id="9026004" string="Hall de l'Arbitre" />
+    <String id="9026005" string="Sanctuaire du Devin" />
+    <String id="9027001" string="Noyau de Manaya (difficile)" />
+    <String id="9027002" string="Le Plexus (difficile)" />
+    <String id="9028001" string="Laboratoire de Malachai" />
+    <String id="9029001" string="Caveau de Kaprima" />
+    <String id="9029002" string="Chambre de forage" />
+    <String id="9029003" string="Hall des apôtres" />
+    <String id="9029004" string="Hall de la résurrection" />
+    <String id="9029005" string="Entrée du Caveau de Kaprima" />
+    <String id="9031001" string="Repaire d'Akasha (donjon des épreuves)" />
+    <String id="9032001" string="Labyrinthe d'or (donjon des épreuves)" />
+    <String id="9033001" string="Caverne de Krakatox (difficile, donjon des épreuves)" />
+    <String id="9034001" string="Entrée du Pic de l'effroi (difficile)" />
+    <String id="9034002" string="Pic de l'effroi (difficile) : 2e défi" />
+    <String id="9034003" string="Pic de l'effroi (difficile) : 3e défi" />
+    <String id="9034004" string="Pic de l'effroi (difficile) : 4e défi" />
+    <String id="9034005" string="Pic de l'effroi (difficile) : 5e défi" />
+    <String id="9034006" string="Pic de l'effroi (difficile) : 6e défi" />
+    <String id="9034007" string="Pic de l'effroi (difficile) : 7e défi" />
+    <String id="9034008" string="Pic de l'effroi (difficile) : 8e défi" />
+    <String id="9034009" string="Pic de l'effroi (difficile) : 9e défi" />
+    <String id="9034010" string="Pic de l'effroi (difficile) : 10e défi" />
+    <String id="9034011" string="Pic de l'effroi (difficile) : 1er défi" />
+    <String id="9036001" string="Repaire de Karascha" />
+    <String id="9037001" string="Pont de la Vallée maudite" />
+    <String id="9038001" string="Jungle mystérieuse" />
+    <String id="9039001" string="Site d'embuscade de la caravane" />
+    <String id="9040001" string="Place de Velika" />
+    <String id="9041001" string="Porte est de Velika" />
+    <String id="9042001" string="Quartier général de Velika" />
+    <String id="9043000" string="Entrée de Wonderholme" />
+    <String id="9043001" string="Wonderholme (difficile)" />
+    <String id="9043002" string="Chambre de la Raillerie (difficile)" />
+    <String id="9043003" string="Entrée de Wonderholme" />
+    <String id="9043004" string="Chambre sans Échappatoire" />
+    <String id="9043005" string="Chambre de la Raillerie" />
+    <String id="9043006" string="Wonderholme" />
+    <String id="9043011" string="Grand hall (difficile)" />
+    <String id="9043021" string="Pont nuageux (difficile)" />
+    <String id="9043031" string="Cirque à deux pistes (difficile)" />
+    <String id="9043041" string="Pont de la folie (difficile)" />
+    <String id="9043051" string="Couloir brisaillé (difficile)" />
+    <String id="9043061" string="Plateau resplendissant (difficile)" />
+    <String id="9043071" string="Couloir batifoleur (difficile)" />
+    <String id="9043081" string="Salle des jeux (difficile)" />
+    <String id="9043091" string="Laboratoire d'Aliss (difficile)" />
+    <String id="9043101" string="Cage de la solitude (difficile)" />
+    <String id="9043111" string="Palier désinvolte (difficile)" />
+    <String id="9043121" string="Escalier vacant (difficile)" />
+    <String id="9044000" string="Entrée du temple de Baharr" />
+    <String id="9044001" string="Temple de Baharr" />
+    <String id="9044002" string="Temple de Baharr : porte scellée" />
+    <String id="9044003" string="Temple de Baharr : salle de l'incarnation" />
+    <String id="9044004" string="Temple de Baharr : salle de l'incarnation" />
+    <String id="9045001" string="Montagne Prèmebleu" />
+    <String id="9045002" string="Village de Lilipart" />
+    <String id="9046001" string="Oasis maudite" />
+    <String id="9046002" string="Terrain d'épreuve de la Croissance géante" />
+    <String id="9047001" string="Salle des Fêtes de la Moisson" />
+    <String id="9048001" string="Donjon instancié du dé (titre temporaire)" />
+    <String id="9048002" string="Donjon instancié aux dés (titre temp)" />
+    <String id="9050000" string="Entrée du Bord du précipice" />
+    <String id="9050001" string="Village Guwangi" />
+    <String id="9050002" string="Débarcadère du village Guwangi" />
+    <String id="9050003" string="Jardin de Yativio" />
+    <String id="9050004" string="Cave de Vesporax" />
+    <String id="9050005" string="Nid de Koleogg" />
+    <String id="9050006" string="Bord du précipice" />
+    <String id="9050007" string="Bord du précipice (difficile)" />
+    <String id="9050008" string="Plate-forme en corniche de l'Aéronef" />
+    <String id="9051001" string="Temple sordide" />
+    <String id="9051002" string="Cave du Temple" />
+    <String id="9051003" string="Jardin du Temple" />
+    <String id="9051004" string="Centre du Temple" />
+    <String id="9051005" string="Échelle" />
+    <String id="9051006" string="Cave du Temple" />
+    <String id="9051007" string="Jardin du Temple" />
+    <String id="9051008" string="Centre du Temple" />
+    <String id="9052001" string="Carnaval du Sang" />
+    <String id="9052002" string="Salle de Cérémonie" />
+    <String id="9052003" string="Salle de Banquet" />
+    <String id="9052004" string="Salle de Banquet" />
+    <String id="9052005" string="Salle de Cérémonie" />
+    <String id="9053001" string="Gorge de Kezzel" />
+    <String id="9054001" string="Ascension bathyssale (difficile)" />
+    <String id="9054002" string="Caverne des runes" />
+    <String id="9054003" string="Serre toxique" />
+    <String id="9054004" string="Couloir profond" />
+    <String id="9054005" string="Fosse de peur" />
+    <String id="9054006" string="Hall élémental" />
+    <String id="9054007" string="Caveau de Faridei" />
+    <String id="9054008" string="Caveau de Faridei" />
+    <String id="9054009" string="Ascension bathyssale" />
+    <String id="9055002" string="Gorge vorace" />
+    <String id="9055003" string="Grotte du Glouton" />
+    <String id="9055004" string="Tanière du dévoreur" />
+    <String id="9055005" string="Nid de Nimistrix" />
+    <String id="9055008" string="Entrée de la Gorge vorace" />
+    <String id="9055009" string="Nid de Nimistrix" />
+    <String id="9056001" string="Entrée de l'Espace-temps de Valona" />
+    <String id="9056002" string="Épreuve du Tonnerre" />
+    <String id="9056003" string="Le Berceau de Basalte" />
+    <String id="9056004" string="Noyau temporel" />
+    <String id="9056005" string="Noyau temporel" />
+    <String id="9057001" string="Fournaise d'Archeron (difficile)" />
+    <String id="9057002" string="Entrée de la Fournaise d'Archeron (difficile)" />
+    <String id="9060001" string="Navire sentinelle" />
+    <String id="9060002" string="Cuirassé de Kalivan (difficile)" />
+    <String id="9060003" string="Passerelle d'embarquement" />
+    <String id="9060004" string="Cuirassé de Kalivan (difficile)" />
+    <String id="9060005" string="Cale" />
+    <String id="9060006" string="Pont du Navire sentinelle" />
+    <String id="9061001" string="Ruines des Géants" />
+    <String id="9065001" string="Vallée du Crépuscule" />
+    <String id="9066001" string="Cour du palais" />
+    <String id="9066002" string="Roulette de Demoroth" />
+    <String id="9066003" string="Entrée de la Roulette de Demoroth" />
+    <String id="9068001" string="Temple sanglant de Dkurion (difficile)" />
+    <String id="9068002" string="Plateforme du portier" />
+    <String id="9068003" string="Abysses de la Grotte lugubre" />
+    <String id="9068004" string="Hall de Dkurion" />
+    <String id="9068005" string="Grotte lugubre" />
+    <String id="9070001" string="Entrée du Plateau trompeur" />
+    <String id="9071001" string="Tombe des Nécromanciens" />
+    <String id="9071003" string="Cellule des Nécromanciens" />
+    <String id="9071004" string="Quartiers du Gardien-chef" />
+    <String id="9071005" string="Quartiers de la Fraternité" />
+    <String id="9071006" string="Laboratoire des Nécromanciens" />
+    <String id="9071007" string="Chapelle de la Douleur" />
+    <String id="9071008" string="Chambre de Thulsa" />
+    <String id="9071009" string="Passage secret" />
+    <String id="9072001" string="Labyrinthe d'or" />
+    <String id="9072002" string="Chambre de la Sauvagerie" />
+    <String id="9072003" string="Salle de ravitaillement" />
+    <String id="9072004" string="Chambre des Sacrifices" />
+    <String id="9072005" string="Chambre de Justice" />
+    <String id="9072006" string="Chambre du Gardien de la porte" />
+    <String id="9073001" string="Tour d'Ébène" />
+    <String id="9073002" string="Tour d'Ébène - Primus" />
+    <String id="9073003" string="Tour d'Ébène - Secundus" />
+    <String id="9073004" string="Tour d'Ébène - Tertius" />
+    <String id="9073005" string="Tour d'Ébène - Quartus" />
+    <String id="9073006" string="Tour d'Ébène - Quintus" />
+    <String id="9073007" string="Hall des Ombres" />
+    <String id="9073008" string="Chambre de l'Angoisse" />
+    <String id="9073009" string="Autel de la Mort" />
+    <String id="9073010" string="Tombeau du Tourment" />
+    <String id="9074001" string="Sanctuaire de la résurrection" />
+    <String id="9075001" string="Nid de Kelsaik" />
+    <String id="9075002" string="Chambre du Gardien" />
+    <String id="9075003" string="Hall de Kelsaik" />
+    <String id="9076001" string="Labyrinthe de la Terreur" />
+    <String id="9077001" string="Désert de Batu" />
+    <String id="9077002" string="Arène de Mejdanar" />
+    <String id="9077003" string="Mags Thulanax" />
+    <String id="9077004" string="Mags Kormas" />
+    <String id="9078001" string="Pic de Suryati" />
+    <String id="9078002" string="Zone de contrôle de Suryati" />
+    <String id="9078003" string="Poste de commande de Sihranar" />
+    <String id="9078004" string="Site de recherche de Sihranar" />
+    <String id="9079001" string="Ascension de Saravash" />
+    <String id="9079002" string="Repaire de Saravash" />
+    <String id="9079003" string="Forêt de Feldrenen" />
+    <String id="9079004" string="Campement des Mercenaires" />
+    <String id="9080001" string="Sceau d'Adstringo" />
+    <String id="9080002" string="Refuge de Dratheel" />
+    <String id="9080003" string="Sanctuaire d'Aetrial" />
+    <String id="9080004" string="Bois de l'Infinité" />
+    <String id="9081001" string="Terrain d'Entraînement" />
+    <String id="9082001" string="Temple de la Témérité" />
+    <String id="9083001" string="Terres de Faille" />
+    <String id="9087001" string="Bastion de Lok" />
+    <String id="9087002" string="Bastion de Lok" />
+    <String id="9087003" string="Forteresse d'Atel Akaad" />
+    <String id="9088001" string="Manoir sinistre" />
+    <String id="9088002" string="Cave du Manoir" />
+    <String id="9088003" string="Manoir" />
+    <String id="9088004" string="Machine à pierres magiques" />
+    <String id="9089001" string="Refuge des Cultistes" />
+    <String id="9089002" string="Chambre des Merveilles" />
+    <String id="9089003" string="Chambre d'immoralité" />
+    <String id="9089004" string="Chambre de la Haine" />
+    <String id="9090001" string="Chemin boisé" />
+    <String id="9091001" string="Autel de Vadoma" />
+    <String id="9092001" string="Donation de Dagon" />
+    <String id="9093001" string="Repaire d'Akasha" />
+    <String id="9093002" string="Corridor de la Peste" />
+    <String id="9093003" string="Sanguinarium" />
+    <String id="9093004" string="Ménagerie de Karascha" />
+    <String id="9093005" string="Chambre de l'Electricité" />
+    <String id="9093006" string="Chambre de la Stupéfaction" />
+    <String id="9093007" string="Chambre d'Akasha" />
+    <String id="9094001" string="Jardin céleste de Saleron" />
+    <String id="9094002" string="Plateau de la première épreuve" />
+    <String id="9094003" string="Plateau de la deuxième épreuve" />
+    <String id="9094004" string="Plateau de la troisième épreuve" />
+    <String id="9094005" string="Dernier plateau" />
+    <String id="9095001" string="Epreuve de la Flamme" />
+    <String id="9095002" string="Cœur de l'Epreuve" />
+    <String id="9095003" string="Place de l'Epreuve" />
+    <String id="9095004" string="Brasier sud" />
+    <String id="9095005" string="Brasier ouest" />
+    <String id="9095006" string="Brasier nord" />
+    <String id="9095007" string="Moyeu de l'Epreuve" />
+    <String id="9095008" string="Brasier est" />
+    <String id="9096001" string="Galerie de Sirjuka" />
+    <String id="9124002" string="Velika - Pas de Velik" />
+    <String id="9126001" string="Couveuse de Petre" />
+    <String id="9126002" string="Camp d'entraînement de gardiens" />
+    <String id="9126003" string="[Entraînement] Hall souterrain de Lian (difficile)" />
+    <String id="9126101" string="Allemantheia - Portes d'honneur" />
+    <String id="9128101" string="Kaiator - Place du Triomphe" />
+    <String id="9503001" string="Résidence des commandants" />
+    <String id="9611001" string="L'Abcès (difficile)" />
+    <String id="9618001" string="Arène d'évènement (Velika)" />
+    <String id="9643001" string="Wonderholme" />
+    <String id="9643002" string="Chambre de la Raillerie" />
+    <String id="9643011" string="Wonderholme" />
+    <String id="9643021" string="Wonderholme" />
+    <String id="9643031" string="Wonderholme" />
+    <String id="9643041" string="Wonderholme" />
+    <String id="9643051" string="Wonderholme" />
+    <String id="9643061" string="Wonderholme" />
+    <String id="9643071" string="Wonderholme" />
+    <String id="9643081" string="Wonderholme" />
+    <String id="9643091" string="Wonderholme" />
+    <String id="9643101" string="Wonderholme" />
+    <String id="9643111" string="Wonderholme" />
+    <String id="9643121" string="Wonderholme" />
+    <String id="9681001" string="Rêve de Velik" />
+    <String id="9681002" string="Rêve de Velik" />
+    <String id="9681003" string="Rêve de la déesse Velik (difficile)" />
+    <String id="9681004" string="Rêve de Velik" />
+    <String id="9681005" string="Rêve de Velik" />
+    <String id="9681006" string="Porte souterraine de Velika" />
+    <String id="9681007" string="Rêve de Velik" />
+    <String id="9710001" string="Prison de Lakan (difficile)" />
+    <String id="9710002" string="Point de ralliement macabre" />
+    <String id="9710003" string="Champ distordant" />
+    <String id="9710004" string="Prison détruite" />
+    <String id="9711001" string="L'Abcès (difficile)" />
+    <String id="9711002" string="Entrée de l'Abcès (difficile)" />
+    <String id="9713001" string="Entrée de la Clairière dérobée" />
+    <String id="9713002" string="Entrée de la Clairière dérobée" />
+    <String id="9713003" string="Grotte du Portier" />
+    <String id="9713004" string="Place du Gardien" />
+    <String id="9713005" string="Sanctuaire de Banyakas" />
+    <String id="9714001" string="Sanctuaire de Velik" />
+    <String id="9716001" string="Croiseur céleste l'Opiniâtre" />
+    <String id="9716002" string="Plateforme du croiseur céleste" />
+    <String id="9716003" string="Salle des commandes" />
+    <String id="9716004" string="Salle des machines" />
+    <String id="9716005" string="Pont du croiseur céleste" />
+    <String id="9720000" string="Abîme d'Antaros : Point de départ" />
+    <String id="9720001" string="Abîme d'Antaros : Zone interdite" />
+    <String id="9720002" string="Abîme d'Antaros : Place des châtiments" />
+    <String id="9720003" string="Abîme d'Antaros : Salle de l'épreuve" />
+    <String id="9720004" string="Environs de Velika" />
+    <String id="9720005" string="Environs de Velika" />
+    <String id="9724001" string="Temple de Kaprima (difficile)" />
+    <String id="9724002" string="Cathédrale détruite" />
+    <String id="9724003" string="Hall des apôtres" />
+    <String id="9724004" string="Chambre d'invocation de Kaprima" />
+    <String id="9725001" string="Temple de Balder (difficile)" />
+    <String id="9725090" string="Entrée du Temple (difficile)" />
+    <String id="9725091" string="Labyrinthe du Temple (difficile)" />
+    <String id="9725092" string="Bassin du Temple (difficile)" />
+    <String id="9725093" string="Jardin du Temple (difficile)" />
+    <String id="9725094" string="Cave du temple (difficile)" />
+    <String id="9725095" string="Centre du Temple (difficile)" />
+    <String id="9725096" string="Sanctum du Temple (difficile)" />
+    <String id="9725097" string="Chambre des Reliques (difficile)" />
+    <String id="9725098" string="Pont du Temple (difficile)" />
+    <String id="9726001" string="Corpus argon (difficile)" />
+    <String id="9726002" string="Cellule du Poing (difficile)" />
+    <String id="9726003" string="Chambre du Gardien de l'ascension (difficile)" />
+    <String id="9726004" string="Hall de l'Arbitre (difficile)" />
+    <String id="9726005" string="Sanctuaire du Devin (difficile)" />
+    <String id="9727001" string="Noyau de Manaya" />
+    <String id="9727002" string="Le Plexus" />
+    <String id="9735001" string="Centre de recherche énergétique" />
+    <String id="9735002" string="Centrale d'aération du hangar" />
+    <String id="9735003" string="Centre de recherche des champs magnétiques" />
+    <String id="9735004" string="Centre de traitement de marchandises" />
+    <String id="9735005" string="Zone interdite : D" />
+    <String id="9735006" string="Zone interdite : E" />
+    <String id="9735007" string="Zone interdite : Hangar du RK-9" />
+    <String id="9739000" string="Entrée du Camp des révolutionnaires" />
+    <String id="9739001" string="Forge du Camp des révolutionnaires" />
+    <String id="9739002" string="Armurerie du Camp des révolutionnaires" />
+    <String id="9739003" string="Ruines en périphérie du village" />
+    <String id="9739004" string="Route d'infiltration" />
+    <String id="9743001" string="Wonderholme" />
+    <String id="9743002" string="Chambre de la Raillerie" />
+    <String id="9743011" string="Grand hall (normal)" />
+    <String id="9743021" string="Pont nuageux" />
+    <String id="9743031" string="Cirque à deux pistes" />
+    <String id="9743041" string="Pont de la folie" />
+    <String id="9743051" string="Couloir brisaillé" />
+    <String id="9743061" string="Plateau resplendissant" />
+    <String id="9743071" string="Couloir batifoleur" />
+    <String id="9743081" string="Salle des jeux" />
+    <String id="9743091" string="Laboratoire d'Aliss" />
+    <String id="9743101" string="Cage de la solitude" />
+    <String id="9743111" string="Palier désinvolte" />
+    <String id="9743121" string="Escalier vacant" />
+    <String id="9756001" string="Entrée de l'Espace-temps de Valona" />
+    <String id="9756002" string="Épreuve du Tonnerre" />
+    <String id="9756003" string="Le Berceau de Basalte" />
+    <String id="9756004" string="Noyau temporel" />
+    <String id="9756005" string="Noyau temporel" />
+    <String id="9757001" string="Entrée de la Fournaise d'Archeron" />
+    <String id="9757002" string="Entrée de la Fournaise d'Archeron" />
+    <String id="9757003" string="La Main d'Archeron" />
+    <String id="9757004" string="Téléportail du Royaume d'Archeron" />
+    <String id="9757005" string="Téléportail du Théâtre de l'horreur" />
+    <String id="9760001" string="Navire sentinelle" />
+    <String id="9760002" string="Pont du Cuirassé" />
+    <String id="9760003" string="Passerelle d'embarquement" />
+    <String id="9760004" string="Pont du Cuirassé" />
+    <String id="9760005" string="Cale" />
+    <String id="9760006" string="Pont du Navire sentinelle" />
+    <String id="9766001" string="Flotte en Morceaux" />
+    <String id="9766002" string="Entrée de la Flotte en morceaux" />
+    <String id="9766003" string="Entrée vers la Flotte en Morceaux" />
+    <String id="9768001" string="Temple sanglant de Dkurion" />
+    <String id="9768002" string="Plateforme du portier" />
+    <String id="9768003" string="Abysses de la Grotte lugubre" />
+    <String id="9768004" string="Hall de Dkurion" />
+    <String id="9768005" string="Grotte lugubre" />
+    <String id="9770001" string="Place détruite" />
+    <String id="9770002" string="Forteresse détruite" />
+    <String id="9770003" string="Domaine de Lachelitas" />
+    <String id="9770004" string="Entrée des Ruines de Lachelitas" />
+    <String id="9773001" string="Tour d'Ébène (difficile)" />
+    <String id="9773002" string="Tour d'Ébène (difficile) - Primus" />
+    <String id="9773003" string="Tour d'Ébène (difficile) - Secundus" />
+    <String id="9773004" string="Tour d'Ébène (difficile) - Tertius" />
+    <String id="9773005" string="Tour d'Ébène (difficile) - Quartus" />
+    <String id="9773006" string="Tour d'Ébène (difficile) - Quintus" />
+    <String id="9773007" string="Hall des Ombres (difficile)" />
+    <String id="9773008" string="Chambre de l'Angoisse (difficile)" />
+    <String id="9773009" string="Autel de la Mort (difficile)" />
+    <String id="9773010" string="Tombeau du Tourment (difficile)" />
+    <String id="9775001" string="Nid de Kelsaik (difficile)" />
+    <String id="9775002" string="Chambre du Gardien (difficile)" />
+    <String id="9775003" string="Hall de Kelsaik (difficile)" />
+    <String id="9776001" string="Labyrinthe de la Terreur (difficile)" />
+    <String id="9776002" string="Hall de Shriekaal (difficile)" />
+    <String id="9776003" string="Hall de Tragieron (difficile)" />
+    <String id="9776004" string="Hall d'Agonal (difficile)" />
+    <String id="9776005" string="Hall des Cauchemars (difficile)" />
+    <String id="9776006" string="Hall des Hurlements (difficile)" />
+    <String id="9776007" string="Hall de Kriegar (difficile)" />
+    <String id="9776008" string="Hall d'Anarxis (difficile)" />
+    <String id="9777001" string="Les Canaux" />
+    <String id="9777002" string="Les Canaux - Voie d'évacuation" />
+    <String id="9777003" string="Les Canaux - Œil omniscient" />
+    <String id="9777004" string="Les Canaux - Chambre de la Conjuration" />
+    <String id="9777005" string="Les Canaux - Grande Citerne" />
+    <String id="9777006" string="Les Canaux - Entrée de la Citerne" />
+    <String id="9781001" string="Jardin du temple de Velik" />
+    <String id="9781002" string="Salle d'audience de Velik" />
+    <String id="9781003" string="Résidence de Velik !" />
+    <String id="9781004" string="Étendue de Velik" />
+    <String id="9781005" string="Détour de Velik" />
+    <String id="9781006" string="Porte souterraine de Velika" />
+    <String id="9781007" string="Entrée du Sanctuaire de Velik" />
+    <String id="9782000" string="Entrée du Hall souterrain de Lian" />
+    <String id="9782001" string="Sanctuaire de Nedra" />
+    <String id="9782002" string="Place des exécutions" />
+    <String id="9782003" string="Salle dénaturée" />
+    <String id="9782004" string="Entrée de la salle dénaturée" />
+    <String id="9783000" string="Entrée de la Forteresse de Ténébris" />
+    <String id="9783001" string="Place centrale" />
+    <String id="9783002" string="Bibliothèque centrale" />
+    <String id="9783003" string="Toit de la Forteresse" />
+    <String id="9793001" string="Repaire d'Akasha (difficile)" />
+    <String id="9793002" string="Corridor de la Peste (difficile)" />
+    <String id="9793003" string="Sanguinarium (difficile)" />
+    <String id="9793004" string="Ménagerie de Karascha (difficile)" />
+    <String id="9793005" string="Chambre de la Bizarrerie (difficile)" />
+    <String id="9793006" string="Chambre de la Stupéfaction (difficile)" />
+    <String id="9793007" string="Chambre d'Akasha (difficile)" />
+    <String id="9794001" string="Entrée dérobée de la caverne" />
+    <String id="9794002" string="Mine lugubre" />
+    <String id="9794003" string="Laboratoire de recherche de Syruk" />
+    <String id="9794004" string="Entrée de la Station de recherche de Syruk" />
+    <String id="9801001" string="Traverse du Nexus" />
+    <String id="9801002" string="Velika" />
+    <String id="9801003" string="Allemantheia" />
+    <String id="9801004" string="Kaiator" />
+    <String id="9802001" string="Traverse du Nexus" />
+    <String id="9803001" string="Traverse du Nexus" />
+    <String id="9804001" string="Nid de Kelsaik" />
+    <String id="9808001" string="Armurerie Sabex" />
+    <String id="9808002" string="Piques et pointes" />
+    <String id="9808003" string="Forge" />
+    <String id="9808004" string="Entrepôt B" />
+    <String id="9808005" string="Caveau Sabex" />
+    <String id="9808006" string="Source d'énergie" />
+    <String id="9808007" string="Source d'énergie" />
+    <String id="9808008" string="Source d'énergie" />
+    <String id="9808009" string="Source d'énergie" />
+    <String id="9809001" string="Catacombes de Macellarius" />
+    <String id="9809002" string="Catacombes de Macellarius" />
+    <String id="9809003" string="Catacombes de Macellarius" />
+    <String id="9809004" string="Catacombes de Macellarius" />
+    <String id="9809005" string="Catacombes de Macellarius" />
+    <String id="9809010" string="Entrée des Catacombes de Macellarius" />
+    <String id="9810001" string="Prison de Lakan" />
+    <String id="9810002" string="Prison de Lakan" />
+    <String id="9810003" string="Prison de Lakan (escaliers d'entrée)" />
+    <String id="9810004" string="Prison de Lakan (sentier de Lakan)" />
+    <String id="9810005" string="Prison de Lakan (Chambre de l'adoration)" />
+    <String id="9811001" string="L'Abcès" />
+    <String id="9811002" string="Entrée de l'Abcès" />
+    <String id="9813001" string="Clairière dérobée (1 personne)" />
+    <String id="9813002" string="Entrée de la Clairière dérobée" />
+    <String id="9813003" string="Grotte du Portier" />
+    <String id="9813004" string="Place du gardien" />
+    <String id="9813005" string="Sanctuaire de Banyakas" />
+    <String id="9814001" string="Le Caveau d'Oriyn" />
+    <String id="9821001" string="2e niveau de la Forteresse de Raqnan" />
+    <String id="9822001" string="Poste d'écoute archidevan" />
+    <String id="9823001" string="Croiseur céleste l'Intrépide" />
+    <String id="9823002" string="Croiseur céleste l'Intrépide" />
+    <String id="9823003" string="Pont météorologique" />
+    <String id="9825001" string="Temple de Balder (Solo)" />
+    <String id="9825090" string="Entrée du Temple" />
+    <String id="9825091" string="Labyrinthe du Temple" />
+    <String id="9825092" string="Bassin du Temple" />
+    <String id="9825093" string="Jardin du Temple" />
+    <String id="9825094" string="Cave du Temple" />
+    <String id="9825095" string="Centre du Temple" />
+    <String id="9825096" string="Sanctum du Temple" />
+    <String id="9825097" string="Chambre des Reliques" />
+    <String id="9825098" string="Pont du Temple" />
+    <String id="9830001" string="Trône céleste (solo)" />
+    <String id="9830002" string="Hautegarde : Hall des armes" />
+    <String id="9833003" string="Approche de Croskurn" />
+    <String id="9833004" string="Mines de Croskurn" />
+    <String id="9833005" string="Avant-poste de l'Épine ardente" />
+    <String id="9833006" string="Sanctuaire de Zaeltarazad" />
+    <String id="9833007" string="Crête déchiquetée" />
+    <String id="9860001" string="Navire sentinelle" />
+    <String id="9860002" string="Pont du Cuirassé" />
+    <String id="9860003" string="Passerelle d'embarquement" />
+    <String id="9860004" string="Pont du Cuirassé" />
+    <String id="9860005" string="Cale" />
+    <String id="9860006" string="Pont du Navire sentinelle" />
+    <String id="9871001" string="Tombe des Nécromanciens (Solo)" />
+    <String id="9871003" string="Cellule des Nécromanciens (Solo)" />
+    <String id="9871004" string="Quartiers du Gardien-Chef (1 personne)" />
+    <String id="9871005" string="Quartiers de la Fraternité (1 personne)" />
+    <String id="9871006" string="Laboratoire des Nécromanciens (1 personne)" />
+    <String id="9871007" string="Chapelle de la Douleur (1 personne)" />
+    <String id="9871008" string="Chambre de Thulsa (1 personne)" />
+    <String id="9871009" string="Passage secret (1 personne)" />
+    <String id="9872001" string="Labyrinthe d'Or (Solo)" />
+    <String id="9872002" string="Chambre de la Sauvagerie (1 personne)" />
+    <String id="9872003" string="Salle de ravitaillement (1 personne)" />
+    <String id="9872004" string="Chambre des Sacrifices (1 personne)" />
+    <String id="9872005" string="Chambre de Justice (1 personne)" />
+    <String id="9872006" string="Chambre du Gardien de la Porte (1 personne)" />
+    <String id="9873001" string="Tour d'Ébène (Solo)" />
+    <String id="9873002" string="Tour d'Ebène - Primus (1 personne)" />
+    <String id="9873003" string="Tour d'Ebène - Secundus (1 personne)" />
+    <String id="9873004" string="Tour d'Ebène - Tertius (1 personne)" />
+    <String id="9873005" string="Tour d'Ebène - Quartus (1 personne)" />
+    <String id="9873006" string="Chambre de l'Angoisse (1 personne)" />
+    <String id="9873007" string="Hall des Ombres (1 personne)" />
+    <String id="9873008" string="Chambre de l'Angoisse (1 personne)" />
+    <String id="9873009" string="Autel de la mort (1 personne)" />
+    <String id="9873010" string="Tombeau du Tourment (1 personne)" />
+    <String id="9885001" string="Pic de l'effroi" />
+    <String id="9885002" string="Défi" />
+    <String id="9885003" string="Entrée du Pic de l'effroi" />
+    <String id="9885004" string="Pic de l'effroi - Etages supérieurs" />
+    <String id="9887001" string="Bastion de Lok (Solo)" />
+    <String id="9887002" string="Bastion de Lok (Solo)" />
+    <String id="9887003" string="Forteresse d'Atel Akaad (1 personne)" />
+    <String id="9888001" string="Manoir sinistre (Solo)" />
+    <String id="9888002" string="Cave du Manoir (1 personne)" />
+    <String id="9888003" string="Manoir (1 personne)" />
+    <String id="9888004" string="Étage de production de menhir (1 personne)" />
+    <String id="9889001" string="Refuge des Cultistes (Solo)" />
+    <String id="9889002" string="Chambre des Merveilles (1 personne)" />
+    <String id="9889003" string="Chambre d'immoralité (1 personne)" />
+    <String id="9889004" string="Chambre de la Haine (1 personne)" />
+    <String id="9900001" string="Position d'origine" />
+    <String id="9911001" string="Tempête de froid de Kelsaik (10 personnes)" />
+    <String id="9911002" string="Chambre du Gardien (10 personnes)" />
+    <String id="9911003" string="Hall de Kelsaik (10 personnes)" />
+    <String id="9916001" string="Croiseur céleste l'Opiniâtre (difficile)" />
+    <String id="9916002" string="Porte sud du Trellum Consurgo" />
+    <String id="9916003" string="Salle des commandes (difficile)" />
+    <String id="9916004" string="Salle des machines (difficile)" />
+    <String id="9916005" string="Pont du croiseur céleste (difficile)" />
+    <String id="9920000" string="Abîme d'Antaros (difficile) : Point de départ" />
+    <String id="9920001" string="Abîme d'Antaros (difficile) : Zone interdite" />
+    <String id="9920002" string="Abîme d'Antaros (difficile) : Place des châtiments" />
+    <String id="9920003" string="Abîme d'Antaros (difficile) : Salle de l'épreuve" />
+    <String id="9920004" string="Environs de Velika" />
+    <String id="9920005" string="Environs de Velika" />
+    <String id="9935001" string="Centre de recherche énergétique" />
+    <String id="9935002" string="Centrale d'aération du hangar" />
+    <String id="9935003" string="Centre de recherche des champs magnétiques" />
+    <String id="9935004" string="Centre de traitement de marchandises" />
+    <String id="9935005" string="Zone interdite : D" />
+    <String id="9935006" string="Zone interdite : E" />
+    <String id="9935007" string="Zone interdite : Hangar du RK-9" />
+    <String id="9939000" string="Entrée du Camp des révolutionnaires terrifiant" />
+    <String id="9939001" string="Forge du Camp des révolutionnaires terrifiant" />
+    <String id="9939002" string="Armurerie du Camp des révolutionnaires terrifiant" />
+    <String id="9939003" string="Ruines en périphérie du village" />
+    <String id="9939004" string="Route d'infiltration" />
+    <String id="9950001" string="Passage détruit du royaume des dieux" />
+    <String id="9950002" string="Passage détruit du royaume des dieux : zone de combat moyenne" />
+    <String id="9950003" string="Passage détruit du royaume des dieux : zone de combat abyssale" />
+    <String id="9970001" string="Place détruite" />
+    <String id="9970002" string="Forteresse détruite" />
+    <String id="9970003" string="Domaine de Lachelitas" />
+    <String id="9970004" string="Entrée des Ruines de Lachelitas" />
+    <String id="9975001" string="Tempête de feu de Kelsaik (20 personnes)" />
+    <String id="9975002" string="Chambre du Gardien (20 personnes)" />
+    <String id="9975003" string="Hall de Kelsaik (20 personnes)" />
+    <String id="9979001" string="Ascension de Saravash" />
+    <String id="9979002" string="Repaire de Saravash" />
+    <String id="9979003" string="Forêt de Feldrenen" />
+    <String id="9979004" string="Camp de la menace" />
+    <String id="9981001" string="Jardin du temple effondré" />
+    <String id="9981002" string="Salle d'audience effondrée" />
+    <String id="9981003" string="Résidence effondrée" />
+    <String id="9981004" string="Étendue effondrée" />
+    <String id="9981005" string="Détour effondré" />
+    <String id="9981006" string="Porte souterraine de Velika" />
+    <String id="9981007" string="Entrée du sanctuaire effondré" />
+    <String id="9982000" string="Entrée du Hall souterrain de Lian" />
+    <String id="9982001" string="Sanctuaire de Nedra" />
+    <String id="9982002" string="Place des exécutions" />
+    <String id="9982003" string="Salle dénaturée" />
+    <String id="9982004" string="Entrée de la salle dénaturée" />
+    <String id="9983000" string="Entrée de la Forteresse de Ténébris (difficile)" />
+    <String id="9983001" string="Place centrale" />
+    <String id="9983002" string="Bibliothèque centrale" />
+    <String id="9983003" string="Toit de la Forteresse" />
+    <String id="9990001" string="À l'attaque !" />
+    <String id="9990002" string="Défense !" />
+    <String id="9990003" string="Danger !" />
+    <String id="9990004" string="Joindre !" />
+    <String id="9994001" string="Entrée dérobée de la caverne" />
+    <String id="9994002" string="Mine lugubre" />
+    <String id="9994003" string="Laboratoire de recherche de Syruk" />
+    <String id="9999998" string="Une carte est en train d'être créée pour cette zone." />
+    <String id="9999999" string="La carte de cette zone n'est pas disponible." />
+    <String id="10230001" string="Couveuse d'Arkarp (solo)" />
+    <String id="10230002" string="Couveuse d'Arkarp" />
+    <String id="25002501" string="Site de scellage" />
+    <String id="25002502" string="Bois renégat" />
+    <String id="25002503" string="Nouveau monde de Paesyn" />
+    <String id="25002504" string="Action d'Exodor" />
+    <String id="25002530" string="Camp d'entraînement pour héros" />
+    <String id="25002531" string="Clerc du répit" />
+    <String id="25002532" string="Clerc du répit" />
+    <String id="30231000" string="Zone secrète de la Forteresse de Berak" />
+    <String id="30231001" string="Entrepôt secret de la Forteresse de Berak" />
+    <String id="30231002" string="Laboratoire secret de la Forteresse de Berak" />
+    <String id="30232000" string="Base de la Fédération" />
+    <String id="30270001" string="[Combattant immortel] Arène du courroux" />
+    <String id="30321000" string="[Entraînement] Zone secrète de la Forteresse de Berak" />
+    <String id="30321001" string="[Entraînement] Entrepôt secret de la Forteresse de Berak" />
+    <String id="30321002" string="[Entraînement] Laboratoire secret de la Forteresse de Berak" />
+    <String id="30371000" string="[Entraînement] Temple de Bahaar" />
+    <String id="31030001" string="[Aeternia] Arène du courroux" />
+    <String id="32030001" string="[Immortalis] Arène du courroux" />
+    <String id="96431504" string="Raccourci" />
+    <String id="302700001" string="Entrée de l'Arène du courroux" />
+</StrSheet_Region>

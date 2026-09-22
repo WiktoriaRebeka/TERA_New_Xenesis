@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">L'artisanat dans l'effort de guerre&lt;BR&gt;&lt;BR&gt;Aidez un chercheur à obtenir de l'eau d'oasis à des fins alchimiques.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1181">
+        <Page social="0">Ce chercheur alchimique a besoin d'un peu d'eau fraîche d'oasis de Chebika. Quelqu'un est-il disposé à faire le voyage&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" prevId="3" villagerId="1009">
+        <Page social="0">Vous avez idée du nombre de personnes que Tidak a envoyées ici pour y chercher de l'eau d'oasis&amp;nbsp;? Qu'est-ce qu'ils peuvent en faire&amp;nbsp;? Prenez ça et dites-lui d'arrêter de m'enquiquiner.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1181">
+        <Page social="0">Vous l'avez&amp;nbsp;! Il suffit de lire cette recette pour savoir pourquoi l'eau d'oasis est si importante.</Page>
+    </Text>
+</QuestDialog>

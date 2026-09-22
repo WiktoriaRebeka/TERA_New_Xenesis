@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">En protégeant Paesyn, &lt;PCNAME&gt; s'est aventuré{@g:/e} au cœur de l'Energia Celo, tuant au passage tous les monstres se présentant sur sa route.&lt;BR&gt;En chemin, &lt;PCNAME&gt; a assisté à des scènes atroces de Parthes captifs que l'on transformait en demokrons.&lt;BR&gt;Zolyn est apparue, accompagnée de ses mercenaires et a demandé à &lt;PCNAME&gt; de libérer les prisonniers pendant qu'elle et ses soldats s'occupaient de décimer les gardes archidevans.&lt;BR&gt;Malheureusement, lorsque &lt;PCNAME&gt; et Paesyn ont rattrapé Zolyn, ce fut pour assister à une scène bien plus tragique encore...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="818" prevId="2" villagerId="1112">
+        <Page social="4" voiceTypeId="0">Comment&amp;nbsp;? Non, je viens avec vous&amp;nbsp;! Zolyn prétend que vous êtes extrêmement important{@g:/e} et que vous jouez un rôle dans la prophétie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous rencontrez des problèmes, je peux aller chercher de l'aide&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je... bon d'accord. Mais restez en retrait jusqu'à ce qu'il n'y ait plus de danger."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="818" prevId="3" villagerId="1112">
+        <Page social="4" voiceTypeId="0">Combien de gardes pensez-vous qu'il y ait&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous ne croyez pas que nous devrions attendre Zolyn&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"J'y rentre. J'ai entendu des prisonniers à l'intérieur. Restez ici." &lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="818" prevId="4" villagerId="1116">
+        <Page social="4" voiceTypeId="0">Merci d'avoir protégé Paesyn. Je crois que... je commence à l'apprécier.&lt;BR&gt;&lt;BR&gt;Bon, venons-en à nos affaires&amp;nbsp;: je vais capturer le laboratoire avec mes soldats. Et vous, vous cherchez un moyen de libérer les prisonniers.&lt;BR&gt;&lt;BR&gt;Ah, et ne dites rien de tout cela à Rhodos. Tous ces cobayes sont des Parthes, son peuple. Rhodos entrerait dans une rage folle s'il les voyait ainsi.&lt;NEXTPAGEBUTTON&gt;"Je comprends. Je vous rejoins sitôt que j'ai terminé." &lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="818" prevId="5" villagerId="1103">
+        <Page social="4" voiceTypeId="0">Nous devons la sauver&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne m'en vais pas avant que nous l'ayons récupérée&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous êtes censé{@g:/e} être un héros&amp;nbsp;! Vous êtes censé{@g:/e} être LE héros&amp;nbsp;! La prophétie&amp;nbsp;! "L'élu{@g:/e}" de Mystel&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;AIDEZ-MOI A LA LIBERER&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"On ne peut rien faire d'ici. Je suis désolé{@g:/e}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="818" prevId="6" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Je suis arrivé à temps... mais aussi trop tard. Je suis désolé que votre amie Zolyn n'ait pas pu être sauvée, mais rassurez-vous&amp;nbsp;: Mystel a prédit que vous la reverrez.&lt;BR&gt;&lt;BR&gt;Et maintenant, venons-en à votre mission. La machine que vous voyez au milieu de la pièce sert à réguler la muraille des Tempêtes. On ne peut pas la désactiver... mais on peut la mettre en surcharge.&lt;BR&gt;&lt;BR&gt;Abaissez le levier et elle se détruira.&lt;NEXTPAGEBUTTON&gt;"Avec le plus grand plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="818" prevId="7" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Le régulateur s'apprête à exploser&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous devons partir au plus vite.&lt;NEXTPAGEBUTTON&gt;"Allons Paesyn... il est temps de partir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">On a repéré des {@LinkCreature:42#800#trafiquants besharans} au sud du temple, près de la pension. Pendant que vous les tuez, essayez de découvrir comment ils contrôlent les morts-vivants, en particulier ces {@LinkCreature:42#700#farfadets osseux vicieux}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Alors les gulas qui contrôlaient des morts-vivants portaient ces cristaux&amp;nbsp;? Faites voir...&lt;BR&gt;&lt;BR&gt;Regardez&amp;nbsp;! C’est un sceau besharan, et juste à côté, un sceau naga&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il faut que je prévienne Frontera. Merci pour votre aide, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Lorsque nous saurons comment les gulas contrôlent les morts-vivants, nous pourrons utiliser cette information à notre avantage.</Page>
+    </Text>
+</QuestDialog>

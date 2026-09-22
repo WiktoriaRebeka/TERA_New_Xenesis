@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Il y en a un qui en connaît un rayon sur les {@LinkCreature:13#300931#ghilliedhus}, Dulari, un chercheur et ami. Quand vous vous rendrez à son camp vers le sud, récoltez des échantillons de ceux que vous combattrez.&lt;BR&gt;&lt;BR&gt;Attaquez-les par derrière ou par le flanc... mais surtout, restez en mouvement. On ne rigole par avec un ghilliedhu en colère.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">J'ai vu que vous deviez vous défendre en chemin. Quelle drôle de comportement pour ces créatures d'habitude si dociles... &lt;BR&gt;&lt;BR&gt;Les ghilliedhus sont des esprits protecteurs, pas des soldats. Il me faut des réponses... et des échantillons m'aideront à savoir ce qui se passe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Un autre soldat. Encore Kishale qui veut "aider"... Ces échantillons ne font que renforcer mes conclusions&amp;nbsp;: nous devons étudier cet endroit, pas le conquérir.&lt;BR&gt;&lt;BR&gt;Si vous devez vous battre, entraînez-vous jusqu'à ce que vous puissiez faire face à Vekas sans crainte. Je crois qu'il rend nerveux les autres esprits et en comprenant Vekas, nous en apprendrons plus sur cette île qu'avec la violence aveugle.</Page>
+    </Text>
+</QuestDialog>

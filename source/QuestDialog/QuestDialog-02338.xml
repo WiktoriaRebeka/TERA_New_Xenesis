@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous êtes allé trouver le membre des Riverans qui se tient auprès de la plateforme du Marécage de Viridian, afin de trouver un remède pour Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tandis que vous cherchiez les ingrédients pour le remède de Jelena, Bashik, un naga des Riverans, vous a révélé que des villageois enlevés sont emprisonnés dans un cachot.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="100">
+        <Page social="0" voiceTypeId="0">Je vous attendais.&lt;BR&gt;Tout le monde semble être ici.&lt;BR&gt;&lt;BR&gt;J'ai entendu dire que vous alliez chercher des ingrédients pour un remède. En cheminant vers le nord, vous trouverez un de mes camarades.&lt;BR&gt;&lt;BR&gt;Il vous aidera à dénicher les ingrédients.&lt;NEXTPAGEBUTTON&gt;"Vous avez vu mon camarade ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Non, je ne les ai pas vus.&lt;BR&gt;&lt;BR&gt;Mais vos camarades sont peut-être passés ici pendant mon absence.&lt;BR&gt;&lt;BR&gt;Faites attention à vous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="110">
+        <Page social="4" voiceTypeId="0">Au secours... Sauvez-moi !&lt;BR&gt;Vous, là-bas... Vous êtes avec lui.&lt;NEXTPAGEBUTTON&gt;"Je ne compte pas vous faire de mal. Par où est-il parti ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Il a pris la route qui gravit la colline.&lt;BR&gt;&lt;BR&gt;Aussi... vite que le vent...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="120">
+        <Page social="0" voiceTypeId="0">Revenj avait dit vrai.&lt;BR&gt;("Avez-vous vu mon camarade ?")&lt;BR&gt;Votre camarade ? Non, je ne l'ai pas vu.&lt;BR&gt;Il est sans doute parti dans une autre direction.&lt;BR&gt;&lt;BR&gt;La cigüe de Viridian et les queues de fauve sont les composants principaux du remède destiné à votre amie.&lt;BR&gt;&lt;BR&gt;La cigüe de Viridian ralentit la progression de la maladie.&lt;BR&gt;Allez trouver de la cigüe et envoyez-la à votre camarade pour gagner un peu de temps.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="127">
+        <Page social="0" voiceTypeId="0">Il y en a sans doute assez pour sauver votre amie.&lt;BR&gt;&lt;BR&gt;Je vais lui transmettre la cigüe. Retrouvons-nous au camp.&lt;BR&gt;&lt;BR&gt;Longez cette route vers l'est et vous verrez un poste abandonné.&lt;BR&gt;&lt;BR&gt;Éliminez les patrouilles d'oppresseurs pour qu'ils ne repèrent pas le camp.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" villagerId="127">
+        <Page social="0">Il me faut de la cigüe de Viridian.&lt;BR&gt;Allez vite en trouver pour sauver votre camarade.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" prevId="6" villagerId="121">
+        <Page social="0" voiceTypeId="0">J'ai transmis la cigüe de Viridian. Vous trouverez les autres ingrédients dans la Vallée de la brèche.&lt;BR&gt;&lt;BR&gt;Quelle poisse ! On dirait qu'un gardien naga nous a pris en chasse. Allez donc l'éliminer puis rendez-vous dans la Vallée de la brèche.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="122">
+        <Page social="0" voiceTypeId="0">Il n'y a pas d'autres traqueurs, si ? Il ne nous manque plus que quelques queues de fauve.&lt;BR&gt;&lt;BR&gt;Il faut les faire cuire avec la cigüe de Viridian et le produit miracle d'Arkarp pour obtenir un remède contre la cristallisation.&lt;BR&gt;&lt;BR&gt;Éliminez les fauves affreux de la Vallée de la brèche pour récupérer leur queue.&lt;BR&gt;&lt;BR&gt;Prenez garde ! Ils sont extrêmement farouches et dangereux.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">Parfait. Ça n'a sans doute pas été facile. Vous m'impressionnez.&lt;BR&gt;&lt;BR&gt;Je vais apporter les ingrédients au camp.&lt;BR&gt;&lt;BR&gt;Au fait, vous avez un rapport avec les prisonniers du plateau ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">C'est bien ce que je me disais.&lt;BR&gt;&lt;BR&gt;S'ils n'ont pas encore servi de cobayes, ils sont sans doute emprisonnés dans le Cachot disciplinaire. Vous devriez vous dépêcher.&lt;BR&gt;&lt;BR&gt;J'ai entendu dire que Rogash est d'humeur massacrante, par les temps qui courent.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">Ça ne suffit pas pour le remède.&lt;BR&gt;&lt;BR&gt;Merci d'en chercher d'autres.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="10" villagerId="130">
+        <Page social="4" voiceTypeId="0">Même s'il est impératif de sauver les villageois, le remède contre la cristallisation est tout aussi important !&lt;BR&gt;&lt;BR&gt;C'est une découverte majeure. De nombreux habitants d'Arborea attendent des soins contre la cristallisation.&lt;BR&gt;&lt;BR&gt;Je me fais vraiment du souci.</Page>
+    </Text>
+</QuestDialog>

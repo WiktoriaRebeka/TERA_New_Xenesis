@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="57" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Je suis si occupé quand je n'ai même pas eu le temps d'avaler un bon repas.&lt;BR&gt;&lt;BR&gt;Vous n'avez pas particulièrement l'air d'{@g:un bon cuisinier/une bonne cuisinière} mais... je fais que les champignons nébuleux des alentours sont un vrai délice.&lt;BR&gt;&lt;BR&gt;Puis vous allez arpenter la forêt, est-ce que vous pourriez aller m'en chercher, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Ils ne sont pas empoisonnés, j'espère."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Non, non, ils ne contiennent pas de poison, uniquement le goût délicieux de la forêt.&lt;BR&gt;&lt;BR&gt;Cherchez-les dans les recoins des bois autour de la Cabane de Maon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="4">Merci beaucoup, &lt;PCNAME&gt;. J'étais prêt à me faire un sandwich à l'écorce, c'est une tranche d'écorce entre deux tranches de, euh… d'écorce.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Les &lt;font color='#660000'&gt;champignons nébuleux&lt;/font&gt; sont réputés sur le continent d'Arun pour leur goût délicieux et beurré.</Page>
+    </Text>
+</QuestDialog>

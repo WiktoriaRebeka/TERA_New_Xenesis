@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="1">Non, non, non&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Encore un appareil cassé&amp;nbsp;? Je l'ai à peine touché&amp;nbsp;! Le codirecteur Deresk va me tuer si j'en demande un autre&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pouvez-vous réparer cet {@LinkCreature:71#1110#appareil d'analyse}, ou demander à {@LinkCreature:71#1108$$Adean} de le faire&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="1110">
+        <Page social="1">(L'{@LinkCreature:71#1110#appareil d'analyse} produit des grincements et un étrange liquide violet s'en échappe.&lt;BR&gt;&lt;BR&gt;Il est vraiment cassé. Apportez-le à {@LinkCreature:71#1108$$Adean}, la marchande d'équipement.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="3" villagerId="1108">
+        <Page social="1">L'{@LinkCreature:71#1110#appareil d'analyse} de {@LinkCreature:71#1105$$Mienne}&amp;nbsp;? Voyons un peu.&lt;BR&gt;&lt;BR&gt;Rien de surprenant. De quand date son dernier réglage&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bien, branchez ça dans la prise là-bas. Si ça fonctionne, apportez-le à {@LinkCreature:71#1102$$Deresk} et dites-lui de ne plus économiser sur l'entretien.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="4" villagerId="1111">
+        <Page social="1">(L'appareil bourdonne doucement.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="5" villagerId="1102">
+        <Page social="1">L'entretien&amp;nbsp;? Pourquoi faire&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Avant de le donner à Mienne, je m'en suis servi pendant quatre ans sans qu'il n'y ait aucun problème&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

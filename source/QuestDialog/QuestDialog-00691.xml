@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="5">Hé&amp;nbsp;! Un petit pari, ça vous intéresse&amp;nbsp;? Vous avez devant vous la personne la plus rapide de tout Val Aureum.&lt;NEXTPAGEBUTTON&gt;"Sans vouloir vous vexer, j'en doute."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ha&amp;nbsp;! Je m'attendais à votre réaction. Très bien, alors que dites-vous d'une petite course&amp;nbsp;? La victoire reviendra au premier qui atteindra le Poste d'Observation ouest en passant par le Refuge de Marchesable et c'est Loqa qui sera notre témoin.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
+        <Page social="4">{@gender:Prêt/Prête} à prendre une raclée&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1007">
+        <Page social="5">Pfft... Raquib n'est pas rapide, il est juste moins lent que certains berserkers.&lt;BR&gt;&lt;BR&gt;Tâchez de le lui faire comprendre, mais n'allez pas non plus l'humilier. Il reste l'un des meilleurs soldats que nous ayons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="4" villagerId="1012">
+        <Page social="5">Bon, très bien... C'est bon, j'ai compris.&lt;NEXTPAGEBUTTON&gt;"Sans rancune, Raquib&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sans rancune... Vous êtes quelqu'un de bien, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La prochaine fois que vous ferez un tour à Tulufan, passez me voir. La première tournée sera pour moi.</Page>
+    </Text>
+</QuestDialog>

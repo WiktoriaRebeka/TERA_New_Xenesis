@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Oh, je suis si proche du but&amp;nbsp;! Encore quelques efforts et j'aurai percé le mystère de ce lieu.&lt;BR&gt;&lt;BR&gt;Jusqu'ici, j'ai toujours pu compter sur votre aide et c'est avec vous que j'aimerais clore le dernier chapitre de cette histoire. Par ailleurs, j'ai commencé à trier et à classer les différents objets que vous m'avez rapportés.&lt;BR&gt;&lt;BR&gt;Si vous pouviez aller me chercher le dernier élément sur les {@LinkCreature:18#105#metatrons}, nous pourrions conclure cette recherche ensemble&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Oui, formidable&amp;nbsp;! Bon, il va me falloir du temps pour décoder ça&amp;nbsp;; mais le jeu en vaut la chandelle&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quand je rendrai cette étude publique, je ne manquerai pas de faire mention de votre contribution&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Je vous croyais déjà au boulot. Vous n'allez pas trouver de reliques intéressantes à proximité de moi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Enfin... si... mais pas celles que nous cherchons.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="4">Les orkans du camp situé en contrebas reçoivent des renforts en permanence. Ils ne tarderont pas à avoir des effectifs suffisamment nombreux pour mettre en péril les projets de la Fédération sur cette île. La seule réponse militaire qui s'impose est une éradication pure et simple de leurs troupes, mais nous n'avons que des éclaireurs, sur place.&lt;BR&gt;&lt;BR&gt;Nous devrions commencer par réduire le nombre de {@LinkCreature:13#5#pillards orkans} patrouillant à la lisière de leur campement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1126">
+        <Page social="4">Contempler la déroute de ces orkans est un vrai plaisir. Revenez nous aider quand vous le pourrez.</Page>
+    </Text>
+</QuestDialog>

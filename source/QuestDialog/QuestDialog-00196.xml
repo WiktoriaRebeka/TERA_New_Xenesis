@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Nakarash... ce monstre commence à m'énerver au plus haut point. Je ne parviens pas à comprendre pourquoi il est aussi difficile à tuer. Mes soldats ont fait de leur mieux, mais ils se sont fait réduire en charpie.&lt;BR&gt;&lt;BR&gt;Je ne vais pas vous mentir, ce sera un combat des plus dangereux. Si vous parvenez à tuer {@LinkCreature:7#18#Nakarash}, nous pourrons peut-être conclure nos recherches. Et quand ce sera fait, nous pourrons reprendre le contrôle de cette région au nom de la Fédération.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">Vous avez tué Nakarash&amp;nbsp;? Et vous m'avez rapporté une écaille pour étude&amp;nbsp;? Je commence à penser que vos talents sont gâchés, ici. Vous devriez appartenir à la Légion armée et entraîner nos meilleures recrues&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à vous, mon intrépide camarade et moi-même allons pouvoir conclure nos recherches et retourner au sanctuaire d'Allemantheia. Vous avez toute notre gratitude, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">Pas question de continuer mes recherches tant que Nakarash arpentera les collines. Sauvez-nous la mise et allez le tuer.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1001">
+        <Page social="5">Un morceau de l'armure de Nakarash&amp;nbsp;? Intrigant... Vous avez du talent pour avoir triomphé d'un monstre aussi redoutable.&lt;BR&gt;&lt;BR&gt;Nous allons l'étudier comme il se doit et tenter d'en tirer quelque chose d'utile. Merci à vous.</Page>
+    </Text>
+</QuestDialog>

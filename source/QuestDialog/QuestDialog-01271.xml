@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Vous avez porté un coup sévère aux argons, mais c'est loin d'être fini. Si la Fédération nous envoie un bataillon, il va nous falloir retrouver une certaine liberté de mouvement, sans quoi l'efficacité de ces renforts sera pratiquement nulle.&lt;BR&gt;&lt;BR&gt;Attaquez les argons postés à proximité de la plateforme de téléportation nord. Pas question de laisser nos renforts débarquer dans un périmètre non sécurisé.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1034">
+        <Page social="6">Hé, &lt;PCNAME&gt;... Un instant, s'il vous plaît. Vous vous rendez à la {@Creature:249#1102}&amp;nbsp;? J'ai une faveur à vous demander.&lt;BR&gt;&lt;BR&gt;On m'a rapporté la présence de créatures argonomorphes atypiques nommées cyclopes zariiks. Ces créatures ont des ailes magnifiques. Vous ne pouvez pas les rater.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs ailes. Je saurai en faire bon usage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1034">
+        <Page social="6">Le Mysterium s'intéresse de près aux argonomorphes et paie tout échantillon à prix d'or. Ses chercheurs espèrent trouver un jour le moyen d'inverser le processus.&lt;BR&gt;&lt;BR&gt;Une noble entreprise... qui comme je le disais paie plutôt bien.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1034">
+        <Page social="0">Ecoutez, la sécurisation de la plateforme va de toutes façons entraîner leur mort.&lt;BR&gt;&lt;BR&gt;Là, c'est l'occasion de faire d'une pierre deux coups.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">Vous revoilà enfin. J'en ai assez de rédiger des lettres aux familles pour leur annoncer que leurs enfants ne rentreront jamais au bercail.&lt;BR&gt;&lt;BR&gt;Très bien. Vous avez fait votre part du travail. Il est temps d'envisager la suite.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4">C'est bon de vous voir, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;J'aime faire des affaires. Mais vous savez ce que je déteste&amp;nbsp;? Les retards. C'est pas grand-chose, mais certains de mes collègues ne m'ont pas remis leurs registres depuis quelques temps.&lt;BR&gt;&lt;BR&gt;Vous pouvez le leur rappeler, gentiment&amp;nbsp;? Très gentiment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">Eh, qu'est-ce que vous faites dans le coin&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Jax veut ses registres mis à jour."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Voilà&amp;nbsp;! Tenez&amp;nbsp;! Au nom des titans, ne me tuez pas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1703">
+        <Page social="4">Quoi de neuf, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Jax veut ses registres mis à jour."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">J'ai une famille... par pitié. Prenez ça&amp;nbsp;! Dites bien à Jax que je ne serai plus jamais en retard&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1704">
+        <Page social="4">Un jour de plus vers le retraite, on dirait, hein, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Jax veut ses registres mis à jour."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Et c'est vous qu'il envoie&amp;nbsp;! Attendez&amp;nbsp;! On peut peut-être s'arranger. Laissez-moi signer le registre et c'est bon&amp;nbsp;! Voilà j'ai fini&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1705">
+        <Page social="4">Vous avez besoin de quelque chose&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Jax veut ses registres mis à jour."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ne me faites pas de mal&amp;nbsp;! Pas dans la figure&amp;nbsp;! Voilà, prenez le registre... et dites à Jax que je lui présente mes excuses&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1701">
+        <Page social="4">Vous avez fait vite. Aucun souci, j'espère&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Voilà un petit quelque chose pour le dérangement.</Page>
+    </Text>
+</QuestDialog>

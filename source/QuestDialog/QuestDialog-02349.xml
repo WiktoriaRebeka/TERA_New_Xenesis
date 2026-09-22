@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Ordre]&lt;BR&gt;&lt;BR&gt;Peu après votre départ d'Exodor, la Fédération Valkyon a installé une base pour surveiller les déplacements d'Arkarp et explorer Exodor.&lt;BR&gt;Revenez sur-le-champ à Exodor pour alimenter la base.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous êtes allé trouver le responsable des marchandises afin d'obtenir des provisions pour Exodor avant d'emprunter la Porte des dimensions pour retourner à Exodor.&lt;BR&gt;&lt;BR&gt;En achevant la quête, vous pouvez exécuter &lt;font color='#FF3333'&gt;[donjon (463)] l'appel de Revenj&lt;/font&gt; et &lt;font color='#FF3333'&gt;[donjon (463)] ennemi dissimulé&lt;/font&gt;. Après quoi, la quête &lt;font color='#7F00FF'&gt;[important] enclume de Kaia&lt;/font&gt; est automatiquement activée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4">Vous avez sans doute lu l'ordre que je vous ai adressé. D'après Dougal, la destruction du noyau a entraîné l'apparition d'une Porte des dimensions irrégulière. Apparemment, c'est l'énergie libérée qui l'a créée.&lt;BR&gt;&lt;BR&gt;Les membres de l'Arkarp pourraient essayer d'emprunter la Porte des dimensions pour envahir notre base. Nous devons renforcer nos défenses.&lt;BR&gt;&lt;BR&gt;Or, pour renforcer la base de la fédération, il nous faut de nombreuses provisions. Allez donc en informer les responsables des marchandises de Velika puis revenez ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1108">
+        <Page social="4" voiceTypeId="0">Nous nous devons de participer à un travail aussi important, ça va de soi. Je vais mettre des provisions à la disposition d'Exodor, même si je dois jeûner pour cela. Laissez-moi m'en charger.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="3" villagerId="1117">
+        <Page social="4" voiceTypeId="0">J'ai déjà entendu parler d'Exodor... Cet endroit existe-t-il vraiment ? Je n'ai rien pu voir depuis Velika.&lt;BR&gt;&lt;BR&gt;Mais si le commandant affirme que je dois vous aider, je n'y manquerai pas.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ils vont donc tous nous aider, quel soulagement !&lt;BR&gt;&lt;BR&gt;Je compte sur vous pour assister Dougal dans la base d'Exodor.&lt;BR&gt;&lt;BR&gt;Faites vos préparatifs pour vous rendre à Exodor. Allez ensuite retrouver Gulan. Il vous indiquera comment rejoindre Exodor.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1567">
+        <Page social="4" voiceTypeId="0">Vous avez vraiment été à Exodor, c'est stupéfiant. Une Porte des dimensions menant à Exodor est ouverte. Vallon, à Hautegarde, vous expliquera tout le reste.&lt;BR&gt;&lt;BR&gt;Je vous y envoie.&lt;BR&gt;&lt;BR&gt;Saluez Vallon de ma part.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="4999">
+        <Page social="4" voiceTypeId="0">Vous tombez à pic. Le commandant Seir m'a dit que mon frère s'est rendu à Exodor.&lt;BR&gt;&lt;BR&gt;Vous pouvez désormais emprunter la Porte des dimensions pour rejoindre Exodor. Utilisez la Porte des dimensions et allez ensuite y retrouver Dougal.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2000" prevId="8" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Bienvenue dans la base de la fédération, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le commandant Seir vous a sans doute déjà informé que la destruction du noyau sombre a entraîné la création d'une Porte des dimensions dans la Zone centrale.&lt;BR&gt;&lt;BR&gt;De nombreux Arkarps hostiles y sévissent encore. Aidez-moi à les mettre hors d'état de nuire.</Page>
+    </Text>
+</QuestDialog>

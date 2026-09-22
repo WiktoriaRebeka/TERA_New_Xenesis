@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="4">Thulsa est mort mais la malédiction du minerai ouijique, ce truc venant du Mont Tyrannas, ne disparaît pas.&lt;BR&gt;Nous ne savons pas pourquoi, mais nous savons que si nous ne faisons rien, les soldats de Kaidun maudits attaqueront sans doute Acarum. La pierre de mana de puissance doit être détruite et éliminée.&lt;BR&gt;&lt;BR&gt;Vous avez déjà eu à faire avec ce minerai, &lt;PCNAME&gt;. Je ne ferais confiance à personne d'autre.&lt;NEXTPAGEBUTTON&gt;"Je le ferai".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Allez voir Georrif ici, à Arcanum.&lt;BR&gt;&lt;BR&gt;Il connaît beaucoup de choses sur le minerai ouijique.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1109">
+        <Page social="4">Content de voir que vous vous occupez de ça, &lt;PCNAME&gt;. Je pense que vous connaissez déjà mon ami Ghufran, qui est venu à votre secours lorsque vous étiez à la recherche de Kaidun.&lt;BR&gt;&lt;BR&gt;Le mystère du minerai est une histoire d'honneur pour lui. Il désespère de mettre fin à la malédiction avant que quelqu'un d'autre ne subisse le même sort que lui.&lt;BR&gt;&lt;BR&gt;Ghufran pense que quelque chose d'autre, quelque chose au-delà de notre portée, diffuse sa puissance directement dans le minerai. Les explications techniques me passent loin au-dessus de la tête mais Ghufran pourra vous expliquer tout ça. Rendez-vous au Mont Tyrannas et vous trouverez Ghufran près du cimetière</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1116">
+        <Page social="4">Content de vous voir, &lt;PCNAME&gt;, même si le fait que je vous dois ma libération de la malédiction me couvre de honte.&lt;BR&gt;&lt;BR&gt;J'ai porté des morceaux de minerai ouijique dans la campagne afin d'essayer de déterminer l'origine de sa force. Mais au lieu d'un "où", j'ai découvert un "qui".&lt;BR&gt;&lt;BR&gt;Un argon nommé Suryati se trouve au-delà de ce téléportail. J'ai essayé d'en venir à bout par moi-même mais j'étais bien trop faible.&lt;BR&gt;&lt;BR&gt;Vous demander de m'aider de nouveau me couvre de honte, mais je ne veux pas que quelqu'un subisse le même malheur que moi. Utilisez ce parchemin afin de traverser le téléportail et de vaincre Suryati&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1501">
+        <Page social="1">(Le parchemin a activé le téléportail. La route menant au Pic de Suryati s'ouvre devant vous.)</Page>
+    </Text>
+</QuestDialog>

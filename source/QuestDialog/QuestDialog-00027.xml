@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="4">Ma sœur&amp;nbsp;! Vous avez vu ma sœur&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Elle s'est enfuie dans la forêt. Nous... nous nous sommes disputées. D'ordinaire, elle finit toujours par revenir, une fois qu'elle s'est calmée, mais là, elle est déjà partie depuis deux jours&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;On dit que la forêt n'est plus un endroit sûr... mais le courage n'a pas l'air de vous manquer. Vous pourriez aller trouver ma soeur {@LinkCreature:202#1028#Jerelyn}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1028">
+        <Page social="4">(C'est un cadavre. Vous trouvez un fragment de chaînette semblant indiquer que son collier a été arraché. Le corps est souillé de traces de boue.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1023">
+        <Page social="13">Jerelyn&amp;nbsp;! Jerelyn&amp;nbsp;! Non&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je ne peux pas le croire...&lt;BR&gt;&lt;BR&gt;C'est ma faute... tout ça à cause de cette dispute ridicule...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1023">
+        <Page social="0">Je dois vous faire un aveu, &lt;PCNAME&gt;. Jerelyn et moi nous sommes disputées à cause d'un collier que nous voulions toutes les deux.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller le récupérer&amp;nbsp;? Je voudrais pouvoir enterrer ma sœur avec.&lt;BR&gt;&lt;BR&gt;Puisque cette dispute aura été la dernière, le moins que je puisse faire, c'est de lui laisser le dernier mot.</Page>
+    </Text>
+</QuestDialog>

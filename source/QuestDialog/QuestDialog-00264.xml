@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">Nous sommes ici pour bloquer ce passage et empêcher les gulas de sortir... et de nous tomber dessus par la même occasion. Le problème, c'est que leur nombre augmente sans cesse&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous devions recevoir des renforts en provenance du {@Rgn:62001$$Port Coupe-gorge}, mais je me demande si on ne nous a pas oubliés...&lt;BR&gt;&lt;BR&gt;Vous pourriez aller voir {@LinkCreature:62#1007$$Kasib} au {@Rgn:62001$$Port Coupe-gorge} et lui demander ce que deviennent les renforts promis&amp;nbsp;? Nous ne pourrons plus retenir ces brutes bien longtemps.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">Je sais... Je sais&amp;nbsp;! C'est la folie, là-bas. C'est la folie partout&amp;nbsp;! La vérité, c'est que ce monde est en train de sombrer dans le chaos.&lt;BR&gt;&lt;BR&gt;Mais je ne peux pas faire apparaître des soldats en claquant des doigts. Dites à {@LinkCreature:209#1007$$Raviv} que je suis malheureusement dans l'incapacité de lui dire quand nous pourrons lui envoyer des renforts.&lt;BR&gt;&lt;BR&gt;Je sais ce que les siens endurent, mais ils doivent à tout prix protéger l'{@Rgn:9011$$Avant-poste des Chasseurs de Reliques}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1007">
+        <Page social="4">Il sait que nous n'avons aucune chance de nous en sortir seuls, et la réponse, c'est "débrouillez-vous"&amp;nbsp;? Magnifique... &lt;BR&gt;&lt;BR&gt;Ecoutez, n'ébruitez pas la nouvelle, entendu&amp;nbsp;? Je... Je n'aime pas devoir mentir à mes soldats, mais s'ils apprennent que les renforts ne viendront pas, autant dire que cet endroit est perdu d'avance.&lt;BR&gt;&lt;BR&gt;Merci d'avoir fait le déplacement.</Page>
+    </Text>
+</QuestDialog>

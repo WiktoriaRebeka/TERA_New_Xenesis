@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">Vous avez réussi l'épreuve de Saleron et vous avez collecté les fragments de relique sous la houlette de Torsten, à l'endroit où ont été éparpillées les reliques antiques. Pour voler la dernière relique de Killian, vous vous êtes aventuré dans la Villa du bouffon. Killian s'est moqué de vous avant de s'emparer de toutes les reliques. Sa joie a pourtant été de courte durée car Thulsa lui a ordonné de rentrer. Quand Fraya, la commandante d'Allemantheia, a appris que vous n'aviez pas réussi à récupérer tous les fragments de relique, elle vous a donné l'essence du noyau. Elle vous a prié d'éliminer Thulsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Vous avez besoin du pouvoir des dieux pour collecter les reliques antiques. Il me reste quelques minuscules résidus du pouvoir des dieux, mais ça ne suffira jamais.&lt;BR&gt;&lt;BR&gt;Mes fidèles serviteurs, les dragons Striktryssir et Grigelt, se partagent ma puissance. Ma magie réside dans la corne de Striktryssir et la colère de Grigelt. Récupérez-les toutes les deux.&lt;BR&gt;&lt;BR&gt;Je vais vous envoyer Torsten et il s'en servira pour confectionner des clés. Les clés réagiront aux reliques des dieux antiques pour vous accorder leur puissance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1100">
+        <Page social="1" voiceTypeId="0">La corne du dragon est un symbole de courage. &lt;BR&gt;J'ai donc décidé de nommer cette clé la clé du courage.&lt;BR&gt;&lt;BR&gt;La relique antique se trouve sur la pyramide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1100">
+        <Page social="0">Maintenant, prouvez votre force... en allant combattre Striktryssir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="3" villagerId="1110">
+        <Page social="1" voiceTypeId="0">(Le fragment de relique antique resplendit.&lt;BR&gt;La clé a absorbé cette énergie et s'est transformée en fragment de relique antique.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="235" prevId="5" villagerId="1110">
+        <Page social="1" voiceTypeId="0">La colère du dragon est un symbole de patience. &lt;BR&gt;J'ai donc baptisé cet objet clé de tolérance.&lt;BR&gt;&lt;BR&gt;La relique antique se trouve auprès de l'autel.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="235" villagerId="1110">
+        <Page social="0">Puisse votre rage égaler celle de Grigelt... tuez-le&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="235" prevId="6" villagerId="1111">
+        <Page social="1" voiceTypeId="0">(Le fragment de relique antique resplendit.&lt;BR&gt;La clé a absorbé cette énergie et s'est transformée en fragment de relique antique.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="235" prevId="8" villagerId="1110">
+        <Page social="1" voiceTypeId="0">L'énergie de la dernière relique...&lt;BR&gt;Je perçois sa présence dans la Villa du dieu de l'effroi.&lt;BR&gt;&lt;BR&gt;Vous devez l'éliminer pour récupérer la relique.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="236" prevId="9" villagerId="1110">
+        <Page social="1" voiceTypeId="0">La pierre magique vous emmène dans la Villa du dieu de l'effroi. &lt;BR&gt;Vous êtes prêts ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="518" prevId="10" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Dommage que vous n'ayez pas obtenu la dernière relique. &lt;BR&gt;Thulsa et Killian ne sont pas des adversaires commodes. &lt;BR&gt;&lt;BR&gt;…&lt;PCNAME&gt;.&lt;BR&gt;Vous souvenez-vous de ce pendentif ?&lt;NEXTPAGEBUTTON&gt;"Oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Voilà ...&lt;BR&gt;Kaidun m'a rendu ce pendentif. &lt;BR&gt;&lt;BR&gt;Je vais transférer sur vous la puissance du noyau qui s'y cache.&lt;BR&gt;C'est la puissance qui jaillit de la fleur vitale que notre créateur Karas nous a transmise, et elle pourra donc peut-être remplacer la relique manquante.&lt;BR&gt;&lt;BR&gt;Vous devez impérativement étouffer le complot de Thulsa et dissiper l'amère rancœur de Kaidun.&lt;NEXTPAGEBUTTON&gt;"Je suis d'attaque."&lt;/NEXTPAGEBUTTON&gt;.</Page>
+        <Page social="1" voiceTypeId="0">À partir de maintenant, chaque seconde compte. Voici un parchemin qui vous amènera à Kaiator.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5009">
+        <Page social="4" voiceTypeId="0">Trois reliques antiques et l'essence du noyau...&lt;BR&gt;&lt;BR&gt;Les quatre reliques antiques auraient été préférables, mais la puissance devrait suffire. Excellent. Mais, &lt;PCNAME&gt;... Si seulement ils n'avaient pas conquis la fournaise divine...&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Les mortels ne peuvent pas utiliser les reliques antiques comme bon leur semble. &lt;BR&gt;J'ai donc prié le forgeron légendaire de vous fabriquer un réceptacle à relique dans la fournaise divine.&lt;BR&gt;&lt;BR&gt;Malheureusement, l'armée de Thulsa a attaqué la fournaise divine. Je n'ai aucune information sur l'état de Muhrak, le forgeron légendaire.&lt;BR&gt;&lt;BR&gt;Même si nous abandonnons la fournaise divine, nous devons sauver le forgeron légendaire pour qu'il fabrique un réceptacle à même de permettre la fusion des reliques antiques avec la puissance de l'essence du noyau.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Des nouvelles du forgeron légendaire ?&lt;BR&gt;&lt;BR&gt;Nous nous apprêtions justement à vous faire appeler. &lt;BR&gt;Selon mes informations, le Primus Gahreed de Lorcada protège les techniciens qui se sont évadés de la fournaise divine.&lt;NEXTPAGEBUTTON&gt;"Les techniciens évadés ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Malheureusement, il est dans le coma.&lt;BR&gt;&lt;BR&gt;Nous devons attendre qu'il se réveille. Il pourra certainement nous dire ce qui s'est passé dans la fournaise et où le forgeron légendaire Muhrak se trouve actuellement.&lt;BR&gt;&lt;BR&gt;Je vous ferai signe quand il aura repris conscience. (Tout s'emballe toujours d'un coup... Voilà maintenant que le Mysterium s'en mêle aussi.)</Page>
+    </Text>
+</QuestDialog>

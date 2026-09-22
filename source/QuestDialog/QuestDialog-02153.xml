@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Vous auriez un peu de temps à m'accorder, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Pour tout vous dire, oui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">{@LinkCreature:63#3002#Taratia} a besoin d'un coup de main. La pauvre demoiselle n'a que deux mains, comme elle a coutume de le répéter. Ah, si je pouvais dresser une pieuvre...&lt;BR&gt;&lt;BR&gt;Je pense qu'elle vous trouvera sans doute quelque chose à faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Elthienne} vous a dit que je n'allais pas réussir à tout gérer sans qu'on m'aide&amp;nbsp;? Quel culot. Je vais lui montrer de quoi je suis capable, elle va voir...&lt;BR&gt;&lt;BR&gt;Pardonnez-moi, je suis un peu sur les nerfs aujourd'hui. Une de mes "connaissances" est venue me rendre une petite visite.&lt;BR&gt;&lt;BR&gt;Très bien, allons-y donc.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Merci, l'{@gender:ami/amie}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} vous donnera un petit quelque chose pour votre peine.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Où est la fibre de shetla que je vous ai demandée&amp;nbsp;? Vous me mettez dans le pétrin, vous le savez, ça&amp;nbsp;?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Ah, ça, c'est de la peau brute de qualité. Joli travail.&lt;BR&gt;&lt;BR&gt;Vous connaissez la chanson. Voyez {@LinkCreature:63#3003#Elthienne} pour votre récompense.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Oh, merci, merci !&lt;BR&gt;{@linkcreature:63#3003#Elthienne} vous dédommagera pour votre peine.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt;, ça va vous prendre encore longtemps de me procurer un peu d'{@RawItem:206801} ? S'il vous plaît, faites vite.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Oh, merci, merci !&lt;BR&gt;{@linkcreature:63#3003#Elthienne} vous dédommagera pour votre peine.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt;, ça va vous prendre encore longtemps de me procurer un {@RawItem:206802} ? S'il vous plaît, faites vite.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Oh, merci, merci !&lt;BR&gt;{@linkcreature:63#3003#Elthienne} vous dédommagera pour votre peine.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt;, ça va vous prendre encore longtemps de me procurer un {@RawItem:206803} ? Dépêchez-vous donc un peu, je vous prie !</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Oh, merci, merci !&lt;BR&gt;{@linkcreature:63#3003#Elthienne} vous dédommagera pour votre peine.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt;, ça va vous prendre encore longtemps de me procurer une {@RawItem:206804} ? Dépêchez-vous donc un peu, je vous prie !</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Oh, merci, merci !&lt;BR&gt;{@linkcreature:63#3003#Elthienne} vous dédommagera pour votre peine.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&lt;PCNAME&gt;, ça va vous prendre encore longtemps de me procurer une {@RawItem:206805} ? Dépêchez-vous donc un peu, je vous prie !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Merci !&lt;BR&gt;La prochaine fois que j'aurai besoin d'aide, je vous ferai signe.&lt;BR&gt;Vous vous en sortez vraiment bien.</Page>
+    </Text>
+</QuestDialog>

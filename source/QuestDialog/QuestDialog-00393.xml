@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0">Vous avez fait connaissance avec quelques membres... intéressants de la garnison de la Base de la Tour et ils vous ont enseigné des techniques encore plus intéressantes, à réaliser avec vos bombes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Donc, vous êtes &lt;PCNAME&gt; c'est bien ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;On m'a dit du bien de vous, mais je ne peux pas vous déclarer apte au service tant que vous n'avez pas fait vos preuves sur le champ de tir.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que je dois faire&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pour devenir un membre à part entière de notre garnison, vous devez être capable de manipuler l'équipement de base.&lt;BR&gt;&lt;BR&gt;Quand la Fédération a commencé à envoyer des recrues pour qu'elles fassent leurs armes ici, nous avons édifié une zone d'entraînement pour leur enseigner comment manipuler correctement les explosifs.&lt;BR&gt;&lt;BR&gt;Essayez de vous orienter à l'ouïe, vous ne passerez pas à côté. {@linkcreature:64#1029#Kiriya} est un peu... spéciale, mais elle a beaucoup d'expérience dans le domaine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">QUOI&amp;nbsp;? JE NE VOUS ENTENDS PAS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'AI BOSSE TOUTE MA VIE AVEC DES EXPLOSIFS ET IL EST TEMPS POUR MOI DE TRANSMETTRE MON SAVOIR&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;CA VOUS TENTE D'APPRENDRE A FAIRE SAUTER DES TRUCS&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Allons-y&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">CE N'EST PAS BIEN SORCIER&amp;nbsp;! BALANCEZ JUSTE LA BOMBE SUR CE {@LinkCreature:13#888#MANNEQUIN D'ENTRAINEMENT}, LÀ-BAS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt; CE QUI EST BIEN PRATIQUE AVEC CES BOMBES C'EST QUE, QUAND ELLES FONCTIONNENT, ELLES NOUS LE FONT SAVOIR&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">SAVOIR FAIRE PÉTER DES TRUCS, C'EST IMPORTANT, SURTOUT QUAND ON FAIT FACE À DES HORDES D'ENNEMIS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;MAINTENANT, DEGUERPISSEZ ET ALLEZ TUER DES CHOSES AU NOM DE LA LIBERTE&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

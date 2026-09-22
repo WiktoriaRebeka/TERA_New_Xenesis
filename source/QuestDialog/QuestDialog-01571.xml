@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="85" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">L'heure est venue de procéder à des enchantements pour bénéficier de plus gros bonus&amp;nbsp;! Dans votre fenêtre d'enchantement, vous pouvez faire des enchantements répétés à l'aide de tous vos matériaux, en cliquant sur la fonction d'enchantement automatique.&lt;BR&gt;&lt;BR&gt;Attention, cependant&amp;nbsp;: l'enchantement automatique utilise la quantité optimale et non pas le minimum requis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="0">Il n'est pas nécessaire de chercher à atteindre le potentiel maximal de vos objets dès maintenant. Mais un jour ou l'autre, cela vous sera utile. Vous verrez qu'utiliser plus de matière première en essayant d'atteindre de plus gros bonus promet de meilleurs résultats.&lt;BR&gt;&lt;BR&gt;Vous faites {@gender:un/une} {@gender:bon/bonne} {@gender:étudiant/étudiante}, &lt;PCNAME&gt;. J'espère vous avoir été utile.</Page>
+    </Text>
+</QuestDialog>

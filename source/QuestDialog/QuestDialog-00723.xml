@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">C'est ici qu'arrive le ravitaillement de la Fédération avant d'être redistribué.&lt;BR&gt;&lt;BR&gt;Ces fournitures doivent parvenir au {@Rgn:24013$$Fortin de la Cathédrale}, mais pour tout dire, nous manquons de bras.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller demander des renforts à {@LinkCreature:225#1008$$Jahdami} du {@Rgn:24013$$Fortin de la Cathédrale}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1008">
+        <Page social="4">Je comprends bien le problème d'{@LinkCreature:225#1006$$Orlaith}. Nous avons en effet désespérément besoin de ravitaillement, mais nous ne pouvons nous permettre de lui envoyer des renforts.&lt;BR&gt;&lt;BR&gt;Si vous pouvez nous donner un coup de main, les choses s'amélioreront peut-être. S'il vous plaît, aidez-nous à nous en sortir.</Page>
+    </Text>
+</QuestDialog>

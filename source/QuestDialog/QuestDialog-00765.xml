@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">&lt;PCNAME&gt;&amp;nbsp;! Puis-je vous demander une faveur&amp;nbsp;? J'ai besoin de quelqu'un de rapide et résistant.&lt;NEXTPAGEBUTTON&gt;"Pourquoi&amp;nbsp;? Que se passe-t-il&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">J'ai besoin des rapports de nos équipes sur le terrain.&lt;BR&gt;&lt;BR&gt;Aucune n'est très loin, mais quand ils envoient des coursiers, ceux-ci arrivent en général à moitié morts et sentent le paresseux à plein nez. Sans mentir.&lt;BR&gt;&lt;BR&gt;Pouvez-vous passer voir chaque équipe tout en menant à bien vos missions&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1085">
+        <Page social="1">Quiconque emprunte cette route est soit courageux, soit fou.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1086">
+        <Page social="1">J'allais apporter moi-même ce rapport mais vous avez toute ma reconnaissance pour m'avoir évité cette corvée, camarade.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1087">
+        <Page social="1">{@LinkCreature:230#1005$$Naisas} nous épuise.&lt;BR&gt;&lt;BR&gt;Je pense qu'il veut revenir en ville. Personnellement j'adore le travail de terrain&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1088">
+        <Page social="1">N'approchez pas du bord&amp;nbsp;! Voici mon rapport. Dites à {@LinkCreature:230#1005$$Naisas} que les tours sont extraordinaires&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1005">
+        <Page social="1">Superbe travail, et rondement mené.&lt;BR&gt;&lt;BR&gt;Et puis, vous avez moins de morsures de paresseux que les messagers habituels.</Page>
+    </Text>
+</QuestDialog>

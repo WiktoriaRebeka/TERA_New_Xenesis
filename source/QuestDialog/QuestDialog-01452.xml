@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Nous avons de gros problèmes. La nuit dernière... Ne le répétez pas, d'accord&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Après que les mekonaris ont envahi le bois et le croisement, ils ont bloqué la vallée. La Chute du Dragon semblait avoir été épargnée, mais la Garde vient de trouver une maison vide&amp;nbsp;: toute une famille disparue, quelques taches de sang... et des plumes noires.&lt;BR&gt;&lt;BR&gt;Si ça s'ébruite... A vrai dire, la ville est déjà en panique.&lt;BR&gt;&lt;BR&gt;Nous devons faire quelque chose&amp;nbsp;! Ma guilde va partir en éclaireur et voir si on peut forcer le blocus. Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">Bienvenue, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Ma journée s'améliore&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

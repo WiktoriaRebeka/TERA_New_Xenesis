@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">Je crois que les shurians ont semé une sacrée pagaille. Autrefois, les {@LinkCreature:4#3021#rôdeurs des âmes}, les protecteurs élus du sanctuaire de Bahaar, nous laissaient tranquilles, sauf lorsque nous venions trop près.&lt;BR&gt;&lt;BR&gt;C'est terminé&amp;nbsp;! A cause des shurians, les rôdeurs des âmes attaquent tout ce qui bouge&amp;nbsp;! Je n'ai rien contre Bahaar, mais nous devons écraser les rôdeurs des âmes avant qu'ils ne nous écrasent&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Les shurians battent en retraite, et on s'est occupé des rôdeurs des âmes&amp;nbsp;: Bahaar peut reposer en paix, bien au chaud, et nous pouvons terminer notre travail sans crainte.&lt;BR&gt;&lt;BR&gt;Les choses sont bien assez dangereuses comme ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">Les {@LinkCreature:4#3021#rôdeurs des âmes} sont notre priorité pour le moment. Empêchez-les d'approcher de nos troupes.</Page>
+    </Text>
+</QuestDialog>

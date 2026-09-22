@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez rencontré Dougal et Zolyn puis appris la disparition de Paesyn.&lt;BR&gt;Paesyn préparait un tonifiant pour égayer Zolyn. Celle-ci l'a bu avec plaisir, mais est finalement entrée dans une colère noire en en découvrant les ingrédients.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Allez voir Dougal et Zolyn près de la plate-forme de téléportation.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2206">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Nous avons commencé à avoir peur de vous avoir également perdu{@g:/e}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Votre mission a-t-elle réussi&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je crois bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Avec un peu de chance, le Scrutateur Renish sera d'accord pour nous laisser immédiatement entrer dans Hautegarde&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Il me faut encore le convaincre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Nous lui parlerons également.&lt;BR&gt;&lt;BR&gt;Mais nous allons devoir vous rattraper. Nous avons perdu toute trace de Paesyn. Il était avec nous et, d'une minute à l'autre, il a disparu. Vous ne l'avez pas vu quelque part, si&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Paesyn a disparu&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je suis sûr qu'il s'est juste égaré. Il est malin, donc il n'y a pas vraiment de souci à se faire pour lui.&lt;BR&gt;&lt;BR&gt;Mais vous avez vu de quoi ces lieux sont capables et Paesyn peut être un peu imprudent lorsqu'il est distrait.&lt;BR&gt;&lt;BR&gt;Nous nous apprêtions à rentrer au camp pour mettre une équipe de recherche sur pieds. Mais puisque vous êtes ici, vous ne voudriez pas jeter un œil rapide dans les environs&amp;nbsp;? Il ne peut pas être allé bien loin.&lt;NEXTPAGEBUTTON&gt;"Laissez-moi m'en occuper."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quel plaisir de vous revoir&amp;nbsp;! Avez-vous terminé votre mission&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Des gens vous cherchent, Paesyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Oui, je sais.&lt;BR&gt;&lt;BR&gt;Mais je ne peux pas encore rentrer. Je cherche quelque chose&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dites, pourquoi ne pas m'aider à le trouver&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est pour Zolyn, n'est-ce pas&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je m'inquiète pour elle&amp;nbsp;! Si triste, si déterminée, si renfermée&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Peut-être qu'elle souhaite juste être seule."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Balivernes&amp;nbsp;! Qui aime être seul&amp;nbsp;? Après tout, n'est-elle pas venue ici pour trouver sa sœur&amp;nbsp;? Elle se sent donc seule. Et inquiète.&lt;BR&gt;&lt;BR&gt;Mais je connais un moyen de l'égayer. Les Khiriens m'ont donné une recette pour un tonifiant spécial qui est assuré de la détendre un peu.&lt;BR&gt;&lt;BR&gt;Mais il me manque encore un ingrédient&amp;nbsp;: de la viande de créature des sources chaudes. Il peut s'agir d'asteroidas ou de kamaras. Mais je n'ai pas la force de, vous savez bien...&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe, donc laissez tomber le regard de chien battu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Et donc, vous m'aidez&amp;nbsp;? Un grand merci, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Si cela fonctionne, nous n'aurons pas besoin de réessayer&amp;nbsp;! Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Comment&amp;nbsp;? Zolyn souffre, &lt;PCNAME&gt;. Je ne peux pas supporter de voir quiconque souffrir ainsi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="4" villagerId="2209">
+        <Page social="1" voiceTypeId="0">Parfait&amp;nbsp;! Merci, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon, si je me souviens bien, il me faut juste... tout... bien... écra... bouiller... et c'est prêt&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"J'en suis ravi{@g:/e}!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2209">
+        <Page social="0">Faites vite, &lt;PCNAME&gt;. Vous ne voyez pas que Zolyn a mal à l'intérieur&amp;nbsp;?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2209">
+        <Page social="1" voiceTypeId="0">Oui, bien sûr&amp;nbsp;! Il faut que je donne ça à Zolyn sans plus attendre&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;"Vous êtes sûr que c'est une bonne idée&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Que voulez-vous dire&amp;nbsp;? Ah, c'est vrai. Mes tentatives précédentes de l'égayer ne m'ont pas vraiment fait gagner ses faveurs...&lt;BR&gt;&lt;BR&gt;Ecoutez, je sais que c'est beaucoup demander mais, pourriez-vous...?&lt;NEXTPAGEBUTTON&gt;"Bon... d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2210">
+        <Page social="1" voiceTypeId="0">Des nouvelles de cet infernal casse-pieds&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Il est en route. Euh... un petit coup à boire, ça vous dirait&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah, oui&amp;nbsp;! J'ai grand soif. &lt;BR&gt;&lt;BR&gt;Dites-moi, ce n'est pas mauvais&amp;nbsp;! Peu commun, mais plein de saveurs&amp;nbsp;! Et... ça détend&amp;nbsp;! Je peux presque palper la tension qui me tombe des épaules&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Qu'est-ce que qu'il y a dedans&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Demandez à Paesyn... c'est lui qui l'a concocté pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah bon&amp;nbsp;? Il a enfin réussi à se rendre utile.&lt;BR&gt;&lt;BR&gt;Je ne devrais peut-être pas être auuussi 'ur avec'ui.&lt;NEXTPAGEBUTTON&gt;"Euh, oui. Tout va bien&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">En bleine vorme&amp;nbsp;r!&lt;BR&gt;&lt;BR&gt;Addendez... queusqueu meurrive&amp;nbsp;? queusque yavait dan zede disane&amp;nbsp;! queusque ze sag-a-buce m'a engore vait... jvai lduer&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Désolé{@g:/e}, capitaine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="2011">
+        <Page social="1" voiceTypeId="0">Je vous resalue, &lt;PCNAME&gt;. Qu'est-ce que vous avez là&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;L'énergie diffusée par ce pendentif&amp;nbsp;! Je sens comme elle résonne dans les talismans que j'ai examinés&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Parfait, &lt;PCNAME&gt;, je crois que celui suffit à démontrer la noblesse de vos intentions. Mes collèges scrutateurs campent sur l'arête de Kazan, au nord.&lt;BR&gt;&lt;BR&gt;Si vous montrez ceci à Durom, il vous amènera près du Grand scrutateur, Janiam.&lt;NEXTPAGEBUTTON&gt;"Merci, Renish."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" villagerId="2011">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="226" voiceTypeId="41" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="226" endSocial="14" prevId="0" villagerId="1011">
+        <Page social="4">La rumeur se répand comme une trainée de poudre dans la région. C'est bon pour le tourisme mais ça attire aussi les fous et les charlatans.&lt;BR&gt;&lt;BR&gt;Ce qui n'est jamais bon...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="226" endSocial="14" prevId="0" villagerId="1011">
+        <Page social="4">(Si votre esprit et votre âme sont accordés, vous pouvez commencer l'épreuve.)&lt;TEXTBUTTON&gt;L'épreuve&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Commencer l'épreuve&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="9">Neacal m'a demandé de garder un œil sur le trajet de la caravane, mais ce n'est pourtant pas la seule de nos priorités.&lt;BR&gt;&lt;BR&gt;Foledus s'est fait attaquer par les {@LinkCreature:3#300142#guerriers devans} et il y a perdu toute une cargaison. Ils se la sont certainement partagée. Voyez si vous pouvez remettre la main dessus. Vous rendrez certainement la joie de vivre à cet harpagon de castanic&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1013">
+        <Page social="8">Je vois déjà Foledus sauter de joie. Vous devriez vous rendre au plus vite au Camp de la Digue et lui faire part de la bonne nouvelle.&lt;BR&gt;&lt;BR&gt;Et s'il lui reste de la bière en stock, pensez à m'en rapporter un peu.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1013">
+        <Page social="0">Dépouillez un Devan, n'importe lequel. Vous avez de bonnes chances de trouver sur lui une partie de la marchandise de Philetus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1005">
+        <Page social="4">Bon sang de bonsoir&amp;nbsp;! J'avais cessé d'espérer&amp;nbsp;! Merci beaucoup&amp;nbsp;! Ces saletés de devans trouvent toujours un moyen de nous pourrir la vie.&lt;BR&gt;&lt;BR&gt;Enfin, si je parviens à retourner en ville et à y ouvrir mon échoppe, vous aurez la primeur de mes meilleurs articles... et à tarifs préférentiels&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

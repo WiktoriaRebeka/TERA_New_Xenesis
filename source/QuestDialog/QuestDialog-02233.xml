@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Vous vous êtes frayé un chemin à travers le Carnaval du Sang, avez détruit l'autel des vampires et arrêté leur rituel.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">J'ai enfin appris pourquoi les vampires ont besoin d'autant de prisonniers. Ils versent leur sang sur leur autel et cela les rend plus forts. C'est probablement pourquoi nous n'arrivons pas à complètement les détruire.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, j'ai encore besoin de votre aide.&amp;nbsp;: détruisez cet autel&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">Vos prouesses n'ont pas fini de m'impressionner, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Vous devriez peut-être envisager de revenir me voir, un jour, quand vous ne serez pas trop occupé. Je pourrai sculpter une statue à votre effigie…</Page>
+    </Text>
+</QuestDialog>

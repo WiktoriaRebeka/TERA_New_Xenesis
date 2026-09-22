@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="1">Soldat, pouvez-vous m'accorder un instant&amp;nbsp;? J'ai une mission demandant des compétences et de l'intelligence.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:30#10#gorilles peau-cendrée} de la région sont débordés par des paresseux agressifs et envahissants. Sans mentir. Des paresseux.&lt;BR&gt;&lt;BR&gt;Les gorilles n'attaquent pas sans avoir été provoqués, mais les paresseux ont un sens aigu du territoire&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;"Comment puis-je aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Nous rassemblons les gorilles dans une réserve près des portes du Bastion afin de sauver leur population.&lt;BR&gt;&lt;BR&gt;Prenez un de ces fruits dont raffolent les gorilles et guidez-en un jusqu'à l'enclos. Nous ferons le reste.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:30#10#gorilles peau-cendrée} sont pacifiques, mais méfiez-vous des paresseux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="23">
+        <Page social="0">(Les yeux du gorille sont fixés sur le fruit, mais il semble nerveux à l'idée d'approcher.&lt;BR&gt;&lt;BR&gt;Si vous allez lentement jusqu'à l'enclos, il devrait vous suivre.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="1104">
+        <Page social="1">Ce sont de magnifiques créatures, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quel dommage que les paresseux les chassent.&lt;BR&gt;&lt;BR&gt;Même les protecteurs de la nature parmi nous seraient ravis si ces cauchemars griffus s'éteignaient.</Page>
+    </Text>
+</QuestDialog>

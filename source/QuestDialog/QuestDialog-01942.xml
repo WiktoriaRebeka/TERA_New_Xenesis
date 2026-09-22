@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">Les nouveaux convertis font les meilleurs zélotes, j'imagine.&lt;BR&gt;&lt;BR&gt;Les loyalistes ducaux et les gardes du corps ducaux se montrent plus barbares que les vampires&amp;nbsp;! Ils sont assoiffés de sang&amp;nbsp;! Bon, on peut en dire autant des vampires, évidemment, mais vous avez compris ma pensée...&lt;BR&gt;&lt;BR&gt;Alors, faites couler le sang ducal&amp;nbsp;! Et rapportez-moi des preuves&amp;nbsp;! Je veux m'assurer que nous progressons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Ca leur apprendra à choisir le mauvais camp, non, &lt;PCNAME&gt;&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Les Loyalistes et les Gardes du corps ducaux. Ce n'est pas compliqué&amp;nbsp;! Allez&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

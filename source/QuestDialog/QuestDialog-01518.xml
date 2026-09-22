@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="5">Il y a des nouvelles pour vous, &lt;PCNAME&gt;. Le Consul Dougal vous demande de rentrer à Velika aussi vite que possible.&lt;BR&gt;&lt;BR&gt;Il est question de renforts pour nos troupes sur le front intérieur. Vous devriez vous mettre en route.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Merci d'avoir fait le déplacement, &lt;PCNAME&gt;. Je serai bref... la participation à l'effort de guerre affecte terriblement la qualité de vie des peuples de la Fédération.&lt;BR&gt;&lt;BR&gt;Cette dernière fait aujourd'hui appel à vous ainsi qu'à d'autres agents pour aider les magistrats, récupérer des biens de première nécessité et soulager les souffrances de la population.&lt;BR&gt;&lt;BR&gt;Allez vous présenter au Magistrat Arn à Boquillon. Nous devons montrer à la population que nous nous soucions autant d'elle que des argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1013">
+        <Page social="9">Ce que la nature nous offre, l'ennemi nous le vole. Nos ressources s'épuisent.&lt;BR&gt;&lt;BR&gt;Nous avons avant tout besoin d'un {@RawItem:206802}, d'une {@RawItem:206805} et d'une {@RawItem:206809}. Sans ces ressources, difficile de survivre dans le coin.&lt;BR&gt;&lt;BR&gt;Pourriez-vous nous les procurer au plus vite ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="4" villagerId="1013">
+        <Page social="8">Voilà qui devrait nous aider&amp;nbsp;! Nous allons pouvoir réparer nos outils, entretenir nos terres, et soigner nos blessures. Merci beaucoup.&lt;NEXTPAGEBUTTON&gt;"Tout le plaisir était pour moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Vous êtes trop modeste. Le Magistrat Bisi se fera certainement la même réflexion quand il vous rencontrera. Il se trouve à Popolion, et la situation de la population locale n'a rien à envier à celle de la nôtre avant que vous n'interveniez.&lt;BR&gt;&lt;BR&gt;Puisse Velik vous bénir.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" villagerId="1013">
+        <Page social="0">Les temps sont durs pour tout le monde. Tout ce que nous demandons, c'est un peu d'aide pour pallier les problèmes les plus urgents.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1015">
+        <Page social="9">Oui, Boquillon manque de matières premières.&lt;BR&gt;&lt;BR&gt;Voyons voir... Pouvez-vous nous procurer un {@RawItem:206801}, un {@RawItem:206803} et une {@RawItem:206809} ? Ce n'est pas une tâche très gratifiante, mais vous nous seriez d'une aide inestimable.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="7" villagerId="1015">
+        <Page social="13">Merci infiniment&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;La nature sait se montrer généreuse... quand &lt;PCNAME&gt; est là pour lui donner un coup de main&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"C'est mon travail."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Jamais nous n'oublierons ce que vous avez fait pour nous&amp;nbsp;! Jamais&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Sinon, nous avons reçu des ordres qui vous sont adressés. On dirait que vous allez devoir vous rendre à Tulufan. On a besoin de vous là-bas.&lt;BR&gt;&lt;BR&gt;Seren vous bénisse&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" villagerId="1015">
+        <Page social="0">Vous trouverez tout ce que je vous ai demandé dans les champs de Popolion. J'irais bien moi-même... mais avec ces monstres...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="8" villagerId="1009">
+        <Page social="5">Ce n'est pas trop tôt !&lt;BR&gt;&lt;BR&gt;J'ai envoyé tellement de courriers à Velika qu'ils vont certainement finir par donner mon nom à une section des archives.&lt;BR&gt;&lt;BR&gt;Nos réserves ont été pillées, dernièrement. Les habitants de Tulufan s'en tirent tant bien que mal... à condition que nos stocks restent approvisionnés en {@RawItem:206810}, {@RawItem:206819} et {@RawItem:206821}.&lt;BR&gt;&lt;BR&gt;Pouvons-nous compter sur votre aide ?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="66" prevId="10" villagerId="1009">
+        <Page social="8">Pas mal... pas mal du tout, même.&lt;BR&gt;&lt;BR&gt;Si nous avions su que la Fédération allait nous abandonner, nous n'aurions jamais accepté de la rejoindre.&lt;NEXTPAGEBUTTON&gt;"Nous sommes tous dans la même galère."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hmpff... peut-être bien.&lt;BR&gt;&lt;BR&gt;Le Consul Dougal dit que vous allez maintenant devoir vous rendre à Tria, dans le Sud de Shara.&lt;BR&gt;&lt;BR&gt;Puisse la bénédiction de Kaia vous accompagner, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Eh bien, je suppose que nous allons devoir nous débrouiller avec du sable. Dans le genre utile, on ne fait pas mieux, pas vrai&amp;nbsp;? Impossible d'en faire des vêtements ou des armes, mais on va pouvoir s'en servir de poudre à gratter contre l'ennemi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="11" villagerId="1011">
+        <Page social="5">Toute aide est la bienvenue.&lt;BR&gt;&lt;BR&gt;Les stocks de Tria sont au plus bas. Nous avons avant tout besoin d'un {@RawItem:206802}, d'un {@RawItem:206803} et d'une {@RawItem:206807}.&lt;BR&gt;&lt;BR&gt;Sans l'aide de la Fédération, nous ne nous en sortirons pas. Vous qui avez arpenté tout Arun, aidez-nous donc !</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1011">
+        <Page social="5">Voilà qui fera parfaitement l'affaire.&lt;BR&gt;&lt;BR&gt;La population de Tria va pouvoir reprendre espoir. Nous vous remercions infiniment.&lt;NEXTPAGEBUTTON&gt;"Ce fut un plaisir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Le Préfet Lauma, de Frontera, espère bien pouvoir profiter comme nous de l'aide de la Fédération. Bon voyage&amp;nbsp;!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" villagerId="1011">
+        <Page social="0">Nous avons conscience de vous en demander beaucoup, mais nous sommes à court d'options. S'il vous plaît, aidez-nous.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="75" prevId="14" villagerId="1007">
+        <Page social="5">L'exarque Dougal nous a parlé de l'initiative de la Fédération visant à aider les camps de la région. Or, nous avons besoin de cette aide sur-le-champ !&lt;BR&gt;&lt;BR&gt;Nous manquons des ressources suivantes : {@RawItem:206804}, {@RawItem:206805} et {@RawItem:206808}.&lt;BR&gt;&lt;BR&gt;Vous nous rendriez un grand service en nous aidant à reconstituer nos stocks.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="75" prevId="16" villagerId="1007">
+        <Page social="5">On peut dire que Dougal sait s'entourer. Nous vous sommes reconnaissants de votre aide et veillerons à faire bon usage de ces ressources.&lt;BR&gt;&lt;BR&gt;Dougal a envoyé un ordre vous demandant de rentrer à Velika. Au revoir, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="75" villagerId="1007">
+        <Page social="0">Nous devons récupérer des matériaux bruts pour assurer la qualité de vie et la productivité de Frontera.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="1160">
+        <Page social="5">On m' a dit beaucoup de bien de vous. Même Turrek semble maintenant de meilleure humeur.&lt;BR&gt;&lt;BR&gt;Bien sûr, il n'était pas question de déjouer un complot majeur ou d'affronter une créature légendaire, mais la simple dévotion aux autres fait partie des valeurs les plus sacrées de la Fédération. Vous avez fait du bon travail, &lt;PCNAME&gt;. Merci à vous.</Page>
+    </Text>
+</QuestDialog>

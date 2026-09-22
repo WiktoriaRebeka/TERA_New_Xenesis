@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0">Kantusa a été démasquée puis capturée par les devans. Vous avez réussi à la libérer, avec le soutien de Kamia, mais elle était trop grièvement blessée. En rendant son dernier souffle, Kantusa vous a révélé que ce sont les descendants de Lok qui tirent les ficelles. Pour donner un sens au sacrifice de Kantusa, vous avez tué Dakanius, le chef des devans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0" voiceTypeId="0">Parlez à nouveau à Kamia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Attendez, j'entends un gémissement...&lt;BR&gt;&lt;BR&gt;(Kamia regarde autour d'elle.)&lt;NEXTPAGEBUTTON&gt;"Je n'entends rien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hé ! Kantusa est enfermée là-dedans !&lt;BR&gt;&lt;BR&gt;Je crois qu'ils l'ont démasquée ! De plus, elle est grièvement blessée !&lt;BR&gt;&lt;BR&gt;Nous devons la sauver. Vite, suivez-moi !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Kamia&amp;nbsp;! Vous ne pouvez plus rien pour moi. Vite, sauvez votre peau...&lt;BR&gt;Dakanius a... argh...&lt;NEXTPAGEBUTTON&gt;"Kamia, fuyez&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Dakanius... et les descendants de... Lok... ils... ils ont pactisé...&lt;NEXTPAGEBUTTON&gt;Vous l'écoutez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Il faut... arrêter Dakanius...&lt;BR&gt;Il se cache... dans le campement des devans... au nord de Deva Silva...&lt;BR&gt;&lt;BR&gt;Retrouvez {{@linkcreature:3#7#Dakanius} et mettez... un terme à ses méfaits...&lt;NEXTPAGEBUTTON&gt;Vous essayez de panser les blessures.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je ne vais... pas m'en sortir...&lt;BR&gt;Je vous en supplie... Vous devez les arrêter... Au nom de la paix...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1045">
+        <Page social="4" voiceTypeId="0">Non... non... pas comme ça...&lt;BR&gt;Vous ne pouvez pas mourir ainsi, Kantusa... &lt;BR&gt;&lt;BR&gt;(Kamia laisse échapper quelques sanglots.)&lt;NEXTPAGEBUTTON&gt;"Toutes mes condoléances."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous devons arrêter Dakanius coûte que coûte.&lt;BR&gt;Le sacrifice de Kantusa ne peut pas avoir été vain&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et si Dakanius a effectivement pactisé avec les descendants de Lok, comme l'a affirmé Kantusa, alors il est d'autant plus urgent de s'en débarrasser&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Aidez-nous, je vous en prie. Rendez-vous à l'endroit indiqué par Kantusa et tuez Dakanius et ses sbires.&lt;NEXTPAGEBUTTON&gt;"Je m'en charge&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Nous avons réussi.&lt;BR&gt;Kantusa va pouvoir reposer en paix... &lt;BR&gt;&lt;BR&gt;Mais qu'est-ce que vous avez dans la main&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"J'ai trouvé ceci sur la dépouille de Dakanius."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Cet objet&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ce doit être l'insigne de Lok&amp;nbsp;!&lt;BR&gt;Kantusa a donc dit vrai&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

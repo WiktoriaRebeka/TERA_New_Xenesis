@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">&lt;PCNAME&gt;, nous avons une livraison très serrée à faire chez l'un de nos meilleurs clients. Livrez la marchandise à temps et intacte. Un service client inefficace mène... à la perte.&lt;BR&gt;&lt;BR&gt;Le paquet est destiné à Edahm, à Crescentia. Utilisez un pégase pour aller là-bas plus rapidement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1002">
+        <Page social="4">Que puis-je faire pour vous aider aujourd'hui&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est de la part d'Imesti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Chut&amp;nbsp;! Je ne veux pas attirer l'attention.&lt;BR&gt;&lt;BR&gt;Tenez, emmenez ça discrètement.</Page>
+    </Text>
+</QuestDialog>

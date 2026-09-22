@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="4">Vous saviez que j'ai autrefois exercé le métier de bûcheron&amp;nbsp;? Et oui, j'adorais travailler dans les bois... jusqu'au jour où un {@LinkCreature:10#5#ghilliedhu écorce-épaisse} m'est tombé dessus. Après ça, j'ai immédiatement signé pour m'engager dans l'armée, c'est un métier plus sûr&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais je ne dirais pas non si quelqu'un m'amenait des racines de ghilliedhu. Vous pensez pouvoir m'en procurer&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1107">
+        <Page social="4">Voilà un bon paquet de racines&amp;nbsp;! J'espère que la récompense vous plaira&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1107">
+        <Page social="0">Ecoutez, vous devez aller les abattre vous-même. Vous ne pouvez pas attendre qu'ils partent de leur belle mort.</Page>
+    </Text>
+</QuestDialog>

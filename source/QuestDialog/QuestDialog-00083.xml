@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Non loin d'ici, vous trouverez une autre éclaireuse, {@LinkCreature:203#1010#Rasima}. C'est une fille solide et coriace, mais sa solitude l'expose au danger.&lt;BR&gt;&lt;BR&gt;Elle est beaucoup trop fière pour demander de l'aide, mais elle l'acceptera certainement si vous lui proposez de vous-même. Et tant que vous y serez, apportez-lui quelque chose à boire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1010">
+        <Page social="4">Oui, aujourd'hui... je suis seule. Mon partenaire Keleth et moi nous sommes fait repérer au cours d'une mission de reconnaissance. Nous étions débordés par l'ennemi, mais il s'est sacrifié pour que je puisse m'enfuir.&lt;BR&gt;&lt;BR&gt;Je veux pouvoir rendre honneur à son sacrifice, mais j'ai besoin d'aide. Rapportez-moi son {@LinkCreature:203#1029#anneau}, que je puisse le faire parvenir à sa famille.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1029">
+        <Page social="4">(Le cadavre est dans un tel état qu'il est méconnaissable. Le seul objet récupérable est un modeste anneau de cuivre.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1010">
+        <Page social="4">Je me souviens très bien de cet anneau. Keleth aimait beaucoup sa sobriété.&lt;BR&gt;&lt;BR&gt;C'est parfait. Cet objet sera un souvenir vibrant de sa personne pour tous ceux qui l'ont aimé. Merci infiniment. Puisse la Vierge au bouclier vous protéger au combat&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

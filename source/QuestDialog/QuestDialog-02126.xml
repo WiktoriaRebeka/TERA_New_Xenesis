@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">Un de nos meilleurs chasseurs est à la tête d'une équipe du Mysterium à {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;Ils ont besoin de quelqu'un pour leur nettoyer la route. J'ai donné votre nom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Toujours d'attaque, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Eh bien, vous êtes {@gender:le/la} &lt;PCCLASS:lcase&gt; que je recherchais. Ça vous dit un peu d'action&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Comme toujours&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous ne fatiguez jamais, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Les argons se sont rassemblés dans la zone que le Mysterium souhaitait explorer pour y trouver des artefacts.&lt;BR&gt;&lt;BR&gt;Frayez-leur un passage et récupérez des peaux pour moi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Ces sont des petites créatures habiles, vous ne trouvez pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Même attachantes, quelque part.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Les musardeurs chassent en groupe.&lt;BR&gt;&lt;BR&gt;Ils ne sont pas très malins, mais ils courent vite.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">Ils sont fous, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ces parasites feront de très beaux trophées.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Les cueilleurs paraissent bizarres. Attendez-vous à l'inattendu.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">C'est bon, c'est réglé.&lt;BR&gt;&lt;BR&gt;J'imagine que vous voyez un tas de kalashs en première ligne.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Les kalashs sont rusés, coriaces, et leurs longues épées font des ravages.&lt;BR&gt;&lt;BR&gt;Apprenez à les respecter.</Page>
+    </Text>
+</QuestDialog>

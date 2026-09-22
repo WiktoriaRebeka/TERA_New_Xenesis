@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9906">
+        <Page social="2" voiceTypeId="0">J'ai une faim de loup. &lt;PCNAME&gt;, si je vous donne une recette de poisson frit, vous voulez bien m'en préparer un peu ?&lt;BR&gt;&lt;BR&gt;Après trois jours à persévérer sur ce site de pêche, je n'ai toujours rien attrapé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Paparung s'était rendu sur le Lac des larmes pour pêcher, mais il n'osait pas rentrer chez lui bredouille. Vous avez résolu le problème en pêchant des poissons pour Paparung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Eh bien, ça c'est ce que j'appelle un poisson frit.&lt;BR&gt;Croustillant dehors et bien fondant à l'intérieur.&lt;BR&gt;Je nage en plein bonheur.&lt;BR&gt;&lt;BR&gt;Je suis venu ici pour ne pas rester toute la journée à la maison les bras croisés. Mais après plusieurs jours, je n'ai toujours rien attrapé.&lt;BR&gt;J'ai une femme et beaucoup d'enfants à nourrir.&lt;BR&gt;Vous ne voudriez pas attraper quelques poissons à ma place ?&lt;BR&gt;Je compte bien vous récompenser.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Les anguilles, ça vous dit quelque chose ?&lt;BR&gt;Ma femme en raffole, mais elles ne mordent jamais à mon hameçon.&lt;BR&gt;Vous pourriez m'attraper 2 anguilles ?&lt;BR&gt;Vous les trouverez dans les eaux du Site de pêche du Lac des larmes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Bon sang, j'ai l'estomac dans les talons. Poisson frit... Poisson frit... Poisson frit... Poisson frit... Poisson frit...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9906">
+        <Page social="2" voiceTypeId="0">Merci ! Je vais pouvoir rentrer chez moi sans me ridiculiser.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Vous avez attrapé les 2 anguilles ?&lt;BR&gt;N'oubliez pas que les différents poissons requièrent des cannes à pêche du rang approprié.</Page>
+    </Text>
+</QuestDialog>

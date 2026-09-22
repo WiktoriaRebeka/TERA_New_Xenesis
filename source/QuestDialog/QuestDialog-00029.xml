@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="4">Volos a décidé de dépêcher Himir à Boquillon en qualité d'émissaire du peuple des fées.&lt;BR&gt;&lt;BR&gt;Mais il reste une ombre au tableau... En effet, si Himir a toutes les qualités attendues d'une bonne ambassadrice, elle ne connaît rien au maniement des armes, et il est certain que les fées rebelles des parages ne manqueront pas de lui tendre une embuscade.&lt;BR&gt;&lt;BR&gt;Himir n'a pas encore fini de se préparer pour le voyage, vous allez donc pouvoir gagner du temps en vous rendant directement au Chemin boisé, où elle vous rejoindra. Elle devrait pouvoir rallier les lieux sans encombre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2" villagerId="44">
+        <Page social="0">Restez vigilants cher ami.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="490" prevId="2" villagerId="1003">
+        <Page social="4">Loués soient les dieux... vous voilà {@gender:tous/toutes} deux, et en un seul morceau&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Himir fera une bonne émissaire, j'en ai la certitude. Nous allons nous charger d'assurer sa protection&amp;nbsp;; elle n'a plus rien à craindre.&lt;BR&gt;&lt;BR&gt;On peut dire que vous avez fait du bon travail, &lt;PCNAME&gt;. Repassez me voir quand vous serez {@gender:prêt/prête} à rentrer à l'Etang des Fées.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="4" villagerId="1032">
+        <Page social="4">Himir est saine et sauve&amp;nbsp;! Par Isren, voilà de bonnes nouvelles&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les négociations vont sans doute prendre un certain temps. Le sang a beaucoup coulé dans les deux camps.&lt;BR&gt;&lt;BR&gt;En tout cas, si vous vous demandiez comment vous rendre utile ici, &lt;PCNAME&gt;, ne vous posez plus la question&amp;nbsp;: c'est fait.</Page>
+    </Text>
+</QuestDialog>

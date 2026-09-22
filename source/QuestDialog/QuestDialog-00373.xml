@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Lian ne croyait pas les orkans capables des prouesses magiques nécessaires pour corrompre le Fléau du démon, mais en bon scientifique, il ne pouvait se reposer sur des spéculations.&lt;BR&gt;&lt;BR&gt;Il vous a {@gender:envoyé/envoyée} en mission dans le sud, où vous avez fait la rencontre de Kirash. Ce dernier vous a {@gender:averti/avertie} de la présence de maraudeurs mekonaris... des mercenaires magiciens.&lt;BR&gt;&lt;BR&gt;Après vous être {@gender:infiltré/infiltrée} dans le bivouac, vous avez tué un maraudeur sombre, avant de prendre la fuite avec les écritures démoniaques récupérées. En les traduisant, Lian a découvert l'emplacement du repaire du cerveau de l'affaire... la Vallée maudite.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">La magie n'est pas totalement étrangère aux orkans, mais ils n'ont pas le niveau pour générer le phénomène auquel nous assistons. Il se passe quelque chose d'autre... quelque chose qui nous échappe.&lt;NEXTPAGEBUTTON&gt;"Les orkans ont peut-être un allié."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Exact... et certainement pas n'importe quel allié. Qui que ce soit, c'est un expert de la magie. Kirash est chargé de surveiller les bivouacs orkans. Allez lui parler et voyez s'il a remarqué quelque chose.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1027">
+        <Page social="4">Oh, je surveille les orkans, mais ce ne sont pas eux qui m'intéressent le plus. Regardez un peu... vous voyez ces créatures à têtes d'oiseaux avec leurs grands bâtons&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Des têtes d'oiseaux&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ce sont des mekonaris. La plupart sont adeptes de la magie. J'ignore ce que ces {@LinkCreature:13#601#maraudeurs sombres} complotent avec les orkans, mais d'une manière ou d'une autre, c'est mauvais pour nous.&lt;BR&gt;&lt;BR&gt;Je dois rester à mon poste, mais de votre côté, allez donc capturer ou tuer un de ces maraudeurs. Vous trouverez peut-être des indices.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1027">
+        <Page social="4">Un parchemin&amp;nbsp;? Intriguant... avec un peu de chance, il pourrait s'agir d'un plan détaillé de leur opération.&lt;BR&gt;&lt;BR&gt;Bah&amp;nbsp;! C'est totalement illisible. Voyons si Lian sera à la hauteur de sa réputation. Allez lui remettre ce document, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1027">
+        <Page social="0">Il nous reste des traces de l'histoire des mekonaris. Leur dieu sommeille dans un grand œuf doré, et en attendant son retour, les mekonaris mettent leur magie au service du plus offrant.&lt;BR&gt;&lt;BR&gt;Des mercenaires de la pire espèce... des vermines&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pas étonnant qu'ils fricotent avec les orkans. Trouvez-en un et voyez ce que vous pourrez en apprendre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="4" villagerId="1008">
+        <Page social="4">Des maraudeurs&amp;nbsp;? Je dirais plutôt de vulgaires charognards. Que cherchent-ils&amp;nbsp;? Que font-ils là&amp;nbsp;? Examinons ce parchemin d'un peu plus près.&lt;BR&gt;&lt;BR&gt;Ce ne sont pas de vulgaires gribouillages, il s'agit d'écritures démoniaques. C'est difficile à traduire, mais il y a ici un passage qui me paraît plus clair... ça dit&amp;nbsp;: "la faille située à l'est... que nous nommons Vallée maudite". C'est là que doit se trouver le maître des mekonaris.</Page>
+    </Text>
+</QuestDialog>

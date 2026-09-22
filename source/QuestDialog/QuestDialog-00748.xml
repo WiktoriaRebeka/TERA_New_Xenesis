@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="5">La guerre n'est pas mon unique centre d'intérêt. En fait, j'ai rejoint l'armée pour découvrir le monde, son histoire.&lt;BR&gt;&lt;BR&gt;Pour tout dire, j'ai toujours trouvé les Elins et les Poporis fascinants. Le sujet vous intéresse&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Alors, quelle histoire vous intéresse&amp;nbsp;: celle des Poporis ou celle des Elins&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu avait déjà donné vie aux Elins quand elle réalisa que ses filles avaient besoin d'alliés pour protéger la nature. C'est ainsi qu'elle décida d'offrir l'éveil à certaines bêtes de la forêt et les transforma en créatures douées de raison, tout en remodelant leurs enveloppes charnelles pour en faire des esprits de la nature.&lt;BR&gt;&lt;BR&gt;Elle en choisit certaines pour leur bravoure, et d'autres pour leur intelligence, mais aussi sans autre justification que son bon vouloir. Au fil du temps, les Poporis devinrent le peuple courageux et rusé que nous connaissons aujourd'hui.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu avait besoin d'aide pour veiller sur la nature, c'est pourquoi elle sacrifia une partie de sa force vitale pour donner naissance à des esprits et leur donner une forme physique.&lt;BR&gt;&lt;BR&gt;Mais si les Elins ressemblent en apparence à de simples jeunes filles, leurs queues et leurs oreilles témoignent du fait qu'elles sont d'authentiques servantes de la nature, et qu'en un sens, cette dernière et elles ne font qu'un.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Une histoire fascinante, n'est-ce pas&amp;nbsp;? Si elle a attisé votre curiosité, vous devriez aller parler à {@LinkCreature:229#1023$$Senova}. Elle connaît beaucoup d'histoires intéressantes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Fascinant, n'est-ce pas&amp;nbsp;? Si votre curiosité n'est pas encore satisfaite, vous devriez aller parler à {@LinkCreature:229#1023$$Senova}. Elle connaît beaucoup d'histoires captivantes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Ah, je vois qu'Isobel a encore tenté de communiquer à quelqu'un sa passion des légendes et du folklore. L'histoire, c'est son dada.&lt;BR&gt;&lt;BR&gt;Pour tout dire, il est difficile d'attester de la véracité des récits qui nous sont parvenus, mais je peux couper court aux rumeurs les plus farfelues.&lt;BR&gt;&lt;BR&gt;Par exemple&amp;nbsp;: étant donné que les Elins et les Poporis sont tous d'ascendance divine, est-il vrai qu'ils sont destinés à vivre éternellement&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Voilà une réponse assurée&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Difficile de se prononcer, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="229" prevId="8" villagerId="1023">
+        <Page social="5">Eh bien, en réalité, ils n'ont pas cette chance. Leur espérance de vie ne dépasse pas celle des Humains, et c'est bien triste... la sagesse de ces deux races est une richesse dont le monde ne peut se passer.&lt;BR&gt;&lt;BR&gt;Elles représentent pour nous un véritable atout, et quand l'un de leurs représentants perd la vie, c'est toute la Fédération qui en pâtit.&lt;BR&gt;&lt;BR&gt;Respecter le devoir de mémoire est pour nous une obligation.</Page>
+    </Text>
+</QuestDialog>

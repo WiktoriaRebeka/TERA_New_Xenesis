@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="424" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="5">Ce sont des exterminateurs professionnels qu'il me faut.&lt;BR&gt;&lt;BR&gt;Le Syndicat Kazuur infeste les {@Rgn:9024001}. Ils sont pires que des cafards. Il faut les déterrer et les écraser très fort. Puis leur couper la tête, histoire de ne pas courir de risque&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ça vous tente&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allez dans les {@Rgn:9024001} et tuez {@LinkCreature:424#1000$$Logran}, {@LinkCreature:424#1006$$Agarta}, {@LinkCreature:424#1016#Kornus} et ce maudit faucheur, {@LinkCreature:424#2000$$Kaprima}. Sans leurs chefs, les autres cafards vont détaler dans la nuit.&lt;BR&gt;&lt;BR&gt;Présentez votre rapport à {@LinkCreature:212#1006} quand l'extermination des nuisibles sera terminée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1006">
+        <Page social="5">Bravo. Cela devrait calmer le Syndicat Kazuur un moment. On devrait penser à les enfumer...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1006">
+        <Page social="0">S'il vous plaît, allez exterminer les chefs du Syndicat Kazuur.</Page>
+    </Text>
+</QuestDialog>

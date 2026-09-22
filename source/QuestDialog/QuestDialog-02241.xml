@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="0">Vous avez livré des matériaux à tailler à Dolme et recevez pour cela un casque en corne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="4">Bonjour, &lt;PCNAME&gt;&amp;nbsp;! Vous auriez des cornes magnifiquement sculptées, par hasard&amp;nbsp;? Non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Dommage ... J'ai commencé une collection. Si vous pouviez me ramener quelques cornes, je vous donnerai une bouteille de mon meilleur vin d'été&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je crois bien que Wahmel et Chelton offrent des statues de corne en guise de récompenses...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2007">
+        <Page social="4">Hoho. Je vous remercie. Cela fera l'affaire&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous avez bien mérité cette bouteille de vin d'été, &lt;PCNAME&gt;&amp;nbsp;! Buvez-en, c'est bon pour la santé, hoho&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2007">
+        <Page social="0">Vous avez participer aux mini-jeux "Frappez des pastèques et "Canon pulvérisant" et avez remportez des statues en corne.</Page>
+    </Text>
+</QuestDialog>

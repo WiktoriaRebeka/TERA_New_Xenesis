@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="9">Notre cargaison d'éclats eldritch est retenue quelque part au Rocher de la Désolation.&lt;BR&gt;&lt;BR&gt;Rendez-vous sur place et demandez à Kilda d'accélérer le mouvement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1014">
+        <Page social="4">Les éclats&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ce n'est pas de ma faute. Les wendigos se déchaînent. Les junaidars pillent nos camps. Un Popori affamé a avalé mon stock d'éclats... Bref... Pas la peine de compter sur moi. Allez voir Forsil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1011">
+        <Page social="4">Tout mon stock d'éclats doit partir pour Allemantheia. N'essayez même pas de doubler le Mysterium.&lt;BR&gt;&lt;BR&gt;Ne le répétez pas, mais on m'a dit que le magistrat en avait une belle collection privée.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1012">
+        <Page social="4">Une collection d'éclats&amp;nbsp;? C'est parfaitement ridicule&amp;nbsp;! Il a perdu la tête&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Vraiment, pas moyen d'en trouver&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Non, croyez bien que ça me navre, mais ça ne pousse pas sur les arbres.</Page>
+    </Text>
+</QuestDialog>

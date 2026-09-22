@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Hé&amp;nbsp;! Vous voulez essayer un truc différent aujourd'hui&amp;nbsp;? {@LinkCreature:63#3003#Elthienne} n'arrête pas de me demander d'aller tuer du gibier, mais bon, moi, je suis une fille de la ville&amp;nbsp;! Ça ne m'intéresse pas, et puis c'est dégoûtant.&lt;BR&gt;&lt;BR&gt;Mais je mettrais ma main à couper que ce genre de mission vous plairait. Allez parler à {@LinkCreature:63#3003#Elthienne}, elle vous donnera tous les détails les plus croustillants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Comment ça, elle n'aime pas tuer du gibier&amp;nbsp;? Vous parlez d'une castanic&amp;nbsp;! Quel drôle d'oiseau.&lt;BR&gt;&lt;BR&gt;Bon, je sais que vous n'avez pas froid aux yeux. J'aimerais que vous alliez chasser pour les Mains. Vous devrez voyager, tuer quelques nagas et rapporter quelques parties de leurs corps.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Oh punaise&amp;nbsp;! De la peau fraîche, des griffes et des os... Beurk&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous avez baladé tout ça dans votre sac pendant tout le voyage, et vous n'avez pas vomi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous vous êtes lavé les mains, au moins&amp;nbsp;? {@LinkCreature:63#3003#Elthienne} vous attend pour vous remettre votre paiement.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous avons besoin de carapaces, d'os et de griffes de nagas. Ne me demandez pas pourquoi.&lt;BR&gt;&lt;BR&gt;Chassez les {@LinkCreature:10#8#maîtres de combat naga} sur l'{@Rgn:10001#Ile Serpentis} et rapportez quelques parties de leurs corps. Les Mains sauront quoi en faire.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Beurk. Je veux dire, merci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} vous dédommagera pour vos efforts.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous avons besoin de carapaces, d'os et de griffes de nagas. Ne me demandez pas pourquoi.&lt;BR&gt;&lt;BR&gt;Chassez les {@LinkCreature:10#16#chevauche-griffus nagas} sur l'{@Rgn:10001#Ile Serpentis} et rapportez quelques parties de leurs corps. Les Mains sauront quoi en faire.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Qu'est-ce que c'est que cette odeur&amp;nbsp;? Je parie qu'{@LinkCreature:63#3003#Elthienne} vous a demandé de livrer ça ici rien que pour me punir.&lt;BR&gt;&lt;BR&gt;Allez voir cette vieille bique si vous voulez qu'on vous paie.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous avons besoin de carapaces, d'os et de griffes de nagas. Ne me demandez pas pourquoi.&lt;BR&gt;&lt;BR&gt;Chassez les {@LinkCreature:10#17#maîtres-griffus nagas} sur l'{@Rgn:10001#Ile Serpentis} et rapportez quelques parties de leurs corps. Les Mains sauront quoi en faire.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Beuh, c'est dégoûtant. Au moins, ça ne sent rien... pour l'instant.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} a de quoi vous payer.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nous avons besoin de carapaces, d'os et de griffes de nagas. Ne me demandez pas pourquoi.&lt;BR&gt;&lt;BR&gt;Chassez les {@LinkCreature:10#18#léviathans nagas} sur l'{@Rgn:10001#Ile Serpentis} et rapportez quelques parties de leurs corps. Les Mains sauront quoi en faire.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, vous êtes incroyable&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Bon, maintenant, nous allons devoir éliminer le {@LinkCreature:5#20#Raguga}. Ca devrait sonner le glas des projets expansionnistes des tuwangis.&lt;BR&gt;&lt;BR&gt;Faut-il que je me lance dans un discours moralisateur pour vous convaincre d'y aller, ou ça suffira comme ça&amp;nbsp;? A l'heure qu'il est, vous devez avoir conscience des enjeux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">Enfin&amp;nbsp;! Ca devrait mettre un terme au conflit qui nous oppose aux tuwangis&amp;nbsp;! Votre aide a été inestimable. Merci du fond du cœur.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">Il est encore en vie&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Finalement, je n'aurais pas dû vous épargner le "discours moralisateur".</Page>
+    </Text>
+</QuestDialog>

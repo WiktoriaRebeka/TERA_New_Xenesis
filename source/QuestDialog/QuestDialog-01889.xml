@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Vous savez pourquoi on appelle ça l'or des fous&amp;nbsp;? Parce qu'il faudrait être vraiment fou pour se moquer d'un chercheur respectable venu ici pour expérimenter la transmutation... des éléments&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Et je suis tout proche de la grande découverte&amp;nbsp;! Bientôt, je maîtriserai la fabrication de l'or&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Youpi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">L'astuce, et je n'arrive pas à croire qu'aucun de mes collègues n'y ait pensé, est d'utiliser la magie, pas simplement un mélange de composés chimiques.&lt;BR&gt;&lt;BR&gt;C'est de la magie sympathique qui est à l'œuvre ici. Quelque chose d'assez élaboré&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pour différentes raisons arbitraires et ésotériques, il me faut des &lt;B&gt;yeux d'avarice&lt;/B&gt;. Tuez les {@LinkCreature:472#29#enragés sihrans} dans le Labyrinthe d'Or, puis revenez et je vous en dirai plus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="6" voiceTypeId="0">Vous voyez, c'est de la magie sympathique. Pour la transmutation en or, il me faut un œil aveuglé par la cupidité.&lt;BR&gt;&lt;BR&gt;Apportez-le plus près&amp;nbsp;! Il n'y a pas beaucoup de lumière ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Je ne peux pas y arriver seul, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

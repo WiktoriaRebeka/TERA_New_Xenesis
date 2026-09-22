@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">Nous tenons une opportunité d'en apprendre plus sur les argons... une autre bulle et une autre de ces {@Creature:45#7003#aiguilles} ont été découvertes dans le marais, au nord-ouest. Allez voir ça de plus près et rapportez-moi des fragments d'aiguille. Je les comparerai aux autres.&lt;BR&gt;&lt;BR&gt;Et si jamais vous tombez sur le chef tuwangi argonomorphe, éliminez-le sans hésiter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Merci. Tout s'est bien passé&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Un tuwangi a parlé... d'intrusion."&lt;/NEXTPAGEBUTTON&gt;/</Page>
+        <Page social="4">Une intrusion, et en parlant de vous, c'est ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ces aiguilles sont donc vraisemblablement un genre de dispositif d'alarme. Le genre de technologie qui servirait au mieux les intérêts de la Fédération.&lt;BR&gt;&lt;BR&gt;Les aiguilles sont placées sous la protection des tuwangis. J'espère que la mort de leur chef suffira à disperser les autres, de façon à ce que nous ayons le champ libre pour mener l'enquête.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">J'ai besoin de fragments d'aiguilles de contrôle provenant du marais, au nord-ouest.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">Les monstres de la Catacombe de la Tourmente et des Profondeurs sanglantes ne sont pas aussi abominables que ces affreuses poupées, mais il ne faut tout de même pas les prendre à la légère.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:33#8#discoupeurs sans pitié}, les {@LinkCreature:33#9#cuirassés}, les {@LinkCreature:33#58#acharnés} et {@LinkCreature:33#59#impitoyables} ont réussi à traquer et à tuer bon nombre de soldats et de chercheurs, malgré l’impossibilité théorique d’un déplacement aussi rapide sur les mains.&lt;BR&gt;&lt;BR&gt;Vous devez les éliminer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">Ah&amp;nbsp;! Vous riez vraiment au nez de la mort&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ces discoupeurs ont tué tellement de gens et récupéré leurs insignes comme trophées&amp;nbsp;! J’ai combattu sur les champs de bataille les plus sanglants, mais rien ne m’a jamais autant glacé les sangs que cet endroit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">Allez&amp;nbsp;! Vous pouvez trouver les discoupeurs&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

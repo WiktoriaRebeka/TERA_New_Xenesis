@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="5">Les {@LinkCreature:22#7#apprenties sorcières} sont les moins dangereuses, mais les plus nombreuses. Si cette folie est contagieuse, nous devons y mettre un terme.&lt;BR&gt;&lt;BR&gt;Elles se rassemblent dans le Grand Hall. Tuez-les, puis allez voir {@LinkCreature:222#1008#Duani}. &lt;NEXTPAGEBUTTON&gt;"Que je tue les élèves&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oui, absolument. Nous engagerons une armée de mystiques pour les ressusciter quand tout sera terminé.&lt;BR&gt;&lt;BR&gt;Ces apprenties seront protégées par des {@LinkCreature:22#1#ronronneurs de mauvais poil} et des {@LinkCreature:22#2#ronronneurs de bon poil}, alors soyez {@g:prudent/prudente}.&lt;BR&gt;&lt;BR&gt;Récupérez tous les documents et toutes les lettres que les apprenties auraient sur elles. Nous y découvrirons peut-être des indices.&lt;BR&gt;&lt;BR&gt; Et faites bien attention lorsque vous annoncerez leur mort à {@LinkCreature:222#1008#Duani}. Elle pourrait mal le prendre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1008">
+        <Page social="5">Vous avez massacré des enfants pour trouver des indices&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quelle espèce de... non, vous avez raison. Elle a raison. L'heure n'est pas au sentimentalisme.&lt;BR&gt;&lt;BR&gt;Il nous faut des réponses. Je vais étudier ces lettres et voir ce qu'elles peuvent nous apprendre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1008">
+        <Page social="0">Il paraît que vous devez me remettre des lettres et des indices&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;C'est ça&amp;nbsp;? Excellent. Revenez me voir quand vous les aurez.</Page>
+    </Text>
+</QuestDialog>

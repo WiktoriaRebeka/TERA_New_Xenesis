@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="0">Vous avez rencontré un éclaireur du guet des ruines et il vous a révélé l'emplacement du camp temporaire archidevan. L'aiguille de vérité vous a permis de vous procurer une carte de magie du sang.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Un de mes éclaireurs a fait état d'activités des Archidevans prêt du precipice de Feu verdoyant. Ils extraient quelque chose du sol, mais on ne sait pas vraiment quoi.&lt;BR&gt;&lt;BR&gt;Allez voir l'éclaireur, il s'appelle Marat. Il connaît tous les camps archidevans de la contrée, ainsi que les patrouilles. Il saura où trouver ce que vous cherchez.&lt;NEXTPAGEBUTTON&gt;"Je vais aller lui parler."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Bienvenue, étrang{@gender:er/ère}. Bienvenue dans nos contrées.&lt;BR&gt;&lt;BR&gt;Je suis au regret de vous annoncer que je n'ai aperçu aucun engin à même d'affecter la Muraille des tempêtes. Mais je présume que seuls leurs officiers les plus fidèles sauront où une telle chose est située.&lt;BR&gt;&lt;BR&gt;Hum. Par chance, il y a un officier haut gradé dans le camp d'excavation près du précipice du Feu verdoyant. Suivez le sentier au-delà de la colline, puis regardez à votre gauche. Vous devriez trouver l'entrée de la grotte.&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="208">
+        <Page social="4" voiceTypeId="0">C'était vous...&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'ai un sentiment étrange... comme si j'avais bu trop de vin... Sommes-nous arrivés à la plage&amp;nbsp;? Je veux travailler un peu mon bronzage.&lt;BR&gt;&lt;BR&gt;On ne peut pas rester longtemps... Il faut que je retourne à l'Energia Celo... Je suis de garde&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je vous ramènerai. C'est où, déjà&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">L'entrée... elle se déplace constamment... il faut la carte mouvante...&lt;NEXTPAGEBUTTON&gt;"Mais bien sûr&amp;nbsp;! La carte&amp;nbsp;! Vous l'avez rangée où, déjà&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Elle est à l'intérieur de ce coffre... Mais vous devriez le savoir. Pourquoi est-ce que vous ne le savez pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Attendez... mais qui êtes-vous&amp;nbsp;? Comment est-ce que vous êtes entré{@g:/e} ici&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;Bas les pattes&amp;nbsp;!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Oh, merci étrang{@gender:er/ère}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais je vous en prie&amp;nbsp;: il y a d'autres prisonniers là-haut. Vous voyez cette échelle&amp;nbsp;? Ils sont tous en haut.&lt;BR&gt;&lt;BR&gt;Je vous en prie, vous devez également les aider&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ne vous en faites pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Libre&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci, étrang{@gender:er/ère}&amp;nbsp;! Vous m'avez sauvé&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je vais les repousser. Pendant ce temps, fuyez&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Je vais vous aider à les combattre&amp;nbsp;! J'ai... juste besoin... de reprendre mes forces...&lt;NEXTPAGEBUTTON&gt;"On aura le temps pour ça plus tard. Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Je vous attendais, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;Hagand m'a parlé de ses recherches sur les Pierres devannes que vous avez récupérées pour lui.&lt;BR&gt;&lt;BR&gt;Il pense que les Archidevans s'en servent pour leur magie du sang. C'est ce qui explique qu'ils tenaient tant à les protéger.&lt;BR&gt;&lt;BR&gt;Si nous arrivons à trouver leur laboratoire, nous pourrons sans doute sauver quelques-unes de leurs victimes.&lt;NEXTPAGEBUTTON&gt;"J'ai une carte menant à leur laboratoire."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous avez où il se trouve&amp;nbsp;? Parfait&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Peut-être que nous arriverons à y voir plus clair... et à réactiver le téléportail vers Velika&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Vous avez peut-être raison. Un seul moyen d'en avoir le cœur net."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

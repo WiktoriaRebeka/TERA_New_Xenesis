@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="615" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">J'ai rencontré quelques réfugiés à Hautegarde. &lt;BR&gt;L'un d'entre eux, Rumin, m'a questionné à votre sujet.&lt;BR&gt;&lt;BR&gt;Son comportement était fort mystérieux. Il aimerait vous demander quelque chose.&lt;BR&gt;Ne voulez-vous pas l'écouter ?&lt;BR&gt;&lt;BR&gt;&lt;font color='#804000'&gt;[Accomplissez la quête pour obtenir un &lt;font color='#0000FF'&gt;partenaire&lt;/font&gt;.]&lt;/font&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2064">
+        <Page social="4" voiceTypeId="0">J'ai été informé des évènements de Tria.&lt;BR&gt;&lt;BR&gt;Je me trouvais dans les Bois intemporels pour prendre des nouvelles de mes amis. Malheureusement, tous ne s'en sont pas sortis.&lt;BR&gt;&lt;BR&gt;Mais, grâce aux dieux, j'ai pu sauver cet œuf.&lt;BR&gt;&lt;BR&gt;Tenez, regardez-le !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2064">
+        <Page social="4" voiceTypeId="0">C'est un œuf spectral des Bois intemporels. &lt;BR&gt;&lt;BR&gt;En revanche, son incubation pose problème. L'environnement n'est pas optimal. &lt;BR&gt;&lt;BR&gt;J'aimerais utiliser un sort de couvaison pour aider un nouvel esprit à en sortir. Pour cela, j'ai besoin de votre aide. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci. Mais il n'y a pas une minute à perdre ! &lt;BR&gt;&lt;BR&gt;Mon adjoint va vous expliquer le processus en détail.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2065">
+        <Page social="4" voiceTypeId="0">Pour le sort de couvaison, il nous faut un &lt;font color='#0000FF'&gt;cristal des mondes&lt;/font&gt; créé à partir de différentes âmes de ce monde. &lt;BR&gt;&lt;BR&gt;Cela comprend les âmes des phacochères malades. &lt;BR&gt;&lt;BR&gt;Rendez-vous dans les Bois des murmures de Tria et éliminez-en quelques-uns. Apportez-moi ensuite les âmes sylvestres.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2065">
+        <Page social="5" voiceTypeId="0">Oh, vous avez réussi !&lt;BR&gt;&lt;BR&gt;Je vais créer un &lt;font color='#0000FF'&gt;cristal des mondes&lt;/font&gt; à l'aide de ces âmes.&lt;BR&gt;&lt;BR&gt;Mais un &lt;font color='#0000FF'&gt;cristal des mondes&lt;/font&gt; ne suffit pas à lancer un sort de couvaison.&lt;BR&gt;&lt;BR&gt;Je vous en prie, continuez à nous aider !&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Éliminez différents monstres, même si les chances d'obtenir un &lt;font color='#0000FF'&gt;cristal des mondes&lt;/font&gt; sont très faibles. &lt;BR&gt;&lt;BR&gt;Vous aurez peut-être un coup de chance. En tout, il nous faut 8 &lt;font color='#0000FF'&gt;cristaux des mondes&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Aidez-nous donc à faire éclore l'œuf !&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Éliminez des monstres de niveau 65 ou supérieur pour avoir une faible chance d'obtenir des &lt;font color='#0000FF'&gt;cristaux des mondes&lt;/font&gt;.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="2065">
+        <Page social="0">Les Bois des murmures de Tria accueillent des phacochères malades auprès desquels vous pouvez obtenir des âmes sylvestres.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="6" villagerId="2065">
+        <Page social="7" voiceTypeId="0">Parfait ! Nous allons pouvoir lancer le sort de couvaison.&lt;BR&gt;&lt;BR&gt;Je vais tout préparer pour Rumin. &lt;NEXTPAGEBUTTON&gt;"Je patiente ici."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oui, je pense que nous sommes prêts à faire éclore l'œuf spectral !&lt;BR&gt;&lt;BR&gt;Pourriez-vous en informer Rumin ?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" villagerId="2065">
+        <Page social="0">Nous n'avons pas assez de &lt;font color='#0000FF'&gt;cristaux des mondes&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Éliminez divers monstres des environs et rapportez-moi 8 &lt;font color='#0000FF'&gt;cristaux des mondes&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Éliminez des monstres de niveau 65 ou supérieur pour avoir une faible chance d'obtenir des &lt;font color='#FF0000'&gt;&lt;font color='#0000FF'&gt;cristaux des mondes&lt;/font&gt;.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" prevId="8" villagerId="2064">
+        <Page social="4" voiceTypeId="0">Vous avez réuni tous les ingrédients !&lt;BR&gt;Voici maintenant l'heure de vérité !&lt;BR&gt;&lt;BR&gt;Il y a bien longtemps que je n'ai plus lancé de sort de couvaison. J'espère que tout se passera bien.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="2064">
+        <Page social="4" voiceTypeId="0">Ha ha ha ! Merci bien ! Le miracle de la vie...&lt;BR&gt;&lt;BR&gt;Oh... ce nouveau-né spectral...&lt;BR&gt;Il semble beaucoup vous aimer.&lt;BR&gt;&lt;BR&gt;Il sait peut-être qu'il vous doit la vie ! Souhaitez-vous le conserver ? Il ferait un compagnon de choix pour vos voyages.&lt;NEXTPAGEBUTTON&gt;"Oui, ça me plairait bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Cet esprit est très intelligent. Il possède des pouvoirs magiques qui pourraient s'avérer fort utiles. &lt;BR&gt;&lt;BR&gt;Prenez-en bien soin.&lt;BR&gt;Puissent les dieux vous protéger sur votre route !</Page>
+    </Text>
+</QuestDialog>

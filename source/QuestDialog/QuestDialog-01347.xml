@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Thulsa, qui détenait le dernier fragment de relique, vous a dit qu'il préférait détruire le monde plutôt que de vous laisser remporter la partie. Il s'est alors jeté dans la gueule de Kelsaik, qui vit sa puissance décupler en absorbant le dieu de la mort.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Kelsaik ne se trouve pas dans la Tour d'Ébène, alors allez plutôt vous occuper de Thulsa&amp;nbsp;! Suivez les traces de mana qu'il laisse dans son sillage et vous trouverez le téléportail dont il s'est servi pour prendre la fuite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1502">
+        <Page social="1" voiceTypeId="0">(Thulsa a emprunté le téléportail pour disparaître. Kelsaik pourrait bien guetter de l'autre côté.)&lt;BR&gt;&lt;BR&gt;(Vous devriez bien vous préparer avant de lui emboîter le pas.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Très bien ! Sans votre aide, la tâche aurait été nettement plus difficile. J'ai eu la bonne intuition !&lt;BR&gt;La nouvelle de l'évasion de Thulsa de la Tour d'ébène est à peine arrivée qu'Élion m'a immédiatement envoyé ici. &lt;BR&gt;&lt;BR&gt;Et voilà que j'ai à nouveau perdu connaissance...&lt;BR&gt;&lt;BR&gt;Je savais bien que vous y arriveriez, &lt;PCNAME&gt;.&lt;BR&gt;Je voulais vous voir avant votre départ. &lt;NEXTPAGEBUTTON&gt;"Élion est-il à l'abri ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Les médecins d'ici ne peuvent rien faire. &lt;BR&gt;&lt;BR&gt;Ils ont décidé de renvoyer Élion à Allemantheia pour la suite de son traitement.&lt;BR&gt;&lt;BR&gt;Ce village n'est pas équipé pour traiter ses blessures comme il faut.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">Je regrette de vous voir porter seul un tel fardeau. &lt;BR&gt;Élion sera certainement ravi d'apprendre l'étendue de vos exploits.&lt;BR&gt;&lt;BR&gt;Je compte également revenir bientôt.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, informez Kaia de votre victoire ! &lt;BR&gt;&lt;BR&gt;Faites-moi signe quand vous êtes prêt. &lt;BR&gt;Je vais vous ramener jusqu'à Kaiator.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">À bientôt j'espère. &lt;BR&gt;Et prenez bien soin de vous.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="4" villagerId="1088">
+        <Page social="4" voiceTypeId="0">Vous êtes de retour, &lt;PCNAME&gt; ? &lt;BR&gt;Les bonnes nouvelles sont toujours les bienvenues ! &lt;BR&gt;&lt;BR&gt;Rendez-vous vite au quartier général.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="528" prevId="7" villagerId="5030">
+        <Page social="1" voiceTypeId="0">Vous avez vaincu Kelsaik !&lt;BR&gt;Excellent ! Vous avez sauvé notre monde. &lt;BR&gt;&lt;BR&gt;Dommage que vous n'ayez pas pu récupérer le dernier fragment de relique antique. Mais que voulez-vous y faire, hein ?&lt;BR&gt;&lt;BR&gt;Le fait que les argons aient emmené Kelsaik me préoccupe...&lt;BR&gt;Que peuvent-ils bien manigancer ?&lt;BR&gt;&lt;BR&gt;Thulsa... Killian...&lt;BR&gt;Ce sont tous des enfants des dieux... Tout comme moi. &lt;BR&gt;Cela me laisse en proie à un sentiment étrange.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="8" villagerId="5005">
+        <Page social="1" voiceTypeId="0">Vous avez tenu votre promesse. Je vous en remercie. &lt;BR&gt;Père, reposez en paix.&lt;BR&gt;&lt;BR&gt;Maintenant que Killian, Kelsaik et Thulsa ne sont plus, mon peuple va pouvoir s'engager pleinement dans la guerre argonne.&lt;BR&gt;&lt;BR&gt;Je vais gagner cette guerre en l'honneur de mon père !</Page>
+    </Text>
+</QuestDialog>

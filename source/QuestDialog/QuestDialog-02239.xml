@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="0">Vous avez livré des matériaux à tailler à Dolme et recevez pour cela un casque en corne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="4">&lt;PCNAME&gt;, bienvenue à la soirée plage.&lt;BR&gt;&lt;BR&gt;Si vous avez envie de vous procurer un casque en corne, ce n'est pas votre jour de chance. Ils sont tellement demandés cette année.&lt;BR&gt;&lt;BR&gt;Mais laissez-moi vous dire une chose, &lt;PCNAME&gt;&amp;nbsp;: si vous me rapportez deux cornes d'arachnéens de l'Île Serpentis Isle, je vous en ferai un. Deal&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2004">
+        <Page social="4">Bien joué, &lt;PCNAME&gt;&amp;nbsp;! Ce sont de bien belles cornes. Elles devraient m'aider à tenir la journée.&lt;BR&gt;&lt;BR&gt;Voici votre casque en corne. Merci de m'avoir aidé.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Je sais bien qu'il n'est pas facile d'obtenir des cornes d'arachnéens, &lt;PCNAME&gt;. Mais je vous serais très reconnaissant de vous dépêcher un peu.</Page>
+    </Text>
+</QuestDialog>

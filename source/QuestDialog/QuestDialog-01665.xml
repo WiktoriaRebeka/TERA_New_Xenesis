@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1181">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1181">
+        <Page social="0">Lisez cette recette et voyez ce qu'on peut en tirer.&lt;BR&gt;&lt;BR&gt;C'est une formule assez simple, mais elle semble ne jamais déboucher sur des résultats satisfaisants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1181">
+        <Page social="0">Le résultat est particulier et étrange, mais il reste utilisable. Quoi qu'il en soit, merci pour votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1181">
+        <Page social="0">Voilà, vous avez la recette et les matériaux principaux. Allez voir les marchands d'alchimie si vous avez besoin d'autres réactifs.</Page>
+    </Text>
+</QuestDialog>

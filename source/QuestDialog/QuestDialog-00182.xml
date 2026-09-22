@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">Comme si nous n'avions pas suffisamment de problèmes&amp;nbsp;! Les fouaille-tripes ont chassé les {@LinkCreature:6#2041#ours féroces} et bientôt, c'est ici qu'ils viendront chercher de quoi se nourrir.&lt;BR&gt;&lt;BR&gt;Faites-les fuir ou exterminez-les. D'une manière ou d'une autre, ils ne doivent pas parvenir jusqu'ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">Merci. A quoi sert de repousser les fouaille-tripes, si c'est pour finir dans la panse d'un ours&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

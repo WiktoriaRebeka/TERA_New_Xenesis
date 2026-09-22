@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Je suis {@linkcreature:63#3001#Barian}, un membre des Mains de Velika.&lt;BR&gt;&lt;BR&gt;Il y a quelque temps, l'annonce de vos prouesses a atteint Velika, et les rumeurs sur vos exploits se sont ensuite répandues comme une traînée de poudre. C'est pourquoi nous faisons appel à vous. Les Mains de Velika forment un consortium de marchands unique en son genre. En tant que membres distingués de la société, désireux de vivre jusqu'à un âge avancé, nous pensons que, par les temps qui courent, il est nécessaire de se charger de toutes sortes de tâches. &lt;BR&gt;&lt;BR&gt;Velika est une grande ville et il y a fort à faire en temps de guerre. Vos talents seraient essentiels pour notre cause qui, par voie de conséquence, est aussi la vôtre. Acceptez-vous de nous aider ?&lt;BR&gt;&lt;BR&gt;Venez donc me parler si vous décidez de vous charger d'une mission dans cette affaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Merci. Nos routes vont sans doute se croiser encore souvent.</Page>
+    </Text>
+</QuestDialog>

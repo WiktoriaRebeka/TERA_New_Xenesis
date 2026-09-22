@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1021">
+        <Page social="9">J'ai fini par tomber à court d'eau potable, alors j'ai fait fondre de la neige mais, maintenant, mon estomac est en train de me faire souffrir le martyre ! Je tiens à peine debout, alors travailler... J'ai entendu dire qu'on pouvait créer de bons remèdes contre les maux d'estomac à partir des fruits de fleurs de givre diaphanes, mais je ne suis pas en état d'aller faire la cueillette. &lt;pcname&gt;, si vous trouvez ces fleurs, vous pourriez m'en rapporter ? Elles sont petites et poussent le long de la route qui mène au Maelstrom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1021">
+        <Page social="4">Oh, merci beaucoup&amp;nbsp;! Je me sens si mal. J'ai hâte de me faire bouillir un thé avec ces fleurs, histoire de voir si mon état s'améliore.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1021">
+        <Page social="0">J'ai l'impression qu'un dragon enragé est en train de se démener dans mes tripes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Beaucoup de vos camarades ont péri ici. Et le plus tragique, c'est que des {@linkcreature:489#3602#farfadets auriques} lacèrent les dépouilles de vos camarades. &lt;BR&gt;&lt;BR&gt;Les petits démons que l'Atel Akaad a fait sortir des enfers se sont attaqués à vos frères et camarades ainsi qu'aux miens. &lt;BR&gt;&lt;BR&gt;Nous ne devons jamais le leur pardonner ! Allez donc exterminer les farfadets d'ici pour nous en débarrasser à jamais.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Mes camarades vont désormais pouvoir reposer en paix. Merci bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="5">Vous allez au Temple de Dagon, n’est-ce pas&amp;nbsp;? Essayez de trouver des polypores vipères. Odrun, au premier étage, s’en sert pour créer des antidotes au venin des nagas. Les champignons poussent au sein du temple.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Ces champignons feront le bonheur d’Odrun, et vous sauverez de nombreuses vies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">Tout ceci va me permettre de concocter une bonne quantité d’antidote.&lt;BR&gt;&lt;BR&gt;Votre venue est une bénédiction, &lt;PCNAME&gt;. Rares sont ceux qui comprennent vraiment l’importance de mon travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1037">
+        <Page social="0">J’espère que vous trouverez bientôt des polypores vipères, nous commençons à manquer sérieusement d’antidote au venin de naga.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">Les pirates du Fouet rouge s'approchent de beaucoup trop près, si vous voulez mon avis.&lt;BR&gt;&lt;BR&gt;Quel est l'intérêt d'établir un périmètre de sécurité si c'est pour laisser tout et n'importe quoi s'y infiltrer à sa guise&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allez donc apprendre aux {@LinkCreature:11#4001#écraseurs} et aux {@LinkCreature:11#4002#flâneurs} du Fouet rouge qui se trouvent au sud-ouest d'ici ce qu'il en coûte de s'approcher de notre base. Tracez donc une jolie frontière avec leur sang.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1005">
+        <Page social="4">Quelle découverte&amp;nbsp;! Le code est plutôt simple... ça me prendra certainement un moment, mais je ne devrais pas avoir de mal à le décrypter. Merci, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1005">
+        <Page social="0">Vous voyez, le tout, c'est de savoir poser des limites bien nettes... et de ne jamais hésiter à recourir à la violence pour les faire respecter.&lt;BR&gt;&lt;BR&gt;Pour tout dire, ça me rappelle un peu mon enfance.</Page>
+    </Text>
+</QuestDialog>

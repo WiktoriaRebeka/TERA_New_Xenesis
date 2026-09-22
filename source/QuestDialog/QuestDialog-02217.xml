@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">Je vais maintenant vous révéler pourquoi je suis ici.&lt;BR&gt;&lt;BR&gt;Vous connaissez la légende du Marais Vexatus ?&lt;BR&gt;Elle prétend qu'un requin doré habite ici.&lt;BR&gt;Je veux le capturer.&lt;NEXTPAGEBUTTON&gt;"Dites m'en donc plus."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Vous m'avez tout l'air d'un pêcheur compétent. Vous voulez faire un petit pari ?&lt;BR&gt;Le premier qui capture le requin doré l'emporte.&lt;BR&gt;Si je perds, je vous donne tous mes insignes de pêche.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Gritmo cherchait à attraper la sacrée bestiole du Marais Vexatus. Il vous a lancé un pari pour savoir qui de vous deux l'attraperait en premier. Vous avez gagné.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Génial ! Alors c'est que j'ai été trop lent. Dire que vous êtes capable d'attraper une telle sacrée bestiole... Vous êtes vraiment doué, &lt;PCNAME&gt; !&lt;BR&gt;Je ne m'étais pas trompé.&lt;BR&gt;J'ai perdu et voilà donc la récompense promise.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Alors, ce requin doré, ça avance ? N'oubliez pas que vous ne pouvez que le capturer vous-même.</Page>
+    </Text>
+</QuestDialog>

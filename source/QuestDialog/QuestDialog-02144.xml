@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:230#3026#Lilis} vous cherche.&lt;BR&gt;&lt;BR&gt;J'ai cru l'entendre parler de graines à l'intérieur du phare...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">Que la nature veille sur vous, mon {@gender:ami/amie}.&lt;BR&gt;&lt;BR&gt;Les golems ont l'habitude de conserver de vieilles graines dans des tonneaux en chêne. Ils en ont apporté plein hier soir. J'aimerais bien recueillir des échantillons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">Hmm. Je ne sais pas ce que c'est. On va peut-être découvrir quelque chose d'incroyable. Espérons qu'elles éclosent un jour&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Des vieux tonneaux en chêne. Allez, ouvrons-les&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3026">
+        <Page social="4">Ça me dit quelque chose... Une plante médicinale, peut-être.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Des vieux tonneaux en chêne. Allez, ouvrons-les&amp;nbsp;!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3026">
+        <Page social="4">Oh, oui&amp;nbsp;! D'autres graines de l'Œil de Balder. J'essaie toujours d'en faire pousser des nouvelles. Ca pourrait peut-être marcher avec celles-ci.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3026">
+        <Page social="0">Des vieux tonneaux en chêne. Allez, ouvrons-les&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">A chaque fois que je pense être sur le point d'en avoir fini, quelque chose vient contrarier mes projets&amp;nbsp;! Partout où je vais, je tombe sur des {@LinkCreature:5#15#cullars affamés} et des {@LinkCreature:5#16#tentacullars}, et ce ne sont pas les plus sympathiques des bestioles.&lt;BR&gt;&lt;BR&gt;Vous accepteriez d'aller faire le ménage pour moi&amp;nbsp;? Ça me faciliterait considérablement la tâche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">Vous avez déjà fini&amp;nbsp;? Eh bien, merci beaucoup&amp;nbsp;! Maintenant que ces bestioles ne sont plus dans mes jambes, je devrais pouvoir boucler rapidement mon étude.&lt;BR&gt;&lt;BR&gt;Tenez, prenez ceci pour votre peine. Ackerly et moi-même vous sommes extrêmement reconnaissants.</Page>
+    </Text>
+</QuestDialog>

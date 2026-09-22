@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Tenez, prenez ces kits. Fabriquez des espadons de métallurgiste et apportez-les-moi quand vous aurez fini.&lt;BR&gt;&lt;BR&gt;S'ils correspondent aux critères de qualité exigés, nous saurons quoi en faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Joli, c'est superbe. Excellent travail, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ils semblent prêts pour le champ de bataille. Apportez les espadons à Jodoc à Crescentia, ses pourfendeurs attendent ces nouvelles armes avec impatience.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Vous avez le plan et les kits. Parlez aux vendeurs d'artisanat si vous avez besoin de matériel supplémentaire.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="3" villagerId="1009">
+        <Page social="0">Quelles belles lames vous avez là. Excellent travail. Mes pourfendeurs et moi vous remercions.</Page>
+    </Text>
+</QuestDialog>

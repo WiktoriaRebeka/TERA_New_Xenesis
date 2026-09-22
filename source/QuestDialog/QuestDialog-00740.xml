@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="5">Quand les forces de Thulsa nous ont attaqués, certains se sont cachés, d'autres se sont battus et beaucoup sont morts. Mais {@Creature:227#1026$$Haruish}... l'un de nos éclaireurs, a tiré profit du chaos ambiant et il a saisi l'opportunité de traverser les lignes ennemies.&lt;BR&gt;&lt;BR&gt;Depuis, nous sommes sans nouvelles. J'ai peur qu'il lui soit arrivé malheur. Vous pourriez vous mettre à sa recherche&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Le Mysterium apprécierait votre sollicitude.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1026">
+        <Page social="5">(Apparemment, son courage n'aura pas suffi à lui sauver la vie.)&lt;NEXTPAGEBUTTON&gt;"Je vais prendre ses affaires."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(En le fouillant, vous tombez sur une lettre.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1024">
+        <Page social="5">C'était un brave gars. J'aurais aimé avoir le temps de mieux faire sa connaissance.&lt;NEXTPAGEBUTTON&gt;"Vous devez parler aux soldats."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous avez raison, je vais m'en charger.&lt;BR&gt;&lt;BR&gt;Je vais également faire parvenir cette lettre à sa famille. Ses proches apprécieront.</Page>
+    </Text>
+</QuestDialog>

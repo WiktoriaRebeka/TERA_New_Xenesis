@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="4">Je me contrefiche de Digory... Ces céréales reviennent de droit aux gens dont les récoltes ont été anéanties par ses golems. Et si vous n'êtes pas de mon avis, passez votre chemin.&lt;NEXTPAGEBUTTON&gt;"Non, je suis bien d'accord."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Fort bien. La mauvaise nouvelle, c'est qu'un golem en vadrouille a détruit notre chariot.&lt;BR&gt;&lt;BR&gt;Vous allez devoir vous occuper des {@LinkCreature:19#3000#hyènes de guerre cornues} le temps que je voie s'il est possible de réparer ça.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Formidable... éliminez-en autant que vous le pouvez pendant que je fais une estimation des dégâts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1033">
+        <Page social="4">Merci de vous être {@gender:occupé/occupée} de ces hyènes.&lt;BR&gt;&lt;BR&gt;Malheureusement, je ne suis pas en mesure de réparer le chariot.</Page>
+    </Text>
+</QuestDialog>

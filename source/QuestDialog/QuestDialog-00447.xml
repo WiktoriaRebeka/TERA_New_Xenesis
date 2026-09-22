@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="5">Mon maître était un fin stratège. Il disait toujours&amp;nbsp;: "Un bon soldat triomphe de son ennemi, mais un soldat rusé pense à s'emparer de son arme."&lt;NEXTPAGEBUTTON&gt;"Les paroles d'un sage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ecoutez, &lt;PCNAME&gt;. Les {@LinkCreature:15#11#cavaliers cruels}, les {@LinkCreature:15#12#subalternes nains mutants} et les {@LinkCreature:15#13#querelleurs} rôdant au nord portent des pendentifs qui m'intéressent. Un jour, ces symboles de la victoire de la Fédération sur les forces du mal prendront beaucoup de valeur. Vous voyez où je veux en venir&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1016">
+        <Page social="5">Oh &lt;PCNAME&gt;, c'est un grand soulagement de rencontrer quelqu'un qui sait manier les armes et prendre des initiatives. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1016">
+        <Page social="0">&lt;PCNAME&gt;, l'Histoire ne s'écrit pas qu'avec des mots... Elle est également faite de symboles. Et ces pendentifs représentent ma... Je veux dire, "notre" future renommée.&lt;BR&gt;&lt;BR&gt;Allez les chercher.</Page>
+    </Text>
+</QuestDialog>

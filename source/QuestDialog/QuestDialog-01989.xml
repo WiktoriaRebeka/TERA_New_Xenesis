@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="0">Le malentendu concernant les révolutionnaires a pu être élucidé, mais la méfiance n'était pas complètement balayée. &lt;BR&gt;Hennika l'a confirmé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Vous semblez toujours vous méfier de nous.&lt;NEXTPAGEBUTTON&gt;"Pour être honnête, c'est vrai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Allons bons.&lt;BR&gt;&lt;BR&gt;Je vais balayer vos doutes une bonne fois pour toutes.&lt;BR&gt;&lt;BR&gt;Je vais vous révéler un emplacement où vous pourrez vous faire votre propre opinion. &lt;BR&gt;&lt;BR&gt;Regardez un peu tout ce que nous avons subi pendant que vous dormiez sur vos deux oreilles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Des cristaux orangés jonchent le sol au milieu des cadavres de révolutionnaires.&lt;BR&gt;&lt;BR&gt;Tous les révolutionnaires qui se trouvaient ici sont morts par cristallisation.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1032">
+        <Page social="0" voiceTypeId="0">Il y a là un cristal orangé bien plus gros que le précédent.&lt;BR&gt;&lt;BR&gt;Les cristaux semblent progressivement grossir avec le temps.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Mon corps se raidit toujours plus. Je vais bientôt mourir, moi aussi... *sanglot*&lt;NEXTPAGEBUTTON&gt;"Comment vous sentez-vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Au début, il n'y en a eu qu'un... mais l'épidémie s'est peu à peu propagée... (Il est mort.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Vous me croyez, maintenant ? &lt;BR&gt;&lt;BR&gt;Nous n'y sommes pour rien. &lt;BR&gt;Nous aussi, nous subissons ce phénomène.&lt;BR&gt;&lt;BR&gt;Et nous avons agi plus vite que vous pour réduire le nombre de victimes.&lt;BR&gt;&lt;BR&gt;Si vous en avez le cœur net, arrêtez donc de nous mettre des bâtons dans les roues !</Page>
+    </Text>
+</QuestDialog>

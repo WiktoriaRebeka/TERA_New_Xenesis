@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="4">Eh&amp;nbsp;! Vous êtes &lt;PCNAME&gt;&amp;nbsp;! Vous êtes presque une légende. Vous avez tué Thulsa, Killian, Akasha et Kelsaik&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je peux vous demander un service&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"{@gender:Désolée/Désolée}, je n'ai pas de plume."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Non, je ne veux pas d'autographe. J'essaie d'endurcir un peu ces recrues. Vous pourriez vraiment leur apprendre beaucoup.&lt;BR&gt;&lt;BR&gt;Utilisez ce {@WorkObject:60} pour faire sortir un ravageur des ombres qui se joindra au combat. Cela ne devrait pas être un problème. Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1040">
+        <Page social="6">Bon sang. Même moi, j'ai appris une chose ou deux pendant le combat.&lt;BR&gt;&lt;BR&gt;Merci beaucoup. Et si vous trouvez une plume, Ellak prend deux « l ».</Page>
+    </Text>
+</QuestDialog>

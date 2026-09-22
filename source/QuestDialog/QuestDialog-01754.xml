@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">En cherchant un moyen de demander des renforts à Velika dans le Hall de la connaissance, &lt;PCNAME&gt; a rencontré Halran, le sage de Hautegarde qui l'attendait. &lt;PCNAME&gt; a essayé de communier avec l'Arcanalithe de Mystel, une relique qui apporte des réponses à ceux qui se mettent volontairement en quête de leur destinée. Et {@gender:il/elle} a eu une vision des Archidevans et de la Muraille des tempêtes.&lt;BR&gt;Halran a prédit que &lt;PCNAME&gt; serait {@gender:le libérateur/la libératrice} des barakas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Comme je vous l'ai dit, le Hall de la connaissance n'est pas ouvert au premier venu... généralement.&lt;BR&gt;&lt;BR&gt;Mais j'ai entendu Omeros parler en votre nom,  &lt;PCNAME&gt; et je crois qu'il serait sage de vous laisser entrer.&lt;BR&gt;&lt;BR&gt;Une fois à l'intérieur, vous devriez chercher Halran. Il devrait pouvoir vous aider.&lt;NEXTPAGEBUTTON&gt;"Je vais faire comme ça. Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Très bien&amp;nbsp;! Je vais vous envoyer directement là où Halran vous attend.&lt;NEXTPAGEBUTTON&gt;"Je suis prêt{@g:/e}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Halran m'a prévenu qu'un visiteur allait arriver.&lt;BR&gt;&lt;BR&gt;Vous êtes bien &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"C'est moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Très bien&amp;nbsp;! Permettez-moi de faire le guide.&lt;BR&gt;&lt;BR&gt;Juste en sortant de cette pièce, vous trouverez des escaliers. En haut de ceux-ci, vous pourrez voir l'Arcanalithe de Mystel, où Halran vous attendra.&lt;BR&gt;&lt;BR&gt;Ayez l'amabilité de ramasser tous les livres que vous trouverez sur les escaliers.&lt;NEXTPAGEBUTTON&gt;"Aucun souci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2037">
+        <Page social="4" voiceTypeId="0">["Au temps des légendes vivaient des géants qui ont asservi les amans et conquis de vastes sections d'Arun et Shara. Puis vinrent le feu de Yurian et le sacrifice de Balder. Au milieu des cendres, Balder dépouilla les géants de tout ce qui faisaient d'eux des enfants de Tithus, ne laissant que ce qui en faisant des enfants d'Oriyin."]&lt;NEXTPAGEBUTTON&gt;(Ramassez le Livre des Sages.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2038">
+        <Page social="4" voiceTypeId="0">[Sur une page décrivant les évènements de la guerre divine, un sage ancestral a griffonné&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;"La Muraille des tempêtes précède-t-elle le précipice&amp;nbsp;? Aucune mention de cela dans le Livre des Sages. Le précipice longe la Muraille. Cause&amp;nbsp;? Effet&amp;nbsp;? Coïncidence&amp;nbsp;?"]&lt;NEXTPAGEBUTTON&gt;(Ramassez le livre de l'Instruit.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="2039">
+        <Page social="4" voiceTypeId="0">[La note dissimulée dans le livre dit&amp;nbsp;: &lt;BR&gt;&lt;BR&gt;"Lakan"&lt;BR&gt;&lt;BR&gt;"Des Castanics aux Devans aux Archidevans."&lt;BR&gt;&lt;BR&gt;"MAGIE DU SANG"&lt;NEXTPAGEBUTTON&gt;(Ramassez le Livre de l'Avisé.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="2113">
+        <Page social="4" voiceTypeId="0">[Sur une page décrivant les différentes sortes de devans, quelqu'un a écrit&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;"Les effets de la magie du sang semblent braver la mort et se transmettre de génération en génération. La magie du sang peut servir à lever la magie du sang, mais sans des décennies d'entraînement - pensée abjecte s'il en est - toute tentative d'inverser une transformation équivaudrait à effacer une cicatrice en infligeant des blessures supplémentaires tout autour."]&lt;NEXTPAGEBUTTON&gt;(Ramassez le Livre du Rusé.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1019">
+        <Page social="4" voiceTypeId="0">Oh, bien le bonjour ! Ne seraient-ce pas mes livres ?! &lt;BR&gt;Merci d'avoir ramassé les ouvrages que j'avais laissés traîner sur les escaliers. &lt;BR&gt;J'espère que vous les avez lus. C'était là ma véritable intention.&lt;BR&gt;En temps normal, je ne laisserai jamais des ouvrages aussi précieux traîner dans un coin. Quel est votre nom ?&lt;NEXTPAGEBUTTON&gt;"Je m'appelle &lt;PCNAME&gt;."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Parfait&amp;nbsp;! Vous voilà donc paré{@g:/e} pour trouver les réponses à vos questions dans l'Arcanalithe de Mystel. Je vous attends depuis bien longtemps.&lt;NEXTPAGEBUTTON&gt;"J'ai rencontré Mystel. Elle ne m'en a jamais parlé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mystel sait qu'une prophétie sans définition tangible n'est qu'un fardeau pour l'esprit mortel. Même une simple prophétie à l'issue proche met la santé mentale à rude épreuve. Imaginez un peu comme il serait aliénant de disposer d'une prémonition totale sans pouvoir la comprendre ou avoir la capacité de jouer d'ores et déjà un rôle dans les évènements futurs.&lt;BR&gt;&lt;BR&gt;De tous ceux que j'ai connus, seuls Verikam et moi-même avions une force mentale suffisante pour supporter plus d'une poignée de prophéties de l'Arcanalithe de Mystel d'un seul coup.&lt;BR&gt;&lt;BR&gt;Mais on dirait que votre destinée vous engage à en faire autant. Etes-vous prêt{@g:/e} à communier avec elle&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je le suis."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" villagerId="1019">
+        <Page social="0">Je me fais un peu de souci quant aux capacités de quelqu'un qui ne comprend pas "récupérez tous les livres".</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="9" villagerId="1010">
+        <Page social="4" voiceTypeId="0">[Archidevans. Imposture. Altération ...]&lt;BR&gt;&lt;BR&gt;[Muraille noire ... $%^&amp;*%#@%$&amp;*Pierres spatiotemporelles#$%$^&amp;]&lt;BR&gt;&lt;BR&gt;Renfort. Réunification.&lt;BR&gt;&lt;BR&gt;[…*#$#^(@##&lt;PCNAME&gt; ...]&lt;NEXTPAGEBUTTON&gt;"J'espère avoir bien compris l'Arcanalithe de Mystel."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="1019">
+        <Page social="4" voiceTypeId="0">Les prophéties sur les Archidevans, la Muraille des tempêtes et la magie du sang&amp;nbsp;? Et d'autres encore&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mystel vous a clairement identifié{@g:/e} comme un élément vital de nombreux évènements cruciaux de ce monde. Et ce, bien au-delà de ceux auquel vous avez déjà participé.&lt;BR&gt;&lt;BR&gt;Il semble indiscutable que vous étiez destiné{@g:/e} à venir ici, à Hautegarde, pour aider les barakas à combattre Dkurion, malgré la prédiction des pertes et tragédies à venir. Je n'envie pas votre place dans les livres d'histoires.&lt;NEXTPAGEBUTTON&gt;"Ça... fait beaucoup à digérer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je vous demande pardon, &lt;PCNAME&gt;. Vous avez déjà tant subi pour arriver jusqu'ici. Et voilà que je vous ajoute un tel fardeau. Vous devez être exténué{@g:/e} et vous avez besoin de réfléchir à bien des choses.&lt;BR&gt;&lt;BR&gt;Mais si vous devez retenir une chose, retenez ceci&amp;nbsp;: c'est vous que Mystel a choisi. Il est vraisemblable que vous avez été choisi{@g:/e} parce que vous avez la capacité unique de pouvoir réaliser toutes les prophéties en même temps.&lt;NEXTPAGEBUTTON&gt;"Ce ne serait pas la première fois."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="183" prevId="12" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Par où souhaitez-vous débuter le périple que Mystel a préparé pour vous ?&lt;NEXTPAGEBUTTON&gt;"Je vais partir à la recherche des pierres spatiotemporelles."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Un choix judicieux, selon moi.&lt;BR&gt;&lt;BR&gt;Je vous conseille d'aller parler à mon ami Hagand. Il a sillonné tout le pays à la recherche de reliques rares. Il saura certainement vous conseiller.&lt;BR&gt;&lt;BR&gt;Et je vous prie d'accepter ceci, comme humble témoignage de ma reconnaissance. Cela pourrait vous être utile.&lt;NEXTPAGEBUTTON&gt;"Entendu. Merci beaucoup."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

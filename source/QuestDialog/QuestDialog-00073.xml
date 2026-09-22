@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">(Corann paraît profondément troublé.)&lt;BR&gt;&lt;BR&gt;Hum... à propos d'Ohdi... j'ai bien peur qu'il ait pris goût à ces ossements de morts-vivants pendant son séjour parmi eux. Depuis, il ne renifle même plus la nourriture que je lui donne.&lt;BR&gt;&lt;BR&gt;Alors... je me demandais si vous pourriez me trouver un stock d'os de {@LinkCreature:3#16#défenseurs morts}&amp;nbsp;? J'ai peur qu'Ohdi mette de nouveau les voiles si je ne lui trouve pas ces os. S'il disparaît encore une fois, je ne sais pas si je le supporterai... S'il vous plaît, aidez-moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1001">
+        <Page social="4">De leur vivant, ils nous ont servis honorablement. J'espère qu'ils reposent désormais en paix.&lt;BR&gt;&lt;BR&gt;Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1001">
+        <Page social="0">Ce que je vous demande ne nécessite pas d'effort particulier. Vous devrez tôt ou tard combattre les morts-vivants des Bois de l'Oubli.</Page>
+    </Text>
+</QuestDialog>

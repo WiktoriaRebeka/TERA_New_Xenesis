@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">J'ai entendu dire qu'à la fin de la &lt;font color='#660000'&gt;Cérémonie de bénédiction&lt;/font&gt;, des {@LinkCreature:16#2305#mages sanglants} avaient surgi des souterrains du château.&lt;BR&gt;&lt;BR&gt;On dit aussi que ce sont eux qui possèdent les &lt;font color='#660000'&gt;pierres de sang&lt;/font&gt;. Ces objets devraient se trouver entre nos mains, et pas entre les leurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Regardez la taille de cette pierre... Combien de vies aura-t-il fallu sacrifier en son nom&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;La pierre de sang est une relique effroyablement maléfique qui appartenait à des Vampires d'un autre temps. Comme son nom l'indique, elle est principalement composée de sang solidifié, une arme puissante d'un autre âge.&lt;BR&gt;&lt;BR&gt;J'ignore ce que les Mages sanglantes ont trafiqué avec ça, mais nous allons devoir le découvrir au plus vite.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">S'ils ont vraiment employé la pierre de sang... Je préfère éviter d'y penser.</Page>
+    </Text>
+</QuestDialog>

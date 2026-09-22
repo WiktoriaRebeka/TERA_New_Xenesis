@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">Repos, soldat. Tous nos effectifs sont occupés en ce moment, alors une recrue sans affectation est un don du ciel&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je veux que vous vous présentiez à {@LinkCreature:223#1007$$Serelia} au plus vite. C'est le responsable des opérations sur le terrain et il a besoin d'aide.&lt;BR&gt;&lt;BR&gt;C'est là que vous intervenez. Rompez&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">Vous arrivez de Velika&amp;nbsp;? Bienvenue... Ici, nous manquons constamment de personnel.&lt;BR&gt;&lt;BR&gt;Pas la peine d'attendre que je vous donne du boulot pour vous y mettre&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

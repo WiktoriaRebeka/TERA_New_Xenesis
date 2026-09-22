@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Les argons déferlent par vagues de la {@Rgn:48005$$Forteresse de Valgurati} et écrasent littéralement nos troupes.&lt;BR&gt;&lt;BR&gt;Je voudrais que vous vous rendiez sur place. Allez voir {@LinkCreature:248#3010#Orveras} et essayez de mettre des bâtons dans les roues de ces argons.&lt;BR&gt;&lt;BR&gt;Cela nous donnera peut-être une opportunité de contre-attaquer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">Nous attaquons ces satanés argons d'ici. Et puis on observe et on découvre certaines choses.&lt;NEXTPAGEBUTTON&gt;"Qu'avez-vous appris&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Si vous éliminez les {@LinkCreature:48#6#batteurs vulnaqs} ou les {@LinkCreature:48#400#transporteurs zolnajs}, les argons ne pourront pas remédier à ce manque avant un moment.&lt;BR&gt;&lt;BR&gt;Leur aptitude à nous envoyer des tueurs de manière constante est l'un de leur point fort. Interrompre ce flux semble être une solution très pertinente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">Hah&amp;nbsp;! Qu'il est bon de se dire que ce qu'on a fait a servi à quelque chose&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je vais faire un rapport à la Forteresse de Zulfikar. Longue vie au Shariar&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

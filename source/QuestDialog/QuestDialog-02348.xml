@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir, le commandant de la Fédération Valkyon, vous a prié de vérifier l'avancée des préparatifs pour les funérailles d'Élion, le héros d'Arborea.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez pris congé de Jelena après l'enterrement d'Élion, avant de faire vos préparatifs pour retourner à Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ah, vous avez pu venir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Élion a surmonté d'innombrables dangers pour la Fédération Valkyon.&lt;BR&gt;&lt;BR&gt;En tant que commandant de la Fédération Valkyon, j'aimerais lui offrir des funérailles à la hauteur de ses exploits.&lt;BR&gt;&lt;BR&gt;Sa famille se charge d'organiser la cérémonie. Allez donc demander à Sinoeta si les préparatifs sont terminés puis venez sur la place.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1234">
+        <Page social="13" voiceTypeId="0">Nous venons de terminer les préparatifs de l'enterrement, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Avec le décès d'Élion, notre famille vient de perdre un de ses membres les plus chers. *snif*</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="20004">
+        <Page social="4" voiceTypeId="0">Tout le monde est réuni, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;(Vous hochez la tête.)&lt;BR&gt;&lt;BR&gt;Je n'aurais jamais pensé que je préparerais un jour la sépulture d'Élion. Je ne peux pas m'imaginer la Fédération Valkyon sans lui, mais nous devons pourtant relever la tête.&lt;BR&gt;&lt;BR&gt;Allons-y.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="20004">
+        <Page social="4" voiceTypeId="0">Avez-vous vu Jelena ?&lt;BR&gt;&lt;BR&gt;Je ne la vois nulle part. Pour honorer dignement la mémoire d'Élion, notre héros, nous avons décidé de lui ériger une statue de bronze à Velika.&lt;BR&gt;&lt;BR&gt;J'aurais voulu que Jelena s'en charge, mais en son absence, pourriez-vous nous aider à installer la statue ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="20001">
+        <Page social="4" voiceTypeId="0">Oui, je suis au courant. C'est ici qu'ils comptent installer la statue d'Élion...&lt;BR&gt;&lt;BR&gt;Je n'ai fait que le distraire. Je n'ai pas réussi à le sauver...&lt;BR&gt;&lt;BR&gt;Allez donc auprès de la statue de bronze et rendez un dernier hommage à Élion. Je vous en prie.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="20002">
+        <Page social="4" voiceTypeId="0">Merci bien, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maintenant, les habitants de Velika se souviendront toujours d'Élion comme d'un grand héros de la Fédération Valkyon.&lt;BR&gt;&lt;BR&gt;Et n'oubliez jamais qu'il est désormais d'autant plus important de protéger Arborea face aux Arkarps et de venger la mort d'Élion.&lt;BR&gt;&lt;BR&gt;Si vous croisez Jelena, merci de lui faire savoir que nous avons besoin d'elle et attendons sa venue.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="20003">
+        <Page social="4" voiceTypeId="0">Voilà donc ce que Seir vous a raconté.&lt;BR&gt;&lt;BR&gt;Je n'en sais rien, malheureusement. Je ne sais pas quoi faire pour me racheter de ma responsabilité dans la mort d'Élion...&lt;BR&gt;&lt;BR&gt;J'aimerais m'évaporer sur place.&lt;BR&gt;&lt;BR&gt;Merci d'être venu prendre de mes nouvelles.</Page>
+    </Text>
+</QuestDialog>

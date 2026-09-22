@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">Je pourrais mieux éduquer Shalim si les géants ne risquaient pas de nous attaquer à tout bout de champ.&lt;BR&gt;&lt;BR&gt;Ils sont retors et sortent de nulle part&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si vous tuez quelques {@LinkCreature:34#1000#géants fendeurs-de-glace}, j'aurai le temps de prendre Shalim en charge... Je comprends qu'il s'ennuie, mais je refuse de l'exposer au danger uniquement pour le divertir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1012">
+        <Page social="4">Vous avez nettement plus de talent que moi, &lt;PCNAME&gt;. Quel plaisir de voir que la Fédération a des soldats de votre trempe par ici&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci d’avoir décimé les géants. Shalim va être ravi&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1012">
+        <Page social="0">Si on élimine les géants, les mineurs ne s'en porteront que mieux. Tout le monde en tirera profit, sauf les géants, bien sûr.</Page>
+    </Text>
+</QuestDialog>

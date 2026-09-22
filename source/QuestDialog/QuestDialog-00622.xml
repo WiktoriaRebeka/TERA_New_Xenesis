@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="5">Quelque chose est arrivé aux {@LinkCreature:22#13#marms sanglantes}&amp;nbsp;! Elles courent dans tous les sens en distribuant leurs maléfices aux étudiantes et en animant les jouets&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si on ne les arrête pas, nous serons submergées par les poupées&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">Les marms sanglantes se sont attaquées aux enfants&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Mais vous les avez arrêtées, hein&amp;nbsp;? Oh là là, ça fait beaucoup d'informations d'un seul coup.&lt;BR&gt;&lt;BR&gt;Et ça veut dire qu'il reste des poupées qui courent dans tous les sens&amp;nbsp;? Ou est-ce que cette folie a pris fin&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

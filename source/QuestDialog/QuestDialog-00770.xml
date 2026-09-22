@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="1">Vous devez m'aider, &lt;PCNAME&gt;&amp;nbsp;! J'ai besoin que vous... que vous m'empoisonniez&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Attendez, ne partez pas&amp;nbsp;! Je peux tout expliquer. Je dois être immédiatement empoisonné par un {@LinkCreature:30#140#tentacullar vénéneux}.&lt;NEXTPAGEBUTTON&gt;"Mais pourquoi diable voudriez-vous faire ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">J'ai un sombre secret, vraiment très important, que je ne peux révéler à personne. Mais Alais et les gros bras du Mysterium vont me forcer à le leur divulguer. Une dose précise de poison de {@LinkCreature:30#140#tentacullar vénéneux} agit sur le cerveau et provoque une perte de mémoire. Je préfère être amnésique que mort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1018">
+        <Page social="1">Merci beaucoup, &lt;PCNAME&gt;. Donnez-le-moi maintenant&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Voici votre poison."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">(Il avale la bouteille de poison, puis ouvre et ferme la bouche plusieurs fois, paniquant de plus en plus.)&lt;BR&gt;&lt;BR&gt;(Il montre sa bouche, fait de grands gestes, puis désigne un autre mineur.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1018">
+        <Page social="0">Je ne révèlerai pas ce secret même si ces hommes de main me torturent. Je préfère mourir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1017">
+        <Page social="1">Il l'a bu&amp;nbsp;? Pas étonnant qu'il ne puisse plus parler.&lt;BR&gt;&lt;BR&gt;Sa gorge va gonfler au point qu'il aura du mal à respirer pendant plusieurs jours. Que s'est-il passé&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Il essayait d'oublier un gros secret..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ce conte de bonne femme à propos du venin de tentacullar&amp;nbsp;? Il n'oubliera pas le passé, mais il ne pourra pas non plus parler de son précieux "secret".&lt;BR&gt;&lt;BR&gt;Quelqu'un doit avertir {@LinkCreature:230#1065$$Libinienn}.&lt;BR&gt;&lt;BR&gt;Les mineurs ont une vieille coutume, appelée... "Un-deux-trois-c'est-pas-moi&amp;nbsp;!", alors allez dire à Libinienn comment vous avez empoisonné un de ses mineurs.&lt;BR&gt;&lt;BR&gt;Et bonne chance., &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="1065">
+        <Page social="1">Donc vous lui avez donné du venin de tentacullar. Et il l'a bu.&lt;BR&gt;&lt;BR&gt;Je... Je... les mots me manquent.&lt;NEXTPAGEBUTTON&gt;"J'essayais d'aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Vous faites tout ce qu'on vous demande de faire, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous voulez connaître son "grand" secret&amp;nbsp;? Il a pris des objets trouvés sur le site de fouille et les a cachés pour que les confédérés du marché noir les récupèrent.&lt;BR&gt;&lt;BR&gt;Et vous avez retardé l'interrogatoire qu'il n'a que trop mérité&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Désolé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Bon, vous êtes {@gender:naïf/naïve} mais honnête.&lt;BR&gt;&lt;BR&gt;Et en y réfléchissant, vous l'avez certainement puni plus durement en l'empoisonnant que je ne l'aurais fait.&lt;BR&gt;&lt;BR&gt;Quand vous êtes un mineur itinérant, être condamné à un travail dur n'est pas vraiment une punition.</Page>
+    </Text>
+</QuestDialog>

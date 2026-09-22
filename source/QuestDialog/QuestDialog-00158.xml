@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="0">Vous avez soigneusement examiné l'endroit où les descendants de Lok se terraient et avez découvert un passage secret auquel ne peuvent accéder que ceux qui possèdent un insigne des descendants. Vous avez bu la potion d'invisibilité de Kamia pour vous faufiler dans le Bastion de Lok. En épiant les descendants de Lok, vous avez appris qu'il existe une base de ravitaillement des descendants de Lok, quelque part au nord des Bois de l'Oubli.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Mais il y a quelque chose qui m'échappe.&lt;BR&gt;&lt;BR&gt;La prêtresse dont Kantusa nous a parlé.&lt;BR&gt;Elle a affirmé que celle-ci accompagnait Dakanius.&lt;BR&gt;&lt;BR&gt;Or, je n'ai vu personne qui ressemblait à une prêtresse. Mais alors, où peut-elle bien être&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;Vous écoutez.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Et il y a autre chose d'étrange.&lt;BR&gt;&lt;BR&gt;Vous vous rappelez des armes dans le repaire de Dakanius&amp;nbsp;?&lt;BR&gt;D'où peuvent-elles bien provenir&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il semble improbable qu'ils aient pu se procurer de telles armes dans un endroit aussi isolé.&lt;BR&gt;On devrait peut-être explorer les environs, non&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Sans hésiter."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Regardez ! Il y a un Passage secret par ici !&lt;BR&gt;&lt;BR&gt;Empruntons-le !&lt;NEXTPAGEBUTTON&gt;"Mais, nous n'avons pas la moindre idée du nombre d'ennemis qu'il abrite..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai ici une potion d'invincibilité.&lt;BR&gt;&lt;BR&gt;Mais son effet s'estompe vite. Vous devez donc repartir sitôt que vous avez appris quoi que ce soit.&lt;BR&gt;&lt;BR&gt;En route, vite !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="420" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Cette Tetra dont vous avez parlé est sûrement la Prêtresse.&lt;BR&gt;Elle est sans doute au courant de la mort de Dakanius.&lt;BR&gt;&lt;BR&gt;Nous devons vite retourner au Quartier général pour faire notre rapport !&lt;BR&gt;Par ici !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Quel soulagement de vous voir revenir sain et sauf.&lt;BR&gt;Je suis au courant de tout.&lt;BR&gt;&lt;BR&gt;J'avais une grande affection pour Kantusa. Quelle tragédie.&lt;BR&gt;&lt;BR&gt;Je ne serai désormais jamais en mesure de pardonner les devans.&lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Elthienne} vous cherchait. Vous êtes {@gender:allé/allée} lui parler&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Eh&amp;nbsp;! Justement je me demandais si quelqu'un avait de vos nouvelles.&lt;BR&gt;&lt;BR&gt;Apparemment, nos voisins au sud sont envahis de lézards de la tempête, de vulcains et de kumas.&lt;BR&gt;&lt;BR&gt;J'aimerais leur apporter un peu d'aide, mais... des vulcains&amp;nbsp;? Des kumas&amp;nbsp;? Vous êtes beaucoup plus efficace que les Mains individuellement... et peut-être même collectivement.&lt;BR&gt;&lt;BR&gt;Puis-je vous envoyer éliminer une partie de ces menaces à Val Aureum&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Vous avez pris la {@Rgn:24001#Route d'Aurum}&amp;nbsp;? C'était une mission suicide&amp;nbsp;? Dans ce cas-là, ça n'a pas réussi.&lt;BR&gt;&lt;BR&gt;Prévenez {@LinkCreature:63#3003#Elthienne} qu'il faudra faire mieux que ça, si elle veut vous tuer.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Réduisez le nombre des {@LinkCreature:24#5#lézards de la tempête vifs} sur la {@Rgn:24001#Route d'Aurum} et rapportez-nous leur peau.&lt;BR&gt;&lt;BR&gt;Elthienne n'a pas demandé de peau, mais je ne vais pas rater une occasion de récupérer de quoi me faire une nouvelle tenue. Elle va être chaude comme la braise&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">J'ai horreur de la {@Rgn:24001#Route d'Aurum}. Non mais sérieusement, à quoi elle sert&amp;nbsp;? Une chaleur à mourir, d'ailleurs, tout est mort sur place, sauf ce qui veut vous tuer. Je pense qu'on devrait se désintéresser du sud.&lt;BR&gt;&lt;BR&gt;J'ai dit à {@LinkCreature:63#3003#Elthienne} de ne pas se fatiguer à me dire d'y aller. Mais elle a dû déjà vous promettre un joli petit quelque chose en échange&amp;nbsp;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Chassez des {@LinkCreature:24#9#kumas foudre du désert} sur la {@Rgn:24001#Route d'Aurum} et rapportez tout ce que vous trouverez d'utilisable.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">J'aimerais juste vous dire que vous êtes une source d'inspiration&amp;nbsp;? Vraiment&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'espère qu'{@LinkCreature:63#3003#Elthienne} vous apprécie autant que moi. Vous devriez lui rendre visite, histoire de vérifier.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Tuez des {@LinkCreature:24#12#vulcains cupides} sur la {@Rgn:24001#Route d'Aurum} et rapportez tout ce que vous trouverez de réutilisable... sachant qu'on peut tout réutiliser.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Oh, {@LinkCreature:63#3003#Elthienne}&amp;nbsp;! Regarde qui revoilà&amp;nbsp;!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Tuez des {@LinkCreature:24#62#vulcans ardents} sur la {@Rgn:24001#Route d'Aurum} et empochez tous les objets utiles que vous trouverez sur leurs cadavres.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Taratia a l'air de bonne humeur. Ce que vous avez trouvé sur les cadavres des créatures hostiles de la Route d'Aurum devait valoir le détour. Vos exploits m'impressionneront toujours.</Page>
+    </Text>
+</QuestDialog>

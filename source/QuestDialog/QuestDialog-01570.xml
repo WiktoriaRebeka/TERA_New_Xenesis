@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Très bien... vous avez l'alkahest, une arme qui peut être enchantée, ainsi que de la matière première.&lt;BR&gt;&lt;BR&gt;Au travail.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Enchanter un objet permet de l'améliorer, mais seules les pièces d'équipement qu'il est possible d'enchanter peuvent bénéficier de ce traitement.&lt;BR&gt;&lt;BR&gt;Les armes requièrent quatre unités de matière première par tentative. Les armures thoraciques en requièrent trois, tandis que les chaussures et les armures de mains n'en demandent que deux. Les matières premières doivent être de même rang ou de rang plus élevé que l'objet que vous enchantez.&lt;BR&gt;&lt;BR&gt;Quand vous atteindrez le bonus maximal, vous pourrez utiliser davantage de matières premières pour améliorer vos modifications. Mais nous n'y sommes pas encore.&lt;NEXTPAGEBUTTON&gt;"C'est compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pour l'alkahest... vous devez vous référer au rang. Chaque tentative vous coûtera un nombre d'alkahests correspondant au rang de l'objet + 10&lt;BR&gt;&lt;BR&gt;Pour ce qui est de la mise en œuvre&amp;nbsp;: accédez au menu d'enchantement en appuyant sur la touche "T". Effectuez un clic droit sur l'objet que vous souhaitez enchanter. Vos matières premières et votre alkahest seront automatiquement chargés et le montant optimal sera indiqué. Cliquez sur Enchanter pour faire un essai.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Vous avez tout saisi&amp;nbsp;? Parfait&amp;nbsp;? Je me disais bien que vous aviez l'air futé. Les meilleurs &lt;PCCLASS:lcase&gt;s enchantent leur équipement autant que possible. Tenez, cela vous sera utile.</Page>
+    </Text>
+</QuestDialog>

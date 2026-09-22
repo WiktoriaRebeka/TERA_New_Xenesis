@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0">Les dragons ont réduit la Salle de banquet en cendres en un clin d'œil. Mystel vous a envoyé dans le passé juste avant que l'immense dragon ne porte le coup de grâce.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Vous avez participé à toutes les activités.&lt;BR&gt;Le commandant Seir va prononcer son discours dans un instant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="505" prevId="2" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Par la déesse Velik... Velika est...&lt;BR&gt;Comment autant de dragons ont-ils pu... ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="505" prevId="3" villagerId="2012">
+        <Page social="0" voiceTypeId="0">D'innombrables dragons...&lt;BR&gt;Que se passe-t-il ici ?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="505" prevId="4" villagerId="2028">
+        <Page social="0" voiceTypeId="0">Je perçois une puissance maléfique...&lt;BR&gt;La Muraille des mondes... Quelque part sur le Sentier de Mystel...&lt;BR&gt;Quelque chose est survenu, c'est absolument certain... !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="505" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Je vais commencer par mettre les gens en sécurité. &lt;BR&gt;Je vais organiser les troupes avant de revenir.&lt;BR&gt;&lt;BR&gt;Cherchez d'autres survivants, &lt;PCNAME&gt;. Soyez prudent.&lt;BR&gt;&lt;BR&gt;La déesse Velik... Non, c'est impossible. Nous nous reverrons bientôt, bien vivants !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="505" prevId="6" villagerId="3005">
+        <Page social="0" voiceTypeId="0">Vous êtes tous en sécurité ?&lt;BR&gt;J'espère que les chevaliers royaux ont été épargnés...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="505" prevId="7" villagerId="3001">
+        <Page social="0" voiceTypeId="0">C'est une vraie bénédiction de ne pas devoir en être témoin...&lt;BR&gt;&lt;BR&gt;L'immense dragon noir contrôle tous les dragons du continent.&lt;BR&gt;Nous devons retrouver le seigneur obscur, le dragon noir...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1132">
+        <Page social="0" voiceTypeId="0">Hein ? La situation actuelle ?&lt;BR&gt;Il ne reste que 3 jours avant la fête...&lt;BR&gt;Les préparatifs sont presque terminés.&lt;BR&gt;Les ingrédients livrés sont soigneusement empilés dans l'entrepôt. À part ça, rien de neuf, si ? Vous devriez épousseter vos vêtements.&lt;BR&gt;&lt;BR&gt;Vous êtes ici pour une audience avec le commandant Seir ? Il est à l'intérieur.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">Des rapports signalent la présence d'{@LinkCreature:23#25#officiers de guérilla} et de {@LinkCreature:23#19#rebelles poporis} autour du lac. Ils sont peut-être là en éclaireurs pour préparer une attaque ou pour nous espionner. Peu importe... Ils doivent mourir.&lt;BR&gt;&lt;BR&gt;Pendant qu'ils nous observent, traquez-les et éliminez-les tous&amp;nbsp;! Aucune pitié pour les traîtres à la patrie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">Ceux qui trahissent le royaume insultent la nature elle-même. Ils ont mérité leur sort.&lt;BR&gt;&lt;BR&gt;Le général {@LinkCreature:223#1003#Menani} a demandé comment vous vous en sortiez. Allez lui présenter votre rapport en vitesse.&lt;BR&gt;&lt;BR&gt;Ne lui faites pas perdre son temps, &lt;PCNAME&gt;. Tenez-vous-en aux faits&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1003">
+        <Page social="5">Dans cette période sombre pour notre royaume, vos efforts permettront peut-être de mettre un terme à ce conflit absurde et de rendre la stabilité à Poporia. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

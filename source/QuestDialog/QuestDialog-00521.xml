@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1008">
+        <Page social="4">Accepteriez-vous de me rendre un service, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Nema m'a demandé de récupérer des &lt;font color='#660000'&gt;fragments marqués&lt;/font&gt; sur les dépouilles des {@LinkCreature:18#14#golems empileurs}. Le problème, c'est que ces créatures me terrifient. Et évidemment, je ne peux rien en dire à Nema, parce que j'ai encore plus peur d'elle.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller me chercher ça&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1008">
+        <Page social="4">Oh, merci&amp;nbsp;! Je ne voulais pas énerver Nema.&lt;BR&gt;&lt;BR&gt;Vous pourriez peut-être garder tout ça pour vous&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1008">
+        <Page social="0">Oh, faites vite. Nema m'attend déjà depuis un moment.</Page>
+    </Text>
+</QuestDialog>

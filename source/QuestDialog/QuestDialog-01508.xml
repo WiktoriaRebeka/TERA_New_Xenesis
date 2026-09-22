@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Vous avez obtenu l'accord écrit des marchands d'insignes et demandé que Thro vous accompagne. &lt;BR&gt;Thro a accepté de fabriquer le canon de siège et vous a demandé de lui en procurer le composant essentiel, de l'œil rouge. Vous avez récupéré de l'œil rouge dans la Coulée de Pointequeue et l'avez rapporté à Thro. &lt;BR&gt;Une fois le canon de siège terminé, vous avez tenté d'abattre Exodor mais celui-ci a dévié le tir, qui a alors détruit la Base avancée.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez obtenu l'accord écrit des marchands d'insignes et demandé à ce que Thro vous accompagne. &lt;BR&gt;Thro a accepté de fabriquer le canon de siège et vous a demandé de lui en procurer le composant essentiel, de l'œil rouge. Vous avez récupéré de l'œil rouge dans la Coulée de Pointequeue et l'avez rapporté à Thro. &lt;BR&gt;Une fois le canon de siège terminé, vous avez tenté d'abattre Exodor mais celui-ci a dévié le tir, qui a alors détruit la Base avancée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6003">
+        <Page social="4" voiceTypeId="0">Ainsi, vous avez vraiment obtenu leur accord.&lt;BR&gt;Je dois admettre que vous êtes déterminé.&lt;BR&gt;&lt;BR&gt;Cet Exodor que vous avez mentionné, c'est une immense forteresse volante. La forge du village est bien trop rudimentaire pour permettre la fabrication d'un canon de siège capable de l'abattre.&lt;BR&gt;&lt;BR&gt;Oui, il nous faudra au moins utiliser l'atelier de Muhrak, le forgeron légendaire d'Habere.&lt;BR&gt;Allons trouver le forgeron. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6003">
+        <Page social="0">Sans l'accord des marchands d'insigne, je ne peux pas vous accompagner.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="79" prevId="3" villagerId="1036">
+        <Page social="0" voiceTypeId="0">Ah, vous êtes sûrement &lt;PCNAME&gt;. &lt;BR&gt;Qu'est-ce qui vous amène ici ? &lt;BR&gt;Vous êtes ici pour l'entretien de vos armes ? &lt;BR&gt;&lt;BR&gt;Ce Castanic n'est tout de même pas... ?&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que ça a d'étonnant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">N'est-ce pas celui qui est considéré comme l'égal du forgeron Muhrak, du laboratoire du Mysterium ? On prétend que son arrogance est aussi prodigieuse que son talent. &lt;BR&gt;&lt;BR&gt;J'ai entendu dire que la puissance de feu des armes de ce Castanic surpasse n'importe quel sort de feu d'un grand Sorcier. Apparemment, il s'est distingué pendant la guerre argonne.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous vous entourez toujours d'éminents personnages, hein ?&lt;NEXTPAGEBUTTON&gt;"Ce n'était pas vraiment mon intention de départ."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Muhrak travaille dans sa forge.&lt;BR&gt;Je vous en prie, entrez-y donc.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="5" villagerId="5001">
+        <Page social="0" voiceTypeId="0">Ah, voilà deux invités de marque ! &lt;BR&gt;Je suis ravi de vous voir, mais votre visite à tous les deux signifie sans doute que les nouvelles ne sont pas bonnes. &lt;BR&gt;Alors, quelle est la raison de votre visite ? &lt;NEXTPAGEBUTTON&gt;"Il nous faut des armes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Des armes ? Vous m'avez déjà l'air de porter une arme de premier choix. Cela ne signifie bien sûr pas que je suis incapable de vous en fabriquer une meilleure, ha, ha !&lt;BR&gt;&lt;BR&gt;Il y a eu un nouveau soulèvement des révolutionnaires ? &lt;BR&gt;Vous voulez utiliser le canon de siège qui a servi pendant la guerre argonne ?  &lt;NEXTPAGEBUTTON&gt;"Il nous faut une arme encore plus puissante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Qu'est-ce que ça veut dire ?&lt;BR&gt;Il est donc si fort que ça, cet adversaire ?&lt;NEXTPAGEBUTTON&gt;"Il s'agit d'Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Une maladie qui transforme le corps en gemme, j'en ai aussi entendu parler. Je ne peux pas rester les bras croisés. &lt;BR&gt;&lt;BR&gt;Bien, je n'ai donc pas d'autre choix que de collaborer avec Thro pour fabriquer un nouveau canon de siège. &lt;BR&gt;J'aimerais vous prier de nous procurer les matériaux nécessaires !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="411" prevId="6" villagerId="6000">
+        <Page social="0" voiceTypeId="0">Pour réaliser les plans de canon de siège dévastateur que j'ai en tête, il nous faut un bon atelier. &lt;BR&gt;&lt;BR&gt;Un atelier délabré comme celui de Castanica ou des autres villages ne fera jamais l'affaire. &lt;BR&gt;&lt;BR&gt;Je vais m'entretenir avec Muhrak au sujet du canon de siège.&lt;BR&gt;Attendez-moi ici.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="411" prevId="7" villagerId="6000">
+        <Page social="0" voiceTypeId="0">Soyez sur vos gardes ! &lt;BR&gt;C'est la chaleur qui règne là-dedans qui vous fait somnoler ?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Où est-ce que je dois aller maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai besoin de l'ingrédient essentiel du canon de siège, l'œil rouge. Certes, je pourrais me le procurer auprès de la Ligue des contrebandiers gobelins ou des marchands d'insignes, mais ce n'est pas une question d'argent. &lt;BR&gt;&lt;BR&gt;On ne peut jamais savoir combien de temps ça va leur prendre.&lt;BR&gt;Nous allons donc devoir nous procurer l'œil rouge nous-même.&lt;NEXTPAGEBUTTON&gt;"L'œil rouge ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ne me dites pas que ça ne vous dit rien. &lt;BR&gt;Il s'agit d'un minéral que l'on ne trouve qu'au cœur de la Coulée de Pointequeue dans les Gorges de Sienna. S'il est utilisé comme carburant du canon de siège, il lui permet de réduire n'importe quel adversaire en cendres. &lt;BR&gt;&lt;BR&gt;Je reste ici pour m'occuper du canon de siège. &lt;BR&gt;Je vais envoyer un messager à votre rencontre. Donnez-lui l'œil rouge quand vous en aurez trouvé. &lt;BR&gt;&lt;BR&gt;Il y a sans doute un ou deux chercheurs du Mysterium stationnés dans le Guet de la vouivre, vous pouvez les questionner au sujet de l'œil rouge. &lt;BR&gt;Même les chercheurs de seconde zone ont entendu parler de l'œil rouge.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="238" prevId="8" villagerId="1031">
+        <Page social="0" voiceTypeId="0">Bien le bonjour ! &lt;BR&gt;Je me présente, Zalik, chercheur du Mysterium. &lt;BR&gt;De quoi s'agit-il ? &lt;NEXTPAGEBUTTON&gt;"Que pouvez-vous me dire au sujet de l'œil rouge ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">C'est un minerai très rare et très rouge. &lt;BR&gt;Personnellement, je n'en ai encore jamais vu. Mais mon prédécesseur en a vu une fois. Et ce, en pleine guerre argonne, par-dessus le marché ! &lt;BR&gt;&lt;BR&gt;Seriez-vous venu jusqu'ici pour vous procurer de l'œil rouge ? &lt;BR&gt;Ce minerai est si précieux que votre fortune est faite si vous en trouvez le moindre fragment. Mais disons qu'en trouver n'est pas une mince affaire. &lt;NEXTPAGEBUTTON&gt;"Où puis-je trouver de l'œil rouge ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai entendu dire qu'ils ne poussent qu'au cœur de la Coulée de Pointequeue. Si je savais exactement où trouver de l'œil rouge, je ne serais pas ici ! Haha ! &lt;BR&gt;&lt;BR&gt;Soyez sur vos gardes, si vous comptez bel et bien partir à la recherche d'œil rouge. J'ai vu bien des gens partir à sa recherche, mais jamais personne en revenir.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="238" prevId="9" villagerId="3000">
+        <Page social="0" voiceTypeId="0">Mais qui voilà donc ? Vous ne seriez pas &lt;PCNAME&gt; ? &lt;BR&gt;&lt;BR&gt;Ça fait vraiment une paye ! &lt;BR&gt;Vous n'êtes sûrement pas ici pour étudier les Alkus.&lt;BR&gt;Qu'est-ce qui vous amène ?&lt;NEXTPAGEBUTTON&gt;"Je cherche de l'œil rouge."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">De l'œil rouge ? Seriez-vous venu ici pour trouver de l'œil rouge ? C'est un minerai extrêmement précieux qu'on n'en trouve guère que dans la Coulée de Pointequeue. &lt;BR&gt;&lt;BR&gt;Mais l'endroit abrite aussi des Alkus, surnommés aussi les flammes noires. &lt;BR&gt;Je connais vos talents de combattant, mais êtes-vous sûr de vouloir y aller seul ? &lt;NEXTPAGEBUTTON&gt;"Ne vous en faites pas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tenez, prenez ceci. &lt;BR&gt;C'est une potion contre les brûlures que je porte toujours sur moi depuis ma rencontre malencontreuse avec des Alkus, à Élénea. Ingurgitez-la si vous voulez éviter les cicatrices.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="38" prevId="10" villagerId="3000">
+        <Page social="0" voiceTypeId="0">C'est un minéral rouge. En plein soleil, il semble rouge écarlate, mais une fois dans la main il a des reflets plutôt bordeaux.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="38" prevId="11" villagerId="153">
+        <Page social="0" voiceTypeId="0">Vous êtes sûrement &lt;PCNAME&gt; ? Thro m'a chargé de récupérer de l'œil rouge.&lt;BR&gt;Voilà pourquoi j'ai attendu ici. &lt;BR&gt;&lt;BR&gt;Quand même... quelle couleur envoûtante ! &lt;BR&gt;&lt;BR&gt;Je n'aurais jamais cru en voir un jour de mes propres yeux.&lt;NEXTPAGEBUTTON&gt;"Je vous en prie, apportez-le à Thro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien entendu. Je vais faire de mon mieux pour l'apporter sans encombres à Thro. &lt;BR&gt;&lt;BR&gt;Cependant, un camarade s'est fait attaquer par un Alkus et a été gravement brûlé. Pourriez-vous l'aider ? &lt;BR&gt;Il souffre le martyre.&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Merci bien. Pourriez-vous cueillir une fleur de Salixia qui pousse dans les parages et l'apporter à Berus ? &lt;BR&gt;&lt;BR&gt;Elle ne permettra de le guérir complètement, mais atténuera considérablement ses douleurs.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="38" villagerId="153">
+        <Page social="0">Je vous confie de l'œil rouge.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="38" prevId="12" villagerId="154">
+        <Page social="0" voiceTypeId="0">*argh*&lt;BR&gt;Je m'évanouis !</Page>
+    </Text>
+    <Text id="15" huntingZoneId="38" villagerId="154">
+        <Page social="0">*argh*</Page>
+    </Text>
+    <Text id="16" huntingZoneId="38" prevId="14" villagerId="157">
+        <Page social="0" voiceTypeId="0">*kof* *pfiou* J'ai enfin le sentiment de pouvoir respirer. &lt;BR&gt;&lt;BR&gt;Merci bien. Et tout ça, alors que je suis un Aman. *argh*&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je n'oublierai jamais ce que vous avez fait pour moi. &lt;BR&gt;Si je parviens un jour à devenir un maître d'armes, je vous fabriquerai une arme exceptionnelle, gardien. &lt;BR&gt;&lt;BR&gt;Rejoignez vite la Base avancée. &lt;BR&gt;Thro y est sans doute arrivé avec le canon de siège finalisé.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="182" prevId="16" villagerId="6017">
+        <Page social="0" voiceTypeId="0">Ah, vous voilà, &lt;PCNAME&gt;. &lt;BR&gt;Il paraît que vous êtes allé dans l'atelier de Muhrak. Je n'aurais jamais pensé revoir Thro. &lt;BR&gt;Vous êtes vraiment incroyable.&lt;BR&gt;&lt;BR&gt;Avec le canon de siège de Thro, nous allons à coup sûr réussir à abattre Exodor.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="182" prevId="17" villagerId="6005">
+        <Page social="0" voiceTypeId="0">Ainsi, cette chose gigantesque qui plane au-dessus des flots est ce fameux Exodor dont vous m'avez parlé. &lt;BR&gt;&lt;BR&gt;Mais après tout, qu'importe : avec mon canon de siège, ce sera bientôt de l'histoire ancienne. &lt;NEXTPAGEBUTTON&gt;"Exodor pourrait s'avérer bien plus dangereux que les argons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Cherchez-vous à dénigrer mon canon de siège ? &lt;BR&gt;Un seul tir de mon canon fera l'affaire !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="182" prevId="18" villagerId="6049">
+        <Page social="0" voiceTypeId="0">Oui, le canon de siège de Thro ne fera qu'une bouchée d'Exodor. &lt;NEXTPAGEBUTTON&gt;"Des incidents notables se sont-ils produits pendant que je cherchais les matériaux ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous étions tous sur nos gardes, mais pas le moindre mouvement à signaler jusqu'à présent. &lt;BR&gt;&lt;BR&gt;Nous devons nous débarrasser de cette chose avant qu'elle ne se déplace. Pourriez-vous mettre le canon de siège en marche, gardien ?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="20" huntingZoneId="182" prevId="19" villagerId="6016">
+        <Page social="0" voiceTypeId="0">Comment est-ce possible ?&lt;BR&gt;&lt;BR&gt;(Le bouclier érigé de toute urgence a permis d'éviter les blessures, mais le choc semble avoir abasourdi tout le monde.)&lt;NEXTPAGEBUTTON&gt;"Commencez par vous calmer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je n'avais encore jamais vu une telle puissance. &lt;BR&gt;Nous avons établi un bouclier magique pour repousser l'assaut, mais pour étendre un bouclier sur toute la Base avancée...&lt;BR&gt;&lt;BR&gt;Oh non, les soldats !</Page>
+    </Text>
+    <Text id="21" huntingZoneId="182" prevId="20" villagerId="6014">
+        <Page social="0" voiceTypeId="0">L'attaque ne venait pas de là-bas ! &lt;BR&gt;&lt;BR&gt;(Thro s'essuie négligemment le sang du visage.)&lt;BR&gt;&lt;BR&gt;C'était le ricochet de l'attaque de mon canon de siège. &lt;BR&gt;Comment peuvent-ils disposer d'une telle force ? &lt;NEXTPAGEBUTTON&gt;"Nous devrions tout d'abord nous occuper de nos blessures."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je l'ai vu de mes propres yeux.&lt;BR&gt;Cette étrange lumière violette me donne la sensation de devenir aveugle.&lt;NEXTPAGEBUTTON&gt;"La lumière violette ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'ai tout d'abord pensé que l'adversaire nous attaquait avec un rayon puissant, comme moi avec mon canon de siège. &lt;BR&gt;&lt;BR&gt;Mais ce n'était pas le cas. Ça ne fait aucun doute : c'était le ricochet de l'attaque de mon canon de siège. L'attaque nous a été renvoyée au moment précis où la lumière violette a resplendi.&lt;BR&gt;Je l'ai vu de mes propres yeux !&lt;NEXTPAGEBUTTON&gt;"Par chance, aucune blessure grave n'est à déplorer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vais bien, occupez-vous plutôt des autres soldats. &lt;BR&gt;L'inefficacité du canon de siège... est difficile à avaler.</Page>
+    </Text>
+</QuestDialog>

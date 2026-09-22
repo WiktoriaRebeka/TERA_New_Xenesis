@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1034">
+        <Page social="5">Nous avons remarqué que le régime alimentaire des fouaille-tripes était principalement composé de {@LinkCreature:6#2011#phacochères arpente-collines} et d'{@LinkCreature:6#2031#ours gloutons}... sans parler de nous, en dépit de nos efforts pour rester en dehors de leur chaîne alimentaire.&lt;BR&gt;&lt;BR&gt;Si vous alliez les priver de cette réserve de gibier, ils finiraient peut-être par aller chercher de quoi se nourrir ailleurs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1034">
+        <Page social="5">Voilà une bonne chose de faite&amp;nbsp;! Maintenant, ils vont se mettre en quête d'un nouveau territoire, à moins qu'ils ne continuent de s'en prendre à nous, auquel cas nous les exterminerons jusqu'au dernier.</Page>
+    </Text>
+</QuestDialog>

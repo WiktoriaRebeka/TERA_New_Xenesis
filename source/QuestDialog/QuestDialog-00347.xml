@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Salutations, &lt;PCNAME&gt;. J'ai une mission délicate à vous confier&amp;nbsp;; seule une personne aussi qualifiée que vous peut la mener à bien.&lt;BR&gt;&lt;BR&gt;Des rapports font mention de l'apparition de pirates sur l'Ile des Brumes, à l'est d'ici. La hiérarchie a demandé un supplément d'information, mais vous savez comment ça se passe dans ces cas-là... C'est nous qu'on envoie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Un corps expéditionnaire de l'épée de Kaia se trouve actuellement sur l'île. Rejoignez-le et occupez-vous de ces corsaires.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1001">
+        <Page social="4">Si vous arrivez du Port Coupe-gorge, c'est que les soldats y sont en surnombre. Les habitants du port ont de la chance.&lt;BR&gt;&lt;BR&gt;En ce qui nous concerne, il n'est pas question que nous nous passions de vos services. Bienvenue à bord, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Il se passe quelque chose de pas net. {@LinkCreature:50#1002} est en retard, et ça ne lui arrive jamais.&lt;BR&gt;&lt;BR&gt;J'ai peur qu'il ait fait une découverte intéressante dans les cavernes souterraines et qu'il ait complètement perdu la notion du temps... A moins qu'il ne soit allé se jeter dans les griffes des argons.&lt;BR&gt;&lt;BR&gt;Vous pourriez vous mettre à sa recherche&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Je suis content de vous revoir. Quel bon vent vous amène&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je connais quelqu'un qui s'inquiète pour vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Je ne connais pas un botaniste digne de ce nom qui laisserait passer sa chance d'explorer les Cavernes de Viridia. La résistance de la flore locale est tout simplement stupéfiante.&lt;BR&gt;&lt;BR&gt;Et puis... je me suis un peu perdu.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Les légendes disent que Yurian a béni les Cavernes de Viridia et que l'on doit ce miracle à la dévotion absolue d'une castanic célèbre. Cela pourrait expliquer la résistance des plantes qui poussent ici.&lt;NEXTPAGEBUTTON&gt;"Cette castanic, c'était une guerrière&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Non, non... Une grande romantique.&lt;BR&gt;&lt;BR&gt;Elle se nommait Imalia et elle adorait ces cavernes. Elle en prenait grand soin. On la considérait d'ailleurs un peu comme la protectrice des lieux.&lt;BR&gt;&lt;BR&gt;Un jour, elle fit la rencontre de Tiparius, un homme qui était venu se réfugier dans les cavernes. Il lui suffit de croiser son regard pour tomber éperdument amoureuse.&lt;NEXTPAGEBUTTON&gt;"Ce n'était pas juste de la solitude&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est le mot... et ce fut réciproque. Pendant un temps, ils formèrent le couple le plus heureux de Shara.&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ensuite&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tiparius avait besoin de changement. Il avait passé suffisamment de temps dans le nord de Shara à son goût et Castanica lui manquait.&lt;BR&gt;&lt;BR&gt;Imalia était déchirée entre son amour pour lui... et celui qu'elle avait pour cet endroit. Tiparius la supplia de le suivre, mais elle finit par choisir de rester ici.&lt;NEXTPAGEBUTTON&gt;"Elle a préféré une grotte à l'amour&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Non, non... C'est simplement le sens du devoir qui a primé. Yurian bénit cet endroit pour la récompenser de sa dévotion et lui assurer que son sacrifice n'aurait pas été vain.&lt;BR&gt;&lt;BR&gt;Bon, et maintenant... Si nous tâchions de trouver {@LinkCreature:250#1002}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Pour tout dire, je suis complètement perdu. Je dois retrouver {@LinkCreature:250#1002}, mais impossible de me souvenir du chemin à prendre. Il doit être mort d'inquiétude.&lt;BR&gt;&lt;BR&gt;Vous pourriez m'aider à trouver la sortie&amp;nbsp;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="50" villagerId="39">
+        <Page social="0">On sort&amp;nbsp;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="1022">
+        <Page social="6">Merci d'avoir aidé un botaniste légèrement étourdi à rentrer au bercail.&lt;BR&gt;&lt;BR&gt;La prochaine fois que j'irai m'aventurer dans un réseau de galeries, je penserai à prendre de la craie.</Page>
+    </Text>
+</QuestDialog>

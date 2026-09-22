@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous êtes un soldat exceptionnel, &lt;PCNAME&gt;. Nous aimerions vous offrir une autre récompense&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Vous pouvez la récupérer auprès de {@ linkcreature: 63 # 9000} à Velika. Merci pour tout ce que vous avez fait pour nous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9000">
+        <Page social="0">Récompenses, récompenses, récompenses. Je ne vous ai jamais entendu parler d'autre chose.&lt;BR&gt;&lt;BR&gt;Et ma récompense alors&amp;nbsp;? Comment suis-je remercié pour mon dur labeur, tous ces objets que je présente à longueur de journées&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, d'accord. Donnez-moi vos billets de la Fédération et voyons-voir ce que vous pouvez vous offrir.</Page>
+    </Text>
+</QuestDialog>

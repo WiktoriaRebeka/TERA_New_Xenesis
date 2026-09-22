@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="4">Chaque étage de Raga Evala semble avoir servi à mener des recherches botaniques de pointe, sur l'évolution des plantes, le métabolisme énergétique, ce genre de choses.&lt;BR&gt;&lt;BR&gt;Votre formation militaire ne couvre pas ces sujets&amp;nbsp;? Ce n'est guère étonnant.&lt;BR&gt;&lt;BR&gt;Je pense que les argons essayaient de faire évoluer des plantes pour les transformer en énergie pure. Ils les faisaient pousser dans des réservoirs d'eau. Ramenez-moi des échantillons, mais n'allez pas évoluer en énergie pure à votre tour&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1036">
+        <Page social="4">Ils sont allés plus loin qu'on ne le pensait. Il faut prévenir la directrice.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1036">
+        <Page social="0">Veuillez détruire les {@Creature:46#7004#extracteurs aquaas} dans les pièces adjacentes et rassemblez des échantillons.&lt;BR&gt;&lt;BR&gt;Je veux savoir si ces plantes peuvent vraiment évoluer pour devenir de l'énergie pure.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1103">
+        <Page social="4">Des preuves que les plantes peuvent se synthétiser elles-mêmes&amp;nbsp;? Cela fournirait une énergie sans limite aux argons...</Page>
+    </Text>
+</QuestDialog>

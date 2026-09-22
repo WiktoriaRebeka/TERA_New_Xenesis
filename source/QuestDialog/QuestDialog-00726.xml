@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="4">Vous voyez ce castanic, là-bas&amp;nbsp;? Deigan&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Oui, pourquoi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Il me suit partout comme un Popori énamouré. Il me tourne autour, mais... c'est tout ce qu'il fait.&lt;BR&gt;&lt;BR&gt;Je n'ai pas de temps à perdre avec ses petits jeux. S'il est trop couard pour se déclarer, il n'a qu'à aller draguer les gulas.&lt;BR&gt;&lt;BR&gt;Débarrassez-moi de lui, entendu&amp;nbsp;? Moquez-vous de lui, humiliez-le, bref... faites le nécessaire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1020">
+        <Page social="4">Quoi&amp;nbsp;? Je ne suis pas un lâche&amp;nbsp;! C'est juste que... je prends mon temps.&lt;BR&gt;&lt;BR&gt;Et puis, regardez-moi un peu cet os&amp;nbsp;! Il faut des tripes pour obtenir ce genre de trophées au combat.&lt;BR&gt;&lt;BR&gt;Allez lui montrer ça. Cela devrait lui rabattre le caquet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1015">
+        <Page social="4">Quel boulet... Comme si j'allais me laisser impressionner par un os. N'importe quel crétin peut tuer un ossugon.&lt;BR&gt;&lt;BR&gt;Désolée de vous avoir {@gender:embarqué/embarquée} là-dedans, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[&lt;PCNAME&gt;, pour vous remercier de nous avoir aider à sortir de cette crise, je voudrais vous offrir un petit cadeau.&lt;BR&gt;&lt;BR&gt;J'espère qu'il vous sera utile lors de vos pérégrinations.&lt;BR&gt;&lt;BR&gt;-Eleon</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="9000">
+        <Page social="0">Etes-vous prêt à recevoir de nouveaux objets exceptionnels&amp;nbsp;? J'espère que vous avez apporté vos billets de la Fédération&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

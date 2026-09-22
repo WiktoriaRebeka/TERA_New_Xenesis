@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Salutations, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Non, nous n'avons jamais été présentés, mais tout le monde vous connaît. A la caserne, le bruit court que Dirken serait prêt à payer cher toute information susceptible de vous nuire.&lt;BR&gt;&lt;BR&gt;En ce qui me concerne, Dirken et son argent sale peuvent aller se faire voir, mais tout le monde n'a pas ma classe et mon sens indéfectible de la loyauté.&lt;BR&gt;&lt;BR&gt;Vous devriez chercher à gagner la sympathie de vos nouveaux frères d'armes. Le meilleur moyen consisterait à éliminer un certain nombre de {@LinkCreature:12#8#tueurs du Fouet rouge} et de nous rapporter leurs armes. Ca impressionnera les hommes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="4">Croyez-moi, tout le monde saura bientôt que ces épées sont porteuses d'un message&amp;nbsp;: "&lt;PCNAME&gt; est là, et ça va barder".&lt;BR&gt;&lt;BR&gt;Et j'en enverrai peut-être une à Dirken avec une note du style&amp;nbsp;: "Cher Dirken, en arrachant cette épée au cadavre d'un ennemi, je n'ai pas pu m'empêcher de penser à vous..."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1008">
+        <Page social="0">Ecoutez, si vous restez là à ne rien faire, vous allez vous faire une réputation de traîne-savates, et personne n'aime ça.&lt;BR&gt;&lt;BR&gt;Franchement, peut-on imaginer qualificatif moins flatteur pour un soldat... "traîne-savates". Difficile à dire sans glousser de mépris.&lt;BR&gt;&lt;BR&gt;"Traîne-savates"... hé hé hé&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

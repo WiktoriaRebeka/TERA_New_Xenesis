@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="120" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="26">C'est moi le chef ici, et comme vous le savez, notre village doit faire face à un grand danger. J'espère que vous pourrez ramener la paix ici.&lt;BR&gt;&lt;BR&gt;Quand vous voudrez y aller, faites-le-moi savoir, les gardes sont prêts.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="14" voiceTypeId="26">Quand la bataille commencera, j'irai me cacher dans les ruines du village.&lt;BR&gt;Dites-moi si je peux vous aider.&lt;TEXTBUTTON&gt;"C'est bon pour moi."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Compris."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

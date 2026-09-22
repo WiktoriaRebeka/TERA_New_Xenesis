@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="4">Les {@LinkCreature:40#17#loups mutagènes} se rapprochent de jour en jour. Autrefois, nous avons juré que jamais nous ne quitterions cet endroit, mais nos vies pourraient bien en dépendre.&lt;BR&gt;&lt;BR&gt;Est-ce que &lt;PCNAME&gt; va nous aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1016">
+        <Page social="4">La défense arrivera bientôt pour terminer le travail, et pour l’instant, il y a beaucoup moins de loups. Nous reprenons espoir.</Page>
+    </Text>
+</QuestDialog>

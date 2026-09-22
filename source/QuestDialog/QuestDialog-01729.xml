@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="22008">
+        <Page social="1">Bonjour l'ami{@g:/e}. J'ai entendu dire que votre champ de compétence était impressionnant mais vous savez, il est toujours possible de s'améliorer.&lt;BR&gt;&lt;BR&gt;Rendez-vous dans les caveaux, tuez un {@linkcreature:124#102#Cyclope}, un {@linkcreature:125#103#Dracoloth} ou un {@linkcreature:126#104#Déchireur vulcain} et ramenez son cœur pour prouver que vous avez bien rempli votre besogne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="22008">
+        <Page social="4">Bien joué, l'ami&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'espère que nos caveaux vous ont aidé à perfectionner vos compétences.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="22008">
+        <Page social="0">Que l'Union l'emporte&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

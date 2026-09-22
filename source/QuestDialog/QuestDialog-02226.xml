@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez aidé le clan des Consos à nettoyer le jardin autour du temple.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Avez-vous parlé à Nahad&amp;nbsp;? Il a besoin d'aide pour nettoyer le jardin du temple.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je peux aller l'aider.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Oh, &lt;PCNAME&gt;. Je suis heureux de vous voir. Merci beaucoup de m'avoir aidé. Entre les ordures, le graffiti et les vampires, je ne sais plus où donner de la tête. &lt;NEXTPAGEBUTTON&gt;&amp;quot;En quoi puis-je vous aider&amp;nbsp;?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Merci de nous avoir apporté votre aide au temple.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Merci de nous avoir apporté votre aide au temple.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">Merci de nous avoir apporté votre aide au temple.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Un récipient pour les déchets.&lt;NEXTPAGEBUTTON&gt;Fermez le couvercle.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Veuillez accepter ceci en guise de remerciement.</Page>
+    </Text>
+</QuestDialog>

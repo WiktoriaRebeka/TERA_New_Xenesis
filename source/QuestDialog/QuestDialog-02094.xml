@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3510#Surdan} a demandé des renforts sur le terrain. Naturellement, nous avons pensé à vous.&lt;BR&gt;&lt;BR&gt;Allez à la Base de la Ténacité et rendez-vous utile.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="4">Oh, oui. Nous avons tant de choses à étudier et si peu de temps.&lt;BR&gt;&lt;BR&gt;Vous pourriez vraiment m'aider en collectant différents spécimens à étudier. Cela ne devrait pas représenter un trop grand défi pour un soldat de votre trempe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Ah, de l'ichor de crapaud cornu. Surprenant.&lt;BR&gt;&lt;BR&gt;Je perçois quelques différences intrigantes dues à une contamination argone, cela ne fait aucun doute.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3510">
+        <Page social="0">L'ichor des {@LinkCreature:45#2002#crapauds cornus argonomorphes} fera un très bon échantillon à étudier.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Je vais procéder à des analyses de sang pour déterminer l'origine de la contamination.&lt;BR&gt;&lt;BR&gt;Espérons que ça donnera quelque chose.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3510">
+        <Page social="0">Le sang contaminé des {@linkcreature:45#2001#pestesangs argonomorphes} ferait un très bon sujet d'étude.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Nous parviendrons peut-être à trouver un lien entre ces créatures contaminées. Merci.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3510">
+        <Page social="0">Je voudrais analyser les lentilles d'eau qui se développent près de l'habitat naturel des {@LinkCreature:45#2002#crapauds cornus argonomorphes}.&lt;BR&gt;&lt;BR&gt;Cela nous permettra sans doute d'identifier les effets de la transmutation.</Page>
+    </Text>
+</QuestDialog>

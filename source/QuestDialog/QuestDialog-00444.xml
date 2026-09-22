@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="5">Ces demi-portions de chercheurs... Sans protection, ils n'ont pas la moindre chance de survivre. C'est bien pour ça que nous sommes là.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:15#8#tranchelards castanics mutants} et les {@LinkCreature:15#9#assommeurs amans mutants} sont des armes mortelles ambulantes&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mais je parierais que vous avez de quoi les désarmer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Montrez-moi ce que vous valez et rapportez-moi quelques trophées...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1018">
+        <Page social="5">Qu'est-ce que c'est que ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ils se promènent avec ces petites poupées de cochons au combat&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il va falloir faire rentrer ça dans nos inventaires à la case "totems porcins".</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1018">
+        <Page social="0">Qu'est-ce que vous attendez&amp;nbsp;? Ce n'est qu'une bande de mutants&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

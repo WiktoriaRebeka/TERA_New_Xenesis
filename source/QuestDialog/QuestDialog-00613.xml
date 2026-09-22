@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="5">{@LinkCreature:223#1054$$Dullulu} est parti voir ce qui se passait à l'Académie Eldritch. Apparemment, les lieux regorgent de créatures dangereuses. Si vous comptez y aller, demandez-lui de vous faire un topo&amp;nbsp;: il vous dira de quoi vous méfier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1054">
+        <Page social="5">Le topo va être vite fait&amp;nbsp;: si vous vous rendez sur place malgré mes avertissements, vous y perdrez la tête ou la vie... Voilà.&lt;BR&gt;&lt;BR&gt;Si malgré tout vous décidez d'y aller, essayez d'éliminer un maximum de {@LinkCreature:22#4#centaures vadomas}, d'{@LinkCreature:22#5#artisans bonnets-rouges} et de {@LinkCreature:22#3#fabricants de baguette bonnets-rouges}.&lt;BR&gt;&lt;BR&gt;Si nous voulons pouvoir prêter main-forte au château, il faut commencer par dégager une route permettant d'y accéder.&lt;NEXTPAGEBUTTON&gt;"Vous pouvez compter sur moi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Merci, &lt;PCNAME&gt;. Vous êtes quelqu'un de bien, on vous l'avait déjà dit&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" prevId="3" villagerId="1005">
+        <Page social="5">Oh, vous avez tué un bon paquet de centaures et de bonnets-rouges. Je remercie les dieux de votre intervention. Ici, les périls qui nous guettent sont pléthore. Maintenant que la route est dégagée, d'autres personnes vont pouvoir venir nous porter secours.&lt;BR&gt;&lt;BR&gt;Avec l'aide de soldats de votre trempe, nous avons peut-être une chance de nous en sortir.</Page>
+    </Text>
+</QuestDialog>

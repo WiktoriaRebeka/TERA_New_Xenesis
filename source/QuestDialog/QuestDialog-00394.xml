@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1028">
+        <Page social="4">Je me moque de ce que raconte Dulari. Un arbre qui marche, c'est tout sauf naturel. Et ceux du coin sont bien pires que ceux de son campement. Chez nous, ces {@LinkCreature:13#300932#ghilliedhus cornus} n'ont pas d'équivalent.&lt;BR&gt;&lt;BR&gt;Jirash est au courant du problème et il se moque bien que je sois forcé de chasser ces monstres du périmètre toutes les cinq minutes. Vous m'ôteriez une belle épine du pied en exterminant quelques ghilliedhus pendant que vous vaquez à vos occupations.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1028">
+        <Page social="4">J'ai une question à vous poser&amp;nbsp;: avez-vous trouvé ces ghilliedhus plus dangereux que ceux du nord ou pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous n'avez pas vu la différence&amp;nbsp;? C'est ce que je leur répète sans cesse&amp;nbsp;! Les chercheurs sont convaincus que ceux du coin sont affaiblis par quelque chose.&lt;BR&gt;&lt;BR&gt;Ça ne change en rien notre mission, cela dit. Tout ce qui représente un danger pour la base doit être détruit aussi vite que possible.</Page>
+    </Text>
+</QuestDialog>

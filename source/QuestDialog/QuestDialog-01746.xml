@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">Une tentative visant à réparer le moteur de l'Intrépide a échoué, mais la mission continue.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">J'ai retrouvé un composant du moteur de l'Intrépide. Je ne suis pas certain de ce que j'avance, mais il pourrait être possible de le réparer.&lt;BR&gt;&lt;BR&gt;Seriez-vous disposé{@g:/e} à m'aider à retrouver les composants&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ah, et soyez prudent{@g:/e}&amp;nbsp;! Ça pullule d'oiseaux en rogne dans les environs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1200">
+        <Page social="4">Et maintenant, retrouvons le moteur. Si l'on se fie à la disposition des pièces dispersées, il doit se situer sur cette colline.&lt;BR&gt;&lt;BR&gt;Vous allez devoir combattre ces Parthes, mais je ne m'en fais pas. Vous allez vous en sortir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1200">
+        <Page social="0">Non. Ce n'est pas encore sûr.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1401">
+        <Page social="4">Je ne suis pas ingénieur, mais ça a l'air récupérable.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je crains que non."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Alors quittons ce camp putride.&lt;BR&gt;&lt;BR&gt;Rhodos nous attend, au-delà de ces loups Griffe-sangs. Je vous retrouve là-bas. Soyez prudent{@g:/e}&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1406">
+        <Page social="4">Ravi de vous revoir.&lt;BR&gt;&lt;BR&gt;Comment se porte cet énorme engin avec lequel vous êtes venus ici&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Il est irréparable."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Quel dommage&amp;nbsp;! Un tel appareil nous aurait donné un avantage pour la bataille.</Page>
+    </Text>
+</QuestDialog>

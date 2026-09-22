@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Les ksharans ont tué mon mari, &lt;PCNAME&gt;, et je veux le venger.&lt;BR&gt;&lt;BR&gt;Après tout ce que nous avons traversé côte à côte, lui et moi, je n'aurais jamais imaginé que nous puissions être séparés.&lt;BR&gt;&lt;BR&gt;Mais, je vous préviens, ces ksharans sont redoutables. Mon pauvre mari n'a pas eu le temps de comprendre ce qui lui arrivait.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="6" voiceTypeId="0">Le sentiment de solitude que j'éprouve constamment ne s'en ira pas pour autant, mais je dois vous l'avouer...&lt;BR&gt;&lt;BR&gt;Vous m'avez rendu un peu le sourire. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1026">
+        <Page social="0">Vengez mon mari, &lt;PCNAME&gt;. Tuez ces ksharans&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

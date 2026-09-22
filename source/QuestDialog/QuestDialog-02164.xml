@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Tiens, j'ai une question pour vous, &lt;PCNAME&gt;. Pensez-vous qu'il serait plus douloureux de se faire éviscérer, ou trancher les doigts de la main gauche l'un après l'autre&amp;nbsp;? Bien sûr, la première option serait sans doute fatale, c'est pour ça que je l'imagine moins douloureuse.&lt;BR&gt;&lt;BR&gt;Pourquoi la main gauche&amp;nbsp;? Je pensais que c'était évident – il est gaucher.&lt;BR&gt;&lt;BR&gt;Vous pourriez demander à {@LinkCreature:63#3003#Elthienne} ce qu'elle en pense&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Quoi&amp;nbsp;? Elle vous a demandé ça&amp;nbsp;? Cette gamine va me tuer. Enfin, ce n'est sans doute pas moi qui dois m'en inquiéter, pour le moment. Son petit ami a dû faire quelque chose de grave, cette fois.&lt;BR&gt;&lt;BR&gt;Sinon, les Mains ont besoin que quelqu'un fasse une petite partie de chasse au Roc du Basilic. Vous êtes disponible&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Oh, vous revoilà&amp;nbsp;! Je voulais vous dire, j'ai choisi l'option numéro trois, la torture des gloussements terronne.&lt;BR&gt;&lt;BR&gt;Je savais que ça vous plairait.&lt;BR&gt;&lt;BR&gt;Merci, au fait. Allez voir {@LinkCreature:63#3003#Elthienne}, elle vous paiera.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Les Mains ont besoin de fabriquer des armes de fortune. Pour cela, il nous faut des écailles de {@LinkCreature:21#1#basilic mat vicieux}. Elles sont particulièrement solides et tranchantes.&lt;BR&gt;&lt;BR&gt;Allez au {@Rgn:21001#Roc du Basilic} et chassez-en pour nous.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ooh, vous avez pris le soleil, on dirait. Il faut dire que le climat au {@Rgn:21001#Roc du Basilic} est très chaud et très sec. Je ne supporte pas cet endroit.&lt;BR&gt;&lt;BR&gt;Prévenez {@LinkCreature:63#3003#Elthienne} que vous avez rapporté le nécessaire.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Les Mains ont besoin de fabriquer des armes de fortune. Pour cela, il nous faut des écailles de {@LinkCreature:21#2#basilic mat}. Elles sont solides et tranchantes.&lt;BR&gt;&lt;BR&gt;Allez au {@Rgn:21001#Roc du Basilic} et chassez-en pour nous.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Je ne pense plus du tout à lui.&lt;BR&gt;&lt;BR&gt;Qui ça&amp;nbsp;? Machin, là, bien sûr&amp;nbsp;! Je ne peux même pas prononcer son nom, tellement c'est un crétin&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Oh, vous avez les écailles. Super&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Prévenez {@LinkCreature:63#3003#Elthienne}. Et si elle vous dit que je vais retourner la voir "la queue entre les jambes" en un clin d'œil, ne la croyez pas. Elle n'y connaît rien en amour.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Les Mains ont besoin de fabriquer des armes de fortune. Pour cela, il nous faut des griffes d'{@LinkCreature:21#3#orisks vicieux}. Elles sont épaisses de plusieurs centimètres, et acérées comme des rasoirs.&lt;BR&gt;&lt;BR&gt;Allez au {@Rgn:21001#Roc du Basilic}, et faites attention&amp;nbsp;! N'abimez pas les griffes.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Quoi&amp;nbsp;? Oh, bonjour &lt;PCNAME&gt;. Non, je ne pleurais pas. Je... je vais bien.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} doit avoir... enfin, vous savez. Laissez-moi tranquille.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Les Mains ont besoin de fabriquer des armes de fortune, alors il nous faut des griffes d'{@LinkCreature:21#4#orisks brutaux}. Elles sont épaisses solides et tranchantes. Parfaites pour fabriquer des armes.&lt;BR&gt;&lt;BR&gt;Partez vers le {@Rgn:21001#Roc du Basilic}, et visez haut. Il ne faudrait pas abîmer ces griffes.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Ah, merveilleux&amp;nbsp;! Nous allons nous mettre à fabriquer nos armes. C'est incroyable, le nombre d'armes qu'on casse. Et nous n'avons pas les moyens d'acheter de jolies armes comme les vôtres. Les nôtres se cassent et s'usent, très vite.&lt;BR&gt;&lt;BR&gt;Enfin, ça veut dire qu'on s'en sert. Ce qui doit être une bonne nouvelle...</Page>
+    </Text>
+</QuestDialog>

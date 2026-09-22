@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1117">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1117">
+        <Page social="0">Des centaines de mercenaires des anciennes troupes de kaidun se trouvent encore au Pic de Suryati. Les argons ont pris le contrôle de leurs esprits, les rendant fous.&lt;BR&gt;&lt;BR&gt;Ils sont une menace...et ont assez souffert comme àa.&lt;BR&gt;&lt;BR&gt;Passez par le {@linkcreature:73#1501#téléportail} à l'Ossuaire et éliminez-les.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1117">
+        <Page social="4">Chaque fois que vous revenez me voir, j'espère toujours que ce sera le dernier sac d'effets personnels que j'aurai à identifier. Mais je sais bien que non. Je vous remercie d'effectuer cette mission ingrate.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" villagerId="1117">
+        <Page social="0">Ca me déchire le cœur de savoir qu'il reste encore un nombre considérable de soldats de Kaidun qui errent dans cette montagne.</Page>
+    </Text>
+</QuestDialog>

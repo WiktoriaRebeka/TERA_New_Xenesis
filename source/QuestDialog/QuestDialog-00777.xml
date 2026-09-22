@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="1">On m'a dit que les "récupérations" étaient votre spécialité, &lt;PCNAME&gt;. Enfin, ça et le chaos.&lt;BR&gt;&lt;BR&gt;Nous nous passerons du chaos mais vous pourriez récupérer quelque chose pour moi&amp;nbsp;: de la fourrure pour nos tanneries d'Allemantheia.&lt;BR&gt;&lt;BR&gt;Tout le monde chasse les rongeurs et autres petits animaux, mais je vous propose de passer à la catégorie supérieure. Allons tuer des ours rôde-plaines&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1027">
+        <Page social="1">Belle fourrures, camarade. Cousez-les pour en faire des vêtements de haute qualité, apportez-les à Allemantheia, et attendez que les clients viennent avec des brouettes d'argent.&lt;BR&gt;&lt;BR&gt;Et si vous êtes {@gender:prêt/prête} à rester ici un moment, nous pourrons nous faire encore plus d'argent.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1027">
+        <Page social="0">J'ouvre mon porte-monnaie à quiconque m'apporte des fourrures d'{@LinkCreature:30#200#ours rôde-plaines}. Vous savez à quoi ressemble un ours, non&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

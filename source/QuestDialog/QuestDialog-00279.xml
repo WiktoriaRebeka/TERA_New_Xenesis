@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="4">En temps de guerre, il est difficile de se procurer des articles de luxe. Tout fait les frais d'un rationnement strict.&lt;BR&gt;&lt;BR&gt;Prenez les produits cosmétiques, par exemple. J'ai entendu dire que Castanica en manquait en permanence. Et saviez-vous qu'il est possible de créer un mascara à partir des sabots des {@LinkCreature:10#9#entailleurs longues-défenses} du Rivage du Boa&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Si quelqu'un me rapportait ces sabots, je suis sûr que nous pourrions en "profiter".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1009">
+        <Page social="4">Oui, ça fera parfaitement l'affaire. Je vous remercie au nom de toutes les femmes de Castanica... et au nom des hommes qui les aiment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1009">
+        <Page social="0">Vous savez à quel point les Castanics aiment soigner leur apparence, &lt;PCNAME&gt;. Si vous me trouvez ces sabots d'{@LinkCreature:10#9#entailleurs longues-défenses}, nous en tirerons une belle somme.</Page>
+    </Text>
+</QuestDialog>

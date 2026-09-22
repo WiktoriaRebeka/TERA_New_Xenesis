@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5042" huntingZoneId="528" voiceTypeId="75" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="75">&lt;PCNAME&gt;, merci de vous rendre à Velika. &lt;BR&gt;&lt;BR&gt;Les demokrons des devans sévissent à Arun. Seir vous recherche, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="5" voiceTypeId="0">Nous arrivons de Velika.&lt;BR&gt;&lt;PCNAME&gt;, le commandant en chef vous fait appeler.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">Je compte vous envoyer à Velika quand vous aurez fini vos préparatifs.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Le commandant en chef aussi a pris une décision délicate. &lt;BR&gt;Vous en êtes conscient, n'est-ce pas, commandant Helkan ?</Page>
+    </Text>
+</VillagerDialog>

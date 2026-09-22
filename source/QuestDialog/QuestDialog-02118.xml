@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Nous avons reçu une demande de ravitaillement inhabituelle pour les catacombes.&lt;BR&gt;&lt;BR&gt;C'est une destination très dangereuse, mais vous êtes à la hauteur. Allez faire votre rapport à Artur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">Oui, j'ai besoin d'aide, on peut le dire&amp;nbsp;! {@LinkCreature:418#2006#Geik} a demandé à ce qu'on lui apporte des champignons de Cadmiel pour les tests sur les argons.&lt;BR&gt;&lt;BR&gt;Trouvez-en et allez le voir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2006">
+        <Page social="4">Quelle rapidité, &lt;PCNAME&gt;. Je n'ai envoyé ma requête qu'hier.&lt;BR&gt;&lt;BR&gt;Je brûle de voir comment ces champignons de Cadmiel vont agir sur la physiologie argone.&lt;BR&gt;&lt;BR&gt;J'espère seulement que cela ne les rendra pas plus forts&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Des avancées scientifiques importantes dépendent de ces champignons. Il me les faut, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2006">
+        <Page social="4">Quelle rapidité, &lt;PCNAME&gt;. Je n'ai envoyé ma requête qu'hier.&lt;BR&gt;&lt;BR&gt;Je brûle de voir comment ces champignons de Cadmiel vont agir sur la physiologie argone.&lt;BR&gt;&lt;BR&gt;J'espère seulement que cela ne les rendra pas plus forts&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Des avancées scientifiques importantes dépendent de ces champignons. Il me les faut, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2006">
+        <Page social="4">Quelle rapidité, &lt;PCNAME&gt;. Je n'ai envoyé ma requête qu'hier.&lt;BR&gt;&lt;BR&gt;Je brûle de voir comment ces champignons de Cadmiel vont agir sur la physiologie argone.&lt;BR&gt;&lt;BR&gt;J'espère seulement que cela ne les rendra pas plus forts&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Des avancées scientifiques importantes dépendent de ces champignons. Il me les faut, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

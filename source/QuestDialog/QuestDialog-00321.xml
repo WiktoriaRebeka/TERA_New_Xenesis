@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">Pas mal de choses sont stockées ici, et je n'ai pas le temps de tout examiner.&lt;BR&gt;&lt;BR&gt;Mais je connais un moyen de répondre à votre question. Si les pirates du Fouet rouge ont entreposé quoi que ce soit d'inhabituel ici, vous le trouverez certainement dans les documents placés sous la garde des {@LinkCreature:11#1003#vétérans du Fouet rouge}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">Voyons voir ça... Oui, des bombes, elles sont bien là. Et il y en a un paquet&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ils sont en train de les faire naviguer entre la réserve et le dock. Apparemment, il est également question d'une "pierre magique" dans la cargaison.&lt;BR&gt;&lt;BR&gt;Vous devriez aller prévenir Otus que ça ne va pas tarder à chauffer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1026">
+        <Page social="0">Allez récupérer les manifestes des {@LinkCreature:11#1003#Vétérans du Fouet rouge}, et nous connaîtrons le fin mot de l'histoire.</Page>
+    </Text>
+</QuestDialog>

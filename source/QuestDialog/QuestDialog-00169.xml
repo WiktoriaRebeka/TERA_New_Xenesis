@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Pendant que vous vous occupiez des fouaille-tripes, vous ne n'auriez pas fait la rencontre d'une certaine {@LinkCreature:206#1020#Dakona}&amp;nbsp;? Elle garde l'avant-poste temporaire établi au nord de la Ferme de l'écho et elle doit s'y sentir plutôt seule.&lt;BR&gt;&lt;BR&gt;Pour tout vous dire, je m'inquiète un peu pour elle. L'isolement doit être extrêmement difficile à supporter.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller voir comment elle se porte&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="13">Lethar vous envoie prendre de mes nouvelles&amp;nbsp;? Vraiment&amp;nbsp;? Quel imbécile...&lt;BR&gt;&lt;BR&gt;On dirait que le seul moyen dont il dispose pour démontrer aux autres une certaine affection consiste à leur faire ressentir qu'il n'a aucune confiance en leurs capacités... Je vous jure...</Page>
+    </Text>
+</QuestDialog>

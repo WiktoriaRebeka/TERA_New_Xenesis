@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">S'il vous plaît... aidez-moi, &lt;PCNAME&gt;&amp;nbsp;! Mon dracoloth apprivoisé est malade, il va mourir. Il est tellement faible qu'il ne peut plus bouger. La seule chose qui pourrait le sauver, ce serait une greffe cardiaque&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je peux pratiquer l'opération, mais il me faut un organe compatible. Il y a un dracoloth près d'ici, Nyxarras, qui terrorise la région. Si vous tuez cette menace publique et que vous me rapportez son cœur encore battant, ce serait une aide miraculeuse pour tout le monde, et cela sauverait mon cher petit. Je vous en prie, faites ça pour moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1027">
+        <Page social="5">Vous l'avez&amp;nbsp;? Et il bat encore&amp;nbsp;? Fantastique&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Donnez-le-moi, vite&amp;nbsp;! La vie de mon cher trésor ne tient qu'à un fil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1027">
+        <Page social="0">Ne traînez pas, une fois que vous tiendrez le cœur battant de Nyxarras entre vos mains.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Aider l'Invalesco]&lt;BR&gt;&lt;BR&gt;{@LinkCreature:77#3001#Nithan}, le Haut inquisiteur de l'Invalesco, vous demande d'aller à l'{@Rgn:77001$$Avant-poste du Pionnier}.&lt;BR&gt;&lt;BR&gt;Si vous êtes d'accord, l'Invalesco va vous proposer plusieurs missions qui joueront dans notre combat contre les argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3001">
+        <Page social="4">Au nom de l'Invalesco, je vous souhaite la bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Votre réputation est venue jusqu'à nous, et même bien au-delà. Nous aimerions bénéficier de vos services. Nous avons dans nos rangs les intellectuels les plus éminents, mais ils ne savent pas se battre. Aidez-nous.&lt;BR&gt;&lt;BR&gt;J'espère que nous pourrons parvenir à un accord mutuel.</Page>
+    </Text>
+</QuestDialog>

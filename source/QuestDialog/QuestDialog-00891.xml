@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="4">Le Rocher de la Désolation se porte bien, &lt;PCNAME&gt;. Nous pouvons maîtriser la situation nous-mêmes. Certains endroits ont nettement plus besoin d’aide que nous.&lt;BR&gt;&lt;BR&gt;Partez vers le sud, et allez voir Chaarisa à la Base de Glace du Rôdeur. Dépêchez-vous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1001">
+        <Page social="4">Nunahd se fait trop de mouron&amp;nbsp;! Oui, nous sommes dans les wendigos jusqu’au cou, mais nous arrivons à nous débrouiller.&lt;BR&gt;&lt;BR&gt;Vous avez l’air expérimenté. Au moins, Nunahd a envoyé quelqu’un d’utile. Allez donc voir Lalash, il pourrait avoir besoin de vos services.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1005">
+        <Page social="4">Cet environnement ne convient pas aux gens comme moi. Je viens du désert, bon sang&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J’aime la chaleur. J’ai presque envie de me jeter dans les flammes, histoire de me réchauffer un peu.&lt;BR&gt;&lt;BR&gt;Oui, nous creusons une mine ici, mais il n’y aura bientôt plus d'éclats, sans parler des attaques des wendigos. Si vous cherchez de l'action, vous avez bien choisi votre endroit.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="4">Les devans se croient propriétaires de cette forêt. Je suppose que c'était vrai avant notre arrivée, mais cela ne signifie pas que nous soyons disposés à la leur céder.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, ses {@LinkCreature:3#300160#arcanistes} et les marchespores dont ils ont fait leurs familiers s'accrochent à cet endroit et n'ont pas peur de recourir à la magie noire. J'aimerais pouvoir jeter un œil à leurs amulettes, histoire de voir si elles ont quelque chose à nous apprendre.&lt;BR&gt;&lt;BR&gt;Vous iriez m'en chercher quelques-unes&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1008">
+        <Page social="4">Ca devrait parfaitement faire l'affaire. Je vais voir s'il existe un moyen d'utiliser ces objets pour contrer leur magie nécromancienne. Ce serait une grande étape de franchie dans la purification des Bois de l'Oubli.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1008">
+        <Page social="0">Vous trouverez vos cibles dans Deva Silva.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="5">Vous avez l'air d'avoir acquis une certaine popularité, &lt;PCNAME&gt;. Le camp situé à l'ouest de Pora Elinu a besoin de l'aide d'un soldat aguerri et les autorités locales ont nommément fait appel à vous.&lt;BR&gt;&lt;BR&gt;Pourriez-vous aller leur prêter main-forte&amp;nbsp;? Rendez-vous au Camp de la Fédération Valkyon et prenez contact avec {@LinkCreature:223#1010$$Lohona}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1010">
+        <Page social="5">Alors, c'est vous, &lt;PCNAME&gt;&amp;nbsp;? Je ne vous imaginais pas comme ça. A en croire les histoires qu'on raconte, vous devriez avoir la carrure d'un dracoloth.&lt;BR&gt;&lt;BR&gt;Enfin bref, j'ai du travail pour vous et on va bien voir si vous êtes à la hauteur de votre réputation.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="4">Nous sommes totalement encerclés. Nous avons fait tout notre possible pour repousser les {@LinkCreature:16#2204#molosses de Zuul cuirassés}, mais ils nous ont dominés.&lt;BR&gt;&lt;BR&gt;Ils en ont après le gamin et nous ne pouvons rien faire pour lui. Vous pourriez nous aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1020">
+        <Page social="4">Oh, vous nous avez dégagé un chemin&amp;nbsp;! Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

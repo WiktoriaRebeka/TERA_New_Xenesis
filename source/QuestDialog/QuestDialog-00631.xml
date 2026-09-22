@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="5">Pourquoi est-ce que chaque fois qu'on parle de vous, on entend le mot cadavre&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Enfin, peu importe&amp;nbsp;! Les {@LinkCreature:22#28#prélats sombres} et les {@LinkCreature:22#27#discoupeurs ensorcelés} gardent la chapelle. Je pense qu'il existe un lien entre leur autel et ce qui s'est passé ici, alors vous allez devoir les tuer.&lt;BR&gt;&lt;BR&gt;Ces cultistes sont finis&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1009">
+        <Page social="5">Grâce à vous, les Descendants de Lok ont été écrasés et leur magie de manipulation de l'esprit est très affaiblie.&lt;BR&gt;&lt;BR&gt;C'est peut-être le moment de regagner le terrain perdu. Et ce sera grâce à moi.&lt;BR&gt;&lt;BR&gt;Enfin, à vous aussi.</Page>
+    </Text>
+</QuestDialog>

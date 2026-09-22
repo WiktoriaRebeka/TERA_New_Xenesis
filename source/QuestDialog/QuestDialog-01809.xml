@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="57" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Avis aux héros]&lt;BR&gt;Le trône céleste ouvre ses portes pour offrir des batailles épiques.&lt;BR&gt;&lt;BR&gt;Tous les Guerriers vaillants sont les bienvenus dans l'arène, quelles que soient leur race et leur classe !&lt;BR&gt;&lt;BR&gt;{@linkcreature:183#7001#Gaderong}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7001">
+        <Page social="4">&lt;PCNAME&gt; ... &lt;PCNAME&gt; ...&lt;BR&gt;Ah ! C'est donc vous l'illustre &lt;PCNAME&gt; dont tant de gens parlent ! Quelque chose me dit que vous allez faire un malheur dans l'arène ! Préparez-vous au combat !&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement d'au moins 410 est recommandé pour entrer dans le Trône céleste.]&lt;NEXTPAGEBUTTON&gt;"C'est quand vous voulez !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="7001">
+        <Page social="4">Impressionnant !&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vos compétences sont prodigieuses. &lt;BR&gt;&lt;BR&gt;Tous les spectateurs sont ravis de votre démonstration.</Page>
+    </Text>
+</QuestDialog>

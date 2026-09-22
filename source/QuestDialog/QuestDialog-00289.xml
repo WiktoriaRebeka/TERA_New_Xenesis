@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">Les nagas ont d'autres alliés que leurs animaux de compagnie&amp;nbsp;; des mercenaires travaillent désormais à leurs côtés.&lt;BR&gt;&lt;BR&gt;Mais les mercenaires sont comme des machines à sous&amp;nbsp;: si on ne met pas une pièce dans la fente, il ne se passe rien.&lt;BR&gt;&lt;BR&gt;Vous allez donc devoir éliminer les nagas chargés de distribuer la paie des mercenaires. Tuez un bon nombre de {@LinkCreature:10#11#pourfendeurs nagas}, et je vous parie que les mercenaires disparaîtront comme par enchantement.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Plus de problème avec les mercenaires&amp;nbsp;? Excellent&amp;nbsp;! Nous allons pouvoir passer à la phase 2&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;... Dès que je saurai en quoi elle consiste...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">C'est simple&amp;nbsp;: tuez les {@LinkCreature:10#11#pourfendeurs nagas}. Quand il n'y aura plus personne pour les payer, les mercenaires mettront les voiles.</Page>
+    </Text>
+</QuestDialog>

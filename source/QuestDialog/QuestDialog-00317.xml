@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="4">Des nagas, doublés de pirates et d'esclavagistes. Les pirates du Fouet rouge sont définitivement des vermines. La côte dans son ensemble est un véritable coupe-gorge.&lt;BR&gt;&lt;BR&gt;En tout cas, je ne partirai pas d'ici avant d'avoir fait fortune&amp;nbsp;! Les trésors de cette côte m'appartiennent... j'ai trop sacrifié, trop souffert pour en arriver là.&lt;NEXTPAGEBUTTON&gt;"Attendez... des trésors&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ecoutez, je sais que je m'emporte un peu. Sans l'aide de gens comme vous, &lt;PCCLASS:lcase&gt;, je compterais déjà certainement au nombre des esclaves, en admettant que je sois encore en vie.&lt;BR&gt;&lt;BR&gt;La dernière fois que j'ai tenté de mettre la main sur ces coffres aux trésors, j'ai failli me faire écharper. J'aimerais bien voir cette vermine tenter sa chance avec vous de la même manière, histoire de rigoler.&lt;BR&gt;&lt;BR&gt;Rapportez-moi ce que vous trouverez et je ferai le tri. Je m'y connais pas mal en antiquités.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1029">
+        <Page social="4">(Le vieux coffre est déjà ouvert et il est rempli de vase.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1030">
+        <Page social="4">(Le vieux coffre est déjà ouvert et il est rempli de vase.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1016">
+        <Page social="4">Les coffres étaient remplis de vase&amp;nbsp;? Où est passé le trésor&amp;nbsp;? Attendez un peu...&lt;BR&gt;&lt;BR&gt;Oh, je vois... vous me racontez ça pour garder tout le butin pour vous.&lt;BR&gt;&lt;BR&gt;C'est votre histoire qui sent la vase, pas ces coffres. &lt;NEXTPAGEBUTTON&gt;"Vous vous trompez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est ça, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Maintenant, fichez-moi le camp. J'ai besoin de réfléchir...</Page>
+    </Text>
+</QuestDialog>

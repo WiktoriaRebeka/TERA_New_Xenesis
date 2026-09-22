@@ -1,0 +1,76 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Voulez-vous préparer vous-même le &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt; ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez obtenu les ingrédients du &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt; auprès d'Haroso, dans le Marais tuwangi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="1" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Le &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt; nécessite de l'&lt;font color='#FF0000'&gt;eau claire tuwangi&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Vous trouverez de l'&lt;font color='#FF0000'&gt;eau Claire Tuwangi&lt;/font&gt; auprès d'Haroso, dans le Marais tuwangi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2001">
+        <Page social="1" voiceTypeId="0">Bienvenue ! Les amis de Melsa sont aussi les amis des Tuwangis ! Qu'y a-t-il ?&lt;NEXTPAGEBUTTON&gt;"Il me faut de l'eau claire tuwangi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">L'&lt;font color='#FF0000'&gt;eau claire tuwangi&lt;/font&gt; est très précieuse ! L'amitié ne suffit pas ! Tuwangi ne la donne pas de bonne grâce.&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Un service, pour Tuwangi ! Tuwangi vous donnera alors de l'&lt;font color='#FF0000'&gt;eau claire tuwangi&lt;/font&gt;. &lt;NEXTPAGEBUTTON&gt;"Comment puis-je vous aider ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Les lézards grillés, c'est délicieux ! Mais Tuwangi s'en lasse ! Un peu de variété s'impose !&lt;NEXTPAGEBUTTON&gt;"Que voulez-vous manger ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="6" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="7" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="8" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="9" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="10" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Oh ! Un &lt;font color='#0000FF'&gt;muffin à la lunicourge&lt;/font&gt; ?! *miam, scrontch* Merci !</Page>
+    </Text>
+    <Text id="11" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut goûter aux &lt;font color='#0000FF'&gt;muffins à la lunicourge&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Oh ! De l'&lt;font color='#0000FF'&gt;épigrain soufflé&lt;/font&gt; ?! *miam, scrontch* Merci !</Page>
+    </Text>
+    <Text id="13" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut goûter à l'&lt;font color='#0000FF'&gt;épigrain soufflé&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="14" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Oh ! De la &lt;font color='#0000FF'&gt;salade de rutabagas des marais&lt;/font&gt; ?! *miam, scrontch* Merci !</Page>
+    </Text>
+    <Text id="15" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut goûter à la &lt;font color='#0000FF'&gt;salade de rutabagas des marais&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="16" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Oh ! Du &lt;font color='#0000FF'&gt;porcidé grillé&lt;/font&gt; ?! *miam, scrontch* Merci !</Page>
+    </Text>
+    <Text id="17" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut goûter au &lt;font color='#0000FF'&gt;porcidé grillé&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="18" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Oh ! Un &lt;font color='#0000FF'&gt;cookie aux baies de Shevran&lt;/font&gt; ?! *miam, scrontch* Merci !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut goûter aux &lt;font color='#0000FF'&gt;cookies aux baies de Shevran&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="20" huntingZoneId="205" prevId="18" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Délicieux ! Mais Tuwangi a encore faim ! Tuwangi veut manger plus !</Page>
+    </Text>
+    <Text id="21" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="22" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="23" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="24" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Merci pour ce bon plat ! Tuwangi est de bonne humeur, maintenant !&lt;BR&gt;&lt;BR&gt;Vous avez rendu un grand service à Haroso ! Votre cadeau !</Page>
+    </Text>
+    <Text id="25" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut vite goûter au &lt;font color='#0000FF'&gt;barbecue traditionnel des Champs lugubres&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="26" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Merci pour ce bon plat ! Tuwangi est de bonne humeur, maintenant !&lt;BR&gt;&lt;BR&gt;Vous avez rendu un grand service à Haroso ! Votre cadeau !</Page>
+    </Text>
+    <Text id="27" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut vite goûter à la &lt;font color='#0000FF'&gt;salade de flammèches des Terres libres&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="28" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Merci pour ce bon plat ! Tuwangi est de bonne humeur, maintenant !&lt;BR&gt;&lt;BR&gt;Vous avez rendu un grand service à Haroso ! Votre cadeau !</Page>
+    </Text>
+    <Text id="29" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Tuwangi veut vite goûter aux &lt;font color='#0000FF'&gt;ailes lugubres&lt;/font&gt;...</Page>
+    </Text>
+</QuestDialog>

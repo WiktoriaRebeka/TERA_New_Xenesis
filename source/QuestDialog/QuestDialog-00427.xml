@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1029">
+        <Page social="0">Après une leçon explosive auprès de Kiriya, vous avez fait la connaissance de Rutgar, le responsable de l'approvisionnement et Milene vous a appris à vous reposer et utiliser des talismans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1029">
+        <Page social="4">MAINTENANT, VOUS SAVEZ CE QU'ON PEUT FAIRE AVEC UNE BOMBE. VOUS DEVRIEZ FAIRE CONNAISSANCE AVEC LES AUTRES MEMBRES DE LA GARNISON.&lt;BR&gt;&lt;BR&gt;DESCENDEZ VOIR RUTGAR, IL CONNAIT TOUT LE MONDE.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">Bienvenue, nouvelle recrue&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je m'appelle Rutgar et, vue votre allure, je parie que c'est Kiriya qui vous envoie. Si vous voulez, je peux vous procurer quelques pansements et autres bien consommables.&lt;BR&gt;&lt;BR&gt;N'ayez aucun remords à quitter le camp avec un baluchon plein de potions et autres. Il n'y a pas de honte à être bien préparé.&lt;NEXTPAGEBUTTON&gt;"KIRIYA M'A DIT... hum, à qui dois-je parler maintenant&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous devriez sans doute vous reposer un peu avant de continuer. Vous savez déjà comment vous servir d'un feu de camp&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Milene&amp;nbsp;! Tu ne voudrais pas montrer au blanc-bec comment on utilise un feu de camp&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1049">
+        <Page social="4">Combattre est épuisant, et la fatigue peut jouer des tours aux baroudeurs les plus aguerris. Et un compagnon d'armes exténué ne sert pas à grand-chose. &lt;BR&gt;&lt;BR&gt;Si vous combattez sans jamais vous reposer, votre &lt;font color='#660000'&gt;endurance&lt;/font&gt; s'étiole, ce qui réduit vos PM et PV maximum.&lt;BR&gt;&lt;BR&gt;Vous pouvez vérifier le niveau de votre endurance en passant votre curseur au-dessus de l'&lt;B&gt;icône en forme de cœur&lt;/B&gt; dans la partie supérieure de l'écran&lt;NEXTPAGEBUTTON&gt;"D'accord. Et comment la recharge-t-on&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Cherchez un &lt;font color='#660000'&gt;feu de camp&lt;/font&gt; dans votre sac. Si vous n'en avez pas, Rutgar vous en vendra un. Effectuez un clic droit pour l'utiliser, puis restez à proximité pour recouvrir votre endurance.&lt;BR&gt;&lt;BR&gt;Restez près du feu jusqu'à ce qu'elle remonte à 120&amp;nbsp;%, puis revenez me voir pour la leçon suivante.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1049">
+        <Page social="4">Alors, vous vous sentez comment&amp;nbsp;? Requinqué{@g:/e}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous pouvez utiliser les feux de camp à tout moment, sauf pendant un combat et sauf s'il y en a un autre à proximité.&lt;BR&gt;&lt;BR&gt;Vous pouvez mettre une &lt;font color='#660000'&gt;bûche&lt;/font&gt; dans le feu pour &lt;B&gt;rallonger sa durée&lt;/B&gt; mais surtout, vous avez la possibilité d'y consumer des talismans.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Des talismans&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Les talismans tels que ce &lt;font color='#660000'&gt;Talisman d'assaut&lt;/font&gt; ne peuvent être utilisés que pendant le repos.&lt;BR&gt;&lt;BR&gt;Revenez me voir quand vous aurez essayé d'&lt;font color='#660000'&gt;utiliser ce talisman en vous reposant près du feu de camp&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="5" villagerId="1049">
+        <Page social="4">Une fois activés, les talismans et autres effets qui influencent votre condition sont indiqués au moyen d'icônes en haut de votre écran. Passez la souris sur une icône pour en lire la description.&lt;BR&gt;&lt;BR&gt;Vous pouvez avoir jusqu'à trois talismans actifs en simultané. Mais faites attention, utiliser un nouveau talisman de même type remplacera celui qui est déjà actif, que vous le vouliez ou non.&lt;NEXTPAGEBUTTON&gt;"C'est compris."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Une dernière chose&amp;nbsp;: les talismans ne sont que temporaires et leur effet s'estompe quand votre endurance chute trop.&lt;BR&gt;Si vous combattez, vous reposer près d'un feu de camp toutes les &lt;B&gt;30 minutes&lt;/B&gt; devrait suffire.&lt;BR&gt;&lt;BR&gt;Par ailleurs, les feux de camp placés par d'autres joueurs s'affichent sur votre mini-carte et ils fonctionnent pour tout le monde.</Page>
+    </Text>
+</QuestDialog>

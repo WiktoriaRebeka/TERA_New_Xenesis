@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="4">Un puissant pouvoir magique semble alimenter les Ruines de Storst, au nord. Je pense que les {@LinkCreature:24#14#maligos cornesangs}, les descendants des anciens géants, profitent de l'énergie des reliques.&lt;BR&gt;&lt;BR&gt;Les fragments d'armure de maligos pourraient confirmer cette théorie. Si vous en récupérez, nous pourrons mesurer le mana restant et estimer la puissance émanant des ruines.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1002">
+        <Page social="4">Bizarre&amp;nbsp;! Les fragments vibrent au toucher. La puissance qui y est contenue va bien au-delà de ce que nous suspections.&lt;BR&gt;&lt;BR&gt;Nous n'oublierons pas votre contribution à cette découverte. Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1002">
+        <Page social="0">Une hypothèse qu'on ne met pas à l'épreuve de l'expérience n'est rien d'autre qu'une simple question. Il me faut d'autres fragments d'armure pour vérifier. Rapidement.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">D'autres ont besoin de votre aide, et vite. Des colporteurs sont coincés à la Piste sanglante. Une partie de leurs chariots a été volée et une autre saccagée, mais si quelqu'un se portait volontaire pour les escorter, ils pourraient toujours acheminer ce qui leur reste de leur marchandise à Crescentia.&lt;BR&gt;&lt;BR&gt;Pour nous, tout ravitaillement même minime serait bon à prendre. Allez chercher le {@LinkCreature:203#1028#colporteur} qui se trouve à l'est d'ici. Faites vite, il doit arriver ici en vie à tout prix&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3" villagerId="25">
+        <Page social="0">J'ai des produits d'alimentation de base et quelques remèdes, mais si je bouge d'ici, les devans me tailleront en pièces. Vous pourriez m'escorter jusqu'à Crescentia&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4">Formidable. Ça peut sembler peu de choses, mais ces quelques produits de consommation sont des symboles d'espoir. Et nous attendions cela depuis un moment déjà.&lt;BR&gt;&lt;BR&gt;Allez parler au Magistrat Corann. Il tient certainement à vous remercier en personne.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">Vous êtes &lt;PCNAME&gt;&amp;nbsp;? Le Tribun m'a parlé de vous en termes élogieux. Je vous remercie d'avoir escorté ce colporteur. C'est une petite victoire, mais elle est des plus réconfortantes.&lt;BR&gt;&lt;BR&gt;Crescentia traverse une période de crise sévère, mais je sais que nous finirons par en voir le bout. Merci à vous.</Page>
+    </Text>
+</QuestDialog>

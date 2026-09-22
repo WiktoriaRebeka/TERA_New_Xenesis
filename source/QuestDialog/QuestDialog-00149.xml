@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">Vous avez fait du bon boulot avec les tuwangis&amp;nbsp;! Nous vous sommes reconnaissants et nous espérons que vous continuerez de nous prêter main forte. Nos cibles suivantes sont les {@LinkCreature:5#5#butors tuwangis} et les {@LinkCreature:5#6#tailladeurs tuwangis}.&lt;BR&gt;&lt;BR&gt;Ouvrez-nous une brèche dans leurs défenses et faites-leur comprendre qu'il est temps de battre en retraite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="0">Voilà une nouvelle victoire à fêter. Nous avons de la chance de vous compter dans nos rangs, &lt;PCNAME&gt;. Je tenais à ce que vous le sachiez.&lt;BR&gt;&lt;BR&gt;La seule ombre au tableau, c'est le triste état de nos relations naguère excellentes avec les tuwangis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1015">
+        <Page social="0">Encore là&amp;nbsp;? Vous en avez assez de nous aider&amp;nbsp;? Vous trouvez les tuwangis trop mignons pour en faire des brochettes&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;A moins que vous n'ayez une aversion particulière des grenouilles&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

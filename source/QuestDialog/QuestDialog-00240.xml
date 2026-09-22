@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Ordres de mission&amp;nbsp;:&lt;BR&gt;&lt;BR&gt;Eliminez tous les ennemis de la Caverne de la Faim et de la Caverne du Massacre, et récupérez des preuves de leurs actes de cannibalisme.&lt;BR&gt;&lt;BR&gt;Les cannibales en question sont vraisemblablement les {@LinkCreature:8#3011#mutilateurs gulas}, les {@LinkCreature:8#3022#farfadets auriques esclavagistes}, les {@LinkCreature:8#3031#ravageurs gulas}, les {@LinkCreature:8#3041#surveillants gulas}, les {@LinkCreature:8#3042#bandits kobolds} et les {@LinkCreature:8#3051#reîtres kobolds}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à Rameria, à Castanica.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

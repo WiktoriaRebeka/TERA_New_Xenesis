@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9004" huntingZoneId="950" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Je suis vraiment très impressionné. Velik a pris une bien sage décision en vous confiant cette mission. La bienveillance des dieux vous a accompagné.&lt;BR&gt;&lt;BR&gt;Le combat a été rude. Par bonheur, nous avons pu empêcher l'ouverture du Passage du royaume des dieux, même si l'ampleur de la destruction est considérable. La reconstruction de cet endroit va demander beaucoup de temps. La volonté des dieux va pouvoir...&lt;BR&gt;&lt;BR&gt;Hein ? Vous avez entendu ça ?&lt;BR&gt;&lt;BR&gt;(Un léger grognement se fait entendre.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(*Grrrrrrrr*)&lt;TEXTBUTTON&gt;Vous tendez l'oreille.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Lancer le combat final.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

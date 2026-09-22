@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Vous êtes entré{@g:/e} dans le Campement du Deuil du pays et vous êtes présenté{@g:/e} à Dorial.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Vous êtes une nouvelle espèce d'Elin. Une vengeresse. Vous disposez d'un gigantesque potentiel inexploité et ne devriez jamais l'oublier.&lt;BR&gt;&lt;BR&gt;Ne perdez pas de temps et allez montrer au monde entier l'étendue de ce potentiel&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Je n'ai pas l'impression de vous connaître. Vous venez d'arriver&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Peu importe. Toute l'aide que vous pourriez apporter est la bienvenue. Nous avons des problèmes avec des déserteurs Orkans qui volent nos provisions. Pouvez-vous nous aider&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">C'était... inhabituel. Enfin, merci de votre aide&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;Ces pauvres ères ne sont que des soldats de pacotilles orkans qui ont fui en plein combat. Ils sont restés à rôder dans le coin, en guettant un moment d'inattention pour voler nos provisions de victuailles. &lt;BR&gt;&lt;BR&gt;Mais vous leur avez donné une bonne leçon et ils ne recommenceront pas de sitôt&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;D'où venez-vous donc, &lt;PCNAME&gt;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Croyez-moi, vous ne tenez pas à le savoir.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hey&amp;nbsp;! Top secret, c'est bien ça&amp;nbsp;? Ça paraît logique&amp;nbsp;: j'ai entendu dire qu'on nous enverrait des mercenaires pour nous aider&amp;nbsp;! Et vous voilà&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;Bien, vous devriez sans doute vous présenter à Miayn, c'est elle qui gère la Garde d'honneur. Elle vous donnera votre mission.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1000">
+        <Page social="4" voiceTypeId="0">Vous devez être une des nouvelles mercenaires dont j'ai entendu parler.  Nous vous attendions. &lt;BR&gt;&lt;BR&gt;Acceptez cette récompense pour avoir aidé Dorial. Ce n'est qu'un petit geste pour vous témoigner ma gratitude.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="4">Nous avons deux problèmes principaux, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;D'abord, les derniers argons dans la région de Raga Kabash. On dirait qu'ils se dirigent vers le sud, vers une sorte de salle de transmission.&lt;BR&gt;&lt;BR&gt;Ensuite, j'ai besoin de pièces venant d'une {@Creature:46#7005#aiguille grellok}. Pour la recherche, vous comprenez…</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1102">
+        <Page social="5">Merci. L'aiguille grellok est intéressante, mais… vous savez qui ça intéresserait encore plus&amp;nbsp;? Rhentar, qui travaille dans la Chambre Discœur. Cela s'inscrirait parfaitement dans la ligne de ses recherches.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1028">
+        <Page social="0">Vous dites que ça vient d'une aiguille grellok&amp;nbsp;? Je n'ai pas réussi à en approcher une… Rappelez-moi de remercier Nevian, si je quitte cette chambre un jour.</Page>
+    </Text>
+</QuestDialog>

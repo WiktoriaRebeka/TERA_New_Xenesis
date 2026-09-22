@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;la confrérie des Archers à besoin de votre aide. Si vous souhaitez répondre à leur appel, venez me voir à Velika.&lt;BR&gt;&lt;BR&gt;Hamile&lt;NEXTPAGEBUTTON&gt;Vous répondez à l'appel.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Ça faisait une paye ! &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Comment allez-vous ? Je me suis ennuyé ferme, car vous autres, les apprentis Archers, faites toujours tout comme il faut sans que j'aie à intervenir.&lt;NEXTPAGEBUTTON&gt;"Je vais bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ravie de l'entendre.&lt;BR&gt;&lt;BR&gt;Je vais aller droit au but. Vous avez sans doute entendu dire qu'au terme d'efforts prodigieux, la Confrérie des Archers a fini par réussir à développer une nouvelle technologie, n'est-ce pas ?&lt;NEXTPAGEBUTTON&gt;"De quoi s'agit-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous ne prêtez pas assez attention aux rumeurs...&lt;BR&gt;&lt;BR&gt;Mais vous avez certainement entendu dire que quelques pantouflards qui passent le plus clair de leur temps le nez dans les livres ont développé une nouvelle technologie tout à fait par hasard ?&lt;BR&gt;&lt;BR&gt;Malheureusement, ils nous ont devancés. Cependant, nous avons également réussi à mettre au point une technologie moderne et innovante ! Toujours est-il que nous avons été plus rapides que ces idiots d'escrimeurs.&lt;NEXTPAGEBUTTON&gt;"Et le résultat, qu'est-ce qu'il donne ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">C'est pour ça que je vous ai contacté, afin que vous testiez notre nouvelle technologie, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Certes, vous êtes encore novice, mais cette technique devrait vous permettre d'éprouver vos facultés. &lt;BR&gt;&lt;BR&gt;Voulez-vous vous charger de cette mission ? Elle est divisée en un total de six tâches. Je vous offrirai une récompense de taille.&lt;NEXTPAGEBUTTON&gt;"Oui, j'accepte de m'en charger."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Excellent. Je vais vous expliquer en quoi votre mission consiste.&lt;BR&gt;&lt;BR&gt;C'est assez simple. Vous devez traverser deux fois un donjon correspondant à vos facultés. C'est faisable, n'est-ce pas ?&lt;NEXTPAGEBUTTON&gt;"Oui, largement."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Être sûr de soi est une bonne chose, mais vous devriez garder à l'esprit que cette mission mettra vos modestes compétences à rude épreuve.&lt;BR&gt;&lt;BR&gt;Vous ne devriez donc pas prendre tout cela à la légère.&lt;NEXTPAGEBUTTON&gt;"Je ferai de mon mieux."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Bien joué. Mais ne prenez pas la grosse tête. Si l'on en croit de la Confrérie des Archers, vos compétences correspondent au niveau débutant. Il semble donc justifié d'entièrement attribuer votre succès à la technologie exceptionnelle de la Confrérie des Archers.&lt;BR&gt;&lt;BR&gt;Revenez me voir quand vous aurez le niveau suffisant pour accomplir la tâche suivante. Une récompense encore plus alléchante vous attend.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

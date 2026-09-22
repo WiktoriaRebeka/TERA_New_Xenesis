@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1108">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1108">
+        <Page social="0">Vous avez fait ça pour moi&amp;nbsp;? Ou pour elle&amp;nbsp;? En tout cas, c'est génial&amp;nbsp;! Je dois vous laisser.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1108">
+        <Page social="0">Je vous remercie&amp;nbsp;! C'est exactement de qu'elle voulait. Vous devriez lui remettre cela en main propre.&lt;BR&gt;&lt;BR&gt;Je n'hésiterai pas à faire appel à vous si j'ai besoin de nouveau de vos compétences&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1108">
+        <Page social="0">Vous avez le plan et les kits. Parlez aux vendeurs d'artisanat si vous avez besoin de matériel supplémentaire.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="3" villagerId="1123">
+        <Page social="0">C'est toujours un plaisir de faire la connaissance de personnes aussi dévouées que vous. Merci de votre aide.</Page>
+    </Text>
+</QuestDialog>

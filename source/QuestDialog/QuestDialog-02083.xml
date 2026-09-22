@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="132">
+        <Page social="4" voiceTypeId="0">Attendez !&lt;BR&gt;Dougal, de la Fédération Valkyon, vous attend.&lt;BR&gt;&lt;BR&gt;Il semble avoir quelque chose à vous dire. Pourriez-vous aller le voir avant de vous en aller ?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Anya a disparu après avoir entendu la voix de l'arbre de Tiaran et les gardiens lui ont emboîté le pas. &lt;BR&gt;&lt;BR&gt;Tout cela vous inquiétait et vous l'avez donc également suivie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="101">
+        <Page social="0">Vous revenez à vous ?&lt;BR&gt;Quelle chance, les plaies ne sont pas profondes.&lt;NEXTPAGEBUTTON&gt;"Qui êtes-vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">J'ai complètement oublié de me présenter. Je m'appelle Dougal et j'arrive de Velika.&lt;BR&gt;&lt;BR&gt;Walgrey, le doyen du village, m'a informé que les argons attaquaient le village et j'ai accouru au plus vite.&lt;BR&gt;&lt;BR&gt;Plusieurs choses bien suspectes se trament ici, mais nous devrions d'abord nous débarrasser des argons.&lt;NEXTPAGEBUTTON&gt;"Vous n'auriez pas vu Anya, par hasard ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous parlez de l'enfant en robe rouge ?&lt;BR&gt;Elle marchait d'un air impassible dans la direction du Temple de l'arbre.&lt;BR&gt;&lt;BR&gt;Émun et les gardiens l'ont immédiatement suivie, mais je m'inquiète parce que nous ne savons pas à combien d'argons nous avons affaire.&lt;BR&gt;&lt;BR&gt;Ah, j'y pense ! J'ai trouvé un message qui vous était adressé, dans les parages. Lisez-le donc.&lt;NEXTPAGEBUTTON&gt;"Merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="101">
+        <Page social="4" voiceTypeId="0">Si même la fillette a disparu, alors tous les enfants de l'arbre de Tiaran sont maintenant introuvables, n'est-ce pas ?&lt;BR&gt;&lt;BR&gt;Seir a bien dit que la situation pourrait être bien plus grave que prévu si l'arrivée des argons a un rapport avec l'arbre de Tiaran. &lt;BR&gt;&lt;BR&gt;Les argons s'activent généralement uniquement pour conquérir ou absorber des forces. Apparemment, ils comptent utiliser cet enfant pour absorber les forces de l'arbre de Tiaran.&lt;BR&gt;&lt;BR&gt;Je vais faire un rapport à Seir et demander des renforts.&lt;NEXTPAGEBUTTON&gt;"Je me mets déjà en route."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous allez vous en sortir ?&lt;BR&gt;&lt;BR&gt;(Il aperçoit votre regard déterminé.)&lt;BR&gt;&lt;BR&gt;Oui. Bien.&lt;BR&gt;Je fais mon rapport à Seir et je vous rejoins ensuite.&lt;BR&gt;&lt;BR&gt;Faites bien attention à vous. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="161">
+        <Page social="0" voiceTypeId="0">Comme vous pouvez le voir, les argons ont attaqué le messager.&lt;BR&gt;Je vous prie de ne pas me déranger, car je dois me concentrer sur les soins.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Avez-vous vu Anya et les gardiens ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Moi non, mais ce messager a dû les voir.&lt;BR&gt;&lt;BR&gt;En effet, il se rendait auprès de Dougal après avoir aperçu la fillette et les gardiens dans le Temple de l'arbre.&lt;BR&gt;&lt;BR&gt;Comment ? Lui parler... maintenant ?&lt;BR&gt;Non. Vous voyez bien dans quel état il est. Il est incapable d'avoir une discussion normale dans ces conditions.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

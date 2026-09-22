@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="60" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal prie &lt;PCNAME&gt; d'examiner de plus près l'oiseau monstrueux qui a récemment posé problème.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, vos faits d'arme restent gravés dans nos mémoires. Mais je dois encore vous demander une chose. J'aimerais discuter des détails de vive voix. Venez donc me voir quand vous arriverez à Hautegarde.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">Merci d'être venu. &lt;BR&gt;Il y a une mission pour laquelle votre aide serait indispensable. Ces derniers temps, un bruit terrifiant court au sujet d'un gigantesque oiseau monstrueux.&lt;BR&gt;Merci d'aller vérifier ce qui se cache derrière ces rumeurs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4">Vous voilà, &lt;PCNAME&gt;.&lt;BR&gt; ... Ainsi, les rumeurs concernant l'oiseau monstrueux étaient donc vraies. Je vous remercie pour votre excellent travail. C'était certainement très éprouvant. Voici une récompense pour avoir accompli cette mission. Je serais ravi que cela vous soit utile. &lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">Les {@LinkCreature:20#30087000#arachnéens griffe-sang acharnés} ont pris le contrôle des tunnels, parce que les morts-vivants n'étaient pas assez nombreux&amp;nbsp;! Je ne sais pas quand ils sont arrivées, mais s'ils continuent à creuser les parois, les tunnels vont finir par s'effondrer.&lt;BR&gt;&lt;BR&gt;Il est vrai que ce serait un bon moyen de nous débarrasser des morts-vivants, mais ça condamnerait aussi les soldats que nous y avons envoyés et les survivants que nous essayons de retrouver.&lt;BR&gt;&lt;BR&gt;Moi, je m'occupe des soldats et des survivants, alors je veux que vous entriez et que vous exterminiez ces araignées.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1007">
+        <Page social="4">Oh, je n'avais pas réalisé à quel point les vibrations qu'elles provoquent me rendaient fou jusqu'à ce qu'elles s'arrêtent.&lt;BR&gt;&lt;BR&gt;Merci de nous en avoir débarrassés&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine vous a envoyé{@g:/e} en expédition pour essayer de découvrir un lien potentiel entre les Kariagons et les Discoupeurs et vous en êtes revenu{@g:/e} avec une preuve d'une conspiration obscure impliquant Lok, un dieu défunt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Elion avait raison, la Vallée maudite est moins anodine qu'on ne le pensait. Si vous désirez changer les choses ici, vous devez saisir les occasions qui se présentent.&lt;BR&gt;&lt;BR&gt;Vers l'est, on rencontre des créatures sur lesquelles nous avons besoin d'en savoir plus. Les {@linkcreature:13#6#Kariagons} se déplacent rarement sans être entourés de sbibres. Dans la région, ils ont donc réduit des Terrons en esclavages, un peuple normalement pacifique. Ils œuvrent de concert avec les {@linkcreature:13#7#Discoupeurs} qui entourent ce camp et il y a fort à parier que tout cela est lié.&lt;BR&gt;&lt;BR&gt;Tuez-en autant que possible pour découvrir ce qui les relie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Hum... voilà qui est inattendu. Il s'agit de copies conformes d'un objet ancestral, aujourd'hui proscrit.&lt;BR&gt;&lt;BR&gt;La légende de Lok est-elle encore enseignée dans votre contrée d'origine, &lt;PCNAME&gt;&amp;nbsp;? Car si cet obscur dieu revenait, comme la prophétie le prétend, les démons seraient le cadet de nos soucis.&lt;NEXTPAGEBUTTON&gt;"Lok&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oui, Lok, le dieu des trahisons. Ces amulettes font bien plus que simplement contrôler des créatures. Elles les corrompent de l'intérieur. Et celles-ci ont été fabriquées il y a peu, ce qui signifie que le problème s'étend bien au-delà de l'Île de l'Aube.&lt;BR&gt;&lt;BR&gt;Vous avez bien travaillé aujourd'hui, mais je crains fort que nous soyons loin d'en avoir terminé.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">Il nous faut impérativement apprendre ce qui relie les Kariagons aux Discoupeurs. Je vous en prie, menez votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

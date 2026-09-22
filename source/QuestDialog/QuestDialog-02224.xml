@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Vous avez appris comment faire un glace aux sarbaies.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">Bienvenue, &lt;PCRACE:lcase&gt;&amp;nbsp;! Je suis désolé mais je n'ai plus de glace. Je ne m'attendais pas à ce qu'il y ait autant de monde. Il fait tellement chaud qu'ils veulent tous une glace&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Il fait très chaud, en effet. Je reviendrai plus tard.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Attendez, attendez&amp;nbsp;! Ne partez pas&amp;nbsp;! Allez chercher un peu de glace et de sarbaies auprès de Luman, un peu plus loin, là-bas, et je vous montrerai comment faire de la glace aux sarbaies. Vous pourrez ensuite m'aider à les distribuer&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;&amp;quot;La charrette de Luman est juste là, c'est ça&amp;nbsp;? Okay.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Merci&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez voir Luman pour obtenir de la glace et des sarbaies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7106">
+        <Page social="4">Hein&amp;nbsp;? Quoi&amp;nbsp;? Lilan est déjà à court de glace&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Elle n'a pas réalisé à quel point il fait chaud&amp;nbsp;? Cette glace doit durer toute le Festival&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bien&amp;nbsp;! Ici&amp;nbsp;! Dites-lui de ne pas en utiliser trop&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Je le lui dirai.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="7106">
+        <Page social="4">Quoi&amp;nbsp;? Vous êtes encore là&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Elle a besoin de sarbaies, aussi&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Pourquoi ne l'avez-vous pas dit tout de suite&amp;nbsp;?&lt;BR&gt;&lt;BR&gt; Ici&amp;nbsp;! Les sarbaies&amp;nbsp;! Okay&amp;nbsp;? Autre chose&amp;nbsp;? Non&amp;nbsp;? Bon&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Merci…beaucoup.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7101">
+        <Page social="4">Vous avez la glace de Luman&amp;nbsp;? Il est vraiment adorable, non&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Maintenant, il suffit de mettre ce morceau de glace dans le broyeur à glace pour le pulvériser. Je vais donner ces sarbaies à mon assistant, Trilyn&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt; Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="7102">
+        <Page social="4">Lilan vous a donné notre recette secrète de la glace aux sarbaies&amp;nbsp;? Et elle vous a dit que j'étais son assistant&amp;nbsp;? Et que Luman était "adorable"&amp;nbsp;? Cette fille est complètement givrée et va finir par me rendre fou, je le sais...&lt;BR&gt;&lt;BR&gt;Eh bien, vous nous avez réellement aidés. Nous avions vraiment besoin de plus de glace aux sarbaies...&lt;BR&gt;&lt;BR&gt;Ok, je vais vous montrer comment faire de la glace aux sarbaies.&lt;NEXTPAGEBUTTON&gt;&amp;quot;J'ai hâte d'en découvrir la recette.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Mettez la glace finement pilée et les sarbaies dans un bol en verre, ajoutez le lait concentré et mélangez le tout&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Cela ne semble pas très difficile.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" villagerId="7102">
+        <Page social="0">Mettez les ingrédients dans un bol en verre et mélangez-les bien.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="7101">
+        <Page social="4">Merci, &lt;PCNAME&gt;&amp;nbsp;! Vous êtes déjà de retour&amp;nbsp;? Génial&amp;nbsp;! Je savais que mon assistant pouvait vous aider&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je devrais vous donner une récompense&amp;nbsp;! Je sais&amp;nbsp;! Que diriez-vous d'un dessert aux sarbaies&amp;nbsp;? C'est comme une glace aux sarbaies, sauf que c'est un dessert&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Quel génie&amp;nbsp;! Merci infiniment.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="7101">
+        <Page social="0">Euh... Oui... On s'occupe de vous&amp;nbsp;? &lt;BR&gt; Oh&amp;nbsp;! &lt;PCNAME&gt;, C'est vous&amp;nbsp;! Vous avez ramené les sarbaies et la glace&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

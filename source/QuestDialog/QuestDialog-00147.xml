@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">Maintenant, vous avez certainement une idée précise du problème que nous posent les tuwangis. C'est assez surprenant, d'ailleurs. Qui aurait pu prévoir ce soudain élan expansionniste&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Quoi qu'il en soit, nous manquons de troupes. Jusqu'ici, ce lieu était l'un des endroits les plus calmes de la Fédération, d'où la taille réduite du contingent qui y a été affecté. Toutefois, nous avons considéré le problème sous tous les angles et nous avons trouvé un moyen de réagir malgré tout, avec les moyens du bord.&lt;NEXTPAGEBUTTON&gt;"Ah&amp;nbsp;? Et comment&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Nous pourrions commencer par rompre les communications entre les différents villages. En s'attaquant aux villages un par un, ça ne devrait pas être trop difficile, vous ne croyez pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Le {@LinkCreature:5#12#tambour des grenouilles} des rochemartels tuwangis permet d'assurer la communication entre les villages en cas d'urgence. Si nous détruisons ce tambour, les villages se retrouveront complètement isolés.&lt;BR&gt;&lt;BR&gt;Vous n'avez rien de particulier à faire pour le moment, n'est-ce pas&amp;nbsp;? Je voudrais vous charger de cette mission.&lt;BR&gt;&lt;BR&gt;Je dois pour ma part m'occuper de l'entraînement des soldats. S'il vous plaît, aidez-moi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="5">Vous avez détruit les tambours&amp;nbsp;? Tous&amp;nbsp;? Génial.&lt;BR&gt;&lt;BR&gt;Maintenant, il est temps de passer aux choses sérieuses.</Page>
+    </Text>
+</QuestDialog>

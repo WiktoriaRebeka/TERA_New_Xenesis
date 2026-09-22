@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt;, vous êtes capable de sauter&amp;nbsp;? Et de tomber&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il faudrait que quelqu'un saute par le trou dans le sol et descende... ou plonge, plutôt... jusqu'au sous-sol.&lt;BR&gt;&lt;BR&gt;Il y a un éclaireur là-bas, Tirisk, dont nous sommes sans nouvelles depuis quelque temps. Allez voir comment il va, et quand vous aurez terminé, frayez-vous un passage comme vous pourrez pour remonter ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1024">
+        <Page social="4">La mauvaise nouvelle&amp;nbsp;: c'est dans ce trou que vous devez sauter. Et non, il n'y a pas d'autre façon de descendre.&lt;BR&gt;&lt;BR&gt;La bonne nouvelle&amp;nbsp;: nous y avons envoyé un maître de téléportation hier, alors vous devriez pouvoir revenir.&lt;BR&gt;&lt;BR&gt;Enfin, si le maître de téléportation a survécu à la descente, bien entendu...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1013">
+        <Page social="4">Sacré plongeon, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J’espère que votre maîtrise du combat est à la hauteur de votre maîtrise de la pesanteur, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Nous avons pas mal de travail par ici.</Page>
+    </Text>
+</QuestDialog>

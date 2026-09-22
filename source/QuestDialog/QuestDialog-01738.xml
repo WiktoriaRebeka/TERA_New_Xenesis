@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="0">La restauration de bord laisse un peu à désirer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="4">Actol n'a pas encore le pied mar... aérien je veux dire.&lt;BR&gt;&lt;BR&gt;Ma couchette est située sous la sienne, donc il serait bon qu'il soit rétabli d'ici ce soir.&lt;BR&gt;&lt;BR&gt;Vous pourriez vous enquérir d'un remède ou de flambewhisky&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="3004">
+        <Page social="4">Le mal de l'air&amp;nbsp;? Bien sûr. Rares sont ceux qui ont l'estomac pour de longs vols. De mon côté, j'ai déjà volé par deux fois.&lt;BR&gt;&lt;BR&gt;Essayez un peu de gingembre essenien. Vous en trouverez sans doute dans les casiers.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1006">
+        <Page social="4">Oh, loué soit Velik. Et allez, loués soient Kaia, Seren et Akasha&amp;nbsp;! Mon estomac va beaucoup mieux. Merci.&lt;BR&gt;&lt;BR&gt;Pourriez-vous demander à Fieri s'il y a quelque chose à manger&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" villagerId="1006">
+        <Page social="0">Pas de gingembre&amp;nbsp;? Continuez à chercher.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="4" villagerId="3007">
+        <Page social="4">Ah, mais bien sûr. Je suis le roi des bons petits plats.&lt;BR&gt;&lt;BR&gt;A ce sujet, vous ne voudriez pas goûter un de mes derniers frichtis&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allons, ne soyez pas timide. J'ai appris auprès du chef le plus réputé d'Arun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1007">
+        <Page social="4">(L'odeur n'est pas sans rappeler les oignons et les argons.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="3007">
+        <Page social="4">Comment&amp;nbsp;? Vous êtes {@gender:fou/folle}. Ce plat regorge de saveurs&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, goûtez un peu celui-ci.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1008">
+        <Page social="4">(Son allure et son odeur sont moins suspectes.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="823" prevId="9" villagerId="3007">
+        <Page social="4">Laissez-moi vous dire que vous venez de goûter à une symphonie de saveurs&amp;nbsp;! Ah, ne dites rien, je suis formidable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je devrais concourir pour être le chef d'Arun&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="0">Vous avez pu apprécier le jeu du tambour va-t'en, une tradition de la fête de l'étang pour éloigner les grenouilles.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="4">Boum tambour rouge, grenouille rouge part&amp;nbsp;! Boum tambour mauve, grenouille mauve part&amp;nbsp;! &lt;BR&gt;&lt;BR&gt;Faire partir grenouilles.&lt;NEXTPAGEBUTTON&gt;OK.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2003">
+        <Page social="4">Bon tambourinage&amp;nbsp;! Cadeau pour vous&amp;nbsp;! &lt;NEXTPAGEBUTTON&gt;&amp;quot;C'était amusant.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

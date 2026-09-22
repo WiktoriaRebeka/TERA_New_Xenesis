@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="4">Les déprédateurs mekonaris et leurs urisks se regroupent, ils préparent sûrement une attaque.&lt;BR&gt;&lt;BR&gt;Notre avant-poste est le plus proche du Bâton d'Isren, nous ne pouvons pas céder.&lt;BR&gt;&lt;BR&gt;Allez-y et attaquez-les en premier. Nous devons récupérer le bâton&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1028">
+        <Page social="4">Nous vous sommes extrêmement reconnaissants, &lt;PCNAME&gt;. Nous pouvons enfin récupérer le bâton... un joujou de moins pour Thulsa.</Page>
+    </Text>
+</QuestDialog>

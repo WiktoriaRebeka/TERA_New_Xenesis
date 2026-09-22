@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Le pylône draelkar le plus proche se trouve au Hurlement du Wendigo. Thulsa l'a placé sous la garde de ses sihranars.&lt;BR&gt;&lt;BR&gt;Egorgez-les, brûlez-les... je vous laisse faire ça à votre sauce... Ensuite, détruisez le pylône.&lt;BR&gt;&lt;BR&gt;Faites vite&amp;nbsp;! Thulsa ne va pas ralentir ses plans pour vous, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Intéressant... les wendigos sont toujours aussi agressifs, mais ils ont l'air en pleine confusion. Ils ne doivent plus savoir où donner de la tête et avec qui se battre.&lt;BR&gt;&lt;BR&gt;Excellent. Nous allons pouvoir tirer avantage de la situation. C'est du bon travail&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

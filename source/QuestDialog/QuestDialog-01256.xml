@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="4">Cette région est connue pour sa richesse en éclats eldritchs. Nos éclats d'iteris sont nettement plus puissants que ceux de Westonia.&lt;BR&gt;&lt;BR&gt;Evidemment, les argons font main basse sur tout ce qu'ils trouvent, mais il y a comme un curieux effet de vase communiquant... La puissance des éclats qu'ils oublient ou délaissent augmente.&lt;BR&gt;&lt;BR&gt;Pourriez-vous me rapporter quelques échantillons&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1021">
+        <Page social="5">Ces éclats d'iteris ont l'air de premier choix&amp;nbsp;! Et l'énergie qui en émane... Incroyable.&lt;BR&gt;&lt;BR&gt;Les artisans castanics ont été bien inspirés de s'installer dans cette région.&lt;BR&gt;&lt;BR&gt;Je ferais bien de retourner à mes recherches. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1021">
+        <Page social="0">Cherchez de la {@RawItem:206811} dans l'{@Rgn:49002}. L'endroit est réputé pour l'exploitation de pierres magiques.</Page>
+    </Text>
+</QuestDialog>

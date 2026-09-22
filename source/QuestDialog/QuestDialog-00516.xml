@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Je n'ai pas le temps de me faire des cheveux blancs pour des buses d'archéologues, avec la quantité de créatures qui traînent dans le coin.&lt;BR&gt;&lt;BR&gt;En parlant de ça, vous n'avez pas l'air d'avoir grand-chose à faire de vos deux mains. Allez donc tuer quelques {@LinkCreature:18#16#golems gravillonneurs} et rapportez-moi leurs noyaux. Je vais les attacher les uns aux autres et en faire une ceinture qui fera le tour de la ville.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">Bien joué&amp;nbsp;! Je vous aurais bien demandé de les attacher les uns aux autres, mais je vois justement une autre feignasse qui aurait besoin de se mettre au boulot...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1005">
+        <Page social="0">Ma parole, mais vous avez la vivacité et le QI d'un mollusque&amp;nbsp;? Vous avez réussi à vous perdre comme cette incapable d'archéologue&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vos cibles sont les {@LinkCreature:18#16#golems gravillonneurs} et les {@LinkCreature:18#15#charognards ramperocs}. Au travail.</Page>
+    </Text>
+</QuestDialog>

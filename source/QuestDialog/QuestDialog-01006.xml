@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="5">Ces maudits prions sont parvenus à nous chasser de là où nous étions. Dans la panique, nous avons tout abandonné sur place. Et quand je dis tout, c'est tout. Nos outils sont là-bas, et nous sommes bloqués ici.&lt;BR&gt;&lt;BR&gt;Vous pourriez aller les récupérer avant que ces brutes répugnantes ne saccagent tout&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="6">Vous les avez récupérés&amp;nbsp;! Et ils sont intacts&amp;nbsp;! Ca embellit ma journée, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1024">
+        <Page social="0">S'ils restent trop longtemps à l'abandon sur le terrain, j'ai peur de ne jamais revoir nos outils d'excavation.</Page>
+    </Text>
+</QuestDialog>

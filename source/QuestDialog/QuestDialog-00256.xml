@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="4">Les gulas sont des cannibales, et leur société repose entièrement sur l'autorité de leurs chefs. Mais ce sont loin d'être des "gourmets", croyez-moi.&lt;BR&gt;&lt;BR&gt;Ils dévorent les &lt;font color='#660000'&gt;restes&lt;/font&gt; de nos frères d'armes, de braves soldats qui se sont sacrifiés au nom de la Fédération.&lt;BR&gt;&lt;BR&gt;Ce n'est pas le Rêve, mais bien un véritable cauchemar. Aidez-nous à retrouver ces corps, que nous puissions leur offrir une sépulture décente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Les soldats de l'épée de Kaia rendent honneur à leurs morts au cours d'une cérémonie bien particulière, mais elle n'a de sens que si nous avons des corps à enterrer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Avez-vous trouvé les dépouilles de nos frères&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

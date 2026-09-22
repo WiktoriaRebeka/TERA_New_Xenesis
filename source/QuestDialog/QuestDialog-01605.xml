@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Vous avez distrait les orkans sur leur territoire et avez vaincu les basilics, qui sont l'arme secrète de Rahto. Après avoir affronté les orkans à proximité de Pora Élinu, vous avez informé Élin de vos découvertes dans le territoire orkan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Le sentier derrière nous est la seule route qui mène à Pora Elinu. Je sais&amp;nbsp;: il est en feu, mais nous n'avons pas vraiment le choix. Servez-vous de vos remarquables lames pour atteindre Pora Elinu. Frayez-vous un chemin dans le campement orcan, localisez la princesse Arin et trouvez un moyen d'apporter votre aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Bienvenue. Vous avez derrière vous une longue et dangereuse marche..&lt;BR&gt;&lt;BR&gt;Si l'on se fie à ce que vous me dites-là, localiser ce capitaine orcan est d'une importance capitale. Je vais consulter mes conseillers.&lt;BR&gt;&lt;BR&gt;Pendant ce temps, je vous serais reconnaissante d'aider Meilyn. Elle est notre seule docteur et les innombrables blessés l'ont un peu désemparée.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Vous ne semblez pas vraiment blessée. De quoi avez-vous besoin&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh, c'est Arin qui vous envoie&amp;nbsp;? Parfait, un peu d'aide est la bienvenue. Actuellement, Pora Elinu est devenu un hôpital de fortune pour les blessés. Tant de gens ont été blessés ou tués. Cela m'attriste profondément.&lt;BR&gt;&lt;BR&gt;J'ai fort à faire, à m'occuper de tous les blessés. Vous pourriez me ramener des fleurs fouettes-cadavres&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Je sais, leur nom n'inspire pas confiance, mais il s'agit d'un excellent remède pour les patients qui ont perdu beaucoup de sang.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Merci. Cela devrait ralentir les saignements et calmer leur douleur quelques heures.&lt;BR&gt;&lt;BR&gt;J'ai ce qu'il me faut pour le moment. Princesse Arin vous attend dehors.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1013">
+        <Page social="0">Comment, vous n'en avez pas trouvé&amp;nbsp;? Mais les fleurs fouettes-cadavres poussent comme de la chienlit. J'en vois même d'ici&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="5" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;. Nous avons quelques informations sur ce fameux Rahto.&lt;BR&gt;&lt;BR&gt;Allez parler à Koro, le Capitaine de la Garde Koro, pour les entendre. Il vous attend de l'autre côté du balcon.&lt;BR&gt;&lt;BR&gt;Et merci de lui apporter ces provisions, il les attend également.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Oh, de précieuses provisions&amp;nbsp;! Merci bien&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, vous devriez garder ces bottes. Elles pourraient vous être utiles.</Page>
+    </Text>
+</QuestDialog>

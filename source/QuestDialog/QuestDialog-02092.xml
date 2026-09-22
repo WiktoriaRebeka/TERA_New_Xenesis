@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3509}, de la {@Rgn:47006$$Base de la Folie}, a un souci qui le... ronge.&lt;BR&gt;&lt;BR&gt;Trouvez-le et essayez de lui venir en aide.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">Ah, du renfort&amp;nbsp;! C'est tout ce que j'espérais.&lt;BR&gt;&lt;BR&gt;La présence autour de la base de mugatos et d'ours de Tirkai, en plus de leurs congénères argonomorphes, rend bien trop dangereuse toute mission sur le terrain.&lt;BR&gt;&lt;BR&gt;Tuez-les, empaquetez-les et envoyez-les à Pora Elinu, ou à qui vous voulez, mais je ne les veux plus dans le coin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">Des ours morts font des chercheurs heureux. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

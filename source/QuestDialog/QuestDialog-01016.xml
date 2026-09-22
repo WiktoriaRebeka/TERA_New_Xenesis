@@ -1,0 +1,67 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1050">
+        <Page social="0">Quand Fraya s'est aperçue que le matériau utilisé pour créer les morbolithes pourrait bien provenir du Mysterium, elle vous a fait venir à Allemantheia. Malachai, l'arcaniste en chef du Mysterium, s'est porté volontaire pour diriger l'enquête.&lt;BR&gt;&lt;BR&gt;Quand des preuves de la production des pierres ont été découvertes dans la Tanière arachnéenne, Arachnaea, vous y êtes allé pour détruire le générateur de pierres magiques. Malachai a soudain bouclé l'enquête, éveillant ainsi les soupçons de Fraya quant à sa loyauté. Fraya a traqué Malachai, mais il s'est échappé d'Allemantheia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1050">
+        <Page social="5" voiceTypeId="0">Quand je pense que c'est peut-être un membre du Mysterium qui les a ramenés...&lt;BR&gt;&lt;BR&gt;Nous devons découvrir d'où cette pierre a été extraite. Apportez ces fragments à Ryshan, à Allemantheia.&lt;BR&gt;&lt;BR&gt;Il saura nous dire d'où provient ce matériau.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1050">
+        <Page social="5" voiceTypeId="0">Ces matériaux de pierre magique sont probablement administrés par le Quartier général d'Allemantheia et le laboratoire du Mysterium.&lt;BR&gt;&lt;BR&gt;J'ai bien peur que Thulsa ait déjà déployé ses espions partout à Allemantheia.&lt;BR&gt;&lt;BR&gt;Retrouvons-nous à Frontera dès que nous connaîtrons la provenance des matériaux. Ne perdons surtout pas de temps.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" prevId="2" villagerId="1050">
+        <Page social="5" voiceTypeId="0">Il est préférable qu'une personne externe se charge de cette tâche.&lt;BR&gt;&lt;BR&gt;Je vais attendre les résultats à Frontera.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="5" voiceTypeId="0">La commandante Fraya souhaite que j'analyse le fragment de pierre magique ?&lt;BR&gt;&lt;BR&gt;... Elle veut donc que je détermine d'où provient le matériau utilisé pour confectionner la pierre magique. Hum... Ce matériau a quelque chose de louche... En principe, le quartier général et le Mysterium vérifient minutieusement tous les matériaux. Je ne comprends pas comment cela a pu arriver.&lt;BR&gt;&lt;BR&gt;Entendu. Je vais m'en charger sur-le-champ. En revanche, je ne m'y connais pas vraiment bien. Cela pourrait donc me prendre un certain temps.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="5" villagerId="1133">
+        <Page social="4" voiceTypeId="0">Ce n'est pas le domaine d'expertise de Ryshan.&lt;BR&gt;&lt;BR&gt;Je suis mieux qualifié pour cela.&lt;NEXTPAGEBUTTON&gt;"Qu'entendez-vous par là ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Il me semble fâcheux que quelqu'un comme Fraya se charge de tout.&lt;BR&gt;Son devoir de commandante est de rester à Allemantheia pour en assurer la sécurité. C'est bien plus utile à la fédération.&lt;BR&gt;&lt;BR&gt;Merci de le lui transmettre.&lt;BR&gt;&lt;BR&gt;Ryshan va vous remettre les résultats.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="6" villagerId="1111">
+        <Page social="5" voiceTypeId="0">Il est surprenant que Malachai soit à ce point obnubilé par ce travail.&lt;BR&gt;&lt;BR&gt;Mais c'est peut-être préférable. Après tout, il s'agit d'un magicien de premier ordre. L'analyse ne va pas prendre longtemps.&lt;BR&gt;&lt;BR&gt;Vous obtiendrez les résultats dès que je les aurai. Retournez donc auprès de Fraya pour l'assister.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="75" prevId="7" villagerId="1023">
+        <Page social="5" voiceTypeId="0">Mon absence a fait beaucoup parler au Mysterium et voilà que Malachai exige même que je rentre ?&lt;BR&gt;&lt;BR&gt;Vous disiez que Malachai a pris en charge l'analyse des pierres magiques ? Voilà qui est surprenant, de la part d'un tel paresseux... Il semble obnubilé par ce travail.&lt;BR&gt;&lt;BR&gt;Mais au moins, c'est un magicien de talent.&lt;BR&gt;Nous n'allons donc pas devoir attendre les résultats trop longtemps.&lt;NEXTPAGEBUTTON&gt;"Oui, c'est vrai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Pendant que vous patientiez à Allemantheia, nous avons découvert l'endroit où sont fabriquées les pierres magiques de Thulsa.&lt;BR&gt;Il s'agit d'une grotte appelée &lt;BR&gt;{@Rgn:39001$$Arachnaea}, à proximité de la Zone de quarantaine. La légende raconte que c'est là que repose Arachné.&lt;NEXTPAGEBUTTON&gt;"Comment puis-je m'y rendre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Suivez la route nord ouest qui rallie la Vallée maculée à la Zone de quarantaine et vous verrez un embranchement partant vers la droite.&lt;BR&gt;&lt;BR&gt;Il s'agit de l'entrée d'Arachnaea.&lt;BR&gt;&lt;BR&gt;J'ai stationné un agent du Mysterium nommé {@linkcreature:240#1034#Kaléon} devant la grotte. Allez lui parler et mettez ensemble un terme à la production des pierres magiques de Thulsa.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="240" prevId="8" villagerId="1034">
+        <Page social="5" voiceTypeId="0">C'est donc vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La commandante m'a beaucoup parlé de vous. Nous allons bien voir si les rumeurs sont fondées.&lt;BR&gt;&lt;BR&gt;Elles prétendent qu'Arachné s'est réfugiée à Arachnaea en fuyant Seren.&lt;BR&gt;&lt;BR&gt;Des araignées la surveillent. Malheureusement, le sort d'enquête n'a aucun effet ici. Nous n'avons donc pas d'autre choix que d'y entrer.&lt;BR&gt;&lt;BR&gt;Nous devrions commencer notre enquête auprès de la {@linkcreature:239#1100#Vigie défiante}.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="240" prevId="9" villagerId="1034">
+        <Page social="0" voiceTypeId="0">Arachnaea est un labyrinthe complexe. Rendons-nous ensemble auprès de la {@linkcreature:239#1100#Vigie défiante}. Ça ira plus vite.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="240" prevId="9" villagerId="1034">
+        <Page social="0" voiceTypeId="0">Eh bien, allons-y !</Page>
+    </Text>
+    <Text id="12" huntingZoneId="239" prevId="9" villagerId="1100">
+        <Page social="5" voiceTypeId="0">La production de pierres magiques de Thulsa semble plus intense ici que dans la Zone de quarantaine.&lt;BR&gt;&lt;BR&gt;Je ressens une magie bien plus dense. Il nous faut quelques-unes de ces pierres magiques. &lt;PCNAME&gt;, aidez-nous !&lt;NEXTPAGEBUTTON&gt;"Que puis-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Éliminez les contremaîtres de production, c'est-à-dire les {@linkcreature:39#250#commandants des Enfants d'Arachné}, ainsi que les {@linkcreature:39#260#chevaliers d'Arachné}.&lt;BR&gt;&lt;BR&gt;Cela devrait paralyser le {@LinkObject:37#générateur de pierres magiques}.&lt;BR&gt;&lt;BR&gt;L'occasion parfaite pour subtiliser les pierres.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="239" prevId="12" villagerId="1050">
+        <Page social="4" voiceTypeId="0">Mon instinct ne m'a pas trompé. Ces pierres magiques sont nettement plus puissantes que les pierres de la Zone de quarantaine.&lt;BR&gt;&lt;BR&gt;Une fois ces pierres déployées dans tout Val Palrada, nous pourrons dire adieu au sud de Shara.&lt;BR&gt;&lt;BR&gt;Heureusement que la production est suspendue et que ces bougres mordent la poussière.&lt;BR&gt;Il ne manque plus que les {@linkcreature:39#5000#menhirs sanctifiés} fabriqués ici, à Arachnaea.&lt;NEXTPAGEBUTTON&gt;"Les menhirs sanctifiés ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">J'en perçois l'écho grâce à l'énergie des pierres magiques de Thulsa que vous m'avez apporté, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tenez, voici la flamme purificatrice. Si vous la placez à côté des menhirs sanctifiés, elle va tout brûler, sans épargner le moindre petit fragment.&lt;BR&gt;&lt;BR&gt;Pendant ce temps, je vais vérifier s'il reste des choses à régler à Arachnaea.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="239" prevId="13" villagerId="1100">
+        <Page social="5" voiceTypeId="0">Parfait ! La sécurité est donc enfin revenue à Val Palrada et Allemantheia !&lt;BR&gt;&lt;BR&gt;Entretemps, j'ai trouvé Akeldama qui était responsable de l'agencement des pierres magiques de Thulsa. Mais... &lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Eh bien... le Mysterium nous a sommés d'arrêter nos recherches. Disons plutôt que c'est Malachai qui nous l'ordonne.&lt;BR&gt;&lt;BR&gt;Je ne vois pas un mot de Fraya. Elle n'en sait peut-être rien.&lt;BR&gt;&lt;BR&gt;Cherchez-la et demandez-lui ce qu'elle en pense.&lt;BR&gt;&lt;BR&gt;Allez trouver Fraya !</Page>
+    </Text>
+    <Text id="15" huntingZoneId="239" prevId="14" villagerId="1041">
+        <Page social="5" voiceTypeId="0">Arrêter les recherches ? Pourquoi faudrait-il arrêter les recherches.&lt;BR&gt;&lt;BR&gt;Et voilà qu'on m'ordonne de rentrer à Allemantheia.&lt;BR&gt;&lt;BR&gt;Décidément, il y a quelque chose de louche dans cette affaire.&lt;BR&gt;&lt;BR&gt;Je ne compte aller nulle part tant que l'affaire du brigadier Akeldama n'aura pas été résolue.&lt;BR&gt;&lt;BR&gt;Au diable les anciens ! Retrouvez-moi plus tard.&lt;NEXTPAGEBUTTON&gt;"Où ça ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Retrouvons-nous là.&lt;BR&gt;&lt;BR&gt;(Fraya vous chuchote l'emplacement de Paxomnia.)&lt;BR&gt;&lt;BR&gt;Destination : &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23018.2773,51029.5234,1380.7639&amp;type=1&amp;name=Paxomnia&lt;/A&gt;"&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="239" prevId="15" villagerId="1039">
+        <Page social="5" voiceTypeId="0">Les espions commencent à sortir de l'ombre, à Allemantheia. Cet ordre de repli et ce classement de l'enquête semblent tomber au plus mauvais moment.&lt;BR&gt;&lt;BR&gt;Je ne me laisse pas bâillonner aussi facilement. Je vais tendre un piège à Akeldamah, le brigadier de Thulsa.&lt;BR&gt;&lt;BR&gt;Je vais y aller seule pour ne pas alarmer l'ennemi.&lt;BR&gt;&lt;BR&gt;Ce téléportail mène directement au brigadier. Rejoignez-moi plus tard en empruntant le téléportail.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="407" prevId="16" villagerId="1004">
+        <Page social="5" voiceTypeId="0">Tout s'éclaire, à présent.&lt;BR&gt;&lt;BR&gt;Nous devons appréhender Malachai et découvrir l'emplacement du noyau.&lt;BR&gt;&lt;BR&gt;Je retourne à Allemantheia pour m'entretenir avec les anciens et le Mysterium. Vous, retournez dans le Laboratoire de Malachai.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="17" villagerId="1134">
+        <Page social="5" voiceTypeId="0">C'est vous, &lt;PCNAME&gt; ?&lt;BR&gt;Le commandant est déjà entré pour retrouver Malachai. Dépêchez-vous !</Page>
+    </Text>
+    <Text id="19" huntingZoneId="408" prevId="18" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Misère, ils se sont enfuis !&lt;BR&gt;&lt;BR&gt;Si Thulsa et Akasha pensent avoir gagné la partie, ils se trompent lourdement.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je vous remercie pour tous vos efforts passés, mais c'est loin d'être fini.&lt;BR&gt;&lt;BR&gt;Je vais avoir besoin de votre aide pour retrouver le noyau de Serion.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0">Animan, notre expert en arachnéens, a disparu. C'est un chercheur qui n'a peur de rien, j'imagine donc qu'il a dû s'attirer des ennuis.&lt;BR&gt;&lt;BR&gt;Il faut que vous vous aventuriez dans les niveaux supérieurs, vers l'est, pour le retrouver. Aidez-le s'il en a besoin.&lt;BR&gt;&lt;BR&gt;Et s'il va bien, ça me ferait plaisir d'être au courant.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1026">
+        <Page social="4">Aah&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Pardon&amp;nbsp;! Je vous ai pris pour {@gender:un arachnéen/une arachnéenne}. J'ai eu si peur… En fin de compte, la nature a besoin de sang. Mais ça va mieux, maintenant.</Page>
+    </Text>
+</QuestDialog>

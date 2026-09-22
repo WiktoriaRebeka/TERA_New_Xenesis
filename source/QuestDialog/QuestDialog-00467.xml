@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">J'ai besoin de l'aide de Jadan pour livrer un paquet qui vient d'arriver, mais il est introuvable.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, vous pourriez vous rendre à la porte nord et demander à {@LinkCreature:67#1008$$Okon} s'il a vu passer Jadan&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1008">
+        <Page social="5">Jadan&amp;nbsp;? Non, je ne l'ai pas vu de la journée.&lt;BR&gt;&lt;BR&gt;Mais allez poser la question à {@LinkCreature:67#1019#Kripa}, là-bas. On ne sait jamais.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1019">
+        <Page social="5">Redites-moi son nom... Jadan&amp;nbsp;? En effet, je l'ai vu partir pour le &lt;font color='#660000'&gt;Val du Croc&lt;/font&gt; en compagnie de son fils. Il a dit qu'il allait y cueillir des herbes.&lt;BR&gt;&lt;BR&gt;Maintenant que vous le dites, ça fait déjà un moment qu'il est parti.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1013">
+        <Page social="5">(C'est le cadavre d'un Popori, gisant au milieu des herbes qu'il était en train de cueillir. La fourrure vous complique la tâche, mais en examinant le cadavre de plus près, vous découvrez qu'il a été vidé de son sang.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1019">
+        <Page social="5">Quoi&amp;nbsp;? Il a été...? Ce... ce n'est pas possible. Comment une telle chose a-t-elle pu se produire&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous devez avertir Paka immédiatement.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="5">Jadan est mort&amp;nbsp;? Triste nouvelle... Il se passe définitivement des choses étranges, en ce moment. Pour assurer la sécurité des citoyens, nous devrions envisager de mettre en place un système de binômes.&lt;BR&gt;&lt;BR&gt;Mais attendez... Où se trouve Dipa, le fils de Jadan&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

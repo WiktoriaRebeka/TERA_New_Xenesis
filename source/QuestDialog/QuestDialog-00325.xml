@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">La moitié des soldats du crû rêvent de mettre la main sur les trésors des pirates, et les autres ne pensent qu'à se venger de ce que les pirates du Fouet rouge ont pu faire à leurs familles ou leurs proches.&lt;BR&gt;&lt;BR&gt;Mais pourquoi ne pas faire d'une pierre deux coups, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Si vous passez par le Bastion, à l'ouest d'ici, vous y trouverez des objets de valeur.&lt;BR&gt;&lt;BR&gt;Allez donc y faire un tour, &lt;PCCLASS:lcase&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Les nagas ne sont pas des pirates comme les autres. D'authentiques pirates auraient une idée de la valeur de ces antiquités. Ces objets traînent sous leur nez depuis tout ce temps, et ils ne semblent pas en avoir conscience.&lt;BR&gt;&lt;BR&gt;Enfin, l'imbécillité des uns fait le bonheur des autres, pas vrai&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">N'allez pas vous surmener, &lt;PCNAME&gt;. Pas la peine de tuer tous ces pirates en une fois... iIs ne vont pas s'envoler.</Page>
+    </Text>
+</QuestDialog>

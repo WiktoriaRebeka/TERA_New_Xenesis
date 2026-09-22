@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Eh bien, il nous serait peut-être plus simple de mettre la main sur cette "pierre magique" si nous en savions un peu plus à son sujet. Elle est certainement arrivée à bord d'un navire, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Tout navire de la flotte du Fouet rouge dispose d'un journal de bord. Quand les navires sont à quai, ce sont les {@LinkCreature:11#2001#seconds-maîtres du Fouet rouge} et leurs subordonnés, les {@LinkCreature:11#2005#excavateurs du Fouet rouge}, qui sont chargés de garder ses journaux de bord.&lt;BR&gt;&lt;BR&gt;Emparons-nous de ces documents et effectuons quelques recherches.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Voyons voir..."pierre... magique"... La voilà&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Elle est arrivée ici il y a un an, à peu près. Elle doit être énorme&amp;nbsp;; c'était le seul objet de la cargaison. Toutes les autres colonnes de renseignements portent la mention "Psycholithe. Voir le capitaine".&lt;BR&gt;&lt;BR&gt;Franchement, j'espérais trouver mieux que ça.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1031">
+        <Page social="0">Ces journaux de bord sont la clé du problème. Ils nous diront certainement quel type de pierre magique chercher. Allez les chercher sur les {@LinkCreature:11#2001#seconds-maîtres du Fouet rouge} et les {@LinkCreature:11#2005#excavateurs du Fouet rouge}.</Page>
+    </Text>
+</QuestDialog>

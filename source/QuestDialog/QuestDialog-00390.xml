@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="4">Les chercheurs demandent à Jirash de mettre un terme aux attaques des {@LinkCreature:13#2#marchespores} qui pillent leurs réserves, mais Adria a interdit aux sentinelles de quitter leurs postes.&lt;BR&gt;&lt;BR&gt;Seule une personne n'appartenant ni au personnel scientifique ni aux rangs des sentinelles pourrait nous prêter main-forte. Les esprits cherchent des cristaux de mana qui ont été dérobés à d'autres esprits.&lt;BR&gt;&lt;BR&gt;Récupérez autant de cristaux que vous le pourrez, avant de rapporter le tout ici.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1023">
+        <Page social="4">C'est exactement ce qu'ils voulaient. Les chercheurs et les sentinelles vous remercient&amp;nbsp;! Maintenant, que vous restiez ou pas, je vais peut-être enfin pouvoir combattre pour de vrai.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1023">
+        <Page social="0">Les {@LinkCreature:13#2#marchespores} sont un peu plus bas. Attention à leur allonge. Ils tournoient, virevoltent et démolissent quiconque ayant le malheur de les prendre à la légère. Mais vous le savez peut-être déjà, sachant que vous n'avez manifestement pas récupéré les cristaux de mana.&lt;BR&gt;&lt;BR&gt;Allez me chercher ça et rapportez-moi le tout. Pas la peine de revenir avant.</Page>
+    </Text>
+</QuestDialog>

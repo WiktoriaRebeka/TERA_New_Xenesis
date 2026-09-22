@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="4">Aucune nouvelle de renforts venant du {@Rgn:32008$$Fortin des Irréductibles}.&lt;BR&gt;&lt;BR&gt; Je comprends que la situation soit difficile, mais je vous en prie, allez là-bas et dites à Hallaj que nous avons vraiment besoin de ces troupes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Ainsi, Qale manque d'effectifs, hein&amp;nbsp;? Eh bien nous aussi. De plus, je ne m'occupe pas de la gestion des troupes, c'est Nashwa. Si vous avez des questions, allez la voir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">Ouais, j'ai entendu Hallaj depuis ici.&lt;BR&gt;&lt;BR&gt;Malheureusement il dit vrai. Nous ne pouvons envoyer aucun renfort à Qale. Désolée de vous avoir fait faire tout ce chemin pour rien. J'aimerais qu'il en soit autrement.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="4">Je dois retourner à Chatran, mais je n'ai aucune chance de survivre au trajet. Il y a trop d'argons&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Vous serez sous ma protection."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent&amp;nbsp;! J'ai hâte de me remettre au travail. Prévenez-moi quand nous serons prêts à partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" villagerId="30">
+        <Page social="0">Vous êtes {@gender:prêt/prête}&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1034">
+        <Page social="6">Je savais que vous tiendriez parole, &lt;PCNAME&gt;. Merci.&lt;NEXTPAGEBUTTON&gt;"Je vous en prie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Au fait, j'ai trouvé une lettre. Vu tous les grands mots qu'elle contient, elle doit venir d'un Baraka. Vous pensez que vous pourriez retrouver son propriétaire&amp;nbsp;? A votre place, je commencerais par chercher du côté de la {@Rgn:78001}.</Page>
+    </Text>
+</QuestDialog>

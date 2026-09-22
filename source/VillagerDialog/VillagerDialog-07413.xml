@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="873" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Cette pierre magique est gravée d'un emblème.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(L'emblème émet une lueur intense.) &lt;TEXTBUTTON&gt;Regarder l'emblème.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Tendre la main vers l'emblème. &lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

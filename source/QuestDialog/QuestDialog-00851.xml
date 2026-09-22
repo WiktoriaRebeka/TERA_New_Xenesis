@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">&lt;PCNAME&gt;, Nashwa m'a parlé de vos exploits.&lt;BR&gt;&lt;BR&gt;Les documents que vous avez récupérés comprennent une carte indiquant l'emplacement d'une base où stationnerait un officier de Kaidun. Le sens de la stratégie de {@LinkCreature:32#21#Lotishara} a fait nombre de victimes dans nos rangs.&lt;BR&gt;&lt;BR&gt;Allez lui donner la mesure de la puissance de la Fédération Valkyon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Formidable&amp;nbsp;! La mort de Lotishara est un coup dur des plus sévères pour l'armée du traître. C'en sera bientôt fini de cette guerre.</Page>
+    </Text>
+</QuestDialog>

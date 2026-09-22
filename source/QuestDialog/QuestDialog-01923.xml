@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="479" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">Nous avons appris que les argons restants complotaient contre nous.&lt;BR&gt;&lt;BR&gt;Ils se font appeler le Saravash. Tuez le Saravash et détruisez leur refuge. Trouvez Tryphena à l'Avant-poste des Chasseurs de Reliques. Elle vous mènera au téléportail.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="5">Merci d'être venu. Arkaius m'a demandé d'installer un téléportail ici.&lt;BR&gt;&lt;BR&gt;Prenez cette clé argone. Utilisez-la pour faire fonctionner le téléportail et tuez Saravash.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1501">
+        <Page social="0">Voici le téléportail menant à l'Ascension de Saravash.)</Page>
+    </Text>
+</QuestDialog>

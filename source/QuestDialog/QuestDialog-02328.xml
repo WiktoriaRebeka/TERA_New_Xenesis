@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">Merci de votre patience, &lt;PCNAME&gt;.&lt;BR&gt;J'ai pu étudier les capsules minérales plus en détail.&lt;BR&gt;&lt;BR&gt;Comme je m'y attendais, la toxicité des capsules minérales d'Exodor est nettement supérieure à celles d'Arborea. J'ai donc été obligée de m'interrompre en pleine analyse.&lt;BR&gt;&lt;BR&gt;Comment les autres créatures peuvent-elles bien survivre dans la même région que les parfons ?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Aucune idée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si nous arrivons à l'apprendre, je pourrai concevoir un remède.&lt;BR&gt;&lt;BR&gt;Chassez d'abord des épinocles et rapportez-moi leurs ongles épineux.&lt;BR&gt;&lt;BR&gt;Étant donné que les épinocles utilisent avant tout leurs ongles pour se procurer de la nourriture, ils pourraient avoir bien des choses à nous révéler.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">Bien, ça devrait suffire. Je vais analyser les ongles.&lt;BR&gt;&lt;BR&gt;Patientez un instant ici. J'ai une autre faveur à vous demander.&lt;BR&gt;&lt;BR&gt;Encore un peu de patience, s'il vous plaît. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Collectez les ongles d'épinocles demandés. Il me faut un nombre suffisant d'échantillons, sans quoi je ne pourrais pas faire d'analyse fiable.</Page>
+    </Text>
+</QuestDialog>

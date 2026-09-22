@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5" voiceTypeId="0">J'ai pour ordre d'observer le Bastion de Lok et d'infliger autant de pertes que possible à ses descendants, mais un basilic m'a laissé en souvenir une vilaine blessure à la jambe.&lt;BR&gt;&lt;BR&gt;Je ne peux pas y aller comme ça – ils ne feraient qu'une bouchée de moi.&lt;BR&gt;&lt;BR&gt;Nous devons frapper les descendants dans leur repaire. Pouvez-vous y aller à ma place&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5" voiceTypeId="0">Je vois des insignes pleins de sang. Excellent. Cela signifie que pour une fois, c'est au tour des descendants de Lok de pleurer leurs morts.&lt;BR&gt;&lt;BR&gt;Je n'aurais jamais réussi sans vous. Bravo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">Quelle honte ! Mais nous devons éradiquer le reste des combattants cultistes. Ce sont les ennemis de la fédération.</Page>
+    </Text>
+</QuestDialog>

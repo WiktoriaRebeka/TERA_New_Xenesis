@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Les devans des environs sont dotés d'un nouveau type d'armes. Elles sont très différentes de leurs armes traditionnelles. Une idée en entraînant une autre, je me suis dit qu'elles nous seraient aussi utiles qu'à eux, sinon plus.&lt;BR&gt;&lt;BR&gt;Traquez les {@LinkCreature:3#300141#spadassins}, les {@LinkCreature:3#19#bandits} ou les {@LinkCreature:3#18#râcleuses} devans et récupérez leurs armes. Si elles sont enchantées, je préfère les savoir entre nos mains qu'entre les leurs. Ne ratez pas votre coup. Les habitants de cette région comptent sur nous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Bien joué&amp;nbsp;! On fait d'une pierre deux coups&amp;nbsp;: c'est mauvais pour eux et c'est bon pour nous. Je vais devoir trouver un moyen de faire parvenir ces armes au Poste de l'Avant-garde ou à Crescentia.&lt;BR&gt;&lt;BR&gt;Merci de votre aide, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Oh, vous n'aurez pas de mal à les trouver. Dans Deva Silva, on ne voit que ça. J'ai aperçu ce nouveau type d'armes sur les devanes et les bandits. Vous devriez commencer par eux.</Page>
+    </Text>
+</QuestDialog>

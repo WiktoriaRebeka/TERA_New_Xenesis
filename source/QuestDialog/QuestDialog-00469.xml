@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="5">Nous pensons que les nouveaux soldats qui ont fait leur apparition sont des mercenaires. L'argent doit donc être leur seule motivation.&lt;BR&gt;&lt;BR&gt;En revanche, leur coordination suggère qu'il s'agit d'une organisation plutôt que d'un groupe d'indépendants, et nous pensons avoir identifié leur chef. Trouvez la {@LinkCreature:16#1007#Capitaine Kirithia} et rapportez-moi sa tête. Ca devrait leur mettre des bâtons dans les roues.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">Superbe&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bon travail. Je crois que nous avons gagné un temps précieux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">Quoi, vous pensiez que c'était une métaphore&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Non, je veux littéralement la tête de cette femme&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez-y maintenant, dépêchez-vous&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">J'ai une idée pour tenter de traiter la folie de cet homme, mais il va falloir me suivre... je pars d'un postulat assez... personnel.&lt;BR&gt;&lt;BR&gt;Le malheureux parle sans cesse de ceux qui "l'observent". Il fait référence aux {@LinkCreature:9#410#pilleurs gulas}, aux {@LinkCreature:9#700#chasseurs farfadets alizarins} et aux {@LinkCreature:9#710#gardiens farfadets alizarins}.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs yeux. Nous allons voir si mon traitement de choc expérimental peut ramener notre homme à la raison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Vous en avez trouvé. Fort bien&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Vous trouverez des {@LinkCreature:9#410#pilleurs gulas}, ainsi que des {@LinkCreature:9#700#chasseurs} et des {@LinkCreature:9#710#gardiens farfadets alizarins} au premier sous-sol du Labyrinthe d'Azarel.</Page>
+    </Text>
+</QuestDialog>

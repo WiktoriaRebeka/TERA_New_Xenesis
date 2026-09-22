@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2022">
+        <Page social="4">Certains cherchent le pouvoir par amour du pouvoir et d'autres le cherchent pour le bien du monde.&lt;BR&gt;&lt;BR&gt;Si vous faites partie des seconds, allez voir &lt;font color='#0000FF'&gt;Henan&lt;/font&gt; à Hautegarde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2022">
+        <Page social="4">Ah, un Berserker désireux d'élargir ses connaissances. Je peux vous enseigner de nouvelles façons d'utiliser les compétences que vous possédez déjà. Mais si vous aspirez à la perfection, vous devriez aller voir Tarkloon. Il vous apprendra comment mettre votre rage à contribution pour protéger vos camarades.&lt;BR&gt;&lt;BR&gt;D'ici là, vous ne serez pas capable d'exploiter tout le potentiel de &lt;font color='#FF0000'&gt;Rage féroce VI&lt;/font&gt;, &lt;font color='#FF0000'&gt;Colère déchaînée  VIII&lt;/font&gt; et &lt;font color='#FF0000'&gt;Blocage frontal II&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="9999">
+        <Page social="4">Si vous êtes venu{@g:/e} pour que je vous entraîne, c'est que vous êtes prêt{@g:/e} à devenir plus qu'une simple machine à tuer. Êtes-vous sûr{@g:/e} de vouloir passer à la prochaine étape&amp;nbsp;? Travailler à mes côtés va radicalement changer votre perception de vos aptitudes.&lt;BR&gt;&lt;BR&gt;Rares sont les Berserkers qui y arrivent sans s'abandonner au moins une fois à leur rage. Je vais vous montrer comment transformer cette colère en quelque chose de prodigieux.</Page>
+    </Text>
+</QuestDialog>

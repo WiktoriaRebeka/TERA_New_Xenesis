@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Velika vous demande, &lt;PCNAME&gt;. Dougal va vous y amener.&lt;BR&gt;Gislan&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;[Un niveau d'équipement de 463 ou supérieur est requis dans l'Abîme.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez beau avoir libéré Karakhir, il reste introuvable. Suspecté d'avoir enlevé Karakhir en rejoignant les membres des révolutionnaires du drapeau rouge, vous êtes parti pour l'Abîme afin de prouver votre innocence.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="39" prevId="1" villagerId="6000">
+        <Page social="0" voiceTypeId="0">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;Gislan, le commandant de Velika&lt;BR&gt;vous a fait demander. Rendez-vous immédiatement à Velika.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Qui est Gislan ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Depuis la fin de la guerre, Gislan se consacre à sa foi et ne sort guère plus de chez lui.&lt;BR&gt;&lt;BR&gt;Il n'est donc pas surprenant que vous ne le connaissiez pas.&lt;BR&gt;&lt;BR&gt;Le commandant Gislan n'avait plus fait demander quelqu'un de la sorte depuis la guerre d'Argon.&lt;BR&gt;C'est tout à fait inhabituel.&lt;NEXTPAGEBUTTON&gt;"Que me veut-il ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je n'en sais pas plus.&lt;BR&gt;Peut-être que Gislan cherche à ressortir de l'ombre et veut s'entourer de héros compétents.&lt;BR&gt;&lt;BR&gt;Gislan souhaite vous rencontrer dans le Consulat de Velika.&lt;BR&gt;Je dois partir à la recherche d'un autre gardien.&lt;BR&gt;Rendez-vous au consulat.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1401">
+        <Page social="0" voiceTypeId="0">Ainsi, vous faites cause commune avec les révolutionnaires du drapeau rouge ?&lt;BR&gt;Aknak, l'apprenti de Karakhir, m'a tout raconté.&lt;BR&gt;&lt;BR&gt;Apparemment, vous faites partie des dirigeants des révolutionnaires du drapeau rouge. &lt;BR&gt;Vous vous êtes fait passer pour un gardien vertueux tout en préparant secrètement un assaut sur la Fédération Valkyon !&lt;BR&gt;&lt;BR&gt;Et vous avez enlevé Karakhir pour qu'il vous forge une arme qui vous permettrait d'attaquer la Fédération !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1402">
+        <Page social="0" voiceTypeId="0">Et ce n'est pas tout !&lt;BR&gt;Quand le maître Karakhir a refusé d'obéir à vos ordres, vous l'avez tué !&lt;BR&gt;Karakhir avait une volonté de fer !&lt;BR&gt;&lt;BR&gt;(Il regarde dans la direction de Gislan.)&lt;BR&gt;Fouillez cette personne !&lt;BR&gt;Nous trouverons bien une preuve que c'est lui l'assassin !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1401">
+        <Page social="0" voiceTypeId="0">(Gislan fait une fouille sommaire de &lt;PCNAME&gt;.)&lt;BR&gt;Mais c'est... la corne de Karakhir !&lt;BR&gt;&lt;BR&gt;Votre crime équivaut à une trahison de la déesse Velik. Comment pouvez-vous oser enlever Karakhir et attaquer la Fédération ?! Vous devez avoir perdu la tête ! &lt;BR&gt;&lt;BR&gt;Mais que vous ayez poussé le vice jusqu'à l'assassiner...&lt;BR&gt;Comptez-vous continuer à tout nier, malgré cette preuve irréfutable ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1401">
+        <Page social="0">Pourquoi hésitez-vous ?&lt;BR&gt;Si vous êtes innocent, il n'y a pas à hésiter.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1401">
+        <Page social="0" voiceTypeId="0">Vous êtes donc foncièrement perfide et menteur ! &lt;BR&gt;Vous ne valez pas la lame qui vous décapitera.&lt;BR&gt;&lt;BR&gt;(Gislan écume de rage.)&lt;BR&gt;&lt;BR&gt;Je suis un disciple suit les enseignements de la gracieuse déesse Velik. &lt;BR&gt;C'est pourquoi, tout pécheur que vous êtes, je vais vous donner l'occasion de prouver votre innocence.&lt;BR&gt;&lt;BR&gt;Si vous voulez vous débarrasser de la marque du pécheur, rendez-vous dans l'Abîme. &lt;BR&gt;C'est là que les pécheurs reçoivent leur verdict. &lt;BR&gt;Si vous êtes véritablement innocent, vous ressortirez sain et sauf de cet endroit.&lt;BR&gt;&lt;BR&gt;Mais si vous ne parvenez pas à prouver votre innocence, vous devrez mener l'existence d'un pécheur, qui n'est jamais bienvenue nulle part.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1405">
+        <Page social="0" voiceTypeId="0">(&lt;PCNAME&gt; essaye d'expliquer à Dougal ce qui est arrivé jusqu'à présent.)&lt;BR&gt;&lt;BR&gt;Je ne souhaite pas vous parler pour le moment.&lt;BR&gt;Commencez par vous rendre au Consulat de Velika.&lt;NEXTPAGEBUTTON&gt;"Ne me faites-vous plus confiance ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Le regard de Dougal se trouble.)&lt;BR&gt;&lt;BR&gt;Vous êtes la dernière personne à avoir vu Karakhir vivant.&lt;BR&gt;Et vous êtes en possession de sa corne.&lt;BR&gt;Voici la dure réalité des faits.&lt;BR&gt;&lt;BR&gt;J'espère que vous ne me décevrez pas davantage.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="1400">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, vous vous êtes efforcé de prouver votre innocence. &lt;BR&gt;Mais tous n'ont pas encore abandonné leur méfiance à votre égard.&lt;BR&gt;&lt;BR&gt;Vous devriez donc éliminer à vous seul les révolutionnaires du drapeau rouge afin de convaincre les derniers sceptiques que vous êtes bien du côté de la Fédération.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="4">Je parcours les continents à la recherche de trésors et autres raretés, en fouillant les ruines et autres épaves que je croise en chemin.&lt;BR&gt;&lt;BR&gt;Si vous connaissiez quoi que ce soit à la chasse aux trésors, vos vêtements témoigneraient d'un autre train de vie. Mais vous avez du bol&amp;nbsp;! Je vais vous apprendre les ficelles du métier&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je vous écoute."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ces épaves étaient autrefois des navires marchands... mais les marchands ont leurs petits secrets. Montez donc à bord du navire et intéressez-vous à tout ce qui semble ne pas se trouver à sa place au milieu du reste.&lt;BR&gt;&lt;BR&gt;Bref, montez à bord et trouvez le trésor&amp;nbsp;! Vous n'auriez jamais pensé à ça par vous-même, hein&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1032">
+        <Page social="4">(Ce coffre semble différent des autres)&lt;NEXTPAGEBUTTON&gt;"Le trésor&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(C'est verrouillé. Vous trouverez peut-être la clé sur un {@LinkCreature:31#14#maître d'équipage gula noyé}.)&lt;NEXTPAGEBUTTON&gt;"A nous deux, coffre au trésor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1025">
+        <Page social="4">Vous voyez&amp;nbsp;! Je vous l'avais dit. J'ai bien mérité le deux tiers de ce trésor... oui, ça me paraît équitable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ouvrons ce coffre&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" villagerId="1025">
+        <Page social="0">Cherchez et vous trouverez. Assez causé&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="4" villagerId="1025">
+        <Page social="4">Hein&amp;nbsp;? C'est... une carte.&lt;BR&gt;&lt;BR&gt;Regardez un peu&amp;nbsp;! Pas de doute, c'est une carte au trésor&amp;nbsp;! Oui, j'en mettrais ma main au feu.&lt;NEXTPAGEBUTTON&gt;"A quoi mène-t-elle&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ca... ce n'est pas un explorateur qui vous le dira. C'est une tâche réservée à une personne versée dans l'art de déchiffrer les codes.&lt;BR&gt;&lt;BR&gt;Tant que le document n'aura pas été décrypté, il ne nous apprendra rien.&lt;BR&gt;&lt;BR&gt;Montrez ça à Yasper, à la Garnison de la Pointe du Phare. C'est l'un de mes élèves, et il se débrouille très bien en décodage.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" prevId="6" villagerId="1027">
+        <Page social="4">Une carte codée&amp;nbsp;? Voyons un peu ça.&lt;BR&gt;&lt;BR&gt;Où l'avez-vous trouvée&amp;nbsp;? Ce n'est pas une carte au trésor. C'est une œuvre d'art.&lt;NEXTPAGEBUTTON&gt;"Comment ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eh bien, ça ressemble à une carte, et c'est très ancien, mais ce "code" est une calligraphie gula. Elle est purement décorative.&lt;BR&gt;&lt;BR&gt;Cependant, son âge lui confère une certaine valeur, pour peu que vous la revendiez au bon collectionneur. Si vous comptez vous en départir, je vous l'achète. Qu'en dites-vous&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

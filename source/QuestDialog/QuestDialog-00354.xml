@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">C'est sur l'Ile des Brumes que les Pirates du Fouet rouge et les marchands d'esclaves de Mitra se livrent à leurs petites affaires.&lt;BR&gt;&lt;BR&gt;Tuer les esclavagistes est le seul moyen de mettre un terme à leurs exactions.&lt;BR&gt;&lt;BR&gt;Allez éliminer les {@LinkCreature:12#21#maîtres d'esclaves gulas} arpentant l'Ile des Brumes, avant d'aller parler à {@LinkCreature:212#1005$$Taniel}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Génial. Vous avez tué bon nombre d'esclavagistes. Je sais que ce ne sont pas des proies faciles. C'est du bon boulot. Quand on a affaire à eux, mieux vaut éviter de se laisser cerner. S'ils parviennent à déborder l'adversaire, même un chat avec ses neuf vies n'a aucune chance de s'en sortir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">Tuez-les tous, &lt;PCNAME&gt;. Imaginez combien de personnes vous sauvez de l'esclavage chaque fois que vous tuez l'une de ces vermines.</Page>
+    </Text>
+</QuestDialog>

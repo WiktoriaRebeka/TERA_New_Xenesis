@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="5">La Forêt bénie est sous la garde de golems, mais, au lieu de le protéger, ils le saccagent&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dépêchez-vous d'y aller et tuez les {@LinkCreature:23#14#teralithes menaçants}.&lt;BR&gt;&lt;BR&gt;Prélevez les pierres de sceau sur leurs corps. Nos arcanistes en auront besoin plus tard.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">Quel dommage pour les teralithes&amp;nbsp;! Ils sont affreusement chers à créer.&lt;BR&gt;&lt;BR&gt;Enfin, la nature passe avant tout.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1007">
+        <Page social="0">Il ne s'agit pas seulement de détruire les teralithes. Si les arcanistes ne récupèrent pas les pierres, il nous coûtera beaucoup plus cher d'en créer de nouveaux.&lt;BR&gt;&lt;BR&gt;Il nous faut ces pierres&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

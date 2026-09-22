@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Nous réfléchissions à un rapport possible entre les {@LinkCreature:40#11#éclaireuses selvaras}, nos amis disparus, et le fléau. Les selvaras ont une base près d’ici. Il y a peut-être des informations utiles là-bas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1012">
+        <Page social="4">Toutes les pages de ces documents font référence à la Légion de Thulsa d’une manière ou d’une autre. Le voilà, notre rapport&amp;nbsp;: ils travaillent ensemble.&lt;BR&gt;&lt;BR&gt;Mais pour quoi&amp;nbsp;? Et dans quel but&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Et pour qui&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1012">
+        <Page social="0">Apportez tous les documents qui parlent des enlèvements ou du fléau. Le rapport doit se trouver quelque part à l’intérieur.</Page>
+    </Text>
+</QuestDialog>

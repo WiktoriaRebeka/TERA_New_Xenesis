@@ -1,0 +1,396 @@
+<StrSheet_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Item StrSheet_Item.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Item">
+    <String id="458" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Compétence d'équitation : Fortuna" />
+    <String id="459" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Compétence d'équitation : Fides" />
+    <String id="460" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Compétence d'équitation : Virtus" />
+    <String id="461" toolTip="Cet objet n'est plus utilisé." string="Chargé de ravitaillement de l'alliance" />
+    <String id="462" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation d'une balise d'infiltration" />
+    <String id="463" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation de garde" />
+    <String id="464" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation de barricade" />
+    <String id="465" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation de canon" />
+    <String id="466" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de l'étendard de bataille" />
+    <String id="467" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la fortification" />
+    <String id="468" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la Ruée folle" />
+    <String id="469" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la prière de bataille" />
+    <String id="470" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de l'étendard de bataille" />
+    <String id="471" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la fortification" />
+    <String id="472" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la Ruée folle" />
+    <String id="473" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la prière de bataille" />
+    <String id="474" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de l'étendard de bataille" />
+    <String id="475" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la fortification" />
+    <String id="476" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la Ruée folle" />
+    <String id="477" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de groupe de leaders : Invocation de la prière de bataille" />
+    <String id="478" toolTip="Ce manuel d'entraînement n'est plus disponible." string="Manuel de compétences : Activation de la solution au noctenium" />
+    <String id="479" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation de garde" />
+    <String id="480" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel d'alliance : Invocation de garde" />
+    <String id="483" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Requête d'Adiar" />
+    <String id="484" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Requête de Derene" />
+    <String id="485" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Requête de Frateko" />
+    <String id="486" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Collectiviste" />
+    <String id="487" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Mission de l'Union" />
+    <String id="488" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Hardcore" />
+    <String id="1140" toolTip="Une grenade longue distance aux propriétés étourdissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade étourdissante" />
+    <String id="1141" toolTip="Une bombe déployable qui inflige des dégâts de zone quand on marche dessus. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Mine" />
+    <String id="1142" toolTip="Une grenade longue distance aux propriétés ralentissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade ralentissante" />
+    <String id="1143" toolTip="Une bombe déployable qui explose au bout d'un temps déterminé et inflige des dégâts de zone. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Bombe à retardement" />
+    <String id="1144" toolTip="Une grenade longue distance aux propriétés aveuglantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade aveuglante" />
+    <String id="1145" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Matériau utilisé pour fabriquer des bombes." string="Poudre explosive" />
+    <String id="1146" toolTip="Cet objet est inutilisable et peut être revendu à un marchand contre des pièces d'or." string="Potion de restauration de l'alliance (ancien)" />
+    <String id="1147" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Peau de bête contaminée par le noctenium" string="Peau infectée" />
+    <String id="1148" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Un échantillon de peau imprégné de noctenium collecté sur des animaux infectés par le noctenium. Utilisé pour créer une infusion de noctenium permettant d'améliorer les compétences." string="Tissu au noctenium" />
+    <String id="1149" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Minerai contenant des nervures de noctenium. On le trouve dans le minerai du territoire de l'alliance." string="Échantillon de minerai de noctenium" />
+    <String id="1150" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Minerai contenant beaucoup de noctenium. On le trouve dans un minerai du territoire de l'alliance." string="Fragment de minerai de noctenium" />
+    <String id="1151" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Une réserve d'énergie puissante issue du noctenium. On la trouve dans un minerai du territoire de l'alliance." string="Energie au noctenium de Sharan" />
+    <String id="1152" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Une masse d'énergie protectrice issue du noctenium. On la trouve dans un minerai du territoire de l'alliance." string="Energie au noctenium d'Arun" />
+    <String id="1153" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Un pétale de fleur contenant du noctenium. On le trouve sur les plantes du territoire de l'alliance." string="Pétale contenant du noctenium" />
+    <String id="1154" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Une graine de plante contaminée par du noctenium. On la trouve sur les plantes du territoire de l'alliance." string="Graine contaminée" />
+    <String id="1155" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Du sang d'animal contaminé par du noctenium.&#xA;Son apparence étincelante laisse à penser qu'il possède des propriétés utiles." string="Sang contaminé" />
+    <String id="1156" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Une peau de banane contaminée par du noctenium. Le noctenium l'a rendue caoutchouteuse. Vous pouvez en trouver sur les bananiers du territoire de l'Union des Eclairés." string="Peau de banane" />
+    <String id="1157" toolTip="&lt;font color = '#2478FF'&gt;[Matériau collecté]&lt;/font&gt; Voici un fragment de minerai de noctenium de Kaiator. C'est une pierre non traitée contaminée par le noctenium. On l'utilise pour la fabrication." string="Éclat de noctenium" />
+    <String id="1158" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Une bouteille utilisée pour l'alchimie." string="Bouteille de réactif spécial" />
+    <String id="1159" toolTip="&lt;font color = '#2478FF'&gt;[Matériel de quête]&lt;/font&gt; Noctenium en poudre sans impuretés. Utilisé pour créer une infusion de noctenium permettant d'améliorer les compétences." string="Poudre de noctenium pure" />
+    <String id="1160" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Un durcisseur spécial utilisé pour transformer la poudre de noctenium en pâte." string="Durcisseur de poudre de noctenium" />
+    <String id="1161" toolTip="Une pierre de forge fabriquée à partir de poudre de noctenium. (Sert à enchanter de l'équipement.)" string="Pierre de forge en noctenium" />
+    <String id="1162" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une masse brute de noctenium trouvée sur des monstres infectés par le noctenium." string="Membrane de noctenium commune" />
+    <String id="1163" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Un appareil utilisé pour insuffler de l'énergie invocatrice à une membrane de noctenium." string="Infuseur magique commun" />
+    <String id="1164" toolTip="Une baguette qui invoque un arachnéen imprégné de noctenium. (Seule une créature invoquée peut apparaître à la fois.)" string="Baguette d'invocation inhabituel" />
+    <String id="1165" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une masse de noctenium trouvée sur les monstres infectés par le noctenium." string="Membrane de noctenium peu commune" />
+    <String id="1166" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Un appareil utilisé pour insuffler de l'énergie invocatrice à une membrane de noctenium." string="Infuseur magique inhabituel" />
+    <String id="1167" toolTip="Une baguette qui invoque un ovolith imprégné de noctenium." string="Baguette d'invocation rare" />
+    <String id="1168" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une masse de noctenium trouvée sur les monstres infectés par le noctenium." string="Membrane de noctenium rare" />
+    <String id="1169" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Un appareil utilisé pour insuffler de l'énergie invocatrice à une membrane de noctenium." string="Infuseur magique rare" />
+    <String id="1170" toolTip="Une baguette qui invoque un orisk imprégné de noctenium." string="Baguette d'invocation supérieure" />
+    <String id="1171" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une masse de noctenium trouvée sur les big boss infectés par le noctenium." string="Membrane de noctenium supérieure" />
+    <String id="1172" toolTip="&lt;font color = '#2478FF'&gt;[Matériau acheté]&lt;/font&gt; Un matériau que nos chercheurs utilisent pour imprégner l'équipement de noctenium." string="Condensateur du quartier-maître" />
+    <String id="1173" toolTip="Pour fabriquer des armes." string="Rune nox de Shara" />
+    <String id="1174" toolTip="Pour fabriquer des armures." string="Rune nox d'Arun" />
+    <String id="1175" toolTip="Très pratique pour faire fondre des choses. (combinez avec de la poudre de noctenium et du tissu au noctenium pour créer de l'acide chlorhydrique puissant)." string="Acide chlorhydrique" />
+    <String id="1176" toolTip="Acide chlorhydrique utilisé pour faire fondre les objets contaminés par le noctenium." string="Acide chlorhydrique puissant" />
+    <String id="1177" toolTip="Acide sulfurique utilisé pour fondre des pièces d'équipement communes." string="Acide sulfurique commun" />
+    <String id="1178" toolTip="Acide sulfurique utilisé pour fondre des pièces d'équipement supérieures." string="Acide sulfurique supérieur" />
+    <String id="1179" toolTip="Acide sulfurique utilisé pour fondre des pièces d'équipement rares." string="Acide sulfurique rare" />
+    <String id="1180" toolTip="Acide sulfurique utilisé pour fondre des pièces d'équipement légendaires." string="Acide sulfurique légendaire" />
+    <String id="1181" toolTip="Une pierre de fortune obtenue à partir de pièces d'équipement communes." string="Pierre de fortune commune" />
+    <String id="1182" toolTip="Une pierre de fortune obtenue à partir de pièces d'équipement supérieures." string="Pierre de fortune supérieure" />
+    <String id="1183" toolTip="Une pierre de fortune obtenue à partir de pièces d'équipement rares." string="Pierre de fortune rare" />
+    <String id="1184" toolTip="Une pierre de fortune obtenue à partir de pièces d'équipement légendaires." string="Pierre de fortune légendaire" />
+    <String id="1185" toolTip="Vous téléporte vers la balise d'infiltration désignée par votre commandant d'assaut.&lt;font color = '#c21919'&gt;[Attention !] Seuls les exarques, les commandants et les groupes de leader peuvent utiliser ce parchemin." string="Parchemin de téléportation d'espion" />
+    <String id="1186" toolTip="Clé nécessaire au fonctionnement d'un extracteur de noctenium.&#xA;&lt;font color = '#c21919'&gt;[Attention !] L'objet tombera au sol si vous conduisez un véhicule, si vous mourrez, si vous utilisez un parchemin de téléportation, si vous effectuez un déblocage ou si vous sortez du territoire." string="Clé de l'extracteur" />
+    <String id="1187" toolTip="Un matériau liquide extraterrestre utilisé pour fabriquer des armes tramondanes. (Combinez-le avec un globe oculaire tramondane pour créer une arme)." string="Sang tramondane" />
+    <String id="1188" toolTip="Une pierre extraterrestre utilisée pour fabriquer des armes tramondanes (combinez-la avec du sang tramondane pour créer une arme)." string="Globe oculaire tramondane" />
+    <String id="1189" toolTip="Un matériau utilisé pour fabriquer des infusions de noctenium permettant d'améliorer les compétences." string="Catalyseur d'affinités" />
+    <String id="1190" toolTip="Infusion concentrée. Utilisée pour créer plusieurs infusions permettant d'améliorer les compétences." string="Concentré de noctenium" />
+    <String id="1191" toolTip="Vous rend temporairement partiellement invisible. (Cet effet est annulé si vous utilisez une compétence ou si vous êtes attaqué.)" string="Potion d'invisibilité partielle" />
+    <String id="1192" toolTip="Vous rend temporairement complètement invisible.&#xA;&lt;font color = '#c21919'&gt;[Attention !] Cet objet ne peut être utilisé que sur le territoire de l'alliance. L'effet disparaît si vous vous téléportez ou chevauchez une monture." string="Potion d'invisibilité supérieure" />
+    <String id="1193" toolTip="Invoque un totem qui neutralise l'invisibilité des personnages et monstres à proximité." string="Totem de détection" />
+    <String id="1194" toolTip="Un clairon qui appelle un légionnaire pour se battre pour vous. (Pour les groupes de leaders 1, 2, 3 et 4)." string="Invocation du légionnaire I" />
+    <String id="1195" toolTip="Un clairon qui appelle un légionnaire pour se battre pour vous. (Pour les groupes de leaders 1, 2 et 3)." string="Invocation du légionnaire II" />
+    <String id="1196" toolTip="Un clairon qui appelle un légionnaire pour se battre pour vous. (Pour les groupes de leaders 1 et 2)." string="Invocation du légionnaire III" />
+    <String id="1197" toolTip="Un clairon qui appelle un légionnaire pour se battre pour vous. (Pour les groupes de leaders 1 uniquement)." string="Invocation du légionnaire IV" />
+    <String id="1198" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une dent d'animal infecté par le noctenium." string="Dent de phacochère" />
+    <String id="1199" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Une corne d'animal infecté par le noctenium." string="Corne de mugato" />
+    <String id="1200" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Peau de bête contaminée par le noctenium" string="Peau de dent-de-sabre" />
+    <String id="1201" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; Un os d'animal infecté par le noctenium." string="Os de cromos" />
+    <String id="1202" toolTip="&lt;font color = '#2478FF'&gt;[Matériau laissé tomber]&lt;/font&gt; L'écorce d'un arbre infecté par le noctenium." string="Écorce de ghilliedhu" />
+    <String id="1203" toolTip="Remet les temps de recharge des compétences à zéro." string="Potion de persistance" />
+    <String id="1204" toolTip="Annule les effets négatifs vous affectant." string="Potion de purification" />
+    <String id="1205" toolTip="Augmente les chances d'infliger un coup critique de 1 % pour chaque 1 % de vos PV maximums perdu." string="Philtre de frénésie" />
+    <String id="1206" toolTip="Améliore temporairement les compétences.&#xA;Divers effets sont également déclenchés selon le type de compétence." string="Infusion de noctenium du commandant adjoint" />
+    <String id="1207" toolTip="Vous rend temporairement partiellement invisible. (Cet effet est annulé si vous utilisez une compétence ou si vous êtes attaqué.)" string="Potion d'invisibilité du commandant adjoint" />
+    <String id="1208" toolTip="Invoque un totem qui neutralise l'invisibilité des personnages et monstres à proximité." string="Totem de détection du commandant adjoint" />
+    <String id="1209" toolTip="&lt;font color = '#2478FF'&gt;[Matériel de quête]&lt;/font&gt; Un échantillon de noctenium combiné avec du minerai métallique." string="Échantillon de minerai de noctenium" />
+    <String id="1210" toolTip="Améliore temporairement les compétences.&#xA;Divers effets sont également déclenchés selon le type de compétence." string="Infusion de noctenium du commandant d'assaut" />
+    <String id="1211" toolTip="Vous rend temporairement partiellement invisible. (Cet effet est annulé si vous utilisez une compétence ou si vous êtes attaqué.)" string="Potion d'invisibilité du commandant d'assaut" />
+    <String id="1212" toolTip="Invoque un totem qui neutralise l'invisibilité des personnages et monstres à proximité." string="Totem de détection du commandant d'assaut" />
+    <String id="1213" toolTip="Une grenade longue distance aux propriétés étourdissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade étourdissante du commandant d'assaut" />
+    <String id="1214" toolTip="Une mine terrestre déployable qui inflige des dégâts de zone quand on marche dessus. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Mine terrestre du commandant d'assaut" />
+    <String id="1215" toolTip="Une grenade longue distance aux propriétés ralentissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade ralentissante du commandant d'assaut" />
+    <String id="1216" toolTip="Une bombe à retardement déployable qui explose au bout d'un temps déterminé et inflige des dégâts de zone. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Bombe à retardement du commandant d'assaut" />
+    <String id="1217" toolTip="Une grenade longue distance aux propriétés aveuglantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade aveuglante du commandant d'assaut" />
+    <String id="1218" toolTip="Sang de gorille contaminé par le noctenium non-raffiné." string="Sang contaminé" />
+    <String id="1219" toolTip="Une peau de banane contaminée par du noctenium." string="Banane contaminée" />
+    <String id="1220" toolTip="Pierre contaminée par le noctenium non-raffiné" string="Éclat de noctenium non-raffiné" />
+    <String id="1221" toolTip="Clé nécessaire au fonctionnement d'un extracteur de noctenium.&#xA;&lt;font color = '#c21919'&gt;[Attention !] L'objet tombera au sol si vous conduisez un véhicule, si vous mourrez, si vous utilisez un parchemin de téléportation, si vous effectuez un déblocage ou si vous sortez du territoire." string="Clé de l'extracteur" />
+    <String id="1222" toolTip="Clé nécessaire au fonctionnement d'un extracteur de noctenium.&#xA;&lt;font color = '#c21919'&gt;[Attention !] L'objet tombera au sol si vous conduisez un véhicule, si vous mourrez, si vous utilisez un parchemin de téléportation, si vous effectuez un déblocage ou si vous sortez du territoire." string="Clé de l'extracteur" />
+    <String id="1230" toolTip="Améliore temporairement les compétences.&#xA;Divers effets sont également déclenchés selon le type de compétence." string="Infusion supérieure de noctenium" />
+    <String id="1300" toolTip="À utiliser pour améliorer les compétences. Les Infusions au noctenium peuvent être ajoutées à la barre de raccourcis. L'effet peut être activé ou désactivé avec un clic droit sur l'icône. Des Infusions au noctenium sont consommées tant que l'effet est actif. Les effets déclenchés diffèrent selon le type de compétence. Consultez la description de la compétence pour de plus amples détails." string="Infusion au noctenium" />
+    <String id="1301" toolTip="À utiliser pour améliorer les compétences. Les Infusions au noctenium peuvent être ajoutées à la barre de raccourcis. L'effet peut être activé ou désactivé avec un clic droit sur l'icône. Des Infusions au noctenium sont consommées tant que l'effet est actif. Les effets déclenchés diffèrent selon le type de compétence. Consultez la description de la compétence pour de plus amples détails." string="Infusion de noctenium de l'alliance" />
+    <String id="1302" toolTip="À utiliser pour améliorer les compétences. Les Infusions au noctenium peuvent être ajoutées à la barre de raccourcis. L'effet peut être activé ou désactivé avec un clic droit sur l'icône. Des Infusions au noctenium sont consommées tant que l'effet est actif. Les effets déclenchés diffèrent selon le type de compétence. Consultez la description de la compétence pour de plus amples détails." string="Infusion de noctenium du Caveau" />
+    <String id="1303" toolTip="À utiliser pour améliorer les compétences. Les Infusions au noctenium peuvent être ajoutées à la barre de raccourcis. L'effet peut être activé ou désactivé avec un clic droit sur l'icône. Des Infusions au noctenium sont consommées tant que l'effet est actif. Les effets déclenchés diffèrent selon le type de compétence. Consultez la description de la compétence pour de plus amples détails." string="Infusion de noctenium ajustée" />
+    <String id="1400" toolTip="Matériau que l'on trouve uniquement sur les monstres surpuissants. C'est une puissante source d'énergie pour les monstres." string="Pierre d'âme de vie complète" />
+    <String id="1401" toolTip="Le cœur bat encore." string="Cœur de bête" />
+    <String id="1402" toolTip="La puissance augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#FFBB00'&gt;Inclination tank : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk puissant" />
+    <String id="1403" toolTip="La constitution augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Zyrk d'interdiction" />
+    <String id="1404" toolTip="Le choc augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'impact" />
+    <String id="1405" toolTip="L'équilibre augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'équilibre" />
+    <String id="1406" toolTip="Le facteur de coups critiques augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#FFBB00'&gt;Inclination tank : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Zyrk tranchant" />
+    <String id="1407" toolTip="La résistance aux coups critiques augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk imprenable" />
+    <String id="1408" toolTip="Les PV maximums augmentent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk implacable" />
+    <String id="1409" toolTip="Les PM maximums augmentent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk malin" />
+    <String id="1410" toolTip="La vitesse d'attaque augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk rapide" />
+    <String id="1411" toolTip="Les dégâts subis face aux coups critiques diminuent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de robustesse" />
+    <String id="1412" toolTip="La puissance d'attaque en JcJ augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de deuil" />
+    <String id="1413" toolTip="La défense en JcJ augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'indomptabilité" />
+    <String id="1414" toolTip="La régénération de PV augmente de $H_W_GOOD1 %$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de soutien" />
+    <String id="1415" toolTip="L'agressivité des monstres augmente de $H_W_GOOD2 %$COLOR_END. Faites un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk menaçant" />
+    <String id="1416" toolTip="La puissance augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#FFBB00'&gt;Inclination tank : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk puissant intact" />
+    <String id="1417" toolTip="La constitution augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Zyrk d'interdiction intact" />
+    <String id="1418" toolTip="Le choc augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'impact intact" />
+    <String id="1419" toolTip="L'équilibre augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'équilibre intact" />
+    <String id="1420" toolTip="Le facteur de coups critiques augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#FFBB00'&gt;Inclination tank : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Zyrk tranchant intact" />
+    <String id="1421" toolTip="La résistance aux coups critiques augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk imprenable intact" />
+    <String id="1422" toolTip="Les PV maximums augmentent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk acharné intact" />
+    <String id="1423" toolTip="Les PM maximums augmentent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk malin intact" />
+    <String id="1424" toolTip="La vitesse d'attaque augmente de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk rapide intact" />
+    <String id="1425" toolTip="Les dégâts subis face aux coups critiques diminuent de $H_W_GOOD$value$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de robustesse intact" />
+    <String id="1426" toolTip="La puissance d'attaque en JcJ augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de deuil intact" />
+    <String id="1427" toolTip="La défense en JcJ augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk d'indomptabilité intact" />
+    <String id="1428" toolTip="La régénération de PV augmente de $H_W_GOOD2 %$COLOR_END.  Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk de soutien immaculé" />
+    <String id="1429" toolTip="L'agressivité des monstres augmente de $H_W_GOOD3 %$COLOR_END. Effectuez un clic droit pour l'équiper. Cet objet peut se briser en cas de décès.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Zyrk menaçant immaculé" />
+    <String id="13334" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Ascension &amp; Chute" />
+    <String id="13335" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Gardien" />
+    <String id="13336" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Lame veineuse" />
+    <String id="13337" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Fléau du corbeau" />
+    <String id="13338" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Œil mesuré" />
+    <String id="13339" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Mort ailée" />
+    <String id="13340" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Fermeture" />
+    <String id="13341" toolTip="Arme du Chaos. Une véritable arme de combattant." string="Baguette de rune" />
+    <String id="13342" toolTip="Armure du Chaos. Une véritable armure de combattant pour Lancier." string="Costume de pénitence" />
+    <String id="13343" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Poings divins" />
+    <String id="13344" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Jambières de convoitise" />
+    <String id="13345" toolTip="Armure du Chaos. Une véritable armure de combattant pour Guerrier." string="Veston de chanson d'ombre" />
+    <String id="13346" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Griffe de la Terreur" />
+    <String id="13347" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Pompes de nuit" />
+    <String id="13348" toolTip="Armure du Chaos. Une véritable armure de combattant pour Sorcier." string="Armure en tissu balayée par les flammes" />
+    <String id="13349" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Tisse-mort" />
+    <String id="13350" toolTip="Armure du Chaos. Une véritable armure de combattant." string="Danseurs d'or" />
+    <String id="13351" toolTip="Armure du Chaos. Une véritable armure de combattant pour Berserker." string="Costume de furie" />
+    <String id="13352" toolTip="Armure du Chaos. Une véritable armure de combattant pour Pourfendeur." string="Manteau de chanson d'ombre" />
+    <String id="13353" toolTip="Armure du Chaos. Une véritable armure de combattant pour Mystique." string="Armure en tissu imprégnée de venin" />
+    <String id="13354" toolTip="Armure du Chaos. Une véritable armure de combattant pour Archer." string="Veste de chanson d'ombre" />
+    <String id="13355" toolTip="Armure du Chaos. Une véritable armure de combattant pour Prêtre." string="Armure en tissu guidée par dieu" />
+    <String id="13356" toolTip="Armes de Désarroi" string="Courber &amp; Briser" />
+    <String id="13357" toolTip="Arme de Désarroi" string="Abatteur de dieux" />
+    <String id="13358" toolTip="Arme de Désarroi" string="Noyau de sang" />
+    <String id="13359" toolTip="Arme de Désarroi" string="Tranchant en fusion" />
+    <String id="13360" toolTip="Arme de Désarroi" string="Œil las" />
+    <String id="13361" toolTip="Arme de Désarroi" string="Harpe sanglante" />
+    <String id="13362" toolTip="Arme de Désarroi" string="Frémir" />
+    <String id="13363" toolTip="Arme de Désarroi" string="Tempête nocturne" />
+    <String id="13364" toolTip="Armure de Désarroi" string="Plaque de sang divin" />
+    <String id="13365" toolTip="Armure de Désarroi" string="Alpagueurs d'os" />
+    <String id="13366" toolTip="Armure de Désarroi" string="Pas de la mort" />
+    <String id="13367" toolTip="Armure de Désarroi" string="Manteau de scélérat" />
+    <String id="13368" toolTip="Armure de Désarroi" string="Crampons dextres" />
+    <String id="13369" toolTip="Armure de Désarroi" string="Bottes cavalières endurcies" />
+    <String id="13370" toolTip="Armure de Désarroi" string="Vêtement de ciel déchiré" />
+    <String id="13371" toolTip="Armure de Désarroi" string="Doigts du réconfort" />
+    <String id="13372" toolTip="Armure de Désarroi" string="Touche-cieux" />
+    <String id="13373" toolTip="" string="Flamme de Kelsaik" />
+    <String id="13374" toolTip="Contient des gemmes." string="Caisse au trésor de Kelsaik" />
+    <String id="13375" toolTip="Contient des provisions." string="Caisse de ravitaillement de Kelsaik" />
+    <String id="13376" toolTip="Contient des provisions." string="Caisse de ravitaillement de Kelsaik" />
+    <String id="13377" toolTip="Contient des provisions." string="Provisions de raid de Kelsaik" />
+    <String id="13378" toolTip="Contient des provisions." string="Provisions de raid de Kelsaik" />
+    <String id="13379" toolTip="" string="Rage de Kelsaik" />
+    <String id="13380" toolTip="" string="Concentration de Kelsaik" />
+    <String id="19117" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Pique-cœur" />
+    <String id="19118" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Passion &amp; Volonté" />
+    <String id="19119" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Arrache-cœur" />
+    <String id="19120" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Bouche-cœur" />
+    <String id="19121" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Idée folle" />
+    <String id="19122" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Œil du chercheur" />
+    <String id="19123" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Sollicitude" />
+    <String id="19124" toolTip="Arme de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Baguette aux souhaits" />
+    <String id="19125" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Cœur emprisonné" />
+    <String id="19126" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Gantelets cœur d'acier" />
+    <String id="19127" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Meneurs de quête" />
+    <String id="19128" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Cœur sincère" />
+    <String id="19129" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Déchicœur" />
+    <String id="19130" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Avancée du désir" />
+    <String id="19131" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Tentation" />
+    <String id="19132" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Manches-cœur" />
+    <String id="19133" toolTip="Armure de noctenium&#xA;Forte possibilité d'être transformée en objet de maître si vous lui avez attribué un autre statut énigmatique et l'avez identifiée." string="Godillots du cœur" />
+    <String id="19134" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Perce-voile" />
+    <String id="19135" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="D'ici et d'ailleurs" />
+    <String id="19136" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Trancheur borderline" />
+    <String id="19137" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Coupe-voile" />
+    <String id="19138" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Inaccessible" />
+    <String id="19139" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Roue empyréenne" />
+    <String id="19140" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Parallaxe" />
+    <String id="19141" toolTip="Arme tramondane&#xA;Manifeste des effets JcJ en cas d'enchantement." string="Portée universelle" />
+    <String id="19218" string="Impression durable" />
+    <String id="19219" string="Légende &amp; Tradition" />
+    <String id="19220" string="Lame de l'oubli" />
+    <String id="19221" string="Entaille inversée" />
+    <String id="19222" string="Courbe d'apprentissage" />
+    <String id="19223" string="Vertige" />
+    <String id="19224" string="Commémoration" />
+    <String id="19225" string="Épitaphe" />
+    <String id="19226" string="Dure leçon" />
+    <String id="19227" string="Doigts habiles" />
+    <String id="19228" string="Bruits de pas sonores" />
+    <String id="19229" string="Cadre de référence" />
+    <String id="19230" string="Fondation" />
+    <String id="19231" string="Premiers pas" />
+    <String id="19232" string="Habit ancestral" />
+    <String id="19233" string="Doigts délaissés" />
+    <String id="19234" string="Détourneurs" />
+    <String id="19235" string="Anneau au noctenium expérimenté" />
+    <String id="19236" string="Anneau au noctenium puissant" />
+    <String id="19237" string="Anneau au noctenium amélioré" />
+    <String id="19238" string="Boucles d'oreilles au noctenium chics" />
+    <String id="19239" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Défense du cœur" />
+    <String id="19240" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Anneau de douleur" />
+    <String id="19241" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Anneau de santé" />
+    <String id="19242" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Cascade de désir" />
+    <String id="19243" toolTip="Anneau tournesoleil&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Anneau du rayon de soleil" />
+    <String id="19244" toolTip="Anneau tournesoleil&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau du coucher de soleil" />
+    <String id="19245" toolTip="Anneau tournemer&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Anneau verre-de-mer" />
+    <String id="19246" toolTip="Anneau tournemer.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau océanique" />
+    <String id="19247" toolTip="Anneau tournesable.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Anneau du fouineur de plage" />
+    <String id="19248" toolTip="Anneau tournesable.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau côtier" />
+    <String id="19249" toolTip="Boucle d'oreille tournesoleil.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Rosaces ensoleillées" />
+    <String id="19250" toolTip="Boucle d'oreille tournesoleil.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Boucle d'oreille de l'aurore" />
+    <String id="19251" toolTip="Boucle d'oreille tournemer.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Goutte d'eau" />
+    <String id="19252" toolTip="Boucle d'oreille tournemer.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Boucle d'oreille écumeuse" />
+    <String id="19253" toolTip="Boucle d'oreille tournesable.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Boucle d'oreille des coquillages" />
+    <String id="19254" toolTip="Boucle d'oreille tournesable.&#xA;&lt;font color = '#c21919'&gt;[Attention !] N'est pas affectée par les parchemins semi-énigmatiques." string="Rosace des dunes" />
+    <String id="19255" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau du sage de sang" />
+    <String id="19256" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Sceau du sage de sang" />
+    <String id="19257" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau du sage de glace" />
+    <String id="19258" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Sceau du sage de glace" />
+    <String id="19259" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Bandeau du sage de mort" />
+    <String id="19260" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Sceau du sage de mort" />
+    <String id="19261" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Cercle du sage de sang" />
+    <String id="19262" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Rivière du sage de sang" />
+    <String id="19263" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Cercle du sage de glace" />
+    <String id="19264" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Rivière du sage de glace" />
+    <String id="19265" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Cercle du sage de mort" />
+    <String id="19266" toolTip="&lt;font color = '#c21919'&gt;[Attention !] N'est pas affecté par les parchemins semi-énigmatiques." string="Rivière du sage de mort" />
+    <String id="19267" string="Collier du sage de sang" />
+    <String id="19268" string="Collier du sage de glace" />
+    <String id="19269" string="Collier du sage de mort" />
+    <String id="27072" toolTip="Créé une lance liée. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Pique-cœur" />
+    <String id="27073" toolTip="Créé une double lame liée. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Passion &amp; Volonté" />
+    <String id="27074" toolTip="Créé un espadon lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Arrache-cœur" />
+    <String id="27075" toolTip="Créé une hache liée. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Bouche-cœur" />
+    <String id="27076" toolTip="Créé un arc lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Idée folle" />
+    <String id="27077" toolTip="Créé un disque lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Œil du chercheur" />
+    <String id="27078" toolTip="Créé un bâton lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Sollicitude" />
+    <String id="27079" toolTip="Créé un sceptre lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armes de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Baguette aux souhaits" />
+    <String id="27080" toolTip="Créé un haubert lié. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Cœur emprisonné" />
+    <String id="27081" toolTip="Créé des gantelets liés. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Gantelets cœur d'acier" />
+    <String id="27082" toolTip="Créé des jambières liées. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Meneurs de quête" />
+    <String id="27083" toolTip="Créé une cuirasse liée. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Cœur sincère" />
+    <String id="27084" toolTip="Créé des gants liés. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Déchicœur" />
+    <String id="27085" toolTip="Créé des bottes liées. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Avancée du désir" />
+    <String id="27086" toolTip="Créé une robe liée. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Tentation" />
+    <String id="27087" toolTip="Créé des manches liées. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Manches-cœur" />
+    <String id="27088" toolTip="Créé des chaussures liées. Manifestera des effets JcJ en cas d'enchantement.&#xA;La création d'armure de noctenium nécessite de nombreux éléments riches en noctenium.&#xA;Le sang contaminé ne peut être obtenu que sur les gorilles du territoire du Collectif de libre Échange.&#xA;Les peaux de bananes ne peuvent être obtenues que sur le territoire de l'Union des Éclairés.&#xA;Les fragments de noctenium ne peuvent être obtenus qu'à partir de noctenium cristallin du territoire de l'Ordre de Fer." string="Recette de fusion : Godillots du cœur" />
+    <String id="27089" toolTip="Utilisez cette recette pour apprendre la compétence d'artisanat correspondante." string="Projet : Rune nox de Shara" />
+    <String id="27090" toolTip="Utilisez cette recette pour apprendre la compétence d'artisanat correspondante." string="Projet : Rune nox d'Arun" />
+    <String id="27125" toolTip="Cet objet n'est plus utilisé." string="Plan : Grenade étourdissante" />
+    <String id="27126" toolTip="Cet objet n'est plus utilisé." string="Plan : Mine" />
+    <String id="27127" toolTip="Cet objet n'est plus utilisé." string="Plan : Grenade ralentissante" />
+    <String id="27128" toolTip="Cet objet n'est plus utilisé." string="Plan : Bombe à retardement" />
+    <String id="27129" toolTip="Cet objet n'est plus utilisé." string="Plan : Grenade aveuglante" />
+    <String id="27130" toolTip="Cet objet n'est plus utilisé." string="Recette : Potion de soin" />
+    <String id="27131" toolTip="Cet objet n'est plus utilisé." string="Plan : Potion d'invisibilité supérieure" />
+    <String id="48000" string="Appel de la reine" />
+    <String id="48001" string="Joyaux de la couronne" />
+    <String id="48002" string="Sceau de la reine" />
+    <String id="48003" toolTip="Le lien de cristal se brise à la place d'un cristal. Dure 12 heures de jeu et surpasse les effets du lien de cristal s'il est combiné avec lui." string="Lien de cristal total" />
+    <String id="48004" toolTip="Vous téléporte dans un endroit choisi par votre commandant d'infiltration." string="Parchemin de téléportation d'espion" />
+    <String id="48005" toolTip="Améliore temporairement les compétences.&#xA;Divers effets sont également déclenchés selon le type de compétence." string="Solution au noctenium" />
+    <String id="48006" toolTip="Vous rend temporairement invisible. Cet effet est annulé si vous utilisez une compétence ou que vous êtes attaqué." string="Potion d'invisibilité partielle" />
+    <String id="48007" toolTip="Vous rend temporairement complètement invisible." string="Potion d'invisibilité supérieure" />
+    <String id="48008" toolTip="Invoque une balise qui neutralise l'invisibilité des personnages et des monstres à une certaine portée." string="Totem de détection" />
+    <String id="48009" toolTip="Une grenade longue distance aux propriétés étourdissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade étourdissante" />
+    <String id="48010" toolTip="Une bombe posée sur le sol qui inflige des dégâts de zone quand on marche dessus. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Mine" />
+    <String id="48011" toolTip="Une grenade longue distance aux propriétés ralentissantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade ralentissante" />
+    <String id="48012" toolTip="Une bombe posée sur le sol qui explose au bout d'un temps déterminé et inflige des dégâts de zone.  (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Bombe à retardement" />
+    <String id="48013" toolTip="Une grenade longue distance aux propriétés aveuglantes. (Uniquement utilisable en JcJ dans le territoire de l'alliance.)" string="Grenade aveuglante" />
+    <String id="48014" toolTip="Les dégâts critiques des attaques par-derrière augmentent par un facteur de $H_W_GOOD1,2$COLOR_END. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux sauvage" />
+    <String id="48015" toolTip="La vitesse de déplacement au combat augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Crux rapide" />
+    <String id="48016" toolTip="Vous récupérez $H_W_GOOD$value$COLOR_END PM toutes les $H_W_GOOD$tickInterval$COLOR_END. Faites un clic droit pour l'équiper.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Crux brillant" />
+    <String id="48017" toolTip="Les chances de coups critiques augmentent de $H_W_GOOD3 %$COLOR_END. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#FFBB00'&gt;Inclination tank : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination combattant : élevée&lt;/font&gt;$BR&lt;font color = '#FFBB00'&gt;Inclination soigneur : élevée&lt;/font&gt;" string="Crux de gravure" />
+    <String id="48018" toolTip="Quand vous renversez un adversaire, l'effet $H_W_GOODDégâts critiques accrus VI$COLOR_END s'enclenche. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux cruel intact" />
+    <String id="48019" toolTip="Quand vous infligez un coup critique par-derrière, l'effet $H_W_GOODDétermination VI$COLOR_END s'enclenche. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux puissant intact" />
+    <String id="48020" toolTip="Quand vous subissez un renversement, l'effet $H_W_GOODBouclier VI$COLOR_END a $H_W_GOOD$prob$COLOR_END de chances de s'enclencher. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique. L'effet de bouclier ne peut pas s'enclencher en double.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux de protection intact" />
+    <String id="48021" toolTip="Les PV maximums augmentent de $H_W_GOOD$value$COLOR_END. Faites un clic droit pour l'équiper.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux acharné intact" />
+    <String id="48022" toolTip="La vitesse de déplacement hors combat augmente de $H_W_GOOD$value$COLOR_END. Effectuez un clic droit pour l'équiper. Il n'est pas possible d'équiper plusieurs cristaux dotés d'un effet identique.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux preste intact" />
+    <String id="48023" toolTip="Vous récupérez $H_W_GOOD$value$COLOR_END PV toutes les $H_W_GOOD$tickInterval$COLOR_END. Faites un clic droit pour l'équiper.$BR$BR&lt;font color = '#4C4C4C'&gt;Inclination tank : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination combattant : faible&lt;/font&gt;$BR&lt;font color = '#4C4C4C'&gt;Inclination soigneur : faible&lt;/font&gt;" string="Crux vigoureux intact" />
+    <String id="48024" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Puissance &amp; majesté" />
+    <String id="48025" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Veston du régent" />
+    <String id="48026" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Prises du monarque" />
+    <String id="48027" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Bottes du souverain" />
+    <String id="48028" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Pointe du régent" />
+    <String id="48029" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Plaque de la reine" />
+    <String id="48030" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Prises royales" />
+    <String id="48031" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Bottes d'acier imposantes" />
+    <String id="48032" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Majeslame" />
+    <String id="48033" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Veston du régent" />
+    <String id="48034" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Prises du monarque" />
+    <String id="48035" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Bottes du souverain" />
+    <String id="48036" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Hâche du souverain" />
+    <String id="48037" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Plaque de la reine" />
+    <String id="48038" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Prises royales" />
+    <String id="48039" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Bottes d'acier imposantes" />
+    <String id="48040" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Cœur de la reine" />
+    <String id="48041" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Toge du feu royal" />
+    <String id="48042" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Poignets hautains" />
+    <String id="48043" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Pantoufles royales" />
+    <String id="48044" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Portée impériale" />
+    <String id="48045" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Veston du régent" />
+    <String id="48046" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Prises du monarque" />
+    <String id="48047" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Bottes du souverain" />
+    <String id="48048" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Règne de la reine" />
+    <String id="48049" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Toge du feu royal" />
+    <String id="48050" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Poignets hautains" />
+    <String id="48051" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Pantoufles royales" />
+    <String id="48052" toolTip="Arme du régent. Elle est imprégnée de l'essence de reine argone." string="Sceptre du régent" />
+    <String id="48053" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Toge du feu royal" />
+    <String id="48054" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Poignets hautains" />
+    <String id="48055" toolTip="Armure du régent pour lancier. Elle est imprégnée de l'essence de reine argone." string="Pantoufles royales" />
+    <String id="48056" toolTip="Ce masque aux yeux bleus brillants démontre que vous êtes un membre puissant de votre alliance." string="Masque de groupe de leaders" />
+    <String id="48057" toolTip="Ce masque ailé aux yeux bleus luisants vous identifie comme un des meneurs de votre alliance." string="Masque de meneur d'hommes" />
+    <String id="48058" toolTip="Ce masque ailé vous identifie comme une personne de rang et de valeur." string="Masque cristallin" />
+    <String id="48060" toolTip="Frappe les ennemis de manière à les forcer à laisser tomber toutes leurs clés d'extracteurs et les étourdit 10 secondes." string="Bombe à lancer" />
+    <String id="48061" toolTip="Ticket requis pour entrer dans le Caveau des Alliés. Un ticket est requis pour chaque membre du groupe et pour chaque entrée par le téléportail. Chaque utilisation du téléportail requiert un ticket." string="Ticket pour le Caveau" />
+    <String id="48062" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48063" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48064" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48065" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48066" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48067" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48068" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48069" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48070" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48071" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48072" toolTip="Portez vos couleurs avec fierté." string="Tabard du Collectif de libre Échange" />
+    <String id="48073" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48074" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48075" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48076" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48077" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48078" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48079" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48080" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48081" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48082" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48083" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Union des Éclairés" />
+    <String id="48084" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48085" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48086" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48087" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48088" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48089" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48090" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48091" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48092" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48093" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48094" toolTip="Portez vos couleurs avec fierté." string="Tabard de l'Ordre de Fer" />
+    <String id="48095" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Aura tenace" />
+    <String id="48096" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Aura indéfectible" />
+    <String id="48097" toolTip="Ce manuel d'entraînement n'est plus utilisé." string="Manuel de compétences : Aura sans réserve" />
+</StrSheet_Item>

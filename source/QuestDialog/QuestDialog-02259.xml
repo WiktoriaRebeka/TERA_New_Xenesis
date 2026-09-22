@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez pleinement profité du festival et avez goûté au nouveau cocktail spécial des Terres libres.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Que diriez-vous d'un petit rafraichissement, &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Puis-je vous offrir un &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt; ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Salutations, &lt;PCNAME&gt;. Vous profitez bien du festival ?&lt;BR&gt;&lt;BR&gt;Héhé, je peux vous révéler comment préparer vous-même le &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Mais commencez donc par y goûter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Alors ? Je ne vous ai pas menti, hein ?&lt;BR&gt;&lt;BR&gt;Nous n'avons pas mégoté sur les coûts et les efforts pour vous proposer cette explosion d'arômes. Pour préparer vous-même le &lt;font color='#0000FF'&gt;cocktail spécial des Terres libres&lt;/font&gt;, il vous faut des ingrédients bien précis.&lt;BR&gt;&lt;BR&gt;Voici la &lt;font color='#0000FF'&gt;recette : cocktail spécial des Terres libres&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

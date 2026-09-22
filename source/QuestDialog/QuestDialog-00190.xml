@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Je me présente, Mattin, directeur de recherche. Nous étudions aussi bien la magie antique que la magie des descendants de Lok. En toute honnêteté, ces soldats bornés commencent à me barber.&lt;BR&gt;&lt;BR&gt;Il est encore trop tôt pour vous en dire plus, mais je pense que quelqu'un de très puissant se cache derrière tout ça. Cette magie provient sans doute des ruines ancestrales.  Cela signifie que ces idiots de cultistes utilisent ces pierres magiques géantes pour servir leurs desseins maléfiques.&lt;BR&gt;&lt;BR&gt;Allez donc prêter main-forte à Padraig, le chercheur que nous avons envoyé là-bas. Acceptez-vous de vous en charger ?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Ces gaillards trimballent un document crypté. Je n'ai pu en récupérer qu'un morceau.&lt;BR&gt;&lt;BR&gt;Il me faut le texte chiffré complet.  Les {@linkcreature:7#14#Sorciers de Lok} le portent sur eux.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1044">
+        <Page social="4" voiceTypeId="0">(Padraig vous regarde d'un air gêné avant de continuer.)&lt;BR&gt;&lt;BR&gt;J'ai bien peur d'avoir oublié quelque chose. Le texte chiffré ne suffit pas, il me faut aussi l'appareil de décryptage. Les {@linkcreature:7#13#Berserkers de Lok} portent l'appareil de décryptage sur eux. Utilisez-le pour déchiffrer le texte puis amenez-le moi.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Vous avez tout ?&lt;BR&gt;&lt;BR&gt;Comment ? Ne me dites pas que vous l'avez égaré ! Allez, dites-moi que vous avez récupéré l'appareil !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0" voiceTypeId="0">Mais que faire, maintenant ? Ah, c'est vrai ! Attendez un instant, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="4" villagerId="1044">
+        <Page social="0" voiceTypeId="0">J'ai bien fait de vous confier cette mission, &lt;PCNAME&gt;. Allez, dépêchez-vous, j'aimerais enfin lire le message déchiffré.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4" voiceTypeId="0">(Padraig semble chercher quelque chose.)&lt;BR&gt;&lt;BR&gt;Parfait ! J'ai obtenu cet appareil de décryptage il y a quelques semaines. Je n'en avais pas l'utilité et j'ai donc bien failli le donner au laboratoire de recherche. Heureusement que je ne l'ai pas fait. Quel coup de chance !&lt;BR&gt;Prenez-le, &lt;PCNAME&gt;. J'espère que vous en aurez l'utilité.&lt;BR&gt;Ah, je dois encore avoir le texte chiffré, aussi.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="5" villagerId="1044">
+        <Page social="4" voiceTypeId="0">(La mine de Padraig s'assombrit à vue d'œil tandis qu'il lit le document.)&lt;BR&gt;&lt;BR&gt;C'est {@linkcreature:7#102#Tezluar}. C'est lui qui est derrière tout ça ! Il s'est servi de la pierre magique pour contrôler les kumas.&lt;BR&gt;&lt;BR&gt;En l'éliminant, nous devrions pouvoir reprendre la situation en main. Pourriez-vous nous y aider ?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1044">
+        <Page social="0">Alors, ce décryptage, ça avance ? Je suis curieux de voir ce que contient ce document !</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Parfait ! Transmettez vite la bonne nouvelle au directeur de recherche ! Il en sera probablement absolument ravi.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Merci bien. Je vous remettrai bien la plus grosse récompense que j'aie, mais c'est impossible pour le moment. En effet, un grave danger guette cet endroit !&lt;BR&gt;&lt;BR&gt;Les descendants de Lok sont furieux d'avoir vu leur projet échouer. Je vous saurais gré de bien vouloir m'aider.&lt;BR&gt;&lt;BR&gt;Il me faut quelqu'un pour me protéger pendant que j'active le bouclier du laboratoire de recherche. S'il vous plaît, aidez-moi.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="419" prevId="12" villagerId="99">
+        <Page social="4" voiceTypeId="0">Excellent, &lt;PCNAME&gt; ! Vous n'en avez sans doute pas conscience, mais vous avez contribué à protéger quelque chose de bien plus important que vous ne pouvez l'imaginer.</Page>
+    </Text>
+</QuestDialog>

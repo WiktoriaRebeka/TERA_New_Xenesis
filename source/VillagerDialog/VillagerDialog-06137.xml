@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="99" huntingZoneId="419" voiceTypeId="53" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="419" endSocial="14" prevId="0" villagerId="99">
+        <Page social="4">Je n'aurais jamais pu penser que le centre de recherche serait attaqué. Comme j'avais tort.&lt;BR&gt;&lt;BR&gt;Une fois le bouclier, activé il n'y aura plus rien à craindre.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Je vais maintenant activer le bouclier de défense. Protégez-moi des partisans de Lok.&lt;TEXTBUTTON&gt;Parler à Mattin&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protéger Mattin pendant qu'il est affairé&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

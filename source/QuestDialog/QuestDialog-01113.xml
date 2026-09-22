@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1015">
+        <Page social="5">J’ai tué beaucoup de choses dans ce temple, mais ce que j’ai vu de plus effrayant, c’était {@LinkCreature:42#5000#Murassk}, et j’ai fui avant que ce soit lui qui me tue.&lt;BR&gt;&lt;BR&gt;Alors si jamais vous avez envie de faire vos preuves par ici, tuer Murassk est probablement une bonne idée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1015">
+        <Page social="5">Bien joué&amp;nbsp;! Vous avez vengé les morts et rendu la foi aux vivants. Tenez, j’ai quelque chose pour vous.</Page>
+    </Text>
+</QuestDialog>

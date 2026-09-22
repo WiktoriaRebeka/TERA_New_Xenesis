@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Vous avez nettoyé la zone centrale du temple.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Kodar a besoin d'aide dans le centre du temple.&lt;BR&gt;&lt;BR&gt;Veuillez entrer dans le temple via le téléportail et demander à Kodar ce que vous pouvez faire pour l'aider.&lt;NEXTPAGEBUTTON&gt;&amp;quot;C'est un honneur de vouloir lui apporter mon aide.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Il me faut partir accomplir une mission loin d'ici mais je sais que je peux compter sur vous pour vous occuper du centre du temple. L'encens du temple doit être remplacé, les miroirs doivent être dépoussiérés, la vermine pullule dans le temple et les serpents sont de retour. Pour l'instant, cependant, il nous faut nous concentrer sur une seule et unique chose.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Vous compter sur moi pour prendre soin du temple en votre absence.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Que la lumière de Balder brille au-dessus de vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Que la lumière de Balder brille au-dessus de vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Que la lumière de Balder brille au-dessus de vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Vous nous avez été envoyé par Balder&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Veuillez accepter cette humble récompense en signe de notre gratitude.</Page>
+    </Text>
+</QuestDialog>

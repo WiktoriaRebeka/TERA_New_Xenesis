@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le clan des Consos prépare un festival en l'honneur de Balder, le dieu du soleil.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Festival du Soleil]&lt;BR&gt;Chaque année, le clan des Consos organise un festival en l'honneur de Balder, le dieu du soleil. Pendant ce festival, ils demandent à tout le monde de prendre part aux tâches du clergé, comme nettoyer le temple, par exemple.&lt;BR&gt;&lt;BR&gt;La participation n'est pas obligatoire. C'est pourquoi les membres du clergé sont prêts à récompenser ceux qui les aident.&lt;BR&gt;&lt;BR&gt;Veuillez montrer votre dévotion au dieu du soleil au cours de la période la plus sainte de l'année.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Bonjour, &lt;PCNAME&gt;. Je m'appelle Renmi. Cela me fait plaisir de vous accueillir au Festival du Dieu Soleil.&lt;BR&gt;&lt;BR&gt;Veuillez patrouiller dans le jardin du soleil. N'hésitez pas à demander au clan des Consos où vous devez vous rendre pour apporter votre aider.&lt;BR&gt;&lt;BR&gt;Et quand tout le travail sera accompli au temple et que la flamme du soleil sera ravivée, une grande cérémonie aura lieu et vous y êtes bien sûr convié.</Page>
+    </Text>
+</QuestDialog>

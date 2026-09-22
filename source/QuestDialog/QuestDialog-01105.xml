@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="5">Les nagas et les morts-vivants... curieuse alliance, non&amp;nbsp;? C’est un mystère que j’adorerais résoudre. Pourriez-vous chasser quelques {@LinkCreature:42#600#guetteurs squelettiques} et essayer de trouver des preuves sur eux&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">Une pierre qui contrôle les morts-vivants. Hummm, j’ai déjà entendu parler de ça...&lt;BR&gt;&lt;BR&gt;Je crois qu’il y avait un rapport avec Thulsa.&lt;BR&gt;&lt;BR&gt;Beau travail. C’est une information importante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">Vous avez pourchassé les {@LinkCreature:42#600#défenseurs squelettiques}&amp;nbsp;? Il nous faut des preuves de leur lien avec les nagas.</Page>
+    </Text>
+</QuestDialog>

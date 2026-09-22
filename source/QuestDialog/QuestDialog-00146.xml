@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Pangari a raison sur toute la ligne&amp;nbsp;: la politique du {@LinkCreature:5#19#Moong} est au cœur du problème. Nous allons devoir l'éliminer, si nous voulons avoir une chance de régler les choses pacifiquement avec les autres tuwangis.&lt;BR&gt;&lt;BR&gt;Toutefois, je manque cruellement d'effectifs et j'ai besoin de tous mes soldats là où ils sont.&lt;BR&gt;&lt;BR&gt;J'ai conscience de ce que vous avez déjà fait pour nous, mais si vous acceptiez de nous aider encore un peu, nous vous en serions extrêmement reconnaissants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">Ah, il est enfin mort. Bonne nouvelle... peut-être les tuwangis vont-ils enfin pouvoir se réunifier&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il nous sera alors plus simple de les raisonner et de mettre un terme à l'expansion du marais.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">Quoi, vous êtes encore là&amp;nbsp;? Mettez-vous au travail ou dites-moi tout simplement que vous refusez la mission, que je puisse faire appel à quelqu'un d'autre. Nous n'avons pas de temps à perdre.</Page>
+    </Text>
+</QuestDialog>

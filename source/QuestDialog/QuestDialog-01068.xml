@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Je pense que le fléau n'a pas frappé Frontera parce que sa population tire son eau d'un autre puits.&lt;BR&gt;&lt;BR&gt;Pour confirmer ma théorie, je vais devoir vous demander de vous rendre au Village en Quarantaine et de me rapporter des seaux d'eau contaminée.&lt;BR&gt;&lt;BR&gt;Remettez-les à {@LinkCreature:240#1035$$Narpa}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="0">Excellent&amp;nbsp;! Je vais pouvoir poursuivre mes recherches. Avec un peu de chance, nous allons trouver le moyen de mettre un terme à cette folie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1035">
+        <Page social="0">Il nous faut des échantillons de l'eau du puits contaminé dans ce village&amp;nbsp;! Je vous en prie… Nous comptons sur vous.</Page>
+    </Text>
+</QuestDialog>

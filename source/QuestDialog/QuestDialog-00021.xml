@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="4">En temps de paix, on condamnerait ce pont et on en fabriquerait un nouveau. Ce genre de bricolage, ça va se finir par une noyade, si vous voyez ce que je veux dire.&lt;BR&gt;&lt;BR&gt;Mais essayez d'expliquer ça à mes chefs. D'ailleurs, en parlant de ça...&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:2#1#bonnets-rouges} ont volé du matériel qui devait me servir à renforcer la charpente du pont... et ils l'ont probablement endommagé. Vous iriez récupérer les &lt;b&gt;pièces du pont&lt;/b&gt; avant de les rapporter à Niklas, le contremaître du Campement de la Vallée Faevine&amp;nbsp;? Il saura quoi faire, et je préfère éviter de m'adresser à Balter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1010">
+        <Page social="4">Comment les bonnets-rouges s'y sont-ils pris pour voler ça ? Siravon était encore en train de rêvasser au lieu de surveiller son matériel ?&lt;BR&gt;&lt;BR&gt;Enfin, à question rhétorique, réponse rhétorique : Siravon est une indécrottable buse.&lt;BR&gt;&lt;BR&gt;Bon, je suppose que je vais devoir réparer tout ça. Au fait, je vous ai dit tout le bien que je pensais de Siravon ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1010">
+        <Page social="0">Les {@LinkCreature:2#1#bonnets-rouges} et leurs amies les fées sont incontrôlables&amp;nbsp;! Vu comment c'est parti, ce pont sera réparé aux calendes&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

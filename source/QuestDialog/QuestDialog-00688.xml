@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="4">Le travail de Loreen est très gourmand en mana. Ce ne serait pas un problème si nous avions des noyaux, mais ils sont très rares dans les parages.&lt;BR&gt;&lt;BR&gt;La bonne nouvelle, c'est que les cultistes situés aux abords des ruines, comme les {@linkcreature:24#17#maîtres eldritch} ou les {@linkcreature:24#18#fendeurs de crâne}, disposent de mana. Bien sûr, leur mana est maléfique, mais il est très facile à purifier. Apportez-moi leurs orbes de mana.&lt;BR&gt;&lt;BR&gt;Enfin, ce ne sont pas exactement des orbes, mais plutôt leurs cœurs. Bref, apportez-les-moi !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1024">
+        <Page social="5">Merci ! Vous avez dû passer un sale quart d'heure, mais il fallait bien que quelqu'un s'en charge. Merci d'apporter ces cœurs à Loreen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1024">
+        <Page social="0">Vous avez récupéré ces cœurs&amp;nbsp;? Mais vous comptez toujours le faire, non&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="3" villagerId="1002">
+        <Page social="4">Permettez-moi de vous exprimer ma gratitude pour votre célérité. C'est exactement ce qu'il me fallait.</Page>
+    </Text>
+</QuestDialog>

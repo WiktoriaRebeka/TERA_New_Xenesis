@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Quelqu'un soutient les devans. Quelqu'un de puissant. Nous devons les arrêter. Infiltrez-vous dans Deva Silva et tuez les {@LinkCreature:3#15#sorciers cœur d'ébène} et les {@LinkCreature:3#14#ravageurs de la résurrection}, avant de me rapporter leurs cœurs noirs de glace.&lt;BR&gt;&lt;BR&gt;Nous allons leur montrer ce qu'il en coûte de s'allier aux ennemis de la Fédération&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1007">
+        <Page social="4">Merci, &lt;PCNAME&gt;. Quels que soient les mauvais coups qu'ils étaient en train de préparer, je suis content de savoir que c'est de l'histoire ancienne.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1007">
+        <Page social="0">Personne n'aime se livrer à ce genre de massacre, mais il en va de la survie de Crescentia. Nous n'avons pas le choix.</Page>
+    </Text>
+</QuestDialog>

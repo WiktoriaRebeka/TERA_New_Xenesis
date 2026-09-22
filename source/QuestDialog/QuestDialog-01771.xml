@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="0">En pourchassant Mihog, vous avez découvert qu'en réalité, les demokrons étaient des Parthes transformés au terme d'expériences morbides. Furieux, le commandant khirien Rhodos a juré vengeance.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="1" voiceTypeId="0">(Ce tonneau est bien trop net comparé aux autres tonneaux poussiéreux. Quelqu'un semble l'avoir déplacé récemment.)&lt;NEXTPAGEBUTTON&gt;Déplacer le tonneau&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="822" prevId="2" villagerId="2003">
+        <Page social="1" voiceTypeId="0">Une sorcière archidevanne&amp;nbsp;? Elle est passée devant moi, avec Zolyn et le popori à ses trousses&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"D'accord, merci."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="822" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Zolyn s'est lancée à sa poursuite. Si vous vous dépêchez, vous pourrez la rattraper et tuer cette maudite Archidevanne&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Et Rhodos dans tout ça&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je me charge de parler à Rhodos... et de le calmer. Vous, chargez-vous de la sorcière archidevanne&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"C'est comme si c'était fait&amp;nbsp;!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2010">
+        <Page social="1" voiceTypeId="0">Ce bouffon trop précautionneux a cru à un piège et a refusé de me laisser passer&amp;nbsp;! Et voilà que nous avons perdu la piste de la sorcière.&lt;NEXTPAGEBUTTON&gt;"Ne lui en veuillez pas trop."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

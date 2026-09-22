@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="4">Les mercenaires sont des guignols, en comparaison des {@LinkCreature:32#10#sorcières sihrans} et des {@LinkCreature:32#11#polytypes sihrans}.&lt;BR&gt;&lt;BR&gt;Le simple crépitement de leurs sorts dans l'air suffit à... enfin, disons que si les mercenaires vous donnent des cauchemars, il n'y a pas de mot pour décrire l'effroi que vous ressentirez face aux sorcières.&lt;BR&gt;&lt;BR&gt;Si quelqu'un pouvait nous débarrasser d'elles, ça nous simplifierait les choses, sur le terrain.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1013">
+        <Page social="4">Qu'on ait peur de ces Sorcières ou pas, c'est un soulagement de savoir que nous n'aurons plus affaire à elles&amp;nbsp;! Merci&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1013">
+        <Page social="0">Si vous éradiquez les {@LinkCreature:32#10#sorcières} et les {@LinkCreature:32#11#polytypes} sihrans, nous pourrons tous bientôt partir d'ici.</Page>
+    </Text>
+</QuestDialog>

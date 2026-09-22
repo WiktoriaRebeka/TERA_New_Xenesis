@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Un sentier a été signalé dans la Zone centrale d'Exodor. Vous y avez rejoint Jelena, partie devant, pour découvrir où le sentier mène.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le sentier vous a directement menés auprès du commandant des troupes d'Arkarp. Vous affrontiez Kalligar quand Rogash est apparu sans crier gare pour emporter Kalligar.&lt;BR&gt;&lt;BR&gt;Découvrez ce que les hauts dragons d'Arkarp manigancent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="10000">
+        <Page social="4" voiceTypeId="0">Êtes-vous prêt à remonter le sentier ?&lt;BR&gt;&lt;BR&gt;Alors en route !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2105" prevId="3" villagerId="10000">
+        <Page social="4" voiceTypeId="0">Vous l'avez ressentie, vous aussi ?&lt;BR&gt;&lt;BR&gt;Cette énergie... elle me semble familière !&lt;BR&gt;&lt;BR&gt;L'heure de la vengeance a sonné. Dépêchez-vous !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2105" prevId="4" villagerId="10100">
+        <Page social="4" voiceTypeId="0">Misère ! Nous n'avons pas réussi à tous les vaincre.&lt;BR&gt;&lt;BR&gt;Je veux à tout prix venger Élion !&lt;BR&gt;&lt;BR&gt;Je vais tenter d'apprendre où Rogash est allé se fourrer.&lt;BR&gt;Retournez voir Dougal et faites-lui votre rapport.&lt;BR&gt;&lt;BR&gt;Ces monstres en ont sans doute après le noyau.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Les commandants hauts dragons sont réapparus...&lt;BR&gt;&lt;BR&gt;Nous devons apprendre ce qu'ils comptent faire ici.&lt;BR&gt;&lt;BR&gt;Pour cela, nous avons besoin de l'aide des Riverans.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, retournez auprès de Jelena et réunissez d'autres informations à Exodor.&lt;BR&gt;&lt;BR&gt;Je vous fais signe quand j'ai besoin de votre aide.</Page>
+    </Text>
+</QuestDialog>

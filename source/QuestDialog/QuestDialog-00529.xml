@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0">Vous avez de l'allure... J'espère que votre train de vie est à la hauteur.&lt;BR&gt;&lt;BR&gt;Un peu d'argent facile, ça vous tenterait peut-être&amp;nbsp;? J'ai besoin d'un messager.&lt;BR&gt;&lt;BR&gt;Faites parvenir ceci à {@LinkCreature:218#1008$$Nangor} au plus vite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1008">
+        <Page social="0">Que me veut {@LinkCreature:218#1028$$Bumon}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Oh non&amp;nbsp;! Non, non, non... Des filtres à mana de {@LinkCreature:18#10#golems sentinelles}&amp;nbsp;? Je lui dois de l'argent, mais de là à y laisser ma peau...!&lt;BR&gt;&lt;BR&gt;Si vous vous chargez d'aller chercher ça pour lui à ma place, je vous donnerai l'argent que je lui dois&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1008">
+        <Page social="0">Voilà qui arrange les affaires de tout le monde. Bumon obtient ce qu'il veut, vous touchez le pactole et je reste en vie&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, voilà ce que je vous dois.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1008">
+        <Page social="0">Non, il veut des filtres à mana de {@LinkCreature:18#10#golems sentinelles}... Et pas qu'un peu. Vous allez devoir en tuer un paquet.</Page>
+    </Text>
+</QuestDialog>

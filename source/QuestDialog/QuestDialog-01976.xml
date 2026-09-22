@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, je sais ce que je veux cuisiner maintenant ! &lt;BR&gt;Venez me voir sur l'Île de l'aube !&lt;BR&gt;&lt;br&gt;Ollivang</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez apporté la poche flambante de rejeton à crocs caustique à Ollivang et obtenu le troisième et dernier fragment de la pierre précieuse de l'espérance.&lt;BR&gt;&lt;BR&gt;Vous avez attaché la pierre précieuse à la couronne d'éternité et apporté à Mirriva un panier-repas d'Ollivang.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt; !&lt;BR&gt;Mon prochain plat sera des "ailes infernales" !&lt;BR&gt;Pour les préparer, j'ai besoin d'une poche flambante de {@linkcreature:13#7006#rejeton à crocs caustique}.&lt;BR&gt;&lt;BR&gt;Je compte sur vous !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Merci beaucoup !&lt;BR&gt;&lt;BR&gt;Je ne l'ai même pas encore mise au four qu'elle est déjà brûlante !&lt;BR&gt;&lt;BR&gt;À Arborea, il n'y a rien de tel qu'une poche flambante de rejeton à crocs pour entretenir la flamme !&lt;BR&gt;&lt;BR&gt;Un instant, je vous prie !&lt;NEXTPAGEBUTTON&gt;"Je patiente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nom d'un camembert ! J'ai failli brûler ma barbe !&lt;BR&gt;&lt;BR&gt;Venez donc goûter le nouveau mets des "ailes infernales" !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">Mes plats sont pensés pour des gourmets.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Cette poche flambante renferme une puissance de feu considérable. Je dois faire bien attention, sinon je risque de mettre le feu !&lt;BR&gt;&lt;BR&gt;Mais je suis à la fois chef cuisinier et génie, je sais donc précisément à quel moment retirer la viande du four pour qu'elle exhale des arômes extraordinaires !&lt;NEXTPAGEBUTTON&gt;"La viande est délicieuse, mais la sauce est assez relevée."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, c'est bon à savoir !&lt;BR&gt;&lt;BR&gt;Je n'étais pas tout à fait sûr de la sauce. Je vais l'adoucir un peu.&lt;BR&gt;&lt;BR&gt;Merci pour le conseil !&lt;BR&gt;J'ai fini de préparer tous les plats pour la fête. Il ne me reste plus que des plats plus faciles à réaliser.&lt;NEXTPAGEBUTTON&gt;"Vous allez rentrer maintenant ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oui, comme je le disais, j'ai terminé mon menu spécial.&lt;BR&gt;&lt;BR&gt;J'ai préparé un panier-repas pour Mirriva. Vous pouvez le lui remettre.&lt;BR&gt;&lt;BR&gt;J'en ai aussi un pour vous, bien sûr !&lt;BR&gt;&lt;BR&gt;Et voici le dernier fragment de la pierre précieuse d'espérance. J'imagine déjà la déesse Velik coiffée de la couronne d'éternité en train de déguster mes plats !&lt;BR&gt;&lt;BR&gt;Je pars pour Velika.&lt;BR&gt;Merci encore !</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Ollivang vous a donné ça pour moi ? &lt;BR&gt;&lt;BR&gt;(Elle ouvre le panier-repas et goûte.)&lt;BR&gt;Miam ! C'est vraiment délicieux ! Je n'aurais pas à m'inquiéter pour le banquet de la fête !&lt;BR&gt;&lt;BR&gt;Avec quoi a-t-il bien pu préparer ces mets ?&lt;NEXTPAGEBUTTON&gt;"Je peux tout vous expliquer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aha ! On pulvérise le noyau d'un golem de couvée brutal... et...&lt;BR&gt;&lt;BR&gt;Et la poche flambante d'un rejeton à crocs caustique et la durignite d'un fimbrilisk cruel ?! Hein ?&lt;NEXTPAGEBUTTON&gt;"Il y a un problème ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il faut que je m'entretienne avec Ollivang.&lt;BR&gt;&lt;BR&gt;Peut-être que des plats plus classiques seraient plus adaptés pour la fête...&lt;BR&gt;&lt;BR&gt;Je vais lui en toucher un mot.&lt;BR&gt;&lt;BR&gt;Merci et bravo !&lt;br&gt;&lt;BR&gt;Vous avez la pierre précieuse de l'espérance ?&lt;NEXTPAGEBUTTON&gt;"Voyez-vous même !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, elle est presque complète !&lt;br&gt;&lt;BR&gt;Tenez ! En échange de la peine que vous vous donnez.&lt;br&gt;J'espère que cela vous aidera à progresser davantage.&lt;BR&gt;&lt;BR&gt;Je vous fais signe dès que j'en sais plus sur une autre pierre précieuse.&lt;BR&gt;&lt;BR&gt;À bientôt, gardien.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

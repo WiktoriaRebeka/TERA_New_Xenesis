@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">Je dois mener l'enquête sur cette Cérémonie de bénédiction, mais les vampires qui me barrent la route sont trop nombreux.&lt;BR&gt;&lt;BR&gt;Si vous pouviez me débarrasser des {@LinkCreature:16#2403#fantassins} et des {@LinkCreature:16#2404#rétiaires} vampires du &lt;font color='#660000'&gt;Jardin du Manoir&lt;/font&gt;, vous me seriez d'une aide précieuse.&lt;BR&gt;&lt;BR&gt;Quand vous en aurez fini, allez voir Segodun&amp;nbsp;; il se trouve déjà dans le jardin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">Vous avez réussi à venir jusqu'ici... bon travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Veuillez accepter ceci, avec mes remerciements.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Vous partez enfin pour la Tour d'ébène ? &lt;BR&gt;&lt;BR&gt;Je ne peux rien faire d'autre pour vous que de prier pour que vous reveniez indemne. &lt;BR&gt;&lt;BR&gt;J'espère vous revoir en un seul morceau.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez infiltré la Tour d'ébène et avez vaincu Thulsa. Cependant, vous n'avez pas trouvé la moindre trace de Kelsaik. Pendant ce temps, Thulsa a essayé de s'enfuir malgré ses blessures...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="1" villagerId="1033">
+        <Page social="1" voiceTypeId="0">Le téléportail de la Tour d'ébène ne s'active pas comme ça. Oh, vous possédez la gemme de Killian, la clé du téléportail ?&lt;BR&gt;&lt;BR&gt;Et vous voulez entrer dans la tour maléfique ? La Tour d'ébène est répartie en cinq niveaux. Le poison de Thulsa affecte la tour, mais aussi les créatures qu'elle abrite.&lt;BR&gt;&lt;BR&gt;Nous sommes toutefois convaincus que vous parviendrez à éradiquer les monstres de la Tour d'ébène et même Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1501">
+        <Page social="1" voiceTypeId="0">(Vous avez activé le téléportail à l'aide de la gemme de Killian.&lt;BR&gt;Un portail vers la Tour d'ébène s'ouvre.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" villagerId="1501">
+        <Page social="0">Il est temps d'employer la gemme de Killian.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1501">
+        <Page social="1" voiceTypeId="0">(Des résidus de la magie puissance de Thulsa sont encore palpables dans la Tour d'ébène.)&lt;BR&gt;&lt;BR&gt;(Le téléportail semble vibrer à l'unisson avec un autre téléportail proche... Là-bas !)</Page>
+    </Text>
+</QuestDialog>

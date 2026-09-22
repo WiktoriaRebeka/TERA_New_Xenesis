@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0">J'ai besoin d'un échantillon, d'un éclat... bref, de n'importe quel fragment provenant de la forteresse argone détruite. On en trouve dans les {@Rgn:45005$$Champs célestes}, près de l'entrée condamnée.&lt;BR&gt;&lt;BR&gt;Vous me sauveriez la vie, et accessoirement, vous m'épargneriez le déplacement. Vous pouvez me trouver ça&amp;nbsp;? Pensez à éliminer les Wendigos avant de vous approcher des fragments, sans quoi ils chercheront à les protéger.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">J'ai bien peur qu'il n'existe aucun moyen de se rendre à l'intérieur de la forteresse, mais cela ne doit pas nous empêcher de chercher à découvrir ce que les argons y fabriquaient.&lt;BR&gt;&lt;BR&gt;Par chance, nous avons pris le contrôle d'une forteresse tout ce qu'il y a de plus fonctionnelle... celle des Trois Tours.&lt;BR&gt;&lt;BR&gt;Prenez ce rapport et allez le remettre à Borskan, de l'avant-poste du Pionnier. Merci de votre aide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">Faites votre rapport à Ellisiana et suivez ses instructions. Il nous reste encore beaucoup à apprendre à propos de cette supposée retraite des argons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="4" villagerId="1011">
+        <Page social="4">Ce rapport est inquiétant. Il soulève des questions dérangeantes... et quelque chose me dit que les réponses ne seront pas plus plaisantes à entendre.&lt;BR&gt;&lt;BR&gt;Nous devons découvrir pour quelle raison les argons ont décidé de quitter la région. Pouvons-nous compter sur votre aide&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

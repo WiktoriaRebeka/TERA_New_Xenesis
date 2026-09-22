@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">J'ai un travail pour vous, soldat. Nos provisions finissent entre les mains des membres du culte de Chute-céleste. Chaque bouchée qu'ils avalent les rend un peu plus forts et nous un peu plus faibles&amp;nbsp;! Je veux que vous alliez récupérer tout ce que vous pouvez sur les {@LinkCreature:17#300551#moissonneurs tête de baril} que vous trouverez à l'est. C'est un sale boulot, mais nous devons empêcher ces vermines de nous nuire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Bien joué, soldat. N'oubliez pas cette grande leçon&amp;nbsp;: un ennemi affamé est un ennemi désespéré, et le désespoir pousse à l'erreur. Nous n'avons qu'à continuer de leur mettre la pression.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1023">
+        <Page social="0">Je sais que la tâche est rebutante, mais en tuant les cultistes pour récupérer la nourriture, nous faisons d'une pierre deux coups. Rompez.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Il faut remettre ce registre à {@LinkCreature:241#1025$$Grunath}, à la Station de la Vallée sauvage. C'est le préfet, il devrait savoir quoi en faire.&lt;BR&gt;&lt;BR&gt;Vous avez risqué votre vie pour nous. Merci, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1025">
+        <Page social="4">Il semblerait que les voleurs selvaras enlèvent des gens et les vendent à la Légion de Thulsa.&lt;BR&gt;&lt;BR&gt;A partir de maintenant, nous devons étroitement surveiller cette légion.</Page>
+    </Text>
+</QuestDialog>

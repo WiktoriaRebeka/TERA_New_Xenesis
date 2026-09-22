@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="0">Comment convenu avec Stefanna, vous livrez l'huile solaire aux Castanics se faisant bronzer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="6">Bonjour, &lt;PCNAME&gt;. Vous vous amusez bien, au soleil&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Malheureusement, ce n'est pas mon cas. J'ai pris du retard dans mes livraison, et je ne peux pas prendre de pause avant que tout le monde n'ait reçu son huile de bronzage.&lt;BR&gt;&lt;BR&gt;Pourriez-vous m'aider...&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="4">Merci beaucoup, &lt;PCNAME&gt;&amp;nbsp;! Voyons voir...&lt;BR&gt;&lt;BR&gt;J'ai quatre clients qui attendent leur huile de bronzage mais celui-ci attend depuis vraiment longtemps. Pourriez-vous prendre cette huile de bronzage et la lui livrer&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="3" villagerId="2201">
+        <Page social="4">Mais vous n'êtes pas Stefanna, quelle désillusion... Est-ce qu'elle vous a parlé de moi&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="3" villagerId="2203">
+        <Page social="4">Il était temps&amp;nbsp;! Je commençais à bouillir&amp;nbsp;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="3" villagerId="2116">
+        <Page social="4">Vous en avez mis un de temps&amp;nbsp;! Oh, je vois&amp;nbsp;: Stefanna se prélasse sur la plage pendant que vous courrez partout, le coup classique.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="3" villagerId="2118">
+        <Page social="4">Ah, l'huile solaire de Stefanna, enfin&amp;nbsp;! Vous l'avez essayée&amp;nbsp;? Vous devriez&amp;nbsp;! Elle est vraiment géniale&amp;nbsp;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" prevId="11" villagerId="2011">
+        <Page social="4">Merci beaucoup, &lt;PCNAME&gt;&amp;nbsp;! Il fait vraiment trop chaud faire faire des livraisons. Vous devriez faire une pause.&lt;BR&gt;&lt;BR&gt;Mettez ceci. Le soleil ne vous gênera plus.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="4">&lt;PCNAME&gt;&amp;nbsp;! Vous avez ouvert le téléportail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Grâce à vous, je mérite enfin le titre de chercheur du téléportail&amp;nbsp;! Merci&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ravi{@g:/e} de pouvoir aider."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Vous avez fait bien plus qu'aider.&lt;BR&gt;&lt;BR&gt;Je sais que vous avez vos propres problèmes, mais avant que vous repartiez, pourrais-je vous demander un dernier service&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"De quoi s'agit-il&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est un jour béni que celui où tous les barakas du monde peuvent enfin retourner voir le berceau de leurs ancêtres. Pourriez-vous leur faire savoir que Hautegarde est à nouveau à leur portée.&lt;BR&gt;&lt;BR&gt;Pourriez-vous distribuer ces invitations à mes frères barakas à Velika&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je m'en occupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1567">
+        <Page social="4">Vous venez d'où&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;De Hautegarde&amp;nbsp;? Cette ville est encore debout, après tout ce temps&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Tout à fait et les barakas de là-bas souhaitent que vous leur rendiez visite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">C'est effectivement une journée inoubliable&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je vais en informer les barakas de Kaiator et d'Allemantheia.&lt;BR&gt;&lt;BR&gt;Merci de m'avoir remis ce message et, quand vous retournerez à Hautegarde, dites-leur que les barakas vont se mettre en route.&lt;NEXTPAGEBUTTON&gt;"Je le ferai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2055">
+        <Page social="4">Vous avez rendu un service prodigieux au peuple baraka, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Je sais que je ne pourrais jamais vraiment vous dédommager, mais acceptez ce témoignage de ma gratitude.&lt;NEXTPAGEBUTTON&gt;"Merci, Garm."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

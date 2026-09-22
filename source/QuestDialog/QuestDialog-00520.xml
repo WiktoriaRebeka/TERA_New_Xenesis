@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Oui, je sais. C'est toujours la même histoire... "rentrer au camp se mettre en sécurité". Très peu pour moi.&lt;BR&gt;&lt;BR&gt;Alors, vous allez me donner un coup de main&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Je n'ai pas souvenir d'avoir proposé mon aide."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous avez été {@gender:déclaré/déclarée} volontaire d'office pour servir la science. J'étudie la civilisation des géants, mais je n'ai pas réussi à rassembler suffisamment de documentation pour en avoir une compréhension complète. Toutefois, j'ai remarqué que les {@LinkCreature:18#17#teralithes anciens} étaient recouverts d'inscriptions. Je me demande ce qu'elles pourraient nous apprendre.&lt;BR&gt;&lt;BR&gt;Vous me rendriez un grand service en allant m'en chercher.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Oh, regardez ces inscriptions&amp;nbsp;! C'est exactement ce que j'espérais trouver.&lt;BR&gt;&lt;BR&gt;Elles devraient m'apprendre pas mal de choses. C'est du bon travail&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Tenez, voici de quoi récompenser vos efforts. Ce n'est pas grand-chose, mais difficile de trouver mieux aussi loin du camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Si vous cherchez les {@LinkCreature:18#17#terralithes anciens} ici, vous allez les chercher longtemps.&lt;BR&gt;&lt;BR&gt;Maintenant, au boulot. Je peux compter sur vous, ou pas&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

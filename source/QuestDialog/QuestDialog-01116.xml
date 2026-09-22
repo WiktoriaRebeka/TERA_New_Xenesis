@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">Alors vous vous attaquez à la conspiration des nagas et des mekonaris. Vous m'impressionnez.&lt;BR&gt;&lt;BR&gt;J’y ai beaucoup réfléchi, &lt;PCNAME&gt;, et je pense que les {@LinkCreature:42#1100#enchanteresses nixes} pourraient bien y être mêlées. Si vous apprenez quelque chose en massacrant des monstres, prévenez Vries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="4">Une traduction&amp;nbsp;? Bien sûr...&lt;BR&gt;&lt;BR&gt;"Ressusciter notre seigneur Dagon..." Ca, ce n’est pas étonnant. "... offrandes de sang... sacrifice... source de puissance arcanique..."&lt;BR&gt;&lt;BR&gt;Par Karas, est-ce qu’ils pourraient vraiment faire ça&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Allez voir Darim&amp;nbsp;; il réfléchit bien, et c’est notre meilleur stratège. Répétez-lui ce qui est dit ici. Il trouvera un plan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Vous avez affronté les {@LinkCreature:42#1100#enchanteresses nixes}&amp;nbsp;? Vous avez quelque chose&amp;nbsp;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1035">
+        <Page social="5">Dagon. Par Kaia...&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Les nagas sont déjà une plaie, mais s’ils faisaient revenir Dagon, il ne servirait à rien de se cacher. Toutes les villes de la région seraient réduites en cendres.&lt;BR&gt;&lt;BR&gt;Et nous aussi.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,59 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous, Greyden et les autres éclaireurs êtres entrés dans les {@Rgn:9012001$$Aiguilles des Trois tours}. Vous y avez trouvé Yasring argonisée et de nombreux autres disparus n'ayant pas survécu.&lt;BR&gt;Vous avez vengé les morts sur les argons des tours.&lt;BR&gt;En fouillant les tours, vous avez découvert une survivante : Hasmina, l'héroïne de la première guerre argonne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Entrez dans les {@Rgn:9012001$$Aiguilles des Trois tours}.&lt;BR&gt;&lt;BR&gt;Explorez l'intérieur des {@Rgn:9012001$$Aiguilles des Trois tours} en compagnie des éclaireurs.&lt;BR&gt;&lt;BR&gt;Espérons qu'il reste des survivants... Et espérons que Yasring se porte bien.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;[Vous ne pouvez pas rejoindre ce donjon à plusieurs.]&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="46" villagerId="2">
+        <Page social="0">Hum. Bien, nous y sommes.&lt;BR&gt;Cet endroit me fait froid dans le dos.&lt;BR&gt;&lt;BR&gt;Tellement d'Humains ont disparu à proximité de l'entrée... Quelque chose d'étrange se trame par ici ! &lt;BR&gt;&lt;BR&gt;Nous devons rester vigilants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="412" prevId="2" villagerId="2009">
+        <Page social="13" voiceTypeId="0">&lt;PCNAME&gt;, les éclaireurs et moi-même allons évacuer Yasring.&lt;BR&gt;&lt;BR&gt;L'état de Yasring vous a sans doute aussi bouleversé, mais dans un tel endroit, d'autres ennemis nous guettent sans doute derrière la prochaine porte. &lt;BR&gt;&lt;BR&gt;Merci de leur régler leur compte. &lt;BR&gt;&lt;BR&gt;Examinez l'intérieur.&lt;BR&gt;Éliminez tous les argons que vous rencontrez !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="412" prevId="4" villagerId="2005">
+        <Page social="13" voiceTypeId="0">J'étais à deux doigts de baisser les bras quand vous avez surgi.&lt;BR&gt;Je vous dois la vie ! Merci !&lt;BR&gt;&lt;BR&gt;Mais j'ai encore quelque chose à régler. &lt;BR&gt;C'est trop dangereux pour que je m'en charge seule. Accompagnez-moi ! Vite !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="412" prevId="5" villagerId="2006">
+        <Page social="1" voiceTypeId="0">P-pas tout de suite, d'accord&amp;nbsp;? Commençons par sortir d'ici.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2001">
+        <Page social="8" voiceTypeId="0">Que s'est-il passé ?&lt;BR&gt;Êtes-vous responsable de toute cette agitation ?&lt;BR&gt;&lt;BR&gt;Toutes ces victimes, quelle tragédie... mais les survivants ne doivent surtout pas baisser les bras. &lt;BR&gt;Quelle joie de vous voir revenir indemne.&lt;BR&gt;&lt;BR&gt;Ah, nous n'avons pas le temps pour ça ! &lt;BR&gt;Patientez un instant !&lt;NEXTPAGEBUTTON&gt;"J'attends."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Voici un rapport de recherches.&lt;BR&gt;&lt;BR&gt;Apportez-le au commandant Helkan à {@Rgn:84001$$Kaiator}.&lt;BR&gt;Il nous aidera à développer une stratégie pour faire face aux argons.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2008">
+        <Page social="4" voiceTypeId="0">Et avant que j'oublie... merci. Je m'appelle {@linkcreature:246#2008#Hasmina}. &lt;BR&gt;&lt;BR&gt;Jusqu'à présent, la vengeance était ma seule raison d'être, mais... je vais d'abord vous raconter ce que je sais.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2008">
+        <Page social="4" voiceTypeId="0">Je vais emprunter cette route pour retourner à {@Rgn:84001$$Kaiator}. &lt;BR&gt;&lt;BR&gt;J'aimerais discuter des résultats de mes recherches avec Kaia. &lt;BR&gt;&lt;BR&gt;Accompagnez-moi donc à Kaiator. &lt;BR&gt;Vous pourriez bien m'être utile.&lt;BR&gt;&lt;BR&gt;Je vous donne un parchemin de téléportation avec lequel vous pourrez retourner auprès de Kaia. Je vous retrouve là-bas !</Page>
+    </Text>
+    <Text id="10" huntingZoneId="528" prevId="9" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, Vous êtes indemne !&lt;BR&gt;Avez-vous pu aider les chercheurs du Mysterium ?&lt;NEXTPAGEBUTTON&gt;"Absolument !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hum... Mais ce n'est pas...&lt;BR&gt;&lt;BR&gt;Nous allons devoir en discuter plus avant.&lt;BR&gt;Gislan, le commandant de Velika est venu ici pour demander des renforts pour le {@Rgn:48001$$Front de Khanovar}.&lt;BR&gt;&lt;BR&gt;Mieux vaut ne pas le faire attendre. Allez donc vous entretenir avec Gislan.&lt;BR&gt;&lt;BR&gt;Je dois encore lire le rapport jusqu'au bout.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="528" prevId="10" villagerId="5026">
+        <Page social="4" voiceTypeId="0">J'ai déjà entendu bien des récits de vos exploits, &lt;PCNAME&gt;.&lt;BR&gt;Ainsi, vous avez rencontré Hasmina dans les Trois tours ?&lt;BR&gt;&lt;BR&gt;Elle a fait des merveilles pendant la première guerre argonne.&lt;BR&gt;&lt;BR&gt;Mais un rapport nous a informés de l'anéantissement de sa troupe. Cependant, son cadavre est introuvable.&lt;BR&gt;&lt;BR&gt;Nous avons tout retourné sans rien trouver&lt;BR&gt;Voilà pourquoi nous avons gardé espoir de la revoir vivante.&lt;BR&gt;&lt;BR&gt;Grâce à vous, nous l'avons retrouvée.&lt;NEXTPAGEBUTTON&gt;"Bah, c'est bien peu de chose."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Par ces temps difficiles, il est important de renforcer le moral de la fédération. Après tout, nous luttons contre un ennemi inconnu.&lt;BR&gt;&lt;BR&gt;Comme vous le savez déjà, le chaos règne sur le {@Rgn:48001$$Front de Khanovar}. Et les argons se montrent toujours plus sournois.&lt;BR&gt;&lt;BR&gt;Rien d'étonnant, donc, à ce que les troupes de Velika combattent aussi sur place.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">Nous ne devrions pas ignorer cette option. Qu'en dites-vous, &lt;PCNAME&gt; ?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">Il est vrai que les argons ont peaufiné leurs techniques de combat depuis la première guerre argonne.&lt;br&gt;Ils ont même approché l'ancien commandant Samael et ont paralysé le Quartier général de Velika.&lt;BR&gt;&lt;BR&gt;Si nous perdons des forces armées pour les affecter à la lutte contre Thulsa, nous risquons de nous retrouver en bien mauvaise posture.&lt;NEXTPAGEBUTTON&gt;"Vous avez raison."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pour limiter les dangers, nous devrions nous contenter d'envoyer une troupe très réduite. Qu'en dites-vous ?&lt;BR&gt;&lt;BR&gt;Vous feriez un Shariar de premier ordre. Vous ne voulez pas vous joindre à nous ?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">Je comprends... Même si Helkan a menti et si la fournaise divine et le forgeron sont tombés entre les mains de l'ennemi, la production d'armes d'Arborea va finir par marquer le pas.&lt;br&gt;&lt;br&gt;Plus la guerre s'éternise, plus nos forces s'étioleront. Tous les soutiens sont donc les bienvenus.&lt;NEXTPAGEBUTTON&gt;"Vous avez bien raison."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous n'étiez pas membre de la Garnison de Velika commandée par Arun, en rejoignant l'armée ? Je vous recruterais bien dans mon escouade.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">La situation est si grave que même le commandant de Velika doit prendre les armes. Je sais bien que la situation du {@Rgn:48001$$Front de Khanovar} est alarmante, mais je ne peux toutefois pas me passer de vous.&lt;NEXTPAGEBUTTON&gt;"Prenez donc une décision."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Vous envoyer auprès des chercheurs du Mysterium dans les Trois tours a déjà été une décision douloureuse. &lt;PCNAME&gt;, vous êtes la nouvelle Épée de Kaia. Pour l'heure, sauver le forgeron légendaire est primordial.&lt;BR&gt;&lt;BR&gt;Je suis désolé pour le commandant Gislan, mais je ne peux pas vous envoyer rejoindre un combat dont vous ne reviendrez peut-être pas.&lt;NEXTPAGEBUTTON&gt;"Ça peut se comprendre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Dès que l'affaire sera réglée, Kaiator déploiera ses armes dans la guerre argonne. &lt;BR&gt;&lt;BR&gt;Je vais communiquer ma décision au commandant Gislan et lui dire qu'il devrait emmener Hasmina. Son soutien s'avèrera précieux.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, transmettez donc ma décision à Hasmina. Elle se trouve sans doute aux portes du quartier général.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="84" prevId="15" villagerId="10034">
+        <Page social="4" voiceTypeId="0">Merci beaucoup, &lt;PCNAME&gt;. C'est bien la décision que je craignais. Kaia a également souhaité que je retourne au front. &lt;BR&gt;&lt;BR&gt;Vous aussi, vous nous auriez été bien utile sur le {@Rgn:48001$$Front de Khanovar}. Quel dommage. &lt;NEXTPAGEBUTTON&gt;"Il est impératif d'arrêter Thulsa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je me sens en sécurité en vous ayant à mes côtés, &lt;PCNAME&gt;. Rien d'étonnant à ce que Kaia vous accorde une telle confiance.&lt;BR&gt;Pendant que vous vous occupez du cas de Thulsa par ici, je vais me charger de l'offensive des argons.&lt;BR&gt;J'espère vous revoir très bientôt.&lt;BR&gt;&lt;BR&gt;Acceptez donc ce gage de mon amitié.&lt;BR&gt;&lt;BR&gt;Et surtout, prenez bien soin de vous !</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="9004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="9004">
+        <Page social="0">Hé&amp;nbsp;! Vous n'allez pas rester enfermé{@g:/e} tout l'hiver&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Mon nom est Ambrrr, messager d'Hivera. Venez {@linkcreature:63#9004#me} trouver à Velika et je vous révélerai l'un des secrets de l'hiver les mieux gardés&amp;nbsp;: l'enivrante bataille d'Hivera&amp;nbsp;!&lt;BR&gt;Ne perdez pas de temps&amp;nbsp;: on ne peut profiter de cette distraction que tant que l'hiver dure.&lt;BR&gt;&lt;BR&gt;--Ambrrr</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9004">
+        <Page social="1">Vous êtes venu{@g:/e}&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Êtes vous disposé{@g:/e} à en apprendre plus sur la bataille de boules de neige d'Hivera&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

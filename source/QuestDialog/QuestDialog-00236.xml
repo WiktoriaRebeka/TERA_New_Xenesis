@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Maudits gulas&amp;nbsp;! Ils ont jeté des charognes dans les sources souterraines des cavernes. Elles sont toutes empoisonnées.&lt;BR&gt;&lt;BR&gt;Les gulas digèrent tout, ils pourraient s'abreuver à une fosse d'aisance. J'avais peur qu'ils nous affament, mais ce sont des esclavagistes. Que boivent leurs esclaves&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Il y a sûrement un {@LinkCreature:208#1038#puits sain} quelque part dans la Caverne des Entraves&amp;nbsp;! Prenez cette cruche et trouvez-le.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1038">
+        <Page social="4">(Un courant d'air pur et frais souffle de ce puits sombre et profond.)&lt;BR&gt;&lt;BR&gt;(Plus bas, le courant d'eau souterrain gargouille.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="4">Je le savais. Où est ma tasse&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Aaaah&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;J'avais oublié que l'eau fraîche sentait si bon&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

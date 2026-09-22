@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="0">Rida vous a aidé à briser le second sceau du temple au bord du Lac de Seren. Avant votre rencontre avec le chef des Consos, {@creature:71#1114$$Rida} vous a enjoint de ne pas divulguer trop des secrets du temple au Mysterium.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="1" voiceTypeId="0">Mon maître, c'est-à-dire {@linkcreature:230#1024$$Alais}, est un spécialiste de la langue des dieux. Il pourra vous aider.&lt;BR&gt;&lt;BR&gt;Attendez... Il devrait être en train de mesurer l'énergie du motif de Balder.&lt;BR&gt;&lt;BR&gt;Cheminez vers l'est et vous trouverez le camp.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1024">
+        <Page social="1" voiceTypeId="0">Oh, &lt;PCNAME&gt; !&lt;BR&gt;Alors ça avance cette recherche du miroir de Balder ? Ainsi, vous avez déjà brisé un sceau de Seren ?&lt;BR&gt;&lt;BR&gt;Impressionnant ! Et pour le sceau suivant, il vous faut le contenu de ce parchemin, c'est bien ça ?&lt;BR&gt;&lt;BR&gt;Je peux y jeter un œil ?&lt;BR&gt;&lt;BR&gt;Oho, mais c'est...&lt;BR&gt;&lt;BR&gt;La personne qui a brisé le premier sceau y est couverte d'éloges. Il est également écrit que le deuxième sceau se trouve au bord du {@Rgn:30014$$Lac de Seren}.&lt;BR&gt;&lt;BR&gt;Et il est également question d'un serment. Hum... Vous devriez l'amener à Rida.&lt;NEXTPAGEBUTTON&gt;"Où est Rida ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Elle vous attend déjà sans doute au {@Rgn:30014$$Lac de Seren}. N'avez-vous pas dit qu'elle vous attendait aussi pour le premier sceau ? Elle connaît donc déjà l'emplacement du sceau.&lt;BR&gt;&lt;BR&gt;Seren semble avoir une emprise phénoménale sur la princesse. Où peut-être qu'elle s'est juste éprise de la princesse. Ha ha.&lt;BR&gt;&lt;BR&gt;Vous devriez partir pour le Lac de Seren. Venez dans la {@Rgn:30015$$Forteresse des archives} quand vous aurez brisé le sceau. Je vous attendrai là-bas.&lt;NEXTPAGEBUTTON&gt;"Qu'est-ce que c'est que cette forteresse ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">C'est le camp du clan des Consos.&lt;BR&gt;Je tiens à vous présenter quelqu'un, quand vous aurez fini votre mission.&lt;BR&gt;&lt;BR&gt;Hum... Toute cette affaire a décidément bien avancé. Les Consos sont sans doute déjà dans tous leurs états.&lt;BR&gt;&lt;BR&gt;Il faut que je voie ça !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1082">
+        <Page social="1" voiceTypeId="0">Vous êtes en retard !&lt;BR&gt;Comment osez-vous me faire poireauter ainsi ? Avez-vous apporté le serment ?&lt;BR&gt;&lt;BR&gt;Sans le serment, vous ne pourrez accéder au sceau de Seren !&lt;BR&gt;&lt;BR&gt;Hum... Bien, voilà donc le serment. Bon sang... Il nous faut des lotus du clair de lune pour extraire la puissance.&lt;BR&gt;&lt;BR&gt;Eh bien, ne restez pas là à vous dandiner ! Allez trouver du lotus du clair de lune sur le lac !</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1082">
+        <Page social="1" voiceTypeId="0">Ça devrait faire l'affaire.&lt;BR&gt;&lt;BR&gt;(Rida s'enduit les mains de la rosée du lotus du clair de lune et marmonne quelque chose.)&lt;BR&gt;&lt;BR&gt;Pfiou... J'ai presque fini.&lt;BR&gt;Procédons comme pour le premier sceau.&lt;BR&gt;&lt;BR&gt;Vous brisez le sceau de Seren pendant que j'y canalise mes forces !</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" villagerId="1082">
+        <Page social="0">Ce n'est quand même pas sorcier de cueillir un lotus du clair de lune au bord du lac.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="5" villagerId="1082">
+        <Page social="1" voiceTypeId="0">Et voilà... le {@Rgn:9025001$$Temple de Balder} ouvert !&lt;BR&gt;&lt;BR&gt;(Rida semble exténuée.)&lt;BR&gt;&lt;BR&gt;Le miroir de Balder est maintenant à portée de main. Cela ne signifie pas pour autant que le miroir vous appartiendra.&lt;BR&gt;&lt;BR&gt;Que comptez-vous faire avec le miroir ?&lt;BR&gt;&lt;BR&gt;Vous avez bien un plan, non ? Ou est-ce que vous avez bêtement suivi les consignes du vieux ? Mais il vous exploite, voilà tout. &lt;NEXTPAGEBUTTON&gt;"Si c'est pour une bonne cause, je m'en moque."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, quelle naïveté ! Incroyable.&lt;BR&gt;&lt;BR&gt;Mais je suis contente de savoir que vous aurez miroir de Balder entre les mains.&lt;BR&gt;&lt;BR&gt;Cela ne veut absolument pas dire que je vous aime bien !&lt;BR&gt;&lt;BR&gt;Mais ne vous avisez surtout pas d'offrir le miroir au vieux sans bonne raison. Si vous le faites, je vous raillerai jusqu'à la fin de mes jours !</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1053">
+        <Page social="1" voiceTypeId="0">Vous avez rompu le sceau ?&lt;BR&gt;Formidable, &lt;PCNAME&gt;. Nous y voilà donc.&lt;BR&gt;&lt;BR&gt;Je vais maintenant vous présenter à {@linkcreature:230#1047$$Nandu}, le chef du clan des Consos.&lt;BR&gt;&lt;BR&gt;Il a protégé le miroir de Balder et attend depuis très longtemps que la prophétie se réalise. Allez l'informer que tous les sceaux sont brisés.&lt;BR&gt;&lt;BR&gt;Il vous dira comment entrer dans le {@Rgn:9025001$$Temple de Balder}.</Page>
+    </Text>
+</QuestDialog>

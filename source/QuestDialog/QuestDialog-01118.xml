@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Nous devons non seulement mettre au jour tous ces complots, mais aussi découvrir des trésors. L’effort de guerre dépend de nous, et les {@LinkCreature:42#210#croisés dagonites} ne nous facilitent pas la tâche. A notre tour de leur rendre la vie impossible, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="5">C’est toujours un plaisir de récompenser le travail bien fait, et c’était tout à fait le cas ici.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Nous ne trouverons jamais ces trésors si nous devons nous frayer un chemin parmi les {@LinkCreature:42#210#croisés dagonites} dans toutes les pièces, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

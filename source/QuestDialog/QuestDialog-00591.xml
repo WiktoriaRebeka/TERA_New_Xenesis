@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="4">Le &lt;font color='#660000'&gt;{@RawItem:206821}&lt;/font&gt; est réputé pour ses vertus purificatrices miraculeuses. C'est grâce aux gisements de &lt;font color='#660000'&gt;{@RawItem:206821}&lt;/font&gt; qui jonchent l'oasis du village que nous pouvons y prélever notre eau potable.&lt;BR&gt;&lt;BR&gt;Dans cette région, c'est une ressource inestimable à qui nous devons la vie. &lt;BR&gt;&lt;BR&gt;Si, par hasard, vous avez un ou plusieurs morceaux de &lt;font color='#660000'&gt;{@RawItem:206821}&lt;/font&gt; sur vous, je suis prêt à les acheter au prix fort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1008">
+        <Page social="4">Oh, vous en avez. Merci.&lt;BR&gt;&lt;BR&gt;Les gens qui dépendent de l'eau de cette oasis vous en seront certainement très reconnaissants, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" villagerId="1008">
+        <Page social="0">Si vous me rapportez un peu de {@RawItem:206821} pour assurer la salubrité de l'oasis, je vous en serai infiniment reconnaissant.</Page>
+    </Text>
+</QuestDialog>

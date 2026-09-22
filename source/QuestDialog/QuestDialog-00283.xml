@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="4">Personne ne sait au juste pourquoi les arachnéens collaborent avec les nagas, mais on peut dire que leurs forces constituent un méchant tandem. Il faut les massacrer jusqu'au dernier, mais je pense que nous devrions commencer par les {@LinkCreature:10#1#guerriers arachnéens}.&lt;BR&gt;&lt;BR&gt;Parlons peu, parlons bien... vous les tuez, je vous paie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1111">
+        <Page social="4">Les arachnéens ne sont manifestement pas les seuls prédateurs du coin. Ils vont devoir apprendre à compter avec vous&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1111">
+        <Page social="0">Le {@LinkCreature:10#1#guerrier arachnéen} est dangereux, mais pensez un peu aux gros sous&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="80" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Ordres de mission&lt;BR&gt;&lt;BR&gt;La perspective d'une attaque empêche nos troupes de se déplacer librement dans la jungle.&lt;BR&gt;&lt;BR&gt;Rendez-vous sur place et débarrassez-nous des {@LinkCreature:10#11#pourfendeurs nagas}, des {@LinkCreature:10#12#serfs caïmans}, des {@LinkCreature:10#5#ghilliedhus écorce-épaisse}, des {@LinkCreature:10#6#mycanars agités} et des {@LinkCreature:10#21#dents-de-sabre ébènes}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, allez présenter votre rapport à la coordinatrice Briale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Vous avez bien mérité les remerciements de la Fédération. Votre guilde est exemplaire&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">On dirait que vous n'avez pas encore mené votre mission à bien.</Page>
+    </Text>
+</QuestDialog>

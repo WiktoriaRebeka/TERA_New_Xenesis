@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">On m'a demandé de faire une reconnaissance du passage est, mais des {@LinkCreature:11#3006#berserkers du Fouet rouge} m'ont rapidement barré la route.&lt;BR&gt;&lt;BR&gt;Je ne peux ni les tuer, ni contourner l'obstacle. En d'autres termes, je suis dans le pétrin.&lt;BR&gt;&lt;BR&gt;Vous pourriez faire une petite diversion, le temps que j'aille accomplir ma mission&amp;nbsp;? J'ai horreur de rentrer à la base les mains vides.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">C'est un joli carnage, &lt;PCNAME&gt;. Je me mettrai en route aussitôt que je ne risquerai plus de glisser sur une flaque de sang.</Page>
+    </Text>
+</QuestDialog>

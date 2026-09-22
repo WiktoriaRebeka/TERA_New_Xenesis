@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="0">Jelena a dit que les espions de Samael s'étaient infiltrés au Port Coupe-gorge et qu'il fallait absolument les tuer avant qu'ils ne rentrent faire leur rapport.&lt;BR&gt;&lt;BR&gt;Avec l'aide des soldats de l'épée de Kaia, vous avez identifié les Justicars de Samael avant de les éliminer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Je parle des descendants de Lok qui ont attaqué Paxomnia. Apparemment, ils travaillent pour Samael.&lt;BR&gt;&lt;BR&gt;Ce dernier a sans doute encore plus d'espions dans le Port Coupe-gorge. Nous devons les empêcher de l'informer des derniers évènements. &lt;BR&gt;&lt;BR&gt;À l'aide des indices que je leur ai donné, l'épée de Kaia et les éclaireurs ont sans doute déjà découvert la planque des gars suspects qui se cachent dans le Port Coupe-gorge. &lt;BR&gt;&lt;BR&gt;Allez trouver {@LinkCreature:62#1010#Kasib}, récupérez le rapport concernant le repaire des espions et dénichez-les.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Nous avons suivi les espions avec Arkaius, de l'épée de Kaia. &lt;BR&gt;&lt;BR&gt;Les suspects se sont déguisés en marins. Vous trouverez leur emplacement dans le rapport. &lt;BR&gt;&lt;BR&gt;Bonne chance !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Avez-vous déniché le repaire des espions de Samael ? &lt;BR&gt;&lt;BR&gt;Parfait. Nous devrions régler l'affaire à ma manière. &lt;BR&gt;&lt;BR&gt;J'ai fabriqué cette bombe moi-même !&lt;BR&gt;&lt;BR&gt;Je me suis arrangée pour qu'elle ressemble à des consignes des descendants de Lok. Son effet est de courte durée, mais elle va leur engourdir les sens. &lt;NEXTPAGEBUTTON&gt;"Que faites-vous là ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il faut remettre ceci aux espions !&lt;BR&gt;&lt;BR&gt;L'effet n'est que temporaire, mais ils vous prendront pour un émissaire de Lok. Ne vous en faites donc pas. &lt;BR&gt;&lt;BR&gt;Dès qu'ils ouvriront le couvercle, votre identité sera démasquée. Mais ils s'apercevront de la supercherie trop tard, la bombe aura déjà explosé. &lt;BR&gt;&lt;BR&gt;Occupez-vous de {@LinkCreature:212#1037#lui}. &lt;BR&gt;Je vais m'occuper du reste. &lt;BR&gt;&lt;BR&gt;Même si notre plan échoue, nous aurons réussi à mettre quelques bâtons dans les roues de Samael.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Votre visage... Hum... Bah, peut-être pas.&lt;BR&gt;Je sais que bien l'unité spéciale a échoué, mais voilà déjà de nouveaux ordres ?&lt;BR&gt;&lt;BR&gt;Et faites donc un peu preuve de respect en nous transmettant les ordres. Maintenant, disparaissez, je n'ai pas que ça à faire.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1035">
+        <Page social="9" voiceTypeId="0">Parfait ! Tous les espions qui se cachaient dans le Port Coupe-gorge sont éliminés. Ainsi, Samael ignorera encore quelque temps ce qui se trame ici. &lt;BR&gt;&lt;BR&gt;Mais ne nous relâchons surtout pas. &lt;BR&gt;&lt;BR&gt;Nous devons découvrir quelles sont les intentions de Samael et des descendants de Lok ! &lt;BR&gt;&lt;BR&gt;Cela devrait apporter la preuve indiscutable que Samael a trahi la Fédération Valkyon.</Page>
+    </Text>
+</QuestDialog>

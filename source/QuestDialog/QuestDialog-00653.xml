@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="5">Plusieurs patrouilles ont été attaquées par des créatures cracheuses de feu inhabituelles.&lt;BR&gt;&lt;BR&gt;Je souhaite les étudier. Je veux que vous traquiez et que vous tuiez quelques {@LinkCreature:23#9#rejetons à crocs fondus} et que vous préleviez leurs noyaux.&lt;BR&gt;&lt;BR&gt;Ca devrait me permettre de trouver une méthode plus radicale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1036">
+        <Page social="5">Ceux-ci sont parfaits. Je les analyse sur-le-champ.&lt;BR&gt;&lt;BR&gt;Aïe, ils sont encore chauds&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1036">
+        <Page social="0">Si nous ne pouvons pas étudier leur noyau, ces bêtes pourraient échapper à tout contrôle.&lt;BR&gt;&lt;BR&gt;Imaginez une armée de rejetons à crocs fondus marchant sur Pora Elinu&amp;nbsp;! Retournez-y et rapportez-moi ces noyaux&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

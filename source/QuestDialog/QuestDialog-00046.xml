@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0">Hé, &lt;PCNAME&gt;, dites à {@LinkCreature:202#1012#Volos} que j'aimerais lui parler. Mais c'est un demi-dieu donc je ne peux pas vraiment aller le voir et lui dire "Hé, Teros a envie de causer."&lt;BR&gt;&lt;BR&gt;Non, pour un demi-dieu, vous devez apporter une offrande... une sorte de tribut. Tuez quelques {@LinkCreature:2#5#dents-de-sabre colossaux} au passage.&lt;BR&gt;&lt;BR&gt;Volos est un chasseur, il appréciera vos actions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1012">
+        <Page social="0">Teroz du Camp de la Vallée Faevine souhaite me parler&amp;nbsp;? Je n'ai jamais entendu parler de ce "Teroz".&lt;BR&gt;&lt;BR&gt;Par contre, le nom &lt;PCNAME&gt; se fait de plus en plus entendre.</Page>
+    </Text>
+</QuestDialog>

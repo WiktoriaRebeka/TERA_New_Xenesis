@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="4">Larusia dit que le raffut des fantômes l'empêche de dormir. Je lui répète sans cesse que ce sont les loups&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Prouvez-lui que j'ai raison et donnez-moi une chance de fermer l'œil en allant chasser les {@LinkCreature:4#1041#loups rôde-cendres}&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1107">
+        <Page social="4">C'est calme... presque trop calme.&lt;BR&gt;&lt;BR&gt;Enfin... je pourrai toujours faire un somme une fois que j'aurai fini de travailler.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Je vous remercierai entre deux ronflements&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

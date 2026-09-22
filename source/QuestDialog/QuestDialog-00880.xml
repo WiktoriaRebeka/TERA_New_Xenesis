@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="4">En fait, j’ai de la peine pour les {@LinkCreature:33#66#prisonniers pourrissants}.&lt;BR&gt;&lt;BR&gt;Manifestement, ce n'est pas de leur plein gré qu’ils se traînent dans ces couloirs.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pourriez-vous les libérer de leur souffrance et permettre à leur âme de rejoindre le monde du Rêve&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1014">
+        <Page social="4">Vous leur avez permis de trouver la paix du Rêve, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Un jour, peut-être, nous tuerons Thulsa&amp;nbsp;; et il subira les tourments du cauchemar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1014">
+        <Page social="0">Les {@LinkCreature:33#66#prisonniers pourrissants} sont en-dessous de nous, dans cet affreux endroit, &lt;PCNAME&gt;. Mettez un terme à leurs souffrances.</Page>
+    </Text>
+</QuestDialog>

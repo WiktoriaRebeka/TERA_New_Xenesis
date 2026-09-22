@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="4">Ne faites pas cette tête&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Dans le coin, tout le monde est déprimé. Il faut dire que dans le genre affectation ingrate, on fait difficilement mieux. Nous sommes à des kilomètres du front argon et il est difficile de se faire un nom dans le coin. Mais il faut voir le bon côté des choses, la région est une véritable mine d'or&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le secret, c'est la carapace des {@LinkCreature:10#4#kamaras bûcherons}. Une de mes relations à Castanica connaît un gars qui s'intéresse de près à ces carapaces. J'ignore ce qui motive son intérêt, mais tant que ça paye, je m'en moque.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1008">
+        <Page social="4">Ca pourrait bien être le début d'une collaboration des plus enrichissantes, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1008">
+        <Page social="0">Rassurez-moi, vous n'êtes quand même pas allergique à l'or&amp;nbsp;? Fort bien, alors allez donc me dépecer ces {@LinkCreature:10#4#camaras bûcherons}&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

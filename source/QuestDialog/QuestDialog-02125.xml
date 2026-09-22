@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="4">Il y a de la place pour un autre chasseur près de la {@Rgn:49003$$Machine d'Agnurok}, si ça vous tente.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} va vous préparer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Vous n'aurez aucun mal à atteindre la {@Rgn:49003$$Machine d'Agnurok}, mais le retour sera plus compliqué. Des {@LinkCreature:49#16#cyanosorcières zariiks} et des {@LinkCreature:49#14#défenseurs kalashs} vous barreront la route. Si vous vous sentez {@gender:dépassé/dépassée}, trouvez un trou et restez-y pour reprendre un peu de force.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">La {@Rgn:49003$$Machine d'Agnurok} est un vrai défi, mais les cibles de choix que nous rencontrerons rend l'endroit très stimulant.&lt;BR&gt;&lt;BR&gt;C'est une de mes zones préférées.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Le dent-de-sabre&amp;nbsp;? Je l'ai eu tout petit. Bon, bien sûr, il mange plus maintenant que quand il était bébé&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Il s'empiffre comme un gula... Enfin, pas tout à fait, mais il a un gros appétit&amp;nbsp;! Devinez ce qu'il adore par-dessus tout&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"La chair de gula&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Presque. Les caïmans.&lt;BR&gt;&lt;BR&gt;Et ce qu'il préfère, c'est la queue d'{@LinkCreature:472#2#assommeur caïman azur}. Mais je crois que les caïmans savent où se trouvent tous mes pièges.&lt;BR&gt;&lt;BR&gt;Si vous allez au Labyrinthe d'Or, vous en trouverez peut-être parce que les gulas les adoptent comme animaux domestiques.&lt;BR&gt;&lt;BR&gt;Rapportez-moi leurs queues&amp;nbsp;! Vous ne voudriez pas d'un dent-de-sabre de mauvaise humeur dans les parages, quand même&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Ça va faire plaisir à mon gros bébé. En tout cas, après ça, il n'aura plus faim&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Rien ne vaut une bonne cuisse de caïman pour s'ouvrir l'appétit. Je vous en supplie.</Page>
+    </Text>
+</QuestDialog>

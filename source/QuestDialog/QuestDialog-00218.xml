@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">Ce qu'un gula ne mange pas, il en fait son esclave. Et, au bout de quelque temps, les esclaves regrettent de ne pas être passés sur la table du boucher&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Si nous tuons suffisamment d'{@LinkCreature:8#2031#esclavagistes} et de {@LinkCreature:8#2041#maîtres gulas}, nous mettrons à terre leur réseau d'esclavage&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Le jeu en vaut la chandelle, non&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Bien joué, &lt;PCNAME&gt;. Il y a bien assez de cruauté en ce monde... pas la peine d'y ajouter celle des gulas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">Ça ne vous dérange pas, l'esclavage&amp;nbsp;? Même pas un tout petit peu&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

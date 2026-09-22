@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">Je vous en prie, aidez-moi&amp;nbsp;! Mon fils s’est éloigné. J’ai peur qu’il n’essaie de chasser.&lt;BR&gt;&lt;BR&gt;Shalim ne manque pas de courage, mais il ne fait pas le poids face à un ours ou un barsicore, sans parler des autres dangers qui rôdent.&lt;BR&gt;&lt;BR&gt;Pourriez-vous m’aider à le retrouver&amp;nbsp;? Il aime beaucoup les varis héros. Si vous prouvez votre force, il vous suivra volontiers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1014">
+        <Page social="4">Retourner auprès de mon père&amp;nbsp;? Ha ha&amp;nbsp;! Il n'enverrait jamais quelqu'un comme vous me chercher. C'est un grand chasseur. Et vous... non.&lt;BR&gt;&lt;BR&gt;C'est quoi, cette veine qui palpite sur votre front&amp;nbsp;? Ecoutez, si vous arrivez à tuer des {@LinkCreature:34#910#petits mugatos garde-givre}, j'y réfléchirai.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1014">
+        <Page social="4">Ouah&amp;nbsp;! C’est un mugato mort&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Je crois que je vous ai mal jugé, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Est-ce que je peux rester avec vous&amp;nbsp;? Je pourrais apprendre à me battre comme vous.&lt;BR&gt;&lt;BR&gt;Je ne mange que cinq fois par jour et mes ronflements sont très relaxants.&lt;NEXTPAGEBUTTON&gt;"Retourne voir ton père."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bah&amp;nbsp;! Je ne veux pas y retourner. Il ne me laisse jamais rien faire. "Nettoie ça." "Prépare ça." "Arrête de planquer mes armes."&lt;BR&gt;&lt;BR&gt;Tout ce que je veux, c’est lui montrer que je suis un grand chasseur, moi aussi.&lt;BR&gt;&lt;BR&gt;Très bien. Je vais rentrer, mais c’est bien parce que c’est vous.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" villagerId="1014">
+        <Page social="0">Allez. Ce n’est qu’un petit mugato. Je croyais que vous étiez un grand chasseur&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous ne devriez pas vous vanter&amp;nbsp;! Kaia fera tomber vos parties importantes si vous vous vantez&amp;nbsp;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="4" villagerId="1012">
+        <Page social="4">Shalim est incroyablement têtu. S’il parvient à apprendre la discipline, il fera un excellent chasseur.&lt;BR&gt;&lt;BR&gt;Je dois avouer que je ne valais pas mieux à son âge. Je ne sais pas comment mon père a fait.&lt;BR&gt;&lt;BR&gt;En tous cas, merci d’avoir retrouvé Shalim.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Les argons sont intimement liés aux plans de Thulsa.&lt;BR&gt;&lt;BR&gt;Après les avoir tués, &lt;PCNAME&gt;, apportez-moi leurs noyaux. Nous saurons quoi en faire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Vous avez fait du très bon travail. Thulsa est notre cible prioritaire, mais nous ne pouvons nous permettre de négliger la menace argone pour autant.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, je vous remercie de vos efforts. Je vais faire parvenir ces noyaux au Mysterium, qui se chargera de les étudier de près.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">Tuez les argons et apportez-moi leurs noyaux.</Page>
+    </Text>
+</QuestDialog>

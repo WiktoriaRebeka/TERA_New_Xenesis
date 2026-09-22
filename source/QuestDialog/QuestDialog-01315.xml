@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="5">Nous devons nous débarrasser des poids-lourds argons, et plus particulièrement de ceux qui sont chargés d'extraire les éclats d'Iteris.&lt;BR&gt;&lt;BR&gt;Eliminez les moissonneurs suulvirs et les gardiens arzakaars que vous croiserez à {@Rgn:50001}.&lt;BR&gt;&lt;BR&gt;Une fois la mission accomplie, adressez-vous à {@LinkCreature:250#1009}, dans la {@Rgn:50003}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1009">
+        <Page social="5">Avec des soldats comme vous, nous finirons forcément par remporter la victoire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1009">
+        <Page social="0">Vous n'avez pas encore atteint vos objectifs de mission. Au travail.</Page>
+    </Text>
+</QuestDialog>

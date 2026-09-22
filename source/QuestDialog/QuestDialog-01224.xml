@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="4">Excusez-moi, soldat, mais j'ai besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Notre réserve de minerai de fyrdras baisse dangereusement. Je serais prêt à payer grassement quiconque m'en rapportait. Dans cette bataille, il nous faut le meilleur équipement possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1021">
+        <Page social="4">Les forgerons de la Fédération feront bon usage de ce minerai de fyrdras. Merci.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1021">
+        <Page social="0">On trouve du minerai de fyrdras autour des flaques de feu. Cherchez de ce côté-là.</Page>
+    </Text>
+</QuestDialog>

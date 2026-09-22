@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">L'artisanat dans l'effort de guerre&lt;BR&gt;&lt;BR&gt;Aidez Leytya dans ses travaux d'alchimie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1123">
+        <Page social="0">Un marchand de rue était supposé fournir toute une liste d'ingrédients, mais le temps presse. Peut-être que si {@gender:un/une} &lt;PCCLASS:lcase&gt; allait lui parler, il se dépêcherait un peu&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1108">
+        <Page social="0">&lt;PCCLASS:lcase&gt;, je suis très occupé. En plus, Leytya a commandé des choses bizarres. Des choses qui nécessitent un alchimiste. Prenez cela et aidez-moi.</Page>
+    </Text>
+</QuestDialog>

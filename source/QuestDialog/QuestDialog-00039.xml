@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="54" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0">La Cabane de Maon n'est pas non plus sûre, vous devriez allez l'inspecter.&lt;BR&gt;&lt;BR&gt;Vous la trouverez en suivant la route à ouest, mais méfiez-vous des terrons.&lt;BR&gt;&lt;BR&gt; Une fois arrivé à destination, demandez à Phonon de vous présenter son père, Maon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">Bonjour&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Keta vous a dit d'aller voir mon père&amp;nbsp;? Il se trouve là-bas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="0">La dernière chose dont nous avons besoin, &lt;PCCLASS:lcase&gt;, c'est d'un autre va-t-en-guerre dans la région.&lt;BR&gt;&lt;BR&gt;Mon fils dit que vous n'êtes pas comme les autres... C'est bien joli, mais si vous voulez me persuader que le processus de paix vous intéresse vraiment, vous allez devoir me prouver que vous n'êtes pas {@gender:venu/venue} ici dans l'idée de vous y livrer à un massacre.</Page>
+    </Text>
+</QuestDialog>

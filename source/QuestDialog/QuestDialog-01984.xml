@@ -1,0 +1,56 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir vous recherche. Allez-le voir.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Après la fête de Velika, vous avez appris que la déesse ne s'était pas éveillée de son sommeil.&lt;BR&gt;L'Arcanalithe de Mystel et Mystel en personne vous ont aidé à vous immiscer dans le rêve de Velik pour y éliminer les papillons qui faussaient le rêve et voir ensuite le véritable contenu du rêve.&lt;BR&gt;Les villageois d'Arborea cristallisés y tombaient du ciel et même la déesse Velik était emprisonnée dans une gemme.&lt;BR&gt;C'est à ce moment que la déesse Velik s'est aperçue de votre présence dans son rêve et vous en a chassée.&lt;BR&gt;Mystel vous a mis en garde contre les périls imminents avant de disparaître.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Depuis la fête de Velika, les villageois se plaignent de vertiges inexplicables.&lt;BR&gt;&lt;BR&gt;Et vous ne semblez pas non plus en pleine forme.&lt;BR&gt;&lt;BR&gt;Je vous prierais toutefois de déterminer si les villageois sont malades et quelle est la cause de leurs symptômes.&lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Le gestionnaire d'inventaire Getty est tout particulièrement affecté.&lt;BR&gt;&lt;BR&gt;Allez le voir et identifiez ses symptômes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Ces derniers temps, je suis régulièrement pris de violents vertiges.&lt;BR&gt;&lt;BR&gt;La dernière fois, j'ai bien failli ouvrir le mauvais entrepôt.&lt;BR&gt;Et quand je parviens à fermer l'œil, mes rêves sont très agités.&lt;BR&gt;&lt;BR&gt;Un dragon noir tombe d'une falaise en présence d'un papillon.&lt;BR&gt;&lt;BR&gt;Kailum prétend qu'il fait le même rêve depuis qu'il est pris de vertiges.&lt;NEXTPAGEBUTTON&gt;"Que faites-vous pour y remédier ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Apparemment, Kailum a fait appeler un médecin de renom.&lt;BR&gt;&lt;BR&gt;J'aimerais bien qu'il m'examine aussi, mais les gens comme moi, qui doivent travailler tous les jours ne peuvent guère se faire examiner.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1157">
+        <Page social="0" voiceTypeId="0">Certes, les rêves sont pénibles, mais les vertiges sont encore bien pires.&lt;BR&gt;&lt;BR&gt;Il paraît que Cottrey a développé un remède qui soigne les vertiges et c'est pour cela que je l'ai fait appeler.&lt;BR&gt;&lt;BR&gt;Que diriez-vous de vous faire également examiner ?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1264">
+        <Page social="0" voiceTypeId="0">Les gens ont bien changé depuis la fête de Velika.&lt;BR&gt;&lt;BR&gt;Est-ce que vous ressentez aussi des symptômes comparables ?&lt;BR&gt;Peut-être que quelqu'un a versé du poison dans les tonneaux de vin.&lt;BR&gt;&lt;BR&gt;Mais ne vous en faites pas ! Il n'y a pas de maladie sans remède.&lt;NEXTPAGEBUTTON&gt;"Depuis la fête ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je parle de la fête de Velika.&lt;BR&gt;&lt;BR&gt;Depuis, de nombreux participants se plaignent de migraines.&lt;BR&gt;&lt;BR&gt;Il peut arriver que tout un groupe soit pris de migraine, mais qu'ils fassent aussi tous le même rêve, c'est quand même étrange. Il ne s'agit peut-être même pas d'une maladie.&lt;BR&gt;&lt;BR&gt;Certes, ce remède ne sert qu'à lutter contre les vertiges, mais je vais essayer d'en concocter un encore meilleur !&lt;BR&gt;&lt;BR&gt;Bien, commencez par prendre ce remède et reposez-vous un peu.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1264">
+        <Page social="0" voiceTypeId="0">Vous vous portez mieux ?&lt;BR&gt;&lt;BR&gt;Quelqu'un a sans doute glissé des herbes toxiques dans les tonneaux de vin.&lt;BR&gt;&lt;BR&gt;La déesse Velik aussi semble exténuée.&lt;BR&gt;En tout cas, elle dort encore profondément.&lt;NEXTPAGEBUTTON&gt;"La déesse Velik ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hahaha ! Vous n'allez pas me croire.&lt;BR&gt;&lt;BR&gt;Moi aussi j'ai beaucoup ri quand je l'ai appris pour la première fois.&lt;BR&gt;&lt;BR&gt;Un clerc de la déesse me parlait avec une mine grave et j'ai eu toutes les peines du monde à réprimer un fou rire.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1265">
+        <Page social="0" voiceTypeId="0">Ah c'est vous, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La déesse Velik ne se réveille pas et c'est fort problématique. &lt;NEXTPAGEBUTTON&gt;"Est-il fréquent que la déesse Velik s'endorme ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ce n'est encore jamais arrivé.&lt;BR&gt;C'est pour cette raison que j'ai besoin de votre aide.&lt;BR&gt;&lt;BR&gt;Un médecin de renom est actuellement à Velika et j'ai bien songé à le faire appeler, mais je préfère m'adresser à vous.&lt;BR&gt;&lt;BR&gt;Allez voir Halran, le sage de Hautegarde et demandez-lui ce que le rêve de la déesse peut bien signifier.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Le Hall de la connaissance n'est pas accessible au premier venu. &lt;BR&gt;&lt;BR&gt;Mais Halran vous a mentionné, &lt;PCNAME&gt;, et vous pouvez donc y entrer. &lt;NEXTPAGEBUTTON&gt;"Entendu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Je vais vous envoyer directement auprès de Halran.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" prevId="9" villagerId="1018">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, je vous attendais.&lt;BR&gt;&lt;BR&gt;Je vous remets les notes qu'Halran nous a laissées.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="1010">
+        <Page social="0" voiceTypeId="0">L'arcanalithe de Mystel combine frénétiquement les lettres.&lt;BR&gt;&lt;BR&gt;[... @#$den voir le rêve d'un dieu...]&lt;BR&gt;&lt;BR&gt;[... ne peuvent provenir que d'un dieu... @#!$ ...]&lt;BR&gt;&lt;BR&gt;[&lt;PCNAME&gt; ...]&lt;BR&gt;&lt;BR&gt;[En partie divin ... @#!$ ... n'est pas un dieu pour autant.] &lt;NEXTPAGEBUTTON&gt;"Je continue ma lecture."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">L'arcanalithe de Mystel combine frénétiquement les lettres.&lt;BR&gt;&lt;BR&gt;[... Fontaine de Shara... @#$# ...]&lt;BR&gt;&lt;BR&gt;[... @#!$ ... quand les vestiges des dieux apparaissent...]&lt;BR&gt;&lt;BR&gt;[... &lt;PCNAME&gt;...]&lt;BR&gt;&lt;BR&gt;[... le seigneur des vestiges... @#!$... apparaîtra...]</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="2204">
+        <Page social="0" voiceTypeId="0">Avez-vous trouvé la réponse recherchée ?&lt;BR&gt;&lt;BR&gt;Halran m'a également prié de vous remettre ceci.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="226" prevId="12" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Je vous attendais. &lt;BR&gt;&lt;BR&gt;Je vous remets le dernier fragment du destin, gardien.&lt;BR&gt;&lt;PCNAME&gt;, vous êtes rattaché à une part de mon être. &lt;NEXTPAGEBUTTON&gt;"J'aimerais savoir ce que le rêve de la déesse Velik signifie."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pour réussir à voir le rêve de Velik, j'ai besoin d'un certain nombre de choses.&lt;BR&gt;&lt;BR&gt;Il me faut un œil afin de voir le rêve de la déesse, un cercle de bannissement pour protéger le corps humain à l'intérieur de l'espace divin, un flux permettant de s'arrimer au temps réel ainsi qu'une corde avec laquelle je pourrais retrouver mon enveloppe charnelle.&lt;BR&gt;&lt;BR&gt;Procurez-moi l'œil de l'observateur, le cercle de bannissement du sanctuaire, le flux du temps distordu et le cordon de l'arbre de résurrection et je vous aiderai alors à voir le rêve de la déesse Velik.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="226" prevId="13" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Je vais maintenant vous nommer deux choses dont vous devez tenir compte.&lt;BR&gt;&lt;BR&gt;Il s'agit d'une affaire de la plus haute importance.&lt;BR&gt;&lt;BR&gt;Premièrement : l'effet du flux du temps distordu s'atténue peu à peu.&lt;BR&gt;&lt;BR&gt;Une fois l'effet dissipé, je dois vous rapatrier pour que vous ne restiez pas emprisonné entre le temps du monde des dieux et celui d'ici-bas.</Page>
+        <Page social="0" voiceTypeId="0">Deuxièmement : notez bien que le rêve d'un dieu est généralement manipulé par son détenteur.&lt;BR&gt;&lt;BR&gt;Si vous souhaitez voir le vrai contenu du rêve, vous devez trouver les éléments qui altèrent le rêve et les neutraliser.&lt;BR&gt;&lt;BR&gt;Déposez les matériaux dans la jarre et plongez-y la tête pour rejoindre le rêve de la déesse Velik.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="226" prevId="14" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Je ne vous demanderai pas ce que vous avez vu.&lt;BR&gt;&lt;BR&gt;Mais je perçois un danger qui approche.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, si vous ne vous armez pas pour affronter ce danger, le monde court à sa perte avec vous et moi.&lt;BR&gt;&lt;BR&gt;Votre destin vous appellera quand le moment sera venu.&lt;BR&gt;À bientôt.</Page>
+    </Text>
+</QuestDialog>

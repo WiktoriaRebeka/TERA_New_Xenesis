@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">De nombreux chercheurs ont été envoyés étudier le site des &lt;FONT COLOR='#660000'&gt;restes de piliers de pierre&lt;/FONT&gt;, mais ils en ont été chassés par les fouaille-tripes qui s'y sont établis.&lt;BR&gt;&lt;BR&gt;Nous devons impérativement sécuriser ce site pour pouvoir étudier ces statues. Si nous pouvions éliminer les &lt;BR&gt;&lt;BR&gt;{@LinkCreature:21#9#enragés rôdeurs d'escarpement} et les {@LinkCreature:21#10#ecraseurs rôdeurs d'escarpement} qui occupent le site, les recherches pourraient reprendre plus vite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Merci. Nous allons enfin pouvoir nous concentrer sur nos recherches.</Page>
+    </Text>
+</QuestDialog>

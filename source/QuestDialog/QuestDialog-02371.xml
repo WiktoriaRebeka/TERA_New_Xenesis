@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Lettre]&lt;BR&gt;&lt;BR&gt;Ahrep m'a communiqué des informations importantes. Venez me trouver immédiatement après avoir reçu cette lettre.&lt;BR&gt;&lt;BR&gt;Revenj</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez reçu une requête urgente de la part de Revenj. Apparemment, il dispose d'informations importantes.&lt;BR&gt;&lt;BR&gt;En achevant la quête, vous pouvez exécuter &lt;font color='#FF3333'&gt;[donjon (463)] ennemi dissimulé&lt;/font&gt;. Après quoi, la quête &lt;font color='#7F00FF'&gt;[important] enclume de Kaia&lt;/font&gt; est automatiquement activée.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="4" voiceTypeId="0">Je vous attendais, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Comme je l'ai mentionné dans la lettre, Ahrep a détecté une force inconnue à l'intérieur de la forteresse.&lt;BR&gt;&lt;BR&gt;Allez trouver Ahrep dans le Forteresse de Berak et interrogez-le au sujet de l'ennemi mystérieux.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5004" huntingZoneId="720" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Vous apercevez une mystérieuse sphère étincelante.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(Elle se met à bourdonner quand vous la touchez.&lt;BR&gt;Vous entendez alors une voix.)&lt;BR&gt;&lt;BR&gt;« N'est-ce pas un comble que les races qui s'opposaient au Noyau,&lt;BR&gt;soient désormais emprisonnées en un lieu érigé&lt;BR&gt;par la force du Noyau ? ... (*bourdonnement*) ... Comment un elfe peut-il bien rejeter la magie ? C'est incompréhensible.&lt;BR&gt;&lt;BR&gt;Je vous observe... (*bourdonnement*)... depuis toujours.&lt;BR&gt;Vous ne mesurez pas ma confiance à votre égard... (*bourdonnement*)&lt;BR&gt;Quoi qu'il en soit, je dois dire que l'armure vous va à merveille ! Haha."&lt;BR&gt;&lt;BR&gt;(Le bourdonnement s'amenuise puis finit par s'arrêter.) &lt;TEXTBUTTON&gt;Vous touchez la sphère.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Hum, elle ne bourdonne plus."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

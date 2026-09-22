@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Élion vous recherche pour discuter de son prochain objectif.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez fait connaissance avec Revenj, un naga qui refuse de se soumettre à la tyrannie des hauts dragons et avez glané quelques informations sur le groupe des Riverans. Revenj vous a révélé l'endroit où les villageois ont été emprisonnés. Il vous a également raconté que les nagas collectaient des cristaux pour les donner à manger aux parfs et parfons et vous a prié de l'aider.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20109">
+        <Page social="0">&lt;PCNAME&gt;, grâce à vous, les villageois emprisonnés dans le manoir sont sauvés. Mais il reste d'autres villageois captifs à Exodor.&lt;BR&gt;&lt;BR&gt;Nous devons tous les libérer et trouver un moyen d'arrêter Exodor.&lt;BR&gt;&lt;BR&gt;Les villageois et Thro sont déjà partis devant. Nous devrions leur emboîter le pas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="20101">
+        <Page social="0" voiceTypeId="0">C'est impossible.&lt;BR&gt;&lt;BR&gt;J'ai beau retourner le problème dans tous les sens, il semble impossible de se déplacer en groupe sans se faire repérer. Vous en avez conscience, non ?&lt;BR&gt;&lt;BR&gt;J'aimerais bien savoir ce qui a bien pu passer par la tête d'Élion. En restant groupés, nous faisons une proie de choix pour l'Arkarp, vous ne croyez pas ?&lt;BR&gt;&lt;BR&gt;Je pense qu'il serait préférable de commencer par arrêter Exodor. Si Élion tient tant à évacuer les villageois, nous ferions mieux de nous séparer.&lt;NEXTPAGEBUTTON&gt;"Calmez-vous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Vous avez raison. Je me suis un peu emporté. J'ai une furieuse envie de gifler Élion.&lt;BR&gt;&lt;BR&gt;Il vaut donc mieux que vous alliez lui parler pour me rapporter ensuite ce qu'il a dit.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Bien sûr que je comprends le point de vue de Thro.&lt;BR&gt;&lt;BR&gt;Mais il faut tout de même à tout prix évacuer les villageois.&lt;BR&gt;&lt;BR&gt;Nous devrions en débattre tous ensemble.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Entendu.&lt;BR&gt;&lt;BR&gt;Nous devrions nous déplacer séparément.&lt;BR&gt;&lt;BR&gt;Je propose de charger Thro, Armande et Aurl de trouver un endroit sûr pour les villageois.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; et moi allons suivre Jelena, qui est partie à la recherche des autres prisonniers.&lt;BR&gt;&lt;BR&gt;Nous pouvons utiliser des fusées de détresse pour communiquer.&lt;BR&gt;&lt;BR&gt;Mettons-nous en route au plus vite. Le temps presse.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20303">
+        <Page social="4" voiceTypeId="0">Vous voyez ceci, &lt;PCNAME&gt; ? C'est un signal que Jelena a laissé à notre intention.&lt;BR&gt;&lt;BR&gt;Nous en trouverons sans doute d'autres dans les parages.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" villagerId="20400">
+        <Page social="0">Je ne m'attendais pas à vous voir arriver aussi vite.&lt;BR&gt;&lt;BR&gt;Jetez un œil là-dedans.&lt;BR&gt;Vous voyez le prisonnier ?&lt;BR&gt;Ce n'est pas un naga ou autre chose du genre. C'est un Humain, ça ne fait aucun doute. Il y a d'autres prisonniers par ici. Attendez... Il y a des nagas parmi les prisonniers ?&lt;BR&gt;&lt;BR&gt;Nous devrions vérifier s'il y a d'autres prisonniers.&lt;BR&gt;Chargez-vous de sauver ceux-là. Élion et moi devons encore examiner un autre lieu.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="22020">
+        <Page social="4" voiceTypeId="0">Seriez-vous... &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Un grand merci de m'avoir sauvé ! Je croyais bien que ma dernière heure avait sonné.&lt;BR&gt;&lt;BR&gt;Les prisonniers nagas semblent être différents de nos ravisseurs.&lt;BR&gt;&lt;BR&gt;Ils nous toisaient bizarrement avant votre arrivée.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20810">
+        <Page social="1">Merci... beaucoup. Je ne m'attendais pas à rencontrer là autre chose que des prisonniers.&lt;BR&gt;&lt;BR&gt;Pour vous évader de ce camp, vous devez vaincre les nagas.&lt;BR&gt;&lt;BR&gt;Cheminez vers le sud en quittant cet avant-poste et vous tomberez sur ma résidence.&lt;BR&gt;Rendez-vous là-bas. Je vous revaudrai ça.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20605">
+        <Page social="0">Je ne me suis pas encore présenté.&lt;BR&gt;Je m'appelle Regani et fais partie de la résistance, plus connue sous le nom des Riverans.&lt;BR&gt;&lt;BR&gt;Vos camarades ont sauvé nos compagnons emprisonnés.&lt;BR&gt;Revenj, le chef des Riverans, vous attend, vous et vos compagnons.&lt;BR&gt;&lt;BR&gt;Je vous indique le chemin.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20501">
+        <Page social="1" voiceTypeId="0">Merci beaucoup d'avoir sauvé mes camarades et éliminé les sbires d'Azra qui obéissent à l'infâme Rogash.&lt;NEXTPAGEBUTTON&gt;"Que s'est-il passé ici ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ce lieu est le camp de la tribu de Rosema et le refuge des Riverans.&lt;BR&gt;&lt;BR&gt;Comme les autres nagas, nous avons été contraints de nous occuper des parfs et des parfons d'ici.&lt;BR&gt;&lt;BR&gt;Peu avant votre arrivée, le haut dragon Rogash a surgi dans le camp pour enlever des nagas afin de les soumettre à ses expériences. De nombreux nagas y ont perdu la vie.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="12" villagerId="20501">
+        <Page social="1" voiceTypeId="0">Ces hauts dragons considèrent les nagas comme des moins que rien. Voilà pourquoi j'ai fondé les Riverans.&lt;BR&gt;&lt;BR&gt;Nous feignons la soumission devant ces ignobles hauts dragons, tout en préparant secrètement une rébellion.&lt;BR&gt;&lt;BR&gt;Mon rêve est de libérer les nagas asservis et de quitter ensemble ce lieu.&lt;NEXTPAGEBUTTON&gt;"Que me voulez-vous ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Je vous ai vu combattre contre les soldats de Rogash. Je pense que nous pouvons nous entraider.&lt;BR&gt;&lt;BR&gt;Je connais votre objectif à Exodor.&lt;BR&gt;&lt;BR&gt;Vous voulez arrêter la forteresse, non ?&lt;BR&gt;&lt;BR&gt;Je ne l'ai encore jamais vue, mais une source d'énergie alimente la forteresse noire.&lt;NEXTPAGEBUTTON&gt;"Où est la forteresse noire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La forteresse noire se dresse en plein cœur de l'Île céleste.&lt;BR&gt;&lt;BR&gt;Je peux vous aider à y aller.&lt;NEXTPAGEBUTTON&gt;"Où sont les villageois enlevés ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ils ne sont pas ici, mais sur l'île d'en face.&lt;BR&gt;&lt;BR&gt;Ils servent sans doute de pantins vivants à Rukmia ou de cobaye pour les expériences de Rogash.&lt;BR&gt;&lt;BR&gt;Si vous arrivez trop tard, ils seront déjà tous changés en marionnette.&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La même chose que moi.&lt;BR&gt;&lt;BR&gt;Les Riverans ont érigé un camp, à l'est d'ici.&lt;BR&gt;&lt;BR&gt;En nous aidant, vous vous aidez vous-même.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20304">
+        <Page social="4" voiceTypeId="0">Tout le monde y trouve son compte.&lt;BR&gt;&lt;BR&gt;Rogash... Le sort des villageois emprisonnés me préoccupe.</Page>
+    </Text>
+</QuestDialog>

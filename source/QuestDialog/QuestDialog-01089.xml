@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">Les marchands besharans ont dressé des {@LinkCreature:41#3001#orisks écorcheurs} à garder les routes pour eux. Nous ne pourrons pas chasser les marchands si nous n’éliminons pas ces monstres en premier.&lt;BR&gt;&lt;BR&gt;C’est là que vous entrez en jeu.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="4">Bien joué&amp;nbsp;! Les jours des marchands besharans sont comptés.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1007">
+        <Page social="0">N’oubliez pas que nous allons les attaquer. Sans les {@LinkCreature:41#3001#orisks écorcheurs}, les marchands besharans sont vulnérables.</Page>
+    </Text>
+</QuestDialog>

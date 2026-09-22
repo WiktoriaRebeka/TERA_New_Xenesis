@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">Écoutez-moi bien ! Pour obtenir une eau-forte magique d'exception, vous devez extraire un {@RawItem:206818} à partir d'un cristal rouge orangé, un {@RawItem:206819} à partir d'un cristal vert aloé et un {@RawItem:206820} à partir d'un cristal bleu aérien.&lt;BR&gt;&lt;BR&gt;Consultez la section "collecte" du menu de progression pour voir où trouver ces ressources. Rapportez-moi ces composants colorés et je vous en dirai plus sur l'art délicat des eaux-fortes.&lt;BR&gt;&lt;BR&gt;Il me faut respectivement &lt;font color = '#2478FF'&gt;5 exemplaires de {@RawItem:206818}, de {@RawItem:206819} et de {@RawItem:206820}&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">Bien joué.&lt;BR&gt;Ces matériaux sont indispensables pour réaliser des eaux-fortes magiques. Donnez-moi le plan d'eau-forte pour que je continue le travail.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">Vous n'arriverez jamais nulle part si vous restez assis{@g:/e}&amp;nbsp;! Secouez-vous&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

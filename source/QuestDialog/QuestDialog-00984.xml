@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="6">J'ai réussi à arriver ici indemne, mais rentrer à Elenea sera moins simple, avec ces cerbères errants dans les parages.&lt;BR&gt;&lt;BR&gt;Je les ai toutefois observés et j'ai remarqué qu'ils ne s'approchent pas d'un type de fleur à l'odeur nauséabonde.&lt;BR&gt;&lt;BR&gt;Elle semble les repousser. Pourriez-vous trouver quelques-unes de ces fleurs pour que je puisse tenir ces molosses à distance&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="8">Elles sentent vraiment mauvais, hein&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Ca devrait suffire pour me permettre de rentrer à Elenea en toute sécurité. Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">Ca m'en fait trop peu pour tenir la distance jusqu'à Elenea.&lt;BR&gt;&lt;BR&gt;S'il vous plaît, trouvez-en plus.</Page>
+    </Text>
+</QuestDialog>

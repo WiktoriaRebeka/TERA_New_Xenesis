@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="402" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="402" endSocial="0" prevId="0" villagerId="1002">
+        <Page social="4">Ici, c'est moi qui décide.&lt;BR&gt;&lt;BR&gt;Si vous êtes encore là, c'est parce que j'en ai décidé ainsi.&lt;BR&gt;&lt;BR&gt;Eh oui. Je suis important à ce point.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="402" endSocial="0" prevId="0" villagerId="1002">
+        <Page social="0">Vous voulez tenter l'épreuve&amp;nbsp;? Vraiment&amp;nbsp;? Vous&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Hum. Bien. Prouvez que c'est bien le cas.&lt;TEXTBUTTON&gt;"Euh... je le veux vraiment&amp;nbsp;!"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Commencer l'épreuve&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

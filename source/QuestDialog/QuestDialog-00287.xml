@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0">J'aimerais pouvoir profiter indéfiniment de votre aide, &lt;PCNAME&gt;, mais on a grand besoin de vous au Poste de Guet côtier.&lt;BR&gt;&lt;BR&gt;Suivez la route au sud puis croisez le canal. Vous devriez alors apercevoir le poste de guet.&lt;BR&gt;&lt;BR&gt;Vous allez nous manquer, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="0">On dirait que les nagas tentent de s'introduire dans la Tombe de Dagon afin d'y réveiller leur dieu et créateur. J'ignore si vous avez des connaissances en théologie, mais Dagon n'est pas un dieu du genre philanthrope.&lt;BR&gt;&lt;BR&gt;Nous n'avons pas dix mille options devant nous.</Page>
+    </Text>
+</QuestDialog>

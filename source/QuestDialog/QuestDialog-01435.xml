@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Amenez ce rapport à Belok, à la Pointe de Ceravin. Si les argons et Thulsa collaborent, il saura quoi faire.&lt;BR&gt;&lt;BR&gt;Ne perdez pas de temps.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1020">
+        <Page social="4">Quelles sont les nouvelles de nos collègues du nord&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"De bien tristes nouvelles de Cecera."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thulsa s'est allié aux argons&amp;nbsp;? Cecera nous avait prévenus.&lt;BR&gt;&lt;BR&gt;Dernièrement, les argons semblent avoir commencé à démontrer le plus vif intérêt pour la magie des fées. Ils ont même trouvé le moyen d'en altérer l'énergie et de l'employer à leurs fins. S'ils ont conclu une alliance avec Thulsa... Je suppose que vous avez pleinement conscience des risques encourus par la Fédération, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nous devons faire circuler la nouvelle au plus vite. Allez présenter votre rapport à Winstail, à l'Avant-poste de Valumnir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1028">
+        <Page social="4">C'est Belok qui vous envoie&amp;nbsp;? Laissez-moi deviner, de mauvaises nouvelles, c'est ça&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Y en a-t-il de bonnes&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ce rapport ne peut signifier qu'une seule chose&amp;nbsp;: les argons sont plus puissants qu'ils ne l'ont jamais été et ils s'apprêtent à lancer une offensive sans précédent. Nous devons être prêts.&lt;BR&gt;&lt;BR&gt;On dirait qu'ils semblent enfin considérer la Fédération comme un adversaire digne de ce nom. Il faut croire que les argons se sentent réellement menacés pour former ainsi des alliances.</Page>
+    </Text>
+</QuestDialog>

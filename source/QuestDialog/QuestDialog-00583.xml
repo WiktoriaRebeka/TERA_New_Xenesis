@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">Je n'arrive plus à suivre avec tout ce qui se passe.&lt;BR&gt;&lt;BR&gt;Je ne sais pas trop ce qu'ils trament, mais débarrassez-moi des {@LinkCreature:20#30143000#file-ébène} et des {@LinkCreature:20#30140000#mages sanglants} de Lok.&lt;BR&gt;&lt;BR&gt;Ils préparent forcément un mauvais coup. Et prenez tout ce que vous trouverez en rapport avec leurs travaux.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Un journal, hein&amp;nbsp;? Des comptes-rendus d'expériences&amp;nbsp;? Je transmets ça tout de suite à Arthgal. Il voudra l'envoyer à Velika.&lt;BR&gt;&lt;BR&gt;Beau travail&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">Je déteste ne pas savoir ce qui se passe. Rapportez-moi tout ce que vous trouverez qui concerne leurs recherches, et je pourrai enfin y voir un peu plus clair&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

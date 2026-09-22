@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">Vous verrez beaucoup de minerai bleu lumineux par ici, et les cultistes en rassemblent des petits fragments lumineux.&lt;BR&gt;&lt;BR&gt;Si vous m'en apportez quelques-uns, je découvrirai peut-être pourquoi les cultistes en ont besoin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Je n'ai pas dit que ce serait facile, mais c'est un soulagement de voir que vous avez survécu. Ces pierres m'apprendront beaucoup.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">Avez-vous trouvé des pierres lumineuses&amp;nbsp;? La curiosité me dévore.</Page>
+    </Text>
+</QuestDialog>

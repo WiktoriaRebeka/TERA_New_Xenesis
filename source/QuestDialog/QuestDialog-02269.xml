@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="766" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, j'espère que vous êtes actuellement en grande forme car j'ai urgemment besoin de votre aide.&lt;BR&gt;La flotte transportant le noctenium est en retard. Il est possible qu'elle se soit échouée au cours d'une violente tempête contre le Récif des Basilics, au large de la Côte déchiquetée. Nous avons envoyé des navires pour mener l'enquêter mais eux non plus ne sont pas revenus.&lt;BR&gt;&lt;BR&gt;Le minerai de noctenium transporté par cette flotte est très précieux. Je suis prêt à vous offrir une grande récompense si vous m'aider à retrouver les navires et à sécuriser la cargaison.&lt;BR&gt;&lt;BR&gt;Je vous retrouverai au Récif des Basilics et nous pourrons commencer notre recherche là-bas.&lt;BR&gt;&lt;BR&gt;-. Taylor, Ravitaillement par navires de la Fédération</Page>
+    </Text>
+    <Text id="3" huntingZoneId="766" prevId="2" villagerId="76637">
+        <Page social="0">Merci pour votre aide, &lt;PCNAME&gt;. Si vous n'étiez pas venu, je serais encore échoué là-bas, entouré de ses membres d'équipage mutants monstrueux, et le noctenium serait perdu à jamais.&lt;BR&gt;&lt;BR&gt;Vous avez plus que mérité cette récompense.</Page>
+    </Text>
+</QuestDialog>

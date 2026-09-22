@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="5">Le Temple de Dagon demande du courage, mais je pense que vous en avez suffisamment.&lt;BR&gt;&lt;BR&gt;Allez chercher des réserves auprès de {@LinkCreature:75#1002#Dyanne} et apportez-les à la {@LinkCreature:242#1008#Langbau} au Camp du Venin.&lt;BR&gt;&lt;BR&gt;Et en route, éliminez autant de ces maudits {@LinkCreature:42#510#molosses de Dagon} que possible. Cela rendra les choses un peu plus sûres pour tout le monde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1002">
+        <Page social="5">Vous êtes là pour les réserves, alors. Ne vous inquiétez pas pour le paiement, contentez-vous de revenir en vie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1008">
+        <Page social="5">Des réserves&amp;nbsp;! Nous en avions bien besoin. Les messagers n'arrivent pas tous à passer les molosses. Ils mangent bien.&lt;BR&gt;&lt;BR&gt;Je vais aller distribuer tout ceci et vous laisser faire votre travail. Les nagas font des choses étranges ces derniers temps. Enfin, vous allez en entendre parler.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">Nous fabriquons des tenues pour participer à l'effort de guerre. C'est parfait pour vous&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} va tout vous dire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Hé, voilà notre héros ! Vous allez nous aider à fabriquer de belles chaussettes pour nos camarades soldats.&lt;BR&gt;&lt;BR&gt;Mes {@LinkCreature:71#3016#moutons} ont commencé leur transhumance vers le refuge. Allez en chercher un ou deux pour qu'on les tonde, mais prenez le temps d'admirer le paysage !</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="604" villagerId="3">
+        <Page social="0">Bêêêêêê&amp;nbsp;! Bêêê&amp;nbsp;! Bêêê-êêêêêêê&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="3">
+        <Page social="0">Bêêê-êêêêêê&amp;nbsp;! Bêêê&amp;nbsp;! Bêêê&amp;nbsp;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Jolie vue, n'est-ce pas&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Vous-même semblez d'ailleurs {@gender:apaisé/apaisée}. Après tout ce que vous avez accompli, vous méritez bien de souffler un peu&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

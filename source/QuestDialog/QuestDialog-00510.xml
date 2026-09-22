@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="4">Ce lieu était autrefois le cœur de l'Empire des Géants. Il est aujourd'hui en ruines, mais... en son temps, il devait avoir une autre allure.&lt;BR&gt;&lt;BR&gt;Se retrouver au beau milieu d'un endroit aussi chargé d'histoire est très stimulant&amp;nbsp;! J'étudie cette ancienne cité... ou plutôt je l'étudiais, avant que les fouaille-tripes ne débarquent.&lt;BR&gt;&lt;BR&gt;Mais dès que la voie sera libre... j'y retourne.&lt;NEXTPAGEBUTTON&gt;"Je peux vous aider&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eh bien, je ne pourrai avancer dans mes recherches qu'en m'aventurant à l'extérieur du camp. Si l'aventure vous tente, vous pourriez vous mettre en quête des reliques des géants à Mags Kurata, au nord, et à Mags Kuchanaru, à l'ouest.&lt;BR&gt;&lt;BR&gt;Tout fragment sur lequel figure des écrits sera le bienvenu.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1001">
+        <Page social="4">La délicatesse de l'artisanat des géants est des plus surprenantes. On se les représente souvent comme des brutes épaisses et maladroites.&lt;BR&gt;&lt;BR&gt;Merci, &lt;PCNAME&gt;. Ces objets nous permettront d'en apprendre plus sur la région, et ces connaissances nous donneront un avantage sur l'ennemi.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1001">
+        <Page social="0">Vous revenez les mains vides. Impossible de trouver quoi que ce soit&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

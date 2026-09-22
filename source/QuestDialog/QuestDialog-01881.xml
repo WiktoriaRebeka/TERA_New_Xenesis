@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Avant de périr lors de la conquête de la Tombe des nécromanciens, mon mari était préfet de la fédération. Mon fils unique tient à la venger et il s'est donc engagé dans l'armée. &lt;BR&gt;&lt;BR&gt;Il a participé à la reconquête de la Tombe des nécromanciens, mais il n'en est pas encore revenu. Les camarades qui l'accompagnaient dans cette mission ont affirmé qu'il a été surpris par un monstre surnommé "ombre vengeresse".&lt;BR&gt;&lt;BR&gt;(La gorge de Vandrea se noue.)&lt;BR&gt;&lt;BR&gt;Je vous en prie, éliminez le monstre qui a mon fils sur la conscience. Ramenez-moi une preuve de la mort du monstre et je vous donnerai tout ce que je possède. Je vous en supplie.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="6" voiceTypeId="0">Ma vengeance est accomplie.&lt;BR&gt;&lt;BR&gt;Mon deuil va pouvoir commencer...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1026">
+        <Page social="0">Mon fils ne méritait pas de mourir ainsi. J'ai été stupide de l'envoyer au cœur du danger.</Page>
+    </Text>
+</QuestDialog>

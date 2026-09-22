@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Une partie du travail de l'Héritage consiste à reconstruire la zone telle qu'elle était avant la mort de Balder.&lt;BR&gt;&lt;BR&gt;Trouvez {@LinkCreature:71#3015#Umma}et aidez-le à nourrir quelques poissons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt;&amp;nbsp;! Je pense que vous allez aimer ça.&lt;BR&gt;&lt;BR&gt;Les mangeoires du refuge ne fonctionnent plus de manière automatique.&lt;BR&gt;&lt;BR&gt;Alors c'est simple, tournez-les une fois, relâchez, et le tour est joué.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Ha&amp;nbsp;! Marrant, pas vrai&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;J'adore mon métier. Je regarde de jolis poissons, j'ai de la boue fraîche entre mes doigts de pieds en éventail, et du poisson grillé à tous les repas&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

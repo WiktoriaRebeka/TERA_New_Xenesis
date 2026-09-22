@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">Un général mort-vivant du nom de {@LinkCreature:32#19$$Chimakur} terrorise la {@Rgn:32006$$Veillée insensible}.&lt;BR&gt;&lt;BR&gt;Ils l'appellent le haut bourreau, ce qui est bien trouvé car il a déjà tué trois soldats expérimentés de la Fédération.&lt;BR&gt;&lt;BR&gt;Qu'en dites-vous&amp;nbsp;? Vous avez envie de relever le défi&amp;nbsp;? En tout cas, je l'espère. Cet exécuteur ne va pas tarder à venir moissonner toutes nos têtes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">J'avais tort à votre propos. Voici un petit quelque chose pour avoir sauvé notre couenne.</Page>
+    </Text>
+</QuestDialog>

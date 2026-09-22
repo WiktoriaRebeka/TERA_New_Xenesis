@@ -1,0 +1,47 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Élion vous a expliqué que Samael s'est fait passer pour Lok et que les descendants de Lok l'ont cru et se sont donc joints à sa cause.&lt;BR&gt;&lt;BR&gt;Rien ne prouve que Samael est effectivement Lok, mais il a bel et bien des vues sur la lance maudite dont le dieu Gidd s'était servi pour s'emparer du pouvoir de la déesse Velik.&lt;BR&gt;&lt;BR&gt;Vous et Élion avez empêché la lance maudite de tomber entre les mains de Samael et avez gardé la lance comme preuve de la trahison de Samael.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;J'ai réussi à rallier le Port Coupe-gorge (malgré les intempéries), et j'ai des nouvelles de Velika concernant les projets de "S". Venez me rejoindre aussitôt que vous le pourrez.&lt;BR&gt;&lt;BR&gt;- "E".</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Jelena m'a tout raconté. Vous avez vraiment fait du bon travail. Vous voulez entendre quelque chose d'effarant ? Samael prétend être la réincarnation de Lok. &lt;BR&gt;&lt;BR&gt;Or, les descendants de Lok le croient et le servent. Il cherche par ailleurs une lance maudite. &lt;BR&gt;&lt;BR&gt;La lance de Gidd, le dieu antique ! Cette lance a le pouvoir de terrasser des dieux... et de leur dérober leur pouvoir.&lt;NEXTPAGEBUTTON&gt;"Elle peut drainer le pouvoir des dieux ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nous savons maintenant après qui il en a : &lt;BR&gt;&lt;BR&gt;La déesse Velik.&lt;BR&gt;Velik est le symbole de Velika et le point d'ancrage de la fédération. &lt;BR&gt;&lt;BR&gt;C'est aussi lui qui s'est allié aux argons pour essayer de détruire l'arbre de tiaran, qui porte en lui le pouvoir de la déesse Velik. &lt;BR&gt;&lt;BR&gt;Il comptait s'emparer ainsi de la puissance de la déesse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Si je n'étais pas tombée dans son piège, j'aurais pu empêcher les argons de submerger Tiarania. Nous devons à tout prix arrêter Samael.&lt;BR&gt;&lt;BR&gt;Les marchands mirtas tombés en disgrâce fomentent déjà de nouveaux plans avec les unités spéciales. Apparemment, leur chef {@linkcreature:12#23#Sloawgesh} se trouve sur la Côte abandonnée.  Éliminez-le et cherchez des indices. Chaque seconde compte.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Ah, voilà le journal des échanges de Slawgesh. Mince... Il semble rédigé avec un code secret. &lt;BR&gt;&lt;BR&gt;Pour le déchiffrer, il nous faut récupérer le code des gulas sur le {@linkcreature:12#7#cogneur gula}...&lt;BR&gt;&lt;BR&gt;J'ai beaucoup à faire. Merci de vous en occuper ! &lt;BR&gt;&lt;BR&gt;Retrouvez le code des gulas sur le {@linkcreature:12#7#cogneur gula}. &lt;BR&gt;Et ne vous en faites pas, je vais bien garder le journal des échanges.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Où en êtes-vous avec le journal des échanges ?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="212" prevId="5" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Vous avez trouvé le code des gulas ! Bien. Bien joué ! &lt;BR&gt;&lt;BR&gt;Nous allons enfin pouvoir déchiffrer le journal des échanges ! &lt;BR&gt;&lt;BR&gt;Le voilà. Essayez donc ! &lt;BR&gt;&lt;BR&gt;(Les yeux de Jelena pétillent quand elle vous tend le journal des échanges.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="212" prevId="7" villagerId="1035">
+        <Page social="4" voiceTypeId="0">(Jelena lit le registre avec une mine incrédule.)&lt;BR&gt;&lt;BR&gt;J'en reste sans voix. L'unité spéciale et les mirtas ont régulièrement fait affaire. &lt;BR&gt;&lt;BR&gt;Et une lance maudite... regardez. &lt;BR&gt;Tout a été minutieusement documenté. &lt;BR&gt;Il a été directement envoyé dans le Labyrinthe d'Azarel. &lt;BR&gt;&lt;BR&gt;Le Labyrinthe d'Azarel...&lt;BR&gt;Une forteresse des gulas....&lt;BR&gt;&lt;BR&gt;Mais qu'est-ce que ça signifie... Kutmaschuk ?&lt;BR&gt;&lt;BR&gt;Nous devons en informer {@linkcreature:62#1036#Élion} au plus vite. &lt;BR&gt;Allez, dépêchez-vous. Il n'y a pas une minute à perdre !</Page>
+    </Text>
+    <Text id="9" huntingZoneId="212" villagerId="1035">
+        <Page social="0">Avez-vous pu déchiffrer le document ? Je suis impatiente de connaître son contenu.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="8" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Vous avez le registre de Slawgesh.&lt;br&gt;Et apparemment, Samael et Akia ont communiqué ensemble. &lt;BR&gt;&lt;BR&gt;(Jelena se demande que penser du terme Kutmaschuk.)&lt;BR&gt;&lt;BR&gt;Aha ! Kutmaschuk est un chef abject des descendants de Lok. Il possède aussi sans doute la lance maudite.&lt;BR&gt;&lt;BR&gt;Nous devrions d'abord nous efforcer de contrecarrer les plans des descendants de Lok. &lt;PCNAME&gt;, allez dans le Labyrinthe d'Azarel. &lt;BR&gt;Je vais vous accompagner dans le Labyrinthe d'Azarel pour vous aider. &lt;BR&gt;&lt;BR&gt;Retrouvons-nous à l'{@linkcreature:209#1031#Avant-poste des chasseurs de reliques}.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="209" prevId="10" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Vous arrivez à point nommé, &lt;PCNAME&gt; ! Je vous attendais.&lt;BR&gt;&lt;BR&gt;Allez trouver {@linkcreature:209#2000#Tulutulu} dans le camp, il vous permettra de rejoindre le deuxième sous-sol du labyrinthe sans accrocs. &lt;BR&gt;&lt;BR&gt;Vous y trouverez le {@linkcreature:209#1030#téléportail} que Kutmaschuk a emprunté. &lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"À quoi sert ce téléportail ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Grâce à la pierre magique, vous pouvez rejoindre le &lt;font color='#0080FF'&gt;Repaire de Kutmaschuk&lt;/font&gt;. S'il vous plaît, faites vite.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="209" prevId="11" villagerId="1030">
+        <Page social="4" voiceTypeId="0">La pierre magique empeste. Ce doit être la puanteur de Kutmaschuk. Utilisez ce téléportail pour rejoindre le Repaire de Kutmaschuk.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="209" prevId="12" villagerId="1031">
+        <Page social="4" voiceTypeId="0">C'est la lance maudite de Gidd... &lt;BR&gt;&lt;BR&gt;(Élion étudie la lance en détail. Un rictus hilare illumine soudain son visage.)&lt;BR&gt;&lt;BR&gt;Hahaha ! Excusez-moi. Ces gulas sont décidément bien roublards. C'est une contrefaçon. L'arme d'un dieu légendaire n'est pas aussi simple à dégoter. Mais qu'ils aient eu l'audace de vouloir entourlouper Samael...&lt;BR&gt;&lt;BR&gt;Ah, me voilà rassuré. Nous avons maintenant la preuve qu'il nous fallait pour confondre Samael. C'est par là que nous devrions commencer.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="209" villagerId="1031">
+        <Page social="0">La lance maudite ne doit surtout pas leur tomber entre les mains. &lt;BR&gt;&lt;BR&gt;Sans quoi, la vie de la déesse Velik sera en danger. Or, il s'agit du soutien principal de la fédération. &lt;BR&gt;&lt;BR&gt;Nous devons mettre la main sur la lance maudite avant eux !</Page>
+    </Text>
+</QuestDialog>

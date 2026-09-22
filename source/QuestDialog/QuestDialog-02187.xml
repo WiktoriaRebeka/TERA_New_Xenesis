@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">L'ingénierie mécanique est la voie du futur !&lt;BR&gt;L'Académie de magie conserve plusieurs ouvrages sur cette discipline. Allez les consulter pour passer le test avec succès !</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1710">
+        <Page social="4">L'ingénierie mécanique comprend entre autres &lt;font color='#0000FF'&gt;la mécanique des matériaux&lt;/font&gt; qui explique la solidité et la transformation des matériaux. (Détails omis.)&lt;BR&gt;&lt;BR&gt;La kinétophysique explique &lt;font color='#0000FF'&gt;la vitesse, l'accélération et les vibrations&lt;/font&gt; causées par des forces ou des mouvements externes. (Détails omis.)&lt;BR&gt;&lt;BR&gt;La &lt;font color='#0000FF'&gt;théorie de la mécanique&lt;/font&gt; explique de son côté les interactions entre les composants mécaniques. (Détails omis.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Vous avez bien appris votre leçon&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Alors c'est parti pour un petit test.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Quelle science explique la solidité et la transformation des matériaux&amp;nbsp;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Vous dites vraiment n'importe quoi&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ah&amp;nbsp;? Ca veut dire que j'ai pas bon alors&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Non, la kinétophysique explique la dynamique causée par des forces ou des mouvements externes.&lt;NEXTPAGEBUTTON&gt;"C'est difficile de ne pas les confondre, aussi..."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Faux&amp;nbsp;! Je vous ai même donné un indice&amp;nbsp;: le mot "matériaux".&lt;NEXTPAGEBUTTON&gt;"J'aurais dû réviser."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Correct. Vous avez bien fait vos devoirs. Ah, si tous les élèves étaient comme vous...&lt;NEXTPAGEBUTTON&gt;"J'ai bien répondu alors&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Oui, vous avez des facilités en kinétophysique.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Quel est le nom de la science qui explique les interactions entre les composants mécaniques&amp;nbsp;?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">C'est le nom d'une science que vous me dites là&amp;nbsp;? Ne vous payez pas ma tête&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"J'ai pas bien retenu certains détails."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Bravo, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Ces questions ne sont pas si dures que ça."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Oh, croyez-moi, il m'est tout de même arrivé d'entendre quelques âneries.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">L'accélération est un type de mouvement, certes, mais je vous interrogeais sur la grande théorie qui intègre le tout.&lt;NEXTPAGEBUTTON&gt;"Et la réponse est dans le bouquin&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Vous avez donné... suspense... une... mauvaise réponse&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Je peux retenter ma chance&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Il existe trois éléments de kinétophysique qui sont causés par des forces et des mouvements externes. Quels sont-ils&amp;nbsp;?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Ah, vous n'en avez que deux sur trois.&lt;NEXTPAGEBUTTON&gt;"J'avais le dernier sur le bout de la langue."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">La psychokinésie&amp;nbsp;? Euh, je vous arrête là. Vous déraillez complètement.&lt;NEXTPAGEBUTTON&gt;"Je n'ai peut-être pas lu le bon livre&amp;nbsp;?..."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Mais vous savez tout sur tout&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Ca veut dire que j'ai réussi&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Haut la main&amp;nbsp;! La kinétophysique n'a plus de secret pour vous.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Faux&amp;nbsp;! Vous avez lu ça dans le livre&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Euh... faut croire que non."&lt;/NEXTPAGEBUTTON&gt;"</Page>
+        <Page social="0">Retournez à l'Académie de magie et ouvrez le bouquin cette fois-ci.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1704">
+        <Page social="4">L'ingénierie mécanique est la base de la théorie unifiée. Etudiez bien cette matière et vous deviendrez un grand théoricien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Vous vous demandez parfois ce que je fais ici&amp;nbsp;? J'ai l'impression que je passe mon temps à vous envoyer voir Elthienne, et à vous payer quand elle vous renvoie ici.&lt;BR&gt;&lt;BR&gt;Mais bon, même si mon travail se limite à ça, je compte le faire bien&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Allez voir {@LinkCreature:63#3003#Elthienne}. Et hop. Fini.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Oh, quel plaisir de vous voir, &lt;PCNAME&gt;.&lt;BR&gt;J'ai bien trop de travail, ça me donne la migraine.&lt;BR&gt;Mais maintenant que vous êtes ici, mes maux de tête vont se dissiper.&lt;BR&gt;Je dois fabriquer un certain nombre d'articles d'artisanat. Vous pourriez aller les livrer à {@linkcreature:63#3001#Barian}, quand j'aurai fini ?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 3 exemplaires de {@RawItem:206812} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 3 exemplaires de {@RawItem:206813} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 3 exemplaires de {@RawItem:206814} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 3 exemplaires de {@RawItem:206815} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Vous vous surpassez, &lt;PCNAME&gt;. Merci mille fois !&lt;BR&gt;&lt;BR&gt;J'espère que {@linkcreature:63#3002#Taratia} vous paie à la hauteur de vos exploits.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabriquez 3 exemplaires de {@RawItem:206816} et apportez-les ici.&lt;BR&gt;À propos, vous ne voudriez pas devenir l'artisan royal de la cour des Mains de Velika, par hasard ? Non ? Excusez-moi, ça ne me sort pas de la tête.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Bienvenue, &lt;PCNAME&gt; !&lt;BR&gt;{@linkcreature:63#3001#Barian} m'a dit bien des choses à votre sujet. Vous vous en sortez plutôt bien. &lt;BR&gt;Je ne m'y attendais pas.</Page>
+    </Text>
+</QuestDialog>

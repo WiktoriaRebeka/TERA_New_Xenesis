@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">Dans le Hall des Demoiselles se trouvent les pires monstruosités de cet abominable endroit. Je veux parler de ces immondes poupées.&lt;BR&gt;&lt;BR&gt; Les {@LinkCreature:33#1#marmots fantômes} et les {@LinkCreature:33#2#marmots maudits} ont peut-être l’air inoffensifs, voire presque mignons, quand on les voit pour la première fois. Mais quand ils se jettent sur vos camarades pour les dépecer vivants... c’est nettement moins mignon. Il y a de quoi ne plus jamais fermer l’œil.&lt;BR&gt;&lt;BR&gt;Vous croyez avoir le courage d’en tuer quelques-uns&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">On dirait que vous avez réussi&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Quel courage, &lt;PCNAME&gt;&amp;nbsp;! Les... PAR KAIA, VOUS EN AVEZ UN SUR LE DOS&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Ah non. C’était une ombre. Pardon.</Page>
+    </Text>
+</QuestDialog>

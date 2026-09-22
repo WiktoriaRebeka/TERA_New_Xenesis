@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Quête de la sagesse d'Hyderad]&lt;BR&gt;&lt;BR&gt;Retrouvez un autre rythme de vie et apprenez à jouir de la beauté du spectacle que la nature nous offre. Les membres de l'Héritage d'Hyderad vous invitent au {@Rgn:71001$$Bastion} pastoral. Pour plus ample information, contactez {@LinkCreature:71#3001#Arisel}, de l'Héritage d'Hyderad.&lt;BR&gt;&lt;BR&gt;Nous pouvons vous enseigner une autre manière de sauver le monde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3001">
+        <Page social="4">Nous vous avons bien {@gender:observé/observée}, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le monde est brisé. Partout, la nature est à l'agonie.&lt;BR&gt;&lt;BR&gt;Partout... sauf ici. Les partisans d'Hyderad tiennent beaucoup à cette singularité. Vous voulez prendre part à quelque chose de grandiose&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

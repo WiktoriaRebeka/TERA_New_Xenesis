@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="4">Nous n'avons pas beaucoup de temps, alors je vais aller droit au but.&lt;BR&gt;&lt;BR&gt;Kunchara vous a dit qu'il avait rendu les fouaille-tripes cinglés avec un sort. Il a bien lancé un sort, mais ce ne sont pas ses effets qui sont responsables de cette catastrophe.&lt;BR&gt;&lt;BR&gt;Comme souvent, ce sont les cultistes les coupables.&lt;NEXTPAGEBUTTON&gt;"Mais Tukarus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tukarus pensait la même chose que Kunchara, mais ils se trompaient tous les deux. Je ne peux pas tout vous expliquer dans le détail maintenant, mais faites-moi confiance.&lt;BR&gt;&lt;BR&gt;Pour arranger les choses, je vais avoir besoin du sang des {@LinkCreature:18#21#fendeurs de crâne de Lok} et des {@LinkCreature:18#22#prêtres de Lok}.&lt;BR&gt;&lt;BR&gt;Je vous expliquerai tout à votre retour.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">C'est exactement ce qu'il me fallait. Merci beaucoup.&lt;BR&gt;&lt;BR&gt;L'explication&amp;nbsp;? J'ai bien peur d'avoir trop à faire. Ce sera pour une autre fois, promis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1022">
+        <Page social="0">Plus vous traînez ici, plus les cultistes ont le temps de s'organiser.</Page>
+    </Text>
+</QuestDialog>

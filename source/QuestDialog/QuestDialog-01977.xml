@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, j'ai découvert où se trouve la quatrième pierre précieuse. &lt;BR&gt;Venez me voir à Hautegarde.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva vous a indiqué où trouver la quatrième pierre précieuse, celle du contrôle.&lt;BR&gt;Vous avez aidé Klock à inspecter le Camp d'entraînement de gardiens et avez restauré la couronne d'éternité.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Bonjour, &lt;PCNAME&gt; !&lt;BR&gt;Les préparatifs de la fête touchent à leur fin.&lt;BR&gt;&lt;BR&gt;Pourriez-vous rejoindre {@linkcreature:183#1150#Klock} ?&lt;BR&gt;&lt;BR&gt;C'est lui qui installe la fête.&lt;BR&gt;Il paraît que la quatrième pierre précieuse, celle du contrôle, se trouve dans l'un de ses outils.&lt;NEXTPAGEBUTTON&gt;"Où puis-je le trouver ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Il est en train d'inspecter le Camp d'entraînement de gardiens.&lt;BR&gt;C'est l'un de ses concepteurs.&lt;BR&gt;&lt;BR&gt;Les travaux de maintenance sont en cours, il devrait donc se trouver avec l'{@linkcreature:183#7007#instructeur de camp d'entraînement}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1150">
+        <Page social="0" voiceTypeId="0">Il y aurait une pierre précieuse de la couronne d'éternité dans mon outil ?&lt;BR&gt;Je pourrais vous le donner.&lt;BR&gt;&lt;BR&gt;Mais, disons que... C'est compliqué pour le moment.&lt;BR&gt;&lt;BR&gt;Nous sommes en train d'effectuer des travaux de maintenance dans le Camp d'entraînement de gardiens.&lt;NEXTPAGEBUTTON&gt;"Combien de temps ça va prendre ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nous aurons fini dans un ou deux jours. Je dois juste m'assurer que la magie spatiostabilisatrice a été déployée correctement.&lt;BR&gt;&lt;BR&gt;Cela prend le temps dont un guerrier a besoin pour réussir le camp d'entraînement.&lt;BR&gt;&lt;BR&gt;Impossible d'accélérer le processus, malheureusement...&lt;NEXTPAGEBUTTON&gt;"Puis-je vous aider à accélérer la cadence ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous feriez ça pour nous ?&lt;BR&gt;Mais dites-moi : Ne seriez-vous pas &lt;PCNAME&gt; ?&lt;BR&gt;&lt;BR&gt;Excusez-moi de ne pas vous avoir reconnu !&lt;BR&gt;&lt;BR&gt;Cela m'aiderait beaucoup si vous pouviez me prêter mainforte !&lt;BR&gt;&lt;BR&gt;Je n'en dors plus.&lt;NEXTPAGEBUTTON&gt;"Que dois-je faire ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vous pourriez activer &lt;font color='#FF0000'&gt;deux fois&lt;/font&gt; un bonus de la pierre magique de bonus de Prêtre ou de Mystique.&lt;BR&gt;&lt;BR&gt;Cependant, l'activation répétée du bonus ne fonctionne pas toujours. Si le bonus fonctionne pendant que vous attaquez un monstre pour vous entrainer, l'épreuve s'achève.&lt;BR&gt;&lt;BR&gt;Je compte sur vous.&lt;BR&gt;&lt;BR&gt;[Accédez au Donjon des épreuves en vous adressant à {@linkcreature:183#7002#Hirak}, l'instructeur de camp d'entraînement.]</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1150">
+        <Page social="0" voiceTypeId="0">Ça m'a l'air bon, aucun dysfonctionnement.&lt;BR&gt;Grâce à vous, nous avons fini plus tôt que prévu.&lt;BR&gt;&lt;BR&gt;Ah oui, vous aviez besoin de la pierre précieuse du contrôle, n'est-ce pas ?&lt;br&gt;Prenez-la.&lt;BR&gt;&lt;BR&gt;Je vais enfin pouvoir aller me coucher.&lt;BR&gt;Pfiou...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Ça s'est bien passé ? Vous avez obtenu la pierre précieuse du contrôle ?&lt;NEXTPAGEBUTTON&gt;"Voyez-vous même."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La couronne d'éternité fait bien meilleure figure !&lt;BR&gt;&lt;BR&gt;Vous savez où est passé Klock ?&lt;BR&gt;Il ne m'a toujours pas fourni de plans.&lt;BR&gt;&lt;BR&gt;Il ne vous a pas accompagné jusqu'ici ?&lt;NEXTPAGEBUTTON&gt;"Non, il voulait se coucher."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Se coucher ?!?&lt;BR&gt;Je n'en reviens pas !&lt;BR&gt;&lt;BR&gt;Il ne peut pas piquer un somme alors que je n'ai toujours pas les plans de la fête !&lt;BR&gt;&lt;BR&gt;Merci de votre aide. Tenez, c'est pour vous.&lt;br&gt;J'espère que vous pourrez en faire bon usage.&lt;BR&gt;&lt;BR&gt;Je vous fais signe dès que je sais où se trouve la gemme suivante.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">Je veux les armes des {@LinkCreature:20#30114001#centurions ossugons} et des {@LinkCreature:20#30031000#uhlans squelettiques}. Je veux pouvoir les étudier pour comprendre comment elles ont pu résister autant d'années.&lt;BR&gt;&lt;BR&gt;D'accord, elles sont rouillées, mais elles sont toujours en un seul morceau.&lt;BR&gt;&lt;BR&gt;Il faut que je découvre pourquoi. Rapportez-les-moi&amp;nbsp;! Et faites ce que vous voulez des squelettes&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Vous devez avoir des bras cachés pour pouvoir en rapporter autant à la fois.&lt;BR&gt;&lt;BR&gt;Enfin, merci&amp;nbsp;! Je vais les étudier tout de suite&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1014">
+        <Page social="0">Je veux comprendre comment il se fait que ces armes ne se soient pas brisées&amp;nbsp;! Mais il faut d'abord que vous me les rapportiez&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

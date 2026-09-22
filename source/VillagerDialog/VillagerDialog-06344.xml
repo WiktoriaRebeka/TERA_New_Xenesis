@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5013" huntingZoneId="464" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Vous venez me secourir ?&lt;BR&gt;&lt;BR&gt;Tant mieux ! Enfin quelqu'un qui accepte de m'aider ! &lt;BR&gt;Je vous expliquerai tout cela plus tard.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Les voilà ! Préparez-vous ! &lt;TEXTBUTTON&gt;Vous sortez votre arme.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Vous défendez Muhrak.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

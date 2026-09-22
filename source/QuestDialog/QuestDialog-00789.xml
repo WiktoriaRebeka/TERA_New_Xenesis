@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Toutes les anciennes prophéties et les dieux morts depuis longtemps ne serviront à rien si les {@LinkCreature:30#510#mandrills patteffroi} continuent à tout détruire.&lt;BR&gt;&lt;BR&gt;Ils sont déjà responsables des {@Rgn:30009$$Ruines du temple}, mais il faut les empêcher de faire plus de ravages, pour que les chercheurs puissent continuer à travailler.&lt;BR&gt;&lt;BR&gt;Réduisez leur nombre comme vous seul savez le faire, puis faites votre rapport au décurion {@LinkCreature:230#1001$$Litherus}, responsable du {@Rgn:30008$$Temple de l'autorité}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">Ces {@LinkCreature:30#510#mandrills patteffroi} commençaient à m'inquiéter, et vous avez résolu le problème avant que je puisse lever le petit doigt. Voilà ce que j'appelle "anticiper".</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="4">Je suspecte un genre de... structure argone... d'altérer le développement des éclats d'iteris. Il faudrait que je l'étudie, mais je ne fais pas partie des venators. Vous pourriez vous rendre à la plateforme de téléportation sud et m'envoyer un message dès qu'il n'y aura plus de danger&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Comment dois-je m'y prendre&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Les ondes harmoniques de la plateforme de téléportation entreront en résonnance avec celles de la plateforme de Kanstria. On ne peut pas faire plus simple.&lt;BR&gt;&lt;BR&gt;Quand les lieux seront sûrs, faites-moi signe, et je débarquerai.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1101">
+        <Page social="6">(Apparemment, les lieux sont sûrs.)&lt;BR&gt;&lt;BR&gt;(Vous devriez avertir Shirka.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1016">
+        <Page social="6">Surprise&amp;nbsp;! Ce n'est pas Shirka.&lt;BR&gt;&lt;BR&gt;J'ai pour ordre de la protéger coûte que coûte. Cette région est trop dangereuse pour elle, c'est pourquoi je suis là.&lt;NEXTPAGEBUTTON&gt;"Très bien. Et maintenant&amp;nbsp;?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">L'{@Rgn:49002} au sud d'ici projette des rayons d'énergie vers des structures organiques que nous appelons des capsules de cyasmana.&lt;BR&gt;&lt;BR&gt;Shirka veut un fragment d'une de ces capsules. Détruisez-en une, ramassez un morceau, et revenez me voir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="1016">
+        <Page social="6">Parfait... Shirka devrait être comblée.&lt;BR&gt;&lt;BR&gt;Vous pourrez utiliser la plateforme de téléportation pour rentrer à Kanstria quand vous le souhaiterez.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" villagerId="1016">
+        <Page social="0">La capsule de cyasmana se trouve près de l'{@Rgn:49002}. Suivez le faisceau lumineux qui brille dans le ciel. Vous ne pouvez pas le louper.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="5" villagerId="1022">
+        <Page social="6">Cette échantillon devrait nous apprendre pas mal de choses.&lt;BR&gt;&lt;BR&gt;J'espère que vous n'aurez pas eu trop de mal à les récupérer.&lt;NEXTPAGEBUTTON&gt;"Si, avec des kelbas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Il y avait des kelbas dans la capsule&amp;nbsp;? C'est bizarre.&lt;BR&gt;&lt;BR&gt;Se pourrait-il qu'ils jouent un rôle dans l'altération des éclats. Je vais devoir me pencher sur la question. Quoi qu'il en soit, merci de votre aide&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

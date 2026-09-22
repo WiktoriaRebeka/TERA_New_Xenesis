@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3001#Hurun} nous a fait savoir qu'il avait besoin d'aide aux Trois Tours.&lt;BR&gt;&lt;BR&gt;Nous avons tout de suite pensé à vous pour cette mission.&lt;BR&gt;&lt;BR&gt;Pour vous dire la vérité, je vous envie. J'ai toujours voulu me rendre aux Trois Tours pour les étudier de plus près.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">Merci, merci, merci&amp;nbsp;! Les argons massacrent nos chercheurs, alors comprenez mon soulagement quand je vois un soldat arriver.&lt;BR&gt;&lt;BR&gt;Les {@LinkCreature:46#201#écraseurs kulkaris argonomorphes}, les {@LinkCreature:46#202#chamanes kulkaris argonomorphes}, ou encore les {@LinkCreature:46#203#pourfendeurs de Lok argonomorphes} représentent les menaces les plus dangereuses. Eliminez-les et nous vous devrons une fière chandelle.&lt;BR&gt;&lt;BR&gt;Bien entendu, si vous parvenez à détruire les {@LinkCreature:246#3010#conduits de cyasma} au passage, nous n'irons pas nous plaindre.&lt;BR&gt;&lt;BR&gt;Toute aide est la bienvenue.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">C'est bon d'enrailler la machine de guerre argone une fois de temps en temps.&lt;BR&gt;&lt;BR&gt;Merci beaucoup pour votre intervention, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

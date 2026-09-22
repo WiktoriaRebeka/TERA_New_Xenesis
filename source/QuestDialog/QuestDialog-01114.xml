@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Dans la partie ouest de la Chambre des Morts, mes éclaireurs ont vu quelque chose qu'ils appellent {@LinkCreature:42#5002#Tragoleth} à la tête des soldats squelettiques.&lt;BR&gt;&lt;BR&gt;Nous préférerions qu'ils évitent de s'organiser davantage, alors si &lt;PCNAME&gt; a l'intention de l'éliminer...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Bon travail. C’est toujours un plaisir de récompenser les actes de bravoure, et affronter Tragoleth, c’en était un&amp;nbsp;! Tenez, et faites-en bon usage.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Plus vite vous tuerez Tragoleth, plus vite les soldats squelettiques devront se trouver un nouveau chef.</Page>
+    </Text>
+</QuestDialog>

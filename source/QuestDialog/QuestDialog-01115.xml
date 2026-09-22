@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">A ce que je sais des gulas, s’ils se sont alliés aux nagas, c’est forcément pour affaires. Ce que j’aimerais savoir, c’est de quel genre d’affaires il s’agit&amp;nbsp;!&lt;BR&gt;&lt;BR&gt; Et qu’en savent les {@LinkCreature:42#1200#masakaris nagas}&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Prévenez-moi si vous apprenez quelque chose.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">Je ne sais pas ce que vous avez là, mais {@LinkCreature:242#1036#Bartosia} pourra peut-être y voir plus clair. Demandez-lui d’y jeter un œil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Les {@LinkCreature:42#1200#masakaris nagas} sont plus coriaces que vous ne le pensiez&amp;nbsp;? J’espère que vous êtes à la hauteur, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1036">
+        <Page social="5">En gros, c’est un contrat. Il dit que les gulas fournissent la force physique, et que les nagas enlèvent des gens dans la région de Frontera et les livrent aux gulas. Oh non...&lt;BR&gt;&lt;BR&gt;Il est aussi indiqué que les gulas vendent ces gens comme esclaves.&lt;BR&gt;&lt;BR&gt;Il faut prévenir Ibar au plus vite. Allez à Frontera dès que possible.</Page>
+    </Text>
+</QuestDialog>
