@@ -1,0 +1,46 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="80010" name="Primer efecto - Ecrasement VII" tooltip="Aumenta el da&#241;o contra monstruos de $value." />
+    <String id="80020" name="Primer efecto - Amertume VII" tooltip="Aumenta el poder de golpe critico en 1,52 al atacar por la espalda." />
+    <String id="80030" name="Primer efecto - Tueur VII" tooltip="Aumenta el poder de golpe critico contra monstruos en 1,74 cuando tu HP es inferior al 50 %." />
+    <String id="80040" name="Primer efecto - Furieux VII" tooltip="Aumenta el da&#241;o de $value cuando tu HP es inferior al 50 %." />
+    <String id="80050" name="Primer efecto - Concentr&amp;#233; VII" tooltip="Aumenta el poder de golpe critico contra monstruos enrag&#233;s en 1,88." />
+    <String id="80060" name="Primer efecto - Virulent VII" tooltip="Los golpes cr&#237;ticos contra objetivos derribados infligen $H_W_GOODPoison VII$COLOR_END." />
+    <String id="80070" name="Efecto principal: Brutal VII" tooltip="Aumenta el da&#241;o contra enemigos derribados en $value." />
+    <String id="80080" name="Efecto principal: Cruel VII" tooltip="Aumenta el poder de golpe cr&#237;tico despu&#233;s de derribar a un enemigo. Concede $H_W_GOODCruel VII$COLOR_END." />
+    <String id="80090" name="Efecto principal: Forcefulness VII" tooltip="Aumenta el poder de golpe cr&#237;tico al atacar por la espalda. Concede $H_W_GOODD&#233;termination VII$COLOR_END." />
+    <String id="80100" name="Efecto principal: Sauvage VII" tooltip="El da&#241;o cr&#237;tico aumenta por un factor de 1,32 al atacar por la espalda." />
+    <String id="80110" name="Efecto principal: Malin VII" tooltip="Aumenta el m&#225;ximo de MP en $value." />
+    <String id="80120" name="Efecto principal: Infus&amp;#233; VII" tooltip="Restaura instant&#225;neamente 255 MP al ser derribado." />
+    <String id="80130" name="Efecto principal: Scintillant VII" tooltip="Los golpes cr&#237;ticos restauran 249 MP al atacar por la espalda." />
+    <String id="80140" name="Efecto principal: Rapide VII" tooltip="Aumenta la velocidad de movimiento en combate en $value." />
+    <String id="80150" name="Efecto principal: Eclatant VII" tooltip="Restaura $value MP cada $tickInterval." />
+    <String id="80160" name="Efecto principal: Etching VII" tooltip="Aumenta la probabilidad de golpes cr&#237;ticos en 3,3 %." />
+    <String id="80170" name="Primer efecto - Salivation VII" tooltip="Restaura inmediatamente 89 MP al atacar a otro jugador." />
+    <String id="80180" name="Primer efecto - Mena&amp;#231;ant VII" tooltip="Aumenta la tasa de derroche de agro de $value." />
+    <String id="80190" name="Primer efecto - Robuste VII" tooltip="Reduce el da&#241;o infligido por los monstruos en $value." />
+    <String id="80200" name="Primer efecto - Protecteur VII" tooltip="Otorga $value de resistencia adicional contra golpes cr&#237;ticos cuando tu HP est&#225; por debajo del 50 %." />
+    <String id="80210" name="Primer efecto - Persistant VII" tooltip="Reduce el da&#241;o recibido en $value cuando tu HP est&#225; por debajo del 50 %." />
+    <String id="80220" name="Primer efecto - Immobile VII" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="80230" name="Primer efecto - Empyr&amp;#233;en VII" tooltip="Otorga $H_W_GOODSurveillance VII$COLOR_END en caso de derribo infligido por monstruos enojados." />
+    <String id="80240" name="Primer efecto - De protection VII" tooltip="Otorga $H_W_GOODSurveillance VII$COLOR_END en caso de derribo (probabilidad de $prob)." />
+    <String id="80250" name="Primer efecto - Inspirant VII" tooltip="Otorga $H_W_GOODR&#233;g&#233;n&#233;ration de HP VII$COLOR_END en caso de derribo (probabilidad de $prob)." />
+    <String id="80260" name="Primer efecto - Acharn&amp;#233; VII" tooltip="Aumenta el m&#225;ximo de HP de $value." />
+    <String id="80270" name="Primer efecto - Preste VII" tooltip="Aumenta la velocidad de movimiento fuera de combate de $value." />
+    <String id="80280" name="Primer efecto - Vigoureux VII" tooltip="Restaura $value HP cada $tickInterval." />
+    <String id="80290" name="Primer efecto - Eplor&amp;#233; VII" tooltip="Restaura 117 MP cuando un jugador te ataca." />
+    <String id="80300" name="Primer efecto : Courroux du Gardien VII" tooltip="Multiplica el poder de golpe critico por +1,66 al atacar a los monstruos de frente." />
+    <String id="80310" name="Primer efecto : Jugement VII" tooltip="El poder de golpe critico aumenta por un factor de 1,52 cuando atacas a distancia a un monstruo por el flanco o por detr&#225;s." />
+    <String id="81001" name="Segundo efecto - Scintillant VII" tooltip="Los golpes cr&#237;ticos restauran 60 MP en ataques por detr&#225;s." />
+    <String id="81002" name="Segundo efecto - Malin VII" tooltip="Aumenta el m&#225;ximo de MP en $value." />
+    <String id="81003" name="Segundo efecto - Infus&amp;#233; VII" tooltip="Restaura 63 MP en caso de derribo." />
+    <String id="81004" name="Segundo efecto - Salivation VII" tooltip="Restaura 21 MP al atacar a un jugador." />
+    <String id="81005" name="Segundo efecto - Brutal VII" tooltip="Aumenta el da&#241;o contra enemigos derribados en $value." />
+    <String id="81006" name="Segundo efecto - Eclatant VII" tooltip="Restaura $value MP cada $tickInterval." />
+    <String id="81007" name="Segundo efecto - Rapide VII" tooltip="Aumenta la velocidad de movimiento en combate en $value." />
+    <String id="81008" name="Segundo efecto - Immobile VII" tooltip="Reduce el da&#241;o recibido de monstruos enardecidos en un $value." />
+    <String id="81009" name="Segundo efecto - Persistant VII" tooltip="Reduce el da&#241;o recibido en $value cuando tu HP est&#225; por debajo del 50 %." />
+    <String id="81010" name="Segundo efecto - Eplor&amp;#233; VII" tooltip="Restituye inmediatamente 28 MP cuando un jugador te ataca." />
+    <String id="81011" name="Segundo efecto - Protecteur VII" tooltip="Otorga $value de resistencia adicional contra golpes cr&#237;ticos cuando tu HP est&#225; por debajo del 50 %." />
+    <String id="81012" name="Segundo efecto - Acharn&amp;#233; VII" tooltip="Aumenta el m&#225;ximo de HP de $value." />
+    <String id="81013" name="Segundo efecto - Vigoureux VII" tooltip="Restaura $value HP cada $tickInterval." />
+</StrSheet_Passivity>
