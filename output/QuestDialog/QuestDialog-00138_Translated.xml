@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Me lo han quitado todo... todo. Antes de irse, los vi rebuscar entre mis mercanc&amp;#237;as y apoderarse de unos tocados. Me gustar&amp;#237;a que fueras a quit&amp;#225;rselos a los {@LinkCreature:5#3#ouvriers tuwangis} que me los robaron.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#225;s recuperarlos, mientras buscas el saco en s&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">&amp;#161;Oh, maravilloso! Esos tocados valen su peso en oro... Sin tu ayuda, habr&amp;#237;a tenido que apretarme el cintur&amp;#243;n durante un buen rato.&lt;BR&gt;&lt;BR&gt;&amp;#161;Te lo agradezco much&amp;#237;simo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Por favor, ve a recuperar mis tocados. Es mi principal fuente de ingresos. Si no los recupero, estoy condenado a morir de hambre.</Page>
+    </Text>
+</QuestDialog>

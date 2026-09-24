@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1006">
+        <Page social="5">La guerra no es mi &amp;#250;nico centro de inter&amp;#233;s. De hecho, me un&amp;#237; al ej&amp;#233;rcito para descubrir el mundo y su historia.&lt;BR&gt;&lt;BR&gt;Para ser sincero, siempre he encontrado fascinantes a los Elins y a los Poporis. &amp;#191;Te interesa el tema?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Entonces, &amp;#191;qu&amp;#233; historia te interesa: la de los Poporis o la de los Elins?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu ya les hab&amp;#237;a dado vida a los Elins cuando se dio cuenta de que sus hijas necesitaban aliados para proteger la naturaleza. As&amp;#237; fue como decidi&amp;#243; ofrecer el despertar a ciertas bestias del bosque y las transform&amp;#243; en criaturas dotadas de raz&amp;#243;n, al tiempo que remodelo sus envoltorios carneales para convertirlas en esp&amp;#237;ritus de la naturaleza.&lt;BR&gt;&lt;BR&gt;Eligi&amp;#243; a algunas por su valent&amp;#237;a y a otras por su inteligencia, pero tambi&amp;#233;n sin otra justificaci&amp;#243;n que su propia voluntad. Con el tiempo, los Poporis se convirtieron en el pueblo valiente y astuto que conocemos hoy.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="229" prevId="2" villagerId="1006">
+        <Page social="5">Elinu necesitaba ayuda para cuidar la naturaleza, por lo que sacrific&amp;#243; parte de su fuerza vital para dar nacimiento a esp&amp;#237;ritus y darles una forma f&amp;#237;sica.&lt;BR&gt;&lt;BR&gt;Pero aunque los Elins se parezcan en apariencia a simples j&amp;#243;venes, sus colas y orejas demuestran que son aut&amp;#233;nticas sirvientas de la naturaleza y que, en cierto sentido, ella y la naturaleza son una sola.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">Una historia fascinante, &amp;#191;verdad? Si ha despertado tu curiosidad, deber&amp;#237;as ir a hablar con {@LinkCreature:229#1023$$Senova}. Ella conoce muchas historias interesantes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="229" prevId="3" villagerId="1006">
+        <Page social="5">&amp;#161;Fascinante, &amp;#191;no?! Si tu curiosidad a&amp;#250;n no est&amp;#225; satisfecha, deber&amp;#237;as ir a hablar con {@LinkCreature:229#1023$$Senova}. Ella conoce muchas historias cautivadoras.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Ah, veo que Isobel ha intentado de nuevo comunicar su pasi&amp;#243;n por las leyendas y el folclore a alguien. La historia es lo suyo.&lt;BR&gt;&lt;BR&gt;Para ser sincero, es dif&amp;#237;cil atestiguar la veracidad de los relatos que nos han llegado, pero puedo cortar de ra&amp;#237;z los rumores m&amp;#225;s disparatados.&lt;BR&gt;&lt;BR&gt;Por ejemplo: dado que los Elins y los Poporis son de ascendencia divina, &amp;#191;es verdad que est&amp;#225;n destinados a vivir eternamente?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">&amp;#161;Esa es una respuesta segura!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="229" prevId="7" villagerId="1023">
+        <Page social="5">Dif&amp;#237;cil opinar, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="229" prevId="8" villagerId="1023">
+        <Page social="5">Pues bien, en realidad, no tienen tanta suerte. Su esperanza de vida no supera la de los Humanos, y es muy triste... la sabidur&amp;#237;a de estas dos razas es una riqueza de la que el mundo no puede prescindir.&lt;BR&gt;&lt;BR&gt;Representan un aut&amp;#233;ntico recurso para nosotros, y cuando uno de sus representantes pierde la vida, es toda la Federaci&amp;#243;n la que sufre las consecuencias.&lt;BR&gt;&lt;BR&gt;Respetar el deber de memoria es una obligaci&amp;#243;n para nosotros.</Page>
+    </Text>
+</QuestDialog>

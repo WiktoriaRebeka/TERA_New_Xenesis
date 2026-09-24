@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="4">No podemos salvar a los muertos, pero s&amp;#237; podemos poner fin a suplicio. Elimina a los {@LinkCreature:8#4061#mineurs immortels}, por ejemplo... ya no podemos hacer nada por ellos.&lt;BR&gt;&lt;BR&gt;Devolverlos al Sue&amp;#241;o es el &amp;#250;nico regalo que podemos hacerles ahora.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1037">
+        <Page social="4">&amp;#161;Es nuestro deber poner fin a sus sufrimientos!</Page>
+    </Text>
+</QuestDialog>

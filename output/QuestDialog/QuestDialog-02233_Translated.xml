@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Te abriste paso a trav&amp;#233;s del Carnaval del Sangre, destruiste el altar de los vampiros y detuviste su ritual.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Por fin descubr&amp;#237; por qu&amp;#233; los vampiros necesitan tantos prisioneros. Vierten su sangre en su altar y eso los hace m&amp;#225;s fuertes. Probablemente por eso no podemos destruirlos por completo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, necesito tu ayuda otra vez: &amp;#161;destruye ese altar!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">Tus proezas no dejan de impresionarme, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tal vez deber&amp;#237;as considerar venir a verme alg&amp;#250;n d&amp;#237;a, cuando no est&amp;#233;s muy ocupado. Podr&amp;#237;a esculpir una estatua a tu imagen...</Page>
+    </Text>
+</QuestDialog>

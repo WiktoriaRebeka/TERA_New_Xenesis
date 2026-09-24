@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">Me tendieron una emboscada un {@LinkCreature:25#2091$$z&amp;#233;lote de Lok} en {@Rgn:25003$$Transepts}. Sal&amp;#237; corriendo a toda prisa, pero perd&amp;#237; una cajita en la huida.&lt;BR&gt;&lt;BR&gt;Contiene un anillo que planeo regalarle a mi pareja, que se qued&amp;#243; en el pueblo. &amp;#191;Podr&amp;#237;as ir a recuperarlo por m&amp;#237;? No estoy en condiciones de enfrentarme de nuevo a un sirviente de Lok.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">&amp;#161;S&amp;#237;! Es eso. Aprecio este objeto como la ni&amp;#241;a de mis ojos.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; c&amp;#243;mo expresar mi gratitud... Much&amp;#237;simas gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1028">
+        <Page social="0">Por favor, ay&amp;#250;dame. Este objeto es muy querido para mi coraz&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

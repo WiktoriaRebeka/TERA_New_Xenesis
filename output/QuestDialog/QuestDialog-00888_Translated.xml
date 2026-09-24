@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="4">Los fragmentos eldritch de baja potencia siguen siendo armas fabulosas.&lt;BR&gt;&lt;BR&gt;Por supuesto, si no te proteges, corres el riesgo de abrirte la mano. Necesito cuero para envolverlos, y debe ser resistente.&lt;BR&gt;&lt;BR&gt;Mata a los {@LinkCreature:34#100#r&amp;#244;deurs des glaces maligos} y recupera la piel que rodea su cabeza. &amp;#161;Es s&amp;#243;lida!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1011">
+        <Page social="4">Esto deber&amp;#237;a bastar. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1011">
+        <Page social="0">No puedo cubrir las empu&amp;#241;aduras con tela o piel de oveja: &amp;#161;no resistir&amp;#237;an, y mis dedos tampoco! Tr&amp;#225;eme la piel que te ped&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

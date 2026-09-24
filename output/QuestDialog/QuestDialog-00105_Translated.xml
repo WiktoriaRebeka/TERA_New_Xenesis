@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Me gustar&amp;#237;a mucho retenerte por aqu&amp;#237;, &lt;PCNAME&gt;, pero debo admitirlo: tus servicios hacen m&amp;#225;s falta en el Valle Ignoto.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate en el Puesto de avanzada de la Intrepidez. &amp;#161;Esperando que est&amp;#233;s a la altura!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Por aqu&amp;#237;, nos alegra tener soldados en buen estado, y m&amp;#225;s a&amp;#250;n a alguien como t&amp;#250;, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Helone puede darte trabajo. Ve a hablar con ella, pero no muy r&amp;#225;pido. Se hace bolas enseguida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1004">
+        <Page social="4">No me hables as&amp;#237;, no soy un beb&amp;#233;, &lt;PCCLASS:lcase&gt;. Tal comportamiento es degradante tanto para ti como para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Y no le prestes demasiada atenci&amp;#243;n a Kimuk. No es m&amp;#225;s que un idiota.</Page>
+    </Text>
+</QuestDialog>

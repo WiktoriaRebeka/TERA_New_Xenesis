@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Haber encontrado un escondite es una buena suerte, pero este lugar ha estado abandonado durante mucho tiempo y, por lo tanto, faltan muchas cosas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo pedirte que me hagas algunos favores antes de ir a ver a Revenj?&lt;NEXTPAGEBUTTON&gt;"¿Qué favores?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sab&amp;#237;a que me escuchar&amp;#237;as.&lt;BR&gt;Primero necesitamos comida y pieles para preparar los lechos.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que caza a los zorros rojos que merodean por el campamento para recuperar su piel y su carne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">Muchas gracias, &lt;PCNAME&gt;. Con esto podremos acondicionar bien el lugar.&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a tengo un favor que pedirte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">Tr&amp;#225;eme un poco m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

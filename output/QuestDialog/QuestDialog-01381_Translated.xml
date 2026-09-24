@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">&amp;#211;rdenes de misi&amp;#243;n:&amp;nbsp;&lt;BR&gt;&lt;BR&gt;La Legi&amp;#243;n Maldita controla puntos estrat&amp;#233;gicos en el per&amp;#237;metro de la Fournaise divine.&lt;BR&gt;&lt;BR&gt;Libera el lugar de los {@LinkCreature:52#9006#ravageurs}, {@LinkCreature:52#9007#enrag&amp;#233;s}, {@LinkCreature:52#5004#tisseurs d'ombre}, {@LinkCreature:52#5001#ma&amp;#238;tres &amp;#233;p&amp;#233;istes} y {@LinkCreature:52#5002#archers ksharans}.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, habla con Raneria en Habere.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">&amp;#161;Aqu&amp;#237; tienes tu recompensa, con los agradecimientos de la Valkyon Federation&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4">Qu&amp;#233; bueno verte, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Me gusta hacer negocios. Pero, &amp;#191;sabes qu&amp;#233; es lo que detesto? Las tardanzas. No es gran cosa, pero algunos de mis colegas no me han entregado sus registros desde hace un tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as record&amp;#225;rselo, amablemente? Muy amablemente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">Ey, &amp;#191;qu&amp;#233; est&amp;#225;s haciendo por aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Jax quiere sus registros actualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Listo! &amp;#161;Toma! &amp;#161;Por los titanes, no me mates!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1703">
+        <Page social="4">&amp;#191;Qu&amp;#233; tal, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax quiere sus registros actualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tengo una familia... por piedad. &amp;#161;Toma esto! &amp;#161;Dile a Jax que jam&amp;#225;s volver&amp;#233; a llegar tarde!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1704">
+        <Page social="4">Otro d&amp;#237;a m&amp;#225;s cerca de la jubilaci&amp;#243;n, &amp;#191;verdad, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax quiere sus registros actualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Y te manda a ti! &amp;#161;Espera! Tal vez podamos llegar a un acuerdo. &amp;#161;D&amp;#233;jame firmar el registro y listo! &amp;#161;Listo, ya termin&amp;#233;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1705">
+        <Page social="4">&amp;#191;Necesitas algo?&lt;NEXTPAGEBUTTON&gt;"Jax quiere sus registros actualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;No me hagas da&amp;#241;o! &amp;#161;En la cara no! Toma, qu&amp;#233;date con el registro... &amp;#161;y dile a Jax que le pido una disculpa!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1701">
+        <Page social="4">Llegaste r&amp;#225;pido. Espero que no hayas tenido problemas.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes una peque&amp;#241;a compensaci&amp;#243;n por la molestia.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Seg&amp;#250;n Neacal, los devans que infestan los Bosques del Olvido son soldados dispersos tras la ca&amp;#237;da del Imperio Oscuro. Han mantenido un perfil bajo durante un tiempo, pero ahora cuentan con nuevas armas y vuelven a ser una amenaza. Neacal le ha pedido a &lt;PCNAME&gt; que vaya a visitar a Chama para averiguar qui&amp;#233;n manda sobre los devans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Habla de nuevo con Neacal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Debemos hablar ahora de asuntos importantes.&lt;BR&gt;&lt;BR&gt;Hace poco, los devans no eran m&amp;#225;s que una banda dispersa.&lt;BR&gt;Pero &amp;#250;ltimamente muestran una coordinaci&amp;#243;n asombrosa.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, se han hecho con armas de excelente factura.&lt;BR&gt;&lt;BR&gt;Tenemos neden descubrir por qu&amp;#233; est&amp;#225;n de repente&lt;BR&gt;tan bien organizados.&lt;NEXTPAGEBUTTON&gt;Escuchas atentamente.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Si eliminamos al l&amp;#237;der, el resto deber&amp;#237;a ser pan comido.&lt;BR&gt;&lt;BR&gt;Ya he enviado a algunos exploradores.&lt;BR&gt;&amp;#218;nete a ellos y recopila informaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ah, y unas palabras m&amp;#225;s sobre el arma que acabo de darte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Con los encantamientos, puedes potenciar a&amp;#250;n m&amp;#225;s el poder del arma.&lt;BR&gt;&lt;BR&gt;Usa un &lt;font color='#0000FF'&gt;fragmento de reliquia&lt;/font&gt; para liberar el verdadero poder del arma. &lt;BR&gt;&lt;BR&gt;Los rumores dicen que algunas armas pueden amplificarse hasta el nivel +9. &lt;BR&gt;&lt;BR&gt;Para poder hacer frente a los devans, debes enfrentarte a ellos con armas amplificadas. De hecho, los devans armados son notablemente m&amp;#225;s fuertes.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Appuyez sur la touche &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' width='21' height='21' vspace='-6'/&gt; pour ouvrir la forge. Utilisez ensuite un fragment de relique pour amplifier votre arme.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Te he dicho todo lo que sab&amp;#237;a. &lt;BR&gt;Sigue el camino que tienes enfrente hasta encontrar las tropas de Chama.&lt;BR&gt;&lt;BR&gt;Ah, y si ves alg&amp;#250;n pedrusco, elim&amp;#237;nalo en el acto. Son especialmente molestos porque hacen un ruido infernal y corren el riesgo de delatar nuestra posici&amp;#243;n.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1013">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qui&amp;#233;n eres? &amp;#191;Te manda Neacal? &lt;BR&gt;&amp;#161;Perfecto! No le hago ascos a un poco de ayuda.&lt;BR&gt;&lt;BR&gt;Y es muy amable por tu parte haberte molestado en eliminar a esos pedruscos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">No hay tiempo para charlar. Estamos ocupados reparando las empalizadas del campamento.&lt;BR&gt;&lt;BR&gt;Madera s&amp;#243;lida ser&amp;#237;a bienvenida, pero seguro que ya has o&amp;#237;do eso antes.&lt;BR&gt;&lt;BR&gt;La mejor madera del Refuge de Balder se mueve mucho. Son los {@LinkCreature:30#170#arbosks grimpants}.&lt;BR&gt;&lt;BR&gt;Ning&amp;#250;n &amp;#225;rbol es tan resistente, el esfuerzo vale la pena.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Tu reputaci&amp;#243;n no es inmerecida, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nadie me hab&amp;#237;a tra&amp;#237;do tanta madera antes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Oye! &amp;#161;Ven y toma esto! Y gracias de nuevo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">La madera de los {@LinkCreature:30#170#arbosks grimpants} es tan dura que un orkan saqueador con un hacha no puede cortarla. No dormir&amp;#237;a aqu&amp;#237; si no confiara en estos muros.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="0">Jelena dijo que los esp&amp;#237;as de Samael se infiltraron en el Port Coupe-gorge y que era absolutamente necesario matarlos antes de que regresaran a rendir informes.&lt;BR&gt;&lt;BR&gt;Con la ayuda de los soldados de la Espada de Kaia, identificaste a los Justicars de Samael antes de eliminarlos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Me refiero a los descendientes de Lok que atacaron Paxomnia. Al parecer, trabajan para Samael.&lt;BR&gt;&lt;BR&gt;Es muy probable que este &amp;#250;ltimo tenga m&amp;#225;s esp&amp;#237;as en el Port Coupe-gorge. Debemos evitar que le informen sobre los &amp;#250;ltimos acontecimientos. &lt;BR&gt;&lt;BR&gt;Con la ayuda de las pistas que les di, la Espada de Kaia y los exploradores probablemente ya hayan descubierto el escondite de los tipos sospechosos que se ocultan en el Port Coupe-gorge. &lt;BR&gt;&lt;BR&gt;Busca a {@LinkCreature:62#1010#Kasib}, recupera el informe sobre la guarida de los esp&amp;#237;as y encu&amp;#233;ntralos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Seguimos a los esp&amp;#237;as con Arkaius, de la Espada de Kaia. &lt;BR&gt;&lt;BR&gt;Los sospechosos se disfrazaron de marineros. Encontrar&amp;#225;s su ubicaci&amp;#243;n en el informe. &lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1035">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has encontrado la guarida de los esp&amp;#237;as de Samael? &lt;BR&gt;&lt;BR&gt;Perfecto. Deber&amp;#237;amos resolver el asunto a mi manera. &lt;BR&gt;&lt;BR&gt;&amp;#161;Yo misma fabriqu&amp;#233; esta bomba!&lt;BR&gt;&lt;BR&gt;Hice que pareciera un conjunto de instrucciones de los descendientes de Lok. Su efecto dura poco, pero les entumecer&amp;#225; los sentidos.&lt;NEXTPAGEBUTTON&gt;"¿Qué estás haciendo aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Hay que entregarle esto a los esp&amp;#237;as!&lt;BR&gt;&lt;BR&gt;El efecto es solo temporal, pero te tomar&amp;#225;n por un emisario de Lok. As&amp;#237; que no te preocupes. &lt;BR&gt;&lt;BR&gt;En cuanto abran la tapa, descubrir&amp;#225;n tu identidad. Pero se dar&amp;#225;n cuenta del enga&amp;#241;o demasiado tarde, la bomba ya habr&amp;#225; estallado. &lt;BR&gt;&lt;BR&gt;Oc&amp;#250;pate de {@LinkCreature:212#1037#lui}. &lt;BR&gt;Yo me encargo del resto. &lt;BR&gt;&lt;BR&gt;Aunque nuestro plan fracase, habremos logrado ponerle algunos obst&amp;#225;culos a Samael.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Tu cara... Mh... Bah, tal vez me equivoque.&lt;BR&gt;S&amp;#233; que la unidad especial fracas&amp;#243;, &amp;#191;pero ya hay nuevas &amp;#243;rdenes?&lt;BR&gt;&lt;BR&gt;Y muestren un poco de respeto al transmitirnos las &amp;#243;rdenes. Ahora desaparezcan, que no tengo tiempo para esto.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1035">
+        <Page social="9" voiceTypeId="0">&amp;#161;Perfecto! Todos los esp&amp;#237;as que se ocultaban en el Port Coupe-gorge han sido eliminados. As&amp;#237;, Samael ignorar&amp;#225; por un tiempo lo que se est&amp;#225; tramando aqu&amp;#237;. &lt;BR&gt;&lt;BR&gt;Pero no bajemos la guardia. &lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos descubrir cu&amp;#225;les son las intenciones de Samael y de los descendientes de Lok! &lt;BR&gt;&lt;BR&gt;Esto deber&amp;#237;a aportar la prueba indiscutible de que Samael ha traicionado a la Valkyon Federation.</Page>
+    </Text>
+</QuestDialog>

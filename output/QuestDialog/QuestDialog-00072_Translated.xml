@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">S&amp;#233; que los tiempos dif&amp;#237;ciles son para todos, y me molesta tener que pedirte algo, pero necesito tu ayuda. Ohdi, mi perro, se ha escapado. Unos ni&amp;#241;os me dijeron que lo vieron correr hacia el cementerio de Berzerad. No me atrever&amp;#237;a a pedirte esto solo por mi propio inter&amp;#233;s. Aqu&amp;#237; todo el mundo adora a Ohdi, es un poco nuestra mascota.&lt;BR&gt;&lt;BR&gt;Toma esta bolsa. He puesto dentro un premio preparado especialmente por Esedran. Mu&amp;#233;straselo a Ohdi y estoy seguro de que saltar&amp;#225; dentro de la bolsa. Por favor...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">&amp;#191;El perrito de Corann? El tipo que invent&amp;#243; la expresi&amp;#243;n &quot;un perro en un juego de bolos&quot; seguro que pensaba en este chucho.&lt;BR&gt;&lt;BR&gt;De hecho, ahora que lo mencionas, creo que lo vi correr hacia la colina. {@LinkCreature:203#1025#Ohdi} parece adorar el cementerio que hay all&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">(Las patas de Ohdi est&amp;#225;n cubiertas de tierra y el suelo del cementerio est&amp;#225; lleno de agujeros nuevos. Ohdi te mira moviendo la cola, con la mirada brillante de alegr&amp;#237;a.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;, te debo mucho. Gracias por ir a buscar a Ohdi. No s&amp;#233; qu&amp;#233; habr&amp;#237;a... eh... &amp;#191;qu&amp;#233; habr&amp;#237;a hecho la ciudad sin ti?</Page>
+    </Text>
+</QuestDialog>

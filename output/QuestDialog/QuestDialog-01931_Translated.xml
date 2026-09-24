@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">&amp;#191;Los cultistas de esta cueva son los que te interesan? Hay de sobra.&lt;BR&gt;&lt;BR&gt;Escucha, llevan insignias engastadas con &amp;#243;nix. Esta piedra tiene valor.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme estos objetos y te dar&amp;#233; un buen precio.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Ah, son un poco m&amp;#225;s peque&amp;#241;os de lo que pensaba.&lt;BR&gt;&lt;BR&gt;Sea como sea, has cumplido tu parte del trato... lo aprecio. Por favor acepta esto, con mis agradecimientos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">Te pagar&amp;#233;, est&amp;#225; prometido.&lt;BR&gt;&lt;BR&gt;Ahora, a trabajar.</Page>
+    </Text>
+</QuestDialog>

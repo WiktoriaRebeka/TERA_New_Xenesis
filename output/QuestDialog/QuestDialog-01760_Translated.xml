@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="0">En la Cantera de Dirana, bebiste la poci&amp;#243;n de invisibilidad que te dio Hagand. Luego recolectaste piedras espaciotemporales sin que los Parth y los Demokron te descubrieran.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="4" voiceTypeId="0">&amp;#191;Y ad&amp;#243;nde vas ahora? &amp;#191;A la Cantera de Dirana en el Barranco L&amp;#225;nguido?&lt;BR&gt;&lt;BR&gt;Me temo que tus esfuerzos ser&amp;#225;n en vano: nadie ha logrado activar a&amp;#250;n la Puerta Dimensional.&lt;BR&gt;&lt;BR&gt;Pero al menos pareces capaz de salir con vida. Espero que logres recuperar las piedras espaciotemporales. Buena suerte.&lt;NEXTPAGEBUTTON&gt;"Lo lograré. ¡Confía en mí!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1018">
+        <Page social="4" voiceTypeId="0">&amp;#161;Estaci&amp;#243;n Queldar, krrik! &amp;#161;Hagand ha enviado una solicitud!&lt;BR&gt;&amp;#161;Hagand desea experimentar lo antes posible, krrik! &amp;#161;La piedra espaciotemporale, krrik!&lt;BR&gt;&amp;#161;Dame la piedra espaciotemporale, krrik! &amp;#161;R&amp;#225;pido!&lt;NEXTPAGEBUTTON&gt;"Guikol, ¿realmente puedo confiar en ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Confiar en Guikol? Tal vez.&lt;BR&gt;&lt;BR&gt; &amp;#191;Confiar en Hagand, s&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Confiar en oro? &amp;#161;Por supuesto!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="1018">
+        <Page social="0">Crrrr... &lt;BR&gt;No hay piedra. No hay discusi&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">*snif* &amp;#161;Krrik!&lt;BR&gt;&amp;#161;Tienes muchas piedras espaciotemporales! &amp;#161;Son pesadas, krrik!&lt;BR&gt;&amp;#161;Deber&amp;#237;as esconderlas en el mont&amp;#243;n de piedras de all&amp;#225;! &amp;#161;Krrik! &amp;#161;Las piedras espaciotemporales!&lt;BR&gt;&amp;#161;Un amigo vendr&amp;#225; a llev&amp;#225;rselas, krrik!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="2064">
+        <Page social="4" voiceTypeId="0">(Debe de ser el mont&amp;#243;n de piedras del que habl&amp;#243; Guikol.)&lt;NEXTPAGEBUTTON&gt;"Bien, entonces esconderé las piedras espaciotemporales aquí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

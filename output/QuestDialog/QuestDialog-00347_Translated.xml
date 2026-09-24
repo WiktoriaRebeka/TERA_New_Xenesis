@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Saludos, &lt;PCNAME&gt;. Tengo una misi&amp;#243;n delicada para ti; solo alguien tan cualificado como t&amp;#250; puede llevarla a buen puerto.&lt;BR&gt;&lt;BR&gt;Hay informes sobre la aparici&amp;#243;n de piratas en la Isla de las Nieblas, al este de aqu&amp;#237;. El alto mando ha pedido m&amp;#225;s informaci&amp;#243;n, pero ya sabes c&amp;#243;mo son estas cosas... &amp;#161;Siempre nos env&amp;#237;an a nosotros!&lt;BR&gt;&lt;BR&gt;Un cuerpo expedicionario de la Espada de Kaia se encuentra actualmente en la isla. &amp;#218;nete a &amp;#233;l y oc&amp;#250;pate de esos corsarios.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1001">
+        <Page social="4">Si vienes de Cutthroat Harbor, significa que los soldados sobran all&amp;#237;. Los habitantes del puerto tienen suerte.&lt;BR&gt;&lt;BR&gt;En lo que a nosotros respecta, ni hablar de prescindir de tus servicios. Bienvenido a bordo, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

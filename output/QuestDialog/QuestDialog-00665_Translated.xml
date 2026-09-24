@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1008">
+        <Page social="4">&lt;PCNAME&gt;, necesito hacer una evaluaci&amp;#243;n de la situaci&amp;#243;n. &amp;#191;Tienen moral las tropas? &amp;#191;Cu&amp;#225;les son sus preocupaciones?&lt;BR&gt;&lt;BR&gt;Evidentemente, si soy yo quien les hace la pregunta, ser&amp;#225; dif&amp;#237;cil obtener respuestas francas, en cambio si fueras t&amp;#250; quien se encargara de ello...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1003">
+        <Page social="4">No va tan mal. Los mekonaris me ponen los nervios de punta, pero nuestras fuerzas les hacen frente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1017">
+        <Page social="4">Bueno, me sentir&amp;#237;a mejor si alguien se encargara de esas malditas cr&amp;#237;as con colmillos.&lt;BR&gt;&lt;BR&gt;Aparte de eso, me voy arreglando.&lt;BR&gt;&lt;BR&gt;Solo espero que las princesas dejen de pelearse.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1010">
+        <Page social="4">Honestamente, podr&amp;#237;a ir mejor. Los informes que nos llegan de la Eldritch Academy me hielan la sangre.&lt;BR&gt;&lt;BR&gt;Aparte de eso, ya hemos vivido cosas peores.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="68" prevId="5" villagerId="1008">
+        <Page social="4">Bueno, obviamente, en este contexto, no todo puede ir de la mejor manera, parece que sumando todo, las noticias no son tan malas.&lt;BR&gt;&lt;BR&gt;Buen trabajo, &lt;PCNAME&gt;. Sigue as&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

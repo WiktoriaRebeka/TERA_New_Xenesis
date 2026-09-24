@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="0">Hace una buena d&amp;#233;cada, la Valkyon Federation descubri&amp;#243; Tiaran, el &amp;#193;rbol del Pesar, en la &amp;#206;le Marchepierre. Mont&amp;#243; una expedici&amp;#243;n para estudiar sus innegables propiedades m&amp;#225;gicas. &lt;PCNAME&gt; lleg&amp;#243;{@g:/e} a esta isla siendo a&amp;#250;n un ni&amp;#241;o y creci&amp;#243; all&amp;#237;, ayudando en lo que fuera necesario.&lt;BR&gt;En este d&amp;#237;a en que los investigadores de la Federaci&amp;#243;n se disponen a realizar su experimento m&amp;#225;s ambicioso, todos deben arrimar el hombro y a &lt;PCNAME&gt; se le ha encomendado{@g:/e} recolectar corteza del &amp;#193;rbol del Pesar para Glennock.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;Tiaran alberga muchos secretos que a&amp;#250;n no hemos descubierto. &lt;BR&gt;&lt;BR&gt;Ven a buscarme a la madeja. &lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme a recolectar cortezas de ra&amp;#237;ces? &lt;BR&gt;Las tareas cotidianas no te asustan, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Como guardi&amp;#225;n de Tiaran, es mi deber analizar regularmente las ra&amp;#237;ces para comprobar c&amp;#243;mo se encuentra el &amp;#225;rbol.&lt;BR&gt;&lt;BR&gt;Glennock</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="2" villagerId="121">
+        <Page social="4" voiceTypeId="0">&amp;#161;M&amp;#237;rame eso, &lt;PCNAME&gt;!&lt;BR&gt;Ya no tienes ojos m&amp;#225;s que para Tiaran, &amp;#191;verdad?&lt;BR&gt;Es realmente dif&amp;#237;cil apartar la mirada de &amp;#233;l, pero no olvides que estamos aqu&amp;#237; por sus ra&amp;#237;ces.&lt;BR&gt;Ten siempre cuidado de no da&amp;#241;ar sus ra&amp;#237;ces cuando recojas su corteza.&lt;BR&gt;Pero haciendo esto todos los d&amp;#237;as, terminar&amp;#225;s por pillarle el truco.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="121">
+        <Page social="4" voiceTypeId="0">Oh, &amp;#191;ya has vuelto?&lt;BR&gt;&amp;#161;Esta vez tambi&amp;#233;n has sabido c&amp;#243;mo hacerlo!&lt;BR&gt;Es perfecto.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

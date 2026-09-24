@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">Fabricamos atuendos para participar en el esfuerzo de guerra. &amp;#161;Es perfecto para ti!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} te lo dir&amp;#225; todo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#161;Ey, ah&amp;#237; est&amp;#225; nuestro h&amp;#233;roe! Nos vas a ayudar a fabricar unos hermosos calcetines para nuestros camaradas soldados.&lt;BR&gt;&lt;BR&gt;Mis {@LinkCreature:71#3016#moutons} comenzaron su trashumancia hacia el refugio. &amp;#161;Ve a buscar uno o dos para que los esquilemos, pero t&amp;#243;mate tu tiempo para admirar el paisaje!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="604" villagerId="3">
+        <Page social="0">&amp;#161;Beeeee&amp;#233;! &amp;#161;B&amp;#233;&amp;#233;! &amp;#161;B&amp;#233;&amp;#233;-&amp;#233;&amp;#233;&amp;#233;&amp;#233;&amp;#233;&amp;#233;&amp;#233;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="3">
+        <Page social="0">&amp;#161;B&amp;#233;&amp;#233;-&amp;#233;&amp;#233;&amp;#233;&amp;#233;&amp;#233;&amp;#233;! &amp;#161;B&amp;#233;&amp;#233;! &amp;#161;B&amp;#233;&amp;#233;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Hermosa vista, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Por lo dem&amp;#225;s, t&amp;#250; mismo pareces {@gender:apais&amp;#233;/apais&amp;#233;e}. &amp;#161;Despu&amp;#233;s de todo lo que has logrado, te mereces tomar un respiro!</Page>
+    </Text>
+</QuestDialog>

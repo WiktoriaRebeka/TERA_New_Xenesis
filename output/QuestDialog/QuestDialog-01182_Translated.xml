@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Una vez revelada la identidad del traidor de Valkyon, Seir te pidi&amp;#243; que tomaras parte en la guerra argona. &lt;BR&gt;&lt;BR&gt;En el &amp;#250;ltimo momento, un mensajero del cuartel general apareci&amp;#243; para informarte de la derrota de los argons y de la reconquista de la {@Rgn:47001$$For&amp;#234;t de Tirkai}. Seir te pidi&amp;#243; que participaras en el esfuerzo de restauraci&amp;#243;n del bosque.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Orden de movilizaci&amp;#243;n]&lt;BR&gt;&lt;BR&gt;Deseo hablarte de la guerra argona que estremece desde hace demasiado tiempo. Por favor, regresa a Velika.&lt;BR&gt;Te he indicado el punto de encuentro en el mapa.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Has representado perfectamente a {@Rgn:63001$$Velika} y has ayudado a apartar a Samael. Te lo agradezco. Pero a&amp;#250;n no hemos visto el final de nuestros problemas.&lt;NEXTPAGEBUTTON&gt;"¿Qué ha pasado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Los argons nos causan muchos problemas. Como sabes, para hacerles frente se fund&amp;#243; la Valkyon Federation.&lt;BR&gt;Debes haber o&amp;#237;do hablar de ello durante tu primera estancia aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Y ahora los argons tambi&amp;#233;n amenazan Tiarania. Soy consciente de que tu estatus como miembro de Island of Dawn es falso. Pero no habr&amp;#225;s perdido la memoria encima, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;En fin, vayamos al grano.&lt;BR&gt;La lucha se alarga. Por suerte, ya hemos podido superar numerosos obst&amp;#225;culos. La ciudad de {@Rgn:84001$$Kaiator}, reconquistada tras la primera guerra argona, pudo defender el norte de Shara y repeler la ofensiva de los argons en otros continentes.&lt;NEXTPAGEBUTTON&gt;"Lo entiendo..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pero los argons ya merodean por la {@Rgn:47001$$For&amp;#234;t de Tirkai}, justo al lado de {@Rgn:84001$$Kaiator}. La situaci&amp;#243;n no es muy halag&amp;#252;e&amp;#241;a.&lt;BR&gt;&lt;BR&gt;Te necesitamos, uno de los h&amp;#233;roes de la Valkyon Federation.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Exacto. Vayamos al grano.&lt;BR&gt;La lucha se alarga demasiado. &lt;BR&gt;&lt;BR&gt;Por suerte, la federaci&amp;#243;n ya ha superado muchos obst&amp;#225;culos. La ciudad de {@Rgn:84001$$Kaiator}, reconquistada tras la primera guerra arg&amp;#243;n, ha podido defender el norte de Shara y repeler la ofensiva arg&amp;#243;n en otros continentes.&lt;NEXTPAGEBUTTON&gt;"Entiendo..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pero los argons ya merodean por la {@Rgn:47001$$For&amp;#234;t de Tirkai}, justo al lado de {@Rgn:84001$$Kaiator}. La situaci&amp;#243;n no es muy halag&amp;#252;e&amp;#241;a.&lt;BR&gt;&lt;BR&gt;Te necesitamos, uno de los h&amp;#233;roes de la Valkyon Federation.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="3" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Mjum, en ese caso, primero deber&amp;#237;amos hablar de tu papel en la guerra con el ayudante. T&amp;#250; tambi&amp;#233;n deber&amp;#237;as estar al tanto.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1315">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ja, ja! &amp;#161;Qu&amp;#233; buena noticia!&lt;BR&gt;El viento por fin ha soplado a nuestro favor en esta guerra.&lt;BR&gt;&lt;BR&gt;Por supuesto, los argones se han retirado, pero sus vestigios siguen por ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;Nuestros miembros de la federaci&amp;#243;n probablemente est&amp;#233;n demasiado d&amp;#233;biles para continuar el combate.&lt;NEXTPAGEBUTTON&gt;"Sí, es exacto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">En cuanto los argones abandonen un poco de terreno, debemos estar listos para lanzar la ofensiva.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a la {@Rgn:47001$$For&amp;#234;t de Tirkai} y ayuda en la reconstrucci&amp;#243;n de las localidades que los argones ocuparon y destruyeron, hasta que se te d&amp;#233; la orden de unirte al {@Rgn:48001$$Front de Khanovar}. &lt;BR&gt;&lt;BR&gt;Ve a encontrarte con {@linkcreature:247#2001$$Virgil} en el {@Rgn:77001$$Avant-poste du pionnier} y participa en el esfuerzo de reconstrucci&amp;#243;n.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Qu&amp;#233; alegr&amp;#237;a verte, &lt;PCNAME&gt;. Ya he o&amp;#237;do que desenmascaraste al traidor de Valkyon. Has hecho maravillas durante esta guerra. &lt;BR&gt;&lt;BR&gt;Pero vayamos al grano. &lt;BR&gt;&lt;BR&gt;Los argones se han retirado provisionalmente, pero la contaminaci&amp;#243;n es tan fuerte que apenas podemos combatir. No resistiremos un ataque frontal. &lt;BR&gt;&lt;BR&gt;Debemos apresurarnos a reparar los da&amp;#241;os causados por los argones. &lt;BR&gt;Ve a buscar a {@linkcreature:247#2002$$Yasring} para ello. Ella te contar&amp;#225; m&amp;#225;s.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="8" villagerId="2002">
+        <Page social="8" voiceTypeId="0">&lt;PCNAME&gt;... &lt;PCNAME&gt;... &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Ah, &amp;#161;as&amp;#237; que eres t&amp;#250;, &lt;PCNAME&gt;!&lt;BR&gt;Dicen que alguien del Valkyon Federation Headquarters estaba en contacto secreto con los argones... &amp;#161;Y apareces aqu&amp;#237; justo despu&amp;#233;s de que los argones se hayan retirado!&lt;BR&gt;Da que pensar si sab&amp;#237;an de tu llegada y se largaron a tiempo.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Es la mejor noticia en mucho tiempo! Me da un poco de verg&amp;#252;enza, pero tengo un favor que pedirte: &lt;BR&gt;&lt;BR&gt;estoy fabricando orbes para purificar el Bois malade. Puedo hacer algunos yo sola, pero si pretendemos purificar todo el bosque, necesitar&amp;#233; ayuda para fabricar m&amp;#225;s orbes de purificaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Necesito champi&amp;#241;ones contaminados por los argones y esencia de duendecillo. Con eso podr&amp;#233; empezar a producir una nueva tanda. &amp;#161;Tr&amp;#225;eme esos ingredientes!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" prevId="9" villagerId="2002">
+        <Page social="9" voiceTypeId="0">&amp;#161;Listo, ya hemos recuperado todos los materiales. Podr&amp;#233; fabricar un orbe de purificaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="10" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Toma este orbe y ve a purificar el Estanque del azote.&lt;BR&gt;&lt;BR&gt;Se trata de una fuente de agua potable indispensable para las hadas y todos los habitantes de la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Desde que los argones la corrompieron, el agua fresca escasea.&lt;NEXTPAGEBUTTON&gt;"¿No puedes encargarte tú misma?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Jaja... Hay muchas hadas esperando los orbes de purificaci&amp;#243;n. Debo quedarme aqu&amp;#237; a esperarlas. Perdona que te pida semejante favor.&lt;BR&gt;&lt;BR&gt;En fin. &amp;#161;Gracias por usar el orbe de purificaci&amp;#243;n y hablar luego con {@creature:247#2003$$Cheniel}! De hecho, el poder de las hadas tambi&amp;#233;n es necesario para purificar el bosque.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias de antemano!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" prevId="11" villagerId="2005">
+        <Page social="0" voiceTypeId="0">(Algo te parece extra&amp;#241;o en este cad&amp;#225;ver...)&lt;BR&gt;&lt;BR&gt;&amp;#191;Es posible que est&amp;#233; contaminando el lago? Un orbe te permitir&amp;#237;a salir de dudas.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="247" prevId="11" villagerId="2006">
+        <Page social="0" voiceTypeId="0">(Este cad&amp;#225;ver est&amp;#225; contaminado. Podr&amp;#237;a afectar al lago. Tal vez deber&amp;#237;as usar un orbe en &amp;#233;l.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="247" prevId="11" villagerId="2007">
+        <Page social="0" voiceTypeId="0">(Usas un orbe para eliminar la contaminaci&amp;#243;n arg&amp;#243;n de este cad&amp;#225;ver.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="247" prevId="12" villagerId="2003">
+        <Page social="8" voiceTypeId="0">&amp;#191;De verdad? &amp;#191;Has eliminado la causa de la contaminaci&amp;#243;n del lago? &amp;#161;Qu&amp;#233; buena noticia! Pero para sobrevivir, necesitamos la fuerza del &amp;#225;rbol de la vida. Este otorga a las hadas la fuerza necesaria para ayudar a restaurar el bosque.&lt;BR&gt;&lt;BR&gt;&amp;#161;Menos mal que {@creature:247#2002$$Yasring} te envi&amp;#243; aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;Gracias por ocuparte del &amp;#225;rbol de la vida. La contaminaci&amp;#243;n tiene consecuencias realmente devastadoras. La &lt;BR&gt;&lt;BR&gt;hada {@creature:247#2004$$Shemi} te explicar&amp;#225; c&amp;#243;mo encontrar el &amp;#225;rbol de la vida.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="247" prevId="15" villagerId="2004">
+        <Page social="8" voiceTypeId="0">Me llamo {@creature:247#2004$$Shemi}. &amp;#191;Qu&amp;#233;... qu&amp;#233; pasa? &amp;#191;A&amp;#250;n hay trabajo?&lt;BR&gt;&lt;BR&gt;&amp;#191;El &amp;#225;rbol de la vida? Ah, no tengo ninguna ganas... bueno, quiero decir, me he lesionado las alas. Esta ma&amp;#241;ana, te lo juro. Por eso no puedo hacer trayectos largos. Pero puedo darte algunas indicaciones para encontrarlo.&lt;BR&gt;El &amp;#225;rbol de la vida &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=arbre de vie&quot;&gt; se encuentra aqu&amp;#237;&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="247" prevId="16" villagerId="2003">
+        <Page social="8" voiceTypeId="0">&amp;#191;El orbe de purificaci&amp;#243;n ha surtido efecto en el &amp;#225;rbol de la vida? &lt;BR&gt;&lt;BR&gt;Gracias. Entonces no todo est&amp;#225; perdido. Gracias a ti, las hadas podr&amp;#225;n contribuir a la restauraci&amp;#243;n de la {@Rgn:47001$$For&amp;#234;t de Tirkai}. &amp;#161;Muchas gracias!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">&amp;#161;Malditos wendigos! Hab&amp;#237;a encargado unos cuantos barriles de vino plateado de Allemantheia, el capricho favorito de los soldados... y te aseguro que me cost&amp;#243; lo suyo conseguirlo. Pero anoche vinieron unos wendigos a saquear nuestras reservas. &amp;#191;Y adivina qu&amp;#233; se llevaron?&lt;BR&gt;&lt;BR&gt;Este vino es para mis hombres y ni hablar de que se queden sin disfrutarlo.&lt;BR&gt;&lt;BR&gt;Recuper&amp;#225;melo en el Aullido del Wendigo. Te recompensar&amp;#233; como es debido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;Supongo que has recuperado todo lo que has podido. Los wendigos debieron de beberse el resto.&lt;BR&gt;&lt;BR&gt;Sea como sea, gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">Encu&amp;#233;ntrame esos barriles de vino. Y si tienes que matar a unos cuantos wendigos por el camino, &amp;#161;tanto mejor!</Page>
+    </Text>
+</QuestDialog>

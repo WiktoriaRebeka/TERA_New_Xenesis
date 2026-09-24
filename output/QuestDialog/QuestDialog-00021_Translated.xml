@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="4">En tiempos de paz, condenar&amp;#237;amos este puente y construir&amp;#237;a uno nuevo. Este tipo de chapuza va a terminar en un ahogamiento, si sabes a lo que me refiero.&lt;BR&gt;&lt;BR&gt;Pero intenta explicarle eso a mis jefes. Por cierto, hablando de eso...&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:2#1#bonnets-rouges} robaron material que necesitaba para reforzar la estructura del puente... y probablemente lo hayan da&amp;#241;ado. &amp;#191;Podr&amp;#237;as recuperar las &lt;b&gt;pi&amp;#232;ces du pont&lt;/b&gt; antes de llev&amp;#225;rselas a Niklas, el capataz del campamento de Fey Forest? Sabr&amp;#225; qu&amp;#233; hacer, y prefiero evitar hablar con Balter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1010">
+        <Page social="4">&amp;#191;C&amp;#243;mo se las ingeniaron los Redcaps para robar eso? &amp;#191;Estaba Siravon otra vez so&amp;#241;ando despierto en lugar de vigilar su equipo?&lt;BR&gt;&lt;BR&gt;Bueno, a pregunta ret&amp;#243;rica, respuesta ret&amp;#243;rica: Siravon es un completo in&amp;#250;til.&lt;BR&gt;&lt;BR&gt;En fin, supongo que tendr&amp;#233; que arreglar todo esto. Por cierto, &amp;#191;te he dicho todo lo que pienso de Siravon?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1010">
+        <Page social="0">&amp;#161;Los {@LinkCreature:2#1#bonnets-rouges} y sus amigas las hadas est&amp;#225;n fuera de control! Tal como van las cosas, &amp;#161;este puente no se reparar&amp;#225; jam&amp;#225;s!</Page>
+    </Text>
+</QuestDialog>

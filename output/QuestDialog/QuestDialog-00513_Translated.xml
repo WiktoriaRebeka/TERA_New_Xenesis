@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="4">M&amp;#237;rame bien y disfruta de la vista. Est&amp;#225;s parado ante la persona m&amp;#225;s influyente de la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Bueno... &amp;#161;lo ser&amp;#233; en cuanto llegue mi mercanc&amp;#237;a! &amp;#161;Ese maldito carruaje lleva tres d&amp;#237;as de retraso! Y por supuesto, si salgo a buscarlo, llegar&amp;#225; aqu&amp;#237; en cuanto le d&amp;#233; la espalda. Siempre es igual.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a ver qu&amp;#233; pasa? Te pagar&amp;#233;, no temas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1029">
+        <Page social="0">(Este carro est&amp;#225; destruido. Provision de todo tipo yparcen el suelo. Todo lo que ten&amp;#237;a valor ha desaparecido.&lt;BR&gt;&lt;BR&gt;El convoy debi&amp;#243; ser atacado por los {@LinkCreature:18#3#enrag&amp;#233;s}. Deben de tener las provisiones que faltan.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1028">
+        <Page social="4">&amp;#161;Oh, no! Una fortuna as&amp;#237; tragada por la arena...&lt;BR&gt;&lt;BR&gt;En fin... gracias por lo que pudiste traerme.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1028">
+        <Page social="0">&amp;#161;Mant&amp;#233;n los ojos abiertos con esos {@LinkCreature:18#2#chamanes} y {@LinkCreature:18#3#enrag&amp;#233;s} del desierto de fuego!</Page>
+    </Text>
+</QuestDialog>

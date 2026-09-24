@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">La atm&amp;#243;sfera del pueblo cambi&amp;#243; radicalmente en el momento en que surgieron las criaturas desconocidas.&lt;BR&gt;Cuando recuperaste el conocimiento, los dem&amp;#225;s guardianes estaban enfrascados en una lucha sin cuartel contra los monstruos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mientras &lt;PCNAME&gt; ayudaba a Anya a rociar savia sobre el &amp;#225;rbol de Tiaran, unas criaturas desconocidas atacaron el pueblo. Aunque nadie sabe c&amp;#243;mo han llegado hasta all&amp;#237;, parece indiscutible que eran argons. Derrotaste a los argons con la ayuda de los dem&amp;#225;s guardianes. Pero, cuando ya te cre&amp;#237;as a salvo, un gigantesco Argon Predator surgi&amp;#243; de repente.&lt;BR&gt;&lt;BR&gt;Te dej&amp;#243; inconsciente de un solo golpe. Antes de perder el conocimiento definitivamente, pudiste vislumbrar a un hombre sospechoso en medio de los argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="828" prevId="1" villagerId="101">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&amp;#161;&amp;#161;el pueblo est&amp;#225; totalmente destruido!!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los dem&amp;#225;s guardianes tambi&amp;#233;n est&amp;#225;n en plena batalla! &amp;#161;Te lo ruego, &amp;#233;chanos una mano!&lt;NEXTPAGEBUTTON&gt;"De acuerdo. Cuida de los niños entonces."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Por supuesto.&lt;BR&gt;Me llevar&amp;#233; a los ni&amp;#241;os a un lugar seguro.&lt;NEXTPAGEBUTTON&gt;"Prefiero eso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="828" prevId="3" villagerId="102">
+        <Page social="4" voiceTypeId="0">Uf, el orden parece haber vuelto.&lt;BR&gt;Nunca antes hab&amp;#237;a visto a estos enemigos.&lt;BR&gt;Los da&amp;#241;os son considerables.&lt;BR&gt;&lt;BR&gt;Pero... &amp;#191;y los ni&amp;#241;os?&lt;BR&gt;&amp;#191;D&amp;#243;nde est&amp;#225;n los ni&amp;#241;os?&lt;NEXTPAGEBUTTON&gt;"Están a salvo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Ir&amp;#233; a ver si los ni&amp;#241;os y los aldeanos est&amp;#225;n bien!&lt;BR&gt;&amp;#161;Los guardianes deber&amp;#237;an dispersarse y buscar a los aldeanos desaparecidos!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="132">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;&amp;nbsp;&amp;#161;Por fin lograste salir sano{@g:/e} y salvo{@gender:f/ve} de tu enfrentamiento con esa cosa!&lt;BR&gt;&lt;BR&gt;No te imaginas lo aliviado que estoy. &amp;#161;Has demostrado un gran valor!&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó? ¿Quién era ese hombre?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A&amp;#250;n logr&amp;#233; apartar a los ni&amp;#241;os y esconderme.&lt;BR&gt;Cuando la calma volvi&amp;#243;, sal&amp;#237; y vi que una gran cantidad de guardianes, investigadores y aldeanos hab&amp;#237;an perecido.&lt;BR&gt;&lt;BR&gt;Y ahora los ni&amp;#241;os han desaparecido... los ni&amp;#241;os... no hemos encontrado ni sus cad&amp;#225;veres ni el menor rastro.&lt;BR&gt;&lt;BR&gt;Y Anya...&lt;NEXTPAGEBUTTON&gt;"¿Anya está bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Anya ha... desaparecido tambi&amp;#233;n.&lt;BR&gt;Sin embargo, estaba justo ah&amp;#237;, cantando.&lt;BR&gt;&lt;BR&gt;Deb&amp;#237; haberme distanciado un momento. Y de repente ya no estaba.&lt;BR&gt;&lt;BR&gt;&amp;#201;mun y los dem&amp;#225;s guardianes se pusieron en marcha de inmediato para buscar a Anya, pero no hemos vuelto a saber nada de ellos.&lt;NEXTPAGEBUTTON&gt;"Me pongo en marcha de inmediato."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

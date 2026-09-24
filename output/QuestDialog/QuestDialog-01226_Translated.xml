@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="4">Para intentar asegurar las rutas de suministro y mover tropas sin la interferencia de los argon, contratamos a ingenieros castanics para cavar un t&amp;#250;nel hasta Granarkus.&lt;BR&gt;&lt;BR&gt;Te teletransportar&amp;#233; con {@LinkCreature:249#1015} cuando quieras partir. Entr&amp;#233;gale estas &amp;#243;rdenes y ay&amp;#250;dale en lo que puedas. Volvamos al combate.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1015">
+        <Page social="4">Acabamos de destruir las &amp;#250;ltimas rocas hace unas horas.&lt;BR&gt;&lt;BR&gt;Los argon han complicado el suministro regular y las misiones de rescate, especialmente en Kanstria.&lt;NEXTPAGEBUTTON&gt;"¿Es una ciudad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Kanstria? S&amp;#237;. Muchos castanics est&amp;#225;n instalados all&amp;#237;. Le escuch&amp;#233; a un Elin llamarla &quot;La peque&amp;#241;a Castanica&quot;.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, los argon interrumpieron la plataforma de vuelo y est&amp;#225;n atrapados all&amp;#237;. Me gustar&amp;#237;a que lleves esta piedra de vuelo a su responsable de vuelo. Eso les permitir&amp;#225; volver a partir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1006">
+        <Page social="6">&amp;#161;Oh, una nueva piedra de vuelo! &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;Vamos a poder reanudar nuestros vuelos hacia Kaiator o la Forteresse de Zulfikar. Te lo agradezco.</Page>
+    </Text>
+</QuestDialog>

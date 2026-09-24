@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="1">El poderoso hechicero Oshar lleva a cabo sus propios experimentos, por supuesto. No pretendo entenderlos... todav&amp;#237;a.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que siempre agradece un cargamento de polvo de alas de tentacullar ardiente.&lt;BR&gt;&lt;BR&gt;Por supuesto, no est&amp;#225;n dispuestos a ceder sus alas por voluntad propia. Espera... &amp;#161;tengo una idea!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1028">
+        <Page social="1">&amp;#191;Tienes el polvo de alas?&lt;BR&gt;&lt;BR&gt;Oshar y yo te recompensaremos generosamente el d&amp;#237;a del juicio, cuando nuestra escuela de hechicer&amp;#237;a se convierta en... &amp;#191;qu&amp;#233;? &amp;#191;Prefieres una recompensa m&amp;#225;s inmediata? Por supuesto.&lt;BR&gt;&lt;BR&gt;Lo siento. Me he dejado llevar un poco.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1028">
+        <Page social="0">El gran hechicero Oshar dice que el polvo de alas es la fuente del poder de los tentacullars. &amp;#161;Ve a buscar un poco!</Page>
+    </Text>
+</QuestDialog>

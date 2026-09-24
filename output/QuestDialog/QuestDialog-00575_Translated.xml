@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">Estamos aqu&amp;#237; para asegurarnos de que los no-muertos permanezcan en su lugar. Lo que, para m&amp;#237;, significa que deben estar muertos, o al menos que no deben abandonar su caverna.&lt;BR&gt;&lt;BR&gt;Si puedes librarnos de los {@LinkCreature:20#30114002#pr&amp;#233;fets ossugons}, creo que los dem&amp;#225;s deber&amp;#237;an portarse bien por un tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh! &amp;#161;Y no olvides sus cr&amp;#225;neos! &amp;#161;No pueden resucitar sin ellos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1027">
+        <Page social="4">&amp;#161;Excelente! &amp;#161;Cuando est&amp;#225;n en pedazos as&amp;#237;, todo peligro queda descartado!&lt;BR&gt;&lt;BR&gt;Espero que el resto se porte bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1027">
+        <Page social="0">&amp;#191;Tienes ganas de verlos pasearse en libertad fuera de esta caverna?</Page>
+    </Text>
+</QuestDialog>

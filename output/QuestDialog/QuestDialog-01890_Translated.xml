@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">&amp;#191;Sabes qu&amp;#233; me enoja? &amp;#161;La gente que habla del &quot;arte de la alquimia&quot;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Es una ciencia!&lt;BR&gt;&lt;BR&gt;Por ejemplo, mis rigurosas investigaciones validadas por mis colegas me permiten afirmar que podr&amp;#237;as ir al Labyrinthe d'Or a buscar cristales de sangre: el sufrimiento petrificado de las numerosas v&amp;#237;ctimas del laberinto.&lt;NEXTPAGEBUTTON&gt;"¿Eso es científico?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">&amp;#161;Absolutamente! &amp;#161;Podr&amp;#237;a detallarte la metodolog&amp;#237;a si tuvi&amp;#233;ramos tiempo!&lt;BR&gt;&lt;BR&gt;La ciencia tambi&amp;#233;n implica sacrificios. Como el de esos pobres infelices muertos en el Labyrinthe d'Or para que existan los cristales de sangre que vas a recoger.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; cient&amp;#237;ficamente comprobado.&lt;NEXTPAGEBUTTON&gt;"¿Qué poderes tienen estos cristales de sangre?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;No lo sabemos... por ahora! &amp;#161;Debemos profundizar nuestras investigaciones!&lt;BR&gt;&lt;BR&gt;Pero la esencia destilada del sufrimiento agonizante solo puede ser fascinante, &amp;#191;no es as&amp;#237;?&lt;BR&gt;&lt;BR&gt;As&amp;#237; que ve a buscar esos cristales. &amp;#161;La ciencia lo exige!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Cristales de sangre... &amp;#161;Maravilloso! &amp;#161;Ya siento el sufrimiento!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Un poco de sufrimiento no te asusta, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

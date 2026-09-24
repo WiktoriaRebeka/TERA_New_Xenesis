@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1034">
+        <Page social="0">Hasta los unicornios parecen haber sido corrompidos por el viento de locura que sopla en Fey Forest. S&amp;#233; que Lillix logr&amp;#243; ayudar a Seravy, pero los dem&amp;#225;s unicornios son demasiado fr&amp;#225;giles para sobrevivir a este tipo de pruebas.&lt;BR&gt;&lt;BR&gt;Tu mirada te delata, &lt;PCCLASS:lcase&gt;. &amp;#191;Crees que nos rebajar&amp;#237;amos a matar a los {@LinkCreature:2#6#licornes sombres} y otros {@LinkCreature:2#56#licornes sauvages} por placer? &amp;#161;Es una tragedia! Lo peor que podemos hacer... es dejarlos con vida.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="4">El esp&amp;#237;ritu de un unicornio es demasiado puro, demasiado fr&amp;#225;gil para resistir tal corrupci&amp;#243;n. Sin embargo, se dice que una parte del esp&amp;#237;ritu de un unicornio permanece para siempre atrapada en su cuerno.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n sabe? &amp;#161;Quiz&amp;#225;s al final encontremos una manera de liberar los esp&amp;#237;ritus de estos cuernos para permitirles galopar libremente por el bosque otra vez!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1034">
+        <Page social="0">Tr&amp;#225;eme cuernos de unicornio, &lt;PCNAME&gt;... una vez que hayas hecho lo necesario para abreviar su sufrimiento.</Page>
+    </Text>
+</QuestDialog>

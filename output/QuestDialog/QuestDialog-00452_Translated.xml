@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="5">&amp;#161;Es una conspiraci&amp;#243;n, me oyes?! &amp;#161;Una conspiraci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si ellos son los autores, pero lo seguro es que alimentan la m&amp;#225;quina...&lt;BR&gt;&lt;BR&gt;&amp;#161;Y... en el sentido literal de la palabra!&lt;NEXTPAGEBUTTON&gt;&lt;B&gt;"Eh..."&lt;/B&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Los {@LinkCreature:15#1#gardes royaux fous} y los {@LinkCreature:15#2#fermiers d&amp;#233;ments} del Culte de Paraanon alimentan a los chiflados. Est&amp;#233;n locos o no, nadie sobrevive sin comer.&lt;BR&gt;&lt;BR&gt;Mata a los granjeros... basta de charla, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;A trabajar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1009">
+        <Page social="5">Excelente.&lt;BR&gt;&lt;BR&gt;Voy a inspeccionar nuestra comida. Debemos vigilar su pureza para conservar la nuestra...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1009">
+        <Page social="0">Es un asunto de vida o muerte, &lt;PCNAME&gt;. &amp;#161;Estos granjeros contribuyen a la propagaci&amp;#243;n del mal!</Page>
+    </Text>
+</QuestDialog>

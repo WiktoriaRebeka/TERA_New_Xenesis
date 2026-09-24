@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">&amp;#191;T&amp;#250; tambi&amp;#233;n vienes a pedirme que le d&amp;#233; una oportunidad a Khasib? Porque ya me estoy cansando.&lt;BR&gt;&lt;BR&gt;M&amp;#225;s bien deber&amp;#237;amos hablar sobre las medidas a tomar respecto a las fuerzas de inteligencia rebeldes. Estos hombres est&amp;#225;n cortos de provisiones, de efectivos, y les hemos quitado a su comandante.&lt;BR&gt;&lt;BR&gt;Es el momento ideal para dar un gran golpe.&lt;NEXTPAGEBUTTON&gt;"¿Cuál es tu plan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Los elementos m&amp;#225;s importantes de las fuerzas de inteligencia son los {@LinkCreature:32#13#arcanistes sihrans} y sus {@LinkCreature:32#14#grenouilleurs tuwangis}. El simple hecho de eliminarlos salvar&amp;#225; a muchos de nuestros soldados, pero podr&amp;#237;as encontrar en ellos documentos que tambi&amp;#233;n nos ser&amp;#237;an muy &amp;#250;tiles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Incre&amp;#237;ble! Si Khasib tanto quiere impresionarme, &amp;#161;deber&amp;#237;a hacer algo &amp;#250;til y valiente! &amp;#161;Algo as&amp;#237;!&lt;BR&gt;&lt;BR&gt;Tampoco digo que sea una mala persona. Es solo que... tengo otras cosas en la cabeza por ahora.&lt;BR&gt;&lt;BR&gt;&amp;#161;Bah! Basta de hablar de Khasib. Aqu&amp;#237; tienes tu recompensa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">&amp;#191;No te dije que los {@LinkCreature:32#14#grenouilleurs tuwangis} estaban en la Vigilia Insensible?</Page>
+    </Text>
+</QuestDialog>

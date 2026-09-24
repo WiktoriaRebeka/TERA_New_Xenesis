@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2002" prevId="0" villagerId="130">
+        <Page social="5">Puedo conseguir la cicuta de Viridian yo mismo, pero necesito ayuda con las colas de bestia, el ingrediente principal del remedio.&lt;BR&gt;&lt;BR&gt;Te estar&amp;#237;a muy agradecido si quisieras ayudarme.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="5">Sin duda es suficiente. &amp;#161;Gracias, &lt;PCNAME&gt;! Examinar&amp;#233; el refugio de los Riverans con m&amp;#225;s detalle.&lt;BR&gt;&lt;BR&gt;Salva a Elion y al aldeano.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" villagerId="130">
+        <Page social="0">Esto no es suficiente. Tr&amp;#225;eme un poco m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

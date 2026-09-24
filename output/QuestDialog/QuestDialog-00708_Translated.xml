@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">Todos los cultistas son una molestia a su manera, pero los peores del grupo son los {@LinkCreature:25#1051#piquiers squelettiques}. Incluso cuando los desmembramos, sus restos contin&amp;#250;an combatiendo como pueden. S&amp;#233; que los muertos no sienten dolor, pero mirar estos cuerpos mutilados retorci&amp;#233;ndose as&amp;#237; es una visi&amp;#243;n... de pesadilla. Los Atel Akaad los han dotado de n&amp;#250;cleos de frenes&amp;#237;. Esa es la raz&amp;#243;n de su resistencia.&lt;BR&gt;&lt;BR&gt;Recupera estos n&amp;#250;cleos y ve a entreg&amp;#225;rselos a Orlaith en el Fortin de la Cath&amp;#233;drale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">&amp;#161;Gracias! Espero que podamos aprovechar esta oportunidad para eliminarlos a todos. Dicho esto, estamos en inferioridad num&amp;#233;rica y no veo c&amp;#243;mo hacerlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1015">
+        <Page social="0">Si queremos lograr eliminar a estos lanceros esquel&amp;#233;ticos, vas a tener que encontrarme otros n&amp;#250;cleos de frenes&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

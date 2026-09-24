@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&amp;#211;rdenes de misi&amp;#243;n:&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Elimina a todos los enemigos de la Caverna de la Hambre y de la Caverna del Masacre, y recupera pruebas de sus actos de canibalismo.&lt;BR&gt;&lt;BR&gt;Los can&amp;#237;bales en cuesti&amp;#243;n son presumiblemente los {@LinkCreature:8#3011#mutilateurs gulas}, los {@LinkCreature:8#3022#farfadets auriques esclavagistes}, los {@LinkCreature:8#3031#ravageurs gulas}, los {@LinkCreature:8#3041#surveillants gulas}, los {@LinkCreature:8#3042#bandits kobolds} y los {@LinkCreature:8#3051#re&amp;#238;tres kobolds}.&lt;BR&gt;&lt;BR&gt;Una vez que la misi&amp;#243;n haya concluido, ve a presentar tu informe a Rameria, en Castanica.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

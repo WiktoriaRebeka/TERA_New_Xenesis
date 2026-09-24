@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="4">Su Federaci&amp;#243;n nos rog&amp;#243; que nos uni&amp;#233;ramos, &amp;#191;y a d&amp;#243;nde nos ha llevado? &amp;#161;A una invasi&amp;#243;n de kobolds y perforatripas!&lt;BR&gt;&lt;BR&gt; Si quieren convencerme de que no nos enga&amp;#241;aron, comiencen por matar a todos los kobolds{@LinkCreature:24#1#rapineurs}, {@LinkCreature:24#2#abrutis} y {@LinkCreature:24#3#chasseurs de t&amp;#234;tes} de los Vientos de Arena que desembarcaron aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1009">
+        <Page social="4">&amp;#161;Pjuf...&amp;nbsp;! Esos malditos kobolds volver&amp;#225;n, pero esto es un comienzo. Al menos, cumpliste con tu palabra.</Page>
+    </Text>
+</QuestDialog>

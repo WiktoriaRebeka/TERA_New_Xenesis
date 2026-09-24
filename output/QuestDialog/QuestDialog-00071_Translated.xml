@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">Otros necesitan tu ayuda, y r&amp;#225;pido. Unos mercaderes est&amp;#225;n atrapados en Piste sanglante. Parte de sus carretas fue robada y otra destrozada, pero si alguien se ofreciera como voluntario para escoltarlos, a&amp;#250;n podr&amp;#237;an llevar lo que les queda de su mercanc&amp;#237;a a Crescentia.&lt;BR&gt;&lt;BR&gt;Para nosotros, cualquier suministro, por m&amp;#237;nimo que sea, es bien recibido. &amp;#161;Ve a buscar a {@LinkCreature:203#1028#colporteur} que est&amp;#225; al este de aqu&amp;#237;! Date prisa, &amp;#161;debe llegar aqu&amp;#237; con vida a toda costa!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3" villagerId="25">
+        <Page social="0">Tengo alimentos b&amp;#225;sicos y algunos remedios, pero si me muevo de aqu&amp;#237;, los devans me har&amp;#225;n picadillo. &amp;#191;Podr&amp;#237;as escoltarme hasta Crescentia?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4">Genial. Puede parecer poca cosa, pero estos pocos productos de consumo son s&amp;#237;mbolos de esperanza. Y llev&amp;#225;bamos tiempo esperando esto.&lt;BR&gt;&lt;BR&gt;Ve a hablar con el Magistrat Corann. Seguro que quiere agradecerte en persona.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&amp;#191;Eres &lt;PCNAME&gt;? El tribuno me habl&amp;#243; muy bien de ti. Te agradezco que hayas escoltado a este mercader. Es una peque&amp;#241;a victoria, &amp;#161;pero de lo m&amp;#225;s reconfortante!&lt;BR&gt;&lt;BR&gt;Crescentia atraviesa un periodo de crisis grave, pero s&amp;#233; que al final saldremos adelante. Muchas gracias.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="5">Esos piratas de Red Whip... se toman a Silva a la ligera. Si le dejaron Cutthroat Harbor a Silva, &amp;#191;por qu&amp;#233; siguen intentando meterse en sus asuntos? Por aqu&amp;#237;, cuando los problemas no se pueden arreglar hablando, se arreglan con sangre; as&amp;#237; es como funciona.&lt;BR&gt;&lt;BR&gt;En la Costa Desgarrada encontrar&amp;#225;s {@LinkCreature:12#22#hommes de main du Fouet rouge}. M&amp;#225;talos y arr&amp;#225;ncales los ojos. Ser&amp;#225; una buena advertencia. &amp;#161;Ah! Y ll&amp;#233;vale los ojos a {@LinkCreature:212#1002$$Sidara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">&amp;#191;Son estas... las insignias de Dirken? Bueno, s&amp;#237;, es una forma como cualquier otra de imponer su dominio.&lt;BR&gt;&lt;BR&gt;En fin, buen trabajo de todos modos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">&amp;#191;Qu&amp;#233; est&amp;#225;s haciendo? &amp;#161;Ve a ocuparte de esos piratas!</Page>
+    </Text>
+</QuestDialog>

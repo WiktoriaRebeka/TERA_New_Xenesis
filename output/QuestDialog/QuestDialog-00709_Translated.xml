@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">La victoria est&amp;#225; al alcance de la mano, pero el enemigo nos bloquea el paso. Estamos atrapados aqu&amp;#237;, y los {@LinkCreature:25#1011#ravageurs devans} nos est&amp;#225;n eliminando uno por uno.&lt;BR&gt;&lt;BR&gt;Ay&amp;#250;danos yendo a matar a los que logres atrapar. No deber&amp;#237;a tomarte mucho tiempo. Despu&amp;#233;s de eso, podr&amp;#225;s unirte al grupo de Elion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1008">
+        <Page social="4">&amp;#161;Buen trabajo! Sus exploradores van a tener que retirarse... ahora saben con qui&amp;#233;n est&amp;#225;n lidiando. &amp;#161;Vamos a poder unirnos al equipo de Elion en la catedral!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1008">
+        <Page social="0">Si no logras eliminar a los {@LinkCreature:25#1011#ravageurs devans}, no podremos reanudar nuestra marcha.</Page>
+    </Text>
+</QuestDialog>

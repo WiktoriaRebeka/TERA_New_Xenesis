@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; dej&amp;#243; a Zolyn y Paesyn y se puso{@g:/e} en marcha para descifrar el misterio en torno al control de la Muralla de las Tormentas. {@gender:Il/Elle} descubri&amp;#243; una cueva oculta.&lt;BR&gt;&lt;BR&gt;Dentro de esta cueva hab&amp;#237;a una puerta desconocida custodiada por el ej&amp;#233;rcito imperial archidevano.&lt;BR&gt;&lt;BR&gt;Tras derrotar a los guardias, &lt;PCNAME&gt; descubri&amp;#243; que la puerta estaba conectada a la Energia Celo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Es un lugar f&amp;#233;tido y lamentable. Esto no augura nada bueno.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="818" prevId="2" villagerId="1112">
+        <Page social="4" voiceTypeId="0">Te vi deshacerte de esos Archidevans all&amp;#225; atr&amp;#225;s, &lt;PCNAME&gt;. Lamento no haber podido ayudarte, &amp;#161;pero pensaba ir a buscar ayuda si era necesario!&lt;BR&gt;&lt;BR&gt;Zolyn viene en camino.&lt;NEXTPAGEBUTTON&gt;"Perfecto. Cuando llegue, dile que me adelanté."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

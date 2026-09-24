@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="0">&lt;PCNAME&gt; sobrevol&amp;#243; Arx Umbra y atac&amp;#243; el puesto de avanzada parthe alpha. Despu&amp;#233;s de la batalla, la verdad sobre la esclavizaci&amp;#243;n de los parthes por los Archidevans sali&amp;#243; a la luz.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="4">&amp;#161;Al fin! Al fin algo en lo que soy bueno. Puedo pilotar la aeronave y t&amp;#250; puedes saltar de ella.&lt;NEXTPAGEBUTTON&gt;"¿Saltar de qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No te preocupes. Volar&amp;#233; lo suficientemente bajo para que la ca&amp;#237;da no sea demasiado dolorosa.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos! &amp;#161;Debemos llegar a Zolyn sin importar el dolor!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2136">
+        <Page social="4">Cuando est&amp;#233;s en medio de las formaciones enemigas, d&amp;#233;jate caer.&lt;BR&gt;&lt;BR&gt;&amp;#161;Que Kaia te conceda la victoria!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2137">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;, ven aqu&amp;#237;, r&amp;#225;pido!&lt;BR&gt;&lt;BR&gt;&amp;#161;Todav&amp;#237;a est&amp;#225; vivo e intenta decirnos algo!&lt;BR&gt;&amp;#191;Gordo? &amp;#191;Qui&amp;#233;n es gordo? &amp;#161;Ah! &amp;#161;Rhodos! &amp;#161;Est&amp;#225; buscando a Rhodos!&lt;NEXTPAGEBUTTON&gt;"Voy a hablar con él."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2202">
+        <Page social="4">Mente... l&amp;#250;cida. Dile a Rhodos...&lt;BR&gt;&lt;BR&gt;No somos sirvientes de los archidevans, somos sus esclavos.&lt;NEXTPAGEBUTTON&gt;"¿Cómo es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Su magia... retorci&amp;#243; nuestras mentes. Nos ha ligado a ellos.&lt;BR&gt;&lt;BR&gt;Dile a Rhodos que nos libere... y que me vengue.&lt;NEXTPAGEBUTTON&gt;"Descansa en paz."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">&amp;#161;Has combatido admirablemente, &lt;PCNAME&gt;! &amp;#161;Y has salido con bien!{@g:/e}&lt;NEXTPAGEBUTTON&gt;"Me pidieron que te entregara esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Es la daga de Jitt!&lt;BR&gt;&amp;#191;D&amp;#243;nde la encontraste? &amp;#191;D&amp;#243;nde est&amp;#225; &amp;#233;l?</Page>
+    </Text>
+</QuestDialog>

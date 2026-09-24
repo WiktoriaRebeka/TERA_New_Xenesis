@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="0">Conociste a Charise, la instructora de magia, y Lilni te introdujo en los secretos de la recolecci&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="4">Ahora dispones de toda la informaci&amp;#243;n necesaria para mantenerte fuerte{@g:/e} y eficaz. Pero es prudente perfeccionar tus habilidades lo antes posible.&lt;BR&gt;&lt;BR&gt; Por eso Charise, hija de Karas, es la pr&amp;#243;xima persona a la que deber&amp;#237;as ir a ver.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1008">
+        <Page social="4">Si deseas aprender una nueva habilidad m&amp;#225;gica, has venido{@g:/e} a ver a la instructora correcta. Aquellos que se interesan m&amp;#225;s por el manejo de armas cuerpo a cuerpo o a distancia hacen bien en tomar a Gurney como mentor.&lt;NEXTPAGEBUTTON&gt;"¿Con quién debería hablar después?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lilni, hija de Karas, inicia a los reclutas de tu tipo en los secretos de la recolecci&amp;#243;n. Ve a verla ahora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1048">
+        <Page social="4">Las riquezas de la naturaleza te rodean por todas partes. &amp;#161;Los minerales, las plantas y las formas de energ&amp;#237;a son &lt;font color='#660000'&gt;materiales&lt;/font&gt; que puedes recolectar antes de usarlos en la artesan&amp;#237;a!&lt;BR&gt;&lt;BR&gt;Un conocimiento muy &amp;#250;til, dado que los objetos de artesan&amp;#237;a suelen ser de calidad superior.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y se pueden encontrar materiales en casi cualquier parte! &amp;#191;Ves de qu&amp;#233; hablo?&lt;NEXTPAGEBUTTON&gt;&quot;&amp;#191;Se supone que debo ver qu&amp;#233;?&quot;{@g:/e}&lt;NEXTPAGEBUTTON&gt;"Je suis censé{@g:/e} voir quoi ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Los objetos de recolecci&amp;#243;n se activan cuando pasas cerca de ellos. Aparece un c&amp;#237;rculo, parecido al que est&amp;#225; bajo mis pies. P&amp;#225;rate cerca del objeto en cuesti&amp;#243;n y presiona la &lt;b&gt;touche F&lt;/b&gt;. Si el intento falla, int&amp;#233;ntalo de nuevo.&lt;BR&gt;&lt;BR&gt;Haz la prueba t&amp;#250; mismo. Busca piedras rojas en los alrededores. Cuando encuentres una y la actives, presiona la &lt;font color='#660000'&gt;tecla [F]&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">&amp;#161;Buen trabajo! Si supieras la cantidad de personas que me traen cualquier piedra inservible que encuentran en el camino.&lt;BR&gt;&lt;BR&gt;Cuando formas parte de un &lt;font color='#660000'&gt;grupo&lt;/font&gt;, encuentras materiales con mayor facilidad y las recompensas se comparten.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tambi&amp;#233;n puedes aumentar tu &lt;font color='#660000'&gt;habilidad de recolecci&amp;#243;n&lt;/font&gt; practicando para mejorar tu rendimiento. La pr&amp;#225;ctica hace al maestro!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" villagerId="1048">
+        <Page social="0">&amp;#191;Ya probaste la recolecci&amp;#243;n por el ancho mundo? Si necesitas poner en pr&amp;#225;ctica lo que aprendiste, puedes ir hacia ese mont&amp;#243;n de piedra y presionar la tecla [F]. Y recuerda, no puedes recolectar durante el combate.</Page>
+    </Text>
+</QuestDialog>

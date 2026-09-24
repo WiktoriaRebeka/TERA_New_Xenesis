@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">Los piratas L&amp;#225;tigo Rojo se acercan demasiado, si quieres saber mi opini&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;De qu&amp;#233; sirve establecer un per&amp;#237;metro de seguridad si es para dejar que cualquier cosa se infiltre a su antojo?&lt;BR&gt;&lt;BR&gt;Ve y ens&amp;#233;&amp;#241;ales a los {@LinkCreature:11#4001#&amp;#233;craseurs} y a los {@LinkCreature:11#4002#fl&amp;#226;neurs} del L&amp;#225;tigo Rojo que est&amp;#225;n al suroeste de aqu&amp;#237; lo que cuesta acercarse a nuestra base. Dibuja una linda frontera con su sangre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Qu&amp;#233; descubrimiento! El c&amp;#243;digo es bastante simple... me tomar&amp;#225; un momento, seguro, pero no deber&amp;#237;a tener problemas para descifrarlo. &amp;#161;Gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1005">
+        <Page social="0">Ya ves, el chiste es saber establecer l&amp;#237;mites claros... y nunca dudar en recurrir a la violencia para hacerlos respetar.&lt;BR&gt;&lt;BR&gt;Para ser sincero, esto me recuerda un poco a mi infancia.</Page>
+    </Text>
+</QuestDialog>

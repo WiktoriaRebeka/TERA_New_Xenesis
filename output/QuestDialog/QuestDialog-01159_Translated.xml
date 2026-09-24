@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tamur no se ve muy bien. Deber&amp;#237;amos preguntarle qu&amp;#233; le pasa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">El Mysterium tambi&amp;#233;n emplea a algunos investigadores cerca de Las tres torres. Has hecho avanzar las investigaciones de Adeldur y has ayudado al grupo de reconocimiento que buscaba a personas desaparecidas en la regi&amp;#243;n.&lt;BR&gt;Has le&amp;#237;do el diario de un desaparecido que te entreg&amp;#243; Sleitak. En &amp;#233;l descubriste una lista que menciona a una persona que bien podr&amp;#237;a ser Yasring. Bajo la direcci&amp;#243;n de Greyden, el comandante del grupo de reconocimiento, continuaste las b&amp;#250;squedas cerca de {@Rgn:9012001$$Aiguilles des Trois tours}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="1" villagerId="5005">
+        <Page social="10" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;has o&amp;#237;do hablar de Las tres torres en la Fortaleza del Servicio? Los argones las erigieron tras conquistar el norte de Shara. La Federaci&amp;#243;n Valkyon considera estas torres como una l&amp;#237;nea de frente vital.&lt;BR&gt;&lt;BR&gt;Tras la resurrecci&amp;#243;n frustrada de Kelsaik, los argones de repente retrocedieron y los investigadores del Mysterium y la federaci&amp;#243;n lograron recuperar terreno.&lt;BR&gt;&lt;BR&gt;Pero al parecer, necesitan ayuda.&lt;NEXTPAGEBUTTON&gt;"¿Qué ha pasado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Es una carta del Mysterium.&lt;BR&gt;Quieren que vayas a Las tres torres.&lt;BR&gt;L&amp;#233;ela t&amp;#250; mismo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="10" voiceTypeId="0">El t&amp;#233;cnico que huy&amp;#243; del horno divino todav&amp;#237;a no se ha despertado.&lt;BR&gt;&lt;BR&gt;No importa, si queremos ganar la guerra argona, debemos saber m&amp;#225;s sobre los argones.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ve a Las tres torres y habla con Adeldur.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="4" villagerId="2001">
+        <Page social="10" voiceTypeId="0">&amp;#161;As&amp;#237; que eres t&amp;#250;, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Debemos aprovechar la oportunidad y centrarnos inmediatamente en la investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Te hice llamar porque tienes la confianza de la Mystic Yasring.&lt;BR&gt;&lt;BR&gt;Los argones que vigilan este lugar sin duda han reducido sus defensas, pero la torre en s&amp;#237; tambi&amp;#233;n es argona. Nuestra infiltraci&amp;#243;n fue muy arriesgada.&lt;NEXTPAGEBUTTON&gt;"¿La torre es argona?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Aj&amp;#225;, qu&amp;#233; curiosidad!&lt;BR&gt;Los argones se confunden y adoptan una nueva forma.&lt;BR&gt;Estoy estudiando este fen&amp;#243;meno.&lt;BR&gt;&lt;BR&gt;Y empiezo a estar seguro.&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225; podamos evitar que el mundo entero sea argonizado.&lt;BR&gt;&lt;BR&gt;Pero la &amp;#250;nica forma de encontrar una soluci&amp;#243;n o un ant&amp;#237;doto es investigar aqu&amp;#237;, en pleno territorio argon.&lt;BR&gt;&amp;#191;Podr&amp;#237;as explorarlo por m&amp;#237;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo sab&amp;#237;a! Nuestra teor&amp;#237;a principal es que los argones usan la energ&amp;#237;a vital para construir y alimentar estas torres.&lt;BR&gt;&lt;BR&gt;Por fin hemos encontrado pruebas de ello. Sin embargo, la investigaci&amp;#243;n debe continuar.&lt;BR&gt;&lt;BR&gt;&amp;#191;No habr&amp;#225;s cruzado caminos con Yasring en las torres por casualidad?&lt;NEXTPAGEBUTTON&gt;"Por desgracia, no."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ya veo. Siempre se aleja sola. Por eso se vuelve dif&amp;#237;cil obtener su informaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esperaba encontrarla aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;No he tenido noticias de ella desde hace mucho tiempo. Empiezo a preocuparme.&lt;BR&gt;&lt;BR&gt;Espero que el equipo de investigaci&amp;#243;n pronto pueda darnos m&amp;#225;s informaci&amp;#243;n sobre ella.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2002">
+        <Page social="1" voiceTypeId="0">Estoy buscando a personas desaparecidas. La guerra a&amp;#250;n me es ajena, pero me un&amp;#237; a los exploradores porque mi familia est&amp;#225; involucrada.&lt;BR&gt;&lt;BR&gt;Los soldados veteranos ya est&amp;#225;n desplegados en el frente y solo quedamos nosotros, los novatos. No somos capaces de encontrar a los desaparecidos ni de plantar cara a los argones.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, algunos de los exploradores que buscaban a los exploradores desaparecidos tambi&amp;#233;n han desaparecido. Apenas logr&amp;#233; escapar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Buscas a alguien?&lt;NEXTPAGEBUTTON&gt;"¿Has conocido a Yasring?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Mmm...&lt;BR&gt;Puedes consultar nuestro registro.&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a no est&amp;#225; completo del todo, pero contiene una entrada para cada persona que hemos rescatado o que seguimos buscando.&lt;BR&gt;Ya ser&amp;#237;a un buen comienzo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2002">
+        <Page social="1" voiceTypeId="0">&amp;#191;Buscas a alguien?&lt;BR&gt;Entonces deber&amp;#237;as darte prisa.&lt;BR&gt;&lt;BR&gt;Otros exploradores han perdido la vida buscando a los desaparecidos.&lt;BR&gt;&lt;BR&gt;Utilizamos un dispositivo especial que nos permite desandar nuestros pasos.&lt;BR&gt;&lt;BR&gt;Sigue las huellas y al final los encontrar&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale sus insignias al comandante.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2003">
+        <Page social="0" voiceTypeId="0">Ah, ya veo... Con raz&amp;#243;n los miembros no se presentaron.&lt;BR&gt;&lt;BR&gt;Muchas gracias. Unos argones atacaron a los exploradores que buscaban a las personas desaparecidas. &lt;BR&gt;&lt;BR&gt;Los argones ya le han costado la vida a un gran n&amp;#250;mero de nuestros camaradas.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="2003">
+        <Page social="0">Rescata a todos los que a&amp;#250;n puedan ser salvados.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="2003">
+        <Page social="10" voiceTypeId="0">Desafortunadamente, el registro est&amp;#225; incompleto. No tenemos informaci&amp;#243;n sobre los niveles inferiores porque es demasiado peligroso ah&amp;#237; abajo.&lt;BR&gt;&lt;BR&gt;Toda ayuda es bienvenida.&lt;NEXTPAGEBUTTON&gt;"Haré lo posible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Muchas gracias! &lt;BR&gt;El grupo de reconocimiento se encuentra en el &amp;#250;ltimo s&amp;#243;tano.&lt;BR&gt;Gracias por ir a echarles una mano.&lt;BR&gt;&lt;BR&gt;{@linkcreature:246#2004#Greyden}, el capit&amp;#225;n del grupo de reconocimiento, podr&amp;#225; darte m&amp;#225;s detalles.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" prevId="11" villagerId="2004">
+        <Page social="4" voiceTypeId="0">Hola. Me llamo {@linkcreature:246#2004#Greyden}, comandante del grupo de reconocimiento.&lt;BR&gt;&lt;BR&gt;Me top&amp;#233; con esta sala desconocida mientras buscaba a los desaparecidos.&lt;BR&gt;No perdamos tiempo. Sleitak ya me habl&amp;#243; de ti.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que entremos solo dos por ahora. Si no, corremos el riesgo de estar muy apretados.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;[No puedes unirte a esta mazmorra en grupo.]&lt;/font&gt;</Page>
+    </Text>
+</QuestDialog>

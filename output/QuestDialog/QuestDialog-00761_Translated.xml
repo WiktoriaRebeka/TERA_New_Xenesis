@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="1">Una gran plaga reina en este valle. Nadie sabe de d&amp;#243;nde viene. Se extiende de forma incontrolable y destruye todo lo que toca. Su nombre es &quot;perezoso.&quot; S&amp;#237;, de verdad.&lt;BR&gt;&lt;BR&gt; Los {@LinkCreature:30#100#paresseux nerveux} nos han cortado del Camp de l'Ensoleillement del centuri&amp;#243;n {@LinkCreature:230#1010$$Erdis}. Es la gota que derrama el vaso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Masacre a estos {@LinkCreature:30#100#paresseux nerveux} hasta el &amp;#250;ltimo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">&amp;#161;Qu&amp;#233; agradable sorpresa! &amp;#191;Cu&amp;#225;ntos {@LinkCreature:30#100#paresseux nerveux} mat&amp;#243; al venir aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;El n&amp;#250;mero no importa, pero mi gratitud s&amp;#237;. Tome esta recompensa, y me asegurar&amp;#233; de que mi coordinador le pague cada vez que masacre a m&amp;#225;s perezosos.</Page>
+    </Text>
+</QuestDialog>

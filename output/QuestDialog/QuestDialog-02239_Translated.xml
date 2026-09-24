@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="0">Has entregado los materiales para tallar a Dolme y a cambio recibes un casco de cuerno.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="4">&lt;PCNAME&gt;, bienvenido a la fiesta en la playa.&lt;BR&gt;&lt;BR&gt;Si tienes ganas de conseguir un casco de cuerno, hoy no es tu d&amp;#237;a de suerte. Hay much&amp;#237;sima demanda este a&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Pero d&amp;#233;jame decirte una cosa, &lt;PCNAME&gt;: si me traes dos cuernos de ar&amp;#225;cnidos de la Isla Serpentis Isle, te har&amp;#233; uno. &amp;#191;Trato hecho?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2004">
+        <Page social="4">&amp;#161;Bien hecho, &lt;PCNAME&gt;! Son unos cuernos muy bonitos. Deber&amp;#237;an ayudarme a aguantar el d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes tu casco de cuerno. Gracias por ayudarme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Ya s&amp;#233; que no es f&amp;#225;cil conseguir cuernos de ar&amp;#225;cnidos, &lt;PCNAME&gt;. Pero te agradecer&amp;#237;a much&amp;#237;simo que te dieras un poco prisa.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="4">Un poderoso poder m&amp;#225;gico parece alimentar las Ruinas de Storst, al norte. Pienso que los {@LinkCreature:24#14#maligos cornesangs}, los descendientes de los antiguos gigantes, aprovechan la energ&amp;#237;a de las reliquias.&lt;BR&gt;&lt;BR&gt;Los fragmentos de armadura de maligos podr&amp;#237;an confirmar esta teor&amp;#237;a. Si consigues algunos, podremos medir el MP restante y estimar la potencia que emana de las ruinas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1002">
+        <Page social="4">&amp;#161;Extra&amp;#241;o! Los fragmentos vibran al tacto. El poder que contienen va mucho m&amp;#225;s all&amp;#225; de lo que sospech&amp;#225;bamos.&lt;BR&gt;&lt;BR&gt;No olvidaremos tu contribuci&amp;#243;n a este descubrimiento. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1002">
+        <Page social="0">Una hip&amp;#243;tesis que no se pone a prueba con la experiencia no es m&amp;#225;s que una simple pregunta. Necesito m&amp;#225;s fragmentos de armadura para comprobarlo. R&amp;#225;pido.</Page>
+    </Text>
+</QuestDialog>

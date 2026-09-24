@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Creo que nos hemos emocionado un poco con nuestro banquete, &lt;PCNAME&gt;. Queda bastante carne y, si no la salamos, se va a echar a perder.&lt;NEXTPAGEBUTTON&gt;"¿Salarla? ¿Para darle sabor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, para evitar que se pudra. Por supuesto, nada sabe mejor que la carne reci&amp;#233;n asada. Es tierna, se deshace en la boca, te deja los dedos llenos de jugo y...&lt;BR&gt;&lt;BR&gt;... Eh, &amp;#191;por d&amp;#243;nde iba? &amp;#161;Ah, s&amp;#237;! Conservar la carne... Verus tiene todo el material necesario para eso. &amp;#191;Podr&amp;#237;as llevarle nuestras sobras?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1004">
+        <Page social="4">&amp;#191;Un problema de exceso de comida? Un problema bastante agradable, dir&amp;#237;a yo. En fin, puedo ense&amp;#241;arte c&amp;#243;mo hacerlo.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un barril vac&amp;#237;o y sal. &amp;#161;A trabajar!&lt;BR&gt;&lt;BR&gt;Cuando hayas salado la carne, ll&amp;#233;vasela a &lt;b&gt;Einna&lt;/b&gt;. Ella es una de las l&amp;#237;deres de los refugiados y se encargar&amp;#225; del reparto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1043">
+        <Page social="4">Despu&amp;#233;s de traernos lo necesario para preparar un banquete, vas y nos salvas de la hambruna a largo plazo. Parece que al final hicimos bien en venir a refugiarnos a Isolated Town.&lt;BR&gt;&lt;BR&gt;En nombre de toda mi gente, te doy las gracias, &lt;BR&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1043">
+        <Page social="0">&amp;#161;Has encontrado la forma de salar nuestro exceso de carne! &amp;#161;Gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

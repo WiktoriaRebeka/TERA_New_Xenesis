@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">&amp;#191;Conoces {@Rgn:50005}? All&amp;#237; descubrieron una piedra al menos tan grande como la de {@Rgn:50004}. &lt;BR&gt;&lt;BR&gt;Una energ&amp;#237;a se acumula all&amp;#237; y hace mutar a los argons en kargons. El lugar est&amp;#225; plagado de kargons rojos. &lt;BR&gt;&lt;BR&gt;Elimina a {@LinkCreature:50#3} que protege {@Rgn:50005} en {@Rgn:50004}. Eso deber&amp;#237;a permitir interrumpir el flujo de energ&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1014">
+        <Page social="6">La muerte de Maskimxuul ralentizar&amp;#225; la propagaci&amp;#243;n de la plaga argon, si es que no la detiene por completo. Incluso tenemos la oportunidad de que una parte de la energ&amp;#237;a robada sea devuelta a la tierra.&lt;BR&gt;&lt;BR&gt;Tu oportuna intervenci&amp;#243;n nos abre nuevas perspectivas. Gracias.</Page>
+    </Text>
+</QuestDialog>

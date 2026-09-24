@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="5">Varias patrullas han sido atacadas por inusuales criaturas escupefuego.&lt;BR&gt;&lt;BR&gt;Quiero estudiarlas. Deseo que traigas y mates a unos cuantos {@LinkCreature:23#9#rejetons &amp;#224; crocs fondus} y que recolectes sus n&amp;#250;cleos.&lt;BR&gt;&lt;BR&gt;Eso deber&amp;#237;a permitirme encontrar un m&amp;#233;todo m&amp;#225;s radical.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1036">
+        <Page social="5">Estos son perfectos. &amp;#161;Los analizar&amp;#233; de inmediato!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ay, todav&amp;#237;a est&amp;#225;n calientes!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1036">
+        <Page social="0">Si no podemos estudiar su n&amp;#250;cleo, estas bestias podr&amp;#237;an salir de control.&lt;BR&gt;&lt;BR&gt;&amp;#161;Imagina un ej&amp;#233;rcito de engendros colmillos fundidos marchando sobre Pora Elinu! &amp;#161;Regresa y tr&amp;#225;eme esos n&amp;#250;cleos!</Page>
+    </Text>
+</QuestDialog>

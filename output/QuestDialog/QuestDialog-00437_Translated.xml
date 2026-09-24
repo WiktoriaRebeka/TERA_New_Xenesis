@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Debemos entregar este terrible muestra a Bedoram a toda costa. &lt;BR&gt;&lt;BR&gt;&amp;#161;No te dejes enga&amp;#241;ar por su apariencia de piedrecita, es extremadamente peligroso!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1030">
+        <Page social="4" voiceTypeId="0">&amp;#161;Un fragmento de la piedra m&amp;#225;gica roja!&lt;BR&gt;&lt;BR&gt;(Bedoram levanta el fragmento con delicadeza.)&lt;BR&gt;&lt;BR&gt;Debemos analizarlo minuciosamente. Tal vez logremos encontrar una cura para la enfermedad. &lt;BR&gt;&lt;BR&gt;Tengo que estudiarlo m&amp;#225;s de cerca. Aqu&amp;#237; veo algo... &amp;#161;Ah, son s&amp;#237;mbolos dentro de la piedra m&amp;#225;gica. Pero esto es...!&lt;BR&gt;&lt;BR&gt;(Bedoram se queda sin palabras.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1030">
+        <Page social="0">Entonces, &amp;#191;todav&amp;#237;a no has destruido la piedra m&amp;#225;gica Rage?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="3" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Es el emblema de los cultistas.&lt;BR&gt;&lt;BR&gt;Los descendientes de Lok...&lt;BR&gt;&amp;#191;Podr&amp;#237;a ser que ellos tengan algo que ver?&lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos informar de inmediato al prefecto Paka! &lt;BR&gt;&lt;BR&gt;Es absolutamente necesario que los habitantes de Popolion lo sepan. &lt;BR&gt;&lt;BR&gt;Toma, aqu&amp;#237; tienes un pergamino de teletransportaci&amp;#243;n a Popolion. Ve a hacer tu informe de inmediato.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">&amp;#191;C&amp;#243;mo? &amp;#191;La Rage magic stone es la causa de esta horrible enfermedad? &amp;#191;Es cierto?&lt;BR&gt;&lt;BR&gt;&amp;#161;Has realizado una verdadera haza&amp;#241;a! &lt;BR&gt;&amp;#161;Has destruido la magic stone y Bedoram ahora est&amp;#225; analizando el fragmento de magic stone!&lt;BR&gt;&lt;BR&gt;&amp;#161;Has salvado el pueblo! &lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!&lt;BR&gt;&lt;BR&gt;Ah, iba a olvidar una cosa.&lt;/NEXTPAGEBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;"¿El qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Te mereces una recompensa a la altura de tus haza&amp;#241;as!&lt;BR&gt;&lt;BR&gt;Uno de los prefectos de la unidad especial debe estar por los alrededores.&lt;BR&gt;Busca al {@linkcreature:215#1012#pr&amp;#233;fet de l'unit&amp;#233; sp&amp;#233;ciale Bruke}. Cuando escuche el relato de tus haza&amp;#241;as, &amp;#161;sin duda te dar&amp;#225; una gran recompensa!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">&amp;#191;No ser&amp;#225;s &lt;PCNAME&gt;? Ja, ja, &amp;#191;y te vanaglorias por haber salvado a unas cuantas bestias peludas en un pueblito?&lt;BR&gt;&lt;BR&gt;Mh... &amp;#191;una piedra m&amp;#225;gica? No presumir&amp;#225;s de haber destruido una piedra, &amp;#191;o s&amp;#237;?&lt;BR&gt;&lt;BR&gt;Sin embargo, tengo autorizaci&amp;#243;n para entregarte una peque&amp;#241;a recompensa.&lt;BR&gt;&lt;BR&gt;Toma, es para ti y ahora, espera tus &amp;#243;rdenes... bueno, si el general Samael decide volver a llamarte. A decir verdad, esta recompensa no est&amp;#225; del todo merecida.</Page>
+    </Text>
+</QuestDialog>

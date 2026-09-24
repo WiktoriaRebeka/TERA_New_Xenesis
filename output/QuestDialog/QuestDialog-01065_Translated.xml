@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">El enemigo ha reclutado a muchos esbirros en la regi&amp;#243;n...&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que los emblemas de los &lt;BR&gt; parec&amp;#237;an calaveras. &amp;#191;Podr&amp;#237;as conseguirme algunos? Me gustar&amp;#237;a echarles un vistazo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">Es justo lo que tem&amp;#237;a. Estos emblemas corresponden a los que se distribuyen dentro de la legi&amp;#243;n de Thulsa. Son muy malas noticias.&lt;BR&gt;&lt;BR&gt;Aparte de eso, debo reconocer que son bastante impresionantes...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1002">
+        <Page social="0">Sigo esperando las insignias con forma de calavera de los {@LinkCreature:40#27#mercenaires}. &amp;#191;Has encontrado alguna?</Page>
+    </Text>
+</QuestDialog>

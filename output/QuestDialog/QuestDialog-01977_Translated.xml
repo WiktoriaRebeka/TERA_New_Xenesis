@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, descubr&amp;#237; d&amp;#243;nde est&amp;#225; la quinta gema. &lt;BR&gt;Ven a verme a Highwatch.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva te indic&amp;#243; d&amp;#243;nde encontrar la quinta gema, la del control. Ayudaste a Klock a inspeccionar el Campamento de entrenamiento de guardianes y restauraste la corona de la eternidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#161;Hola, &lt;PCNAME&gt;!&lt;BR&gt;Los preparativos para la fiesta est&amp;#225;n llegando a su fin.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a ver a {@linkcreature:183#1150#Klock}?&lt;BR&gt;&lt;BR&gt;Es &amp;#233;l quien est&amp;#225; montando la fiesta.&lt;BR&gt;Parece que la cuarta gema, la del control, est&amp;#225; en una de sus herramientas.&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrarlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Est&amp;#225; inspeccionando el Campamento de entrenamiento de guardianes.&lt;BR&gt;Es uno de sus dise&amp;#241;adores.&lt;BR&gt;&lt;BR&gt;Los trabajos de mantenimiento est&amp;#225;n en marcha, as&amp;#237; que deber&amp;#237;a estar con el {@linkcreature:183#7007#instructeur de camp d'entra&amp;#238;nement}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1150">
+        <Page social="0" voiceTypeId="0">&amp;#191;Que hay una gema de la corona de la eternidad en mi herramienta?&lt;BR&gt;Podr&amp;#237;a d&amp;#225;rtela.&lt;BR&gt;&lt;BR&gt;Pero digamos que... Por ahora la situaci&amp;#243;n es complicada.&lt;BR&gt;&lt;BR&gt;Estamos realizando trabajos de mantenimiento en el Campamento de entrenamiento de guardianes.&lt;NEXTPAGEBUTTON&gt;"¿Cuánto va a tomar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Terminaremos en un d&amp;#237;a o dos. Solo tengo que asegurarme de que la magia de estabilizaci&amp;#243;n espacial se haya desplegado correctamente.&lt;BR&gt;&lt;BR&gt;Esto toma el tiempo que un guerrero necesita para superar el campamento de entrenamiento.&lt;BR&gt;&lt;BR&gt;Es imposible acelerar el proceso, desafortunadamente...&lt;NEXTPAGEBUTTON&gt;"¿Puedo ayudar a acelerar el paso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Har&amp;#237;as eso por nosotros?&lt;BR&gt;Pero dime: &amp;#191;Acaso no eres &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Disculpa por no haberte reconocido!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me ayudar&amp;#237;a much&amp;#237;simo si pudieras echarme una mano!&lt;BR&gt;&lt;BR&gt;Ya no puedo ni dormir.&lt;NEXTPAGEBUTTON&gt;"¿Qué debo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Podr&amp;#237;as activar &lt;font color='#FF0000'&gt;dos veces&lt;/font&gt; un beneficio de la piedra m&amp;#225;gica de beneficio de Priest o Mystic.&lt;BR&gt;&lt;BR&gt;Sin embargo, la activaci&amp;#243;n repetida del beneficio no siempre funciona. Si el beneficio funciona mientras atacas a un monstruo para entrenar, la prueba termina.&lt;BR&gt;&lt;BR&gt;Contamos contigo.&lt;BR&gt;&lt;BR&gt;[Accede a la mazmorra de pruebas hablando con {@linkcreature:183#7002#Hirak}, el instructor del campamento de entrenamiento.]</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1150">
+        <Page social="0" voiceTypeId="0">Me parece que todo est&amp;#225; bien, sin fallas.&lt;BR&gt;Gracias a ti, terminamos antes de lo previsto.&lt;BR&gt;&lt;BR&gt;Ah, s&amp;#237;, necesitabas la gema del control, &amp;#191;verdad?&lt;br&gt;T&amp;#243;mala.&lt;BR&gt;&lt;BR&gt;Por fin podr&amp;#233; ir a dormir.&lt;BR&gt;Uf...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#191;C&amp;#243;mo sali&amp;#243; todo? &amp;#191;Conseguiste la gema del control?&lt;NEXTPAGEBUTTON&gt;"Míralo tú mismo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;La corona de la eternidad se ve mucho mejor!&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes a d&amp;#243;nde se fue Klock?&lt;BR&gt;Todav&amp;#237;a no me ha entregado los planos.&lt;BR&gt;&lt;BR&gt;&amp;#191;No te acompa&amp;#241;&amp;#243; hasta aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"No, quería ir a dormir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;&amp;#191;Ir a dormir?!&lt;BR&gt;&amp;#161;No lo puedo creer!&lt;BR&gt;&lt;BR&gt;&amp;#161;No puede ir a echarse una siesta cuando todav&amp;#237;a no tengo los planos de la fiesta!&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda. Toma, es para ti.&lt;br&gt;Espero que puedas hacerle un buen uso.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; en cuanto sepa d&amp;#243;nde est&amp;#225; la siguiente gema.</Page>
+    </Text>
+</QuestDialog>

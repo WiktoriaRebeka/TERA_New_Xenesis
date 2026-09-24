@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="4">El ataque de los triperos amenaza nuestras posiciones aqu&amp;#237;, en el desierto. Pero, si respondemos con fuerza, tal vez se rindan. Rastrea a {@LinkCreature:21#5001#Beldresk, le Seigneur de guerre r&amp;#244;deur d'escarpement} y m&amp;#225;talo.&lt;BR&gt;&lt;BR&gt; De hecho, quiero que me traigas un colmillo. &amp;#161;Lo colgar&amp;#233; frente a nuestra tienda para demostrarles que no nos intimidan!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1025">
+        <Page social="4">&amp;#161;De ahora en adelante, gracias a ti, los merodeadores de despe&amp;#241;adero lo pensar&amp;#225;n dos veces antes de atacarnos.&lt;BR&gt;&lt;BR&gt;Eso no nos devolver&amp;#225; a los que murieron, pero tal vez evite nuevas v&amp;#237;ctimas. &amp;#161;Excelente trabajo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1025">
+        <Page social="0">Nunca dije que tu tarea fuera f&amp;#225;cil. &amp;#161;T&amp;#243;mate todo el tiempo que necesites para armar un plan!&lt;BR&gt;&lt;BR&gt;&amp;#161;Puedes lograrlo!</Page>
+    </Text>
+</QuestDialog>

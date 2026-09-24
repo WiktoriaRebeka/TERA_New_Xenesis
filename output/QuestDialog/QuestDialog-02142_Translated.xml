@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">Bah. Otros golems del {@Rgn:9017001$$Phare du Soleil} han empezado a volverse completamente locos.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3025#Maun} te indicar&amp;#225; cu&amp;#225;les. &amp;#191;Puedes encargarte de eso?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Hacen un esc&amp;#225;ndalo terrible desde esta ma&amp;#241;ana, cuando no hay nadie all&amp;#237; dentro.&lt;BR&gt;&lt;BR&gt;Detenlos antes de que rompan algo valioso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Es triste. Son m&amp;#225;quinas muy bonitas.&lt;BR&gt;&lt;BR&gt;Pero las m&amp;#225;quinas se pueden reemplazar. Lo que no se puede reemplazar es todo eso que est&amp;#225; en la torre.</Page>
+    </Text>
+</QuestDialog>

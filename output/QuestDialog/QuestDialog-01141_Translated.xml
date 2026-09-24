@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="4">Ya que est&amp;#225;s aqu&amp;#237;... los {@Creature:45#3004#r&amp;#244;deurs athakelas} y los {@Creature:45#3003#&amp;#233;ventreurs kelbas} se est&amp;#225;n acercando demasiado para mi gusto.&lt;BR&gt;&lt;BR&gt;Me sentir&amp;#237;a mejor si pudieras frenar un poco su ardor... y si te diriges hacia el sur, pasa a ver a Pokara en el {@Rgn:45009$$Camp de la Folie}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">&amp;#191;Setahl te env&amp;#237;a? Eso es lo que llamo un verdadero amigo. Y un buen cient&amp;#237;fico, adem&amp;#225;s. Gracias</Page>
+    </Text>
+</QuestDialog>

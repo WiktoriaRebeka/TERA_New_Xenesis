@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="0">La comida a bordo deja un poco que desear.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="4">Actol todav&amp;#237;a no le toma el... aire, quiero decir.&lt;BR&gt;&lt;BR&gt;Mi litera est&amp;#225; justo debajo de la suya, as&amp;#237; que ser&amp;#237;a bueno que se recuperara antes de esta noche.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as conseguir un remedio o un poco de flambewhisky?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="3004">
+        <Page social="4">&amp;#191;Mareo por el aire? Por supuesto. Son pocos los que tienen el est&amp;#243;mago para vuelos largos. Por mi parte, ya he volado dos veces.&lt;BR&gt;&lt;BR&gt;Prueba un poco de jengibre esseniano. Sin duda lo encontrar&amp;#225;s en los casilleros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1006">
+        <Page social="4">Oh, alabada sea Velik. &amp;#161;Y alabados sean Kaia, Seren y Akasha! Mi est&amp;#243;mago est&amp;#225; mucho mejor. Gracias.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as preguntarle a Fieri si hay algo de comer?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" villagerId="1006">
+        <Page social="0">&amp;#191;Sin jengibre? Sigue buscando.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="4" villagerId="3007">
+        <Page social="4">Ah, pero por supuesto. Soy el rey de los buenos platillos.&lt;BR&gt;&lt;BR&gt;Hablando de eso, &amp;#191;no te gustar&amp;#237;a probar uno de mis &amp;#250;ltimos manjares?&lt;BR&gt;&lt;BR&gt;Vamos, no seas t&amp;#237;mido. Aprend&amp;#237; del chef m&amp;#225;s reconocido de Arun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1007">
+        <Page social="4">(El aroma recuerda vagamente a cebollas y a argons.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="3007">
+        <Page social="4">&amp;#191;C&amp;#243;mo? &amp;#161;Eres {@gender:fou/folle}. &amp;#161;Este plato rebosa de sabor!&lt;BR&gt;&lt;BR&gt;Toma, prueba un poco de este.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1008">
+        <Page social="4">(Su aspecto y su olor son menos sospechosos.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="823" prevId="9" villagerId="3007">
+        <Page social="4">&amp;#161;D&amp;#233;jame decirte que acabas de probar una sinfon&amp;#237;a de sabores! Ah, no digas nada, &amp;#161;soy formidable!&lt;BR&gt;&lt;BR&gt;&amp;#161;Deber&amp;#237;a competir para ser el chef de Arun!</Page>
+    </Text>
+</QuestDialog>

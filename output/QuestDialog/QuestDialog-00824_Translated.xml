@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Olv&amp;#237;date de la flota. Necesitamos urgentemente provisiones, sobre todo comida.&lt;BR&gt;&lt;BR&gt;Sin las condiciones &amp;#243;ptimas, el barco de suministros no puede llegar a {@Rgn:31009$$Garnison de la Pointe du Phare}. El clima ha estado muy malo &amp;#250;ltimamente.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:231#1027$$Yasper} sabe predecir el clima con bastante precisi&amp;#243;n. &amp;#191;Podr&amp;#237;as pedirle su informe meteorol&amp;#243;gico?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">Ghauth quiere otro informe meteorol&amp;#243;gico, &amp;#191;no? Le entregu&amp;#233; el &amp;#250;ltimo hace cinco minutos, as&amp;#237; que es normal.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; lo tienes. &amp;#191;Este clima? No es natural. Creo que hay una poderosa hechicer&amp;#237;a detr&amp;#225;s de esto.&lt;BR&gt;&lt;BR&gt;Estas condiciones severas van a continuar, me temo.&lt;BR&gt;&lt;BR&gt;Habr&amp;#237;a preferido darle buenas noticias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Mis temores se han vuelto realidad. Defender este lugar con este fr&amp;#237;o es un esfuerzo in&amp;#250;til. Debemos retirarnos antes de que sea demasiado tarde.&lt;BR&gt;&lt;BR&gt;Informa a {@LinkCreature:231#1008$$Pedr} sobre mi opini&amp;#243;n, y dile bien claro que forrar&amp;#233; mi abrigo con su piel si se atreve a quejarse.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1008">
+        <Page social="4">{@LinkCreature:231#1023$$Ghauth} es tan directo como cualquiera, pero es excesivamente prudente.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que el barco de suministros se ha retrasado, pero la situaci&amp;#243;n est&amp;#225; lejos de ser desesperada. Est&amp;#225; fuera de discusi&amp;#243;n abandonar esta fortaleza.&lt;BR&gt;&lt;BR&gt;Mi colega {@LinkCreature:231#1013$$Urwah} confirm&amp;#243; que la flota viene en camino. Conf&amp;#237;o plenamente en &amp;#233;l. No te preocupes por Ghauth.</Page>
+    </Text>
+</QuestDialog>

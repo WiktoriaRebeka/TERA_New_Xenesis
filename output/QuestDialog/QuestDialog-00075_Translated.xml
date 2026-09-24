@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="4">Los Bois de l'Oubli nunca han estado tan peligrosos. Bueno, hace a&amp;#241;os tal vez fuera el caso, pero hac&amp;#237;a mucho tiempo que las cosas se hab&amp;#237;an calmado.&lt;BR&gt;&lt;BR&gt;Los devans no son los &amp;#250;nicos responsables... los esp&amp;#237;ritus de la tierra se han vuelto agresivos y los no-muertos vuelven a deambular por la regi&amp;#243;n. Debe haber un v&amp;#237;nculo entre estos diferentes fen&amp;#243;menos, pero a&amp;#250;n lo ignoro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir al cementerio de Berzerad y traerme las esporas de los {@LinkCreature:3#2#marchespores agit&amp;#233;s} que encuentres all&amp;#237;? Ser&amp;#237;a un buen punto de partida para mis investigaciones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="4">Buen trabajo. No debi&amp;#243; ser f&amp;#225;cil. Ahora voy a aplicar este reactivo y... maldici&amp;#243;n...&lt;NEXTPAGEBUTTON&gt;"¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Estas esporas no son naturales ni elementales, las almas se han fusionado con estas cosas... las de nuestros muertos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esto no tiene nada de natural y explica la ira y la violencia de estas criaturas! Debe haber una manera de invertir este proceso, pero por ahora, tendr&amp;#225;s que conformarte con matar a estos monstruos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1012">
+        <Page social="0">En el &lt;font color='#660000'&gt;cementerio de Berzerad&lt;/font&gt;, encontrar&amp;#225;s marchespores en abundancia. Tr&amp;#225;eme sus esporas.</Page>
+    </Text>
+</QuestDialog>

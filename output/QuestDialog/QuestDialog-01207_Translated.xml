@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Tendremos que limpiar lo que dejaron los argons.&lt;BR&gt;&lt;BR&gt;En efecto, la presencia de {@LinkCreature:47#4002#jeunes guivres nagas argonomorphes}, {@LinkCreature:47#1002#grizzlys de Tirkai argonomorphes} y {@LinkCreature:47#4003#&amp;#233;craseurs gulas argonomorphes} complica todos nuestros desplazamientos en el per&amp;#237;metro de {@Rgn:47005$$Fronti&amp;#232;re argone}.&lt;BR&gt;&lt;BR&gt;&amp;#191;Aceptar&amp;#237;as ir a eliminar a unos cuantos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1005">
+        <Page social="5">Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1005">
+        <Page social="0">Espero que no hayas olvidado ir a encargarte de esos {@LinkCreature:47#4002#jeunes guivres nagas argonomorphes}, {@LinkCreature:47#1002#grizzlys de Tirkai argonomorphes} y dem&amp;#225;s {@LinkCreature:47#4003#&amp;#233;craseurs gulas argonomorphes}. Deben desaparecer.</Page>
+    </Text>
+</QuestDialog>

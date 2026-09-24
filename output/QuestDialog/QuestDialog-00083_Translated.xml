@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">No muy lejos de aqu&amp;#237; encontrar&amp;#225;s a otra exploradora, {@LinkCreature:203#1010#Rasima}. Es una chica fuerte y dura, pero su soledad la expone al peligro.&lt;BR&gt;&lt;BR&gt;Es demasiado orgullosa para pedir ayuda, pero seguramente la aceptar&amp;#225; si se la propones t&amp;#250; mismo. Y ya que est&amp;#225;s, &amp;#161;ll&amp;#233;vale algo de beber!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1010">
+        <Page social="4">S&amp;#237;, hoy... estoy sola. Mi compa&amp;#241;ero Keleth y yo fuimos descubiertos durante una misi&amp;#243;n de reconocimiento. Est&amp;#225;bamos desbordados por el enemigo, pero &amp;#233;l se sacrific&amp;#243; para que pudiera huir.&lt;BR&gt;&lt;BR&gt;Quiero poder rendir honor a su sacrificio, pero necesito ayuda. Tr&amp;#225;eme su {@LinkCreature:203#1029#anneau} para que pueda hac&amp;#233;rselo llegar a su familia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1029">
+        <Page social="4">(El cad&amp;#225;ver est&amp;#225; en un estado tal que es irreconocible. El &amp;#250;nico objeto recuperable es un modesto anillo de cobre.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1010">
+        <Page social="4">Recuerdo muy bien este anillo. A Keleth le gustaba mucho su sobriedad.&lt;BR&gt;&lt;BR&gt;Es perfecto. Este objeto ser&amp;#225; un recuerdo vibrante de su persona para todos los que lo amaron. &amp;#161;Muchas gracias! &amp;#161;Que la Virgen del Escudo te proteja en combate!</Page>
+    </Text>
+</QuestDialog>

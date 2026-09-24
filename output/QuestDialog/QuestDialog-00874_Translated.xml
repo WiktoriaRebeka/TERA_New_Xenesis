@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">Est&amp;#225;n tramando algo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n? Los {@LinkCreature:33#910#Baalthoths}. No s&amp;#233; mucho sobre ellos, apenas se les alcanza a ver, pero creo que son los responsables.&lt;BR&gt;&lt;BR&gt;Intenta conseguir algo de informaci&amp;#243;n... sobre un cad&amp;#225;ver de nigromante.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">D&amp;#233;jame ver eso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Aj&amp;#225;! Aqu&amp;#237; indica que Thulsa ha construido una especie de aparato en la Prison des Abysses, sea lo que sea, y captura almas en pena antes de que puedan llegar al mundo del Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Esto explica bastantes cosas, &amp;#191;no?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">Me encantar&amp;#237;a ver qu&amp;#233; se encuentra en el bolsillo de un {@LinkCreature:33#910#n&amp;#233;cromancien}. &amp;#191;A ti no?</Page>
+    </Text>
+</QuestDialog>

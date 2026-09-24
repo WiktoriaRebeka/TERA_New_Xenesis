@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0">No todas las hadas han cedido a los efectos del viento de locura que arrasa Fey Forest.&lt;BR&gt;&lt;BR&gt;Las hadas que a&amp;#250;n son leales se encuentran en el estanque, pero las rebeldes se preparan para lanzar una ofensiva a gran escala.&lt;BR&gt;&lt;BR&gt;Seremos asaltados por hordas de {@LinkCreature:2#2#f&amp;#233;es furieuses}, {@LinkCreature:2#152#insurg&amp;#233;s f&amp;#233;eriques}, {@LinkCreature:2#62#rebelles f&amp;#233;eriques} y otros {@LinkCreature:2#52#protecteurs f&amp;#233;eriques}.&lt;NEXTPAGEBUTTON&gt;"¿Cómo detenerlos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Realmente esperaba que no lleg&amp;#225;ramos a estos extremos. El humus del bosque ya ha bebido suficiente sangre de nuestra gente.&lt;BR&gt;&lt;BR&gt;Sin embargo, tendr&amp;#225; que fluir de nuevo; no hay otra soluci&amp;#243;n. Ve a exterminar a las hadas rebeldes que se re&amp;#250;nen cerca del estanque y recupera sus armas. Podremos usarlas para armar a los nuestros que a&amp;#250;n conservan la raz&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1002">
+        <Page social="0">Cada hada que muere se lleva consigo una parte de la magia del Sue&amp;#241;o, &lt;PCNAME&gt;. Esta misi&amp;#243;n debi&amp;#243; ser desgarradora, pero era necesaria.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1002">
+        <Page social="0">&amp;#161;S&amp;#233; que es un trabajo sucio, pero ve a matar a las hadas antes de que exterminen a los esp&amp;#237;ritus cuerdos del estanque!</Page>
+    </Text>
+</QuestDialog>

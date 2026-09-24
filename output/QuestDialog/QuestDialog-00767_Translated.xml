@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Es tu d&amp;#237;a de suerte, soldado. Mi amo, el hechicero Oshar, se va a embarcar en una nueva aventura.&lt;BR&gt;&lt;BR&gt;Bajo su direcci&amp;#243;n, he desarrollado una locuci&amp;#243;n que rejuvenece y da volumen al cabello, e incluso lo hace volver a crecer. Debo fabricar otro lote de prueba, pero ya no me quedan ingredientes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esta es tu oportunidad!&lt;NEXTPAGEBUTTON&gt;"¿De verdad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;As&amp;#237; es! &amp;#161;Puedes ayudarme a crear esta loci&amp;#243;n milagrosa!&lt;BR&gt;&lt;BR&gt;Atrapa algunos ghilliedhus ra&amp;#237;z azur y verifica si albergan colmenas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma la miel y consigue una coqueta recompensa!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">No lo olvidar&amp;#233;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;De hecho, a&amp;#241;adir&amp;#233; tu nombre a la lista de &quot;colaboradores&quot; en la receta. Y aqu&amp;#237; tienes una peque&amp;#241;a muestra de reconocimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">La Loci&amp;#243;n luxuriante de Leshoff est&amp;#225; casi terminada.&lt;BR&gt;&lt;BR&gt;Una vez que tenga suficiente miel de ghilliedhu, &amp;#161;estar&amp;#225; lista!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:78#3002#Kalkzak} quer&amp;#237;a verte, &lt;PCNAME&gt;. &amp;#161;A juzgar por la peque&amp;#241;a sonrisa que ten&amp;#237;a, estaba bastante satisfecho con la jugada que les hiciste a los argons!&lt;BR&gt;&lt;BR&gt;M&amp;#225;s vale que te pongas en marcha. No hagas esperar a Kalkzak.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#161;Mi soldado favorito!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, el Shariar toma nota de las haza&amp;#241;as de sus aliados y de los cr&amp;#237;menes de sus enemigos, &amp;#161;y no olvidaremos ninguna!&lt;BR&gt;&lt;BR&gt;Esto es solo una peque&amp;#241;a recompensa, pero &amp;#161;acepta tambi&amp;#233;n todo el respeto que se le debe a un soldado de tu rango! &amp;#161;Buen trabajo!</Page>
+    </Text>
+</QuestDialog>

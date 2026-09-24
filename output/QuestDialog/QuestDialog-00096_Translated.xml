@@ -1,0 +1,87 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="0">Como las entregas desde Fyr Mountain no llegaban, el consejo de Castanica te pidi&amp;#243; que recolectaras durignita de los habitantes. Al entrar en la mina de extracci&amp;#243;n de durignita, descubriste que los muertos vivientes hab&amp;#237;an eliminado a todos los mineros. Pudiste recuperar un poco de durignita de los muertos vivientes, pero mientras sigan ocupando la mina e impidan que los mineros trabajen, la escasez de durignita continuar&amp;#225;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">&amp;#191;Ves todas esas luces rojas? Es la durignita la que alimenta todo eso y esa misma sustancia tambi&amp;#233;n protege a Castanica de los ataques. Desafortunadamente, nuestras reservas de piedras m&amp;#225;gicas se est&amp;#225;n agotando debido a un problema ocurrido en las minas de Fyr Mountain.&lt;BR&gt;&lt;BR&gt;Por esta raz&amp;#243;n, la federaci&amp;#243;n prohibi&amp;#243; el uso privado de piedras m&amp;#225;gicas y pidi&amp;#243; a los aldeanos que entregaran sus piedras. La mayor&amp;#237;a de los habitantes acatan esta solicitud, pero algunos se oponen firmemente.&lt;BR&gt;&lt;BR&gt;Te doy una lista que contiene sus nombres. Por favor ve a requisar su durignita, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Llegas un poco temprano, &amp;#191;no crees?&lt;NEXTPAGEBUTTON&gt;"Solo estoy aquí para recuperar la durignita."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;(Lorcia te lanza una mirada coqueta.)&lt;NEXTPAGEBUTTON&gt;"Es verdad. Es solo por la durignita."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">As&amp;#237; que mi belleza no te ciega... Qu&amp;#233; l&amp;#225;stima. Toma, aqu&amp;#237; la tienes. Sin piedra m&amp;#225;gica no hay comercio. &amp;#161;Cuando tus jefes resuelvan su problema de suministro, exijo que me reembolsen todo! &amp;#161;Y con intereses, &lt;PCCLASS&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="2" villagerId="1042">
+        <Page social="0" voiceTypeId="0">(Dices que est&amp;#225;s aqu&amp;#237; por la durignita.)&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;Qu&amp;#233; te hace pensar que todav&amp;#237;a tengo?!&lt;BR&gt;&lt;BR&gt;Bah... &amp;#161;Sin durignita la t&amp;#233;cnica no sirve de nada, por muy sofisticada que sea!&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; est&amp;#225;n mis &amp;#250;ltimas muestras de durignita... &amp;#161;Sin esta durignita, estoy acabado!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="2" villagerId="1038">
+        <Page social="0" voiceTypeId="0">(Dices que est&amp;#225;s aqu&amp;#237; por la durignita.)&lt;BR&gt;&lt;BR&gt;&amp;#191;Es realmente necesario? Lo entiendo. Es evidente que la salvaci&amp;#243;n de la ciudad est&amp;#225; por encima del arte.&lt;BR&gt;&lt;BR&gt;Pero por qu&amp;#233; la federaci&amp;#243;n no se anticip&amp;#243; constituyendo una reserva de piedras m&amp;#225;gicas. Nos quitas nuestras &amp;#250;ltimas piedras, &amp;#191;y luego qu&amp;#233;?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="2" villagerId="1100">
+        <Page social="4" voiceTypeId="0">(Dices que est&amp;#225;s aqu&amp;#237; por la durignita.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Es una verdadera cruzada contra el arte! &amp;#191;Cu&amp;#225;nto tiempo m&amp;#225;s planeas prohibir el uso privado de las piedras m&amp;#225;gicas? &amp;#161;Arr&amp;#233;glatelas para recuperar el control de la situaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">(Le entregas la durignita y le haces un informe de las reacciones de los comerciantes.)&lt;BR&gt;&lt;BR&gt;La situaci&amp;#243;n es m&amp;#225;s grave de lo que pensaba. Si esto sigue as&amp;#237;, nos enfrentaremos a una verdadera rebeli&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as ir a las minas de Fyr Mountain para intentar restablecer el orden all&amp;#237;? En mi calidad de consejero de la federaci&amp;#243;n, te otorgo los poderes necesarios para esta misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Dada, el capataz de la mina del Kettle Outpost, te contar&amp;#225; m&amp;#225;s sobre la situaci&amp;#243;n actual en Fyr Mountain. Ve a buscarlo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" villagerId="1001">
+        <Page social="0">Gracias por ir a requisar la durignita de los comerciantes.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1119">
+        <Page social="5" voiceTypeId="0">&amp;#161;V... Vaya!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n eres? &lt;PCNAME&gt;? &amp;#191;La federaci&amp;#243;n de Castanica te encarg&amp;#243; solucionar el problema de las minas?&lt;BR&gt;&lt;BR&gt;Bueno, &amp;#161;ya era hora! Me siento muy aliviado. &amp;#191;Qu&amp;#233; sabes de la situaci&amp;#243;n que impera por aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;(Explicas que no sabes nada en concreto.)&lt;BR&gt;&lt;BR&gt;Ya veo. Si el problema se filtra, nuestra situaci&amp;#243;n se volver&amp;#225; tenible. Mis mineros han desaparecido.&lt;NEXTPAGEBUTTON&gt;"¿Han desaparecido los mineros?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Los muertos vivientes han invadido la mina. Ya no me atrevo a volver.&lt;BR&gt;&lt;BR&gt;Si eres de la federaci&amp;#243;n, &amp;#161;significa que tienes talento de sobra! Ve a explorar las minas y encuentra a mis mineros.&lt;BR&gt;&lt;BR&gt;En total hay dos minas. &amp;#161;Empieza por la &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7004#95358.7734,52169.5352,2236.8047&amp;type=1&amp;name=Mine de Delthin&quot;&gt;Delthin Mine&lt;/A&gt;&lt;/font&gt; antes de ir a la &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7004#98148.4609,51347.4570,2173.8384&amp;type=1&amp;name=Mine de Tansine&quot;&gt;Tansin Mine&lt;/A&gt;&lt;/font&gt;! &amp;#161;Encuentra a mis hombres y descubre qu&amp;#233; est&amp;#225; pasando!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="204" prevId="9" villagerId="1125">
+        <Page social="5" voiceTypeId="0">El vag&amp;#243;n est&amp;#225; vac&amp;#237;o...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="204" prevId="9" villagerId="1126">
+        <Page social="5" voiceTypeId="0">Fragmentos de huesos y muertos vivientes yacen en el suelo del vag&amp;#243;n.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="204" prevId="9" villagerId="1127">
+        <Page social="0" voiceTypeId="0">Se pueden ver palas y picos rotos en el interior.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="204" prevId="9" villagerId="1128">
+        <Page social="0" voiceTypeId="0">Unos fragmentos de durignita cubren el suelo de la vagoneta.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="204" prevId="10" villagerId="1129">
+        <Page social="5" voiceTypeId="0">La compa&amp;#241;&amp;#237;a minera de Maon's Cabin... El texto apenas es legible, pero parece ser una placa de identificaci&amp;#243;n... Deber&amp;#237;as guard&amp;#225;rtela.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="204" prevId="10" villagerId="1130">
+        <Page social="5" voiceTypeId="0">La gema contiene el retrato de una mujer. &amp;#191;Ser&amp;#225; su esposa? Deber&amp;#237;as guard&amp;#225;rtela.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="204" prevId="10" villagerId="1131">
+        <Page social="5" voiceTypeId="0">El minero sostiene un libro en sus brazos. Aparentemente es un diario, pero est&amp;#225; empapado de sangre y completamente ilegible. Deber&amp;#237;as guard&amp;#225;rtelo.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="204" prevId="10" villagerId="1132">
+        <Page social="5" voiceTypeId="0">Esto parece una foto de familia... Deber&amp;#237;as guard&amp;#225;rtela.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="204" prevId="14" villagerId="1119">
+        <Page social="5" voiceTypeId="0">(Le informas de la situaci&amp;#243;n a Dada y le entregas las pertenencias de los mineros.)&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;n todos muertos? Por eso nadie se ha presentado...&lt;BR&gt;&lt;BR&gt;Le har&amp;#233; llegar sus pertenencias a sus familias. Lo que pas&amp;#243; en las minas a&amp;#250;n me parece irreal. &amp;#161;Y las piedras m&amp;#225;gicas tambi&amp;#233;n han desaparecido! &amp;#161;Apuesto a que los muertos vivientes robaron las piedras m&amp;#225;gicas!&lt;BR&gt;&lt;BR&gt;Si no las recuperamos lo antes posible, Castanica correr&amp;#225; un gran peligro. Pedir&amp;#233; refuerzos contra los muertos vivientes. Pero antes de eso, quedan algunos detalles por resolver. &amp;#161;Ve a cazar al &lt;BR&gt; y al &lt;BR&gt; y recupera las piedras m&amp;#225;gicas!</Page>
+    </Text>
+    <Text id="19" huntingZoneId="204" villagerId="1119">
+        <Page social="0">&amp;#191;D&amp;#243;nde est&amp;#225;n las pertenencias de los difuntos?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="204" prevId="18" villagerId="1119">
+        <Page social="4" voiceTypeId="0">Bien. Tenemos suficiente durignita para durar un tiempo. Ll&amp;#233;vasela a Isolda. Descr&amp;#237;bele tambi&amp;#233;n la situaci&amp;#243;n en las minas para que nos env&amp;#237;e refuerzos. Cuento contigo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="204" villagerId="1119">
+        <Page social="0">Necesitamos durignita...</Page>
+    </Text>
+    <Text id="22" huntingZoneId="61" prevId="20" villagerId="1001">
+        <Page social="5" voiceTypeId="0">(Le entregas a Isolda la bolsa que contiene las piedras m&amp;#225;gicas y le describes la situaci&amp;#243;n en las minas.)&lt;BR&gt;&lt;BR&gt;As&amp;#237; que los muertos vivientes son los responsables del caos en las minas... Qu&amp;#233; tragedia todos esos mineros a los que han masacrado. Gracias. Debemos informar al tribuno y al adjunto de la hermandad sobre la situaci&amp;#243;n lo antes posible y lanzar una operaci&amp;#243;n defensiva.&lt;BR&gt;&lt;BR&gt;Cuando hayamos recuperado las minas de manos de los muertos vivientes, el problema de las piedras m&amp;#225;gicas se resolver&amp;#225; por s&amp;#237; solo. Pide a los aldeanos que tengan un poco m&amp;#225;s de paciencia. Te agradecer&amp;#237;a que me dijeras c&amp;#243;mo fue.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="61" prevId="22" villagerId="1029">
+        <Page social="5" voiceTypeId="0">(Repites las palabras de Isolda.)&lt;BR&gt;&lt;BR&gt;Realmente no tenemos otra opci&amp;#243;n. Debemos armarnos de paciencia. La paciencia no es exactamente mi mayor virtud... Pero si s&amp;#233; que est&amp;#225;s haciendo todo lo posible, puedo tener paciencia.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="61" prevId="22" villagerId="1042">
+        <Page social="4" voiceTypeId="0">(Repites las palabras de Isolda.)&lt;BR&gt;&lt;BR&gt;Entiendo. Esperemos que este problema se resuelva pronto. Nuestras opciones son muy limitadas por el momento. &amp;#161;Esos malditos muertos vivientes! Bueno, dicho esto, tal vez ya est&amp;#233;n malditos si est&amp;#225;n muertos, &amp;#191;no?</Page>
+    </Text>
+    <Text id="25" huntingZoneId="61" prevId="22" villagerId="1038">
+        <Page social="4" voiceTypeId="0">(Repites las palabras de Isolda.)&lt;BR&gt;&lt;BR&gt;Entiendo. Tendremos paciencia. Al menos hasta la reconquista de las minas y la erradicaci&amp;#243;n de los muertos vivientes.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="61" prevId="22" villagerId="1100">
+        <Page social="4" voiceTypeId="0">(Repites las palabras de Isolda.)&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo quieres que termine mi obra? Bueno, bueno, entiendo la situaci&amp;#243;n. Realmente no tengo otra opci&amp;#243;n m&amp;#225;s que esperar.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="61" prevId="23" villagerId="1001">
+        <Page social="5" voiceTypeId="0">(Informas a la consejera Isolda de la reacci&amp;#243;n de los aldeanos.)&lt;BR&gt;&lt;BR&gt;Entiendo. Menos mal que aceptan ser pacientes. Has hecho un trabajo excelente. Aqu&amp;#237; tienes una muestra de nuestro agradecimiento... un peque&amp;#241;o recuerdo de Castanica. Ac&amp;#233;ptalo, por favor.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0">A&amp;#250;n queda mucho por hacer, pero vas a estar {@g:transf&amp;#233;r&amp;#233;/transf&amp;#233;r&amp;#233;e}. Has hecho un buen trabajo, me da pena tener que dejarte ir.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dir&amp;#237;gete a la Isla Kerozen y ve a hablar con Ecryl en la T&amp;#234;te de Pont. Rompan filas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="0">Es la fortaleza naga m&amp;#225;s importante de la parte sur de Arun. Si logramos contenerlos, ser&amp;#225; una ventaja para todos.&lt;BR&gt;&lt;BR&gt;Dicen que estas alima&amp;#241;as reptantes est&amp;#225;n intentando despertar a Dagon. Dejemos que pierdan el tiempo y malgasten sus recursos. As&amp;#237; ser&amp;#225;n m&amp;#225;s f&amp;#225;ciles de combatir. Ve a preguntarle a Edine c&amp;#243;mo puedes ser &amp;#250;til y manos a la obra.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1002">
+        <Page social="0">La Isla Kerozen es un lugar peligroso, pero de gran importancia estrat&amp;#233;gica. Casi todo lo que vive all&amp;#237; solo piensa en exterminarnos, as&amp;#237; que no deber&amp;#237;as sentirte demasiado {@gender:d&amp;#233;pays&amp;#233;/d&amp;#233;pays&amp;#233;e} all&amp;#237;, &amp;#191;verdad, &lt;PCNAME&gt;?</Page>
+    </Text>
+</QuestDialog>

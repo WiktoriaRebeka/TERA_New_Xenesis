@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">Desde los recientes secuestros, hemos prohibido el acceso a los alrededores de Cavernes affam&amp;#233;es.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero eso solo ha hecho que los gulas sean m&amp;#225;s audaces!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tratemos de calmarlos un poco! &amp;#161;Mata a los {@LinkCreature:8#1011#sentinelles colossales} y a los {@LinkCreature:8#1021#cromos musardeurs} en Marais Vexatus. &amp;#161;Eso les ense&amp;#241;ar&amp;#225; a temer a la F&amp;#233;d&amp;#233;ration!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Esos gulas se lo pensar&amp;#225;n dos veces antes de intentar devorarnos, &amp;#191;no?</Page>
+    </Text>
+</QuestDialog>

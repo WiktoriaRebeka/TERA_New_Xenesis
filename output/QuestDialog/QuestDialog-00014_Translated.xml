@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0">Las hadas no son nuestro &amp;#250;nico problema. Todos los depredadores del bosque se han vuelto m&amp;#225;s agresivos.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:2#4#dents-de-sabre furtifs}, por ejemplo, por lo general solo se alimentan de jabal&amp;#237;es y porcinos.&lt;BR&gt;&lt;BR&gt;Al parecer, los le&amp;#241;adores ahora tambi&amp;#233;n forman parte de su dieta. Puse precio a sus cabezas. Tr&amp;#225;eme sus colmillos y te recompensar&amp;#233;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">Aqu&amp;#237; est&amp;#225; la recompensa por los colmillos, como promet&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">&amp;#191;Tienes problemas para arrancar los colmillos de los dientes de sable? &amp;#161;&amp;#191;Pensabas que te los iban a dar por iniciativa propia?!</Page>
+    </Text>
+</QuestDialog>

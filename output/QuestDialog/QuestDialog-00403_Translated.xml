@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Una investigaci&amp;#243;n exhaustiva en el valle nos ha permitido identificar a los demonios que influenciaban directamente a los esp&amp;#237;ritus. &amp;#161;Y qu&amp;#233; descubrimiento!&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n nuestros exploradores, los kariagons disponen de cadenas m&amp;#225;gicas. Necesitamos estudiarlas.&lt;BR&gt;&lt;BR&gt;Vaya a conseguir algunas de los {@LinkCreature:13#6#kariagons} y los {@LinkCreature:13#300942#serviteurs terrons}. Los encontrar&amp;#225; en la parte sudoeste del Valle maldito.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Las carreteras ya son m&amp;#225;s seguras. Independientemente de lo que los Descendientes de Lok hayan estado tramando con sus esclavos, les ha arruinado los planes. Pero para alcanzar nuestro objetivo, esta &amp;#250;nica victoria no bastar&amp;#225;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">Las cadenas son la clave de todo. Un simple hechizo de dominaci&amp;#243;n no reducir&amp;#237;a a un esp&amp;#237;ritu a la esclavitud de una forma tan absoluta. Mate a tantos {@LinkCreature:13#6#Kariagons} como sea necesario para conseguir algunas.</Page>
+    </Text>
+</QuestDialog>

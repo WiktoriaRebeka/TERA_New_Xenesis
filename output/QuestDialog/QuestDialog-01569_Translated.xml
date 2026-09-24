@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0">Oye, &amp;#191;no estar&amp;#225;s de camino al Taller de Creaci&amp;#243;n de Velika por casualidad?&lt;BR&gt;&lt;BR&gt;Estoy esperando la entrega de un arma que encargu&amp;#233; all&amp;#237;... &amp;#191;Podr&amp;#237;as dar una vuelta y preguntarle a la experta en fabricaci&amp;#243;n de armas cu&amp;#225;ndo estar&amp;#225; lista? Bueno, si ese es tu destino, por supuesto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="0">&amp;#161;Oh, ese bueno para nada...! Me hab&amp;#237;a olvidado por completo de su arma. Estoy tapado de trabajo.&lt;BR&gt;&lt;BR&gt;Me har&amp;#237;as un gran favor yendo a conseguirme un plano y los materiales con el mercader de all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Escucha, &lt;PCNAME&gt;, tambi&amp;#233;n te dar&amp;#233; un {@RawItem:206809} y la tarea ser&amp;#225; pan comido. No te preocupes, tengo la intenci&amp;#243;n de fabricar el arma yo mismo. No toma mucho tiempo, pero ir&amp;#237;a a&amp;#250;n m&amp;#225;s r&amp;#225;pido si el mineral ya estuviera preparado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve r&amp;#225;pido a ver al mercader para iniciar la fabricaci&amp;#243;n del {@RawItem:206814}!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1190">
+        <Page social="0">En efecto, me especializo en planos y materiales.&lt;BR&gt;&lt;BR&gt;Para procesar la piedra bruta, necesitas un lote de fabricaci&amp;#243;n y un plano.&lt;BR&gt;&lt;BR&gt;Puedes extraer la piedra bruta del mineral o comprarla con un vendedor. Los planos y los materiales siempre se compran a un mercader.&lt;BR&gt;&lt;BR&gt;Entonces, &amp;#191;quieres fabricar un {@RawItem:206814}? Para ello, necesitas un {@RawItem:206809} y un {@RawItem:204050}. Como es la primera vez que nos haces el honor, quiero regalarte un {@RawItem:204050}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1196">
+        <Page social="0">&amp;#161;Jaja, lo escuch&amp;#233; todo!&lt;BR&gt;&lt;BR&gt;Te doy un plano. &amp;#161;Pon a prueba tus habilidades de fabricaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1098">
+        <Page social="0">&amp;#161;Es un buen trabajo! Toma, elige otro plano de fabricaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;Maldici&amp;#243;n, todav&amp;#237;a no has conseguido el {@RawItem:206814}? &amp;#161;Pero date prisa!</Page>
+    </Text>
+</QuestDialog>

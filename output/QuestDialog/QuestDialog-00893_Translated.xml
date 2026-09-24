@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="4">No existe nada m&amp;#225;s aterrador que un ataque masivo de wendigos. Su audacia aumenta d&amp;#237;a a d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Debemos asegurar esta zona si queremos tener &amp;#233;xito. Ve a matar algunos {@LinkCreature:34#610#enrag&amp;#233;s} y {@LinkCreature:34#710#seigneurs de guerre} wendigos para debilitarlos.&lt;BR&gt;&lt;BR&gt;Mu&amp;#233;vete r&amp;#225;pido y no los atrajgas hacia nuestra posici&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Buen trabajo. Mientras los wendigos lamen sus heridas, podemos reforzar nuestra posici&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

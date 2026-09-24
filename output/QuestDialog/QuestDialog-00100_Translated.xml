@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Estas minas no nos sirven de nada si no podemos transportar lo que sacamos de ellas.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:4#1031#marchespores charbonneux} y los {@LinkCreature:4#1032#ghilliedhus fumants} son bestias est&amp;#250;pidas, pero eso no les impide convertir nuestros carretajes en le&amp;#241;a.&lt;BR&gt;&lt;BR&gt;Al&amp;#233;jalos de los caminos, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">Ahora que esas bestias se han largado, tal vez podamos volver a transportar nuestras mercanc&amp;#237;as.</Page>
+    </Text>
+</QuestDialog>

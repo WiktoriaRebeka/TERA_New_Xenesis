@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Balrug tendr&amp;#225; que ocuparse de los aprendices &amp;#233;l mismo durante unos d&amp;#237;as. Todav&amp;#237;a no puedo volver. Estoy arruinado y tengo que enviar un gran cargamento a la ciudad.&lt;NEXTPAGEBUTTON&gt;"Tal vez pueda ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">&amp;#161;Oye, no estaba pidiendo caridad! Es solo que... qu&amp;#233; miseria...&lt;BR&gt;&lt;BR&gt;Escuche, mi hija est&amp;#225; gravemente enferma. Los sanadores dicen que sobrevivir&amp;#225; con tal de que pueda conseguirle un remedio especial preparado por el Mysterium, pero cuesta un ojo de la cara. Si logro revender en ciudad un buen n&amp;#250;mero de pieles de primera calidad, tal vez por fin tenga los medios para comprarlo. Si de verdad quiere ayudarme, vaya a cazar dientes de sable... Necesito pieles de una calidad impecable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">No estoy acostumbrado a tener que agradecerle a la gente. Siempre he intentado salir adelante sin la ayuda de nadie, pero estas pieles me dar&amp;#225;n lo suficiente para comprar el remedio que mi hija necesita.&lt;BR&gt;&lt;BR&gt;Tengo una deuda con usted, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1032">
+        <Page social="0">El remedio que mi hija necesita cuesta una fortuna. Por favor... mate a esos dientes de sable y tr&amp;#225;igame sus pieles.</Page>
+    </Text>
+</QuestDialog>

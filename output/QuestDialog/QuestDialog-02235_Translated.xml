@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="0">Elesa explic&amp;#243; todo lo que puedes hacer durante la fiesta en la playa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="4">A ver... &amp;#191;por d&amp;#243;nde empezar?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah! Deber&amp;#237;as ir a ver al peque&amp;#241;o Popori, Langon, que est&amp;#225; frente a la taberna. &amp;#161;Te ense&amp;#241;ar&amp;#225; todo lo que hay que saber sobre construcciones de arena! &amp;#161;Es un artista talentoso!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2010">
+        <Page social="4">&amp;#191;Hola? Je, je, &amp;#191;ves los castillos de arena de ah&amp;#237;? &amp;#161;Los constru&amp;#237; yo! Puedo ense&amp;#241;arte a construir uno. &amp;#161;Je, je!&lt;BR&gt;&lt;BR&gt;Consigue arena mojada en la playa y haz exactamente lo que estoy haciendo ahora. Cuando termines, tendr&amp;#225;s un magn&amp;#237;fico castillo de arena frente a ti.&lt;BR&gt;&lt;BR&gt;&amp;#161;Deber&amp;#237;as intentarlo, &lt;BR&gt;! &amp;#161;Haz tres castillos de arena para que pueda evaluarte correctamente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="2010">
+        <Page social="6">Je, je, &amp;#191;lo intentaste?&lt;BR&gt;&lt;BR&gt;&amp;#191;A que mola? Je, je.&lt;BR&gt;&lt;BR&gt;Pero sabes, es una especie de juego para ni&amp;#241;os como yo. Wahmel tiene un juego que me gustar&amp;#237;a probar, pero soy demasiado peque&amp;#241;o. &amp;#191;Est&amp;#225; ah&amp;#237;, ves la valla? &amp;#161;Deber&amp;#237;as probarlo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="2005">
+        <Page social="4">&amp;#161;Bienvenida, &lt;PCCLASS:lcase&gt;! &amp;#191;Buscas un juego divertido? &amp;#161;Est&amp;#225;s en el lugar correcto!&lt;BR&gt;&lt;BR&gt;Seguro que te preguntas en qu&amp;#233; consiste el juego.&lt;BR&gt;&lt;BR&gt;Se llama &amp;quot;&amp;#161;Golpea las sand&amp;#237;as!&amp;quot;&lt;NEXTPAGEBUTTON&gt;"¿Golpear sandías?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;A&amp;#250;n no has jugado al juego de &quot;&amp;#161;Golpea las sand&amp;#237;as!&quot;? &amp;#161;Pues podr&amp;#237;a convertirse en tu nuevo deporte favorito!&lt;BR&gt;&lt;BR&gt;&amp;#161;Todo lo que tienes que hacer es golpear tres sand&amp;#237;as en el tiempo l&amp;#237;mite! Todo el mundo puede hacerlo con los ojos cerrados, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tal si lo hacemos m&amp;#225;s interesante vend&amp;#225;ndote los ojos durante todo el juego?&lt;BR&gt;&lt;BR&gt;Oh, y no escuches lo que dicen las sand&amp;#237;as, intentar&amp;#225;n convencerte de que no lo son, &amp;#161;las mentirosas!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="5" villagerId="2005">
+        <Page social="4">&amp;#191;Qu&amp;#233; te parece? &amp;#161;Ya te dije que era un juego genial!&lt;BR&gt;&lt;BR&gt; &amp;#191;Quieres jugar otra vez? &amp;#191;O prefieres aceptar un nuevo desaf&amp;#237;o? &amp;#161;Te sugiero los ca&amp;#241;ones pulverizadores de Chelton, un poco m&amp;#225;s adelante en la playa!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="6" villagerId="2001">
+        <Page social="4">&amp;#161;Bienvenida, {@gender:cher/ch&amp;#232;re} &lt;PCRACE:lcase&gt;! &lt;BR&gt;&lt;BR&gt;&amp;#161;Aqu&amp;#237; tienes el juego del ca&amp;#241;&amp;#243;n pulverizador! Las reglas son simples.&lt;BR&gt;&lt;BR&gt;Para empezar, hazme una se&amp;#241;al cuando est&amp;#233;s {@gender:pr&amp;#234;t/pr&amp;#234;te} y har&amp;#233; que te subas a uno de los ca&amp;#241;ones que ves ah&amp;#237; en la playa.&lt;BR&gt;&lt;BR&gt;Luego podr&amp;#225;s disparar a los monstruos. &amp;#161;Dispara! &amp;#161;Dispara! &amp;#161;Dispara! &amp;#161;Los rojos dan m&amp;#225;s puntos que los azules!&lt;BR&gt;&lt;BR&gt;En resumen: rojo, bien; azul, menos bien. &amp;#191;Entendido? &amp;#161;Pues vamos all&amp;#225;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="7" villagerId="2001">
+        <Page social="4">&amp;#191;Te ha gustado?&lt;BR&gt;&lt;BR&gt;Jaja, no te preocupes. &amp;#161;Sigue as&amp;#237; y mejorar&amp;#225;s, te lo prometo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres probar algo nuevo? Ve al otro lado de la playa y busca a Stefanna.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="8" villagerId="2011">
+        <Page social="4">Bienvenida, me llamo Stefanna. &amp;#191;Seguro que ya has o&amp;#237;do hablar de m&amp;#237;, la famosa esteticista y creadora de moda? &amp;#191;No? S&amp;#237;, hay que decir que Aparentemente la moda no le interesa a todo el mundo...&lt;BR&gt;&lt;BR&gt;Bueno, &amp;#191;qu&amp;#233; te trae por aqu&amp;#237;? S&amp;#233; que muchos Castanics quieren la piel dorada en esta &amp;#233;poca del a&amp;#241;o, pero no creo que lo necesites, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"¿Busco algo divertido que hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mmm, algo divertido... &amp;#161;Oh! Deber&amp;#237;as ir a ver a Dolme. Es un grabador de cuernos y acaba de abrir su propia exposici&amp;#243;n. &amp;#161;Deber&amp;#237;a ir a conocerlo!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="9" villagerId="2004">
+        <Page social="4">Saludos. Me da la impresi&amp;#243;n de haberte visto en alguna parte. &amp;#191;Nos conocemos ya? Ja, ja.&lt;BR&gt;&lt;BR&gt;Si buscas algo divertido que hacer en esta fiesta en la playa, est&amp;#225;s en el lugar correcto. Para ser sincera contigo, los juegos de ca&amp;#241;ones, disparos de sand&amp;#237;as y castillos de arena est&amp;#225;n ah&amp;#237; solo para atraer turistas y ganar dinero.&lt;NEXTPAGEBUTTON&gt;"¿Qué ofreces entonces durante esta fiesta?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Soy muy tradicional: trabajo el cuerno. Es la tarea m&amp;#225;s importante de la fiesta en la playa. De hecho, &lt;PCNAME&gt;, d&amp;#233;jame mostrarte de lo que soy capaz. Para ello necesitamos unos cuantos cuernos. &amp;#191;Podr&amp;#237;as traerme una molar de jabal&amp;#237;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="10" villagerId="2004">
+        <Page social="4">&amp;#161;Ooh, qu&amp;#233; excelente esp&amp;#233;cimen!&lt;BR&gt;&lt;BR&gt;Por favor, espera un momento mientras te esculpo algo.&lt;NEXTPAGEBUTTON&gt;"De acuerdo. ¡Tengo ganas de ver el resultado!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">... &amp;#161;y listo!&lt;BR&gt;&lt;BR&gt;Es bonito, &amp;#191;verdad? Veamos, no s&amp;#233; qu&amp;#233; esperabas de un peque&amp;#241;o diente de jabal&amp;#237;.&lt;BR&gt;&lt;BR&gt;Oh, pero sales ganando. &amp;#161;Ll&amp;#233;vaselo a Ramsay en L&amp;#225;grima de V&amp;#237;bora, la taberna de la playa, y te lo cambiar&amp;#225; por una bebida gratis!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Encu&amp;#233;ntrame un cuerno y te har&amp;#233; algo bueno.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="210" prevId="11" villagerId="2007">
+        <Page social="4">&amp;#161;Ah! &amp;#161;Es muy tierno! &amp;#191;Es para m&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Es una verdadera obra maestra! &amp;#191;Y me lo puedo quedar? &amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta recompensa. Es lo menos que puedo hacer. Y si deseas recibir otras recompensas, tr&amp;#225;eme una de esas grandes esculturas de cuerno.&lt;BR&gt;&lt;BR&gt;&amp;#161;Disfruta del festival!</Page>
+    </Text>
+</QuestDialog>

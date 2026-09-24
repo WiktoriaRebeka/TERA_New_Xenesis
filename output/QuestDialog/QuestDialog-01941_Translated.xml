@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">&amp;#161;Debemos detener a los saqueadores que los vampiros enviaron desde Manoir sinistre.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los {@LinkCreature:488#4#d&amp;#233;fenseurs}, los {@LinkCreature:488#7#d&amp;#233;vastateurs}, los {@LinkCreature:488#12#tisseurs sombres} y los {@LinkCreature:488#14#forme-sang} de Lok llevan demasiado tiempo burl&amp;#225;ndose de nosotros!&lt;BR&gt;&lt;BR&gt;Y adem&amp;#225;s, &amp;#191;qu&amp;#233; hacen los adoradores de Lok junto a los vampiros, por cierto?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has resuelto el problema de los adoradores de Lok? &amp;#161;Muy bien!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Quiero ver muertos a esos adoradores de Lok, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

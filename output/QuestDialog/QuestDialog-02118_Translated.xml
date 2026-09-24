@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Hemos recibido una solicitud de suministros inusual para las catacumbes.&lt;BR&gt;&lt;BR&gt;Es un destino muy peligroso, pero est&amp;#225;s a la altura. Ve a presentar tu informe a Artur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">S&amp;#237;, necesito ayuda, &amp;#161;eso se puede decir! {@LinkCreature:418#2006#Geik} ha pedido que le lleven setas de Cadmiel para las pruebas con los argon.&lt;BR&gt;&lt;BR&gt;Encuentra algunas y ve a verle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2006">
+        <Page social="4">Qu&amp;#233; rapidez, &lt;PCNAME&gt;. Solo envi&amp;#233; mi solicitud ayer.&lt;BR&gt;&lt;BR&gt;Me muero de ganas de ver c&amp;#243;mo estas setas de Cadmiel van a afectar a la fisiolog&amp;#237;a argon.&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo espero que no los hagan m&amp;#225;s fuertes!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2006">
+        <Page social="0">De estas setas dependen importantes avances cient&amp;#237;ficos. Las necesito, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2006">
+        <Page social="4">Qu&amp;#233; rapidez, &lt;PCNAME&gt;. Solo envi&amp;#233; mi solicitud ayer.&lt;BR&gt;&lt;BR&gt;Me muero de ganas de ver c&amp;#243;mo estas setas de Cadmiel van a afectar a la fisiolog&amp;#237;a argon.&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo espero que no los hagan m&amp;#225;s fuertes!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2006">
+        <Page social="0">De estas setas dependen importantes avances cient&amp;#237;ficos. Las necesito, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2006">
+        <Page social="4">Qu&amp;#233; rapidez, &lt;PCNAME&gt;. Solo envi&amp;#233; mi solicitud ayer.&lt;BR&gt;&lt;BR&gt;Me muero de ganas de ver c&amp;#243;mo estas setas de Cadmiel van a afectar a la fisiolog&amp;#237;a argon.&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo espero que no los hagan m&amp;#225;s fuertes!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2006">
+        <Page social="0">De estas setas dependen importantes avances cient&amp;#237;ficos. Las necesito, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="22008">
+        <Page social="1">&amp;#191;Sabes c&amp;#243;mo nos entrenamos por aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos a las b&amp;#243;vedas y atacamos a un {@linkcreature:124#102#Cyclope}, un {@linkcreature:125#103#Dracoloth} o un {@linkcreature:126#104#D&amp;#233;chireur vulcain} al que hacemos picadillo! &amp;#161;Tr&amp;#225;eme un coraz&amp;#243;n como prueba de tu valor!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="22008">
+        <Page social="4">&amp;#191;Te pareci&amp;#243; interesante el entrenamiento, &lt;pcname&gt;? &lt;BR&gt;&lt;BR&gt; Es la opini&amp;#243;n habitual de los nuevos reclutas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="22008">
+        <Page social="0">&amp;#161;Por la Orden de Hierro!</Page>
+    </Text>
+</QuestDialog>

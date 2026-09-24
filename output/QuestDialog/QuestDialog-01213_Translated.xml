@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="4">He tra&amp;#237;do un cargamento de cerditos j&amp;#243;venes para alimentar a los soldados.&lt;BR&gt;&lt;BR&gt;Por desgracia, algunos se escaparon anoche. Tengo muchas bocas que alimentar hoy y necesito esta carne. &amp;#191;Puedes ayudarme?&lt;NEXTPAGEBUTTON&gt;"¿Dónde están?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Prueba al este de la entrada de la fortaleza. Deben de estar buscando algo de comer.&lt;BR&gt;&lt;BR&gt;Buena caza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1009">
+        <Page social="6">Buen trabajo. Nuestros soldados se merecen todo lo que pueda subirles la moral.&lt;BR&gt;&lt;BR&gt;Solo falta saber si debo ahumarlos, asarlos o hacerlos a la parrilla...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1009">
+        <Page social="0">&amp;#191;Has encontrado a {@LinkCreature:48#100#jeunes porcid&amp;#233;s}? Tengo est&amp;#243;magos hambrientos que alimentar...</Page>
+    </Text>
+</QuestDialog>

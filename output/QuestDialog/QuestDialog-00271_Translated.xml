@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Elimina a los enemigos que patrullan en la Galer&amp;#237;a del Caos y la Galer&amp;#237;a del Destino del Laberinto de Azarel y trae pruebas de su muerte.&lt;BR&gt;&lt;BR&gt;Objetivos: las {@LinkCreature:9#810#gourmands gulas}, las {@LinkCreature:9#910#z&amp;#233;lotes ca&amp;#239;mans}, las {@LinkCreature:9#440#&amp;#233;tripeurs gulas}, las {@LinkCreature:9#450#enrag&amp;#233;s gulas}, las {@LinkCreature:9#1000#faucheurs sanglants de Lok}, las {@LinkCreature:9#1100#ma&amp;#238;tres archers de Lok}, las {@LinkCreature:9#1200#champions de Lok} y las {@LinkCreature:9#1300#enrag&amp;#233;s sanglants de Lok}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">&amp;#161;La Federaci&amp;#243;n quiere entregarte esta recompensa! &amp;#161;Con nuestros agradecimientos a todos los miembros de la hermandad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

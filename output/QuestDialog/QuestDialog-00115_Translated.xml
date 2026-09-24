@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">Creo que los shurians han armado un l&amp;#237;o tremendo. Anta&amp;#241;o, los {@LinkCreature:4#3021#r&amp;#244;deurs des &amp;#226;mes}, los protectores elegidos del santuario de Bahaar, nos dejaban en paz, excepto cuando nos acerc&amp;#225;bamos demasiado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Se acab&amp;#243;! &amp;#161;Por culpa de los shurians, los r&amp;#244;deurs des &amp;#226;mes atacan todo lo que se mueve! No tengo nada en contra de Bahaar, &amp;#161;pero debemos aplastar a los r&amp;#244;deurs des &amp;#226;mes antes de que nos aplasten a nosotros!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Los shurians se est&amp;#225;n retirando y nos hemos ocupado de los r&amp;#244;deurs des &amp;#226;mes: Bahaar puede descansar en paz, bien calientes, y nosotros podemos terminar nuestro trabajo sin miedo.&lt;BR&gt;&lt;BR&gt;Las cosas ya son bastante peligrosas as&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">Los {@LinkCreature:4#3021#r&amp;#244;deurs des &amp;#226;mes} son nuestra prioridad por el momento. Evite que se acerquen a nuestras tropas.</Page>
+    </Text>
+</QuestDialog>

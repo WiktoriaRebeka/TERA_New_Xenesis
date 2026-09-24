@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="4" voiceTypeId="0">El sistema de defensa de la fortaleza ha infligido da&amp;#241;os colosales a nuestros soldados.&lt;BR&gt;&lt;BR&gt;Tomamos precauciones para los distintos escenarios, pero esto es solo una Base avanzada y, por tanto, no tenemos suficientes medicamentos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarnos a recolectar hierbas medicinales, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Te ayudaré."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Te lo agradezco.&lt;BR&gt;&lt;BR&gt;Empieza por ir a ver a Verikam, el capit&amp;#225;n de Hautegarde, y p&amp;#237;dele que nos env&amp;#237;e medicamentos para los soldados heridos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Entendido.&lt;BR&gt;&lt;BR&gt;Te enviaremos toda la ayuda de la que podamos prescindir, pero visto el n&amp;#250;mero de heridos, los bienes almacenados en Hautegarde nunca ser&amp;#225;n suficientes.&lt;BR&gt;&lt;BR&gt;Para compensar los productos m&amp;#233;dicos que faltan, debemos recolectar plantas medicinales en los alrededores de Hautegarde. Enviar&amp;#233; recolectores a buscar las cantidades que faltan.&lt;BR&gt;&lt;BR&gt;Pero como es urgente, tambi&amp;#233;n deber&amp;#237;as recoger tantas hierbas curativas como puedas de camino de vuelta a la Base avanzada.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="6016">
+        <Page social="4" voiceTypeId="0">Has hecho un trabajo excelente.&lt;BR&gt;&lt;BR&gt;Una gran cantidad de remedios acaba de llegar procedente de Hautegarde. Deber&amp;#237;a ser suficiente para curar a todos los soldados heridos.&lt;BR&gt;&lt;BR&gt;Las hierbas curativas que has recolectado por el camino tambi&amp;#233;n nos ser&amp;#225;n de gran ayuda, protector.&lt;NEXTPAGEBUTTON&gt;"Espero que los soldados se recuperen pronto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

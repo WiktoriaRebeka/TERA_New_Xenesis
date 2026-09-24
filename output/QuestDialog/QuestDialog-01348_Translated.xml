@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">Se necesitan refuerzos en la parte norte de Habere. Por ahora, nuestras tropas han logrado repeler las fuerzas de Thulsa, pero la vida de nuestros hombres pende de un hilo.&lt;BR&gt;&lt;BR&gt;Sichel, que est&amp;#225; apostado en la puerta norte, sabr&amp;#225; explicarte c&amp;#243;mo llegar a la Loge perdue. Que Kaia te bendiga.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1003">
+        <Page social="4">Este camino hacia el noreste te llevar&amp;#225; a la Loge perdue.&lt;BR&gt;&lt;BR&gt;Es la &amp;#250;nica forma de acceder, pero est&amp;#225; custodiada por lanceros no muertos.&lt;BR&gt;&lt;BR&gt;Si los eliminas, se puede decir que nos quitar&amp;#225;s un gran peso de encima.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1001">
+        <Page social="4">&amp;#161;Ey, bienvenido! Es valiente de tu parte haber atravesado esta horda de no muertos para venir a ayudarnos, gracias.&lt;BR&gt;&lt;BR&gt;Soy el prefecto Khubyar. &amp;#161;Encantado de conocerte, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+</QuestDialog>

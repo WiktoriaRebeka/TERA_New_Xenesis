@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Unos investigadores de la Estaci&amp;#243;n Queldar no pod&amp;#237;an llegar a su puesto debido a los demokrons de los alrededores.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; salv&amp;#243; a los investigadores y los escolt&amp;#243; a salvo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#161;Eh! &amp;#191;Hay alguien ah&amp;#237;?&lt;BR&gt;&lt;BR&gt;&quot;&amp;#161;Har&amp;#237;a falta un poco de ayuda por aqu&amp;#237;!&quot;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3006">
+        <Page social="4" voiceTypeId="0">Oh, lo que faltaba, por fin llega alguien.&lt;BR&gt;&lt;BR&gt;Soy un arque&amp;#243;logo adscrito a la Estaci&amp;#243;n Queldar. &amp;#205;bamos de camino a nuestro yacimiento cuando nos topamos con unos demokrons. &amp;#161;Nuestros guardias fueron superados, pero aun as&amp;#237; lograron alejar a las criaturas de nosotros!&lt;BR&gt;&lt;BR&gt;Por desgracia, nos hemos quedado atrapados aqu&amp;#237; sin escolta.&lt;NEXTPAGEBUTTON&gt;"Si estás listo para partir, puedo ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="5">
+        <Page social="0">Muchas gracias, &lt;PCNAME&gt;, y lamento molestarte de este modo.&lt;BR&gt;&lt;BR&gt;De verdad har&amp;#237;amos bien en pasar menos tiempo leyendo libros sobre guerreros y un poco m&amp;#225;s de tiempo aprendiendo a defendernos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Gracias por ayudar a nuestros investigadores a regresar. BR&gt;&lt;BR&gt;Por lo general, los guardias de Highwatch son totalmente capaces de garantizar nuestra seguridad... Pero dado que todo el mundo est&amp;#225; ocupado localizando al venerable Verikam o reforzando las defensas de la ciudad, es m&amp;#225;s f&amp;#225;cil que se vean superados.&lt;BR&gt;&lt;BR&gt;Tienes todo nuestro agradecimiento.&lt;NEXTPAGEBUTTON&gt;"Encantado{@g:/e} de poder ayudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

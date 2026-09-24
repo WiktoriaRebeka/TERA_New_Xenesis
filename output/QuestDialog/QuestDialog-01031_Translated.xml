@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">No podemos dejar que los {@LinkCreature:39#280#d&amp;#233;vastateurs arachn&amp;#233;ens} hagan lo que quieran. Eso pondr&amp;#237;a en demasiada desventaja a nuestras tropas.&lt;BR&gt;&lt;BR&gt;Reduce su n&amp;#250;mero para evitar que ataquen nuestra posici&amp;#243;n en masa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="4">Muy bien. Eso nos quita una preocupaci&amp;#243;n de encima. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">No podemos darnos el lujo de perder el tiempo. &amp;#161;Quiero ver muertos a estos {@LinkCreature:39#280#d&amp;#233;vastateurs arachn&amp;#233;ens}!</Page>
+    </Text>
+</QuestDialog>

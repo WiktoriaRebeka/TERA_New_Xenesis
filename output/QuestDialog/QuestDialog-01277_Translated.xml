@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="4">&amp;#161;Ey! No te ves como los in&amp;#250;tiles con los que suelo cruzarme. &amp;#191;Podr&amp;#237;as darme una mano?&lt;BR&gt;&lt;BR&gt;Tengo la misi&amp;#243;n de recuperar piedras m&amp;#225;gicas, pero si voy, ser&amp;#233; destrozado por las criaturas de tipo {@LinkCreature:49#2} y {@LinkCreature:49#101} que viven all&amp;#237;. No me atrevo a aventurarme en el {@Rgn:49002}.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as eliminar a cada {@LinkCreature:49#101}? Solo basta con esquivar a las criaturas de tipo {@LinkCreature:49#2}. &amp;#161;Como recompensa, te ofrecer&amp;#233; {@RawItem:206811}!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1021">
+        <Page social="6">&amp;#161;Te apuraste! &amp;#191;Eliminaste a las criaturas de tipo {@LinkCreature:49#101}? &amp;#161;Muchas gracias!&lt;BR&gt;&lt;BR&gt;Ya no tendr&amp;#233; miedo. Aqu&amp;#237; tienes {@RawItem:206811}. Seleccion&amp;#233; el mejor yacimiento.</Page>
+    </Text>
+</QuestDialog>

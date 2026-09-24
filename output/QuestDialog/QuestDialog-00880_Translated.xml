@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="4">De hecho, me dan pena los {@LinkCreature:33#66#prisonniers pourrissants}.&lt;BR&gt;&lt;BR&gt;Claramente, no es por su propia voluntad que deambulan por estos pasillos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as liberarlos de su sufrimiento y permitir que sus almas se unan al mundo del R&amp;#234;ve?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1014">
+        <Page social="4">Les has permitido encontrar la paz del R&amp;#234;ve, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Alg&amp;#250;n d&amp;#237;a, tal vez, mataremos a Thulsa; y &amp;#233;l sufrir&amp;#225; los tormentos de la pesadilla.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1014">
+        <Page social="0">Los {@LinkCreature:33#66#prisonniers pourrissants} est&amp;#225;n debajo de nosotros, en este lugar horrible, &lt;PCNAME&gt;. Pon fin a su sufrimiento.</Page>
+    </Text>
+</QuestDialog>

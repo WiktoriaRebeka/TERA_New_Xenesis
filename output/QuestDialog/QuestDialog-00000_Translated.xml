@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Boquillon tuvo que hacer frente a una llegada masiva de refugiados procedentes de la Fey Forest y el Bois de l'oubli. El pueblo de las hadas de la Fey Forest se hab&amp;#237;a revuelto contra los le&amp;#241;adores locales, y numerosos rumores informaban de la presencia de una energ&amp;#237;a m&amp;#225;gica nefasta en el Bosque de los estigmas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;El pueblo de las hadas de Arcadia la toma con los le&amp;#241;adores y compromete el transporte de madera hacia Velika.&lt;BR&gt;&lt;BR&gt;Ve a presentar tu informe al comandante Samael.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">Has tardado.&lt;BR&gt;__&amp;#191;Tienes un problema con el respeto a la autoridad?&lt;BR&gt;&lt;BR&gt;Vas a tener que volver a entrar en vereda.&lt;BR&gt;&lt;BR&gt;Te mando ahora mismo a la provincia de Arcadia. El pueblo de las hadas la est&amp;#225; tomando con los le&amp;#241;adores de la regi&amp;#243;n, y nuestro suministro de madera lleva interrumpido d&amp;#237;as.&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Troius&lt;/b&gt; te explicar&amp;#225; c&amp;#243;mo llegar a Boquillon. &amp;#161;A trabajar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4">Tomar un Pegaso es el medio m&amp;#225;s r&amp;#225;pido para llegar a Boquillon. Y conociendo a Samael, exactamente vas a tener que darte prisa. La maestra de vuelo se llama Adela. Seguro que hiciste su amistad a tu llegada. Ella se encargar&amp;#225; de ponerte en la silla.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1009">
+        <Page social="4">&amp;#191;Est&amp;#225;s {@gender:pr&amp;#234;t/pr&amp;#234;te} listo para irte?&lt;BR&gt;&lt;BR&gt;Haz clic en &lt;B&gt;Points de vol&lt;/B&gt; para acceder al mapa del sur de Arun y selecciona tu destino.&lt;BR&gt;&lt;BR&gt;Cuentas con ir a Boquillon, &amp;#191;verdad? Se encuentra al norte de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" prevId="5" villagerId="1014">
+        <Page social="4">Gente como t&amp;#250;, es a montones que la necesitar&amp;#237;a. Pero en fin... ya es un buen comienzo.&lt;BR&gt;&lt;BR&gt;Intentamos asegurar el suministro de Velika, sabiendo que la mayor parte del ej&amp;#233;rcito est&amp;#225; luchando contra los argons en la l&amp;#237;nea de frente, pero por el momento, es literalmente imposible. Los centauros y las hadas la toman con los le&amp;#241;adores, y no podemos proteger a todo el mundo.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, &lt;b&gt;Klaon&lt;/b&gt; tiene que lidiar con un n&amp;#250;mero creciente de refugiados enfermos. Ve a echarle una mano, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="60" prevId="6" villagerId="1039">
+        <Page social="4">&amp;#161;Los le&amp;#241;adores son incapaces de trabajar, las hadas se han vuelto incontrolables, los refugiados claman hambre... La situaci&amp;#243;n se vuelve intenible!&lt;BR&gt;&lt;BR&gt;Los refugiados cuentan conmigo para mantenerlos con buena salud y son cada vez m&amp;#225;s. Empezamos a carecer de medicamentos y estoy agotado. Me vendr&amp;#237;an muy bien unas graciflores sutiles para preparar un remedio. &amp;#191;Podr&amp;#237;as recolectarme algunas? Crecen en un campo que est&amp;#225; justo despu&amp;#233;s del puente al norte.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="60" prevId="7" villagerId="1039">
+        <Page social="4">Esta graciflor deber&amp;#237;a servir.&lt;BR&gt;&lt;BR&gt;De aqu&amp;#237; a unos instantes, habr&amp;#233; terminado de apa&amp;#241;ar esto...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="60" villagerId="1039">
+        <Page social="0">Date prisa, &lt;PCNAME&gt;. El estado de salud de los refugiados no va a mejor. Una epidemia puede declararse en cualquier momento, y sin estas graciflores sutiles...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="60" prevId="8" villagerId="1039">
+        <Page social="4">Ve a administrar este t&amp;#243;nico a los m&amp;#225;s enfermos de los refugiados. Cuantos m&amp;#225;s sean en beberlo, menos contaminados tendremos en nuestras manos despu&amp;#233;s.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="60" prevId="10" villagerId="1040">
+        <Page social="4">&amp;#191;Qu&amp;#233; me pasa? Me siento muy mal. Ni siquiera puedo levantarme ya. &amp;#191;Por qu&amp;#233; estamos aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt; &amp;#161;Solo tengo ganas de hacerme un ovillo y morir!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="60" prevId="11" villagerId="1041">
+        <Page social="4">Tengo... tanto fr&amp;#237;o... Ya no me quedan... fuerzas...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="60" prevId="12" villagerId="1042">
+        <Page social="4">Ay&amp;#250;dame. Haz algo. &amp;#161;Lo que sea!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="60" prevId="13" villagerId="1043">
+        <Page social="4">El dolor... es insoportable. Que alguien ponga fin a mis sufrimientos.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="60" prevId="14" villagerId="1039">
+        <Page social="4">Tengo grandes esperanzas... este t&amp;#243;nico deber&amp;#237;a permitirnos solucionar el problema. Por supuesto, quedan algunos efectos secundarios indeseables, pero terminar&amp;#233; por encontrar una manera de arreglar eso...&lt;BR&gt;&lt;BR&gt;Mientras tanto, el centuri&amp;#243;n Verus se contentar&amp;#225; ciertamente con esto. Se encuentra en la empalizada del le&amp;#241;ador, donde espera la llegada de un grupo de refugiados. Lo encontrar&amp;#225;s al noroeste de la ciudad.&lt;NEXTPAGEBUTTON&gt;"Me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Verus conoce a un Popori llamado Maon que podr&amp;#237;a tener una influencia considerable sobre las hadas. Podr&amp;#237;amos recurrir a &amp;#233;l para sofocar la revuelta contra nuestros le&amp;#241;adores.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="202" prevId="15" villagerId="1004">
+        <Page social="4">Ah, las pociones de Klaon. Vamos a utilizar tal vez este campamento para albergar refugiados. Ser&amp;#237;a m&amp;#225;s prudente tener medicamentos antes de su llegada. No pensaba que Klaon tuviera tantas provisiones...&lt;BR&gt;&lt;BR&gt;En cualquier caso, gracias por esta entrega. &amp;#191;Puedo hacer algo por ti mientras est&amp;#225;s aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"¿Has oído hablar de Maon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Somos viejos amigos, Maon y yo. Conoce bien el bosque y las hadas.&lt;BR&gt;&lt;BR&gt;Ya no sale mucho desde el inicio de los conflictos, pero si deseas hablar con &amp;#233;l, lo encontrar&amp;#225;s en una caba&amp;#241;a al oeste de aqu&amp;#237;. Vive all&amp;#237; con su hijo, un buen muchacho.</Page>
+    </Text>
+</QuestDialog>

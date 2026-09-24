@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="4">Son los {@LinkCreature:39#110#ovolithes gardiens} los que realmente me hielan la sangre. &amp;#191;Los escuchas? Yo s&amp;#237;. Incluso cuando duermo.&lt;BR&gt;&lt;BR&gt;No puedo ir a matarlos yo mismo, pero ofrecer&amp;#233; una recompensa a quien se encargue de ello.&lt;BR&gt;&lt;BR&gt; Tr&amp;#225;eme su coraz&amp;#243;n para poder asegurarme de su muerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1024">
+        <Page social="4">Cada coraz&amp;#243;n significa uno menos.&lt;BR&gt;&lt;BR&gt;Tal vez pueda so&amp;#241;ar con otra cosa ahora. Toma, como muestra de agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1024">
+        <Page social="0">&amp;#191;Mataste a los {@LinkCreature:39#110#ovolithes gardiens}? &amp;#191;No hay sobrevivientes?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">Has ayudado a los tuwangis y te has unido a la fiesta del estanque.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">La fiesta del estanque es una ceremonia para los tuwangis que celebran sus siete a&amp;#241;os. &amp;#161;Los rituales tuwangis son sorprendentemente complejos para una especie tan primitiva!&lt;BR&gt;&lt;BR&gt;Habla con el cham&amp;#225;n Haroso. Quiz&amp;#225;s te permita observar a los j&amp;#243;venes tuwangis o incluso participar en la ceremonia.&lt;NEXTPAGEBUTTON&gt;De acuerdo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Joven tuwangi tiene miedo. Se esconde. Debe encontrar. &amp;#161;Debe dar valor!&lt;NEXTPAGEBUTTON&gt;¿Cómo puedo ayudarte?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Haroso toca el tambor. &lt;BR&gt;&amp;#161;Pum, pum tambor! Toca el tambor para dar valor a tuwangi.&lt;BR&gt;&lt;BR&gt;&amp;#161;Encuentra a tuwangi! Pum tambor. Da valor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2006">
+        <Page social="4">Du... cou... rage.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="4">&amp;#161;Gracias! T&amp;#250; trabajar duro. &amp;#161;Nosotros banquete!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gran banquete por tu trabajo!&lt;NEXTPAGEBUTTON&gt;No hice gran cosa.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;T&amp;#250; traer banquete! &amp;#161;Traer carne de drag&amp;#243;n! &amp;#161;Todos los tuwangis banquete! &amp;#161;Carne de drag&amp;#243;n mejor carne!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="5" villagerId="2001">
+        <Page social="4">&amp;#161;Carne de drag&amp;#243;n!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" villagerId="2001">
+        <Page social="0">&amp;#161;Carne de drag&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

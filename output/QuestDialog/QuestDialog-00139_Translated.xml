@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">&amp;#161;Oh, no! &amp;#161;Maldita sea, estaba seguro de haberle logrado ocultar el &lt;font color='#660000'&gt;bijou scintillant&lt;/font&gt; a esos tipos, pero parece que tambi&amp;#233;n me lo han robado! &amp;#161;&amp;#201;l solo vale m&amp;#225;s que todo lo dem&amp;#225;s juntos!&lt;BR&gt;&lt;BR&gt;S&amp;#233; que el {@LinkCreature:5#18#chef de guerre} lo codiciaba especialmente... Los tuwangis seguramente se lo robaron para &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Por favor... &amp;#161;Ve a recuperar la joya o encuentra la manera de obligarlos a pagar!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Bueno, puedo decirte que para m&amp;#237;, los negocios con los tuwangis se acabaron. Te agradezco por haber recuperado mis joyas... al menos podr&amp;#233; intentar rehacer mi vida en otra parte.&lt;BR&gt;&lt;BR&gt;Toma... no tengo mucho efectivo por el momento, pero por favor acepta esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">S&amp;#233; que ya te he pedido mucho, pero realmente necesito tu ayuda... te lo ruego.</Page>
+    </Text>
+</QuestDialog>

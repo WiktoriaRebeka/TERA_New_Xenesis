@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, s&amp;#233; d&amp;#243;nde est&amp;#225; la &amp;#250;ltima gema.&lt;BR&gt;Ven a encontrarme a Hautegarde.&lt;BR&gt;&lt;BR&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva te hizo saber d&amp;#243;nde encontrar la &amp;#250;ltima gema, la del ardor: en la Forteresse de Lilitas.&lt;BR&gt;Tambi&amp;#233;n te pidi&amp;#243; que consiguieras platino suntuoso, por lo que pusiste rumbo a la Forteresse de Lilitas (solo).&lt;BR&gt;&lt;BR&gt;Derrotaste a Kankracire y a Lilitas, y le trajiste a Mirriva el platino suntuoso y la gema del ardor antes de coronar la corona de la eternidad con la gema del ardor.&lt;BR&gt;Luego, los &amp;#250;ltimos preparativos de la fiesta pudieron terminar en completa tranquilidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Saludos, &lt;PCNAME&gt;.&lt;BR&gt;La &amp;#250;ltima gema, la del ardor, est&amp;#225; en manos de Lilitas.&lt;BR&gt;&lt;BR&gt;Arrebat&amp;#225;rsela no ser&amp;#225; tarea f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Y para colmo, el platino suntuoso ha desaparecido.&lt;BR&gt;&lt;BR&gt;Es cierto que este &amp;#250;ltimo es m&amp;#225;s f&amp;#225;cil de hallar, pero Nimoz muestra una distracci&amp;#243;n preocupante a medida que se acerca la fiesta.&lt;NEXTPAGEBUTTON&gt;"¿El platino suntuoso ha desaparecido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Los fuegos artificiales son todo un arte.&lt;BR&gt;El platino suntuoso permite encender una multitud de piezas de pirotecnia simult&amp;#225;neamente. La m&amp;#250;sica y los juegos de luces perfeccionan la obra maestra.&lt;BR&gt;&lt;BR&gt;&amp;#161;El platino suntuoso es el gran secreto de nuestros fuegos artificiales!&lt;BR&gt;&amp;#161;As&amp;#237; que lo necesitamos imperativamente!&lt;BR&gt;&lt;BR&gt;Nimoz est&amp;#225; al borde del colapso porque no logra conseguir platino suntuoso.&lt;NEXTPAGEBUTTON&gt;"Entonces conseguiré el platino suntuoso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Es mucho pedir...&lt;BR&gt;Pero como est&amp;#225;s aqu&amp;#237;, recuperamos la esperanza, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hay una ligera posibilidad de que consigas el platino suntuoso en la Forteresse de Lilitas.&lt;BR&gt;&lt;BR&gt;Conf&amp;#237;o en ti.&lt;BR&gt;&lt;BR&gt;&amp;#161;Que la bendici&amp;#243;n de Velik est&amp;#233; contigo, &lt;pcname&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#161;Oh, lo lograste!&lt;BR&gt;Por fin podemos concluir los preparativos de la fiesta.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes la gema del ardor contigo?&lt;NEXTPAGEBUTTON&gt;"Por supuesto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La &amp;#250;ltima pieza del puzle...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; esperas? &amp;#161;Col&amp;#243;cala!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Estoy sin palabras... La vista de la corona de la eternidad completa es impactante.&lt;br&gt;&lt;BR&gt;Al igual que t&amp;#250;, guardi&amp;#225;n, esta joya ha alcanzado un nuevo nivel en su existencia.&lt;BR&gt;Has complacido a la diosa Velik.&lt;br&gt;&lt;BR&gt;Qu&amp;#233; gran proeza, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Pero no es nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt;, pronto recibir&amp;#225;s la invitaci&amp;#243;n a la fiesta.&lt;BR&gt;Nos volveremos a ver en la Sala de banquet.&lt;BR&gt;&lt;BR&gt;&amp;#161;Cu&amp;#237;date!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

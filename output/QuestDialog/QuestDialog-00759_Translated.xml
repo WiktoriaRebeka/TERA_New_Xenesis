@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="1">Era mi primer viaje en pegaso desde Allemantheia hasta el Bastion, y... c&amp;#243;mo decirlo, &amp;#161;la vista era magn&amp;#237;fica desde arriba, y un accidente siempre puede ocurrir!&lt;BR&gt;&lt;BR&gt;Todo lo que hice fue asomarme, un poco demasiado, supongo.&lt;BR&gt;&lt;BR&gt;Llevaba una mochila llena de valiosos libros que salieron disparados.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;a ayudarme a buscarlos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1447">
+        <Page social="1">&amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Oh, mis ri&amp;#241;ones. Los barakas somos paracaidistas bastante torpes.&lt;BR&gt;&lt;BR&gt;Me tomar&amp;#225; tiempo recuperarme. &amp;#191;Podr&amp;#237;a avisarle a {@LinkCreature:71#1009$$Kiril} que llegar&amp;#233; tarde?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1447">
+        <Page social="0">&amp;#161;Imag&amp;#237;nese! &amp;#161;Libros cayendo del cielo! Deben estar en alguna parte, muy cerca.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="3" villagerId="1009">
+        <Page social="1">S&amp;#237;, nos preocupamos al ver llegar el pegaso vac&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Thakun nunca antes hab&amp;#237;a abandonado el Refuge de Balder.&lt;BR&gt;&lt;BR&gt;&amp;#161;Allemantheia debi&amp;#243; de enviarlo sin gu&amp;#237;a, los imb&amp;#233;ciles!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="5">Has hecho mucho por nosotros y te estamos extremadamente agradecidos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Si pudi&amp;#233;ramos, te pedir&amp;#237;amos que te quedaras a nuestro lado, pero no ser&amp;#237;a justo para los dem&amp;#225;s. Las tropas del puesto avanzado de Ebon Tower necesitan mucha ayuda. Se trata de una base temporal establecida por los soldados que regresan del Valle de la Muerte.&lt;NEXTPAGEBUTTON&gt;"Veré qué puedo hacer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">&amp;#161;Genial! El camino que lleva al puesto avanzado est&amp;#225; plagado de guardianes de runas del desierto.&lt;BR&gt;&lt;BR&gt;Mira si puedes eliminar a unos cuantos por el camino.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1005">
+        <Page social="5">&amp;#191;Eres a quien Elenia nos env&amp;#237;a como refuerzo? Gracias por estar {@gender:venu/venue}.&lt;BR&gt;&lt;BR&gt;Estamos agotados y la moral est&amp;#225; por los suelos.</Page>
+    </Text>
+</QuestDialog>

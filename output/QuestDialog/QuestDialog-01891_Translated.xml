@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4" voiceTypeId="0">El abuelo me dio este mapa. &quot;Avil, dijo, este mapa indica con precisi&amp;#243;n d&amp;#243;nde Baracos, Se&amp;#241;or del Laberinto, oculta sus tesoros&quot;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mi hermana dice que el abuelo habr&amp;#237;a dicho cualquier cosa para hacernos ir a dormir por la noche, pero ella es una vieja arp&amp;#237;a! &amp;#161;Yo s&amp;#237; lo creo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Te adentrar&amp;#225;s en el Labyrinthe d'Or, as&amp;#237; que f&amp;#237;jate si encuentras estos tesoros ocultos!&lt;NEXTPAGEBUTTON&gt;"¿No quieres acompañarme?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Gracias, paso! Cuando era peque&amp;#241;o, &amp;#161;mi hermana me tir&amp;#243; a un pozo y hab&amp;#237;a beb&amp;#233;s Caim&amp;#225;n en el fondo!&lt;BR&gt;&lt;BR&gt;Desde entonces, le tengo fobia a todo lo que tiene escamas.&lt;BR&gt;&lt;BR&gt;Estar&amp;#237;a incapaz de hacer nada antes de llegar a la puerta, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3005" prevId="2" villagerId="1017">
+        <Page social="0" voiceTypeId="0">(Viejeces, vendajes gastados hasta la cuerda y una daga oxidada. Todo esto no tiene ning&amp;#250;n valor.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3005" prevId="2" villagerId="1018">
+        <Page social="0" voiceTypeId="0">(Un brazalete de brillo p&amp;#225;lido est&amp;#225; posado en medio de trozos de madera.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">&amp;#191;Una daga oxidada y un brazalete brillante? &amp;#161;Tal vez el abuelo exageraba un poco despu&amp;#233;s de todo!</Page>
+    </Text>
+</QuestDialog>

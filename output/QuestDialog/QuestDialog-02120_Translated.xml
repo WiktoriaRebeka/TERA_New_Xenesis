@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">Los argons atacaron uno de nuestros convoyes de suministros y destruyeron toda una carga de raciones. Sin v&amp;#237;veres, nuestros combatientes no resistir&amp;#225;n mucho tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a recuperar las provisiones de emergencia de {@LinkCreature:248#3003#Vikhonul} y abastece a esas tropas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">Es innecesario recordarle a alguien con tu experiencia que es vital para un soldado mantenerse en forma en el campo de batalla.&lt;BR&gt;&lt;BR&gt;Toma, lleva estas provisiones de emergencia y entr&amp;#233;gaselas a nuestros hombres.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="4">No hay tiempo que perder. Lleva las raciones a los soldados que las necesitan.&lt;BR&gt;&lt;BR&gt;Un soldado hambriento es un soldado vulnerable.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="4" villagerId="3008">
+        <Page social="4">&amp;#161;Oh, gracias, bendito sea el cielo!&lt;BR&gt;&lt;BR&gt;Me preguntaba si pronto tendr&amp;#237;a que hincarle el diente a la pantorrilla de un arg&amp;#243;n.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="4" villagerId="3006">
+        <Page social="4">Nunca cre&amp;#237; que terminar&amp;#237;a babeando frente a una raci&amp;#243;n militar.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3004">
+        <Page social="4">Gracias por no habernos olvidado.&lt;BR&gt;&lt;BR&gt;Sentirse abandonados es el peor sentimiento al que uno puede enfrentarse.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="3005">
+        <Page social="4">Bueno, no ser&amp;#225; un filete mi&amp;#241;&amp;#243;n, pero qu&amp;#233; bien sabe tener algo que llevarse a la boca. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="3010">
+        <Page social="4">El Shariar nunca olvida a sus hermanos de armas. &amp;#161;Muchas gracias!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="3011">
+        <Page social="4">Ahora todo estar&amp;#225; bien, gracias a ti.&lt;BR&gt;&lt;BR&gt;Racionaremos lo que nos trajiste mientras esperamos el pr&amp;#243;ximo reabastecimiento.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="3003">
+        <Page social="4">Gracias por resolver esta peque&amp;#241;a crisis, &lt;PCNAME&gt;. Tener soldados hambrientos es lo &amp;#250;ltimo que deseamos.</Page>
+    </Text>
+</QuestDialog>

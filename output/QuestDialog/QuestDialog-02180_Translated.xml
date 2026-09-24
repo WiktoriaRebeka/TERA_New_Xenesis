@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Varios eruditos han notado los cambios en las piedras expuestas al nexus. Si pudi&amp;#233;ramos identificar el agente detonante, podr&amp;#237;amos elaborar una contramedida.&lt;BR&gt;&lt;BR&gt;Necesitamos fragmentos nexuliticos. &amp;#191;{@gender:Pr&amp;#234;t/Pr&amp;#234;te} aceptas el desaf&amp;#237;o?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">Examinaremos estas muestras de inmediato. Debe haber una conexi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tienes toda nuestra gratitud.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">Encontrar&amp;#225;s fragmentos en los escombros de la monta&amp;#241;a corrompida donde sea que se haya formado un nexus recientemente. Peina el distrito de Helkan y Val Kaeli.</Page>
+    </Text>
+</QuestDialog>

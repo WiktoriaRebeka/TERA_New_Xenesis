@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="4">Mansur trabaja en reconstruir las casas que fueron arrasadas por la tormenta, pero como ves, los &amp;#225;rboles crecen mal en esta regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Le har&amp;#237;as un favor si vas a recuperar la madera reutilizable de los edificios da&amp;#241;ados.&lt;NEXTPAGEBUTTON&gt;"Puedo hacerlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Encontrar&amp;#225;s madera reutilizable en abundancia por los alrededores de la casa abandonada cerca de Ice Fells. Una vez descongelada, deber&amp;#237;a seguir siendo s&amp;#243;lida.&lt;BR&gt;&lt;BR&gt;Espero que esto le permita a Mansur terminar su trabajo... todos desear&amp;#237;amos poder retomar una existencia normal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">&amp;#191;Tienes madera para m&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Bah! Est&amp;#225; congelada hasta el n&amp;#250;cleo de la fibra. Tendremos suerte si no se pudre al descongelarse, como suele pasar con la madera de la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;En fin... no hay que desperdiciar nada. Menos mal que soy el mejor carpintero de Westonia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1016">
+        <Page social="0">&amp;#191;Tienes madera para m&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

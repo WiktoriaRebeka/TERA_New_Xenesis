@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te encontraste con Dougal y Zolyn y luego te enteraste de la desaparici&amp;#243;n de Paesyn.&lt;BR&gt;Paesyn estaba preparando un t&amp;#243;nico para animar a Zolyn. Esta se lo tom&amp;#243; con gusto, pero termin&amp;#243; enoj&amp;#225;ndose much&amp;#237;simo al descubrir los ingredientes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Ve a ver a Dougal y Zolyn cerca de la plataforma de teletransporte.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2206">
+        <Page social="1" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Empezamos a temer que tambi&amp;#233;n te hubi&amp;#233;ramos perdido!{@g:/e}&lt;BR&gt;&lt;BR&gt;&amp;#191;Fue exitosa tu misi&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;"Creo que sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Perfecto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Con un poco de suerte, el Scrutateur Renish aceptar&amp;#225; dejarnos entrar a Hautegarde de inmediato!&lt;NEXTPAGEBUTTON&gt;"Todavía tengo que convencerlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Tambi&amp;#233;n hablaremos con &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Pero tendremos que alcanzarte. Le perdimos totalmente el rastro a Paesyn. Estaba con nosotros y, de un minuto a otro, desapareci&amp;#243;. No lo habr&amp;#225;s visto por ah&amp;#237;, &amp;#191;o s&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"¿Paesyn desapareció?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Estoy seguro de que solo se ha extraviado. Es listo, as&amp;#237; que no hay mucho de qu&amp;#233; preocuparse por &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Pero ya viste de lo que estos lugares son capaces y Paesyn puede ser un poco imprudente cuando se distrae.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;bamos a punto de volver al campamento para armar un equipo de b&amp;#250;squeda. Pero ya que est&amp;#225;s aqu&amp;#237;, &amp;#191;no querr&amp;#237;as echar un vistazo r&amp;#225;pido por los alrededores? No puede haber ido muy lejos.&lt;NEXTPAGEBUTTON&gt;"Déjamelo a mí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ah, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; gusto verte de nuevo! &amp;#191;Terminaste tu misi&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;"Te están buscando, Paesyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">S&amp;#237;, lo s&amp;#233;.&lt;BR&gt;&lt;BR&gt;Pero a&amp;#250;n no puedo volver. &amp;#161;Estoy buscando algo!&lt;BR&gt;&lt;BR&gt;Dime, &amp;#191;por qu&amp;#233; no me ayudas a encontrarlo?&lt;NEXTPAGEBUTTON&gt;"Es para Zolyn, ¿verdad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Me preocupa! &amp;#161;Tan triste, tan decidida, tan cerrada!&lt;NEXTPAGEBUTTON&gt;"Tal vez solo quiera estar sola."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Patra&amp;#241;as! &amp;#191;A qui&amp;#233;n le gusta estar solo? Despu&amp;#233;s de todo, &amp;#191;no vino aqu&amp;#237; a buscar a su hermana? As&amp;#237; que se siente sola. Y preocupada.&lt;BR&gt;&lt;BR&gt;Pero conozco una forma de animarla. Los Khiriens me dieron la receta para un t&amp;#243;nico especial que seguro la relaja un poco.&lt;BR&gt;&lt;BR&gt;Pero todav&amp;#237;a me falta un ingrediente: carne de criatura de aguas termales. Pueden ser asteroidas o kamaras. Pero no tengo la fuerza para, ya sabes...&lt;NEXTPAGEBUTTON&gt;"Yo me encargo, así que deja esa cara de lástima."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Y entonces, &amp;#191;me ayudas? &amp;#161;Much&amp;#237;simas gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Si esto funciona, &amp;#161;no necesitaremos intentarlo de nuevo! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">&amp;#191;C&amp;#243;mo? Zolyn est&amp;#225; sufriendo, &lt;PCNAME&gt;. &amp;#161;No soporto ver a nadie sufrir as&amp;#237;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="4" villagerId="2209">
+        <Page social="1" voiceTypeId="0">&amp;#161;Perfecto! &amp;#161;Gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Bueno, si mal no recuerdo, solo necesito... todo... bien... aplas... triturar... &amp;#161;y listo!&lt;NEXTPAGEBUTTON&gt;"¡Me alegro{@g:/e}!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2209">
+        <Page social="0">Date prisa, &lt;PCNAME&gt;. &amp;#191;No ves que Zolyn sufre por dentro?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2209">
+        <Page social="1" voiceTypeId="0">&amp;#161;S&amp;#237;, claro! &amp;#161;Tengo que darle esto a Zolyn sin m&amp;#225;s demora!&lt;NEXTPAGEBUTTON&gt;"¿Estás seguro de que es una buena idea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Qu&amp;#233; quieres decir&amp;nbsp;? Ah, es verdad. Mis intentos anteriores por alegrarla no hicieron realmente que me ganara su favor...&lt;BR&gt;&lt;BR&gt;Mira, s&amp;#233; que es mucho pedir, pero... &amp;#191;podr&amp;#237;as...?&lt;NEXTPAGEBUTTON&gt;"Bueno... de acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2210">
+        <Page social="1" voiceTypeId="0">&amp;#191;Alguna novedad de ese insoportable pesado&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Está en camino. Eh... ¿te apetece tomar un trago ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Ah, s&amp;#237;&amp;nbsp;! &amp;#161;Tengo mucha sed. &lt;BR&gt;&lt;BR&gt;Dime, &amp;#161;no sabe nada mal! &amp;#161;Poco com&amp;#250;n, pero lleno de sabor! Y... &amp;#161;te relaja! &amp;#161;Casi puedo sentir c&amp;#243;mo la tensi&amp;#243;n se me cae de los hombros!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tiene dentro&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"Pregúntale a Paesyn... él lo preparó para ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Ah, s&amp;#237;&amp;nbsp;? Por fin logr&amp;#243; ser de utilidad.&lt;BR&gt;&lt;BR&gt;Tal vez no deber&amp;#237;a ser tan duuuro con '&amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"Eh, sí. ¿Todo bien ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Eshdoy en formaaa r!&lt;BR&gt;&lt;BR&gt;Espera... &amp;#191;qu&amp;#233; me pasash? &amp;#161;Qu&amp;#233; hay en eshta infushion! &amp;#161;Cualquier cosha que eshe canalla me haya dado otra vez... &amp;#161;lo voy a matar!&lt;NEXTPAGEBUTTON&gt;"Lo siento{@g:/e}, capitán."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="2011">
+        <Page social="1" voiceTypeId="0">Te saludo, &lt;PCNAME&gt;. &amp;#191;Qu&amp;#233; tienes ah&amp;#237;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;&amp;#161;La energ&amp;#237;a que emite este colgante&amp;nbsp;! &amp;#161;Siento c&amp;#243;mo resuena en los talismanes que he estado examinando&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Perfecto, &lt;PCNAME&gt;, creo que con esto basta para demostrar la nobleza de tus intenciones. Mis colegas escrutadores acampan en la cresta de Kazan, al norte.&lt;BR&gt;&lt;BR&gt;Si le muestras esto a Durom, te llevar&amp;#225; con el Gran escrutador, Janiam.&lt;NEXTPAGEBUTTON&gt;"Gracias, Renish."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" villagerId="2011">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

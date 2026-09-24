@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Por orden del comandante Tamur, Hasmina y t&amp;#250; han sido {@gender:partis/parties} a Argonea para eliminar a una parte de la retaguardia argon y restablecer el contacto con la ciudad de Kanstria. Esta &amp;#250;ltima hab&amp;#237;a estado aislada del mundo desde que los argons la rodearon y destruyeron su plataforma de vuelo, pero ustedes han sido {@gender:parvenu/parvenue} de cruzar las l&amp;#237;neas enemigas. El magistrado te pidi&amp;#243; que buscaras a unos exploradores desaparecidos. Hasmina te guio hasta los exploradores... y hasta los portales de transporte de tropas argon. Recuperaste las placas de identificaci&amp;#243;n de los exploradores antes de regresar a Kanstria para darles la triste noticia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Orden urgente]&lt;BR&gt;&lt;BR&gt;Ven a {@Rgn:49001$$Argonea} junto con {@LinkCreature:248#2011#Hasmina} para brindarnos tu apoyo y ayudarnos a esclarecer la situaci&amp;#243;n. No puedo garantizar tu seguridad, pero esta misi&amp;#243;n no deber&amp;#237;a causarte problemas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">El comandante me habl&amp;#243; de la misi&amp;#243;n. Era bastante joven, as&amp;#237; que mis recuerdos son un poco vagos, pero m&amp;#225;s o menos recuerdo el camino. &lt;BR&gt;&lt;BR&gt;Ah, por fin podemos conversar un rato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; bueno verte de nuevo, &lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;No he parado de implorarle a Arun que regresaras sano y salvo. Qu&amp;#233; alegr&amp;#237;a verte volver de una sola pieza tras cumplir tu misi&amp;#243;n en el norte de Arun. &lt;BR&gt;&lt;BR&gt;Lamentablemente, aqu&amp;#237; tambi&amp;#233;n esto est&amp;#225; plagado de argons. Espero que tengamos una colaboraci&amp;#243;n fruct&amp;#237;fera.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que puedo poner mi vida en tus manos.&lt;NEXTPAGEBUTTON&gt;"La colaboración será fructuosa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tendr&amp;#233; que ponerme en marcha ahora mismo. Deber&amp;#237;as prepararte lo mejor posible.&lt;BR&gt;&lt;BR&gt;En su &amp;#233;poca, esta tierra era nuestra, pero ahora le pertenece al enemigo. Nadie dimensiona la magnitud de los cambios.&lt;BR&gt;&lt;BR&gt;Te confesar&amp;#233; algo. &amp;#191;Ya has hablado con {@LinkCreature:248#1022#Albain}? Fue &amp;#233;l quien propuso infiltrarse sigilosamente entre el enemigo.&lt;BR&gt;&lt;BR&gt;Tal vez pueda ayudarte.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">Muchas gracias. Dar&amp;#237;a lo que fuera por darle una buena lecci&amp;#243;n a estos malditos argons. &lt;BR&gt;&lt;BR&gt;Vamos, me pongo en marcha. No olvides el equipo. Nadie dimensiona cu&amp;#225;nto ha cambiado esta tierra. &amp;#161;Mantente siempre alerta!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" prevId="2" villagerId="2013">
+        <Page social="4" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;s, &lt;PCNAME&gt;. Acabo de llegar despu&amp;#233;s de explorar la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Espera... percibo algo ah&amp;#237; adelante. No son argons, son Humanos.&lt;BR&gt;&lt;BR&gt;Vamos a ver. Tal vez puedan ayudarnos.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="249" prevId="6" villagerId="2001">
+        <Page social="12" voiceTypeId="0">&amp;#191;Qu&amp;#233;? &amp;#191;C&amp;#243;mo entraron aqu&amp;#237;?&lt;BR&gt;&amp;#161;Ni siquiera son argons!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;nes son? &amp;#191;Qui&amp;#233;n los env&amp;#237;a?&lt;BR&gt;&lt;BR&gt;&amp;#191;Acaso no ser&amp;#225;n argons disfrazados de Humanos? &amp;#161;Identif&amp;#237;quense! &amp;#161;Si no, tendr&amp;#233; que usar la fuerza!&lt;NEXTPAGEBUTTON&gt;"Somos de la Valkyon Federation."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12" voiceTypeId="0">&amp;#191;Qu&amp;#233;?&lt;BR&gt;&amp;#191;Y por qu&amp;#233; vienen a ayudarnos reci&amp;#233;n ahora?&lt;BR&gt;&lt;BR&gt;Me estoy controlando porque primero debemos encargarnos de los argons. Cuando este interminable conflicto por fin termine, tendr&amp;#233; algunas palabras para su comandante.&lt;BR&gt;&lt;BR&gt;Vayan primero a reportarse con nuestro magistrado.&lt;BR&gt;&lt;BR&gt;Sin duda desconfiar&amp;#225;.&lt;BR&gt;As&amp;#237; que responder&amp;#233; por ustedes: tomen esta carta.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="249" prevId="7" villagerId="2002">
+        <Page social="1" voiceTypeId="0">Hac&amp;#237;a mucho tiempo que no ve&amp;#237;a extranjeros en este pueblo. Me llamo Ceidos, magistrado de {@Rgn:76001$$Kanstria}. &lt;BR&gt;&lt;BR&gt;Deber&amp;#237;a darles la bienvenida a nuestro pueblo...&lt;BR&gt;&lt;BR&gt;Pero &amp;#191;de d&amp;#243;nde vienen? &amp;#191;C&amp;#243;mo llegaron aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Tome, mi carta de recomendación."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Entiendo... Se cruzaron con {@LinkCreature:249#2006#Celtan}. Es un poco ingenuo, pero tiene buen olfato. Ahora que estoy convencido de que no est&amp;#225;n con los argons, me gustar&amp;#237;a pedirles un favor:&lt;BR&gt;&lt;BR&gt;Desde que los argons conquistaron nuestro pueblo, nos escondemos aqu&amp;#237;. Enviamos a un grupo para evaluar la situaci&amp;#243;n, pero perdimos el contacto.&lt;BR&gt;&lt;BR&gt;Si de verdad quieren ayudarnos, &amp;#191;podr&amp;#237;an encontrar a ese grupo?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="249" prevId="8" villagerId="2003">
+        <Page social="4" voiceTypeId="0">Los voy a acompa&amp;#241;ar.&lt;BR&gt;Hay un peque&amp;#241;o estanque al norte.&lt;BR&gt;&lt;BR&gt;Apenas se ve y est&amp;#225; a dos pasos del pueblo. Es el lugar ideal para ocultar algo o a alguien. Si andan por los alrededores, seguro que se escondieron ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;Como a&amp;#250;n no sabemos si est&amp;#225;n ah&amp;#237;, deber&amp;#237;amos subir por la &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#65883, 25758, 4896&amp;type=1&amp;name=colline &amp;#224; proximit&amp;#233; du Portail melgatol&quot;&gt;colina cerca de la Puerta melgatol&lt;/A&gt;&lt;/font&gt; para hacernos una idea de la situaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="249" prevId="9" villagerId="2005">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo sab&amp;#237;a! &lt;BR&gt;&amp;#161;Qu&amp;#233; suerte! No ha cambiado mucho. &lt;BR&gt;&lt;BR&gt;Si eliminamos a los argons aqu&amp;#237;, ser&amp;#225;n menos los que lleguen hasta {@Rgn:48001$$Front de Khanovar}.&lt;BR&gt;&lt;BR&gt;Entremos y echemos un vistazo alrededor.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="249" prevId="10" villagerId="2010">
+        <Page social="10" voiceTypeId="0">&amp;#191;Ven esto? &amp;#191;All&amp;#237; abajo? &amp;#161;Vaya!&lt;BR&gt;&lt;BR&gt;&amp;#161;Es un criadero de argons! &amp;#161;Es de aqu&amp;#237; de donde sal&amp;#237;an para invadir {@Rgn:48001$$Front de Khanovar}!&lt;BR&gt;&lt;BR&gt;Son demasiados. No s&amp;#233; c&amp;#243;mo eliminarlos. Comencemos por retirarnos. &amp;#161;Y r&amp;#225;pido!&lt;NEXTPAGEBUTTON&gt;"Esos cadáveres de ahí..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">S&amp;#237;, yo tambi&amp;#233;n los vi. As&amp;#237; que esto es lo que les pas&amp;#243; a nuestros exploradores. &lt;BR&gt;&lt;BR&gt;Al menos recojamos sus placas de identificaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;No podemos llevarnos los cuerpos...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="249" prevId="11" villagerId="2010">
+        <Page social="0" voiceTypeId="0">As&amp;#237; que los encontraron... &lt;PCNAME&gt;, regresen primero a Kanstria. Voy a examinar estas estructuras desconocidas de cerca. &lt;BR&gt;&lt;BR&gt;Los argons canalizaron la energ&amp;#237;a de las Tres torres a alguna parte. Supongo que esa energ&amp;#237;a se acumula en estas estructuras. &lt;BR&gt;&lt;BR&gt;Los env&amp;#237;o de vuelta a Kanstria. Av&amp;#237;senme cuando est&amp;#233;n listos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="249" prevId="11" villagerId="2010">
+        <Page social="4" voiceTypeId="0">Bien, transmita mis m&amp;#225;s sinceras condolencias al magistrado. Hasta luego.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="249" prevId="11" villagerId="2002">
+        <Page social="13" voiceTypeId="0">Pero esto es...&lt;BR&gt;&lt;BR&gt;Me lo tem&amp;#237;a, pero me negaba a perder la esperanza.&lt;BR&gt;&lt;BR&gt;D&amp;#233;jenme a solas un momento para reflexionar...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="249" prevId="14" villagerId="2006">
+        <Page social="4" voiceTypeId="0">&amp;#161;Eh, intruso! Me enter&amp;#233; de la noticia. Personalmente ense&amp;#241;&amp;#233; los rudimentos del combate a todos los soldados de {@Rgn:76001$$Kanstria}. &lt;BR&gt;&lt;BR&gt;Hasta hace poco, era un lugar pac&amp;#237;fico. Saber espantar a unos cuantos animales salvajes o bandidos era m&amp;#225;s que suficiente.&lt;BR&gt;&lt;BR&gt;Todo es culpa m&amp;#237;a. Jam&amp;#225;s deb&amp;#237; dejar que mis hombres se enfrentaran a monstruos as&amp;#237;...&lt;NEXTPAGEBUTTON&gt;"¡No es su culpa!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Gracias por su compasi&amp;#243;n. Comparto el luto de las familias.&lt;BR&gt;Deber&amp;#237;amos devolverles sus pertenencias. &lt;BR&gt;&lt;BR&gt;Quiero agradecerles en nombre de todas las familias.</Page>
+    </Text>
+</QuestDialog>

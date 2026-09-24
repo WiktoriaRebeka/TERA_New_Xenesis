@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">El Mysterium intenta descubrir los secretos que se esconden detr&amp;#225;s de estas torres de piedra gigantescas. Varios de nosotros pensamos que guardan poderes divinos.&lt;BR&gt;&lt;BR&gt;Por desgracia, los nagas nos impiden llevar a cabo nuestras investigaciones con &amp;#233;xito. Personalmente no tengo la fuerza para enfrentarme a ellos, y me vendr&amp;#237;an muy bien tus servicios.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;ne a un grupo de compa&amp;#241;eros y ve a matar a algunos {@LinkCreature:7#1#mercenaires nagas}. Nos ser&amp;#237;as de una ayuda inestimable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">He aqu&amp;#237; una haza&amp;#241;a que dar&amp;#225; mucho que hablar sobre ti.&lt;BR&gt;&lt;BR&gt;Ahora que los nagas son menos numerosos, podremos presentar nuestro informe al Sanctum Mysterium. Que la luz de Oriyn gu&amp;#237;e tus pasos.</Page>
+    </Text>
+</QuestDialog>

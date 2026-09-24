@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Acompa&amp;#241;ar a los Cazadores de Valsekyr]&lt;BR&gt;&lt;BR&gt;&amp;#191;Buscas nuevos desaf&amp;#237;os? Est&amp;#225;s cordialmente {@gender:invit&amp;#233;/invit&amp;#233;e} en {@Rgn:76001$$Kanstria} para unirte a los Cazadores de Valsekyr.&lt;BR&gt;&lt;BR&gt;A tu llegada, ve a ver a {@LinkCreature:76#3001#Keinbara} y ad&amp;#233;ntrate en una loca aventura llena de argons que cazar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">&amp;#161;Todo el placer es m&amp;#237;o, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Tu leyenda crece un poco m&amp;#225;s cada d&amp;#237;a. &amp;#191;Akasha? &amp;#191;Thulsa? &amp;#191;Kelsaik? Impresionante.&lt;BR&gt;&lt;BR&gt;Yo mismo nunca he matado a una divinidad, pero los cazadores har&amp;#225;n que te cruces con muchas otras presas. Participamos en el esfuerzo de guerra, subimos la moral de las tropas y llevamos a cabo nuestra propia epopeya gloriosa. &amp;#191;Te tienta?</Page>
+    </Text>
+</QuestDialog>

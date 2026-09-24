@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1023" prevId="0" villagerId="40009615">
+        <Page social="0">&amp;#161;Hola, guardi&amp;#225;n! Has venido al lugar correcto.&lt;BR&gt;S&amp;#233; que quieres conseguir una carta preciada de mi colecci&amp;#243;n. &amp;#161;Pero tendr&amp;#225;s que trabajar duro!&lt;BR&gt;Te dar&amp;#233; una carta de la colecci&amp;#243;n 'Lighter than air' si me traes 100 piezas de polvo de cartas.&lt;BR&gt;&lt;BR&gt;Mi pariente pol&amp;#237;tico dejar&amp;#225; un mensaje en el calendario, donde podr&amp;#225;s descubrir el m&amp;#233;todo para conseguir polvo de cartas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1023" prevId="0" villagerId="40009615">
+        <Page social="4">&amp;#161;Hiciste un gran trabajo!&lt;BR&gt;Un placer trabajar contigo, qu&amp;#233;date con tu recompensa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1023" prevId="2" villagerId="40009615">
+        <Page social="4">El material es insuficiente.&lt;BR&gt;&lt;BR&gt;Polvo de cartas X 100&lt;BR&gt;&lt;BR&gt;&amp;#161;Re&amp;#250;ne los materiales necesarios y consigue tu recompensa!</Page>
+    </Text>
+</QuestDialog>

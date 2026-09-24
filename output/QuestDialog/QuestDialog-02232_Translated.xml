@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">&amp;#193;brete paso en el Carnaval del Sangre, sella el ata&amp;#250;d del l&amp;#237;der vampiro y envenena su comida.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Era importante salvar a los aldeanos, pero debemos acabar de una vez por todas con el Carnaval del Sangre: sella el ata&amp;#250;d del l&amp;#237;der vampiro y envenena su &quot;comida&quot;.&lt;BR&gt;&lt;BR&gt;Entonces, &lt;PCNAME&gt;: &amp;#191;{@gender:pr&amp;#234;t/pr&amp;#234;te} para otra expedici&amp;#243;n al nido de los vampiros?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">Una vez m&amp;#225;s, &lt;PCNAME&gt;, has hecho un excelente trabajo. &amp;#161;Se te recordar&amp;#225; por mucho tiempo!</Page>
+    </Text>
+</QuestDialog>

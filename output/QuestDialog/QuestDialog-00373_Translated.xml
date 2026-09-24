@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Lian no cre&amp;#237;a que los orkan fueran capaces de las proezas m&amp;#225;gicas necesarias para corromper el Azote del demonio, pero como buen cient&amp;#237;fico, no pod&amp;#237;a basarse en meras especulaciones.&lt;BR&gt;&lt;BR&gt;Te {@gender:envoy&amp;#233;/envoy&amp;#233;e} en una misi&amp;#243;n al sur, donde te encontraste con Kirash. Este &amp;#250;ltimo te {@gender:averti/avertie} de la presencia de merodeadores mekonaris... mercenarios magos.&lt;BR&gt;&lt;BR&gt;Tras {@gender:infiltr&amp;#233;/infiltr&amp;#233;e} en el campamento, mataste a un merodeador oscuro antes de huir con los escritos demon&amp;#237;acos recuperados. Al traducirlos, Lian descubri&amp;#243; la ubicaci&amp;#243;n de la guarida del cerebro del asunto... el Valle Maldito.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">La magia no es totalmente ajena a los orkan, pero no tienen el nivel para generar el fen&amp;#243;meno al que estamos asistiendo. Est&amp;#225; pasando algo m&amp;#225;s... algo que se nos escapa.&lt;NEXTPAGEBUTTON&gt;"Los orkan tal vez tengan un aliado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Exacto... y ciertamente no cualquier aliado. Quienquiera que sea, es un experto en magia. Kirash est&amp;#225; a cargo de vigilar los campamentos orkan. Ve a hablar con &amp;#233;l y mira si ha notado algo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1027">
+        <Page social="4">Oh, vigilo a los orkan, pero no son ellos los que m&amp;#225;s me interesan. Mira un poco... &amp;#191;ves a esas criaturas con cabeza de p&amp;#225;jaro y grandes bastones?&lt;NEXTPAGEBUTTON&gt;"¿Con cabeza de pájaro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Son mekonaris. La mayor&amp;#237;a son adeptos de la magia. No s&amp;#233; qu&amp;#233; est&amp;#225;n tramando estos {@LinkCreature:13#601#maraudeurs sombres} con los orkan, pero de una u otra manera, es malo para nosotros.&lt;BR&gt;&lt;BR&gt;Debo quedarme en mi puesto, pero por tu parte, ve y captura o mata a uno de esos merodeadores. Quiz&amp;#225;s encuentres pistas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1027">
+        <Page social="4">&amp;#191;Un pergamino? Intrigante... con un poco de suerte, podr&amp;#237;a tratarse de un plano detallado de su operaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Bah! Es totalmente ilegible. Veamos si Lian est&amp;#225; a la altura de su reputaci&amp;#243;n. Ve a entregarle este documento, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1027">
+        <Page social="0">Nos quedan rastros de la historia de los mekonaris. Su dios duerme en un gran huevo dorado, y en espera de su retorno, los mekonaris ponen su magia al servicio del mejor postor.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mercenarios de la peor especie... alima&amp;#241;as!&lt;BR&gt;&lt;BR&gt;No me extra&amp;#241;a que se junten con los orkan. &amp;#161;Encuentra a uno y mira qu&amp;#233; puedes aprender de &amp;#233;l!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="4" villagerId="1008">
+        <Page social="4">&amp;#191;Merodeadores? Dir&amp;#237;a m&amp;#225;s bien vulgares carro&amp;#241;eros. &amp;#191;Qu&amp;#233; buscan? &amp;#191;Qu&amp;#233; hacen aqu&amp;#237;? Examinemos este pergamino un poco m&amp;#225;s de cerca.&lt;BR&gt;&lt;BR&gt;No son simples garabatos, se trata de escritura demon&amp;#237;aca. Es dif&amp;#237;cil de traducir, pero hay un pasaje aqu&amp;#237; que me parece m&amp;#225;s claro... dice: &quot;la falla situada al este... que llamamos Valle Maldito&quot;. Ah&amp;#237; es donde debe de encontrarse el amo de los mekonaris.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2032">
+        <Page social="0">Keezar, una chamana khirian, era astuta, pero no parec&amp;#237;a estar muy bien de la cabeza. A pesar de su imprevisibilidad, era tu mejor esperanza para conseguir un colgante de control archidevan en buen estado.&lt;BR&gt;&lt;BR&gt;Parec&amp;#237;a saber muchas cosas sobre ti.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2032">
+        <Page social="1" voiceTypeId="0">&amp;#191;C&amp;#243;mo voy a saber algo? &amp;#191;Qui&amp;#233;n eres? &amp;#191;Te env&amp;#237;an los archidevans?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tienes aqu&amp;#237;? &amp;#191;Un colgante roto? &amp;#191;C&amp;#243;mo lo rompiste? &amp;#161;Se supone que son indestructibles y a prueba de tontos!&lt;BR&gt;&lt;BR&gt;En fin, qu&amp;#233; le vamos a hacer, el da&amp;#241;o ya est&amp;#225; hecho. Solo hay una forma de reconstruir todo esto, y es usando una especie de superpegamento. Se llama &quot;Pegamento poderoso&quot;.&lt;NEXTPAGEBUTTON&gt;"Eh, de acuerdo. ¿Y tienes ese pegamento?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Pues no, &lt;PCNAME&gt;. Es necesario que los archidevans crean que estos colgantes son irreparables una vez que se rompen. Si no, ya no me necesitar&amp;#237;an. Pero ahora que la Iniciativa de Vanguardia por fin ha llegado, ya no tengo que quedarme aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que, para hacer pegamento m&amp;#225;gico, necesitas cuernos m&amp;#225;gicos. Del tipo que se encuentra en los devans. Supongo que podr&amp;#225;s conseguir algunos.&lt;NEXTPAGEBUTTON&gt;"Creo que sé cómo hacerlo..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2032">
+        <Page social="1" voiceTypeId="0">&amp;#161;Cuernos, bonitos cuernos peque&amp;#241;os! &quot;Una protuberancia en la cabeza de varios animales, compuesta de queratina u otras prote&amp;#237;nas que cubren una base &amp;#243;sea&quot;. &amp;#161;Ja! Apuesto a que te preguntas c&amp;#243;mo s&amp;#233; eso, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"¿Está todo el mundo loco aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" villagerId="2032">
+        <Page social="0">Un cuerno, dos cuernos, anticuerno, cornemusa.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eso no basta, amigo {@g:/e} que vienes de lejos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Dos cuernos encornan y cuerno recto! &amp;#161;M&amp;#225;s cuernos, menos topes!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2032">
+        <Page social="1" voiceTypeId="0">No hace falta ponerse desagradable, &lt;PCNAME&gt;. &amp;#161;He esperado tantos a&amp;#241;os en este lugar inmundo solo para ayudarte en tu misi&amp;#243;n! Y ahora que est&amp;#225;s aqu&amp;#237;, podemos irnos lo{@gender:s/tes} dos.&lt;BR&gt;&lt;BR&gt;Continuemos esta charla afuera, &amp;#191;de acuerdo?&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedo sacarte de aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Clic, clic, doble clic! &amp;#161;Esa no es la pregunta correcta! La pregunta correcta es m&amp;#225;s bien, &amp;#191;c&amp;#243;mo puedo sacarte de aqu&amp;#237;, a pesar de tu lentitud?&lt;NEXTPAGEBUTTON&gt;"¿Cómo? No soy lento{@g:/e}..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2036">
+        <Page social="1" voiceTypeId="0">&amp;#191;C&amp;#243;mo hiciste para encontrarme tan r&amp;#225;pido? &amp;#161;No quiero volver! &amp;#161;No puedes obligarme!&lt;BR&gt;&lt;BR&gt;Espera... ah, eres t&amp;#250; otra vez. &amp;#191;C&amp;#243;mo te llamabas? &amp;#191;Y tu misi&amp;#243;n? &amp;#191;Ya te pregunt&amp;#233; cu&amp;#225;l es tu color favorito?&lt;NEXTPAGEBUTTON&gt;"Necesito que reparen este colgante. ¿De verdad no te acuerdas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Un colgante de control roto? &amp;#191;C&amp;#243;mo hiciste para romperlo? &amp;#161;Se supone que son indestructibles y a prueba de tontos!&lt;NEXTPAGEBUTTON&gt;"¡Ya tuvimos esta conversación!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">No hay forma de ense&amp;#241;arle nada a {@gender:celui-ci/celle-ci}. No tiene paciencia ninguna.&lt;BR&gt;&lt;BR&gt;Muy bien. Quieres pegamento, tendr&amp;#225;s pegamento.&lt;NEXTPAGEBUTTON&gt;"¡Ya era hora!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">Es en la Isla de las Nieblas donde los piratas del L&amp;#225;tigo Rojo y los traficantes de esclavos de Mitra hacen sus peque&amp;#241;os negocios.&lt;BR&gt;&lt;BR&gt;Matar a los esclavistas es la &amp;#250;nica forma de poner fin a sus abusos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a eliminar a los {@LinkCreature:12#21#ma&amp;#238;tres d'esclaves gulas} que deambulan por la Isla de las Nieblas, antes de ir a hablar con {@LinkCreature:212#1005$$Taniel}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Genial. Has matado a un buen n&amp;#250;mero de esclavistas. S&amp;#233; que no son presas f&amp;#225;ciles. Es un buen trabajo. Cuando tratas con ellos, m&amp;#225;s vale evitar que te rodeen. Si logran rebasar al adversario, ni un gato con nueve vidas tiene la menor posibilidad de salir con bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">M&amp;#225;talos a todos, &lt;PCNAME&gt;. Imagina a cu&amp;#225;ntas personas salvas de la esclavitud cada vez que matas a una de estas alima&amp;#241;as.</Page>
+    </Text>
+</QuestDialog>

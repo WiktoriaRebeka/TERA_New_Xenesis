@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="4">Primero debemos eliminar las amenazas m&amp;#225;s inmediatas... los {@LinkCreature:16#2205#&amp;#233;claireurs}, los {@LinkCreature:16#2206#guerriers}, los {@LinkCreature:16#2207#spadassins} y los {@LinkCreature:16#2208#assassins} de la Troupe des r&amp;#244;deurs.&lt;BR&gt;&lt;BR&gt;Gracias a ellos, el resto de sus fuerzas pronto podr&amp;#225; llegar a Popolion. No podemos permitir que algo as&amp;#237; suceda.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme sus anillos... vamos a demostrarles a sus hermanos que nosotros tampoco estamos jugando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#191;Tienes los anillos? Bien, d&amp;#225;noslos.&lt;BR&gt;&lt;BR&gt;Oh, s&amp;#233; exactamente qu&amp;#233; hacer con ellos.&lt;BR&gt;&lt;BR&gt;Buen trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">&amp;#191;Sigues aqu&amp;#237;? No tienes miedo, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

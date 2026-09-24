@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="4">La Legi&amp;#243;n de Thulsa est&amp;#225; en movimiento. Viene del Valle de las Agujas y desciende hacia el sur. Por el momento, a&amp;#250;n no representa una amenaza, pero est&amp;#225; reuniendo sus fuerzas, y eso no es bueno para nosotros.&lt;BR&gt;&lt;BR&gt;Te pido que vayas a exterminar a los pretorianos de la legi&amp;#243;n maldita, as&amp;#237; como a su l&amp;#237;der, Bosskar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#161;Incre&amp;#237;ble! &amp;#161;Has aniquilado a las fuerzas de Thulsa t&amp;#250; {@gender:seul/seule}. &amp;#161;Kaia debe de estar siguiendo tus haza&amp;#241;as con suma atenci&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

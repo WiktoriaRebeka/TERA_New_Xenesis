@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="5">Un duelo es una prueba de fuerza entre dos adversarios, no una pelea a muerte. La federaci&amp;#243;n necesita soldados vivos, no idiotas muertos.&lt;BR&gt;&lt;BR&gt;Entonces, &amp;#191;qu&amp;#233; dices?... &amp;#191;Quieres intentarlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1070">
+        <Page social="5">Un duelo no es una simple pelea callejera; hay protocolo y costumbres que respetar. Un duelo requiere el consentimiento mutuo de los participantes. Respeta a tu adversario y desaf&amp;#237;alo siempre de acuerdo con las reglas del arte. &amp;#161;Cualquiera tiene derecho a ser cobarde y rechazar tu propuesta!&lt;BR&gt;&lt;BR&gt;Un duelo no es una pelea a muerte... &amp;#161;m&amp;#225;s bien hay que verlo como un deporte! Fuera de la ciudad puedes organizarlo donde quieras, pero dentro de sus muros solo puedes hacerlo en ciertos lugares. &amp;#161;Este tipo de espect&amp;#225;culo no es para cualquiera!&lt;NEXTPAGEBUTTON&gt;"Muy bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Para desafiar a alguien a un duelo, escribe el comando &lt;b&gt;/duel "nom de personnage"&lt;/b&gt; en la ventana de chat o haz aparecer tu cursor presionando Alt, &lt;b&gt;effectuez un clic droit sur votre adversaire et s&amp;#233;lectionnez Duel dans le menu.&lt;/b&gt;&lt;BR&gt;&lt;BR&gt;Tu adversario debe aceptar el duelo; as&amp;#237; que puede haber algo de tiempo de espera... &amp;#161;ten un poco de paciencia!&lt;BR&gt;&lt;BR&gt;Si alguien te desaf&amp;#237;a, &lt;b&gt;un message appara&amp;#238;tra sur votre &amp;#233;cran&lt;/b&gt;. Eres libre &lt;b&gt;d'accepter ou refuser&lt;/b&gt; la propuesta.&lt;BR&gt;&lt;BR&gt;Para quienes combaten, la vida tiene un sabor que los cobardes jam&amp;#225;s conocer&amp;#225;n.</Page>
+    </Text>
+</QuestDialog>

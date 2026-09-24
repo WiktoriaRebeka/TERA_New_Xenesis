@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="4">Superviso nuestra intendencia. Por el momento, la zona est&amp;#225; plagada de {@LinkCreature:47#2001#farfadets caprins argonomorphes} al este, y eso nos va a costar caro. &amp;#191;Quieres ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Gracias, &lt;PCNAME&gt;. Los j&amp;#243;venes &amp;#225;rboles de las hadas llegan desde Fey Forest para contrarrestar la corrupci&amp;#243;n arg&amp;#243;n. Habr&amp;#237;a sido una l&amp;#225;stima perderlos...</Page>
+    </Text>
+</QuestDialog>

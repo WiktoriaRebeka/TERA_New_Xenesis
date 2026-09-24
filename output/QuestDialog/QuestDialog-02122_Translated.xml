@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Llamado del Shariar]&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:78#3002#Kalkzak} en {@Rgn:78001$$Forteresse de Zulfikar}.&lt;BR&gt;&lt;BR&gt;El Shariar quisiera trabajar contigo en misiones de inter&amp;#233;s com&amp;#250;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3002">
+        <Page social="4">Soy el tribuno del Shariar de {@Rgn:78001$$Forteresse de Zulfikar}.&lt;BR&gt;&lt;BR&gt;Tu incre&amp;#237;ble reputaci&amp;#243;n te precede, por eso queremos trabajar contigo.&lt;BR&gt;&lt;BR&gt;Con tu ayuda, el Shariar seguramente podr&amp;#225; derrotar a los argons y retomar el control de este mundo. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+</QuestDialog>

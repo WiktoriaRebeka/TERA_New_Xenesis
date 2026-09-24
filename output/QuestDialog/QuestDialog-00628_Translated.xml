@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Aparentemente, los Descendants de Lok cuentan entre nuestros enemigos. Ya los has enfrentado, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:22#30#cardinaux sombres} han tomado a los {@LinkCreature:22#29#ovolithes minuscules} a su servicio, y controlan las catacumbas.&lt;BR&gt;&lt;BR&gt;Debes vencerlos. &amp;#161;Y para vencerlos, tendr&amp;#225;s que matarlos a todos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Los cultistas jam&amp;#225;s ser&amp;#225;n llevados ante la justicia de la Federaci&amp;#243;n. Cuando hayamos retomado la Academia eldritch, reuniremos nuestras fuerzas y les infligiremos un dolor tan intenso que se arrepentir&amp;#225;n de que Shakan no los haya destripado a TODOS.&lt;BR&gt;&lt;BR&gt;Oh, por lo general, controlo mejor mi ira.</Page>
+    </Text>
+</QuestDialog>

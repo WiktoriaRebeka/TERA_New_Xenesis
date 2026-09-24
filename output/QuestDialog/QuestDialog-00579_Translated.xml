@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="4">Tu primer trabajo consistir&amp;#225; en deshacerte de los combatientes cuerpo a cuerpo que patrullan en los Halls des T&amp;#233;n&amp;#232;bres. Los {@LinkCreature:20#30120100#cavali&amp;#232;rs devanes}, {@LinkCreature:20#30120101#&amp;#233;ventreurs devans} y {@LinkCreature:20#30141000#faucheurs de Lok} dispondr&amp;#225;n todos de listas que le interesar&amp;#225;n a {@LinkCreature:220#1029#Kurbain} al m&amp;#225;ximo. &amp;#201;l busca entender la jerarqu&amp;#237;a de la organizaci&amp;#243;n que tom&amp;#243; el control del lugar. Ay&amp;#250;dale lo mejor que puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">Oh, formidable, &amp;#161;justo necesitaba eso!&lt;BR&gt;&lt;BR&gt;&amp;#191;Dices que te env&amp;#237;a Arthgal? &amp;#161;Qu&amp;#233; buen hombre! Sabe que llevo esperando ayuda aqu&amp;#237; desde hace alg&amp;#250;n tiempo ya.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">&amp;#191;Qu&amp;#233; te trae por aqu&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

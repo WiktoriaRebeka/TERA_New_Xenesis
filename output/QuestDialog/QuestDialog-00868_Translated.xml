@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0">Algo me habla. Oigo sin parar una voz que me dice: &quot;recolecta fragmentos de sombra&quot; y &quot;escucha nuestras voces&quot;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Cree que estoy perdiendo la cabeza? &amp;#161;Le demostrar&amp;#233; lo contrario! &amp;#161;Mate a unos cuantos {@LinkCreature:33#6#spectres malveillants} en la Llanura del V&amp;#233;rtigo, consiga los fragmentos de sombra y ya veremos qui&amp;#233;n est&amp;#225; loco y qui&amp;#233;n no!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1010">
+        <Page social="4">Muy bien, vamos a ver si funciona. Me los voy a poner contra los orejas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; quer&amp;#233;is, malditas voces? Dec&amp;#237;dmelo todo.&lt;BR&gt;&lt;BR&gt;Es... &amp;#161;oh, son las voces de los soldados desaparecidos!&lt;NEXTPAGEBUTTON&gt;"¿Los soldados de Kaidun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;S&amp;#237;! &amp;#161;Mis compa&amp;#241;eros Aman! &amp;#161;Malditos sean Thulsa y este horrible lugar!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los Defensores eldritch de la Galer&amp;#237;a de la Angustia eran en realidad los soldados desaparecidos y... no!&lt;BR&gt;&lt;BR&gt;Helehr sigue all&amp;#237; arriba, busca advertirnos... una maldici&amp;#243;n est&amp;#225; devorando este lugar. &amp;#161;Oh, amigo m&amp;#237;o!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;debe ir a informar a Alssiyah!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1010">
+        <Page social="0">No s&amp;#233; muy bien qu&amp;#233; hacer con los fragmentos de sombra. &amp;#191;Me los meto en los o&amp;#237;dos?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="3" villagerId="1001">
+        <Page social="4">&amp;#191;Helehr? &amp;#191;Estuvo ah&amp;#237; todo este tiempo? Oh, ignoble Thulsa, s&amp;#233; maldito por haber deshonrado as&amp;#237; a un orgulloso guerrero.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, debe encontrarlo. La maldici&amp;#243;n debi&amp;#243; de transformarlo, pero sigue siendo nuestro camarada. &amp;#161;Ay&amp;#250;delo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1012">
+        <Page social="0">&amp;#161;Ha escuchado mi voz! No me apetece que me vean en este estado, pero no puedo quedarme aqu&amp;#237; esperando la muerte mientras mis compa&amp;#241;eros est&amp;#225;n en peligro.</Page>
+    </Text>
+</QuestDialog>

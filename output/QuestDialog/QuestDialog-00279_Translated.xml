@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="4">En tiempos de guerra es dif&amp;#237;cil conseguir art&amp;#237;culos de lujo. Todo sufre las consecuencias de un racionamiento estricto.&lt;BR&gt;&lt;BR&gt;Tomemos los productos cosm&amp;#233;ticos, por ejemplo. He o&amp;#237;do que en Castanica siempre faltan. &amp;#191;Y sab&amp;#237;as que es posible crear r&amp;#237;mel a partir de las pezu&amp;#241;as de los &lt;BR&gt; del Rivage du Boa?{@LinkCreature:10#9#entailleurs longues-d&amp;#233;fenses}&lt;BR&gt;Si alguien me trajese esas pezu&amp;#241;as, seguro que podr&amp;#237;amos &quot;sacarle provecho&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1009">
+        <Page social="4">S&amp;#237;, servir&amp;#225; perfectamente. Te lo agradezco en nombre de todas las mujeres de Castanica... y en el de los hombres que las aman.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1009">
+        <Page social="0">Ya sabes cu&amp;#225;nto les gusta a los Castanics cuidar su apariencia, &lt;PCNAME&gt;. Si me consigues esas pezu&amp;#241;as de {@LinkCreature:10#9#entailleurs longues-d&amp;#233;fenses}, sacaremos una buena suma por ellas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="22008">
+        <Page social="1">Hola, amigo{@g:/e}. He o&amp;#237;do que tu campo de destreza es impresionante, pero ya sabes, siempre es posible mejorar.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a las b&amp;#243;vedas, mata a un {@linkcreature:124#102#Cyclope}, a un {@linkcreature:125#103#Dracoloth} o a un {@linkcreature:126#104#D&amp;#233;chireur vulcain} y tr&amp;#225;eme su coraz&amp;#243;n para demostrar que has cumplido con tu tarea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="22008">
+        <Page social="4">&amp;#161;Bien hecho, amigo!&lt;BR&gt;&lt;BR&gt;Espero que nuestras b&amp;#243;vedas te hayan ayudado a perfeccionar tus habilidades.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="22008">
+        <Page social="0">&amp;#161;Que la Uni&amp;#243;n triunfe!</Page>
+    </Text>
+</QuestDialog>

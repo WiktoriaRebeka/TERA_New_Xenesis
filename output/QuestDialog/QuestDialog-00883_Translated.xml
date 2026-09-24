@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;La Guardia sangrienta est&amp;#225; afirmando su superioridad sobre uno de nuestros territorios.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:33#10#mages}, los {@LinkCreature:33#11#berserkers}, los {@LinkCreature:33#12#lanciers}, los {@LinkCreature:33#60#sorciers}, los {@LinkCreature:33#61#faucheurs}, los {@LinkCreature:33#62#champions} y los {@LinkCreature:33#70#arcanistes} de la Guardia sangrienta.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a Celion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">&amp;#161;La Federaci&amp;#243;n quiere entregarte esta recompensa! &amp;#161;Con nuestros agradecimientos a todos los miembros de la hermandad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

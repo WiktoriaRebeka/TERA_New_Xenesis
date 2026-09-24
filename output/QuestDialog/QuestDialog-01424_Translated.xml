@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">Asustamos a los orkans, pero no retroceden. No suelen ser tan valientes.&lt;BR&gt;&lt;BR&gt;Tal vez las baratijas de los imp&amp;#237;os les permitan obligar a sus aliados a actuar.&lt;BR&gt;&lt;BR&gt;Encuentra y derriba a su l&amp;#237;der, Tarlok. El impacto de su muerte tal vez les haga entrar en raz&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1010">
+        <Page social="4">Esto es extra&amp;#241;o... No s&amp;#233; qu&amp;#233; es... &amp;#161;pero huele a los imp&amp;#237;os a leguas! Como todas las razas fe&amp;#233;ricas, su magia es sutil, pero letal.&lt;BR&gt;&lt;BR&gt;La muerte de Tarlok tal vez baste para disuadir a los orkans en el futuro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1010">
+        <Page social="0">Sigue el r&amp;#237;o hacia el sureste; Tarlok rara vez abandona su campamento.</Page>
+    </Text>
+</QuestDialog>

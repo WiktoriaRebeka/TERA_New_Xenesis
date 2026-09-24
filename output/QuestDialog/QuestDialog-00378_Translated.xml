@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="213">Nuestro camino de acceso a Isolated Valley est&amp;#225; bloqueado por un grupo de {@LinkCreature:13#300910#cromos r&amp;#244;deurs} apostados cerca de la entrada.&lt;BR&gt;&lt;BR&gt;Chione es la &amp;#250;nica de nuestras pilotos que sabe navegar en esta parte de la isla. Hasta que la reemplacemos, solo podremos contar con los mensajeros para comunicarnos.&lt;BR&gt;&lt;BR&gt;Derrota a los cromos y luego pres&amp;#233;ntate ante {@linkcreature:213#1025$$Sersine} en Isolated Valley.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Me alegra saber que has librado este camino de esas criaturas p&amp;#233;rfidas.&lt;BR&gt;&lt;BR&gt;Escucha, no subestimes esta isla. No olvides que nuestras tropas se retiran debido a los problemas que conoce la Federaci&amp;#243;n. No es porque este lugar sea seguro.&lt;BR&gt;&lt;BR&gt;Mantente alerta.</Page>
+    </Text>
+</QuestDialog>

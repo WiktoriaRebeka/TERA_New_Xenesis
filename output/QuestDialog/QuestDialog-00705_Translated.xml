@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">La ferocidad con la que combati&amp;#243; el Atel Akaad es preocupante. Parec&amp;#237;a que las tropas estaban pose&amp;#237;das por algo.&lt;BR&gt;&lt;BR&gt;Ve a matar a los {@LinkCreature:25#1021#pr&amp;#233;lats devans} y a los {@LinkCreature:25#1022#gardiens squelettiques}, y veamos si eso provoca alg&amp;#250;n cambio. Quiz&amp;#225;s sean ellos quienes controlan a las criaturas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">&amp;#161;Una cadena de control mental! &amp;#161;As&amp;#237; que por eso habr&amp;#237;an tomado el control del Atel Akaad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Estos caballeros del terror seguramente est&amp;#225;n bajo la influencia de algo.</Page>
+    </Text>
+</QuestDialog>

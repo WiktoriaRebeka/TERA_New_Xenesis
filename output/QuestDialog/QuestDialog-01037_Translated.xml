@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">La Incubadora est&amp;#225; plagada de cad&amp;#225;veres momificados pertenecientes a nuestros soldados. Pensar que los dejaron pudrirse ah&amp;#237; es desgarrador... &amp;#161;se acab&amp;#243;!&lt;BR&gt;&lt;BR&gt;Ve a recuperar sus restos y tr&amp;#225;elos aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="0">Devolver estos cuerpos a sus familias ser&amp;#225; un consuelo menor, pero ayudar&amp;#225; a los vivos a hacer su duelo.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">Ay&amp;#250;dame a cumplir con este deber de memoria, &lt;PCNAME&gt;. Trae a nuestros muertos de vuelta.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">Los argons realizaban investigaciones bot&amp;#225;nicas por aqu&amp;#237;. No sabemos en qu&amp;#233; trabajaban, pero algo es seguro: esas criaturas eran colosos.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n encontramos una especie de frascos. Tr&amp;#225;eme lo que contienen, pero ten cuidado con los argons grandes...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">Estos elementos confirman que los argons realizaban investigaciones bot&amp;#225;nicas.&lt;BR&gt;&lt;BR&gt;Si logro replicar su metodolog&amp;#237;a, tal vez podamos deducir lo que los argons intentaban lograr.&lt;BR&gt;Tu siguiente paso: la C&amp;#225;mara del Coraz&amp;#243;n del Hechizo. Habla con Beranie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1024">
+        <Page social="0">Los kulkaris argonomorfos intentar&amp;#225;n detenerte. &amp;#161;Claro que son mucho m&amp;#225;s peligrosos que los kulkaris normales, pero no cedas! &amp;#161;Consigue esas muestras de plantas para m&amp;#237;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1026">
+        <Page social="4">&amp;#191;{@Creature:246#1024$$Platanok} te manda? Me sorprende que pueda prescindir de ciertos soldados. De cualquier modo, tu ayuda ser&amp;#225; muy valiosa.</Page>
+    </Text>
+</QuestDialog>

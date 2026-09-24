@@ -1,0 +1,114 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fraya, comandante de las fuerzas de Allemantheia y amante de Kaidun, te pidi&amp;#243; que fueras a Acarum para descubrir qui&amp;#233;n estaba detr&amp;#225;s de los ataques del ej&amp;#233;rcito rebelde. Kaidun parec&amp;#237;a supervisar los ataques en persona, pero Fraya estaba convencida de que alguien m&amp;#225;s se ocultaba tras esta rebeli&amp;#243;n. Al final descubriste que los rebeldes en cuesti&amp;#243;n estaban controlados por cristales fijos en sus cuellos. Con la ayuda de estos cristales, lograste obtener un ant&amp;#237;doto que te permiti&amp;#243; disipar la maldici&amp;#243;n que afectaba a Ghufran, un esbirro de Kaidun. Este &amp;#250;ltimo te revel&amp;#243; que el verdadero Kaidun hab&amp;#237;a sido secuestrado por Thulsa. El hombre al que todos tomaban por Kaidun era un sirviente de Thulsa disfrazado. Al matarlo, probaste la inocencia de Kaidun.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Regresa al cuartel general de Allemantheia inmediatamente para tu pr&amp;#243;xima asignaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;- Fraya</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">No has perdido el tiempo. Nuestro trabajo requiere una confidencialidad absoluta, por eso, aunque &amp;#201;lion te haya recomendado encarecidamente, vacilamos mucho antes de recurrir a tus servicios. &lt;BR&gt;&lt;BR&gt;Teniendo en cuenta tus extraordinarias haza&amp;#241;as al servicio de la federaci&amp;#243;n, el cuartel general, el Mysterium y los ancianos terminaron por decidir que eres digno de confianza. &lt;BR&gt;&lt;BR&gt;Esc&amp;#250;chame atentamente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Los ancianos sospechan que Kaidun encontr&amp;#243; el n&amp;#250;cleo y ha instigado una insurrecci&amp;#243;n para explotar su poder. Sin embargo, yo no opino lo mismo.&lt;BR&gt;&lt;BR&gt;Por s&amp;#237; solo, Kaidun... nunca ha aspirado al poder. A mis ojos, es un honorable guerrero Aman. &lt;BR&gt;&lt;BR&gt;Dudo mucho que Kaidun haya cometido el crimen del que se le acusa. Pero si resulta que de verdad foment&amp;#243; una revuelta y rob&amp;#243; el poder del n&amp;#250;cleo, no dudar&amp;#233; en interponerme en su camino para proteger Allemantheia.&lt;NEXTPAGEBUTTON&gt;"Debemos seguir investigando."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Me alegra o&amp;#237;rte decir eso. El pueblo de Acarum, en Westonia, se encuentra justo al lado de la insurrecci&amp;#243;n.&lt;BR&gt;Harule, una agente del Mysterium, fue enviada all&amp;#237; para investigar el incidente.&lt;BR&gt;&lt;BR&gt;Toma un pegaso para llegar a Acarum. Colabora con Harule para comprender qu&amp;#233; significa la insurrecci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Te lo ruego.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Opino lo mismo que Fraya... eh, que la comandante. Es imposible que Kaidun haya fomentado la revuelta. Y aun as&amp;#237;, parece que Kaidun dirige este ej&amp;#233;rcito.&lt;BR&gt;&lt;BR&gt;Sin embargo, en Acarum hay varios antiguos partidarios de Kaidun. Debemos averiguar qu&amp;#233; piensan los dem&amp;#225;s aldeanos de la situaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Quer&amp;#237;a encargarme de esto en persona, pero....&lt;NEXTPAGEBUTTON&gt;"¿Has tenido algún problema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Harule suspira.)&lt;BR&gt;&lt;BR&gt;Allemantheia tard&amp;#243; demasiado en reaccionar y los aldeanos de aqu&amp;#237; nos guardan rencor. Pero por suerte, el rumor de tus haza&amp;#241;as tambi&amp;#233;n ha llegado hasta aqu&amp;#237;, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Los aldeanos de Acarum estar&amp;#225;n mucho m&amp;#225;s dispuestos a tratar contigo. Por favor, intenta averiguar algo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="73" prevId="5" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Qu&amp;#233; habr&amp;#225; llevado a una personalidad respetada como Kaidun a apartarse del buen camino. Una insurrecci&amp;#243;n... traicion&amp;#243; a la comandante y nuestra confianza. &lt;BR&gt;&lt;BR&gt;Para nosotros, Kaidun ya no es m&amp;#225;s que un vil traidor. Su ej&amp;#233;rcito ha sumido a Westonia en el caos.&lt;BR&gt;&lt;BR&gt;Era nuestro h&amp;#233;roe... &amp;#191;qu&amp;#233; ha pasado? Que se haya apartado tan pronto del buen camino...&lt;BR&gt;La orgullo de los guerreros Aman ya no parece tener el menor valor para &amp;#233;l.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="73" prevId="5" villagerId="1009">
+        <Page social="5" voiceTypeId="0">El castigo de este traidor todav&amp;#237;a no se ha decidido. Es una verdadera verg&amp;#252;enza. Cuando, adem&amp;#225;s de lentos, estos Altos elfos est&amp;#225;n confundidos, &amp;#161;todo se complica a&amp;#250;n m&amp;#225;s! &lt;BR&gt;Sea cual sea la decisi&amp;#243;n de Allemantheia, &amp;#161;debemos neutralizar al ej&amp;#233;rcito de Kaidun lo antes posible!&lt;BR&gt;&lt;BR&gt;Como en su momento serv&amp;#237; bajo sus &amp;#243;rdenes, &amp;#161;ir&amp;#233; a ajustar cuentas con &amp;#233;l en persona! &amp;#161;Ser&amp;#225; un &amp;#250;ltimo homenaje a un superior a quien tanto admir&amp;#233; en el pasado!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="73" prevId="5" villagerId="1100">
+        <Page social="5" voiceTypeId="0">Todo el mundo piensa que Kaidun dirige a los insurgentes, pero lo dudo mucho. Es verdad que estos amotinados llevan el mismo uniforme que el ej&amp;#233;rcito de Kaidun. &lt;BR&gt;&lt;BR&gt;Pero Kaidun nunca traicionar&amp;#237;a a la federaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;A&amp;#250;n m&amp;#225;s teniendo en cuenta que estaba perdidamente enamorado de la comandante de los Altos elfos.&lt;BR&gt;&lt;BR&gt;Estoy convencido de que no conocemos toda la verdad.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="73" prevId="5" villagerId="1023">
+        <Page social="5" voiceTypeId="0">Me importa un bledo si se trata o no del ej&amp;#233;rcito de Kaidun.&lt;BR&gt;&amp;#191;Por qu&amp;#233; el Cuartel general de Allemantheia no es capaz de librarnos de los rebeldes de una vez por todas? &amp;#161;Han masacrado a mi familia!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="73" prevId="6" villagerId="1110">
+        <Page social="5" voiceTypeId="0">&amp;#191;Has interrogado a los aldeanos, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Sí, ya está hecho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Muy bien. Si no nos ocupamos del ej&amp;#233;rcito de Kaidun, la confianza en el Cuartel general de Allemantheia empezar&amp;#225; a flaquear.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">Mientras charlabas con los habitantes de Acarum, he estado investigando por mi cuenta.&lt;BR&gt;&lt;BR&gt;Los Soldados de Kaidun se comportan de manera extra&amp;#241;a.&lt;BR&gt;Un poco como si alguien los estuviera controlando.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">El plan tiene sentido. Pero antes, debemos demostrar que el Cuartel general de Allemantheia a&amp;#250;n no se ha olvidado de Acarum.&lt;br&gt;&lt;br&gt;Dir&amp;#237;gete al Passage of Intimidation del Monte Tyrannas y elimina a los {@linkcreature:32#1#combattants sihrans} y a los {@linkcreature:32#3#Berserkers sihrans}.&lt;br&gt;&lt;br&gt;Luego examina los cad&amp;#225;veres de los soldados de Kaidun en el Passage of Intimidation. Trae todas tus pistas.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">Lamentablemente, no tengo informaci&amp;#243;n. Solo s&amp;#233; que uno de los maestros hechiceros del Mysterium ha estado estudiando hechizos de control mental.&lt;br&gt;&lt;br&gt;Quiz&amp;#225; sepamos m&amp;#225;s gracias a los {@linkcreature:32#1#combattants sihrans} y los {@linkcreature:32#3#Berserkers sihrans} del Passage of Intimidation.&lt;br&gt;&lt;br&gt;&amp;#161;Si encuentras algo, tr&amp;#225;emelo!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="232" prevId="10" villagerId="1025">
+        <Page social="5" voiceTypeId="0">(Un extra&amp;#241;o cristal del que emana un brillo macabro est&amp;#225; incrustado en el cuello de este cad&amp;#225;ver Aman. &amp;#191;Ser&amp;#225; esta la fuerza manipuladora de la que hablaba Harule?)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="232" prevId="10" villagerId="1026">
+        <Page social="5" voiceTypeId="0">(Un extra&amp;#241;o cristal del que emana un brillo macabro est&amp;#225; incrustado en la mano de este cad&amp;#225;ver. Podr&amp;#237;a tratarse de la fuerza manipuladora de la que hablaba Harule.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="232" prevId="10" villagerId="1027">
+        <Page social="5" voiceTypeId="0">(La expresi&amp;#243;n facial de este cad&amp;#225;ver no denota sufrimiento, sino un extra&amp;#241;o &amp;#233;xtasis. Un extra&amp;#241;o cristal del que emana un brillo macabro est&amp;#225; incrustado en su frente. &amp;#191;Podr&amp;#237;a ser esta la fuerza manipuladora de la que hablaba Harule?)</Page>
+    </Text>
+    <Text id="17" huntingZoneId="232" prevId="10" villagerId="1028">
+        <Page social="5" voiceTypeId="0">(Este cad&amp;#225;ver muestra una expresi&amp;#243;n facial muy extra&amp;#241;a. Un extra&amp;#241;o cristal del que emana un brillo macabro est&amp;#225; incrustado en el torso de este cad&amp;#225;ver. Podr&amp;#237;a tratarse de la fuerza manipuladora de la que hablaba Harule.)</Page>
+    </Text>
+    <Text id="18" huntingZoneId="73" prevId="14" villagerId="1110">
+        <Page social="4" voiceTypeId="0">&amp;#191;Encontraste estos cristales en sus cuerpos?&lt;BR&gt;&lt;BR&gt;No lo puedo creer. &amp;#161;Alguien est&amp;#225; controlando al ej&amp;#233;rcito!&lt;BR&gt;&lt;BR&gt;Por cierto, se ha reportado la presencia de {@linkcreature:32#16#Ghufran}, el esbirro de Kaidun, cerca de la Guardia de los Inquebrantables en el Monte Tyrannas.&lt;BR&gt;&lt;BR&gt;Si rompemos su maldici&amp;#243;n, tal vez pueda contarnos qu&amp;#233; pas&amp;#243;.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="73" villagerId="1110">
+        <Page social="0">Descubre c&amp;#243;mo est&amp;#225;n siendo controlados.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="73" prevId="18" villagerId="1110">
+        <Page social="5" voiceTypeId="0">La Guardia de los Inquebrantables alberga a una experta en maldiciones llamada {@linkcreature:232#1010#Nania}.&lt;BR&gt;&lt;BR&gt;Tal vez pueda ayudarnos a detener el control de la gema hipn&amp;#243;tica. Toma la piedra y ve a verla.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="232" prevId="20" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&amp;#191;Te manda Harule? &amp;#191;D&amp;#243;nde encontraste esto? Qu&amp;#233; extra&amp;#241;o, por lo general se implantan directamente en el cerebro.&lt;BR&gt;&lt;BR&gt;Es posible contrarrestar su efecto, pero no es sencillo. Cuatro cristales deber&amp;#237;an bastar para romper el efecto en una persona.&lt;NEXTPAGEBUTTON&gt;"Esperemos que sea suficiente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Me pareces alguien con prisa. Muy bien. Retrocede un poco. Me tomar&amp;#225; un momento.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="232" villagerId="1010">
+        <Page social="0">&amp;#191;Qu&amp;#233; pasa?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="232" prevId="21" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Est&amp;#225; listo. Pero, como tuve que apresurarme, el remedio es bastante d&amp;#233;bil. La maldici&amp;#243;n es sumamente poderosa, as&amp;#237; que debes debilitar al objetivo antes de que el remedio haga efecto. Una vez que el s&amp;#233;rum rompa la maldici&amp;#243;n, podr&amp;#225;s interrogarlo.&lt;BR&gt;&lt;BR&gt;Por cierto, &amp;#191;a qui&amp;#233;n planeas administrarle el remedio?&lt;NEXTPAGEBUTTON&gt;"¿Te suena el nombre de Ghufran?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">&amp;#191;Te refieres a {@linkcreature:32#16#Ghufran}, el esbirro de Kaidun?&lt;BR&gt;&lt;BR&gt;Actualmente se encuentra en el campamento de Kaidun, frente a la Guardia de los Inquebrantables. Espero que logres romper su maldici&amp;#243;n y sacarle la verdad. Te deseo buena suerte.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="31" villagerId="1">
+        <Page social="0">&amp;#191;Qu&amp;#233; significa esto?&lt;BR&gt;&lt;BR&gt;So&amp;#241;&amp;#233; con un ataque a Acarum. Muchos inocentes murieron a mis manos, entre ellos camaradas que alguna vez lucharon a nuestro lado.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que no era un sue&amp;#241;o. Era la realidad. &amp;#161;Oh, Kaia!&lt;BR&gt;&lt;BR&gt;Me ayudaste a ver con claridad. &amp;#161;Tengo una petici&amp;#243;n! Me aterra la perspectiva de perder la raz&amp;#243;n otra vez. Ll&amp;#233;vame cerca de la &lt;A herf=&quot;markmap:loc=7012#-27702,-85642,5819&amp;icon=1&amp;name=Fortin des irr&amp;#233;ductibles&quot;&gt;Guardia de los Inquebrantables&lt;/A&gt;.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="232" prevId="23" villagerId="1024">
+        <Page social="5" voiceTypeId="0">Salimos dAllemantheia Headquarters para buscar el n&amp;#250;cleo. Pero nos capturaron, incluido Kaidun, y Thulsa nos maldijo.&lt;BR&gt;&lt;BR&gt;Thulsa, el dios de la muerte, busca obtener el poder del n&amp;#250;cleo. Ca&amp;#237;mos en su trampa y muchos de los nuestros perdieron la vida all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Entonces, ¿la manipulación también afecta a Kaidun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No. Thulsa se llev&amp;#243; al verdadero Kaidun con &amp;#233;l. No s&amp;#233; a d&amp;#243;nde.&lt;BR&gt;&lt;BR&gt;{@linkcreature:32#17#Le Kaidun tyrannique} que azota el Monte Tyrannas no es otro que Natharkan, un sirviente de Thulsa que viste la armadura de Kaidun.&lt;BR&gt;&lt;BR&gt;Hechiz&amp;#243; a nuestro amigo muerto y nos orden&amp;#243; llamarlo Kaidun.&lt;BR&gt;&lt;BR&gt;La maldici&amp;#243;n nos imped&amp;#237;a mover un dedo.&lt;NEXTPAGEBUTTON&gt;"¿Qué debemos hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La &amp;#250;nica forma de limpiar el honor de Kaidun es desenmascarar al impostor, para que todos se den cuenta de que no se trata de Kaidun.&lt;BR&gt;&lt;BR&gt;Elimina a Natharkan y tr&amp;#225;eme su cabeza. Esto levantar&amp;#225; la maldici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Debemos demostrar que el verdadero Kaidun no tiene nada que ver con esta guerra.&lt;BR&gt;&lt;BR&gt;Te revelar&amp;#233; d&amp;#243;nde est&amp;#225;. Por favor, ay&amp;#250;danos a liberar a nuestro amigo, a quien ni la muerte le da tregua.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="232" prevId="25" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;se ha roto la maldici&amp;#243;n de Ghufran? &amp;#191;Qu&amp;#233; tienes ah&amp;#237;?&lt;BR&gt;&lt;BR&gt;(Le cuentas a Nania las palabras de Ghufran y le muestras la cabeza de Natharkan.)&lt;BR&gt;&lt;BR&gt;Oh... no, &amp;#161;&amp;#233;l no es Kaidun! &amp;#161;Puedo dar fe de ello! Sab&amp;#237;a muy bien que era sumamente improbable que Kaidun nos traicionara de esta manera. &amp;#161;Lleva esta cabeza a Harule, en Acarum. &amp;#161;R&amp;#225;pido!</Page>
+    </Text>
+    <Text id="27" huntingZoneId="232" villagerId="1010">
+        <Page social="0">&amp;#191;Hablaste con Ghufran?</Page>
+    </Text>
+    <Text id="28" huntingZoneId="73" prevId="26" villagerId="1110">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;sabes algo m&amp;#225;s?&lt;BR&gt;&lt;BR&gt;(Le cuentas las palabras de Ghufran a Harule y le muestras la cabeza de Natharkan.)&lt;BR&gt;&lt;BR&gt;&amp;#161;El Kaidun del Monte Tyrannas no era m&amp;#225;s que un sirviente de Thulsa! Fraya ten&amp;#237;a raz&amp;#243;n. Debemos informar a los aldeanos. &amp;#161;Mu&amp;#233;strales esta cabeza y lava el nombre de Kaidun! &amp;#161;Tambi&amp;#233;n hay que informarle a Fraya sobre la inocencia de Kaidun!</Page>
+    </Text>
+    <Text id="29" huntingZoneId="73" prevId="28" villagerId="1001">
+        <Page social="5" voiceTypeId="0">&amp;#191;No era el verdadero Kaidun? &amp;#191;Kaidun no es un traidor? &amp;#191;Puedes probarlo?&lt;NEXTPAGEBUTTON&gt;"Mira esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">&amp;#161;Oye! Yo, eh... &amp;#191;Una cabeza? Eh. Bien... Ah&amp;#237; lo tienes, b&amp;#225;sicamente. Justo frente a m&amp;#237;. En tus manos. De acuerdo, entiendo. No era Kaidun. Yo... Ir&amp;#233; a dar... una vuelta por all&amp;#225;.</Page>
+    </Text>
+    <Text id="30" huntingZoneId="73" prevId="28" villagerId="1009">
+        <Page social="5" voiceTypeId="0">Al parecer atrapaste a Kaidun antes de que yo pudiera hacerlo. Espera, &amp;#191;c&amp;#243;mo que no era Kaidun?&lt;NEXTPAGEBUTTON&gt;"Era este hombre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Natharkan!&lt;BR&gt;&lt;BR&gt;&amp;#191;Un sirviente de Thulsa?&lt;BR&gt;&lt;BR&gt;(Le cuentas a Georrif lo que ha pasado hasta ahora.)&lt;BR&gt;&lt;BR&gt;... Era un poco tonto, pero no era mala persona. &amp;#191;C&amp;#243;mo pudo manchar as&amp;#237; el nombre de Kaidun? &amp;#161;Nunca le perdonaremos esta afrenta a Thulsa!</Page>
+    </Text>
+    <Text id="31" huntingZoneId="73" prevId="28" villagerId="1100">
+        <Page social="5" voiceTypeId="0">&amp;#161;Oh, Kaia! &amp;#161;Lo sab&amp;#237;a! Sab&amp;#237;a que hab&amp;#237;a gato encerrado. Y ahora, &amp;#191;d&amp;#243;nde est&amp;#225; ese impostor?&lt;NEXTPAGEBUTTON&gt;"Aquí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pero si es...&lt;BR&gt;&lt;BR&gt;&amp;#161;Es el pobre Natharkan! &amp;#191;Era realmente necesario? En fin... &amp;#161;Ahora tenemos la prueba de que Kaidun era inocente! A Fraya le encantar&amp;#225;.</Page>
+    </Text>
+    <Text id="32" huntingZoneId="73" prevId="28" villagerId="1023">
+        <Page social="5" voiceTypeId="0">&amp;#191;Y bien? &amp;#191;Por qu&amp;#233; quieren que me preocupe por el honor de Kaidun? Esos rebeldes masacraron a mi familia... Y la verdad no me la devolver&amp;#225;.&lt;BR&gt;&lt;BR&gt;Debemos hacer todo lo posible para que ning&amp;#250;n inocente m&amp;#225;s pierda la vida. No se lo tome a mal, le estoy muy agradecido por sus esfuerzos...&lt;NEXTPAGEBUTTON&gt;...&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Disculpe. Me dej&amp;#233; llevar. &amp;#161;Informe a Allemantheia que necesitamos refuerzos!&lt;BR&gt;&lt;BR&gt;Muchos aldeanos perdieron a sus seres queridos. Ya no podemos correr riesgos.</Page>
+    </Text>
+    <Text id="33" huntingZoneId="518" prevId="29" villagerId="1001">
+        <Page social="5" voiceTypeId="0">(Le explica a Fraya que ha limpiado el nombre de Kaidun.)&lt;BR&gt;&lt;BR&gt;Nunca dud&amp;#233; de su inocencia. Gracias por haberla probado y por haber limpiado su honor.&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que pod&amp;#237;a confiar en ti. Te lo agradezco.&lt;NEXTPAGEBUTTON&gt;"¿Qué hay de los otros rebeldes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Aunque alguien los controle, el hecho es que han causado muchos estragos en Westonia y sobre todo en Acarum. El Mysterium tal vez logre levantar la maldici&amp;#243;n que afecta a los supervivientes, pero vamos a tener que aniquilar a los que est&amp;#225;n bajo el efecto de la nigromancia.</Page>
+    </Text>
+</QuestDialog>

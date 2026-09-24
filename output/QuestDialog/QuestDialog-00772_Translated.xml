@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="1">Estamos estudiando los ligeros cambios en el Patr&amp;#243;n de Balder: los glifos y las l&amp;#237;neas que aparecen durante el d&amp;#237;a en el cielo. Sin embargo, es imposible hacer un trabajo correcto sin estudiar el patr&amp;#243;n al mismo tiempo pero desde diferentes lugares.&lt;BR&gt;&lt;BR&gt;Mand&amp;#233; investigadores a los {@Rgn:30009$$Ruines du temple} y al {@Rgn:30008$$Temple de l'autorit&amp;#233;}, pero sus informes se hacen esperar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir a verlos y recordarles que el tiempo apremia? Ve primero a ver a {@LinkCreature:230#1026$$Meterok}. Est&amp;#225; en alg&amp;#250;n lugar de las Ruinas del templo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1026">
+        <Page social="1">&amp;#191;Un informe?&lt;BR&gt;&lt;BR&gt;No puedo enviar ning&amp;#250;n informe hasta que tenga noticias de {@LinkCreature:230#1020$$Ronush}, pero a&amp;#250;n no ha terminado sus observaciones. Como de costumbre.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1020$$Ronush} tambi&amp;#233;n tiene mis datos. Puedes ir all&amp;#225; y matar dos p&amp;#225;jaros de un tiro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1020">
+        <Page social="1">&amp;#191;Es la colecta para la sociedad de ayuda a los veteranos? &amp;#161;Ya di el mes pasado!...&lt;BR&gt;&lt;BR&gt;Perdona, &amp;#191;te manda Sestena? Claro que s&amp;#237;; es del tipo impaciente, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Debemos cronometrar exactamente los cambios en el Patr&amp;#243;n de Balder, pero las notas de {@LinkCreature:230#1026$$Meterok} no est&amp;#225;n bien ordenadas, lo que me frena enormemente.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que esperar a que terminen mis observaciones. Y para matar el tiempo, &amp;#191;te interesa un peque&amp;#241;o trabajo original a cambio de oro?</Page>
+    </Text>
+</QuestDialog>

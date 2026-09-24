@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">Los monstruos de las Catacumbas del Tormento y de las Profundidades Sangrientas no son tan abominables como esas horribles mu&amp;#241;ecas, pero tampoco hay que tom&amp;#225;rselos a la ligera.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:33#8#discoupeurs sans piti&amp;#233;}, los {@LinkCreature:33#9#cuirass&amp;#233;s}, los {@LinkCreature:33#58#acharn&amp;#233;s} y los {@LinkCreature:33#59#impitoyables} se las han ingeniado para rastrear y matar a un buen n&amp;#250;mero de soldados e investigadores, a pesar de la imposibilidad te&amp;#243;rica de desplazarse tan r&amp;#225;pido sobre las manos.&lt;BR&gt;&lt;BR&gt;Debe eliminarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">&amp;#161;Aj&amp;#225;! &amp;#161;Realmente se r&amp;#237;e de la muerte!&lt;BR&gt;&lt;BR&gt;&amp;#161;Esos cortadores han matado a tanta gente y se han quedado con sus insignias como trofeos! He luchado en los campos de batalla m&amp;#225;s sangrientos, pero nada me ha helado la sangre tanto como este lugar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">&amp;#161;Vamos! &amp;#161;Puede encontrar a los cortadores!</Page>
+    </Text>
+</QuestDialog>

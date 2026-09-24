@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="0">Vous êtes allé à la ferme communautaire construite par la confrérie libre autonome, y avez appris à récolter des produits fermiers et avez fait une partie de rodéo de porcidé.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="4">Salut, &lt;PCNAME&gt;, êtes-vous un fin gourmet&amp;nbsp;? Si vous avez fait toute cette route pour du lotus céleste, c'est sans doute que oui.&lt;BR&gt;&lt;BR&gt;Vous devriez vous rendre dans la ferme là-bas. Ils ont des produits d'une fraîcheur incomparable, à utiliser pour les plus succulentes des recettes.&lt;BR&gt;&lt;BR&gt;Demandez Karadus. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Entendu.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Bienvenido, extranjero. &amp;#191;Est&amp;#225;s aqu&amp;#237; por el festival, verdad?&lt;BR&gt;&lt;BR&gt;Te encuentras en una granja comunitaria, mantenida y compartida por todos los habitantes de las Terres libres. Criamos ganado y Lein y su familia se encargan de elaborar los bienes de consumo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Has conocido a Tagun? Es un pastor. Se pasa el tiempo durmiendo, pero tiene un buen coraz&amp;#243;n y la carne de cordero no tiene ningun secreto para &amp;#233;l. Si quieres cordero de primera calidad para tu receta, ve a verle.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7002">
+        <Page social="4">&amp;#191;Buscas cordero de calidad?&lt;BR&gt;&lt;BR&gt;Pues, f&amp;#237;jate que yo tambi&amp;#233;n... Solo cerr&amp;#233; los ojos un instante y se escaparon. Ay&amp;#250;dame a encontrar a mis ovejas y te dar&amp;#233; cordero de primera calidad.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="702" villagerId="4">
+        <Page social="0">&amp;#161;Beeee! &amp;#161;Beeee!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="4" villagerId="7002">
+        <Page social="4">Has perdido tu vocaci&amp;#243;n, &lt;PCNAME&gt;. Har&amp;#237;as de excelente pastor.&lt;BR&gt;&lt;BR&gt;Pero siempre tendr&amp;#225;s la posibilidad de convertirte en uno m&amp;#225;s adelante. Aqu&amp;#237; tienes la carne de cordero prometida.&lt;NEXTPAGEBUTTON&gt;"¿Qué otros ingredientes puedo conseguir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si necesitas leche o carne de res, ve a ver a Filton en su granja lechera.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="6" villagerId="7003">
+        <Page social="4">Bienvenido, amigo{@g:/e}. No recuerdo haberte visto por aqu&amp;#237; antes. &amp;#191;Eres subchef o solo est&amp;#225;s aqu&amp;#237; por el festival?&lt;BR&gt;&lt;BR&gt;Bueno, te has perdido la temporada de matanza de bestias, pero tengo leche fresca a raudales.&lt;BR&gt;&lt;BR&gt;Claro que la temporada de matanza de ganado nunca termina realmente con esas hienas merodeando. &amp;#191;Podr&amp;#237;as ahuyentarlas por m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Eso está hecho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="7" villagerId="7003">
+        <Page social="4">&amp;#161;Pues no has perdido el tiempo!&lt;BR&gt;&lt;BR&gt;Bueno, supongo que la leche corriente es una recompensa un poco escasa. A ver: buscas ingredientes para tus recetas, &amp;#191;verdad? Tienes que hablar con Trichi. &amp;#201;l puede ayudarte a conseguir los ingredientes tan especiales que necesitas.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="7004">
+        <Page social="4">&amp;#191;Te manda Filton? &lt;BR&gt;&lt;BR&gt;&amp;#191;Alguna vez has probado los huevos de struthio? Son mucho mejores que los huevos de gallina.&lt;BR&gt;&lt;BR&gt;Puedes llevarte tantos como quieras, pero &amp;#191;podr&amp;#237;as llevarle uno de mi parte a Tippani? Me pidi&amp;#243; uno, &amp;#161;pero estaba demasiado ocupado para llev&amp;#225;rselo! &amp;#161;Gracias de antemano!&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="7005">
+        <Page social="4">&amp;#161;Trichi! &amp;#161;Llegas tarde y lo detesto! &amp;#161;Empezamos muy mal!&lt;BR&gt;&lt;BR&gt;Pero... &amp;#161;t&amp;#250; no eres Trichi! &amp;#191;D&amp;#243;nde est&amp;#225; Trichi?&lt;BR&gt;&lt;BR&gt;Eh... espera. Quer&amp;#237;a decir: &amp;#161;Bienvenido al rodeo de cerdos! &amp;#191;Deseas probar suerte?&lt;NEXTPAGEBUTTON&gt;"Solo vine{@g:/e} a traerte este huevo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Oooh! &amp;#161;Trichi te mand&amp;#243; a traerme el huevo que le ped&amp;#237;! &amp;#161;Qu&amp;#233; atento es! Le dar&amp;#225;s las gracias de mi parte.&lt;BR&gt;&lt;BR&gt;Espera, no te vayas. &amp;#161;Todav&amp;#237;a tienes que probar el rodeo de cerdos! &amp;#161;Puedes ganar carne de cerdo, la mejor de las Terres libres! &amp;#191;Est&amp;#225;s seguro{@g:/e} de que no quieres intentarlo?&lt;NEXTPAGEBUTTON&gt;"¿Cómo se juega?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Ah, est&amp;#225;s interesado{@g:/e}! &amp;#161;Bueno, esto es mucho m&amp;#225;s divertido que el aburrido juego de apilar heno!&lt;BR&gt;&lt;BR&gt;&amp;#161;Si logras mantener a los cerdos bajo tu control hasta que se acabe el tiempo, ganas! Arr&amp;#243;jales fuego fantasma y te seguir&amp;#225;n el rastro. Pero ten cuidado con el robot porquero, que intentar&amp;#225; robarte tus cerdos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Prueba suerte, lo entender&amp;#225;s enseguida!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" villagerId="7005">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="219" prevId="10" villagerId="7005">
+        <Page social="4">Nada mal, nada mal. Y aqu&amp;#237; tienes tu recompensa: &amp;#161;carne de cerdo! &amp;#161;La mejor de todas las Terres libres!&lt;NEXTPAGEBUTTON&gt;"¿Cómo se prepara?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Melsa, de la granja de Lein, es famosa por sus recetas de cerdo.&lt;BR&gt;&lt;BR&gt;S&amp;#233; c&amp;#243;mo ahumar la carne de cerdo, pero en cuanto a cocinarla, Melsa no tiene rival. Rep&amp;#237;tese esto y tal vez te revele una de sus recetas.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="219" prevId="12" villagerId="7000">
+        <Page social="4">&amp;#161;Aqu&amp;#237; est&amp;#225;s otra vez, &lt;PCNAME&gt;! &amp;#191;Te has divertido{@g:/e}? &lt;BR&gt;&lt;BR&gt;Oh, veo que tienes la carne ahumada de Tippani.&lt;BR&gt;&lt;BR&gt;No est&amp;#225; mal en s&amp;#237;, pero qu&amp;#233; desperdicio no cocinarla correctamente. &amp;#161;Pero por suerte, resulta que tengo una receta, la mejor de todas las Terres libres! Toma, solo necesitas un poco de sal. Y ahora, directo al brasero.&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="219" prevId="13" villagerId="7000">
+        <Page social="4">&amp;#161;Vaya, huele muy bien! El color tampoco est&amp;#225; mal y la carne se separa del hueso como debe ser. &amp;#161;Se me hace la boca agua! &amp;#191;Puedo probar?&lt;BR&gt;&lt;BR&gt;Mmm, &amp;#161;est&amp;#225; suculento! &amp;#161;Bien hecho, &lt;PCNAME&gt;! &amp;#191;Ya lo has probado?&lt;NEXTPAGEBUTTON&gt;"Podría dejarme tentar por un bocado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Sabes que tienes talentos ocultos? Tantos autodenominados chefs carbonizan el cerdo o no lo cocinan lo suficiente y luego corren al ba&amp;#241;o...&lt;BR&gt;&lt;BR&gt;En fin, eh... toma. Aqu&amp;#237; tienes la receta para la barbacoa de Kaiator. Creo que est&amp;#225;s a la altura. Si haces m&amp;#225;s, &amp;#161;gu&amp;#225;rdame un poco!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="219" villagerId="7000">
+        <Page social="0">No olvides, &lt;PCNAME&gt;: sigue la receta y todo ir&amp;#225; bien.</Page>
+    </Text>
+</QuestDialog>

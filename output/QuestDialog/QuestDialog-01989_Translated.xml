@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="0">El malentendido sobre los revolucionarios pudo aclararse, pero la desconfianza no se ha disipado por completo. &lt;BR&gt;Hennika lo confirm&amp;#243;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Pareces seguir desconfiando de nosotros.&lt;NEXTPAGEBUTTON&gt;"Para ser honesto, es verdad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Vaya, vaya.&lt;BR&gt;&lt;BR&gt;Voy a disipar tus dudas de una vez por todas.&lt;BR&gt;&lt;BR&gt;Te revelar&amp;#233; un lugar donde podr&amp;#225;s formarte tu propia opini&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Mira un poco todo lo que hemos sufrido mientras dorm&amp;#237;as a pierna suelta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Cristales naranjas yacen en el suelo en medio de los cad&amp;#225;veres de los revolucionarios.&lt;BR&gt;&lt;BR&gt;Todos los revolucionarios que estaban aqu&amp;#237; murieron por cristalizaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1032">
+        <Page social="0" voiceTypeId="0">Hay un cristal naranja mucho m&amp;#225;s grande que el anterior.&lt;BR&gt;&lt;BR&gt;Los cristales parecen crecer progresivamente con el tiempo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Mi cuerpo se est&amp;#225; poniendo cada vez m&amp;#225;s r&amp;#237;gido. Pronto morir&amp;#233; yo tambi&amp;#233;n... *sollozo*&lt;NEXTPAGEBUTTON&gt;"¿Cómo te sientes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Al principio solo hubo uno... pero la epidemia se fue propagando poco a poco... (Ha muerto.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1043">
+        <Page social="4" voiceTypeId="0">&amp;#191;Me crees ahora? &lt;BR&gt;&lt;BR&gt;Nosotros no tenemos la culpa. &lt;BR&gt;Nosotros tambi&amp;#233;n sufrimos este fen&amp;#243;meno.&lt;BR&gt;&lt;BR&gt;Y actuamos m&amp;#225;s r&amp;#225;pido que ustedes para reducir el n&amp;#250;mero de v&amp;#237;ctimas.&lt;BR&gt;&lt;BR&gt;Si ya est&amp;#225;s seguro, &amp;#161;deja de ponernos trabas!</Page>
+    </Text>
+</QuestDialog>

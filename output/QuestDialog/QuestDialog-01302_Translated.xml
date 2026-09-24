@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">El {@LinkCreature:250#1001} que vi en {@Rgn:76001} se meti&amp;#243; en las cavernas de Viridia. &amp;#191;Qu&amp;#233; est&amp;#225; pasando?&lt;NEXTPAGEBUTTON&gt;"Me encargo de esto. Quédate aquí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Entendido... No me mover&amp;#233;.&lt;BR&gt;&lt;BR&gt;Por tu parte, s&amp;#233; {@gender:prudent/prudente}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1001">
+        <Page social="4">Recuerdo tu cara. &amp;#191;Puedes ayudarme? Necesito fundir los fragmentos de iteris con el metal para poder forjar el arma. Si pudiera conseguirle la savia en la que estoy pensando, un alquimista podr&amp;#237;a prepararme el agente de fusi&amp;#243;n que necesito.&lt;NEXTPAGEBUTTON&gt;"Iré a buscarla para ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Gracias! Necesito savia de rati. Es un &amp;#225;rbol que crece en una caverna no muy lejos de aqu&amp;#237;. Pensaba que podr&amp;#237;a encontrar un poco, pero tal vez perd&amp;#237; el camino.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1023">
+        <Page social="6">(Es el &amp;#225;rbol de rati.)&lt;BR&gt;&lt;BR&gt;(Deber&amp;#237;as extraer su savia.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="4" villagerId="1001">
+        <Page social="6">Te estar&amp;#233; eternamente agradecido. Gracias a ti, podr&amp;#233; terminar de forjar mi arma y pasar el rito de iniciaci&amp;#243;n del hushang.&lt;BR&gt;&lt;BR&gt;&amp;#161;M&amp;#225;s vale que vuelva a Kanstria. &amp;#161;Muchas gracias de nuevo!</Page>
+    </Text>
+</QuestDialog>

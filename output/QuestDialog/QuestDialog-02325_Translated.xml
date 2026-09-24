@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Ech&amp;#233; un vistazo a los alrededores, pero no encontr&amp;#233; rastro de Thro.&lt;BR&gt;Armande est&amp;#225; por la zona, recopilando algunas impresiones de Exodor. Hablemos de la siguiente etapa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te pusiste a buscar una forma de detener Exodor cuando conociste a &amp;#201;lion, quien te habl&amp;#243; de los aldeanos prisioneros y del n&amp;#250;cleo oscuro. Tras encontrar una pista sobre c&amp;#243;mo detener Exodor, accediste a la petici&amp;#243;n de &amp;#201;lion y te propusiste salvar a los aldeanos secuestrados.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20400">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, mira este parf desmayado. Un parf solo se desmaya tras desplegar todas sus fuerzas en el vuelo.&lt;BR&gt;&lt;BR&gt;El parf regresa y se convierte a su vez en gema antes de morir... &amp;#191;No es esta la m&amp;#225;s bella de las muertes?&lt;NEXTPAGEBUTTON&gt;"No veo a Thro por ninguna parte por aquí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, Thro! Es verdad. Es un verdadero problema. Necesitamos a Thro a toda costa si queremos tener la menor oportunidad de detener Exodor.&lt;BR&gt;&lt;BR&gt;Siendo as&amp;#237;, debemos examinar los cristales del valle e ir a otro lugar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; cristal tan enorme! &amp;#191;Cu&amp;#225;ntos cad&amp;#225;veres de parf y parfons ser&amp;#225;n necesarios para generar un cristal as&amp;#237;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="20401">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has visto c&amp;#243;mo los cad&amp;#225;veres de parf y parfons se han transformado en gemas? He bautizado este proceso como cristalizaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Los cangrejos musgosos de all&amp;#237; parecen comerse los parf y parfons cristalizados.&lt;BR&gt;&lt;BR&gt;Estudiar su impacto en los cangrejos musgosos sin duda nos ayudar&amp;#225; a desarrollar un remedio contra la cristalizaci&amp;#243;n. As&amp;#237; que necesito muestras de cangrejos musgosos.&lt;BR&gt;&lt;BR&gt;Por favor, elimina algunos cangrejos y tr&amp;#225;eme muestras.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2000" prevId="4" villagerId="20402">
+        <Page social="4" voiceTypeId="0">Definitivamente, no haces las cosas a medias. Estas muestras deber&amp;#237;an ser suficientes para estudiar el impacto de los cristales en los cangrejos.&lt;BR&gt;&lt;BR&gt;Muchas gracias por tu ayuda. Nos ser&amp;#225; de gran utilidad en nuestra b&amp;#250;squeda de un ant&amp;#237;doto para la cristalizaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Intentemos encontrar a Thro ahora."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Eh? &amp;#161;&lt;PCNAME&gt;! &amp;#191;No hay alguien all&amp;#237; en el sendero? Acabo de ver a un humano all&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ser&amp;#237;a...? Quiz&amp;#225;s sea Thro. Comprueba esto lo antes posible.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="20100">
+        <Page social="4" voiceTypeId="0">Es un placer verte de nuevo, &lt;PCNAME&gt;. Me alegra mucho encontrarte aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Aunque Parquina est&amp;#225; fuera de combate, numerosos aldeanos siguen desapareciendo en las regiones vecinas de Exodor.&lt;BR&gt;&lt;BR&gt;Me escond&amp;#237; en la aeronave de los aldeanos secuestrados y aterric&amp;#233; aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Y t&amp;#250;, &amp;#191;c&amp;#243;mo has llegado hasta aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Hay que detener Exodor a toda costa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lo entiendo. Detener Exodor es... Bueno, tengo una teor&amp;#237;a sobre algo que vi.&lt;BR&gt;&lt;BR&gt;Sin embargo, unos intrusos me impiden cruzar el t&amp;#250;nel y ser&amp;#237;a bueno eliminarlos.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="6" villagerId="20101">
+        <Page social="4" voiceTypeId="0">Exactamente. Jelena y yo lo llamamos el n&amp;#250;cleo oscuro.&lt;BR&gt;&lt;BR&gt;Una fuerza prodigiosa se escapa de &amp;#233;l. Sin duda, es esta inmensa fuerza la que mueve la fortaleza.&lt;NEXTPAGEBUTTON&gt;"¿Es posible destruir el núcleo oscuro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Destruir el n&amp;#250;cleo es probablemente imposible desde el exterior. Pero si Exodor es efectivamente una estructura artificial, eso lo cambia todo.&lt;BR&gt;&lt;BR&gt;Un aparato de control se encarga sin duda de regular la fuerza del n&amp;#250;cleo oscuro. Probablemente basta con destruir este aparato de control para detener Exodor.&lt;BR&gt;&lt;BR&gt;En cambio, no lo lograremos sin Thro. No s&amp;#233; si Jelena ha descubierto algo. Probablemente har&amp;#237;a bien en ir a buscarla.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20200">
+        <Page social="4" voiceTypeId="0">&amp;#161;Por todos los dioses! Me preguntaba qui&amp;#233;n estaba al lado de &amp;#201;lion. &amp;#161;Eres t&amp;#250;, &lt;PCNAME&gt;! &amp;#161;Me alegro de encontrarte aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; te trae por un lugar tan remoto?&lt;NEXTPAGEBUTTON&gt;"Debemos detener Exodor y encontrar a mi compañero desaparecido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Thro, dices? Hace un momento, un Castanic cay&amp;#243; del cielo y perdi&amp;#243; el conocimiento antes de ser capturado por los dem&amp;#225;s, all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Eran demasiados y no pude hacer nada. Pero ahora que estamos todos reunidos, podremos rescatarlo a &amp;#233;l y a todos los dem&amp;#225;s prisioneros, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Te ayudar&amp;#233; explorando los alrededores. Te dejo a ti y a &amp;#201;lion la b&amp;#250;squeda y el combate.</Page>
+    </Text>
+</QuestDialog>

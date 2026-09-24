@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="4">Perd&amp;#243;neme, {@gender:l'ami/l'amie}. &amp;#191;Tendr&amp;#237;a un momento?&lt;NEXTPAGEBUTTON&gt;"Te escucho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Gracias a ti. Mi compa&amp;#241;ero ayudaba a la princesa Syona a redactar las cr&amp;#243;nicas de la Primera Guerra de los Argons.&lt;BR&gt;&lt;BR&gt;Muri&amp;#243; recientemente durante el ataque al Crat&amp;#232;re de Magthulk, y muchas de las p&amp;#225;ginas que hab&amp;#237;a redactado se perdieron.&lt;BR&gt;&lt;BR&gt;Si alguna vez encuentras algunas, &amp;#191;puedo contar contigo para que vengas a tra&amp;#233;rmelas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#161;Las has recuperado todas! Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Har&amp;#233; llegar una copia a nuestro hijo, en Allemantheia. S&amp;#233; que apreciar&amp;#225; poder leer una obra escrita por su padre.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n quiero ofrecerte esta copia con mi m&amp;#225;s sincero agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1008">
+        <Page social="0">&amp;#191;Has recuperado las p&amp;#225;ginas perdidas? mucho me temo que nunca las volveremos a encontrar.</Page>
+    </Text>
+</QuestDialog>

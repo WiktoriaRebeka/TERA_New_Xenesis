@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="4108">
+        <Page social="0">El poema de Omeros te ense&amp;#241;&amp;#243; que el Venerable Verikam ha recuperado fuerzas. &lt;BR&gt;&lt;BR&gt;A tu llegada al Sanctuaire d'illumination, Verikam te agradeci&amp;#243; y prometi&amp;#243; el apoyo de los Barakas de Hautegarde en la guerra contra los argones. &lt;BR&gt;&lt;BR&gt;Recibiste una carta de Tamur con coordenadas secretas. Se las mostraste al guardi&amp;#225;n de la Porte des dimensions y te teletransport&amp;#243; en pleno campo de batalla.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="4108">
+        <Page social="4" voiceTypeId="0">Dec&amp;#237;as que los argones tambi&amp;#233;n atacan la zona sur.&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que Dougal est&amp;#225; muy preocupado. Creo que planea enviarte all&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as contarme m&amp;#225;s al respecto?&lt;BR&gt;&lt;BR&gt;Espera... &amp;#191;qu&amp;#233; m&amp;#250;sica es esa?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4108">
+        <Page social="4" voiceTypeId="0">&amp;#191;No la oyes, &lt;PCNAME&gt;? Por lo visto, vivir en pleno bosque virgen ha agudizado mis sentidos...&lt;BR&gt;&lt;BR&gt;Y ahora la m&amp;#250;sica se oye cada vez m&amp;#225;s clara.&lt;BR&gt;&lt;BR&gt;(Rhodos escucha atentamente.)&lt;BR&gt;&lt;BR&gt;Estas palabras ininteligibles... Debe de ser Omeros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Pero si aqu&amp;#237; est&amp;#225; nuestro h&amp;#233;roe, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Desde que Verikam recuper&amp;#243; fuerzas, circulan poemas para que todos los Barakas del continente perdido se enteren.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al Sanctuaire d'illumination si quieres conocerlo.&lt;BR&gt;&lt;BR&gt;Dougal ya est&amp;#225; all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Gracias." &lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Podr&amp;#237;as concederme unos momentos, &lt;PCNAME&gt;? Como bardo, canto historias.&lt;BR&gt;&lt;BR&gt;Dougal me ha hecho saber que la guerra tambi&amp;#233;n estropea Shara. &amp;#191;Podr&amp;#237;as contarme m&amp;#225;s?&lt;NEXTPAGEBUTTON&gt;"Puedo hablarte de los argones."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La guerra contra los argones rage desde hace tanto tiempo...&lt;BR&gt;Si este lugar no estuviera protegido por la muralla negra, los Barakas tambi&amp;#233;n habr&amp;#237;an tomado las armas.&lt;BR&gt;&lt;BR&gt;Tengo la intenci&amp;#243;n de redactar un poema sobre la guerra argonesa para que todos los Barakas del continente perdido se enteren.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a ayudarte, si a&amp;#250;n no es demasiado tarde.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1051">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, quiero agradecerte por habernos salvado a Hautegarde y a m&amp;#237;. Por desgracia, todav&amp;#237;a no hemos podido recuperar las tablillas de los titanes...&lt;NEXTPAGEBUTTON&gt;"Ya hay refuerzos en camino."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ya he o&amp;#237;do decir que el crucero celestial llega aqu&amp;#237; para capturar a Dkurion.&lt;BR&gt;&lt;BR&gt;Incluso he o&amp;#237;do hablar de los argones tras la muralla negra.&lt;BR&gt;&lt;BR&gt;Es lamentable que las tablillas de los titanes no nos hayan dado ninguna respuesta sobre un pronto fin de la guerra. Y sin embargo, le debemos mucho a los Barakas de la Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n contamos con apoyarte hasta el final de la guerra contra los argones.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1050">
+        <Page social="4" voiceTypeId="0">Gracias a Dios.&lt;BR&gt;Debemos transmitir r&amp;#225;pidamente estas buenas noticias al comandante en jefe.&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n nuestra informaci&amp;#243;n, el Front de Khanovar del norte de Shara estuvo a punto de ser destruido solo porque los argones cortaron las rutas de suministro.&lt;BR&gt;&lt;BR&gt;Hautegarde tal vez pueda ayudar a poner fin a esta guerra.&lt;NEXTPAGEBUTTON&gt;"Sí, tal vez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, s&amp;#237;. Tengo una misi&amp;#243;n que encargarte.&lt;BR&gt;Ve al frente de la guerra argonesa.&lt;BR&gt;&lt;BR&gt;El comandante Helkan ha reclamado tu presencia ante el comandante en jefe una vez cumplida la misi&amp;#243;n de la vanguardia.&lt;BR&gt;&lt;BR&gt;El comandante incluso te envi&amp;#243; una carta.&lt;BR&gt;L&amp;#233;ela y prep&amp;#225;rate para partir.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4108">
+        <Page social="4" voiceTypeId="0">Por desgracia, ya debemos decirnos adi&amp;#243;s. Aunque bien sab&amp;#237;a que acabar&amp;#237;as teniendo que dejarnos...&lt;BR&gt;&lt;BR&gt;Eres nuestra estrella del destino. No s&amp;#233; mucho sobre los argones, pero s&amp;#233; que vas a liberar a muchos Humanos en esta guerra, tal como ayudaste al pueblo de los Aanons.&lt;BR&gt;&lt;BR&gt;Espero verte muy pronto.&lt;BR&gt;Buen viaje.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="2055">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, esas coordenadas... &lt;BR&gt;As&amp;#237; son las cosas, entonces. Entendido. Voy a enviarte al pleno coraz&amp;#243;n de los combates mediante la Porte des dimensions.&lt;BR&gt;Llegar&amp;#225;s directamente al Front de Khanovar. &amp;#191;Est&amp;#225;s listo?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="2055">
+        <Page social="4" voiceTypeId="0">Entendido. &lt;BR&gt;&lt;BR&gt;&amp;#161;Que triunfes!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="7" villagerId="2003">
+        <Page social="12" voiceTypeId="0">Estos malditos... ah, &amp;#191;&lt;PCNAME&gt;?&lt;BR&gt;Perdona mi lenguaje. Este conflicto se alarga.&lt;BR&gt;&lt;BR&gt;Por lo visto, te ha llegado la carta de Helkan. &amp;#191;Has cumplido tu misi&amp;#243;n en el norte?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Me alegra verte llegar aqu&amp;#237; de una sola pieza. Deber&amp;#237;as empezar por hacerte una idea del conflicto actual.&lt;BR&gt;&lt;BR&gt;Los argones cortaron las rutas de suministro, pero no atacan ni retroceden. Una aut&amp;#233;ntica muralla. No entiendo qu&amp;#233; buscan con esto.&lt;BR&gt;&lt;BR&gt;{@linkcreature:78#1010#Riavata} te dar&amp;#225; m&amp;#225;s informaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="78" prevId="10" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, uno de los j&amp;#243;venes h&amp;#233;roes de la federaci&amp;#243;n. Es un honor recibirte aqu&amp;#237;. Seg&amp;#250;n el comandante Gislan, te uniste al norte de Arun debido a los acontecimientos de Velika. Pero ya est&amp;#225;s aqu&amp;#237; y qu&amp;#233; bueno.&lt;BR&gt;&lt;BR&gt;La situaci&amp;#243;n est&amp;#225; que arde por estos lares. Es el caos total entre los argones y Valkyon. Los Shariars de Khanovar nos ayudan a plantar cara.&lt;BR&gt;&lt;BR&gt;Al dejar este lugar para acercarte al Vall&amp;#233;e du carnage, ver&amp;#225;s la {@Rgn:48002$$Citadelle de Khanovar}. El comandante {@linkcreature:248#2001#Tamur} te espera all&amp;#237;, &lt;PCNAME&gt;. Ve a hablar con &amp;#233;l.</Page>
+    </Text>
+</QuestDialog>

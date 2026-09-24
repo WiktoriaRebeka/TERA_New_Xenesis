@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">Muchos de sus soldados se han envenenado al comer plantas desconocidas. S&amp;#233; qu&amp;#233; podr&amp;#237;a ayudarles.&lt;BR&gt;&lt;BR&gt;A ambos lados de la fortaleza de la Griffe noire hay &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=grottes&quot;&gt;cuevas&lt;/A&gt;&lt;/font&gt;. Dentro de estas cuevas crecen &lt;font color='#660000'&gt;tallos de liana azur&lt;/font&gt;, cuyas flores neutralizan todo tipo de venenos. Ll&amp;#233;vele algunos a {@LinkCreature:241#1019$$Hoorik} para que prepare ant&amp;#237;dotos para sus soldados.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todo, ahora somos amigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="0">He preparado un ant&amp;#237;doto con el jugo de las flores de liana azur. D&amp;#233;gueselo a {@LinkCreature:241#1003#Jaebel}. Quiz&amp;#225; conf&amp;#237;e m&amp;#225;s si viene de usted.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">La entrada de las cuevas se encuentra cerca de la fortaleza de la Griffe noire. Las flores crecen en el interior.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="3" villagerId="1003">
+        <Page social="4">&amp;#191;Dices que Hoorik lo env&amp;#237;a? Tiene aspecto amigable, pero lo probar&amp;#233; primero, por si acaso.&lt;BR&gt;&lt;BR&gt;Puaj... Es horrible, pero me siento bien. Dudo que le haga da&amp;#241;o a nadie. Si de verdad ayuda a mis soldados, &amp;#161;le enviar&amp;#233; carne de kamara a Kabalka como regalo! Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

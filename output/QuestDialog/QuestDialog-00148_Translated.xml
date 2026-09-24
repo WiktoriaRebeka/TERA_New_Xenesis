@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Elimina a los {@LinkCreature:5#4#grenouillards tuwangis} y a los soldados para que los tuwangis apostados en la entrada del pantano bajo las &amp;#243;rdenes de Moong no puedan atacar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="0">Es de esperar que la desaparici&amp;#243;n de los batracios tuwangis ponga fin al problema.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">El tiempo apremia. Elimina inmediatamente a los {@LinkCreature:5#4#grenouillards tuwangis}.</Page>
+    </Text>
+</QuestDialog>

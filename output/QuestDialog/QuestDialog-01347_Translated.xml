@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Thulsa, que ten&amp;#237;a el &amp;#250;ltimo fragmento de reliquia, te dijo que prefer&amp;#237;a destruir el mundo antes de dejarte ganar. Luego se arroj&amp;#243; a las fauces de Kelsaik, quien vio su poder multiplicarse al absorber al dios de la muerte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#161;Kelsaik no est&amp;#225; en la Tour d'&amp;#201;b&amp;#232;ne, as&amp;#237; que ve a encargarte de Thulsa! Sigue los rastros de MP que deja a su paso y encontrar&amp;#225;s el teleportal que us&amp;#243; para escapar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1502">
+        <Page social="1" voiceTypeId="0">(Thulsa tom&amp;#243; el teleportal para desaparecer. Kelsaik podr&amp;#237;a estar acechando al otro lado.)&lt;BR&gt;&lt;BR&gt;(Deber&amp;#237;as prepararte bien antes de seguirle los pasos.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">&amp;#161;Muy bien! Sin tu ayuda, la tarea habr&amp;#237;a sido mucho m&amp;#225;s dif&amp;#237;cil. &amp;#161;Tuve una buena intuici&amp;#243;n!&lt;BR&gt;La noticia de la huida de Thulsa de la Tour d'&amp;#233;b&amp;#232;ne apenas lleg&amp;#243; cuando &amp;#201;lion me envi&amp;#243; aqu&amp;#237; de inmediato. &lt;BR&gt;&lt;BR&gt;Y ahora volv&amp;#237; a perder el conocimiento...&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que lo lograr&amp;#237;as, &lt;PCNAME&gt;.&lt;BR&gt;Quer&amp;#237;a verte antes de tu partida.&lt;NEXTPAGEBUTTON&gt;"¿Está Élion a salvo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Los m&amp;#233;dicos de aqu&amp;#237; no pueden hacer nada. &lt;BR&gt;&lt;BR&gt;Decidieron enviar a &amp;#201;lion a Allemantheia para continuar su tratamiento.&lt;BR&gt;&lt;BR&gt;Este pueblo no est&amp;#225; equipado para tratar sus heridas adecuadamente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">Lamento que cargues con semejante peso t&amp;#250; solo. &lt;BR&gt;&amp;#201;lion seguramente se alegrar&amp;#225; al saber la magnitud de tus proezas.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n planeo regresar pronto.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;informa a Kaia de tu victoria! &lt;BR&gt;&lt;BR&gt;Av&amp;#237;same cuando est&amp;#233;s listo. &lt;BR&gt;Te llevar&amp;#233; de regreso a Kaiator.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">Espero verte pronto. &lt;BR&gt;Y cu&amp;#237;date mucho.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="4" villagerId="1088">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has vuelto, &lt;PCNAME&gt;? &lt;BR&gt;&amp;#161;Las buenas noticias siempre son bienvenidas! &lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete r&amp;#225;pido al cuartel general.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="528" prevId="7" villagerId="5030">
+        <Page social="1" voiceTypeId="0">&amp;#161;Has derrotado a Kelsaik!&lt;BR&gt;&amp;#161;Excelente! Has salvado nuestro mundo. &lt;BR&gt;&lt;BR&gt;L&amp;#225;stima que no hayas podido recuperar el &amp;#250;ltimo fragmento de reliquia antigua. Pero, &amp;#191;qu&amp;#233; le vas a hacer, eh?&lt;BR&gt;&lt;BR&gt;El hecho de que los argons se hayan llevado a Kelsaik me preocupa...&lt;BR&gt;&amp;#191;Qu&amp;#233; estar&amp;#225;n tramando?&lt;BR&gt;&lt;BR&gt;Thulsa... Killian...&lt;BR&gt;Todos son hijos de los dioses... Igual que yo. &lt;BR&gt;Esto me deja con un sentimiento extra&amp;#241;o.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="8" villagerId="5005">
+        <Page social="1" voiceTypeId="0">Cumpliste tu promesa. Te lo agradezco. &lt;BR&gt;Padre, descansa en paz.&lt;BR&gt;&lt;BR&gt;Ahora que Killian, Kelsaik y Thulsa ya no est&amp;#225;n, &amp;#161;mi pueblo podr&amp;#225; comprometerse por completo en la guerra argona.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ganar&amp;#233; esta guerra en honor a mi padre!</Page>
+    </Text>
+</QuestDialog>

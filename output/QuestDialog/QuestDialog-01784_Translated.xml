@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has usado el documento de Garta y luego has montado en el Bayo volador para aterrizar en lo alto del carro. Pero la rana de Garta era demasiado pesada y terca para bajar. Al enterarse de esto, a Garta le ha dejado de interesar y ha querido despedirte. &lt;BR&gt;&lt;BR&gt;Cuando le has reclamado el documento a Rikum, &amp;#233;l te ha revelado que se trataba del documento que usaste para tu infructuoso intento de rescate. As&amp;#237; que le has tenido que admitir a Rikum que Garta te hab&amp;#237;a enga&amp;#241;ado{@g:/e}.&lt;BR&gt;&lt;BR&gt;Sin embargo, ha resultado que, con ese documento, Rikum trataba de determinar si la invocaci&amp;#243;n de monturas voladoras ten&amp;#237;a efectos secundarios desconocidos. Puesto que la invocaci&amp;#243;n no te ha causado ning&amp;#250;n inconveniente, Rikum se ha mostrado satisfecho y te ha agradecido{@g:/e} tu ayuda.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1501">
+        <Page social="0">Probablemente se trate de la rana de Garta.&lt;BR&gt;&amp;#191;C&amp;#243;mo ha podido un bicho tan enorme subir ah&amp;#237;?&lt;NEXTPAGEBUTTON&gt;Te llevas la rana contigo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La rana es demasiado pesada para llevarla.&lt;BR&gt;Cuando intentas cebarla, se queda impasible.&lt;BR&gt;&lt;BR&gt;Ve a informarle a Garta.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">&amp;#161;&amp;#191;Krr?! In&amp;#250;til. Ni siquiera capaz de traer peque&amp;#241;a rana.&lt;BR&gt;Bah, cuando rana tener hambre, rana bajar sola. &amp;#161;Krrr!&lt;BR&gt;&lt;BR&gt;Garta estar al tanto. T&amp;#250; irte. &amp;#161;Krrr!&lt;NEXTPAGEBUTTON&gt;"¿Y el documento?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">&amp;#191;De qu&amp;#233; hablar? &amp;#161;Krrrr!&lt;BR&gt;&lt;BR&gt;Garta ya darte documento. Pero t&amp;#250; usarlo para volar sobre carro. &amp;#161;Krrr!&lt;BR&gt;&lt;BR&gt;Garta darte documento, t&amp;#250; usar documento.&lt;BR&gt;T&amp;#250; dejar de molestar a Garta. &amp;#161;Krrr!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="1500">
+        <Page social="4">&amp;#161;Ah, ya est&amp;#225;s de vuelta! &amp;#191;Est&amp;#225; intacto el documento?&lt;BR&gt;&lt;BR&gt;(Le cuentas el incidente con Garta y la rana).&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo? &amp;#161;Oh, no! &amp;#161;Esa maldita sabandija! Ese documento era tan valioso para m&amp;#237;...&lt;NEXTPAGEBUTTON&gt;"¿Y ahora qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bueno, para ser totalmente honesto, este documento era solo una copia. Lo prepar&amp;#233; para ver si su uso conllevaba efectos secundarios.&lt;BR&gt;Pero puesto que no te ha pasado nada, parece que no hay ning&amp;#250;n problema por ese lado.&lt;BR&gt;Siento que Garta te haya tomado{@g:/e} el pelo, pero tambi&amp;#233;n me sorprende que ese Harp&amp;#237;a te haya dado el documento sin reclamar su dinero.&lt;BR&gt;&lt;BR&gt;En fin, gracias por tu ayuda. Toma, acepta esta peque&amp;#241;a compensaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

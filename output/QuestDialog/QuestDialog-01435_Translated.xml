@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Lleva este informe a Belok, en Punta Ceravin. Si los argones y Thulsa colaboran, &amp;#233;l sabr&amp;#225; qu&amp;#233; hacer.&lt;BR&gt;&lt;BR&gt;No pierdas el tiempo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#191;Qu&amp;#233; hay de nuevo con nuestros colegas del norte?&lt;NEXTPAGEBUTTON&gt;"Muy tristes noticias desde Cecera."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Thulsa se ali&amp;#243; con los argones? Cecera nos hab&amp;#237;a advertido.&lt;BR&gt;&lt;BR&gt;&amp;#218;ltimamente, los argones parecen haber empezado a mostrar el m&amp;#225;s vivo inter&amp;#233;s por la magia de las hadas. Incluso han encontrado la manera de alterar su energ&amp;#237;a y usarla para sus fines. Si han concluido una alianza con Thulsa... Supongo que tienes plena consciencia de los riesgos que corre la Federaci&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Debemos difundir la noticia lo antes posible. Ve a presentar tu informe a Winstail, en el Puesto avanzado de Valumnir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1028">
+        <Page social="4">&amp;#191;Belok te env&amp;#237;a? D&amp;#233;jame adivinar, malas noticias, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"¿Hay alguna buena?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Este informe solo puede significar una cosa: los argones son m&amp;#225;s poderosos que nunca y se preparan para lanzar una ofensiva sin precedentes. Debemos estar listos.&lt;BR&gt;&lt;BR&gt;Parece que al fin consideran a la Federaci&amp;#243;n como un adversario digno de ese nombre. Habr&amp;#225; que creer que los argones se sienten realmente amenazados para formar tales alianzas.</Page>
+    </Text>
+</QuestDialog>

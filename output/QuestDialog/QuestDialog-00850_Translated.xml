@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="4">En el campo de batalla, la duda suele llevar a una muerte prematura. Pero &amp;#191;qui&amp;#233;n no dudar&amp;#237;a un momento al darse cuenta de que su adversario no es otro que un antiguo hermano de armas corrompido por la oscuridad?&lt;BR&gt;&lt;BR&gt;Algunos de nuestros allegados se unieron a las filas de los {@LinkCreature:32#12#templiers sihrans}. Es imposible hacer entrar en raz&amp;#243;n a los &lt;BR&gt;, y jam&amp;#225;s ser&amp;#237;a capaz de matar a mi propio hermano... &amp;#161;pero para ti son solo extranjeros! &amp;#161;El enemigo! &amp;#191;Podemos contar contigo para liberarlos del control de Kaidun?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1015">
+        <Page social="4">&amp;#191;Lo lograste? Eso es... algo bueno. Gracias...&lt;BR&gt;&lt;BR&gt;S&amp;#233; que matar a antiguos hermanos de armas nunca es f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Necesito un momento a solas para reflexionar.</Page>
+    </Text>
+</QuestDialog>

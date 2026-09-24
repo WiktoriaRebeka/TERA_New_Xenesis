@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">Se supone que esta es una &amp;#233;poca de alegr&amp;#237;a y celebraci&amp;#243;n, no de asesinato y terror.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los {@LinkCreature:22#11#pr&amp;#233;f&amp;#232;tes sorci&amp;#232;res} y los {@LinkCreature:22#12#tueurs de g&amp;#233;ants ailuris} siembran el terror por toda la academia! Debes frenar su avance para darnos tiempo a encontrar una cura.&lt;BR&gt;&lt;BR&gt;No alargues la agon&amp;#237;a, &lt;PCNAME&gt;, acabe con esto r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">La &amp;#233;poca de la cosecha ya no volver&amp;#225; a ser sin&amp;#243;nimo de alegr&amp;#237;a para m&amp;#237;. Evocar&amp;#225; para siempre el recuerdo de esta tragedia. Gracias. Debo volver a mis estudios.&lt;BR&gt;&lt;BR&gt;&amp;#161;Quiz&amp;#225;s todav&amp;#237;a estemos a tiempo de salvar a los dem&amp;#225;s!</Page>
+    </Text>
+</QuestDialog>

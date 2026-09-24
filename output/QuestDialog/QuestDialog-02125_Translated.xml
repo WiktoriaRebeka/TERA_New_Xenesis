@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="4">Hay lugar para otro cazador cerca de {@Rgn:49003$$Machine d'Agnurok}, si te interesa.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} te preparar&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">No tendr&amp;#225;s ning&amp;#250;n problema para llegar a {@Rgn:49003$$Machine d'Agnurok}, pero el regreso ser&amp;#225; m&amp;#225;s complicado. Los {@LinkCreature:49#16#cyanosorci&amp;#232;res zariiks} y los {@LinkCreature:49#14#d&amp;#233;fenseurs kalashs} te bloquear&amp;#225;n el camino. Si te sientes {@gender:d&amp;#233;pass&amp;#233;/d&amp;#233;pass&amp;#233;e}, busca un agujero y qu&amp;#233;date ah&amp;#237; para recuperar un poco de fuerza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">La {@Rgn:49003$$Machine d'Agnurok} es un verdadero desaf&amp;#237;o, pero los excelentes objetivos que encontraremos hacen que el lugar sea muy estimulante.&lt;BR&gt;&lt;BR&gt;Es una de mis zonas favoritas.</Page>
+    </Text>
+</QuestDialog>

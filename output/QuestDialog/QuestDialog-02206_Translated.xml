@@ -1,0 +1,44 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="618" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Misiva]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Kaia te busca con suma urgencia. Ven de inmediato al cuartel general de Kaiator.&lt;BR&gt;&lt;BR&gt;La noticia de los argones aparecidos en Exodor la ha puesto furiosa.&lt;BR&gt;&lt;BR&gt;Tamur, comandante de Kaiator</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Cuando la diosa Kaia se enter&amp;#243; de la situaci&amp;#243;n en Exodor y sinti&amp;#243; el poder de Balder en los objetos del Arkarp y de los argones, sinti&amp;#243; temor.&lt;BR&gt;&lt;BR&gt;Comprendi&amp;#243; que la fuente de ese poder era un sol artificial y concibi&amp;#243; un m&amp;#233;todo para extraer dicho poder con el fin de fabricar armas formidables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="1" villagerId="1088">
+        <Page social="4" voiceTypeId="0">Gracias por acudir tan r&amp;#225;pido, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Entra. El comandante ya te est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&amp;#161;Bienvenido, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ya me he enterado de tus haza&amp;#241;as en Exodor.&lt;BR&gt;La desgracia ocurrida en &amp;#201;lion me entristece profundamente...&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n s&amp;#233; que los argons son una vez m&amp;#225;s los responsables de todo esto.&lt;BR&gt;&lt;BR&gt;Kaia est&amp;#225; absolutamente furiosa por ello.&lt;BR&gt;Ahora puedes ir a hablar con ella en persona, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5032">
+        <Page social="4" voiceTypeId="0">&amp;#161;Los argons han vuelto!&lt;BR&gt;&amp;#191;Por qu&amp;#233; no me informaste de inmediato, &lt;PCNAME&gt;?!&lt;BR&gt;&lt;BR&gt;Estaba convencida de que los hab&amp;#237;amos desterrado de aqu&amp;#237; para siempre... &amp;#161;y ahora transforman a Kelsaik en argon para hacernos la vida imposible! &amp;#161;Es muy fastidioso!&lt;BR&gt;&lt;BR&gt;Conseguir el equipo y el n&amp;#250;cleo de los argons aparecidos en Exodor tal vez nos permita aprender m&amp;#225;s sobre su poder.&lt;BR&gt;&lt;BR&gt;Debemos confiar en ti para alejar este peligro, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt; Tr&amp;#225;eme el n&amp;#250;cleo y el arma de los argons de Exodor.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">Me trajiste el arma y el n&amp;#250;cleo. Gran trabajo, &lt;PCNAME&gt;.&lt;BR&gt;El an&amp;#225;lisis de la fuente de su poder no deber&amp;#237;a tomar demasiado tiempo. Espera un momento.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Incre&amp;#237;ble! Es justo lo que tem&amp;#237;a...&lt;NEXTPAGEBUTTON&gt;"¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">El arma y el n&amp;#250;cleo est&amp;#225;n ambos infundidos con el poder de Balder.&lt;BR&gt;&lt;BR&gt;&amp;#191;Mencionaste el Arkarp? Es indiscutible que obtienen su fuerza del sol que Balder cre&amp;#243;.&lt;BR&gt;&lt;BR&gt;Aparentemente, usaron esa fuerza para resucitar a los argons.&lt;BR&gt;&lt;BR&gt;Sin embargo, tambi&amp;#233;n podemos aprovechar el poder que le confiaron a los argons.&lt;BR&gt;&lt;BR&gt;Para eso, necesitamos un yunque muy especial.&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrar este yunque?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">A&amp;#250;n no existe.&lt;BR&gt;&lt;BR&gt;Pero Fovarth, el herrero del destino, puede fabricar uno.&lt;BR&gt;&lt;BR&gt;Te dir&amp;#233; lo que necesitas. Luego ve a encontrar a Fovarth, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">Debemos aprender m&amp;#225;s sobre su poder.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="411" prevId="6" villagerId="5017">
+        <Page social="4" voiceTypeId="0">&amp;#191;Kaia te pidi&amp;#243; que prepararas la fabricaci&amp;#243;n de un nuevo yunque?&lt;BR&gt;&lt;BR&gt;&amp;#161;Jajaja!&lt;BR&gt;&lt;BR&gt;&amp;#161;Sab&amp;#237;a que este d&amp;#237;a terminar&amp;#237;a llegando! &amp;#161;La poderosa Kaia por fin me ha encomendado la producci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Fabricar&amp;#233; el yunque... cueste lo que cueste!&lt;BR&gt;&lt;BR&gt;Mmm, sin embargo necesito materiales...&lt;NEXTPAGEBUTTON&gt;"¿Qué necesitas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mmm... Pienso que Kaia deber&amp;#237;a saber qu&amp;#233; es lo que falta.&lt;BR&gt;&lt;BR&gt;Me preparar&amp;#233; para recibir a Kaia.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="411" prevId="8" villagerId="7000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Terminaron los preparativos, Fovarth?&lt;BR&gt;&lt;BR&gt;Si todav&amp;#237;a fuera tan poderosa como antes, habr&amp;#237;a fabricado el yunque yo misma, &amp;#161;pero desafortunadamente eso est&amp;#225; descartado por ahora! &amp;#161;As&amp;#237; que debo confiar en ti!&lt;BR&gt;&lt;BR&gt;Este yunque requiere dos materiales especiales.&lt;BR&gt;&lt;BR&gt;Yo tengo uno de ellos y t&amp;#250; tendr&amp;#225;s que conseguirnos el otro, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"¿De qué se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Alguna vez has o&amp;#237;do hablar del fuego de Sikander, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Aunque el fuego de Sikander se haya apagado, la m&amp;#225;s m&amp;#237;nima chispa de ese fuego, por diminuta que sea, deber&amp;#237;a bastar para fabricar el yunque.&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrar semejante chispa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La respuesta se encuentra con Kelsaik, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Si los Arkarp realmente se han aliado con los argons para resucitar a Kelsaik, entonces Kelsaik probablemente posea una chispa as&amp;#237;.&lt;BR&gt;&lt;BR&gt;R&amp;#243;basela.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">No pens&amp;#233; que volver&amp;#237;a a ver este fuego alg&amp;#250;n d&amp;#237;a...&lt;BR&gt;&lt;BR&gt;Si no los detenemos ahora, se volver&amp;#225;n cada vez m&amp;#225;s peligrosos.&lt;BR&gt;&amp;#161;Tenemos que remediarlo!&lt;BR&gt;&lt;BR&gt;Con esta chispa y mi poder, podr&amp;#233; avivar una llama intensa.&lt;BR&gt;&lt;BR&gt;Fovarth, prep&amp;#225;rate bien: esta llama te permitir&amp;#225; forjar el yunque.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">Una simple chispa basta para fabricar un nuevo yunque, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="411" prevId="10" villagerId="5017">
+        <Page social="4" voiceTypeId="0">&amp;#161;El yunque ha sido forjado en la llama engendrada por la fuerza de Kaia!&lt;BR&gt;&lt;BR&gt;Este yunque ahora permite fabricar nuevos equipos habitados por la fuerza de Kaia.&lt;BR&gt;&lt;BR&gt;Verifica si tienes los materiales necesarios para fabricar los equipos.</Page>
+    </Text>
+</QuestDialog>

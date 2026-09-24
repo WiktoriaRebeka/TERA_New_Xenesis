@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Tengo una idea para intentar tratar la locura de este hombre, pero tendr&amp;#225;s que seguirme... parto de una premisa bastante... personal.&lt;BR&gt;&lt;BR&gt;El infeliz habla sin cesar de aquellos que &quot;lo observan&quot;. Se refiere a los {@LinkCreature:9#410#pilleurs gulas}, los {@LinkCreature:9#700#chasseurs farfadets alizarins} y los {@LinkCreature:9#710#gardiens farfadets alizarins}.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme sus ojos. Vamos a ver si mi tratamiento de choque experimental puede devolver a nuestro hombre a la raz&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">Has encontrado algunos. &amp;#161;Muy bien!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Encontrar&amp;#225;s {@LinkCreature:9#410#pilleurs gulas}, as&amp;#237; como {@LinkCreature:9#700#chasseurs} y {@LinkCreature:9#710#gardiens farfadets alizarins} en el primer s&amp;#243;tano del Labyrinth of Azrael.</Page>
+    </Text>
+</QuestDialog>

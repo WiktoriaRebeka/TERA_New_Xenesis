@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">&amp;#191;Busca una corona? Lo siento, pero ya no hago ninguna. Es demasiado dif&amp;#237;cil conseguir cabello de hada sedoso y la gente es un poco demasiado agresiva con ellas para conseguirlo.&lt;BR&gt;&lt;BR&gt;A menos que lo haya heredado de un t&amp;#237;o abuelo o una historia por el estilo, no puedo hacerle una corona.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Bueno, no le preguntar&amp;#233; de d&amp;#243;nde los sac&amp;#243;, pero... no me traiga m&amp;#225;s, &amp;#191;entendido?&lt;BR&gt;&lt;BR&gt;Bien, &amp;#191;qu&amp;#233; color desea?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Deje a esas pobres hadas en paz, &amp;#191;entendido? &amp;#161;Despu&amp;#233;s de todo, no necesita tanto una corona!</Page>
+    </Text>
+</QuestDialog>

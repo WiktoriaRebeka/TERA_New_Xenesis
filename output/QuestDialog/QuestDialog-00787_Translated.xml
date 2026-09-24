@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Has reunido informaci&amp;#243;n que deber&amp;#237;a compartirse con las generaciones futuras. Por suerte, tenemos justo lo necesario para hacerlo: {@LinkCreature:230#1058#d&amp;#233;positaires de Langsyne}.&lt;BR&gt;&lt;BR&gt;En la {@Rgn:30015$$Forteresse des Archives}, solo tienes que hablar en voz alta a todos los depositarios de Langsyne que encuentres y ellos registrar&amp;#225;n tus palabras.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1058">
+        <Page social="1">(Aparecen palabras en el depositario: la diosa Elinu ocult&amp;#243; durante siglos a los Poporis y a los Elins del resto del mundo, luego los instal&amp;#243; cerca de Pora Elinu y desapareci&amp;#243;. Los Elins y los Poporis se unieron r&amp;#225;pidamente a las filas de la Valkyon Federation y lucharon contra los argons.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1059">
+        <Page social="1">(Aparecen palabras en el depositario: los elfos ten&amp;#237;an un gran imperio, que fue arrasado cuando perdieron el control de la Flor de la vida. Fue &amp;#250;nicamente mediante la creaci&amp;#243;n de un artefacto vivo llamado el N&amp;#250;cleo que salvaron al continente de la destrucci&amp;#243;n. Su casi destrucci&amp;#243;n los hizo un poco m&amp;#225;s humildes, por lo que los High Elfs se unieron a la Valkyon Federation, por necesidad, cuando los argons se acercaron a Allemantheia.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1060">
+        <Page social="1">(Aparecen palabras en el depositario: en el {@LinkCreature:226#1102$$c&amp;#233;notaphe} de {@Rgn:26001$$Bassin b&amp;#233;ni}, est&amp;#225; inscrito el nombre de &lt;PCNAME&gt;. {@gender:Ce/Cette} &lt;PCCLASS:lcase&gt; sin miedo mat&amp;#243; a los dioses Akasha, Killian y Thulsa, haci&amp;#233;ndolos temblar al igual que a los mortales.)&lt;NEXTPAGEBUTTON&gt;"No me esperaba esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">(Aparecen palabras en el depositario: &lt;PCNAME&gt; tambi&amp;#233;n derrot&amp;#243; a la forma corrompida del dios Sikander, Kelsaik, pero esta victoria fue incompleta, porque...)&lt;BR&gt;&lt;BR&gt;(Al llegar a este pasaje, las palabras se desvanecen.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1061">
+        <Page social="1">(Aparecen palabras en el depositario: originalmente, los gigantes veneraban al dios del sol, Balder, y al dios del conocimiento, Oriyn, en el lugar del nivel inferior de los archivos. Los pac&amp;#237;ficos gigantes que buscaban el conocimiento aqu&amp;#237; se convirtieron en barakas. Solo quedan unos pocos barakas aqu&amp;#237;. La mayor&amp;#237;a se fue a Allemantheia, algunos quiz&amp;#225;s a&amp;#250;n vivan en Balderon, una ciudad baraka en la parte norte de Arun, actualmente bajo un bloqueo m&amp;#225;gico de los devans.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">Tu posici&amp;#243;n es envidiable, &lt;PCNAME&gt;. Has hecho historia y has ayudado a registrarla.&lt;BR&gt;&lt;BR&gt;En los siglos venideros, tal vez un ser del futuro se est&amp;#233; parando aqu&amp;#237; y contemple lo que un solo mortal puede lograr, si tiene suficiente talento, fuerza de voluntad y sabidur&amp;#237;a.</Page>
+    </Text>
+</QuestDialog>

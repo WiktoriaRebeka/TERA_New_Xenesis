@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Has entrado al Campamento del Duelo del pa&amp;#237;s y te has presentado ante Dorial.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Eres una nueva especie de Elin. Una vengadora. Tienes un potencial gigantesco e inexplorado y nunca debes olvidarlo.&lt;BR&gt;&lt;BR&gt;&amp;#161;No pierdas el tiempo y ve a mostrarle al mundo entero la magnitud de ese potencial!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">No tengo la impresi&amp;#243;n de conocerte. &amp;#191;Acabas de llegar?&lt;BR&gt;&lt;BR&gt;No importa. Toda la ayuda que puedas brindar es bienvenida. Tenemos problemas con desertores orkan que roban nuestras provisiones. &amp;#191;Puedes ayudarnos?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Fue... inusual. En fin, &amp;#161;gracias por tu ayuda! &lt;BR&gt;&lt;BR&gt;Esos pobres infelices no son m&amp;#225;s que soldados de pacotilla orkan que huyeron en pleno combate. Se han quedado merodeando por aqu&amp;#237;, al acecho de un momento de descuido para robar nuestras reservas de alimentos. &lt;BR&gt;&lt;BR&gt;&amp;#161;Pero les diste una buena lecci&amp;#243;n y no volver&amp;#225;n a hacerlo pronto!&lt;BR&gt;&lt;BR&gt;&amp;#191;De d&amp;#243;nde vienes entonces, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;" Créeme, no quieres saberlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ey! &amp;#191;M&amp;#225;ximo secreto, verdad? Parece l&amp;#243;gico: &amp;#161;he o&amp;#237;do que nos enviar&amp;#237;an mercenarios para ayudarnos! &amp;#161;Y aqu&amp;#237; est&amp;#225;s! &lt;BR&gt;&lt;BR&gt;Bien, probablemente deber&amp;#237;as presentarte ante Miayn, ella es quien dirige la Guardia de honor. Te dar&amp;#225; tu misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1000">
+        <Page social="4" voiceTypeId="0">Debes de ser una de las nuevas mercenarias de las que o&amp;#237; hablar. Te est&amp;#225;bamos esperando. &lt;BR&gt;&lt;BR&gt;Acepta esta recompensa por ayudar a Dorial. No es m&amp;#225;s que un peque&amp;#241;o gesto para demostrarte mi agradecimiento.</Page>
+    </Text>
+</QuestDialog>

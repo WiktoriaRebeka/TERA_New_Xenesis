@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Esta guerra no es nada personal, pero me gustar&amp;#237;a hacer sufrir a los argones como nunca antes han sufrido.&lt;BR&gt;&lt;BR&gt;Le orden&amp;#233; a {@LinkCreature:248#3003#Vikhonul} que fuera a identificar a los comandantes argones. Ustedes solo tendr&amp;#225;n que matarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Kalkzak quer&amp;#237;a blancos, pues bien, le doy blancos.&lt;BR&gt;&lt;BR&gt;Los tres argones que he designado han cometido atrocidades espantosas contra las fuerzas de la F&amp;#233;d&amp;#233;ration.&lt;BR&gt;&lt;BR&gt;Yo no llamar&amp;#237;a a esto venganza, sino justicia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#161;Conseguiste {@LinkCreature:48#25#Baruldur}! Buen trabajo.&lt;BR&gt;&lt;BR&gt;Una victoria as&amp;#237; nos levantar&amp;#225; la moral. &amp;#161;Larga vida al Shariar!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="3003">
+        <Page social="4">&amp;#161;{@LinkCreature:48#27#Nauti} ya no existe! Bien hecho.&lt;BR&gt;&lt;BR&gt;Una victoria as&amp;#237; nos levantar&amp;#225; la moral. &amp;#161;Larga vida al Shariar!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3003">
+        <Page social="4">&amp;#161;Mataste a {@LinkCreature:48#28$$Mogmolor}! Excelente noticia.&lt;BR&gt;&lt;BR&gt;Una victoria as&amp;#237; nos levantar&amp;#225; la moral. &amp;#161;Larga vida al Shariar!</Page>
+    </Text>
+</QuestDialog>

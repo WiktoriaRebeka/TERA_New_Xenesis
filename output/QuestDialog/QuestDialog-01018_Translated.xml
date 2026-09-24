@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1007">
+        <Page social="4">Ten mucho cuidado, no lo repetir&amp;#233;.&lt;BR&gt;&lt;BR&gt;En el centro de la guarida, te encontrar&amp;#225;s con {@LinkCreature:39#130#matriarches arachn&amp;#233;ennes}. No son las criaturas m&amp;#225;s fuertes de la regi&amp;#243;n, pero tienen un caparaz&amp;#243;n muy duro que podr&amp;#237;a servirnos.&lt;BR&gt;&lt;BR&gt;Recolecta caparazones y ll&amp;#233;vaselos a Paicha, en el Puesto de avanzada del Villano. &amp;#201;l se encargar&amp;#225; del resto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1010">
+        <Page social="4">&amp;#191;Caparazones ar&amp;#225;cnidos, eh?&lt;BR&gt;&lt;BR&gt;S&amp;#237;, eso podr&amp;#237;a permitirme reparar algunas armaduras pesadas. &amp;#161;Gracias por la ayuda!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1010">
+        <Page social="0">&amp;#191;Tienes algo para m&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

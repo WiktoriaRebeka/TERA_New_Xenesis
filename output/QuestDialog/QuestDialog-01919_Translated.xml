@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="4">Thulsa ha muerto, pero la maldici&amp;#243;n del mineral ouijico, esa cosa proveniente de Mont Tyrannas, no desaparece.&lt;BR&gt;No sabemos por qu&amp;#233;, pero sabemos que si no hacemos nada, los soldados malditos de Kaidun probablemente atacar&amp;#225;n Acarum. La piedra de mana de poder debe ser destruida y eliminada.&lt;BR&gt;&lt;BR&gt;Ya has tenido que lidiar con este mineral, &lt;PCNAME&gt;. No confiar&amp;#237;a en nadie m&amp;#225;s.&lt;NEXTPAGEBUTTON&gt;"Lo haré".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Ve a ver a Georrif aqu&amp;#237;, en Arcanum.&lt;BR&gt;&lt;BR&gt;&amp;#201;l sabe mucho sobre el mineral ouijico.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1109">
+        <Page social="4">Me alegra ver que te est&amp;#225;s encargando de esto, &lt;PCNAME&gt;. Creo que ya conoces a mi amigo Ghufran, quien vino a tu rescate cuando estabas buscando a Kaidun.&lt;BR&gt;&lt;BR&gt;El misterio del mineral es un asunto de honor para &amp;#233;l. Est&amp;#225; desesperado por poner fin a la maldici&amp;#243;n antes de que alguien m&amp;#225;s sufra el mismo destino que &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Ghufran piensa que algo m&amp;#225;s, algo m&amp;#225;s all&amp;#225; de nuestro alcance, transmite su poder directamente al mineral. Las explicaciones t&amp;#233;cnicas me superan por completo, pero Ghufran podr&amp;#225; explicarte todo eso. Dir&amp;#237;gete a Mont Tyrannas y encontrar&amp;#225;s a Ghufran cerca del cementerio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1116">
+        <Page social="4">Me alegra verte, &lt;PCNAME&gt;, aunque el hecho de que te deba mi liberaci&amp;#243;n de la maldici&amp;#243;n me llena de verg&amp;#252;enza.&lt;BR&gt;&lt;BR&gt;L&amp;#4308;&amp;#4309;&amp;#233; fragmentos de mineral ouijico por el campo para intentar determinar el origen de su fuerza. Pero en lugar de un &quot;d&amp;#243;nde&quot;, descubr&amp;#237; un &quot;qui&amp;#233;n&quot;.&lt;BR&gt;&lt;BR&gt;Un arg&amp;#243;n llamado Suryati se encuentra m&amp;#225;s all&amp;#225; de este teletransportador. Intent&amp;#233; derrotarlo por mi cuenta, pero estaba demasiado d&amp;#233;bil.&lt;BR&gt;&lt;BR&gt;Pedirte ayuda de nuevo me llena de verg&amp;#252;enza, pero no quiero que nadie m&amp;#225;s sufra la misma desgracia que yo. &amp;#161;Usa este pergamino para cruzar el teletransportador y derrotar a Suryati!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1501">
+        <Page social="1">(El pergamino ha activado el teletransportador. El camino que lleva al Pico de Suryati se abre ante ti.)</Page>
+    </Text>
+</QuestDialog>

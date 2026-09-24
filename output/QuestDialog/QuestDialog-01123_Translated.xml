@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Los nagas buscan resucitar a Dagon y se han puesto en la b&amp;#250;squeda de sus tablillas.&lt;BR&gt;&lt;BR&gt;Se supone que estas piedras resucitar&amp;#225;n a Dagon y aumentar&amp;#225;n sus poderes.&lt;BR&gt;&lt;BR&gt;Debemos hacernos con ellas a toda costa. &amp;#191;Te sientes con alma de {@gender:pilleur/pilleuse} de tumbas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="0">Impresionante. Tengan o no las tablillas los poderes que se les atribuyen, son fascinantes.&lt;BR&gt;&lt;BR&gt;Has hecho un buen trabajo, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">No podemos dejar las tablillas de Dagon en las garras de nagas. No s&amp;#233; si pueden hacer lo que dicen, pero los nagas est&amp;#225;n convencidos de ello. Frustrar su plan definitivamente nos har&amp;#225; ganar puntos.</Page>
+    </Text>
+</QuestDialog>

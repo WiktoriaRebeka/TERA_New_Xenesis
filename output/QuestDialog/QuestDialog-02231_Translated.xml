@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Salvaste a los aldeanos secuestrados por los vampiros durante el Carnaval del Sangre.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Parece que los vampiros no se rinden f&amp;#225;cilmente. Secuestraron a unas aldeanas y ahora quieren perpetuar su ritual con la sangre de estas inocentes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Debes regresar al Carnaval del Sangre para liberar a los aldeanos capturados!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="452" prevId="2" villagerId="101">
+        <Page social="4">&amp;#161;Por favor, ay&amp;#250;dame! &amp;#161;Estos vampiros est&amp;#225;n tratando de matarme!&lt;NEXTPAGEBUTTON&gt;"Estás a salvo ahora. Pero deberías irte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="2" villagerId="102">
+        <Page social="4">&amp;#161;Intento ser valiente, pero los vampiros mataron a todos y soy el siguiente en la lista!&lt;NEXTPAGEBUTTON&gt;"Regresa a casa rápido. Tu familia debe estar preocupada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="7002">
+        <Page social="4">&amp;#161;Has hecho un buen trabajo hoy, &lt;PCNAME&gt;. Balder te sonr&amp;#237;e desde lo alto!</Page>
+    </Text>
+</QuestDialog>

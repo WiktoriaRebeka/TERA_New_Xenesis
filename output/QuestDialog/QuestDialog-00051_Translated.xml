@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="66" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="4">&amp;#161;Mi hermana! &amp;#191;Has visto a mi hermana?&lt;BR&gt;&lt;BR&gt;Huy&amp;#243; al bosque. Nos... nos peleamos. Por lo general, siempre termina volviendo una vez que se calma, &amp;#161;pero ya lleva dos d&amp;#237;as fuera!&lt;BR&gt;&lt;BR&gt;Dicen que el bosque ya no es un lugar seguro... pero no parece faltarte valor. &amp;#191;Podr&amp;#237;as ir a buscar a mi hermana {@LinkCreature:202#1028#Jerelyn}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1028">
+        <Page social="4">(Es un cad&amp;#225;ver. Encuentras un fragmento de cadena peque&amp;#241;a que indica que le arrancaron el collar. El cuerpo est&amp;#225; cubierto de rastros de lodo.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1023">
+        <Page social="13">&amp;#161;Jerelyn! &amp;#161;Jerelyn! &amp;#161;No!&lt;BR&gt;&lt;BR&gt;No lo puedo creer...&lt;BR&gt;&lt;BR&gt;Es mi culpa... todo por esa pelea rid&amp;#237;cula...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1023">
+        <Page social="0">Tengo que confesarte algo, &lt;PCNAME&gt;. Jerelyn y yo nos peleamos por un collar que ambas quer&amp;#237;amos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a recuperarlo? Me gustar&amp;#237;a poder enterrar a mi hermana con &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Ya que esta pelea fue la &amp;#250;ltima, lo menos que puedo hacer es dejar que ella tenga la &amp;#250;ltima palabra.</Page>
+    </Text>
+</QuestDialog>

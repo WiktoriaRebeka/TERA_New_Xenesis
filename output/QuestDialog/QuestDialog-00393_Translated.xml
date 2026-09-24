@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0">Has conocido a algunos miembros... interesantes de la guarnici&amp;#243;n de la Base de la Tour y te han ense&amp;#241;ado t&amp;#233;cnicas a&amp;#250;n m&amp;#225;s interesantes para realizar con tus bombas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Entonces, eres &lt;PCNAME&gt;, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Me han hablado bien de ti, pero no puedo declararte apto para el servicio hasta que hayas demostrado tu val&amp;#237;a en el campo de tiro.&lt;NEXTPAGEBUTTON&gt;"¿Qué tengo que hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Para convertirte en un miembro de pleno derecho de nuestra guarnici&amp;#243;n, debes ser capaz de manejar el equipo b&amp;#225;sico.&lt;BR&gt;&lt;BR&gt;Cuando la Federaci&amp;#243;n comenz&amp;#243; a enviar reclutas para que se fuesen curtiendo aqu&amp;#237;, construimos una zona de entrenamiento para ense&amp;#241;arles a manipular los explosivos correctamente.&lt;BR&gt;&lt;BR&gt;Intenta guiarte por el o&amp;#237;do, no te la perder&amp;#225;s. {@linkcreature:64#1029#Kiriya} es un poco... especial, pero tiene mucha experiencia en el campo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">&amp;#161;QU&amp;#201;? &amp;#161;NO TE ESCUCHO!&lt;BR&gt;&lt;BR&gt;&amp;#161;HE TRABAJADO TODA MI VIDA CON EXPLOSIVOS Y YA ES HORA DE QUE TRANSMITA MI SABIDUR&amp;#205;A!&lt;BR&gt;&lt;BR&gt;&amp;#161;TE APETECE APRENDER A HACER SALTAR COSAS POR LOS AIRES?&lt;NEXTPAGEBUTTON&gt;"¡Vamos allá!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;NO ES NADA DIF&amp;#205;CIL! &amp;#161;SOLO LANZA LA BOMBA A ESE {@LinkCreature:13#888#MANNEQUIN D'ENTRAINEMENT} DE ALL&amp;#193;!&lt;BR&gt;&lt;BR&gt;LO BUENO DE ESTAS BOMBAS ES QUE, CUANDO FUNCIONAN, NOS LO HACEN SABER.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">&amp;#161;HACER EXPLOTAR COSAS ES IMPORTANTE, SOBRE TODO CUANDO TE ENFRENTAS A HORDAS DE ENEMIGOS!&lt;BR&gt;&lt;BR&gt;&amp;#161;AHORA LARGO DE AQU&amp;#205; Y VE A MATAR COSAS EN NOMBRE DE LA LIBERTAD!</Page>
+    </Text>
+</QuestDialog>

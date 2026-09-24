@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">La batalla en el Frente de Khanovar se extendi&amp;#243; a las zonas subterr&amp;#225;neas, y es all&amp;#237; a donde te env&amp;#237;o.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#3007#Brumbar} se encarga de vigilar el telepuert que lleva a {@Rgn:9018001$$Catacombes argones}.&lt;BR&gt;&lt;BR&gt;T&amp;#243;malo antes de ir a presentar tu informe a {@LinkCreature:418#2001#Baruster}. &amp;#201;l te indicar&amp;#225; c&amp;#243;mo proceder.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">No se ve a muchos miembros del Shariar ni a otros soldados ofrecerse como voluntarios por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Nuestra misi&amp;#243;n es simple: matar argons y recuperar sus armaduras. Las reciclamos para fabricar nuevas armaduras o armas de asedio.&lt;BR&gt;&lt;BR&gt;Matamos, reciclamos. Simple, &amp;#191;no?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Como dicen mis amigos castanics, &amp;#161;te ves en plena forma!&lt;BR&gt;&lt;BR&gt;Es bueno saber que tenemos un combatiente competente en nuestras filas. Hiciste un buen trabajo en las catacumbas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" villagerId="2001">
+        <Page social="0">&amp;#161;Cuidado con los argons!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pueden surgir de cualquier parte! S&amp;#233; {@gender:vigilant/vigilante}.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" prevId="8" villagerId="2001">
+        <Page social="4">Como dicen mis amigos castanics, &amp;#161;te ves en plena forma!&lt;BR&gt;&lt;BR&gt;Es bueno saber que tenemos un combatiente competente en nuestras filas. Hiciste un buen trabajo en las catacumbas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" villagerId="2001">
+        <Page social="0">&amp;#161;Cuidado con los argons!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pueden surgir de cualquier parte! S&amp;#233; {@gender:vigilant/vigilante}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" prevId="10" villagerId="2001">
+        <Page social="4">Como dicen mis amigos castanics, &amp;#161;te ves en plena forma!&lt;BR&gt;&lt;BR&gt;Es bueno saber que tenemos un combatiente competente en nuestras filas. Hiciste un buen trabajo en las catacumbas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="418" villagerId="2001">
+        <Page social="0">&amp;#161;Cuidado con los argons!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pueden surgir de cualquier parte! S&amp;#233; {@gender:vigilant/vigilante}.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="418" prevId="12" villagerId="2001">
+        <Page social="4">Como dicen mis amigos castanics, &amp;#161;te ves en plena forma!&lt;BR&gt;&lt;BR&gt;Es bueno saber que tenemos un combatiente competente en nuestras filas. Hiciste un buen trabajo en las catacumbas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="418" villagerId="2001">
+        <Page social="0">&amp;#161;Cuidado con los argons!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pueden surgir de cualquier parte! S&amp;#233; {@gender:vigilant/vigilante}.</Page>
+    </Text>
+</QuestDialog>

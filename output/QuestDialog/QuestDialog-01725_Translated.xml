@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="1">&amp;#161;Debes entrenar, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Oh, s&amp;#233; que piensas que ya ha pasado mucho tiempo desde que entrenas, pero incluso si crees que eres bueno{@g:/ne}, debes ser a&amp;#250;n mejor{@g:/e} para convertirte en miembro del Colectivo de Libre Comercio.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que matar a un {@linkcreature:124#102#Cyclope}, a un {@linkcreature:125#103#Dracoloth} o a un {@linkcreature:126#104#D&amp;#233;chireur vulcain}. Recibir&amp;#225;s una insignia de coraz&amp;#243;n una vez que estas criaturas mueran.&lt;BR&gt;&lt;BR&gt;Una vez que termine, tr&amp;#225;eme tu insignia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22008">
+        <Page social="4">Buen trabajo. Ahora estoy convencido de que ser&amp;#225;s un valioso activo para el Colectivo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="22008">
+        <Page social="0">&amp;#161;Por el Colectivo de Libre Comercio!</Page>
+    </Text>
+</QuestDialog>

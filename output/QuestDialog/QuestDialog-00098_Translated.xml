@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Los {@LinkCreature:4#1011#Rejetons &amp;#224; crocs}... Dicen que &quot;perro que ladra no muerde&quot;... Esos nunca ladran. Esos bichos te arrancan un brazo como si nada.&lt;BR&gt;&lt;BR&gt;Elim&amp;#237;nalos y tr&amp;#225;eme sus corazones. Nos har&amp;#225;s un gran favor.&lt;BR&gt;&lt;BR&gt;Su olor ahuyenta a otros carn&amp;#237;voros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Estos v&amp;#225;stagos con colmillos se reproducen r&amp;#225;pido, pero para sobrevivir a ti, &amp;#161;tendr&amp;#237;an que duplicar el ritmo, verdad?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Escucha, mientras las cr&amp;#237;as con colmillos merodeen por aqu&amp;#237;, nos ser&amp;#225; imposible reabrir las minas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es dif&amp;#237;cil usar el pico cuando te acaban de devorar un brazo!</Page>
+    </Text>
+</QuestDialog>

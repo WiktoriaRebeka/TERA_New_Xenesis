@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="54" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0">Maon's Cabin tampoco es segura, deber&amp;#237;as ir a investigarla.&lt;BR&gt;&lt;BR&gt;La encontrar&amp;#225;s siguiendo el camino hacia el oeste, pero ten cuidado con los terrones.&lt;BR&gt;&lt;BR&gt; Una vez que llegues a tu destino, p&amp;#237;dele a Phonon que te presente a su padre, Maon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">&amp;#161;Hola!&lt;BR&gt;&lt;BR&gt;&amp;#191;Keta te dijo que fueras a ver a mi padre? Est&amp;#225; por all&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="0">Lo &amp;#250;ltimo que necesitamos, &lt;PCCLASS:lcase&gt;, es a otro belicista en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mi hijo dice que no eres como los dem&amp;#225;s... Eso est&amp;#225; muy bien, pero si quieres persuadirme de que el proceso de paz te interesa de verdad, vas a tener que demostrarme que no est&amp;#225;s {@gender:venu/venue} aqu&amp;#237; con la idea de dedicarte a una masacre.</Page>
+    </Text>
+</QuestDialog>

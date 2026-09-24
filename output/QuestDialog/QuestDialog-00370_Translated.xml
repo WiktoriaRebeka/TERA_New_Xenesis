@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">Despu&amp;#233;s de desembarcar en Island of Dawn como nueva recluta, el legatus Lam te pidi&amp;#243; que te presentar&amp;#225;s ante los dem&amp;#225;s comandantes dirigi&amp;#233;ndote hacia la Base de la Tour.&lt;BR&gt;&lt;BR&gt;El camino hacia el campamento de Dulari fue la ocasi&amp;#243;n de tu primer enfrentamiento con los esp&amp;#237;ritus de arce vivientes llamados ghilliedhus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Pronto nos dar&amp;#225;n de baja a Axelle y a m&amp;#237;. Pero Adria sigue insistiendo en que presentemos un informe a intervalos regulares. Y por lo tanto, felicidades, aqu&amp;#237; tienes tu primera misi&amp;#243;n:&lt;BR&gt;&lt;BR&gt;Cuenta r&amp;#225;pidamente el n&amp;#250;mero de personas que encuentres de camino a la Base de la Tour y dile a la tribuna Adria que todo va bien para nosotros.&lt;BR&gt;&lt;BR&gt;Dicho esto, ahora que lo pienso, hace un tiempo que no veo a &lt;font color='#660000'&gt;Elion&lt;/font&gt;. As&amp;#237; que, si ves a un elfo desagradable con una bufanda negra larga, dile que ya es hora de que d&amp;#233; se&amp;#241;ales de vida.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">&amp;#191;Una nueva recluta? Sorprendente.&lt;BR&gt;&lt;BR&gt;Eres bienvenido{@g:/e}, por supuesto. La misi&amp;#243;n de este puesto avanzado es proteger el puerto contra los ataques de la fauna local. Los &lt;font color='#660000'&gt;ghilliedhus&lt;/font&gt; en particular, pero nos enfrentamos a todo tipo de amenazas.&lt;BR&gt;&lt;BR&gt;Camina por este camino hacia el campamento de Dulari y deshazte de algunos {@linkcreature:13#300931#ghilliedhus} que te encuentres en el camino.&lt;BR&gt;&lt;BR&gt;Ten cuidado, sin embargo. Muchas reclutas ya han perecido bajo los golpes de sus garras afiladas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">&amp;#161;Ah, esas garras! Has cazado al ghilliedhu, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Elion mencion&amp;#243; querer combatir el mal de ra&amp;#237;z, pero no lo he vuelto a ver desde hace un buen rato.&lt;BR&gt;&lt;BR&gt;&amp;#161;Un buen trabajo, recluta!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

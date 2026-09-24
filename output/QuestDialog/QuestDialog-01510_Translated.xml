@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0">&lt;PCNAME&gt;, te he {@gender:observ&amp;#233;/observ&amp;#233;e}. Tus habilidades son impresionantes, pero tu armamento no est&amp;#225; optimizado.&lt;BR&gt;&lt;BR&gt;&amp;#201;chale un vistazo al arma que te voy a dar. Con algunos objetos, podr&amp;#225;s encantarla.&lt;BR&gt;&lt;BR&gt;Ve a ver a Valdrin, en Boquillon; &amp;#233;l te dar&amp;#225; todo lo que necesitas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1001">
+        <Page social="0">&amp;#191;El encantamiento? Te lo voy a explicar todo.&lt;BR&gt;&lt;BR&gt;Encantar una armadura refuerza su defensa, y encantar un arma aumenta su poder de ataque. Puedes repetir la maniobra para obtener bonificaciones al alcanzar ciertos niveles.&lt;BR&gt;&lt;BR&gt;Para encantar equipo, necesitas materias primas y alkahest del mismo nivel. Los mercaderes de mi cala&amp;#241;a venden alkahest, mientras que obtienes materias primas desmantelando equipo.&lt;BR&gt;&lt;BR&gt;Para desmantelar un objeto, haz clic en el bot&amp;#243;n situado en la parte inferior de tu inventario, luego selecciona los objetos que deseas convertir en materias primas.&lt;BR&gt;&lt;BR&gt;Es sencillo, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

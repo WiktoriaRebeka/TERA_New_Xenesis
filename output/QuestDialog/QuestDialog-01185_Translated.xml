@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Debido a la escasez de alimentos que sufrimos, la poblaci&amp;#243;n local ha empezado a consumir carne de {@Creature:47#1001$$grizzly de Tirkai}, aunque no s&amp;#233; si es la mejor idea del mundo.&lt;BR&gt;&lt;BR&gt;Dicho esto, creo que salar esta carne lo suficiente nos permitir&amp;#237;a eliminar los rastros de contaminaci&amp;#243;n argona que debe contener.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale un poco a Jadora, de la Base de la Folie. Tiene un buen suministro de sal a disposici&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#191;Cree que la sal descontamination&amp;#225; la carne? Teniendo en cuenta la hambruna que se nos avecina, ser&amp;#237;a todo un alivio. Voy a intentarlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">Tengo sal, pero... &amp;#191;podr&amp;#237;as recordarme por qu&amp;#233; la necesitabas? No veo ninguna carne que salar.</Page>
+    </Text>
+</QuestDialog>

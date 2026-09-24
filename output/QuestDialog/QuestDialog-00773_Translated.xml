@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">La antigua magia del dios Balder ha preservado el {@Rgn:30008$$niveau inf&amp;#233;rieur des archives} durante mucho tiempo, pero est&amp;#225; empezando a debilitarse.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:30#190#intendants de laiton} del templo son un buen ejemplo de ello. Originalmente, su misi&amp;#243;n era cuidar el jard&amp;#237;n del templo y alejar a los monstruos.&lt;BR&gt;&lt;BR&gt;Hoy en d&amp;#237;a, estos mayordomos se han convertido en monstruos, hostiles a todo lo que tiene vida.&lt;BR&gt;&lt;BR&gt;Por el bien de todos, los {@LinkCreature:30#190#intendants de laiton} deben ser eliminados.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1020">
+        <Page social="1">Esto me pone un poco triste. Los mayordomos eran los fieles guardianes de Balder y de su jard&amp;#237;n, y sin embargo los desmantelamos sin pensarlo dos veces.&lt;BR&gt;&lt;BR&gt;Lo s&amp;#233;, lo s&amp;#233;. Fui yo quien te empuj&amp;#243; a hacerlo. Aun as&amp;#237;, me da l&amp;#225;stima por ellos.</Page>
+    </Text>
+</QuestDialog>

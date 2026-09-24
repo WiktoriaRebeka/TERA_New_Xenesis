@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="4">Tu pueblo tomar todos los fragmentos, y eso hacer morir a wendigos.&lt;BR&gt;&lt;BR&gt;Madyar decir que tu pueblo no querer guerra con wendigos, pero no parar de buscar fragmentos. &amp;#191;T&amp;#250; hacer qu&amp;#233;? &amp;#191;Ayudarnos a encontrar soluci&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;&lt;B&gt;"Estoy aquí para ayudarte."&lt;/B&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La fuerza... eso ser importante para wendigos. {@LinkCreature:34#510#mages de givre} y {@LinkCreature:34#500#tisseurs de givre} wendigos sacar energ&amp;#237;a de piedras amarillas. Piedras volverlos fuertes.&lt;BR&gt;&lt;BR&gt;T&amp;#250; tomar piedras amarillas... ellos d&amp;#233;biles. Otros wendigos ver magos no fuertes. Ellos ver a Uchamba poderoso... ellos entender que Uchamba tener raz&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1010">
+        <Page social="4">T&amp;#250; hacer lo que decir. Uchamba respetar a ti y a Madyar.&lt;BR&gt;&lt;BR&gt;Ahora, nosotros poder construir futuro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Madyar nombrar piedras amarillas &quot;fragmentos x&amp;#225;nticos&quot;. Debes debilitar a los magos.</Page>
+    </Text>
+</QuestDialog>

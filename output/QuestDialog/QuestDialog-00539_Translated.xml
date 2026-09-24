@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="4">He hecho algo terrible, &lt;PCNAME&gt;. Algo por lo que probablemente nunca podr&amp;#233; expiar mis culpas.&lt;BR&gt;&lt;BR&gt;Cuando estaba en la Confr&amp;#233;rie libre, fabriqu&amp;#233; armas horribles. Nunca pens&amp;#233; que ser&amp;#237;an usadas contra nosotros alg&amp;#250;n d&amp;#237;a, pero supongo que eso no es una excusa.&lt;NEXTPAGEBUTTON&gt;"¿Qué quieres que haga?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No puedo aceptar que sigan en circulaci&amp;#243;n. Por favor, ve a recuperarlas por m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;nelas y tr&amp;#225;emelas para que pueda destruirlas. No quiero que le cuesten la vida a otros inocentes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1007">
+        <Page social="4">Gracias. Las destruir&amp;#233; ahora mismo y juro que jam&amp;#225;s volver&amp;#233; a hacer algo as&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1007">
+        <Page social="0">&amp;#161;Por favor, debes encontrar estas armas antes de que lastimen a alguien m&amp;#225;s!</Page>
+    </Text>
+</QuestDialog>

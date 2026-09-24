@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="0">Has ayudado a la gente de Quarantine Station.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="1" voiceTypeId="0">S&amp;#237;, Ryshan ya me inform&amp;#243; de ello. &lt;BR&gt;Al parecer, alguien entre los Humanos de aqu&amp;#237; cometi&amp;#243; un acto despreciable para ser admitido como paciente. &lt;BR&gt;Qui&amp;#233;n se atrever&amp;#237;a a...&lt;BR&gt;&lt;BR&gt;Creo que har&amp;#237;amos bien en dar con esa persona, &lt;PCNAME&gt;, y me temo que voy a necesitar tu ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="103">
+        <Page social="4" voiceTypeId="0">Yo soy quien prepar&amp;#243; esta prodigiosa poci&amp;#243;n del recuerdo. Quien la bebe solo tiene que o&amp;#237;r cualquier palabra para recordar de repente todo lo relacionado con ella. &lt;br&gt;&lt;br&gt;Al amplificar su efecto, la persona se sumerge por completo en sus recuerdos y los revive mentalmente comport&amp;#225;ndose exactamente como en el momento del recuerdo.&lt;BR&gt;Es un poco como estar en pleno sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Al principio, esta poci&amp;#243;n era una peque&amp;#241;a broma entre los investigadores del Mysterium, as&amp;#237; que es perfectamente inofensiva.&lt;BR&gt;Mezcl&amp;#233;mosla con el remedio y veamos qu&amp;#233; pasa.&lt;NEXTPAGEBUTTON&gt;"No es una mala idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;A que s&amp;#237;? As&amp;#237; que necesito sangre de un basilisco y la corteza calcinada de un ghilliedhu.&lt;BR&gt;&lt;BR&gt;Por mucho que los ghilliedhus de aqu&amp;#237; se hayan quemado, encontrar su corteza calcinada no es tarea f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Y necesito una gran cantidad si queremos que todos los pacientes ingieran la poci&amp;#243;n. Haz tu mejor esfuerzo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="103">
+        <Page social="4" voiceTypeId="0">Estupendo. &lt;BR&gt;Esta cantidad deber&amp;#237;a ser m&amp;#225;s que suficiente. &lt;BR&gt;&lt;BR&gt;Quien la beba y luego escuche cualquier palabra, recordar&amp;#225; inmediatamente todo lo relacionado con ella.&lt;BR&gt;&lt;BR&gt;Estar&amp;#225; tan absorto en sus recuerdos que repetir&amp;#225; el comportamiento que adopt&amp;#243; en su d&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;"Ya veremos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Toma esta poci&amp;#243;n y rep&amp;#225;rtela entre la gente de aqu&amp;#237;. &lt;BR&gt;&lt;BR&gt;Te acuerdas bien de la palabra clave, &amp;#191;verdad? Hierba de profesi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Dale la poci&amp;#243;n a los Humanos y di claramente &quot;hierba de profesi&amp;#243;n&quot;, as&amp;#237; desenmascararemos al sospechoso.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="103">
+        <Page social="0">Necesito mucho m&amp;#225;s. Con esto es imposible preparar suficiente poci&amp;#243;n.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="148">
+        <Page social="4" voiceTypeId="0">Oh... Siento una gran fuerza invadir mi cuerpo. &lt;BR&gt;Esto es mucho mejor que el asqueroso remedio de la otra vez.&lt;NEXTPAGEBUTTON&gt;"¡Hierba de profesión!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Daniel pone de repente cara de atenci&amp;#243;n.)&lt;BR&gt;&lt;BR&gt;Nanni, no deber&amp;#237;as recolectar hierba de profesi&amp;#243;n. &lt;BR&gt;Es muy bonita, s&amp;#237;, pero tambi&amp;#233;n muy t&amp;#243;xica. &lt;BR&gt;&lt;BR&gt;Voy a buscarte una flor que te quede mucho mejor, cari&amp;#241;o m&amp;#237;o.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="147">
+        <Page social="1" voiceTypeId="0">Oh... Es mucho mejor. El remedio anterior ten&amp;#237;a un sabor atroz. &amp;#191;Cu&amp;#225;les son los ingredientes del nuevo remedio?&lt;NEXTPAGEBUTTON&gt;"¡Hierba de profesión!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Hennika adopta de repente una expresi&amp;#243;n seria.)&lt;BR&gt;&lt;BR&gt;No es as&amp;#237; como lograremos entrar en la estaci&amp;#243;n.&lt;BR&gt;&amp;#191;Son conscientes de ello? Los s&amp;#237;ntomas de todos nosotros son demasiado leves. &lt;br&gt;&lt;br&gt;Debemos recibir tratamiento a toda costa. &lt;BR&gt;Fuera de cuesti&amp;#243;n dejarse morir.&lt;BR&gt;&lt;BR&gt;... Escuch&amp;#233; que la hierba de profesi&amp;#243;n podr&amp;#237;a sernos &amp;#250;til.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="147">
+        <Page social="4" voiceTypeId="0">(El rostro de la mujer se pone p&amp;#225;lido.)&lt;BR&gt;&lt;BR&gt;No, no es verdad... &amp;#161;fue un error! &lt;BR&gt;&lt;BR&gt;&amp;#161;Mi necesidad de tratamiento era mucho m&amp;#225;s urgente! &lt;BR&gt;&amp;#161;Yo tambi&amp;#233;n ten&amp;#237;a miedo de no ser elegida como paciente y quedarme sin tratamiento para la cristalizaci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Ese idiota solo quiso pasarse de listo.&lt;NEXTPAGEBUTTON&gt;"Encontré esto bajo un montón de piedras."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;No, no! &lt;pcname&gt;, te lo supliqu&amp;#233;.&lt;BR&gt;&amp;#161;No me expulses!&lt;BR&gt;No quiero morir.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="38" prevId="8" villagerId="146">
+        <Page social="4" voiceTypeId="0">No puedo creer que Hennika haya podido hacer algo as&amp;#237;.&lt;br&gt;&lt;br&gt;&amp;#191;Piensan desterrarnos?&lt;BR&gt;&amp;#161;Har&amp;#233; todo lo que quieran! &lt;BR&gt;&lt;BR&gt;Incluso si deciden castigar a mi hermana, denle una oportunidad de sanar, se los supliqu&amp;#233;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="38" prevId="9" villagerId="120">
+        <Page social="4" voiceTypeId="0">Encontraste al culpable. &amp;#191;As&amp;#237; que era esa paciente de all&amp;#225;? &lt;BR&gt;&lt;BR&gt;Cierto, su conducta es reprochable, pero no deja de ser v&amp;#237;ctima de la cristalizaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tan pronto como el estado de tu hermana menor sea estable, la entregar&amp;#233; a la Iniciativa de la Vanguardia.&lt;NEXTPAGEBUTTON&gt;"Opino lo mismo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nosotros tambi&amp;#233;n, en el Mysterium, haremos todo lo posible para encontrar un ant&amp;#237;doto lo antes posible. &lt;BR&gt;&lt;BR&gt;Estas tragedias seguir&amp;#225;n repiti&amp;#233;ndose hasta que tengamos un remedio.&lt;BR&gt;&lt;BR&gt;Hiciste un buen trabajo.</Page>
+    </Text>
+</QuestDialog>

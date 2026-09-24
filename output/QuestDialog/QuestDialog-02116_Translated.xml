@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Los argon nos env&amp;#237;an m&amp;#225;quinas de guerra mec&amp;#225;nicas, pero la fuente de energ&amp;#237;a que las alimenta descansa muy pl&amp;#225;cidamente en las Catacumbes argones.&lt;BR&gt;&lt;BR&gt;Si nos damos prisa, podr&amp;#237;amos destruir el {@LinkCreature:418#2009#catalyseur de cyasma}.&lt;NEXTPAGEBUTTON&gt;"Ponme en marcha."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No es un paseo por el parque, &lt;PCNAME&gt;, pero si te sientes con fuerzas, ve a presentar tu informe a {@LinkCreature:418#2003#Arigma} en los {@Rgn:9018001$$Catacombes argones}. &amp;#201;l te enviar&amp;#225; al lugar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Por supuesto, eres capaz de destruir el {@LinkCreature:418#2009#catalyseur de cyasma}, pero no ser&amp;#225; f&amp;#225;cil. Adem&amp;#225;s, hay tres.&lt;BR&gt;&lt;BR&gt;Tu intento te honra, pero ten en cuenta que esta misi&amp;#243;n podr&amp;#237;a ser la &amp;#250;ltima. Los argon guardan muchos hombres en reserva para proteger sus catalizadores.&lt;BR&gt;&lt;BR&gt;Si el suelo empieza a temblar, un consejo: corre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2003">
+        <Page social="4">&amp;#161;Hemos o&amp;#237;do, ejem, sentido la explosi&amp;#243;n desde aqu&amp;#237;! &amp;#161;Qu&amp;#233; gran haza&amp;#241;a!&lt;BR&gt;&lt;BR&gt;Voy a enviar mensajeros a la Citadelle de Khanovar para anunciar que los argon van a estar vulnerables un tiempo despu&amp;#233;s de esto.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="8">La mayor&amp;#237;a de los animales devoran a sus presas completamente crudas, &amp;#161;pero los gulas nos cazan, nos cocinan y nos sirven!&lt;BR&gt;&lt;BR&gt;&amp;#161;Deber&amp;#237;amos ir a darle una buena paliza a sus pinches de cocina! Ve a encargarte de los {@LinkCreature:8#3021#d&amp;#233;peceurs gulas} y de los {@LinkCreature:8#3022#farfadets auriques esclavagistes}, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y tr&amp;#225;eme sus cuchillos, &amp;#191;quieres? Tal vez podamos convertirlos en armas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1033">
+        <Page social="4">&amp;#161;Ja, los cuchillos! &amp;#161;Me encantan! &amp;#161;Filosos, puntiagudos, todo lo que me gusta!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1033">
+        <Page social="0">Toda la noche se les puede escuchar cazar, cocinar y atiborrarse. Y durante el d&amp;#237;a... es exactamente el mismo circo.</Page>
+    </Text>
+</QuestDialog>

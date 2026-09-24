@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">&amp;#161;Ah! Esos molochs humeantes matan a mis prospectores uno tras otro. Entramos discretamente para intentar encontrar mineral de fyrdras y esos malditos molochs salen del suelo.&lt;NEXTPAGEBUTTON&gt;"Me encargo de los molochs."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ser&amp;#237;a fant&amp;#225;stico. Incluso uno solo marcar&amp;#237;a una gran diferencia para nosotros.&lt;BR&gt;&lt;BR&gt;Y si te cruzas con una gran veta de fyrdras, av&amp;#237;same. Ser&amp;#225; nuestro secreto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="6">&amp;#161;Buen trabajo! &amp;#161;Ahora podemos recuperar m&amp;#225;s mineral, fabricar m&amp;#225;s armas y matar a m&amp;#225;s argons!&lt;BR&gt;&lt;BR&gt;Y todo gracias a ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

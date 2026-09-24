@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Getty, el administrador de inventario de Velika, est&amp;#225; sumido en sus pensamientos. Ve a buscarlo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has entregado los materiales para la bolsa a Getty. A cambio, Getty te ha regalado la bolsa terminada.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1228">
+        <Page social="0" voiceTypeId="0">(Getty suspira profundamente.)&lt;NEXTPAGEBUTTON&gt;"¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La bolsa... Debo terminar la bolsa...&lt;NEXTPAGEBUTTON&gt;Rozas con precaución el brazo de Getty.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Necesito una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;.&lt;BR&gt;&amp;#191;Qu&amp;#233; voy a hacer...?&lt;BR&gt;&lt;BR&gt;(Getty est&amp;#225; tan preocupado que no se fija en ti.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah!&lt;BR&gt;&amp;#191;Eres t&amp;#250;, &lt;PCNAME&gt;? Cu&amp;#225;nto tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Que qu&amp;#233; me pasa?&lt;BR&gt;&lt;BR&gt;Estoy perfeccionando un nuevo invento, pero me falta un componente esencial y por eso no puedo terminarlo.&lt;BR&gt;&lt;BR&gt;Me preocupa much&amp;#237;simo.&lt;NEXTPAGEBUTTON&gt;"¿Qué invento?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Los ojos de Getty se iluminan de alegr&amp;#237;a.)&lt;BR&gt;&lt;BR&gt;Esta bolsa recoge autom&amp;#225;ticamente ciertos objetos.&lt;BR&gt;&lt;BR&gt;Es dif&amp;#237;cil de explicar sin poder hacerte una demostraci&amp;#243;n, pero a&amp;#250;n no he podido terminar ni una sola bolsa.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;cons&amp;#237;gueme una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;!&lt;BR&gt;&amp;#161;Se necesita una aguja muy especial para esta bolsa tan especial!&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrar esta aguja?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">He o&amp;#237;do decir que el &lt;font color='#0080FF'&gt;comerciante clandestino&lt;/font&gt; de Velika comercia con objetos raros.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n podr&amp;#237;as ir directamente a buscar a los espectros del bosque, pero cruzarte con un espectro... &amp;#161;Mejor ve a ver al comerciante clandestino y c&amp;#243;mprale una aguja!&lt;BR&gt;&lt;BR&gt;&amp;#161;Siempre tengo una moneda ahorrada para urgencias as&amp;#237;! &amp;#191;Podr&amp;#237;as abrir esa caja de ah&amp;#237;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="2953">
+        <Page social="0" voiceTypeId="0">(La caja gigantesca parece demasiado grande para la peque&amp;#241;a gema violeta que yace en un rinc&amp;#243;n.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Mi moneda de reserva...&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;a bastar para comprar una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;.&lt;NEXTPAGEBUTTON&gt;"¿Dónde está el comerciante clandestino?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;&amp;#191;Qu&amp;#233; otra cosa quieres?!&lt;BR&gt;&lt;BR&gt;Apuesto a que &lt;font color='#0080FF'&gt;Elthienne&lt;/font&gt; sabe algo sobre el comerciante clandestino.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a informarte con &lt;font color='#0080FF'&gt;Elthienne&lt;/font&gt;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="3003">
+        <Page social="0" voiceTypeId="0">T&amp;#250; eres &lt;PCNAME&gt;, &amp;#191;verdad? &amp;#191;Qu&amp;#233; puedo hacer por ti?&lt;NEXTPAGEBUTTON&gt;"¿Sabes algo sobre el comerciante clandestino?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;El &lt;font color='#0080FF'&gt;comerciante clandestino&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;Ah, sin duda hablas del comerciante enmascarado.&lt;BR&gt;&lt;BR&gt;Ciertamente, no faltan comerciantes en Velika, pero solo hay un comerciante clandestino que vende objetos raros.&lt;BR&gt;&lt;BR&gt;Se rumorea que consigue sus mercanc&amp;#237;as de los goblins.&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrarlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mjum... Si la memoria no me falla, la &amp;#250;ltima vez estaba apostado en el camino que lleva a la puerta norte.&lt;BR&gt;&lt;BR&gt; Baja la escalera y sigue tu derecha.&lt;BR&gt;&lt;BR&gt;En cambio, solo vende sus mercanc&amp;#237;as en horarios precisos que lamentablemente desconozco.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="2950">
+        <Page social="0" voiceTypeId="0">&amp;#191;Acaso eres un cliente? &amp;#161;Tienes toda la pinta!&lt;BR&gt;&lt;BR&gt;Por desgracia, mi tienda ya est&amp;#225; cerrada.&lt;BR&gt;&lt;BR&gt;Pero estoy dispuesto a prestarte atenci&amp;#243;n. &amp;#191;Qu&amp;#233; necesitas?&lt;NEXTPAGEBUTTON&gt;"Necesito una aguja espectral."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;...&lt;BR&gt;No es un art&amp;#237;culo muy demandado.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que ya no me queda ninguna en stock.&lt;BR&gt;&lt;BR&gt;En cambio, s&amp;#233; d&amp;#243;nde puedes conseguir una.&lt;NEXTPAGEBUTTON&gt;"¿Podrías decirme dónde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Esta informaci&amp;#243;n no es gratis!&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todo, la informaci&amp;#243;n tambi&amp;#233;n es una forma de mercanc&amp;#237;a.&lt;BR&gt;&lt;BR&gt;P&amp;#225;game una suma adecuada y te indicar&amp;#233; el lugar donde encontrar agujas espectrales en un &lt;font color='#0080FF'&gt;mapa&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Pi&amp;#233;nsalo y dame luego la respuesta.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0" voiceTypeId="0">Esta gema vale m&amp;#225;s que esta simple informaci&amp;#243;n. Toma esta &lt;font color='#0080FF'&gt;moneda de oro&lt;/font&gt; y estaremos en paz.&lt;BR&gt;&lt;BR&gt;Lleva esta moneda hasta el lugar indicado en el mapa.&lt;BR&gt;&lt;BR&gt;Te permitir&amp;#225; comprar una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt; al comerciante.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0">Si quieres saber m&amp;#225;s sobre la &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;, tendr&amp;#225;s que pagar hasta el &amp;#250;ltimo c&amp;#233;ntimo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="29" prevId="9" villagerId="6100">
+        <Page social="0" voiceTypeId="0">&amp;#191;Krrik, un cliente?&lt;NEXTPAGEBUTTON&gt;"Necesito una aguja espectral."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo en existencia!&lt;BR&gt;&lt;BR&gt;A cambio, solo la vendo por una moneda de la Liga de Contrabandistas Goblin.&lt;NEXTPAGEBUTTON&gt;Le muestras tu moneda de la Liga de Contrabandistas Goblin.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Esa es la &lt;font color='#0080FF'&gt;moneda de oro&lt;/font&gt; en cuesti&amp;#243;n.&lt;BR&gt;Hagamos negocios entonces.&lt;BR&gt;&lt;BR&gt;Verifica la mercanc&amp;#237;a.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="29" prevId="11" villagerId="6101">
+        <Page social="0" voiceTypeId="0">La &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;No parece gran cosa, pero es bastante extraordinaria.&lt;BR&gt;&lt;BR&gt;&amp;#161;Trato hecho, una aguja espectral, krrik!&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Se acab&amp;#243; el inventario! &amp;#161;Lo he vendido todo, krrik!&lt;BR&gt;&lt;BR&gt;Opero por todo Essenia.&lt;BR&gt;&lt;BR&gt;No tengo una ubicaci&amp;#243;n fija.&lt;BR&gt;&lt;BR&gt;&amp;#161;Espero verte de nuevo, krrik!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="29" villagerId="6101">
+        <Page social="0">La &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;Si la necesitas, c&amp;#243;mprala, krrik!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Vaya, &lt;PCNAME&gt;!&lt;BR&gt;&amp;#191;De verdad tienes una &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt; contigo?&lt;BR&gt;&lt;BR&gt;&amp;#161;Por fin podr&amp;#233; terminar la alforja!&lt;BR&gt;&amp;#161;Qu&amp;#233; felicidad! &amp;#161;Por fin! &amp;#161;Por fin puedo terminarla!&lt;NEXTPAGEBUTTON&gt;" Cálmate."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Como agradecimiento, &amp;#161;te dar&amp;#233; la primera alforja!&lt;BR&gt;&lt;BR&gt;&lt;b&gt;&lt;font color='#660000'&gt;==================================&lt;BR&gt;Vous pouvez utiliser la sacoche.&lt;BR&gt;==================================&lt;/font&gt;&lt;/b&gt;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="1228">
+        <Page social="0">&amp;#161;Sin la &lt;font color='#0080FF'&gt;aguja espectral&lt;/font&gt;, no puedo terminar la alforja!</Page>
+    </Text>
+</QuestDialog>

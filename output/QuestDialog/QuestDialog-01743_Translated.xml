@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">Durante tu discusi&amp;#243;n con los Khiriens, Madat desapareci&amp;#243; y t&amp;#250; eres el acusado.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">&amp;#191;Hatishna?&lt;BR&gt;&lt;BR&gt;Eso no es m&amp;#225;s que una leyenda. Somos los Khiriens. &amp;#161;No necesitamos ning&amp;#250;n elegido para darnos la victoria!&lt;BR&gt;&lt;BR&gt;Muy bien, &quot;elegido{@g:/e}&quot;. Los ar&amp;#225;cnidos no dejan nuestro campamento en paz. Deshazte de ellos y podremos hablar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1006">
+        <Page social="4">&amp;#161;P&amp;#233;rfido demonio! En lugar de ganar nuestra confianza, &amp;#161;secuestraste a Madat! &amp;#191;D&amp;#243;nde est&amp;#225;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Mis soldados te arrancar&amp;#225;n los ojos para castigar esta traici&amp;#243;n!&lt;NEXTPAGEBUTTON&gt;"¿Cómo? ¿Madat ha desaparecido? ¡Iré a buscarlo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Que as&amp;#237; sea. Tr&amp;#225;enos a Madat sano y salvo y tal vez te creamos.&lt;BR&gt;&lt;BR&gt;Pero te advierto: si est&amp;#225; muerto o eres culpable, ir&amp;#225;s a alimentar a los ar&amp;#225;cnidos sin m&amp;#225;s pre&amp;#225;mbulos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1010">
+        <Page social="4">(Unos cuantos fragmentos de escamas brillantes yacen en el interior de la caja.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1011">
+        <Page social="4">(Un moco de olor acre mancha los fragmentos.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">&amp;#161;Puaj! &amp;#161;Qu&amp;#233; peste! La reconocer&amp;#237;a entre mil.&lt;BR&gt;&lt;BR&gt;Debemos echar un vistazo hacia los guwangis.</Page>
+    </Text>
+</QuestDialog>

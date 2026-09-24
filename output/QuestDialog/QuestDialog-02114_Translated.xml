@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Tenemos un objetivo disponible en {@Rgn:9018001$$Catacombes argones}. Ve a su encuentro.&lt;BR&gt;&lt;BR&gt;Habla con {@LinkCreature:418#2003#Arigma}, &amp;#233;l sabr&amp;#225; ayudarte a encontrarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Hay dos comandantes argon all&amp;#237; abajo. Son prudentes, pero podemos anticipar sus movimientos.&lt;BR&gt;&lt;BR&gt;Si logras matar a uno de ellos, deber&amp;#237;a desorganizar a los argon y tendremos la oportunidad de tomar la ventaja.&lt;BR&gt;&lt;BR&gt;Buena suerte. Contamos contigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Oh, me habr&amp;#237;a encantado ver eso. Lograr matar a un objetivo importante como ese es algo que no se olvida.&lt;BR&gt;&lt;BR&gt;Bien hecho, &lt;PCNAME&gt;. El Shariar cantar&amp;#225; este d&amp;#237;a glorioso. A todo pulm&amp;#243;n y con la copa llena.</Page>
+    </Text>
+</QuestDialog>

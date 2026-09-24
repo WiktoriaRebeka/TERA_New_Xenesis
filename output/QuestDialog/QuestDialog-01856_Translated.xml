@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="4">&amp;#161;Me las vas a pagar!&lt;NEXTPAGEBUTTON&gt;"¿Qué planeas hacer ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="436" prevId="2" villagerId="8002">
+        <Page social="4">Vamos a detener a este maestro,&lt;BR&gt;&lt;PCNAME&gt;&amp;#161;y deber&amp;#237;as lanzarte r&amp;#225;pido tras la pista de este hombre!&lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos hacer un informe a Adria!&lt;NEXTPAGEBUTTON&gt;Entendido.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="437" prevId="3" villagerId="8001">
+        <Page social="4">Vaya... &amp;#191;Qui&amp;#233;n es usted?&lt;BR&gt;&lt;BR&gt;(Al observar a este hombre, notas que le falta una oreja.)&lt;NEXTPAGEBUTTON&gt;"¿Has robado la fuerza vital y matado a la gente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Jaja, est&amp;#225;s realmente loco.&lt;BR&gt;&lt;BR&gt;&amp;#191;De verdad crees que te voy a responder &quot;S&amp;#237;, fui yo&quot; si me haces la pregunta as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Desaparece si valoras tu vida.&lt;NEXTPAGEBUTTON&gt;"El derecho a guardar silencio no funciona conmigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;S&amp;#237;, fui yo!&lt;BR&gt;&amp;#161;No me hagas enojar todav&amp;#237;a! &amp;#161;Combate!&lt;NEXTPAGEBUTTON&gt;Saca tu arma.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="437" prevId="4" villagerId="8008">
+        <Page social="4">... &amp;#161;Alto, me rindo!&lt;BR&gt;Podemos hablarlo tranquilamente.&lt;NEXTPAGEBUTTON&gt;"¡No creas ni por un segundo que me voy a tragar este cuento!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Est&amp;#225; bien, bajen las armas.&lt;BR&gt;Sin embargo, les dije que me rend&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;"Sígueme y cállate."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="437" prevId="5" villagerId="8003">
+        <Page social="4">&amp;#161;Qu&amp;#233; suerte! &amp;#191;No est&amp;#225;s herido?&lt;BR&gt;Volvamos primero al campamento.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eh! &amp;#161;Escortadlo al campamento!&lt;NEXTPAGEBUTTON&gt;Asientes con la cabeza.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="8020">
+        <Page social="4">As&amp;#237; que &amp;#233;l era el traidor. La fuerza vital que llevaba consigo era un anzuelo.&lt;BR&gt;&lt;BR&gt;Desde el principio, la fuerza vital hab&amp;#237;a sido destruida y no se pod&amp;#237;a reparar una vez extra&amp;#237;da. Fabric&amp;#243; falsificaciones y enga&amp;#241;&amp;#243; a las tres alianzas por completo. Y los maestros cayeron en la trampa...&lt;BR&gt;&lt;BR&gt;Simplemente quer&amp;#237;a arrancar una suma redonda a cambio de la fuerza vital y su avaricia era demasiado descarada. Luch&amp;#243; hasta el final para sacar m&amp;#225;s provecho y finalmente tuvo un triste fin.&lt;NEXTPAGEBUTTON&gt;Asientes.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Voy a volver a ver a Seir y a informarle sobre este asunto.&lt;BR&gt;&lt;BR&gt;Y tambi&amp;#233;n exigir&amp;#233; que las tres alianzas sean condenadas. Como se han mostrado c&amp;#243;mplices de los actos criminales, no deben salir impunes tan f&amp;#225;cilmente. Son culpables de la destrucci&amp;#243;n del &amp;#193;rbol de los dioses antiguos y, adem&amp;#225;s, del asesinato de Aktan.&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Much&amp;#237;simas gracias, &lt;PCNAME&gt;. &lt;BR&gt;Gracias a usted, pudimos esclarecer el caso. &lt;BR&gt;Los soldados pudieron limpiar su manchada reputaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Y Lian dice que hay una manera de curar Island of Dawn.&lt;BR&gt;Conf&amp;#237;o en &amp;#233;l. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, no dude en quedarse aqu&amp;#237; para ayudar a Lian, si no es mucha molestia. &lt;BR&gt;Con su ayuda, &lt;PCNAME&gt;, la isla seguramente volver&amp;#225; a la normalidad en un futuro cercano.</Page>
+    </Text>
+</QuestDialog>

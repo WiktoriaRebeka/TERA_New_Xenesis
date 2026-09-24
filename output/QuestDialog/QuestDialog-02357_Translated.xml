@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Se report&amp;#243; un sendero en la Zona central de Exodor. Te reuniste all&amp;#237; con Jelena, que se hab&amp;#237;a adelantado, para descubrir ad&amp;#243;nde lleva el sendero.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">El sendero los condujo directamente ante el comandante de las tropas de Arkarp. Estabas enfrentando a Kalligar cuando Rogash apareci&amp;#243; de la nada para llevarse a Kalligar.&lt;BR&gt;&lt;BR&gt;Descubre qu&amp;#233; est&amp;#225;n tramando los altos dragones de Arkarp.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="10000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para volver a recorrer el sendero?&lt;BR&gt;&lt;BR&gt;&amp;#161;Pues en marcha!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2105" prevId="3" villagerId="10000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Tambi&amp;#233;n lo sentiste?&lt;BR&gt;&lt;BR&gt;&amp;#161;Esa energ&amp;#237;a... me resulta familiar!&lt;BR&gt;&lt;BR&gt;Ha llegado la hora de la venganza. &amp;#161;Date prisa!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2105" prevId="4" villagerId="10100">
+        <Page social="4" voiceTypeId="0">&amp;#161;Maldici&amp;#243;n! No logramos derrotarlos a todos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Quiero vengar a Elion a toda costa!&lt;BR&gt;&lt;BR&gt;Intentar&amp;#233; averiguar ad&amp;#243;nde fue a meterse Rogash.&lt;BR&gt;Regresa a ver a Dougal y pres&amp;#233;ntale tu informe.&lt;BR&gt;&lt;BR&gt;Es probable que estos monstruos vayan tras el n&amp;#250;cleo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Los comandantes altos dragones han reaparecido...&lt;BR&gt;&lt;BR&gt;Debemos averiguar qu&amp;#233; planean hacer aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Para ello, necesitamos la ayuda de los riverans.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, regresa con Jelena y re&amp;#250;ne m&amp;#225;s informaci&amp;#243;n en Exodor.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; cuando necesite tu ayuda.</Page>
+    </Text>
+</QuestDialog>

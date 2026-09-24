@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1004">
+        <Page social="4">Vamos a liberar a los esclavos. No me importa lo que nos cueste; es hora de actuar.&lt;BR&gt;&lt;BR&gt;Bueno, cuando hayamos resuelto otro problema... Fue {@LinkCreature:212#1018#Tairia} quien estudi&amp;#243; el plan de ataque, pero fue capturada por el enemigo mientras hac&amp;#237;a reconocimiento del terreno.&lt;BR&gt;&lt;BR&gt;&amp;#191;Aceptar&amp;#237;as ir a buscarla? Podr&amp;#237;amos liberar a los esclavos sin su ayuda, pero ser&amp;#237;a mucho m&amp;#225;s arriesgado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1018">
+        <Page social="0">Estos can&amp;#237;bales son monstruos abominables. Escucho d&amp;#237;a y noche los gritos de sus v&amp;#237;ctimas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tenemos que largarnos de aqu&amp;#237; antes de que nos descubran!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="4">&lt;PCNAME&gt;, algunas de nuestras mercanc&amp;#237;as desaparecieron durante una entrega completamente rutinaria. El agente responsable fue, por decirlo de alguna manera, sancionado... y hemos recuperado el paquete faltante.&lt;BR&gt;&lt;BR&gt;Y aqu&amp;#237; es donde entras t&amp;#250;. Entr&amp;#233;gale esto a Jerelyn lo antes posible y aseg&amp;#250;rate de decirle que el problema de entrega ha sido &quot;solucionado&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1108">
+        <Page social="4">&amp;#191;Qu&amp;#233; puedo hacer por ti?&lt;NEXTPAGEBUTTON&gt;"Es de parte de Ebbra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No te imaginas mi decepci&amp;#243;n cuando me dijeron que el paquete se hab&amp;#237;a &quot;extraviado&quot;, pero... &amp;#191;qu&amp;#233; significa eso? &amp;#191;El problema fue &quot;arreglado&quot;?&lt;BR&gt;&lt;BR&gt;Ah, ya veo. En fin, no es asunto m&amp;#237;o, pero de todos modos es un alivio.</Page>
+    </Text>
+</QuestDialog>

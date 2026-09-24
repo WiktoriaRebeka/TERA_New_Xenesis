@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3021">
+        <Page social="1">Eres el alba que el sol busca extender. O eso creo. Debes superar las pruebas del Temple de Balder para demostrar que eres digno del astro solar.&lt;BR&gt;&lt;BR&gt;La primera de ellas consiste en abrir la puerta cerrada del laberinto.&lt;BR&gt;&lt;BR&gt;No necesitar&amp;#225;s llave. &amp;#161;Tan solo tendr&amp;#225;s que derrotar a &lt;BR&gt; no, a {@LinkCreature:425#1000$$Kakun}, el maestro de los jardines exteriores!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3022">
+        <Page social="1">El sol te ilumina y hace que tu victoria sea a&amp;#250;n m&amp;#225;s brillante.&lt;BR&gt;&lt;BR&gt;Otra prueba te espera. Atraviesa el laberinto y consulta al {@Creature:425#3024#d&amp;#233;positaire de sagesse} que te espera al otro lado.</Page>
+    </Text>
+</QuestDialog>

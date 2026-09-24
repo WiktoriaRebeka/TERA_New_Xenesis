@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">Todos los pisos de este edificio rebosan de criaturas de pesadilla.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:33#5#bouffons maudits} parecen ser los peores... hasta que ves a los {@LinkCreature:33#51#marmots bouchers}.&lt;BR&gt;&lt;BR&gt;Y si se encuentra a la vez con los payasos y las mu&amp;#241;ecas, buena suerte para volver a conciliar el sue&amp;#241;o. &amp;#161;Adelante! Intente acabar con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1001">
+        <Page social="0">&amp;#191;Ha sobrevivido? Oh. Tiene m&amp;#225;s valor del que cre&amp;#237;a. En fin, vamos... &amp;#161;HAY UNA MU&amp;#209;ECA CON UN CUCHILLO DETR&amp;#193;S DE USTED!?!</Page>
+    </Text>
+</QuestDialog>

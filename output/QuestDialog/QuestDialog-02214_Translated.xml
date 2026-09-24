@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9906">
+        <Page social="2" voiceTypeId="0">Me muero de hambre. &lt;PCNAME&gt;, si te doy una receta de pescado frito, &amp;#191;quieres prepararme un poco?&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de tres d&amp;#237;as perseverando en este lugar de pesca, todav&amp;#237;a no he atrapado nada.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Paparung hab&amp;#237;a ido al Lac des larmes a pescar, pero no se atrev&amp;#237;a a volver a casa con las manos vac&amp;#237;as. Resolviste el problema pescando peces para Paparung.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Vaya, eso es lo que yo llamo pescado frito.&lt;BR&gt;Crujiente por fuera y tierno por dentro.&lt;BR&gt;Estoy en el para&amp;#237;so.&lt;BR&gt;&lt;BR&gt;Vine aqu&amp;#237; para no quedarme todo el d&amp;#237;a en casa con los brazos cruzados. Pero despu&amp;#233;s de varios d&amp;#237;as, todav&amp;#237;a no he atrapado nada.&lt;BR&gt;Tengo una esposa y muchos hijos que alimentar.&lt;BR&gt;&amp;#191;No te gustar&amp;#237;a atrapar algunos peces por m&amp;#237;?&lt;BR&gt;Tengo la intenci&amp;#243;n de recompensarte.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Te suenan las anguilas?&lt;BR&gt;A mi esposa le encantan, pero nunca muerden mi anzuelo.&lt;BR&gt;&amp;#191;Podr&amp;#237;as atraparme 2 anguilas?&lt;BR&gt;Las encontrar&amp;#225;s en las aguas del Site de p&amp;#234;che du Lac des larmes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Maldici&amp;#243;n, tengo el est&amp;#243;mago pegado a la espalda. Pescado frito... Pescado frito... Pescado frito... Pescado frito... Pescado frito...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9906">
+        <Page social="2" voiceTypeId="0">&amp;#161;Gracias! Podr&amp;#233; volver a casa sin hacer el rid&amp;#237;culo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" villagerId="9906">
+        <Page social="0">&amp;#191;Has atrapado las 2 anguilas?&lt;BR&gt;No olvides que los diferentes peces requieren ca&amp;#241;as de pescar del rango apropiado.</Page>
+    </Text>
+</QuestDialog>

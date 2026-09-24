@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;, ya s&amp;#233; lo que quiero cocinar ahora! &lt;BR&gt;&amp;#161;Ven a verme a Island of Dawn!&lt;BR&gt;&lt;br&gt;Ollivang</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le llevaste la durignita de un fimbrilisk a Ollivang, quien te entreg&amp;#243; el segundo fragmento de la gema de la esperanza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, aqu&amp;#237; est&amp;#225;s!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mi pr&amp;#243;ximo platillo ser&amp;#225; &quot;helado magm&amp;#225;tico&quot;!&lt;BR&gt;Para prepararlo, necesito durignita de {@linkcreature:13#7005#fimbrilisk cruel}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Oh, s&amp;#237;, es una hermosa durignita!&lt;BR&gt;Ni siquiera est&amp;#225; tan caliente como parece, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Podr&amp;#233; preparar helado con ella.&lt;BR&gt;&lt;BR&gt;&amp;#161;Cuidado, quema!&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">El helado magm&amp;#225;tico es un manjar. &amp;#161;Esta experiencia gustativa te va a maravillar!&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; genio!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pru&amp;#233;balo r&amp;#225;pido, ya ver&amp;#225;s!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">Mis platillos est&amp;#225;n pensados para los gourmets.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Es al mismo tiempo caliente y fr&amp;#237;o, &amp;#191;verdad?&lt;BR&gt;&amp;#161;Es el efecto m&amp;#225;gico de la durignita de fimbrilisk!&lt;BR&gt;&lt;BR&gt;Ya intent&amp;#233; hacer pan con ella, pero estaba demasiado fr&amp;#237;o...&lt;BR&gt;&lt;BR&gt;As&amp;#237; fue como descubr&amp;#237; este efecto.&lt;NEXTPAGEBUTTON&gt;"¡Increíble!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Estuvo perfecto!&lt;BR&gt;&amp;#161;Apuesto a que la diosa Velik nunca ha saboreado preparaciones as&amp;#237;!&lt;BR&gt;&lt;BR&gt;Toma, aqu&amp;#237; tienes el segundo fragmento de gema que te promet&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;No olvides mostrarme la corona cuando est&amp;#233; completa!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="9005">
+        <Page social="0" voiceTypeId="0">La Corona de la Eternidad se vuelve cada vez m&amp;#225;s suntuosa.&lt;br&gt;&amp;#161;Es tan maravillosa como mi arte culinario! &amp;#161;Hum! &amp;#161;Hum!&lt;BR&gt;&lt;BR&gt;Te falta el tercer y &amp;#250;ltimo fragmento, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"¿Qué necesitas esta vez?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Es dif&amp;#237;cil elegir. &amp;#161;Tengo demasiadas ideas geniales zumbando en mi cabeza!&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; en cuanto elija un platillo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ya sabes d&amp;#243;nde encontrarme!</Page>
+    </Text>
+</QuestDialog>

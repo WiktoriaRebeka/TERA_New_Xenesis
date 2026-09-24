@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="453" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&lt;PCNAME&gt;, &amp;#161;ha pasado mucho tiempo desde nuestra &amp;#250;ltima conversaci&amp;#243;n! Espero que te encuentres bien.&lt;BR&gt;&lt;BR&gt;Tengo un favor que pedirte. Un amigo me pidi&amp;#243; ayuda, pero no puedo dejar a Eleon solo en este momento. Me preguntaba si podr&amp;#237;as ir en mi lugar y ayudar a mi amigo.&lt;BR&gt;&lt;BR&gt;Estoy seguro de que la recompensa estar&amp;#225; a la altura del tiempo y los esfuerzos invertidos.&lt;BR&gt;&lt;BR&gt;Mi amigo se llama Penrik. &amp;#161;Mu&amp;#233;strale esta carta y dile que te env&amp;#237;o yo!&lt;BR&gt;&lt;BR&gt;- Jelena</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="4501">
+        <Page social="4">&amp;#191;Qu&amp;#233; miras, extranjero? Vete antes de salir lastimado.&lt;NEXTPAGEBUTTON&gt;"Jelena me pidió que viniera."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Qu&amp;#233;? &amp;#191;Jelena te dio una carta para m&amp;#237;?&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame ver eso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="75" prevId="3" villagerId="4501">
+        <Page social="4">Hmm... Supongo que realmente eres un buen amigo de Jelena.&lt;BR&gt;&lt;BR&gt;Bien, parece que no me queda otra opci&amp;#243;n. Muy bien, s&amp;#237;gueme. Pero no puedo garantizarte que regreses en una sola pieza. Es muy peligroso.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="453" prevId="4" villagerId="4501">
+        <Page social="4">Escucha atentamente, el tiempo apremia.&lt;BR&gt;&lt;BR&gt;En los pr&amp;#243;ximos minutos, mis compa&amp;#241;eros llegar&amp;#225;n con un tesoro que recuperamos de un gigante de piedra. El gigante no estar&amp;#225; muy lejos detr&amp;#225;s de ellos. Necesitamos que retrases al gigante el tiempo suficiente para que transportemos el tesoro al otro lado del paso.&lt;BR&gt;&lt;BR&gt;Mis compa&amp;#241;eros esperan exactamente al otro lado de la barricada. &amp;#161;Cuando est&amp;#233;s listo, usa la palanca de ah&amp;#237; para avisarles que se preparen para combatir contra un gigante de piedra!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="453" prevId="5" villagerId="4511">
+        <Page social="6">Honestamente, no cre&amp;#237;a que pudieras enfrentarte a un gigante, pero Jelena te eligi&amp;#243; bien. Recu&amp;#233;rdame invitarte un trago uno de estos d&amp;#237;as.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes el dinero que le promet&amp;#237; a Jelena. Sal&amp;#250;dala de mi parte cuando la veas.</Page>
+    </Text>
+</QuestDialog>

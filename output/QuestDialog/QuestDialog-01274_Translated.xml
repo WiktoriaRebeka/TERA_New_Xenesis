@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="4">&amp;#191;Ves la torre que est&amp;#225; all&amp;#225; arriba, esa que escupe esa especie de suciedad azulada? Es la Aguja de Cyasma.&lt;BR&gt;&lt;BR&gt;Tengo que estudiarla para encontrar una forma de da&amp;#241;ar al enemigo, pero la entrada est&amp;#225; fuertemente resguardada. Necesito que vayas a matar al maestro de la aguja y a sus defensores kalashs. Si logras mantenerlos ocupados, podr&amp;#233; realizar todas mis investigaciones al mismo tiempo.&lt;BR&gt;&lt;BR&gt;Ve a ver a Ginea cuando hayas terminado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1024">
+        <Page social="6">Gracias a ti, hemos resistido, a la vez que debilitamos considerablemente al enemigo. Dudaba del &amp;#233;xito de una empresa as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n estamos a punto de localizar a la reina arg&amp;#243;n... Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"¿Alguna noticia de ella?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mi hermana menor le est&amp;#225; siguiendo la pista y cuento contigo para ayudarla. Ve a ponerte en contacto con {@LinkCreature:250#1006}, en el Puesto de Avanzada del Velo.&lt;BR&gt;&lt;BR&gt;Y por favor, cuida de mi hermana.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1006">
+        <Page social="6">Bienvenido a la frontera del territorio arg&amp;#243;n. Mi hermano habla de ti en t&amp;#233;rminos muy elogiosos.&lt;BR&gt;&lt;BR&gt;Pasemos a las cosas importantes.</Page>
+    </Text>
+</QuestDialog>

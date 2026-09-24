@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="4">Los monstruos que amenazan este puesto avanzado del Valle Maldito tienen muchos nombres. Sersine, hija de Karas, los conoce a todos, pero &lt;b&gt;Gregor&lt;/b&gt; les puso apodos a los que nos encontramos m&amp;#225;s seguido.&lt;BR&gt;&lt;BR&gt;Entre los m&amp;#225;s temibles est&amp;#225;n esos pesos pesados que llama &quot;Destructores&quot;. Su l&amp;#237;der Kugai patrulla todo el valle, pero Gregor not&amp;#243; una actividad anormal de los destructores al norte de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ve a hablar con &amp;#233;l y determina la magnitud de la amenaza para nuestra misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Esas horribles criaturas de dos cabezas son una aut&amp;#233;ntica amenaza. Me sorprende que est&amp;#233;s intacto. Perrin tiene raz&amp;#243;n en preocuparse: los {@LinkCreature:13#9#destructeurs} jugaron un papel muy importante en el ataque que sufri&amp;#243; la primera expedici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Hay tantos... que es solo cuesti&amp;#243;n de tiempo antes de que vuelvan a atacar. &amp;#191;Quieres hacernos un gran favor y formar parte de verdad de los nuestros? Ve a acabar con unos cuantos.&lt;BR&gt;&lt;BR&gt;Dales el mensaje: tenemos la intenci&amp;#243;n de quedarnos aqu&amp;#237;. Este lugar nos ha costado demasiado como para abandonarlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1028">
+        <Page social="4">Me enorgullece servir a tu lado, camarada. La mitad de la poblaci&amp;#243;n de la Base de la Torre nunca ha salido de all&amp;#237;. No han hecho nada comparado con nosotros.&lt;BR&gt;&lt;BR&gt;&amp;#161;Seguimos ocupando este puesto avanzado para mostrar nuestro desprecio por las fuerzas demon&amp;#237;acas presentes en el Valle Maldito!&lt;BR&gt;&lt;BR&gt;Ve a contarle tus haza&amp;#241;as a Perrin, te dir&amp;#225; lo mismo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1143">
+        <Page social="4">&lt;PCNAME&gt;, eres el orgullo de la Federaci&amp;#243;n Valkyon. Nadie puede decir que no te has ganado tu lugar entre nosotros, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

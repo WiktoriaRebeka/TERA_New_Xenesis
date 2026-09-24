@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">Aqu&amp;#237; es donde llegan los suministros de la Federaci&amp;#243;n antes de ser redistribuidos.&lt;BR&gt;&lt;BR&gt;Estos suministros deben llegar a {@Rgn:24013$$Fortin de la Cath&amp;#233;drale}, pero a decir verdad, nos faltan manos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a pedir refuerzos a {@LinkCreature:225#1008$$Jahdami} del {@Rgn:24013$$Fortin de la Cath&amp;#233;drale}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1008">
+        <Page social="4">Comprendo bien el problema de {@LinkCreature:225#1006$$Orlaith}. De verdad necesitamos suministros desesperadamente, pero no podemos darnos el lujo de enviarle refuerzos.&lt;BR&gt;&lt;BR&gt;Si puedes echarnos una mano, las cosas quiz&amp;#225;s mejoren. Por favor, ay&amp;#250;danos a salir de esta.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="1">&lt;PCCLASS&gt;, me gustar&amp;#237;a hablar con usted.&lt;BR&gt;&lt;BR&gt;Los ghilliedhus ra&amp;#237;z azul est&amp;#225;n en flor, y su pollen puede causar irritaci&amp;#243;n a quienes son al&amp;#233;rgicos a &amp;#233;l.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puede preguntarle a Lashinuk si existe un tratamiento?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Ah, s&amp;#237;. El polen es un mecanismo de defensa. Afortunadamente, existe un tratamiento.&lt;BR&gt;&lt;BR&gt;Puedo prepararlo si va al {@Rgn:30005$$Jardin de Seren} para conseguir algunas sombras de luna.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">Hay muchas.&lt;BR&gt;&lt;BR&gt;Los Altos Elfos hacen t&amp;#233; con sus hojas secas, pero si las machaca a&amp;#250;n frescas, producen un ung&amp;#252;ento calmante.&lt;BR&gt;&lt;BR&gt;D&amp;#233;jeme triturarlas.&lt;NEXTPAGEBUTTON&gt;"Qué aroma."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">&amp;#191;A que s&amp;#237;?&lt;BR&gt;&lt;BR&gt;Apl&amp;#237;quese esto dos d&amp;#237;as al d&amp;#237;a. Deber&amp;#237;a disminuir la irritaci&amp;#243;n muy r&amp;#225;pidamente.&lt;BR&gt;&lt;BR&gt;Oh, &amp;#191;es para un amigo suyo? No lo dudo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">&amp;#191;Ha encontrado sombras de luna?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1006">
+        <Page social="1">Que los titanes sean loificados, est&amp;#225;s aqu&amp;#237;. La comez&amp;#243;n me estaba volviendo loco.&lt;BR&gt;&lt;BR&gt;Perdona mi brusquedad, pero acepta todo mi agradecimiento. Vete ahora, debo untarme esto.</Page>
+    </Text>
+</QuestDialog>

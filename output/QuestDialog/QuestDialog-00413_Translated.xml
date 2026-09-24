@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine te envi&amp;#243;{@g:/e} en una expedici&amp;#243;n para intentar descubrir un posible v&amp;#237;nculo entre los Kariagons y los Discoupeurs, y regresaste{@g:/e} con pruebas de una oscura conspiraci&amp;#243;n que involucra a Lok, un dios difunto.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Elion ten&amp;#237;a raz&amp;#243;n, el Valle maldito es menos inofensivo de lo que pens&amp;#225;bamos. Si deseas cambiar las cosas aqu&amp;#237;, debes aprovechar las oportunidades que se presentan.&lt;BR&gt;&lt;BR&gt;Hacia el este, nos encontramos con criaturas sobre las cuales necesitamos saber m&amp;#225;s. Los {@linkcreature:13#6#Kariagons} rara vez se desplazan sin estar rodeados de esbirros. En la regi&amp;#243;n, han reducido a la esclavitud a los Terrons, un pueblo normalmente pac&amp;#237;fico. Obran en conjunto con los {@linkcreature:13#7#Discoupeurs} que rodean este campamento y es muy probable que todo esto est&amp;#233; relacionado.&lt;BR&gt;&lt;BR&gt;Mata a tantos como sea posible para descubrir qu&amp;#233; los conecta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Mjum... esto es inesperado. Se trata de copias id&amp;#233;nticas de un objeto ancestral, hoy prohibido.&lt;BR&gt;&lt;BR&gt;&amp;#191;Todav&amp;#237;a se ense&amp;#241;a la leyenda de Lok en tu tierra natal, &lt;PCNAME&gt;? Porque si este oscuro dios regresara, como afirma la profec&amp;#237;a, los demonios ser&amp;#237;an el menor de nuestros problemas.&lt;NEXTPAGEBUTTON&gt;"¿Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">S&amp;#237;, Lok, el dios de las traiciones. Estos amuletos hacen mucho m&amp;#225;s que simplemente controlar criaturas. Las corrompen desde adentro. Y estas fueron fabricadas hace poco, lo que significa que el problema se extiende mucho m&amp;#225;s all&amp;#225; de Island of Dawn.&lt;BR&gt;&lt;BR&gt;Has trabajado bien hoy, pero mucho me temo que estamos lejos de haber terminado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">Es imperativo que descubramos qu&amp;#233; conecta a los Kariagons con los Discoupeurs. Por favor, lleva tu misi&amp;#243;n a buen t&amp;#233;rmino.</Page>
+    </Text>
+</QuestDialog>

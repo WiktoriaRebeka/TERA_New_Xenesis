@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="4">{@LinkCreature:34#5001#Kaijas} ser jefe de otros wendigos. &amp;#201;l no querer compartir fragmentos.&lt;BR&gt;&lt;BR&gt;Si t&amp;#250; matarlo, otros wendigos tal vez estar de acuerdo para escuchar a Krrevaas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1015">
+        <Page social="4">El honor ser m&amp;#225;s importante que la fuerza. Madyar tener honor, &lt;PCNAME&gt; tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Krrevaas va a hablar con los wendigos. Hablar&amp;#225; de compartir fragmentos con tu pueblo.&lt;NEXTPAGEBUTTON&gt;&lt;B&gt;"Yo también lo haré."&lt;/B&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Entonces nosotros decir adi&amp;#243;s como aliados. Cuando pr&amp;#243;xima vez vernos, Krrevaas esperar que seamos amigos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1015">
+        <Page social="0">Ambos bandos perder si fragmentos desaparecer. Ya no quedar mucho tiempo para trabajar juntos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="3" villagerId="1009">
+        <Page social="4">&amp;#191;Regresas al puesto en la Base de Hielo del Acechador? Creo que ser&amp;#237;a mejor que me quedara aqu&amp;#237; para ayudar a los wendigos. Dale las gracias a Lalash de mi parte por preocuparse por m&amp;#237;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="5" villagerId="1005">
+        <Page social="4">Tantos combates y dolores por esquirlas de cristal.&lt;BR&gt;&lt;BR&gt;Entiendo perfectamente lo que Madyar quiere decir, no somos los &amp;#250;nicos habitantes de este mundo. Hablar&amp;#233; con el Pretorian sobre tus informes. Tal vez pueda cambiar de pol&amp;#237;tica a tiempo para evitar la cat&amp;#225;strofe.&lt;BR&gt;&lt;BR&gt;&amp;#161;Rompen filas!</Page>
+    </Text>
+</QuestDialog>

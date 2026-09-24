@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="743" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vous avez reçu une lettre du Mysterium, vous appelant à l'aide. Votre équipe est entrée dans Wonderholme et a battu le Bandersnatch et ses troupes abreuvées de noctenium pour libérer Aliss et les autres scientifiques.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Très {@gender:cher/chère}  &lt;PCName&gt;,&lt;BR&gt;&lt;BR&gt;Je suis Adonis, maître du Mysterium. Dans mon empressement de débuter l'exploration d'un immense château bâti en noctenium, j'ai peut-être envoyé mes hommes aux devants d'un grand péril. Aliss, la plus experte de mes spécialistes en noctenium a disparu avec ses associés et je n'arrive pas à les contacter ou les sortir de là.&lt;BR&gt;&lt;BR&gt;Si vos pas vous guident aux alentours de Wonderholme, dans le district de Veritas, pourriez-vous m'aider à mettre sur pied une mission de sauvetage de mes hommes&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;‐‐Maître Adonis</Page>
+    </Text>
+    <Text id="3" huntingZoneId="743" prevId="2" villagerId="44435">
+        <Page social="4">No te dejes enga&amp;#241;ar por mi apariencia. Fui investigador en el Mysterium hasta que este lugar me convirti&amp;#243; en lo que soy hoy.&lt;BR&gt;&lt;BR&gt;Pero si no has venido por m&amp;#237;, &amp;#191;entonces por qui&amp;#233;n, o por qu&amp;#233;&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"He recibido una carta en la que se me pide ayuda."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, vous devez être la personne dont m'a parlé Adonis. Je vous attendais.&lt;BR&gt;&lt;BR&gt;Cet endroit s'appelle Wonderholme. Ses murs en noctenium ont créé des bêtes puissantes et des pièges diaboliques.&lt;BR&gt;&lt;BR&gt;Nous sommes venus ici pour étudier les effets du noctenium mais les habitants étaient bien trop puissants et j'ai fini corrompu comme eux. Le propriétaire du donjon s'est autoproclamé roi du monde et retient notre chef scientifique, Aliss, prisonnier. S'il vous plaît, libéré Aliss.&lt;BR&gt;&lt;BR&gt;Dès que vous serez en haut des escaliers, les ennemis vont se précipiter sur Restez sur vos gardes et vous les vaincrez&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Bonne chance&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="743" prevId="3" villagerId="44432">
+        <Page social="0">Merci beaucoup.&lt;BR&gt;&lt;BR&gt;Si vous n'étiez pas venu, je n'aurais pas pu sauver Aliss. Le sorcier s'est emparé de noctenium appartenant au Mysterium. Il est important de le lui retirer des mains. &lt;BR&gt;&lt;BR&gt;Par la présente, je vous remercie pour votre service.&lt;BR&gt;&lt;BR&gt;Vous avez gagné le titre de Défenseur de la Science, un titre éminemment respectable au sein du Mysterium.&lt;BR&gt;&lt;BR&gt;Votre exploit du jour ne sera jamais oublié&amp;nbsp;!</Page>
+    </Text>
+</QuestDialog>

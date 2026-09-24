@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="0">Los vampiros y los descendientes de Lok estaban en el ajo y fabricaban las Rage piedras m&amp;#225;gicas responsables de la enfermedad. Te enteraste de que la Mansi&amp;#243;n Siniestra albergaba el generador de piedras m&amp;#225;gicas y buscas una manera de entrar en la mansi&amp;#243;n con Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Por orden de Volperon, el duque de los vampiros, el conde y la condesa montan guardia constantemente alrededor de la mansi&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Primero debemos encontrar al &lt;BR&gt; y a la {@LinkObject:5#cercueil de la comtesse} y eliminarlos. Si lo logramos, el duque no podr&amp;#225; detectarnos. Solo se dar&amp;#225; cuenta de nuestra presencia cuando estemos dentro de la mansi&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Echar&amp;#233; un vistazo en el pasaje secreto de la {@linkcreature:216#1028#zone inf&amp;#233;rieure du Manoir sinistre}.&lt;BR&gt;&lt;BR&gt;Elimina al duque, a la condesa y al conde y encu&amp;#233;ntrame en {@linkcreature:216#1028#l&amp;#224;-bas}. &amp;#191;Entendido?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1028">
+        <Page social="4" voiceTypeId="0">&amp;#161;Muy bien! Entremos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; gran trabajo!</Page>
+    </Text>
+</QuestDialog>

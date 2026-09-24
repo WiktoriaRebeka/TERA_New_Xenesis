@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Soy {@linkcreature:63#3001#Barian}, miembro de Mains de Velika.&lt;BR&gt;&lt;BR&gt;Hace alg&amp;#250;n tiempo, la noticia de tus proezas lleg&amp;#243; a Velika, y los rumores sobre tus haza&amp;#241;as se extendieron como la p&amp;#243;lvora. Por eso recurrimos a ti. Mains de Velika forma un consorcio de comerciantes &amp;#250;nico en su g&amp;#233;nero. Como miembros distinguidos de la sociedad, deseosos de vivir hasta una edad avanzada, creemos que, en los tiempos que corren, es necesario encargarse de toda clase de tareas. &lt;BR&gt;&lt;BR&gt;Velika es una gran ciudad y hay mucho por hacer en tiempos de guerra. Tus talentos ser&amp;#237;an esenciales para nuestra causa que, por consiguiente, tambi&amp;#233;n es la tuya. &amp;#191;Aceptas ayudarnos?&lt;BR&gt;&lt;BR&gt;Ven a hablar conmigo si decides encargarte de una misi&amp;#243;n en este asunto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Gracias. Seguramente nuestros caminos se cruzar&amp;#225;n de nuevo muy a menudo.</Page>
+    </Text>
+</QuestDialog>

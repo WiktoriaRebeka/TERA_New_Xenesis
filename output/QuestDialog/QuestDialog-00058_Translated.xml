@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, tu nombre est&amp;#225; en boca de todos aqu&amp;#237;. &amp;#161;Aparentemente eres la mejor recluta que tenemos, lo cual no es poca cosa dado el elevado n&amp;#250;mero de nuevas reclutas de las que disponemos!&lt;BR&gt;&lt;BR&gt;Te mereces unos cuantos billetes de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;No sabes qu&amp;#233; hacer con ellos? &amp;#161;Preg&amp;#250;ntale a {@linkcreature:60#9000} en Boquillon!&lt;BR&gt;&lt;BR&gt;-Samael</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="9000">
+        <Page social="0">&amp;#191;T&amp;#250; &lt;PCNAME&gt;? Mmm. Bien merecido.&lt;BR&gt;&lt;BR&gt;El comandante Samael dijo que esto era para ti.&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes c&amp;#243;mo usar los billetes de la Federaci&amp;#243;n? Bien, es bastante f&amp;#225;cil. Los cambias por el objeto que te interese, siempre y cuando el mercader acepte los billetes de la Federaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">Los mercaderes besharans han entrenado {@LinkCreature:41#3001#orisks &amp;#233;corcheurs} para proteger las rutas para ellos. No podremos cazar a los mercaderes si no eliminamos a estos monstruos primero.&lt;BR&gt;&lt;BR&gt;Ah&amp;#237; es donde entras t&amp;#250;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#161;Bien hecho! Los d&amp;#237;as de los mercaderes besharans est&amp;#225;n contados.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1007">
+        <Page social="0">No olvides que vamos a atacarlos. Sin los {@LinkCreature:41#3001#orisks &amp;#233;corcheurs}, los mercaderes besharans son vulnerables.</Page>
+    </Text>
+</QuestDialog>

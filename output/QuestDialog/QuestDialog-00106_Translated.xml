@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Ser&amp;#237;a poco prudente enviarte a la arena sin saber de qu&amp;#233; eres capaz.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que te estoy observando: mu&amp;#233;strame de qu&amp;#233; est&amp;#225;s hecho.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:4#2011#rejetons &amp;#224; crocs voraces} servir&amp;#225;n perfectamente. Tr&amp;#225;eme sus corazones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Si buscabas hacer una demostraci&amp;#243;n del concepto de &quot;soltura&quot;, entonces ha sido todo un &amp;#233;xito, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La mayor&amp;#237;a de los soldados que llegan aqu&amp;#237; tienen muchos m&amp;#225;s problemas con los v&amp;#225;stagos con colmillos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1003">
+        <Page social="0">Si te crees demasiado talentoso para una peque&amp;#241;a evaluaci&amp;#243;n, escucha esto: &amp;#161;tu arrogancia es parte de la evaluaci&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

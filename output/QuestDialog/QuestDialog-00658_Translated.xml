@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">Hay informes sobre la presencia de {@LinkCreature:23#25#officiers de gu&amp;#233;rilla} y de {@LinkCreature:23#19#rebelles poporis} alrededor del lago. Tal vez est&amp;#233;n all&amp;#237; como exploradores para preparar un ataque o para espiarnos. No importa... &amp;#161;Deben morir!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mientras nos observan, pers&amp;#237;guelos y elim&amp;#237;nalos a todos! &amp;#161;Ninguna piedad para los traidores a la patria!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">Quienes traicionan al reino insultan a la naturaleza misma. Se han ganado su destino.&lt;BR&gt;&lt;BR&gt;El general {@LinkCreature:223#1003#Menani} pregunt&amp;#243; c&amp;#243;mo te iba. Ve a presentarle tu informe r&amp;#225;pidamente.&lt;BR&gt;&lt;BR&gt;&amp;#161;No le hagas perder el tiempo, &lt;PCNAME&gt;. Lim&amp;#237;tate a los hechos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1003">
+        <Page social="5">En este periodo oscuro para nuestro reino, tus esfuerzos quiz&amp;#225;s permitan poner fin a este conflicto absurdo y devolverle la estabilidad a Poporia. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

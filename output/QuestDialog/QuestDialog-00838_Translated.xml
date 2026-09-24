@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="4">Mi marido muri&amp;#243; protegiendo Acarum. Los {@LinkCreature:32#3#berserkers sihrans} le cortaron las manos y lo dejaron desangrarse.&lt;BR&gt;&lt;BR&gt;Su esp&amp;#237;ritu me persigue, me suplica que le haga justicia. S&amp;#233; lo que quiere, pero soy incapaz de hacerlo, y todos en el pueblo me creen loca y no me ayudar&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Su petici&amp;#243;n es simple: mata a los {@LinkCreature:32#3#berserkers sihrans}, c&amp;#243;rtales las manos y entr&amp;#233;gaselas al esp&amp;#237;ritu de Batuk en Mont Tyrannas.&lt;BR&gt;&lt;BR&gt;Toma, vas a necesitar esta bolsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1006">
+        <Page social="4">(El camino hacia la tumba est&amp;#225; muy desgastado por los pasos de los viajeros. Colocas la bolsa de manos en un lugar ya manchado de sangre. &amp;#191;Qu&amp;#233; est&amp;#225; pasando aqu&amp;#237;?)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1006">
+        <Page social="0">(Batuk muri&amp;#243; en Passe redoutable.&lt;BR&gt;&lt;BR&gt;Mata a los {@LinkCreature:32#3#berserkers} y a los {@LinkCreature:32#1#combattants} sihrans que lo asesinaron y toma sus manos.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1019">
+        <Page social="4">Le cre&amp;#237;ste, &amp;#191;eh? Ya no es la misma desde que muri&amp;#243; Batuk. Est&amp;#225; como atormentada.&lt;BR&gt;&lt;BR&gt;Env&amp;#237;a gente a buscar manos. Al menos son las de los sihrans... y no las de alguien m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;&amp;#191;Pero esto queda entre nosotros? Gracias.</Page>
+    </Text>
+</QuestDialog>

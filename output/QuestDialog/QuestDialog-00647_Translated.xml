@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="5">Los Poporis necesitan suministros y Velika tarda una eternidad en traer lo necesario. Creo que tendremos que encargarnos nosotros mismos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Derrota a unos cuantos {@LinkCreature:23#2#ghilliedhus bois-ferreux} y consigue su corteza! Con eso podemos hacer unos escudos aceptables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1012">
+        <Page social="5">Con esto podr&amp;#233; mandar a fabricar escudos.&lt;BR&gt;&lt;BR&gt;Hoy has salvado vidas, &lt;PCNAME&gt;. Espero que esto te valga un traslado a una regi&amp;#243;n con m&amp;#225;s acci&amp;#243;n que esta.&lt;BR&gt;&lt;BR&gt;Pero bueno, los peque&amp;#241;os esfuerzos de hoy preparan las grandes victorias de ma&amp;#241;ana.&lt;BR&gt;&lt;BR&gt;Al menos eso espero.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1012">
+        <Page social="0">S&amp;#233; que no es una tarea muy gloriosa, pero los Poporis son nuestros aliados. Debemos hacer todo lo posible para ayudarles.&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que vuelve al trabajo y tr&amp;#225;eme corteza!</Page>
+    </Text>
+</QuestDialog>

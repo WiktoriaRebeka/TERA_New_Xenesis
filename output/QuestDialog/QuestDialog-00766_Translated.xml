@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">Si eres {@gender:int&amp;#233;ress&amp;#233;/int&amp;#233;ress&amp;#233;e}, tengo otro proyecto. Este mapa del {@Rgn:30001#refuge} fue trazado hace mucho tiempo por el clan de {@Creature:230#1007$$Lashinuk}, los Consos.&lt;BR&gt;&lt;BR&gt;Este {@Rgn:30007#Pavillon} albergaba un ej&amp;#233;rcito de golems.&lt;NEXTPAGEBUTTON&gt;"¿Y?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Y los {@LinkCreature:30#180#conservateurs de laiton} contienen en su n&amp;#250;cleo instrucciones para mantener el refugio. Desafortunadamente, su sistema de autorreparaci&amp;#243;n se est&amp;#225; derrumbando.&lt;BR&gt;&lt;BR&gt;Si queremos reemplazar los golems, debemos saber lo que saben.&lt;BR&gt;&lt;BR&gt;Consigue algunos n&amp;#250;cleos de {@LinkCreature:30#180#conservateurs de laiton} para que pueda descodificarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1005">
+        <Page social="1">&amp;#161;Magn&amp;#237;fico! &amp;#161;N&amp;#250;cleos de conservadores en buen estado!&lt;BR&gt;&lt;BR&gt;Si pasas por el Camp de la Clairvoyance, invita a Sestena a unirse a m&amp;#237; para examinarlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1005">
+        <Page social="0">Estos n&amp;#250;cleos, si los obtenemos intactos, har&amp;#225;n avanzar enormemente nuestros esfuerzos para proteger y reparar este refugio.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1019">
+        <Page social="1">&amp;#191;Naisas tiene un n&amp;#250;cleo en buen estado? &amp;#191;Varios?&lt;BR&gt;&lt;BR&gt;Formidable. Es un avance sin precedentes para nosotros, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

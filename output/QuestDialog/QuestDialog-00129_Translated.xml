@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Si vas a Boquillon, ve a hablar con Tomba. Tomba es originaria del Marais tuwangi. Sin duda est&amp;#225;n teniendo problemas.&lt;BR&gt;&lt;BR&gt;Que los tuwangis pidan ayuda no tiene nada de excepcional. Sin embargo, el Marais tuwangi es un lugar encantador. No hay nada mejor para relajarse.&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:60#1099} a {@Rgn:60001}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1099">
+        <Page social="0">Vengo de un lugar que los humanos llaman Marais Tuwangi. Normalmente, los tuwangis que viven all&amp;#237; son amigables...&lt;BR&gt;&lt;BR&gt;Pero la mayor&amp;#237;a han perdido la raz&amp;#243;n. Cazan a los humanos y se les ha metido en la cabeza convertirse en los reyes y reinas del mundo. Yo no soy como ellos... detesto el combate. Si los tuwangis van a la guerra, van a salir aplastados.&lt;BR&gt;&lt;BR&gt;Puedo guiarte hacia los pantanos. Ve a ver a {@LinkCreature:205#1017#Rathe} y dile que vienes a detener a los tuwangis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1017">
+        <Page social="5">A juzgar por los tuwangis locales, deber&amp;#237;amos prepararnos para alg&amp;#250;n tipo de apocalipsis, y tan pronto como se cruzan con alguien que lleva un arma, le suplican a esa persona que vaya a hacerles los recados al pantano.&lt;BR&gt;&lt;BR&gt;Pero en la realidad de las cosas, el Marais Tuwangi es solo un lugar donde uno se aburre soberanamente... Los tuwangis de por ah&amp;#237; son bastante amigables. De los que debes cuidarte es de aquellos que abandonaron la regi&amp;#243;n antes de volver.</Page>
+    </Text>
+</QuestDialog>

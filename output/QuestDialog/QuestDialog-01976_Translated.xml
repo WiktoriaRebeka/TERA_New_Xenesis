@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;, ya s&amp;#233; lo que quiero cocinar ahora! &lt;BR&gt;&amp;#161;Ven a verme a Island of Dawn!&lt;BR&gt;&lt;br&gt;Ollivang</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le trajiste la bolsa &amp;#237;gnea de cr&amp;#237;a de colmillos c&amp;#225;usticos a Ollivang y obtuviste el tercer y &amp;#250;ltimo fragmento de la gema de la esperanza.&lt;BR&gt;&lt;BR&gt;Ataste la gema a la Corona de la Eternidad y le llevaste una lonchera de Ollivang a Mirriva.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Hola, &lt;PCNAME&gt;!&lt;BR&gt;&amp;#161;Mi pr&amp;#243;ximo platillo ser&amp;#225;n &quot;alas infernales&quot;!&lt;BR&gt;Para prepararlas, necesito una bolsa &amp;#237;gnea de {@linkcreature:13#7006#rejeton &amp;#224; crocs caustique}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Conf&amp;#237;o en ti!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Muchas gracias!&lt;BR&gt;&lt;BR&gt;&amp;#161;A&amp;#250;n no la meto al horno y ya est&amp;#225; hirviendo!&lt;BR&gt;&lt;BR&gt;&amp;#161;En Arborea no hay nada como una bolsa &amp;#237;gnea de cr&amp;#237;a de colmillos para mantener viva la llama!&lt;BR&gt;&lt;BR&gt;&amp;#161;Un momento, por favor!&lt;NEXTPAGEBUTTON&gt;"Espero pacientemente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Por las barbas de... ! &amp;#161;Casi quemo mi barba!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ven a probar el nuevo platillo de &quot;alas infernales&quot;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">Mis platillos est&amp;#225;n pensados para los gourmets.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Esta bolsa llameante contiene una potencia de fuego considerable. &amp;#161;Debo tener mucho cuidado o podr&amp;#237;a prenderle fuego a todo!&lt;BR&gt;&lt;BR&gt;Pero soy tanto chef como un genio, &amp;#161;as&amp;#237; que s&amp;#233; exactamente en qu&amp;#233; momento retirar la carne del horno para que desprenda aromas extraordinarios!&lt;NEXTPAGEBUTTON&gt;"La carne es deliciosa, pero la salsa pica bastante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, es bueno saberlo!&lt;BR&gt;&lt;BR&gt;No estaba del todo seguro con la salsa. Voy a suavizarla un poco.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias por el consejo!&lt;BR&gt;Ya termin&amp;#233; de preparar todos los platos para la fiesta. Ahora solo me quedan los m&amp;#225;s f&amp;#225;ciles de hacer.&lt;NEXTPAGEBUTTON&gt;"¿Te vas a regresar ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">S&amp;#237;, como dec&amp;#237;a, ya termin&amp;#233; mi men&amp;#250; especial.&lt;BR&gt;&lt;BR&gt;Prepar&amp;#233; una lonchera para Mirriva. Puedes llev&amp;#225;rsela.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y claro que tambi&amp;#233;n tengo una para ti!&lt;BR&gt;&lt;BR&gt;Y aqu&amp;#237; tienes el &amp;#250;ltimo fragmento de la gema de la esperanza. &amp;#161;Ya me imagino a la diosa Velik con la corona de la eternidad puesta mientras degusta mis platos!&lt;BR&gt;&lt;BR&gt;Me voy a Velika.&lt;BR&gt;&amp;#161;Muchas gracias de nuevo!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#191;Ollivang te dio esto para m&amp;#237;? &lt;BR&gt;&lt;BR&gt;(Abre la lonchera y la prueba).&lt;BR&gt;&amp;#161;Mmmm! &amp;#161;Est&amp;#225; realmente delicioso! &amp;#161;Ya no tendr&amp;#233; que preocuparme por el banquete de la fiesta!&lt;BR&gt;&lt;BR&gt;&amp;#191;Con qu&amp;#233; rayos habr&amp;#225; preparado estos platillos?&lt;NEXTPAGEBUTTON&gt;"Puedo explicarte todo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Aj&amp;#225;! Trituras el n&amp;#250;cleo de un golem de cr&amp;#237;a brutal... y...&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;Y la bolsa llameante de un prole con colmillos c&amp;#225;usticos y la durignita de un fimbrilisk cruel?! &amp;#191;Eh?&lt;NEXTPAGEBUTTON&gt;"¿Hay algún problema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tengo que hablar con Ollivang.&lt;BR&gt;&lt;BR&gt;Tal vez unos platos m&amp;#225;s cl&amp;#225;sicos sean m&amp;#225;s adecuados para la fiesta...&lt;BR&gt;&lt;BR&gt;Voy a coment&amp;#225;rselo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias y buen trabajo!&lt;br&gt;&lt;BR&gt;&amp;#191;Tienes la gema de la esperanza?&lt;NEXTPAGEBUTTON&gt;"¡Míralo tú mismo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Oh, est&amp;#225; casi completa!&lt;br&gt;&lt;BR&gt;&amp;#161;Toma! En agradecimiento por el esfuerzo que est&amp;#225;s haciendo.&lt;br&gt;Espero que esto te ayude a progresar a&amp;#250;n m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; en cuanto sevillano sepa algo m&amp;#225;s sobre otra piedra preciosa.&lt;BR&gt;&lt;BR&gt;Hasta pronto, protector.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

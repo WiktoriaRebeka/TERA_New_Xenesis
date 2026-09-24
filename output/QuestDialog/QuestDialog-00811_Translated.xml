@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">Los gritos de los {@LinkCreature:31#22#sir&amp;#232;nes hurle-givre} que merodean a lo largo de la costa son el origen de la brisa helada que azota nuestras tierras.&lt;BR&gt;&lt;BR&gt;&amp;#161;Si la temperatura sigue bajando, los hombres que fueron a explorar los naufragios se congelar&amp;#225;n en el lugar! Matar a las sirenas bramido helado no har&amp;#225; que suba la temperatura, pero deber&amp;#237;a estabilizarla.&lt;BR&gt;&lt;BR&gt;Cuando termines, &amp;#191;podr&amp;#237;as ir al campamento ubicado al sur del Lago Escarcha para ver c&amp;#243;mo les va a Tantan y a su equipo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1025">
+        <Page social="4">&amp;#191;Ah? &amp;#191;Qui&amp;#233;n eres? &amp;#191;Vienes para una capacitaci&amp;#243;n acelerada de exploraci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;Ah, Halwyn te env&amp;#237;a. Goratong y yo estamos bien. Bueno, mejor desde que esas sirenas bramido helado se calmaron. Gracias por tu preocupaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Ok. Hasta luego.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Oye, espera! &amp;#191;Te tienta ganar un poco de dinero?</Page>
+    </Text>
+</QuestDialog>

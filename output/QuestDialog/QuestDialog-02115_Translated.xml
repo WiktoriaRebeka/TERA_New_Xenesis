@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Nuestros exploradores se han topado con {@LinkCreature:418#2008#condensateurs vendrons} en las Catacumbes argones. Estos aparatos proporcionan la energ&amp;#237;a necesaria para las unidades argon en la superficie.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} sabe d&amp;#243;nde encontrarlos.&lt;BR&gt;&lt;BR&gt;Tu misi&amp;#243;n consistir&amp;#225; en destruirlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2002">
+        <Page social="4">&amp;#191;Los {@LinkCreature:418#2008#condensateurs vendrons}?&lt;BR&gt;&lt;BR&gt;Se encuentran al norte de aqu&amp;#237;, pero cuidado, no son simples montones de chatarra que se pueden partir de un tajo de espada. Los argon har&amp;#225;n todo lo posible para protegerlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2002">
+        <Page social="4">&amp;#161;Hah! &amp;#161;Sus condensadores est&amp;#225;n fuera de servicio! &amp;#161;Puede que los argon no lleven la ventaja la pr&amp;#243;xima vez!&lt;BR&gt;&lt;BR&gt;&amp;#161;Larga vida al Shariar!</Page>
+    </Text>
+</QuestDialog>

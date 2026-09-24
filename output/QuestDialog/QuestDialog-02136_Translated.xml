@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Los g&amp;#243;lems del {@Rgn:30008$$niveau inf&amp;#233;rieur des archives} vuelven a dar que hablar.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3004#Kurda} los ha identificado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">Algunos guardianes que los dioses pusieron ah&amp;#237; no funcionan muy bien.&lt;BR&gt;&lt;BR&gt;Algunos no dejaron de funcionar como estaba previsto, otros simplemente bajaron el ritmo.&lt;BR&gt;&lt;BR&gt;Y hoy, este me bloquea el camino.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">La poda no se est&amp;#225; realizando correctamente.&lt;BR&gt;&lt;BR&gt;Y no logro averiguar c&amp;#243;mo reprogramar este trasto.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="3004">
+        <Page social="4">Antes estaba lleno de eso. Pero cuando el refugio reabri&amp;#243; sus puertas, todo desapareci&amp;#243;.&lt;BR&gt;&lt;BR&gt;Pero algunos espec&amp;#237;menes intentan regresar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3004">
+        <Page social="4">Pienso que este guardi&amp;#225;n estaba apostado en el Nivel inferior de los Archivos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Seguro que ni siquiera se dan cuenta de que se han ido!</Page>
+    </Text>
+</QuestDialog>

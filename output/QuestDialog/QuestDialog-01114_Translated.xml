@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">En la parte oeste de la C&amp;#225;mara de los Muertos, mis exploradores han visto a algo que llaman {@LinkCreature:42#5002#Tragoleth} al frente de los soldados esquel&amp;#233;ticos.&lt;BR&gt;&lt;BR&gt;Preferir&amp;#237;amos que evitaran organizarse m&amp;#225;s, as&amp;#237; que si &lt;PCNAME&gt; tiene la intenci&amp;#243;n de eliminarlo...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Buen trabajo. &amp;#161;Siempre es un placer premiar los actos de valent&amp;#237;a, y enfrentarse a Tragoleth fue uno de ellos! Toma, y haz buen uso de esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Cuanto m&amp;#225;s r&amp;#225;pido mates a Tragoleth, m&amp;#225;s r&amp;#225;pido tendr&amp;#225;n que buscarse un nuevo l&amp;#237;der los soldados esquel&amp;#233;ticos.</Page>
+    </Text>
+</QuestDialog>

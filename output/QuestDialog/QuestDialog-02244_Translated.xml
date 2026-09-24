@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="0">Vous avez aidé Millia à réaliser son calendrier d'agriculteur.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="4">Les Terres libres sont réputées pour leurs spécialités. J'aimerais créer un calendrier d'agriculteur pour le vendre, mais je suis trop occupée&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, voulez-vous bien m'aider&amp;nbsp;? Je vous y mentionnerai comme {@gender:collaborateur/collaboratrice}. Réfléchissez-y bien, cette idée pourrait bien faire fureur&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Je veux bien en être, à condition d'être &amp;quot;coauteur&amp;quot;.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ça marche&amp;nbsp;! Voici ce que j'ai réuni pour le moment. Il vous suffit de remplir les parties manquantes.&lt;BR&gt;&lt;BR&gt; La structure générale est achevée. Il ne vous reste donc qu'à ramasser des fruits et légumes et de les entrer dans les pages appropriées.&lt;BR&gt;&lt;BR&gt;Merci beaucoup&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7006">
+        <Page social="4">Comment le calendrier d'agriculteur avance-t-il&amp;nbsp;? Voyons voir ce que vous avez déjà...&lt;BR&gt;&lt;BR&gt;Vous avez fini&amp;nbsp;! C'est super&amp;nbsp;! Merci beaucoup, &lt;PCNAME&gt;, je ferai en sorte que vous soyez coauteur.&lt;BR&gt;&lt;BR&gt;En attendant, acceptez ceci en remerciement. Je pense que cela vous sera très utile.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7006">
+        <Page social="0">Alors, &lt;PCNAME&gt;, où en est le calendrier d'agriculteur&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

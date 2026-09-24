@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="5">Los Descendants de Lok se han apoderado de los Vestiges de Cardovek, al este de aqu&amp;#237;. Nuestros investigadores no se atreven a acercarse. Son eruditos, no combatientes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pasa a la ofensiva y ve a matar a los {@LinkCreature:7#11#gardes sanglants}. &amp;#161;El &amp;#233;xito de nuestra misi&amp;#243;n es una prioridad!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1003">
+        <Page social="5">&amp;#191;Est&amp;#225; hecho? Muy bien... nuestros investigadores van a poder ponerse a trabajar. &amp;#161;El tiempo urge y no podemos darnos el lujo de dejar que estos malditos cultistas nos ganen la partida!</Page>
+    </Text>
+</QuestDialog>

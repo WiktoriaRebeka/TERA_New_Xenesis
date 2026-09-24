@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">Has preparado brochetas de drag&amp;#243;n para la fiesta del estanque.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Tuwangi hambriento. &amp;#161;Debe comer drag&amp;#243;n!&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;t&amp;#250; matas, t&amp;#250; cocinas y compartimos!&lt;NEXTPAGEBUTTON&gt;¡Qué mal trato!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">El drag&amp;#243;n hace a los tuwangis fuertes y feroces. La mejor comida para los tuwangis.&lt;NEXTPAGEBUTTON&gt;Eh, pero los dragones son... no he dicho nada.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="2001">
+        <Page social="0">&amp;#161;Mata al drag&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

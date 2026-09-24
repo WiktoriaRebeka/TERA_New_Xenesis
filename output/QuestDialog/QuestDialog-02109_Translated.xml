@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">&amp;#191;Oh, esto? Es mi insignia del Shariar. Es para que la gente sepa que lucho cada d&amp;#237;a para poner fin a la tiran&amp;#237;a de los argones.&lt;NEXTPAGEBUTTON&gt;"¿Cómo hago para conseguir una?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pues hay que gan&amp;#225;rsela en combate.&lt;BR&gt;&lt;BR&gt;Ve a ver a Naveld en {@Rgn:48002}. Te explicar&amp;#225; c&amp;#243;mo hacerlo si quieres una.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">&amp;#191;Una insignia del Shariar? Por supuesto. &amp;#161;Has matado a dioses! Te sobra dignidad para tenerla.&lt;BR&gt;&lt;BR&gt;Ve a conseguir cristales de MP de los {@LinkCreature:48#7#assommeuses zariiks}, n&amp;#250;cleos de los {@LinkCreature:48#5#aplatisseurs hulraps}, o incluso cyasma de los {@LinkCreature:48#13#argousins syndrenes}.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme eso y tendr&amp;#225;s tu insignia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">Al matar a estos argones, demostraste que eres uno de los nuestros. Con esta insignia se lo demostrar&amp;#225;s al mundo entero.&lt;BR&gt;&lt;BR&gt;Gran trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Los cristales de MP de los {@LinkCreature:48#7#assommeuses zariiks} no son f&amp;#225;ciles de encontrar, pero demu&amp;#233;strame que eres alguien perseverante.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que puedes traerme un poco?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="7" villagerId="3001">
+        <Page social="4">Al matar a estos argones, demostraste que eres uno de los nuestros. Con esta insignia se lo demostrar&amp;#225;s al mundo entero.&lt;BR&gt;&lt;BR&gt;Gran trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Los n&amp;#250;cleos de {@LinkCreature:48#5#entailleurs hulraps} ser&amp;#237;an perfectos. Pero podr&amp;#237;as desollarlos y traernos &amp;#250;nicamente los n&amp;#250;cleos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="9" villagerId="3001">
+        <Page social="4">Al matar a estos argones, demostraste que eres uno de los nuestros. Con esta insignia se lo demostrar&amp;#225;s al mundo entero.&lt;BR&gt;&lt;BR&gt;Gran trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" villagerId="3001">
+        <Page social="0">El cyasma de los {@LinkCreature:48#13#argousins syndrenes} vendr&amp;#225; de maravilla. Aunque el cyasma parezca un poco extra&amp;#241;o.</Page>
+    </Text>
+</QuestDialog>

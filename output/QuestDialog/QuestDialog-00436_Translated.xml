@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1030">
+        <Page social="0">Era imperativo destruir la Rage Magic Stone para frenar la propagaci&amp;#243;n de la sangre loca.&lt;BR&gt;&lt;BR&gt;Bedoram te recomend&amp;#243; recurrir a un experto artificier. Jelena te entreg&amp;#243; una peque&amp;#241;a bomba con la que intentaste destruir la Rage Magic Stone. Vampiros surgieron entonces de la nada. Lograste vencerlos y destruir la Rage Magic Stone.&lt;BR&gt;&lt;BR&gt;Tras lo cual, llevaste el fragmento de la Rage Magic Stone a Bedoram y Jelena. Se dieron cuenta de que el fragmento llevaba un s&amp;#237;mbolo que parec&amp;#237;a provenir de los descendientes de Lok y concluyeron que la sangre loca probablemente ten&amp;#237;a relaci&amp;#243;n con los vampiros y los descendientes de Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Debemos destruir imperativamente la Rage magic stone.&lt;BR&gt;Pero &amp;#191;c&amp;#243;mo hacerlo?&lt;BR&gt;&lt;BR&gt;Hay que evitar a toda costa entrar en contacto con la piedra m&amp;#225;gica roja, ya que el riesgo de contaminaci&amp;#243;n por la sangre loca es demasiado alto.&lt;/NEXTPAGEBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;"¿No hay ninguna solución?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Bedoram est&amp;#225; sumido en sus pensamientos.)&lt;BR&gt;&lt;BR&gt;Una mujer capaz de resolver muchos problemas est&amp;#225; estudiando esta misteriosa enfermedad.&lt;BR&gt;&lt;BR&gt;La llamamos la experta artificiera. &lt;BR&gt;&lt;BR&gt;No es de la federaci&amp;#243;n, pero aceptar&amp;#225; ayudarnos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as intentar encontrarla?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">&amp;#191;Buscas a alguien? Algo parece preocuparte. Cu&amp;#233;ntamelo todo.&lt;BR&gt;&lt;BR&gt;Por cierto, me llamo Jelena. Soy una aventurera. Bueno, no es del todo una elecci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"¿Has oído hablar de la piedra mágica?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Jelena asiente con la cabeza.)&lt;BR&gt;&lt;BR&gt;&amp;#191;La enfermedad se propaga al menor contacto? &amp;#161;Nada m&amp;#225;s f&amp;#225;cil!&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo hay que destruir la {@linkcreature:15#21#pierre magique rageuse} sin tocarla!&lt;NEXTPAGEBUTTON&gt;"¿Y cómo se hace?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tengo ciertos talentos en ese campo. &lt;BR&gt;Te dar&amp;#233; una carga de demolici&amp;#243;n de mi cosecha. &amp;#161;Te permitir&amp;#225; destruir la {@linkcreature:15#21#pierre magique rageuse}!&lt;BR&gt;&lt;BR&gt;S&amp;#233; que es un poco peligroso, pero alguien tiene que encargarse de ello.&lt;BR&gt;&lt;BR&gt;Por cierto, se han visto vampiros cerca de la piedra m&amp;#225;gica furiosa, &amp;#161;as&amp;#237; que mantente alerta! &lt;BR&gt;&lt;BR&gt;S&amp;#233; que los Poporis no creen que los vampiros sean los responsables de la sangre loca, pero no me importa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Bedoram afirma que la sangre loca est&amp;#225; relacionada con una maldici&amp;#243;n de la sangre.&lt;BR&gt;&lt;BR&gt;Para m&amp;#237;, los vampiros seguro que tienen algo que ver. &amp;#161;Solo hay que eliminarlos para poner fin a la maldici&amp;#243;n!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1020">
+        <Page social="0">&amp;#191;Ha ido todo bien?</Page>
+    </Text>
+</QuestDialog>

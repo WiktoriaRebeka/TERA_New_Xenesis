@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="4">Nuestros exploradores han marcado cerca del cementerio la ubicaci&amp;#243;n del punto ideal. Golpear&amp;#237;amos de verdad ah&amp;#237; donde m&amp;#225;s duele.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale esto a Kalraz... Seguro que se le ocurre una idea brillante.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1023">
+        <Page social="4">La idea es interesante, pero vamos a necesitar bombas. Nunca lograremos entrar sin eso.&lt;BR&gt;&lt;BR&gt;Un carruaje de transporte fue destruido no muy lejos de aqu&amp;#237;. Cruza esta cueva y ve a examinar los restos para ver si queda algo rescatable.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" prevId="3" villagerId="1023">
+        <Page social="4">&amp;#191;Y bien? &amp;#191;Encontraste el carruaje?&lt;NEXTPAGEBUTTON&gt;"No quedaba nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Nada? Tal vez las bombas explotaron y provocaron el incendio.&lt;BR&gt;&lt;BR&gt;Bueno, esto echa por tierra mi plan de ataque. Pasamos al plan B, aunque no tengo ni idea de qu&amp;#233; pueda ser.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda.</Page>
+    </Text>
+</QuestDialog>

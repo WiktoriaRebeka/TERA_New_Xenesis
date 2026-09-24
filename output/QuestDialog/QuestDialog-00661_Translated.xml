@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1006">
+        <Page social="5">Esos malditos {@LinkCreature:23#21#bouffons escrocs} y {@LinkCreature:23#22#saigneurs kobolds} est&amp;#225;n invadiendo nuestras posiciones.&lt;BR&gt;&lt;BR&gt;Encargarle a otra persona que los mate ser&amp;#237;a enviarla a una muerte segura, pero no a un veterano como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Haz lo necesario!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1006">
+        <Page social="5">Los kobolds son cobardes por naturaleza.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y la derrota que les infligiste los mantendr&amp;#225; alejados por un tiempo!</Page>
+    </Text>
+</QuestDialog>

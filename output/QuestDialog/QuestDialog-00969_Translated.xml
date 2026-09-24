@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">Has tenido que someterte a una prueba en el Jard&amp;#237;n celestial de Saleron para obtener el fragmento agrietado de la reliquia antigua. Has superado la prueba y Saleron te ha entregado el fragmento de reliquia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">&amp;#191;Es Torsten quien te env&amp;#237;a?&lt;BR&gt;Percibo en ti el poder de Isrenia.&lt;BR&gt;Pero tambi&amp;#233;n la bendici&amp;#243;n de Kaia y de Velik...&lt;BR&gt;&lt;BR&gt;Sin embargo, su bendici&amp;#243;n es in&amp;#250;til.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; quieres?&lt;NEXTPAGEBUTTON&gt;"Busco una reliquia antigua."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">T&amp;#250;, pobre &lt;PCRACE&gt;, &amp;#191;buscas una reliquia antigua?&lt;BR&gt;Jaja, qu&amp;#233; interesante. Muy bien.&lt;BR&gt;Pero solo las personas dignas de la reliquia pueden obtenerla.&lt;BR&gt;&lt;BR&gt;Y para eso se requiere una voluntad de hierro. &amp;#191;Aceptar&amp;#237;as dar tu vida para proteger la reliquia frente a Killian y Thulsa?&lt;NEXTPAGEBUTTON&gt;"Sin vacilar, superaré tu prueba."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bien, &lt;PCCLASS&gt; &lt;PCRACE&gt;.&lt;BR&gt;Vamos a ver de qu&amp;#233; est&amp;#225;s hecho. Te mandar&amp;#233; a donde pocos mortales han puesto el pie.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos, entret&amp;#233;nme!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3007" prevId="2" villagerId="1110">
+        <Page social="1" voiceTypeId="0">Has superado la prueba del dios.&lt;BR&gt;Est&amp;#225; encantado.&lt;BR&gt;&lt;BR&gt;Con tales facultades, puedes encontrar la reliquia antigua. La llave de fuerza de voluntad ahora te pertenece.&lt;BR&gt;&lt;BR&gt;Gracias a ella, podr&amp;#225;s absorber la reliquia antigua. Pru&amp;#233;balo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3007" villagerId="1110">
+        <Page social="0">A&amp;#250;n no has superado la prueba.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3007" prevId="3" villagerId="1113">
+        <Page social="1" voiceTypeId="0">El fragmento de reliquia antigua resplandece.&lt;BR&gt;La llave ha absorbido esta energ&amp;#237;a y se ha transformado en reliquia antigua.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1102">
+        <Page social="1" voiceTypeId="0">La reliquia antigua ahora forma parte de tu ser.&lt;BR&gt;&lt;BR&gt;Considera esto como mi regalo.&lt;BR&gt;Adem&amp;#225;s, ahora tienes el derecho de unirte a mi jard&amp;#237;n celestial cuando te plazca.&lt;BR&gt;&lt;BR&gt;Puedes entrenar all&amp;#237; para tus futuros combates, &lt;PCRACE&gt;.</Page>
+    </Text>
+</QuestDialog>

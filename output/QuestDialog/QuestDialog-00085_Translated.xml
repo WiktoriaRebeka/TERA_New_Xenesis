@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">Los basiliscos est&amp;#225;n en &amp;#233;poca de desove. El Valle de la Bestia ya est&amp;#225; invadido por estos monstruos. Debemos evitar que prolifere de esta manera.&lt;BR&gt;&lt;BR&gt;Si fueras a recuperarme algunos huevos, podr&amp;#237;amos reducir el n&amp;#250;mero de nacimientos y dedicarnos a ciertos experimentos. Estos huevos tienen propiedades m&amp;#225;gicas potentes. Podr&amp;#237;amos sacar algo &amp;#250;til de ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="4">&amp;#161;Puaj... en fin, buen trabajo! Echa un vistazo a estos huevos. El cascar&amp;#243;n es tan fino que se puede ver algo moverse en el interior. &amp;#161;Quiz&amp;#225;s no tarden en eclosionar!&lt;BR&gt;&lt;BR&gt;Nos van a permitir poner el toque final a nuestro elixir de resurrecci&amp;#243;n. Intentar&amp;#233; crear una muestra. Dame unos instantes.&lt;BR&gt;&lt;BR&gt;(Mezcla los ingredientes y prepara algo.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Y listo! Por fin logr&amp;#233; confeccionar mi elixir de resurrecci&amp;#243;n. Me hubiera gustado poder darte la primicia, pero para eso tendr&amp;#237;as que dejar de ser de este mundo.&lt;BR&gt;&lt;BR&gt;(Est&amp;#225; entusiasta.)&lt;BR&gt;&lt;BR&gt;Bueno, ya solo te queda intentar usarlo en una {@LinkCreature:203#1023#victime malchanceuse}. Toma, ll&amp;#233;valo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">Encontrar&amp;#225;s los huevos principalmente en el Nido de la Bestia.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1023">
+        <Page social="0">(Este cad&amp;#225;ver est&amp;#225; parcialmente cubierto de musgo. La muerte no es reciente. Abres el frasco y viertes su contenido en la boca.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1024">
+        <Page social="0">&amp;#161;Tan pronto como aplicas el reactivo sobre el cuerpo, este se disuelve literalmente! En unos instantes, solo quedan fragmentos de hueso en la superficie del suelo. Tal vez la v&amp;#237;ctima llevaba demasiado tiempo muerta.&lt;BR&gt;&lt;BR&gt;Mmm... a menos que el remedio de Parlan a&amp;#250;n no est&amp;#233; a punto.&lt;BR&gt;&lt;BR&gt;Sea como sea, es hora de ir a contarle lo que pas&amp;#243;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1009">
+        <Page social="4">Bueno, habr&amp;#237;a sido sorprendente que un elixir tan complejo funcionara a la primera. Solo era un experimento, y seguramente aprender&amp;#233; algo de esto.&lt;BR&gt;&lt;BR&gt;Tal vez pronto podamos salvar a las v&amp;#237;ctimas de los basiliscos.</Page>
+    </Text>
+</QuestDialog>

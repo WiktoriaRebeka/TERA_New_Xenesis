@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has perseguido a la bruja archidevan para evitar que informaci&amp;#243;n sobre la Iniciativa llegara a los o&amp;#237;dos de los archidevans. Durante esta persecuci&amp;#243;n, la bruja se quit&amp;#243; la vida para no tener que revelarte la m&amp;#225;s m&amp;#237;nima informaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Encuentra a Zolyn, quien se ha lanzado en busca de la bruja archidevan.&lt;NEXTPAGEBUTTON&gt;"Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2010">
+        <Page social="1" voiceTypeId="0">Alguien debi&amp;#243; ver a d&amp;#243;nde se fue la bruja archidevan.&lt;NEXTPAGEBUTTON&gt;"Seguramente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2031">
+        <Page social="1" voiceTypeId="0">&amp;#191;Archidevan? La vi. Se fue hacia el oeste del campamento.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2043">
+        <Page social="1" voiceTypeId="0">&amp;#191;Archidevan? Santuario celeste. Alto de la pasarela.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2005">
+        <Page social="1" voiceTypeId="0">Realmente acabaste en un abrir y cerrar de ojos con el demokron que hab&amp;#237;a dejado por ah&amp;#237; para ti...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;nes son ustedes, extranjeros? &amp;#191;Y por qu&amp;#233; vienen a estas tierras?&lt;NEXTPAGEBUTTON&gt;"¡Ríndanse!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Rendimos? &amp;#191;Con la victoria tan cerca?&lt;NEXTPAGEBUTTON&gt;"¿Qué quieres decir con eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Realmente no est&amp;#225;s al tanto, &amp;#191;verdad?&lt;BR&gt;&amp;#161;Y nunca lo estar&amp;#225;s!&lt;BR&gt;Nosotros los Archidevans hemos elegido consagrar nuestras vidas a servir a Lakan. &lt;BR&gt;&lt;BR&gt;Pero podr&amp;#237;as decidir torturarme para extorsionar informaci&amp;#243;n... y eso no ser&amp;#237;a conveniente, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"Espera... ¿qué estás haciendo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2006">
+        <Page social="1" voiceTypeId="0">&amp;#191;Encontraste a la bruja? &amp;#191;Y qu&amp;#233; dijo?&lt;NEXTPAGEBUTTON&gt;"Ella prefirió... no hablar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Supongo que, a pesar de todo, es un alivio que no haya tenido tiempo de enviar un mensaje a sus superiores. Pero sabr&amp;#225;n que algo se trae entre manos cuando sus informes dejen de llegar.&lt;BR&gt;&lt;BR&gt;&amp;#191;No te dio ni la m&amp;#225;s m&amp;#237;nima pista sobre cu&amp;#225;nto tiempo lleva espiando el campamento khirien?&lt;NEXTPAGEBUTTON&gt;"Mencionó una victoria inminente..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Tal vez solo fue una &amp;#250;ltima bravuconer&amp;#237;a. O tal vez...&lt;BR&gt;&lt;BR&gt;T&amp;#250; y Rhodos deber&amp;#237;an comparar notas. Si alguien sabe lo que los Archidevans est&amp;#225;n tramando all&amp;#225; arriba, es &amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"Me encargo de eso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

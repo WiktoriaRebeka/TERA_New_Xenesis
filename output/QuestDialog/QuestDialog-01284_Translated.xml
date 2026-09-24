@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="5">Debemos mantener la iniciativa, por lo que te pido que vayas a realizar una purga entre los argones.&lt;BR&gt;&lt;BR&gt;Mata a los ravagers de Kallan, a los brutos, protectores y defensores kalashs, a los desolladores yusuls, as&amp;#237; como a las cianobrujas y c&amp;#237;clopes zariiks.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a Ayva, en Kanstria.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1603">
+        <Page social="5">Tengo la suerte de poder contar con la ayuda de reclutas de tu talla, &lt;PCNAME&gt;. Bien hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1603">
+        <Page social="0">A&amp;#250;n no has alcanzado tus objetivos de misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

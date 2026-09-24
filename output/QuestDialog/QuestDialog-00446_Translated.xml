@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1011">
+        <Page social="5">Estamos preparando cantidades impresionantes de vendas y resulta que los materiales empiezan a escasear. &amp;#191;No tendr&amp;#225;s un poco de {@RawItem:206800} a la mano?&lt;BR&gt;&amp;#191;No? &amp;#191;Podr&amp;#237;as conseguirme? Si encuentras un poco de {@RawItem:206800}, vuelve a verme a toda velocidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1011">
+        <Page social="5">&amp;#161;Eso s&amp;#237; que es una gran ayuda! Aqu&amp;#237; tienes un peque&amp;#241;o obsequio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1011">
+        <Page social="0">&amp;#191;Te dije que &amp;#237;bamos a quedarnos sin Vendas?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">&amp;#161;Esc&amp;#250;chame bien! Para obtener un grabado m&amp;#225;gico excepcional, debes extraer un {@RawItem:206818} de un cristal rojo anaranjado, un {@RawItem:206819} de un cristal verde aloe y un {@RawItem:206820} de un cristal azul a&amp;#233;reo.&lt;BR&gt;&lt;BR&gt;Consulta la secci&amp;#243;n &quot;Recolecci&amp;#243;n&quot; del men&amp;#250; de progresi&amp;#243;n para ver d&amp;#243;nde encontrar estos recursos. Tr&amp;#225;eme estos componentes coloridos y te dir&amp;#233; m&amp;#225;s sobre el delicado arte de los grabados.&lt;BR&gt;&lt;BR&gt;Necesito &lt;font color = '#2478FF'&gt;5 ejemplares de {@RawItem:206818}, de {@RawItem:206819} y de {@RawItem:206820}, respectivamente&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">Bien hecho.&lt;BR&gt;Estos materiales son indispensables para realizar grabados m&amp;#225;gicos. Dame el plano de grabado para que contin&amp;#250;e con el trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">&amp;#161;Nunca llegar&amp;#225;s a ninguna parte si te quedas sentado{@g:/e}! &amp;#161;Desp&amp;#225;blate!</Page>
+    </Text>
+</QuestDialog>

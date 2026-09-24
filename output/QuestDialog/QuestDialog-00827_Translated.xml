@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1027">
+        <Page social="4">Este fr&amp;#237;o extremo definitivamente no es un fen&amp;#243;meno natural. Debemos estar bajo la influencia de un poderoso hechizo de hielo.&lt;BR&gt;&lt;BR&gt;Los exploradores de la Federaci&amp;#243;n avistaron recientemente un esp&amp;#237;ritu tan blanco como la nieve en {@Rgn:31005$$Crique de Glacecroc}.&lt;BR&gt;&lt;BR&gt;Creo que podr&amp;#237;a tratarse de {@LinkCreature:31#28$$Siarxis}, la legendaria reina de la escarcha.&lt;BR&gt;&lt;BR&gt;Si la eliminamos, tal vez se rompa el hechizo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1027">
+        <Page social="4">&amp;#161;As&amp;#237; que la reina de la escarcha {@LinkCreature:31#28$$Siarxis} realmente exist&amp;#237;a! Insisto, exist&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Tras su desaparici&amp;#243;n, el hielo deber&amp;#237;a derretirse poco a poco.&lt;BR&gt;&lt;BR&gt;Tenemos una deuda contigo, &lt;PCNAME&gt;. &amp;#161;Gracias!</Page>
+    </Text>
+</QuestDialog>

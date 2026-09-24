@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">Ruanal, de los Salones de la Melancol&amp;#237;a, nos ha enviado una solicitud de asistencia. Debe de estar aburri&amp;#233;ndose de lo lindo por all&amp;#237;. En fin, yo en su lugar...&lt;BR&gt;&lt;BR&gt;En resumen, ve a ponerte en contacto con &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="0">Miembres a donde mire, estoy completamente rodeado de cad&amp;#225;veres. Y lo peor... es que estos no paran de moverse. Haz algo.&lt;BR&gt;&lt;BR&gt;Hace un rato que los {@LinkCreature:20#30011002#ma&amp;#238;tres cruels} y los {@LinkCreature:20#30011001#surveillants d'esclaves} obligan a los {@LinkCreature:20#30039000#ouvriers zomporis} a explotar los yacimientos de termi&amp;#243;n. No s&amp;#233; qu&amp;#233; pretenden hacer con este mineral, pero por experiencia, algo me dice que cuando lo sepa, no me pondr&amp;#233; a bailar la conga.&lt;BR&gt;&lt;BR&gt;Deshazte sin distinci&amp;#243;n de los amos y los esclavos y recupera las pepitas de yacimiento de termi&amp;#243;n que tengan. Su estudio tal vez nos permita descubrir qu&amp;#233; idea tienen en la cabeza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1004">
+        <Page social="4">&amp;#191;Es Ruanal quien me env&amp;#237;a este mineral? Algo completamente nuevo.&lt;BR&gt;&lt;BR&gt;Voy a enviarlo inmediatamente a donde corresponde para su an&amp;#225;lisis.&lt;BR&gt;&lt;BR&gt;Has hecho un buen trabajo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" villagerId="1004">
+        <Page social="0">&amp;#191;Me han dicho que Ruanal quer&amp;#237;a someterme algo a examen?</Page>
+    </Text>
+</QuestDialog>

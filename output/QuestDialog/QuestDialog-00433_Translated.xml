@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bruke orden&amp;#243; la ejecuci&amp;#243;n de Jelena y te encomend&amp;#243; la misi&amp;#243;n. Pero en lugar de llevarle la cabeza de Jelena, alertaste a esta &amp;#250;ltima, quien se apresur&amp;#243; a huir.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s {@gender:rentr&amp;#233;/rentr&amp;#233;e} en Velika para presentarte ante Samael justo en el momento en que le llegaba el informe de Bruke detallando tus haza&amp;#241;as en Popolion, as&amp;#237; como tus faltas al deber. Has evitado la reprimenda, pero Samael te vigila de cerca ahora.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="4">[Cuartel general de la Federaci&amp;#243;n Valkyon, orden de misi&amp;#243;n de la unidad especial]&lt;BR&gt;&lt;BR&gt;Jelena ha aparecido cerca de la guardia de Poporia.&lt;BR&gt;Sospechamos que hace causa com&amp;#250;n con nuestros enemigos. &lt;BR&gt;&amp;#161;Se ordena a todas las fuerzas armadas de la Federaci&amp;#243;n Valkyon arrestar a Jelena de inmediato o rendir cuentas a Bruke, el prefecto de la unidad especial enviado a Popolion!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1032">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233;? Vaya... la unidad especial no debe enterarse bajo ning&amp;#250;n concepto de d&amp;#243;nde estoy.&lt;BR&gt;&lt;BR&gt;Me conueve mucho ver que no crees que sea una enemiga de la federaci&amp;#243;n. Gracias por advertirme sobre este prefecto insensato. Te juro por la diosa Velik que has tomado la decisi&amp;#243;n correcta, &lt;PCNAME&gt;. Ya lo ver&amp;#225;s.&lt;NEXTPAGEBUTTON&gt;"¿Qué piensas hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Que qu&amp;#233; voy a hacer? Tomar las de Villadiego, por supuesto.&lt;BR&gt;&lt;BR&gt;Diles a tus superiores que no lograste encontrarme. Y si cierras los ojos ni siquiera por cinco segundos, no ser&amp;#225; m&amp;#225;s que una piadosa mentira.&lt;BR&gt;&lt;BR&gt;Hasta pronto... Nos volveremos a ver, puedes estar {@gender:s&amp;#251;r/s&amp;#251;re}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">&amp;#161;&amp;#191;C&amp;#243;mo!? &amp;#191;La dejaste escapar? &amp;#191;Es que no tienes nada de cerebro? &lt;BR&gt;&lt;BR&gt;&amp;#191;Dejas escapar a esta peligrosa traidora y encima exiges que me muestre magn&amp;#225;nimo? &lt;BR&gt;&lt;BR&gt;&amp;#161;Tus haza&amp;#241;as en la Mansi&amp;#243;n siniestra no valen nada si dejas que esta criminal se salga con la suya!&lt;NEXTPAGEBUTTON&gt;"Nadie es perfecto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Har&amp;#233; un informe especial para Samael. Ve a verlo en persona y p&amp;#237;dele que te perdone tus pecados. &lt;BR&gt;&lt;BR&gt;Si a&amp;#250;n no te has presentado cuando lea mi informe, te arriesgas mucho a pasar por un consejo de guerra.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Ya le&amp;#237; el informe del prefecto de Popolion. Me informa que dejaste escapar a una notoria traidora. &amp;#191;Es verdad? Si es verdad, entonces debes ser castigado...&lt;BR&gt;&lt;BR&gt;Pero tambi&amp;#233;n acabo de recibir una carta de agradecimiento del prefecto y del administrador de Popolion. Explica que desempe&amp;#241;aste un papel decisivo en la resoluci&amp;#243;n de la crisis que desestabilizaba Popolion.&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A decir verdad, los Poporis no son muy dados a los halagos, as&amp;#237; que no s&amp;#233; si debo fiarme. &lt;BR&gt;&lt;BR&gt;No obstante, renunciar&amp;#233; a castigarte y en su lugar te entregar&amp;#233; una recompensa.&lt;BR&gt;&lt;BR&gt;Espero poder contar con tu gratitud.</Page>
+    </Text>
+</QuestDialog>

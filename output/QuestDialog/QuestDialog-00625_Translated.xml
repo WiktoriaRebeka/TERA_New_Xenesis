@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">Me he cruzado con varios {@LinkCreature:22#18#aristocrates vampires} por los pasillos. &amp;#161;No estaban invitados al festival y me pregunto si habr&amp;#225;n tenido algo que ver en este desastre!&lt;BR&gt;&lt;BR&gt;Los vampiros han demostrado ser peligrosos &amp;#250;ltimamente. No te arriesgues: elim&amp;#237;nalos a todos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">Las brujas vadomas tendr&amp;#225;n una gran deuda contigo cuando todo esto se resuelva.&lt;BR&gt;&lt;BR&gt;Tradicionalmente, confiamos en nuestra fuerza colectiva y nos resistimos a pedir ayuda exterior.&lt;BR&gt;&lt;BR&gt;Pero cuando recuperen la raz&amp;#243;n, tendr&amp;#225;n que enfrentar la realidad.</Page>
+    </Text>
+</QuestDialog>

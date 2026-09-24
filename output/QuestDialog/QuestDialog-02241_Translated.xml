@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="0">Has entregado los materiales para tallar a Dolme y a cambio recibes un casco de cuerno.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="4">&amp;#161;Hola, &lt;PCNAME&gt;! &amp;#191;Tendr&amp;#237;as por casualidad unos cuernos magn&amp;#237;ficamente esculpidos? &amp;#191;No?&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; pena... He empezado una colecci&amp;#243;n. Si pudieras traerme unos cuantos cuernos, &amp;#161;te dar&amp;#233; una botella de mi mejor vino de verano!&lt;BR&gt;&lt;BR&gt;Creo que Wahmel y Chelton ofrecen estatuas de cuerno como recompensa...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2007">
+        <Page social="4">Jo, jo. Te lo agradezco. &amp;#161;Esto servir&amp;#225;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Te has ganado a pulso esta botella de vino de verano, &lt;PCNAME&gt;! B&amp;#233;betela, &amp;#161;es buena para la salud, jo, jo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2007">
+        <Page social="0">Has participado en los minijuegos &quot;&amp;#161;A machacar sand&amp;#237;as!&quot; y &quot;Ca&amp;#241;&amp;#243;n pulverizador&quot; y has ganado estatuas de cuerno.</Page>
+    </Text>
+</QuestDialog>

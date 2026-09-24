@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="5">Bueno, debo admitir que hace un tiempo que no preparo esta poci&amp;#243;n. Espero que funcione como se espera.&lt;BR&gt;&lt;BR&gt;Quiero decir... &amp;#161;va a funcionar, seguro! Es solo que... c&amp;#243;mo decirlo...&lt;BR&gt;&lt;BR&gt;En fin, no importa. &amp;#191;Vamos, a tu salud entonces? Buena suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1004">
+        <Page social="12">&amp;#191;Te bebiste la poci&amp;#243;n? &amp;#191;C&amp;#243;mo estuvo? Pens&amp;#233; que ibas a tra&amp;#233;rmela de vuelta. Dicho esto, por un capricho del viento, el olor que te otorg&amp;#243; lleg&amp;#243; aqu&amp;#237; antes que t&amp;#250;, y por lo tanto, estoy bastante contento de que hayas sido t&amp;#250; quien se la bebi&amp;#243;.&lt;BR&gt;&lt;BR&gt;Ahora falta ver si vas a poder sacarle algo al tuwangi cautivo. Deber&amp;#237;as ir a hablar con el {@LinkCreature:205#1020#prisonnier baba tuwangi Tangmo} y ver qu&amp;#233; puedes conseguir de &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Luego inf&amp;#243;rmame sobre tus descubrimientos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1020">
+        <Page social="0">Hmm. &amp;#191;Qu&amp;#233; es eso? Huele a carne... y a desesperaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"¿La desesperación tiene olor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Hmm? Parece que esto me entiende. &amp;#191;Quieres saber qu&amp;#233; est&amp;#225; pasando? &amp;#191;Quieres saber por qu&amp;#233; el pantano est&amp;#225; ganando terreno? &amp;#191;Te atreves a decir que nunca has so&amp;#241;ado con una casa m&amp;#225;s grande?&lt;BR&gt;&lt;BR&gt;&amp;#161;Todo esto es obra nuestra, por supuesto... estamos en plena expansi&amp;#243;n!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="1004">
+        <Page social="5">&amp;#161;Oh no! &amp;#191;As&amp;#237; que los tuwangis son verdaderamente los responsables? Esto no es nada bueno. Significa... oh, miseria.&lt;BR&gt;&lt;BR&gt;En fin, sea como sea, gracias por tu ayuda. Por favor acepta esto.</Page>
+    </Text>
+</QuestDialog>

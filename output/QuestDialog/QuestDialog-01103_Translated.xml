@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="4">La ruta del este est&amp;#225; bloqueada por {@LinkCreature:42#1300#mercenaires besharans}. Esos bribones no deben obstaculizar nuestro trabajo.&lt;BR&gt;&lt;BR&gt;M&amp;#225;talos y toma sus insignias. Te las comprar&amp;#233; a un buen precio.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">Buen trabajo. Sab&amp;#237;a bien que eras capaz de hacerlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">&amp;#191;Te encargas de esos {@LinkCreature:42#1300#mercenaires besharans}, verdad? Sin sellos, no hay recompensa.</Page>
+    </Text>
+</QuestDialog>

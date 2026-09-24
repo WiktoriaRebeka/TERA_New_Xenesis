@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">Hace poco tiempo, fui testigo de algo extra&amp;#241;o. Unos tipos misteriosos aparecieron e instalaron esta especie de obelisco por all&amp;#225;.&lt;BR&gt;&lt;BR&gt;Por un lado me da curiosidad, pero por otro, debo admitir que me da much&amp;#237;simo miedo acercarme. &amp;#191;Podr&amp;#237;as ir a echarle un vistazo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1028">
+        <Page social="4">(Cuanto m&amp;#225;s te acercas a la piedra, peor te sientes. Al tocarla, tus o&amp;#237;dos empiezan a zumbar y sientes un cosquilleo en los brazos. Logras arrancar un fragmento.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1019">
+        <Page social="4">&amp;#191;Puedo ver eso m&amp;#225;s de cerca?&lt;BR&gt;&lt;BR&gt;&amp;#161;Caramba!&lt;BR&gt;&lt;BR&gt;Esta cosa encierra una magia poderosa, &lt;PCNAME&gt;. Me lo quedar&amp;#233; para estudiarlo m&amp;#225;s de fondo.</Page>
+    </Text>
+</QuestDialog>

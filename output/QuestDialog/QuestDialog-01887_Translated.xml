@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Solo vivo para conocer una muerte justa. Los gulas han... destruido todo lo dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mis amigos... devorados! &amp;#161;Mi familia... devorada! &amp;#161;Mi vida entera... devorada!&lt;BR&gt;&lt;BR&gt;Pero sabe esto, &lt;BR&gt; &amp;#161;Muchos gulas regresar&amp;#225;n al Sue&amp;#241;o antes que yo!&lt;NEXTPAGEBUTTON&gt;"Estoy con usted, Kurak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">He estado vigilando a los gulas durante a&amp;#241;os, pero no puedo alcanzar el coraz&amp;#243;n de su organizaci&amp;#243;n: el Labyrinthe d'Or.&lt;BR&gt;&lt;BR&gt;Un teleportal lleva all&amp;#237; en las Catacumbas de las Cavernas hambrientas, &amp;#161;pero por alguna raz&amp;#243;n que se me escapa, me es imposible usarlo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Aceptar&amp;#237;a convertirse en el instrumento de la justicia, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Ir&amp;#237;a a matar a esos {@LinkCreature:472#4#porte-morts gulas}, {@LinkCreature:472#24#ravageurs gulas}, {@LinkCreature:472#11#sauvages gulas} y otros {@LinkCreature:472#207#gulas brutaux}? &amp;#161;Por favor, vaya a tomar sus corazones como ellos tomaron el m&amp;#237;o!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Gracias, &lt;PCNAME&gt;. Gracias por estos corazones.&lt;BR&gt;&lt;BR&gt;Ahora, si me disculpa, tengo un poco de... hambre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">&amp;#161;Ser&amp;#225;n asesinados por el poder de la justicia! &amp;#161;Los aniquilar&amp;#233; como me aniquilaron a m&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

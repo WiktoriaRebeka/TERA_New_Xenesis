@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Fuiste enviado{@g:/e} a los Bois de l'Oubli para ayudar a inspeccionar el Bastion de Lok. Pero llegaste{@g:/e} tarde y Hendry ya hab&amp;#237;a desplegado las tropas. Te apresuraste{@g:/e} a reunirte con ellos, pero solo encontraste los cad&amp;#225;veres de los exploradores... y a un &amp;#250;nico superviviente.&lt;BR&gt;&lt;BR&gt;La misi&amp;#243;n termin&amp;#243; en fracaso, pero el explorador te entreg&amp;#243; sus notas antes de jurar que no volver&amp;#237;a a servir jam&amp;#225;s. Hendry se mostr&amp;#243; agradecido por recibir las notas y decidi&amp;#243; dejar en paz al desertor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Que los de autem hayan pactado con los descendientes de Lok es dif&amp;#237;cil de tragar... &lt;BR&gt;Y tambi&amp;#233;n resulta impactante enterarse de que su base de suministros se alzaba en pleno Bois de l'Oubli.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, es gracias a ti que hemos podido enterarnos de todo esto.&lt;BR&gt;Y ahora solo nos queda eliminar a los descendientes de Lok.&lt;NEXTPAGEBUTTON&gt;Asentir.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">He enviado un escuadr&amp;#243;n de exploradores veteranos al Valle de la Bestia.&lt;BR&gt;&lt;BR&gt;Ve a encontrar all&amp;#237; a Isla y ay&amp;#250;dala en su operaci&amp;#243;n contra el Bastion de Lok.&lt;NEXTPAGEBUTTON&gt;"Voy para allá ahora mismo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, te estaba esperando.&lt;BR&gt;Tenemos un problema. Perdimos el contacto con los exploradores que fueron enviados al Valle de la Bestia.&lt;BR&gt;&lt;BR&gt;Esto parece confirmar que el Bastion de Lok se encuentra en alg&amp;#250;n lugar de este valle. Por favor, ve a buscar a los exploradores desaparecidos.&lt;NEXTPAGEBUTTON&gt;"Me pongo en marcha de inmediato."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1026">
+        <Page social="0" voiceTypeId="0">(Un miembro del equipo de reconocimiento desaparecido.&lt;BR&gt;&lt;BR&gt;Su cuerpo est&amp;#225; plagado de heridas.&lt;BR&gt;Parece haber luchado hasta la muerte.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1027">
+        <Page social="0" voiceTypeId="0">(Un miembro del equipo de reconocimiento desaparecido.&lt;BR&gt;&lt;BR&gt;Alrededor del cad&amp;#225;ver ves indicios de un combate feroz.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="3" villagerId="1034">
+        <Page social="0" voiceTypeId="0">(Un miembro del equipo de reconocimiento desaparecido.&lt;BR&gt;&lt;BR&gt;Una herida abierta le atraviesa la columna de un lado a otro. Qu&amp;#233; brutalidad...)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="4" villagerId="1033">
+        <Page social="4" voiceTypeId="0">&amp;#191;Son de los nuestros? &amp;#161;A... ay&amp;#250;denme! &lt;BR&gt;&amp;#161;Mis camaradas... Todos mis camaradas!&lt;NEXTPAGEBUTTON&gt;"Tranquilo. ¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Toma, qu&amp;#233;date con esto! Son mis notas sobre el basti&amp;#243;n. Logramos entrar, pero nos descubrieron. &amp;#161;Ll&amp;#233;vale las notas a Isla!&lt;BR&gt;&lt;BR&gt;Intentar&amp;#233; reunirme contigo, pero esto... &amp;#161;debe llegar a Isla lo antes posible!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1006">
+        <Page social="0" voiceTypeId="0">&amp;#191;Qu&amp;#233;? &amp;#191;Muertos?&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldici&amp;#243;n! &amp;#161;Estaba convencido de que no se dejar&amp;#237;an descubrir!&lt;BR&gt;&lt;BR&gt;Como sea, su sacrificio nos permiti&amp;#243; saber m&amp;#225;s sobre el basti&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Y en cuanto a Ausdan... todos tenemos un l&amp;#237;mite. Lo dio todo durante esta misi&amp;#243;n. Cuando hayamos terminado, har&amp;#233; un informe indicando que cay&amp;#243; en combate. &amp;#161;Gracias por tu ayuda!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" villagerId="1006">
+        <Page social="0">&amp;#191;Cu&amp;#225;l es el problema?</Page>
+    </Text>
+</QuestDialog>

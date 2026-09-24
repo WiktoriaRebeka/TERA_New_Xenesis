@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Los mercenarios oscuros recibieron un suministro adicional ayer.&lt;BR&gt;&lt;BR&gt;Ignoramos qui&amp;#233;n los abastece, pero si puede hacerlo con tanta regularidad, esto terminar&amp;#225; por traernos problemas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te tienta una peque&amp;#241;a operaci&amp;#243;n de saqueo, &lt;PCNAME&gt;? Ve al campamento de mercenarios de la cuenca, al norte, y roba sus provisiones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Gracias! Esto deber&amp;#237;a permitirnos salir adelante por un tiempo.&lt;BR&gt;&lt;BR&gt;Khasib pregunt&amp;#243; por ti en tu ausencia. Aparte de eso, creo que empieza a entender lo que quiero decir con &quot;no eres mi tipo&quot;...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Se supone que las provisiones est&amp;#225;n en el campamento de mercenarios de la cuenca, al norte de aqu&amp;#237;. &amp;#191;Las recuperaste?</Page>
+    </Text>
+</QuestDialog>

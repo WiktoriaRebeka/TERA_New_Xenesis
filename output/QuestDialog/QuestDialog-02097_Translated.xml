@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3001#Hurun} nos ha hecho saber que necesita ayuda en las Tres Torres.&lt;BR&gt;&lt;BR&gt;Inmediatamente pensamos en ti para esta misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;A decir verdad, te envidio. Siempre he querido ir a las Tres Torres para estudiarlas m&amp;#225;s de cerca.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">&amp;#161;Gracias, gracias, gracias! Los argons est&amp;#225;n masacrando a nuestros investigadores, as&amp;#237; que comprende mi alivio al ver llegar a un soldado.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:46#201#&amp;#233;craseurs kulkaris argonomorphes}, los {@LinkCreature:46#202#chamanes kulkaris argonomorphes} o incluso los {@LinkCreature:46#203#pourfendeurs de Lok argonomorphes} representan las amenazas m&amp;#225;s peligrosas. Elim&amp;#237;nalos y te estaremos profundamente agradecidos.&lt;BR&gt;&lt;BR&gt;Por supuesto, si logras destruir a los {@LinkCreature:246#3010#conduits de cyasma} de paso, no nos quejaremos.&lt;BR&gt;&lt;BR&gt;Toda ayuda es bienvenida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">Es bueno frenar la m&amp;#225;quina de guerra argon de vez en cuando.&lt;BR&gt;&lt;BR&gt;Muchas gracias por tu intervenci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

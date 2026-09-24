@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="5">&amp;#191;Por qu&amp;#233; cada vez que se habla de ti se escucha la palabra cad&amp;#225;ver?&lt;BR&gt;&lt;BR&gt;&amp;#161;En fin, no importa! Los {@LinkCreature:22#28#pr&amp;#233;lats sombres} y los {@LinkCreature:22#27#discoupeurs ensorcel&amp;#233;s} custodian la capilla. Pienso que existe un v&amp;#237;nculo entre su altar y lo que pas&amp;#243; aqu&amp;#237;, as&amp;#237; que vas a tener que matarlos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esos cultistas est&amp;#225;n acabados!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1009">
+        <Page social="5">Gracias a ti, los Descendants de Lok han sido aplastados y su magia de manipulaci&amp;#243;n mental est&amp;#225; muy debilitada.&lt;BR&gt;&lt;BR&gt;Tal vez sea el momento de recuperar el terreno perdido. Y ser&amp;#225; gracias a m&amp;#237;.&lt;BR&gt;&lt;BR&gt;En fin, a ti tambi&amp;#233;n.</Page>
+    </Text>
+</QuestDialog>

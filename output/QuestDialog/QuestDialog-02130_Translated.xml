@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3010">
+        <Page social="4">&amp;#161;Eh, &lt;PCNAME&gt;! {@LinkCreature:76#3001#Keinbara} me pidi&amp;#243; que te enviara con &amp;#233;l si te ve&amp;#237;a. Listo, ya est&amp;#225; hecho.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">Gracias por ser {@gender:venu/venue}, &lt;PCNAME&gt;. No, no tengo ninguna misi&amp;#243;n para ti.&lt;BR&gt;&lt;BR&gt;Eres {@gender:un/une} {@gender:chasseur/chasseuse} fant&amp;#225;stico, con diferencia. Quisimos entregarte esta peque&amp;#241;a recompensa.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vala con orgullo.</Page>
+    </Text>
+</QuestDialog>

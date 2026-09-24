@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Estas quejas me est&amp;#225;n volviendo loco... Me refiero a las lamentaciones de los soldados muertos.&lt;BR&gt;&lt;BR&gt;Un mystic popori pas&amp;#243; por la regi&amp;#243;n hace unas semanas. Nos habl&amp;#243; de &quot;destilados mortales&quot; que permiten devolver las almas en pena al m&amp;#225;s all&amp;#225;... el Sue&amp;#241;o. &amp;#161;Para m&amp;#237;, es sobre todo la oportunidad de hacerlas callar!&lt;BR&gt;&lt;BR&gt;Kridan y yo hemos recuperado la mayor&amp;#237;a de los &quot;destilados&quot; de los que hablaba el popori, pero nos falta uno.&lt;NEXTPAGEBUTTON&gt;"¿Cuál?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La esencia de {@LinkCreature:4#1021#groknar sulfureux}. Esas bestias son un poco &quot;grandes&quot; para Kridan y para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme su esencia ardiente y podremos acallar las quejas de esos fantasmas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">Gracias, &lt;PCNAME&gt;. Podremos permitir que las almas de nuestros camaradas regresen al Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Y a todo esto... &amp;#161;se callar&amp;#225;n y podr&amp;#233; dormir!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1110">
+        <Page social="0">No es solo por nosotros por quienes debes hacerlo, &lt;PCNAME&gt;. Hazlo por esas pobres almas incapaces de regresar al Sue&amp;#241;o.</Page>
+    </Text>
+</QuestDialog>

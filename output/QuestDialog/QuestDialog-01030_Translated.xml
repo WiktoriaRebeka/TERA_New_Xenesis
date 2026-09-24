@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">Se nos ha informado de la desaparici&amp;#243;n de varios aldeanos de Frontera y el magistrado cree que los ar&amp;#225;cnidos han sido los responsables.&lt;BR&gt;&lt;BR&gt;Ve a registrar las cavernas para encontrarlos. Y s&amp;#225;lvalos, si puedes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">(El cad&amp;#225;ver tiene un aspecto horriblemente mutilado.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">(Un olor a veneno emana del cuerpo.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">Los aldeanos estaban condenados en el segundo en que los ar&amp;#225;cnidos los secuestraron.&lt;BR&gt;&lt;BR&gt;Es una pena, pero tus esfuerzos por encontrarlos siguen siendo loables. Gracias.</Page>
+    </Text>
+</QuestDialog>

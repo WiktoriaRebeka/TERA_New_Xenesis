@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="5">Los argons se vuelven m&amp;#225;s fuertes tan r&amp;#225;pido como los matamos. Necesito que aumentes la presi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ve a matar aplastadores hulrap, golpeadores vulnaq, aturdidoras y c&amp;#237;clopes zariik, prelados iknephar, centinelas kalash y matones syndrene cada vez que te cruces con ellos.&lt;BR&gt;&lt;BR&gt;Informa a Sistiren, en la Ciudadela de Khanovar, cuando hayas terminado tu misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1002">
+        <Page social="5">Bien hecho, &lt;PCNAME&gt;. Esto deber&amp;#237;a permitir que nuestras tropas ganen terreno.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1002">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

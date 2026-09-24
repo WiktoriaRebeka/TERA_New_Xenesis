@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">Parece que la jerarqu&amp;#237;a entre los triperos es bastante peculiar. Estos {@LinkCreature:21#5#proph&amp;#232;tes} y estos {@LinkCreature:21#30#chamanes} merodeadores de despe&amp;#241;adero son algo as&amp;#237; como el equivalente a oficiales.&lt;BR&gt;&lt;BR&gt;Para los profetas y chamanes, as&amp;#237; como para los simples combatientes, los b&amp;#225;culos que llevan son sagrados. Al apoderarnos de estos b&amp;#225;culos, eliminaremos sus objetos de culto.&lt;BR&gt;&lt;BR&gt;Y cuando su fe vacile, su voluntad de luchar se desmoronar&amp;#225; por s&amp;#237; sola.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">&amp;#161;Miren all&amp;#225;! &amp;#161;El descontento crece entre los combatientes de los merodeadores de despe&amp;#241;adero, tal como lo planeamos! &amp;#161;Has hecho un trabajo excelente!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">&amp;#161;La mejor manera de romper su moral es quitarles sus objetos de culto. &amp;#161;Deber&amp;#237;as darte prisa!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="4">&lt;PCNAME&gt; &amp;#161;Has abierto el teleportal!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a ti, por fin merezco el t&amp;#237;tulo de buscador de portales! &amp;#161;Gracias!&lt;NEXTPAGEBUTTON&gt;"Encantado{@g:/e} de poder ayudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Has hecho mucho m&amp;#225;s que ayudar.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que tienes tus propios problemas, pero antes de que te vayas, &amp;#191;podr&amp;#237;a pedirte un &amp;#250;ltimo favor?&lt;NEXTPAGEBUTTON&gt;"¿De qué se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Es un d&amp;#237;a bendito aquel en el que todos los barakas del mundo pueden volver a ver la cuna de sus antepasados. &amp;#191;Podr&amp;#237;as hacerles saber que Allemantheia est&amp;#225; de nuevo a su alcance?&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as repartir estas invitaciones a mis hermanos barakas en Velika?&lt;NEXTPAGEBUTTON&gt;"Me encargo de ello."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1567">
+        <Page social="4">&amp;#191;De d&amp;#243;nde vienes?&lt;BR&gt;&lt;BR&gt;&amp;#191;De Allemantheia? &amp;#191;Ese pueblo sigue en pie despu&amp;#233;s de todo este tiempo?&lt;NEXTPAGEBUTTON&gt;"Así es, y los barakas de allí desean que los visites."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Es realmente un d&amp;#237;a inolvidable!&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Voy a informar a los barakas de Kaiator y de Allemantheia.&lt;BR&gt;&lt;BR&gt;Gracias por traerme este mensaje y, cuando vuelvas a Allemantheia, diles que los barakas van a ponerse en marcha.&lt;NEXTPAGEBUTTON&gt;"Lo haré."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2055">
+        <Page social="4">Le has prestado un servicio prodigioso al pueblo baraka, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que nunca podr&amp;#233; recompensarte como te mereces, pero acepta esta muestra de mi gratitud.&lt;NEXTPAGEBUTTON&gt;"Gracias, Garm."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

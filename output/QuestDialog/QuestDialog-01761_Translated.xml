@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Los efectos de la poci&amp;#243;n se disiparon de repente en pleno territorio enemigo, pero &lt;PCNAME&gt; pudo escapar r&amp;#225;pidamente, matando enemigos en su camino.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(&amp;#161;La poci&amp;#243;n de invisibilidad se ha disipado! &amp;#161;Los Parth pueden verte y no parecen muy contentos!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Habl&amp;#233; con Hagand y me dijo que te hab&amp;#237;a dado una poci&amp;#243;n de invisibilidad. &amp;#191;No te molestaste en usarla?&lt;BR&gt;&lt;BR&gt;&amp;#161;Eso es muy t&amp;#237;pico de &lt;PCNAME&gt; {@g:/e}{@g:/e}! &amp;#161;No me extra&amp;#241;a que todo el mundo hable solo de ti!&lt;BR&gt;&lt;BR&gt;&amp;#191;Conseguiste las Piedras de relatividad?&lt;NEXTPAGEBUTTON&gt;"Trago una buena docena de vuelta."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

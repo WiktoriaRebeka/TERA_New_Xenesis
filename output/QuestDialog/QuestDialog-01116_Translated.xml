@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">As&amp;#237; que te est&amp;#225;s enfrentando a la conspiraci&amp;#243;n de los nagas y los mekonaris. Me impresionas.&lt;BR&gt;&lt;BR&gt;Lo he estado pensando mucho, &lt;PCNAME&gt;, y creo que los {@LinkCreature:42#1100#enchanteresses nixes} podr&amp;#237;an estar mezclados en esto. Si te enteras de algo masacrando monstruos, av&amp;#237;sale a Vries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="4">&amp;#191;Una traducci&amp;#243;n? Por supuesto...&lt;BR&gt;&lt;BR&gt;&quot;Resucitar a nuestro se&amp;#241;or Dagon...&quot; Eso no es de extra&amp;#241;ar. &quot;... ofrendas de sangre... sacrificio... fuente de poder arcano...&quot;&lt;BR&gt;&lt;BR&gt;Por Karas, &amp;#191;de verdad podr&amp;#237;an hacer algo as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Ve a ver a Darim; piensa bien las cosas y es nuestro mejor estratega. Rep&amp;#237;tele lo que dice aqu&amp;#237;. Encontrar&amp;#225; un plan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">&amp;#191;Te enfrentaste a los {@LinkCreature:42#1100#enchanteresses nixes}? &amp;#191;Tienes algo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1035">
+        <Page social="5">Dagon. &amp;#161;Por Kaia...!&lt;BR&gt;&lt;BR&gt;Los nagas ya son una plaga, pero si hicieran regresar a Dagon, no servir&amp;#237;a de nada esconderse. Todas las ciudades de la regi&amp;#243;n quedar&amp;#237;an reducidas a cenizas.&lt;BR&gt;&lt;BR&gt;Y nosotros tambi&amp;#233;n.</Page>
+    </Text>
+</QuestDialog>

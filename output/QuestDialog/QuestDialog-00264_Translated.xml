@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">Estamos aqu&amp;#237; para bloquear este paso y evitar que los gulas salgan... y nos caigan encima de sorpresa. &amp;#161;El problema es que su n&amp;#250;mero no para de aumentar&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Deb&amp;#237;amos recibir refuerzos procedentes del {@Rgn:62001$$Port Coupe-gorge}, pero me pregunto si nos habr&amp;#225;n olvidado...&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a ver a {@LinkCreature:62#1007$$Kasib} al {@Rgn:62001$$Port Coupe-gorge} y preguntarle qu&amp;#233; pasa con los refuerzos prometidos&amp;nbsp;? No podremos retener a estas bestias por mucho m&amp;#225;s tiempo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#161;Lo s&amp;#233;... Lo s&amp;#233;&amp;nbsp;! &amp;#161;Es una locura ah&amp;#237; fuera. Es una locura en todas partes&amp;nbsp;! La verdad es que este mundo se est&amp;#225; hundiendo en el caos.&lt;BR&gt;&lt;BR&gt;Pero no puedo hacer aparecer soldados chasqueando los dedos. Dile a {@LinkCreature:209#1007$$Raviv} que, por desgracia, no puedo decirle cu&amp;#225;ndo podremos enviarle refuerzos.&lt;BR&gt;&lt;BR&gt;S&amp;#233; por lo que est&amp;#225;n pasando los suyos, pero deben proteger el {@Rgn:9011$$Avant-poste des Chasseurs de Reliques} a toda costa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1007">
+        <Page social="4">&amp;#191;&amp;#201;l sabe que no tenemos ninguna posibilidad de salir solos y la respuesta es &quot;arr&amp;#233;glenselas como puedan&quot;&amp;nbsp;? Magn&amp;#237;fico... &lt;BR&gt;&lt;BR&gt;Oye, no vayas esparciendo el rumor, &amp;#191;entendido&amp;nbsp;? Yo... No me gusta tener que mentir a mis soldados, pero si se enteran de que los refuerzos no vendr&amp;#225;n, tanto vale decir que este lugar est&amp;#225; perdido de antemano.&lt;BR&gt;&lt;BR&gt;Gracias por hacer el viaje.</Page>
+    </Text>
+</QuestDialog>

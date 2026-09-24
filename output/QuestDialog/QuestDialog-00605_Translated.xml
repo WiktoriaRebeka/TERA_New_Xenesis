@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="4">&amp;#191;Has o&amp;#237;do hablar de {@LinkCreature:21#5003#M&amp;#226;choire sanglante}? Es el peor de todos los basiliscos de este escarpe. Ninguno de nosotros est&amp;#225; a la altura.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que t&amp;#250; ser&amp;#225;s la excepci&amp;#243;n?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1031">
+        <Page social="8">&amp;#161;Ja! Sab&amp;#237;a que pod&amp;#237;as triunfar, &lt;PCNAME&gt;. De hecho, &amp;#161;incluso apost&amp;#233; fuerte por ti!&lt;BR&gt;&lt;BR&gt;Ahora que este basilisco sanguinario est&amp;#225; muerto, el resto de nosotros deber&amp;#237;a poder aventurarse en esta regi&amp;#243;n. &amp;#161;Buen trabajo! &amp;#161;Te has ganado esto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1031">
+        <Page social="0">Apost&amp;#233; una gran suma a tu &amp;#233;xito. No quiero adelantarme demasiado, &amp;#161;pero es una gran cuota con una buena proporci&amp;#243;n! Si ganas, &amp;#161;es el premio gordo!</Page>
+    </Text>
+</QuestDialog>

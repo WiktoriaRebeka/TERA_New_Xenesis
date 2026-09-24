@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="0">Jelena ha renunciado a su desconfianza hacia los revolucionarios, pero sigue rechazando sus m&amp;#233;todos. Se esforzaba por encontrar una mejor manera de resolver los problemas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Aunque, bien pensado, los revolucionarios no eran culpables, no puedo aprobar su comportamiento irresponsable.&lt;BR&gt;&lt;BR&gt;Si el polvo es realmente la causa de la cristalizaci&amp;#243;n y se propaga en presencia de criaturas vivas, de nada sirve reunir a los pacientes aqu&amp;#237; mientras se permite que el polvo siga propag&amp;#225;ndose.&lt;BR&gt;&lt;BR&gt;&amp;#161;Necesitamos una soluci&amp;#243;n mejor! &lt;BR&gt;&amp;#161;Si no, estamos todos perdidos!&lt;NEXTPAGEBUTTON&gt;"¿Tienes una solución?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Es el polvo lo que debemos neutralizar.&lt;BR&gt;&lt;BR&gt;Escucha: por aqu&amp;#237; cerca, vi cajas en las que los revolucionarios recolectaron el polvo.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos encontrarle un mejor uso a este polvo, antes de que esos revolucionarios vuelvan a darle un uso absurdo. &lt;BR&gt;&lt;BR&gt;Te pido que me ayudes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Los revolucionarios parecen haber eliminado ya los cristales naranjas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Excelente trabajo. &lt;BR&gt;&lt;BR&gt;&amp;#191;Y bien?&lt;BR&gt;&amp;#191;Has encontrado alguno?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No esperaba ver tantos.&lt;BR&gt;&lt;BR&gt;Por fin pusimos las manos en ellos y ahora resulta que no tengo la menor idea de c&amp;#243;mo destruirlo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; te parece si le echas un vistazo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1042">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ey! &lt;BR&gt;&lt;BR&gt;&amp;#191;Todo bien?&lt;BR&gt;Es mejor no intentar destruirlo con m&amp;#233;todos tan rudimentarios. &lt;BR&gt;Es in&amp;#250;til tomar riesgos innecesarios.&lt;BR&gt;&lt;BR&gt;Voy a enviarlo al Mysterium para que lo analicen.&lt;BR&gt;Has hecho un buen trabajo.</Page>
+    </Text>
+</QuestDialog>

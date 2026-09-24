@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te has encontrado con Rikum, el ingeniero de vuelo del Puesto comercial de Amadjuak. Con el fin de ayudarle a recuperar su documento de investigaci&amp;#243;n, empe&amp;#241;ado a Garta, visitaste a este &amp;#250;ltimo para verificar si el documento estaba da&amp;#241;ado.&lt;BR&gt;&lt;BR&gt;Puesto que el plazo de reembolso de Rikum hab&amp;#237;a expirado, aceptaste hacerle un favor a Garta a cambio del informe de Rikum. Se te encarg&amp;#243;{@g:/e} encontrar la rana de Garta. Esta se hallaba en lo alto de un carro y, para permitirte sacarla de ah&amp;#237;, Garta te confi&amp;#243; un documento misterioso.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1500">
+        <Page social="4">&amp;#191;Aceptar&amp;#237;as ayudarme?&lt;BR&gt;Para poder continuar mis investigaciones, le ped&amp;#237; un poco prestado a Garta, en el Puesto comercial de Amadjuak.&lt;BR&gt;A cambio, ese ave de rapi&amp;#241;a exigi&amp;#243; que empe&amp;#241;ara un documento que conten&amp;#237;a mis notas de investigaci&amp;#243;n, muy valiosas a mis ojos.&lt;NEXTPAGEBUTTON&gt;Escuchas el resto.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ahora puedo devolverle el dinero prestado y recuperar mi documento. &lt;BR&gt;&lt;BR&gt;Pero me temo que lo haya da&amp;#241;ado. Despu&amp;#233;s de todo, solo le importa el dinero.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a verlo para comprobar que no ha maltratado mi documento?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">&amp;#191;Krr? &amp;#161;Gordinfl&amp;#243;n estar en apuros!&lt;BR&gt;&lt;BR&gt;No importa. Documento pertenecerme.&lt;BR&gt;Deber&amp;#237;a haber devuelto el dinero m&amp;#225;s r&amp;#225;pido. Ahora es m&amp;#237;o. &amp;#161;Krrr!&lt;NEXTPAGEBUTTON&gt;"Tal vez podamos llegar a un acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">Krrr, si t&amp;#250; querer ayudar, Garta pensar.&lt;BR&gt;&lt;BR&gt;Adorable rana de Garta desaparecer esta ma&amp;#241;ana.&lt;BR&gt;A ella gustarle todas las cosas brillantes.&lt;BR&gt;Sin duda saltar hasta el mercader de cristales. &amp;#161;Krr!&lt;BR&gt;&lt;BR&gt;Traer rana a Garta y Garta devolver documentos de gordinfl&amp;#243;n. &amp;#161;Krrrr!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2904">
+        <Page social="0">&amp;#191;C&amp;#243;mo? &amp;#191;La rana de Garta?&lt;BR&gt;A este bicho solo le importa lo que brilla, como a su amo... La vi saltar por los alrededores hace un momento, pero la espant&amp;#233;...&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves ese carro enorme de ah&amp;#237;? Creo que se fue en esa direcci&amp;#243;n.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2002">
+        <Page social="3">Krr&amp;nbsp;? Adorable grenouille aimer hauteur. Vouloir peut-être des ailes. Et donc grimper là-haut.&lt;BR&gt;Tenez, prendre ça. Si tu l'utiliser, tu pouvoir atteindre grenouille. Krrr.</Page>
+    </Text>
+</QuestDialog>

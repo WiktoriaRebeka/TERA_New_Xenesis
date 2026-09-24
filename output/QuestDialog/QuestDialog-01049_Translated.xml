@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="4">Los {@LinkCreature:40#17#loups mutag&amp;#232;nes} se acercan d&amp;#237;a con d&amp;#237;a. Anta&amp;#241;o juramos que jam&amp;#225;s abandonar&amp;#237;amos este lugar, pero nuestras vidas podr&amp;#237;an depender de ello.&lt;BR&gt;&lt;BR&gt;&amp;#191;Acaso &lt;PCNAME&gt; va a ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1016">
+        <Page social="4">La defensa llegar&amp;#225; pronto para terminar el trabajo y, por ahora, hay muchos menos lobos. Recuperamos la esperanza.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">S&amp;#233; que prometiste venir a jugar un rato conmigo, pero mi padre de verdad necesita ayuda para resolver su problema con los porcinos.&lt;BR&gt;&lt;BR&gt;No paran de escaparse...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="4">Es un buen tipo, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Hab&amp;#237;amos domesticado algunos porcinos piglings, pero se escaparon cuando las hadas se volvieron locas.&lt;BR&gt;&lt;BR&gt;Si quieres ser de utilidad, toma estos dardos de feromonas para hacer que algunos regresen por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Llama su atenci&amp;#243;n y luego usa los dardos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2" villagerId="27">
+        <Page social="0">(Lleva a los porcinos ante Maon.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="4">Muchas gracias. Todav&amp;#237;a faltan algunos, pero es un buen comienzo. Espero poder contar otra vez con tu ayuda.</Page>
+    </Text>
+</QuestDialog>

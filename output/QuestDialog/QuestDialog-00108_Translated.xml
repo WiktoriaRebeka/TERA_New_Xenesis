@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="4">Hacen cosas extra&amp;#241;as en Castanica, &lt;PCCLASS:lcase&gt;. Uno camina por la calle y un tipo te vende algo de lo que jam&amp;#225;s hab&amp;#237;as o&amp;#237;do hablar.&lt;BR&gt;&lt;BR&gt;Y he o&amp;#237;do decir (por el amigo de un amigo, por supuesto) que venden, entre otras cosas, huesos de {@LinkCreature:4#2031#cardinaux eldritchs}.&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s como ingrediente medicinal, supongo. No lo s&amp;#233; y no tengo ganas de saberlo. Pero si eso puede reportar algo...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1108">
+        <Page social="4">Voy a enviar esto a Castanica. Aqu&amp;#237; tienes tu parte. Y no se lo digas a los otros soldados. Esto queda entre nosotros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1108">
+        <Page social="0">Como veas. Pero si no piensas ayudarme, cuento con tu discreci&amp;#243;n al respecto.&lt;BR&gt;&lt;BR&gt;No le digas a nadie que pago muy caros los huesos de eldritch, &amp;#191;de acuerdo?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="4">&amp;#191;Has visto la guardia ksharane de Thulsa?&lt;BR&gt;&lt;BR&gt;Se ha apoderado del centro de mando principal ubicado al noreste de la forja, y hasta que no los enfrentemos, no podremos retomar el resto del complejo.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que elimines a los archisacertes y vanguardias ksharans antes de traerme sus amuletos. &amp;#191;Crees que puedes encargarte de esto, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1035">
+        <Page social="4">Ten&amp;#237;a raz&amp;#243;n... &amp;#161;sab&amp;#237;a que lo lograr&amp;#237;as!&lt;BR&gt;&lt;BR&gt;Estamos en buen camino para arrebatarle este lugar al enemigo. &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1035">
+        <Page social="0">Tr&amp;#225;eme una prueba de la muerte de los ksharans.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que es dif&amp;#237;cil, pero tengo fe en tus capacidades.</Page>
+    </Text>
+</QuestDialog>

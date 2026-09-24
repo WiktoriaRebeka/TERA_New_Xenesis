@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Antiguamente, los nagas ven&amp;#237;an de vez en cuando a venerar a Dagon y luego se iban. Ahora nos hacen frente.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:42#200#pourfendeurs dagonites} tal vez puedan darnos la respuesta. Si matas a suficientes, quiz&amp;#225;s encontremos pruebas, documentos... &amp;#191;qui&amp;#233;n sabe?&lt;BR&gt;&lt;BR&gt;Y al menos morir&amp;#237;an nagas, lo cual siempre es algo bueno.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Veamos qu&amp;#233; dicen estas &amp;#243;rdenes... &lt;BR&gt;&lt;BR&gt;... \&quot;Nosotros, los ancianos de la Isla Serpentis... completar la misi&amp;#243;n...\&quot;. S&amp;#237;, esto es exactamente lo que busc&amp;#225;bamos.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. La Federaci&amp;#243;n te debe mucho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">&amp;#191;Por qu&amp;#233; se han quedado los nagas? &amp;#191;Crees que los {@LinkCreature:42#200#pourfendeurs dagonites} lo saben? &amp;#191;Piensas que matar a unos cuantos podr&amp;#237;a darnos la respuesta?</Page>
+    </Text>
+</QuestDialog>

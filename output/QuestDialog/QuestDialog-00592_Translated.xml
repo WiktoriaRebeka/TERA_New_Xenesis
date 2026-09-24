@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="4">&amp;#161;Ay&amp;#250;danos, te lo ruego!&lt;BR&gt;&lt;BR&gt;Unos {@LinkCreature:21#22#faucheurs}, unos {@LinkCreature:21#23#tr&amp;#233;panneurs}, unos {@LinkCreature:21#27#guetteurs} y unos {@LinkCreature:21#6#champions} merodeadores de despe&amp;#241;adero robaron las estatuas sagradas que tanto nos cost&amp;#243; conseguir y huyeron con ellas hacia el oeste en direcci&amp;#243;n al desierto.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pagamos un alto precio por estas estatuas y no podemos perderlas! &amp;#161;Por favor, r&amp;#225;stralos y recupera nuestras estatuas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#161;Qu&amp;#233; alivio! &amp;#191;Y adem&amp;#225;s est&amp;#225;n intactas? &amp;#161;Fant&amp;#225;stico!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta recompensa junto con mi m&amp;#225;s sincero agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1020">
+        <Page social="0">&amp;#161;Necesitamos estas estatuas, &lt;PCNAME&gt;! &amp;#161;Son las llaves que abren la puerta a los secretos de estas ruinas!</Page>
+    </Text>
+</QuestDialog>

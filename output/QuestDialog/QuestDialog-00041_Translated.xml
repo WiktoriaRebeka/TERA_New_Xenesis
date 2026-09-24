@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">A los lechones les encanta todo lo que brilla, especialmente las perlas.&lt;BR&gt;&lt;BR&gt;Se las arreglaron para quit&amp;#225;rmelas ayer y huyeron hacia el bosque.&lt;BR&gt;&lt;BR&gt;Han estado en mi familia por generaciones. Por favor, tr&amp;#225;emelas de vuelta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="4">&amp;#161;Ah! &amp;#161;Aqu&amp;#237; est&amp;#225;n de nuevo! S&amp;#237;, son exactamente esas. &amp;#161;Muchas gracias! &amp;#161;No habr&amp;#237;a soportado perderlas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1021">
+        <Page social="0">&amp;#161;Qu&amp;#233; horror, no lograste encontrarlas! &amp;#161;Es terrible!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">&amp;#191;Sab&amp;#237;as que los {@LinkCreature:21#1#basilics mat vicieux} est&amp;#225;n cubiertos de las escamas m&amp;#225;s ligeras y al mismo tiempo m&amp;#225;s gruesas? Si me traes algunas, podr&amp;#237;a reforzar la armadura de nuestros soldados. &amp;#161;Se salvar&amp;#225;n muchas vidas!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; te parece?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">&amp;#161;No me hab&amp;#237;an contado mentiras! &amp;#161;Eres un combatiente excepcional!&lt;BR&gt;&lt;BR&gt;Gracias por las escamas. &amp;#161;Les daremos un buen uso!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">No es f&amp;#225;cil, &amp;#161;pero no te lo habr&amp;#237;a pedido si no fuera tan importante!</Page>
+    </Text>
+</QuestDialog>

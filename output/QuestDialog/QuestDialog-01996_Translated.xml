@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Deseas que Thro te acompa&amp;#241;e?&lt;BR&gt;Thro es nuestro mejor t&amp;#233;cnico. &lt;BR&gt;&amp;#161;Me niego! &amp;#161;No quiero dejarlo ir!&lt;NEXTPAGEBUTTON&gt;"Necesito absolutamente a Thro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Tu situaci&amp;#243;n parece desesperada. Bien. De acuerdo.&lt;BR&gt;&lt;BR&gt;Si me traes los lingotes de metal de alta pureza que los orkans de la Espina de Acero me robaron, podr&amp;#233; venderlos a buen precio. En cuyo caso, podremos prescindir provisionalmente de Thro.&lt;BR&gt;&lt;BR&gt;Busca los lingotes de acero de alta pureza en la caja de chatarra de los orkans. Los orkans tiran todo lo que cae en sus manos en su caja de chatarra. &lt;BR&gt;No son muy ordenados. &lt;BR&gt;&lt;BR&gt;Todo su bot&amp;#237;n tambi&amp;#233;n termina en la caja de chatarra. Busca en sus cajas.&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6000">
+        <Page social="4" voiceTypeId="0">&amp;#161;Vaya! &amp;#161;Los encontraste de verdad!&lt;BR&gt;&lt;BR&gt;Estaba seguro de que lograr&amp;#237;as recuperar los lingotes de acero de alta pureza robados por los orkans. Es un buen trabajo.&lt;BR&gt;&lt;BR&gt;Te entrego una carta que indica que autorizo a Thro a acompa&amp;#241;arte. &lt;BR&gt;Toma, lleva este documento.&lt;NEXTPAGEBUTTON&gt;"Acepto con alegría el acuerdo escrito de los mercaderes de insignias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6000">
+        <Page social="0">Bah.&lt;BR&gt;No ser&amp;#225; gratis, por muy desesperado que est&amp;#233;s. &lt;BR&gt;&lt;BR&gt;Si quieres que Thro te acompa&amp;#241;e, debes traerme los lingotes de metal de alta pureza.</Page>
+    </Text>
+</QuestDialog>

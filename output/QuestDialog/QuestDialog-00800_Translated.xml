@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Fraya estaba convencida de que Kaidun, quien hab&amp;#237;a sido capturado por Thulsa, segu&amp;#237;a con vida. Por eso te pidi&amp;#243; que fueras en su auxilio. Te entreg&amp;#243; un colgante que deb&amp;#237;a brillar mientras Kaidun estuviera vivo. Lograste infiltrarte en la Citadelle du tourment, donde pusiste tus manos en el Grimoire du Martyre. Gracias a este &amp;#250;ltimo, descubriste la ubicaci&amp;#243;n de un centro de investigaci&amp;#243;n secreto perteneciente a Thulsa, en las profundidades de la Citadelle du tourment.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Un soldado debe saber dejar que otros asuman las responsabilidades que &amp;#233;l no puede aceptar en persona.&lt;BR&gt;&lt;BR&gt;Mi deber me ordena quedarme aqu&amp;#237;, pero mi coraz&amp;#243;n est&amp;#225; con Kaidun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Tambi&amp;#233;n me gustar&amp;#237;a partir de inmediato en busca de Kaidun. Pero resulta que soy la comandante de Allemantheia. Ya que Serion ha desaparecido, es mejor que me quede en Allemantheia. Uno nunca sabe.&lt;BR&gt;&lt;BR&gt;Eres la primera persona a la que le muestro esta gema. Pero s&amp;#233; que puedo confiar en ti. Es realmente extra&amp;#241;a... Sin embargo, apenas nos conocemos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as encontrar a Kaidun y salvarlo por m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Muchas gracias.&lt;BR&gt;&lt;BR&gt;&amp;#8230;&lt;BR&gt;&lt;BR&gt;&amp;#191;Te acuerdas de {@linkcreature:73#1110#Harule}, la agente del Mysterium que vino de Acarum? Esta vez tambi&amp;#233;n te va a ayudar. Gracias por cuidar bien de Kaidun.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Te estaba esperando, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Recientemente habl&amp;#233; con Ghufran, quien vino en secreto a Acarum, y obtuve informaci&amp;#243;n adicional. El ej&amp;#233;rcito de Kaidun cay&amp;#243; en una trampa en la Citadelle du tourment.&lt;BR&gt;&lt;BR&gt;Parece que Thulsa realiz&amp;#243; all&amp;#237; antiguamente experimentos con muertos vivientes. Al explorar este lugar, tal vez descubramos d&amp;#243;nde se encuentra Kaidun.&lt;BR&gt;&lt;BR&gt;Ve a encontrar a {@linkcreature:73#1009#Georrif}, el capit&amp;#225;n de la guarnici&amp;#243;n de Acarum. Conoce bien el asunto y podr&amp;#225; ayudarte.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1009">
+        <Page social="5" voiceTypeId="0">Entendido. Debemos pedir ayuda a las fuerzas especiales de Dreadspire. Sin embargo, en este momento est&amp;#225;n ocupados con los no-muertos. As&amp;#237; que probablemente no podamos exigirles demasiado.&lt;BR&gt;&lt;BR&gt;Primero, ve al este de Acarum para encontrar a {@linkcreature:232#1029#Maianwe}. Ella te dir&amp;#225; c&amp;#243;mo llegar a Dreadspire.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="232" prevId="5" villagerId="1029">
+        <Page social="5" voiceTypeId="0">&amp;#191;Quieres ir a Dreadspire? &amp;#191;Eres un nuevo recluta del comando especial? &amp;#191;Eh? &amp;#191;Una misi&amp;#243;n individual extraordinaria? &amp;#161;Debes ser m&amp;#225;s capaz de lo que aparentas!&lt;BR&gt;&lt;BR&gt;Dreadspire es una gigantesca fortaleza antigua. Cruza el puente, sigue el camino y pronto se alzar&amp;#225; ante ti. La magia de Thulsa sigue siendo tan poderosa all&amp;#237; que el lugar est&amp;#225; plagado de no-muertos y monstruos extra&amp;#241;os.&lt;BR&gt;&lt;BR&gt;La oficial a cargo de las fuerzas especiales es {@linkcreature:233#1001#Alssiyah}. Ve a verla antes de empezar tu misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="233" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">He o&amp;#237;do hablar de la petici&amp;#243;n de Georrif. Se trata de Kaidun, el h&amp;#233;roe Aman. Haremos todo lo posible.&lt;BR&gt;&lt;BR&gt;En Dreadspire hemos visto a varios soldados que parec&amp;#237;an formar parte del ej&amp;#233;rcito de Kaidun. Sin embargo, desgraciadamente no sabemos d&amp;#243;nde est&amp;#225; Kaidun. El agente del Mysterium {@linkcreature:233#1003#Meygren} se encarga de la investigaci&amp;#243;n. Escucha lo que tiene que decirte.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="233" prevId="7" villagerId="1003">
+        <Page social="5" voiceTypeId="0">Todav&amp;#237;a no hemos obtenido ninguna informaci&amp;#243;n concreta sobre el paradero de Kaidun. Como la magia de Thulsa estropea toda la fortaleza, no podemos usar realmente la magia para nuestra b&amp;#250;squeda.&lt;BR&gt;&lt;BR&gt;En cambio, los exploradores informaron sobre bufones malditos en el cuarto nivel. Esos rufianes obedecen las &amp;#243;rdenes de Thulsa. Puede que tengan algo de informaci&amp;#243;n para nosotros.&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que elimina a los bufones malditos y consigue informaci&amp;#243;n! &amp;#161;Date prisa, por favor!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="233" prevId="8" villagerId="1003">
+        <Page social="4" voiceTypeId="0">&amp;#191;El... Grimorio del martirio? Voy a estudiarlo ahora mismo. &lt;BR&gt;&lt;BR&gt;(Meygren hojea el libro con aire serio.)&lt;BR&gt;&lt;BR&gt;Mjum... El Grimorio del martirio afirma que el laboratorio secreto de Thulsa est&amp;#225; ubicado bajo Dreadspire. Aparentemente, se llama Tumba de los nigromantes.&lt;NEXTPAGEBUTTON&gt;"¿Un laboratorio secreto subterráneo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si Kaidun sigue con vida, &amp;#161;seguro que est&amp;#225; prisionero ah&amp;#237;! La Tumba de los nigromantes debe de estar escondida en alg&amp;#250;n lugar de las profundidades.&lt;BR&gt;&lt;BR&gt;Un investigador del Mysterium llamado {@linkcreature:233#1008#Lastair} se encuentra en el segundo s&amp;#243;tano de la Guarida sangrienta, en Dreadspire. &amp;#161;Ve a hablar con &amp;#233;l y preg&amp;#250;ntale d&amp;#243;nde est&amp;#225; la Tumba de los nigromantes! &amp;#161;Debes liberar a Kaidun a toda costa!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="233" villagerId="1003">
+        <Page social="0">&amp;#191;Has conseguido algo de los bufones&amp;nbsp;?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="233" prevId="9" villagerId="1008">
+        <Page social="5" voiceTypeId="0">&amp;#191;Una tumba de los nigromantes en el s&amp;#243;tano&amp;nbsp;? Imposible... lo habr&amp;#237;a descubierto.&lt;BR&gt;&lt;BR&gt;A menos que est&amp;#233; al otro lado del escudo. Hay un lugar en las Profundidades sangrientas al que una barrera m&amp;#225;gica le impide el acceso. Todav&amp;#237;a no he intentado cruzarla... ten&amp;#237;a demasiado trabajo.&lt;BR&gt;&lt;BR&gt;Pero no existe ning&amp;#250;n escudo invulnerable. Toda cerradura tiene su llave.</Page>
+    </Text>
+</QuestDialog>

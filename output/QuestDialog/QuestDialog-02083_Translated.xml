@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="132">
+        <Page social="4" voiceTypeId="0">&amp;#161;Espera!&lt;BR&gt;Dougal, de la Valkyon Federation Headquarters, te est&amp;#225; esperando.&lt;BR&gt;&lt;BR&gt;Parece tener algo que decirte. &amp;#191;Podr&amp;#237;as ir a verlo antes de marcharte?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Anya desapareci&amp;#243; tras escuchar la voz del &amp;#225;rbol de Tiaran y los guardianes le siguieron los pasos. &lt;BR&gt;&lt;BR&gt;Todo eso te preocupaba, as&amp;#237; que tambi&amp;#233;n fuiste tras ella.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="101">
+        <Page social="0">&amp;#191;Vuelves en ti?&lt;BR&gt;Qu&amp;#233; suerte, las heridas no son profundas.&lt;NEXTPAGEBUTTON&gt;"¿Quién eres?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Olvid&amp;#233; por completo presentarme. Me llamo Dougal y vengo de Velika.&lt;BR&gt;&lt;BR&gt;Walgrey, el anciano de la aldea, me inform&amp;#243; de que los argons atacaban la aldea y corr&amp;#237; lo m&amp;#225;s r&amp;#225;pido posible.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; se est&amp;#225;n tramando varias cosas muy sospechosas, pero primero deber&amp;#237;amos deshacernos de los argons.&lt;NEXTPAGEBUTTON&gt;"¿No habrás visto a Anya por casualidad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Hablas de la ni&amp;#241;a con vestido rojo?&lt;BR&gt;Caminaba con paso impasible en direcci&amp;#243;n al templo del &amp;#225;rbol.&lt;BR&gt;&lt;BR&gt;&amp;#201;mun y los guardianes la siguieron de inmediato, pero me preocupa porque no sabemos a cu&amp;#225;ntos argons nos enfrentamos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, ahora que lo pienso! Encontr&amp;#233; un mensaje dirigido a ti por los alrededores. Ll&amp;#233;valo contigo.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="101">
+        <Page social="4" voiceTypeId="0">Si hasta la ni&amp;#241;a ha desaparecido, entonces todos los ni&amp;#241;os del &amp;#225;rbol de Tiaran est&amp;#225;n ahora inlocalizables, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Seir dijo que la situaci&amp;#243;n podr&amp;#237;a ser mucho m&amp;#225;s grave de lo previsto si la llegada de los argons tiene relaci&amp;#243;n con el &amp;#225;rbol de Tiaran.&lt;BR&gt;&lt;BR&gt;Los argons suelen actuar &amp;#250;nicamente para conquistar o absorber fuerzas. Aparentemente, planean usar a esta ni&amp;#241;a para absorber las fuerzas del &amp;#225;rbol de Tiaran.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; a informarle a Seir y a pedir refuerzos.&lt;NEXTPAGEBUTTON&gt;"Ya me pongo en marcha."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Vas a estar bien?&lt;BR&gt;&lt;BR&gt;(Percibe tu mirada decidida.)&lt;BR&gt;&lt;BR&gt;S&amp;#237;. Bien.&lt;BR&gt;Voy a informarle a Seir y luego te alcanzo.&lt;BR&gt;&lt;BR&gt;Ten mucho cuidado.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="161">
+        <Page social="0" voiceTypeId="0">Como puedes ver, los argons atacaron al mensajero.&lt;BR&gt;Te ruego que no me molestes, ya que debo concentrarte en curarlo.&lt;NEXTPAGEBUTTON&gt;"¿Has visto a Anya y a los guardianes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yo no, pero este mensajero debi&amp;#243; de verlos.&lt;BR&gt;&lt;BR&gt;En efecto, se dirig&amp;#237;a hacia Dougal tras ver a la ni&amp;#241;a y a los guardianes en el templo del &amp;#225;rbol.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo? &amp;#191;Hablar con &amp;#233;l... ahora?&lt;BR&gt;No. Ya ves en qu&amp;#233; estado est&amp;#225;. Es incapaz de mantener una conversaci&amp;#243;n normal en estas condiciones.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

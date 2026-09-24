@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#201;lion te busca para hablar de su pr&amp;#243;ximo objetivo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has conocido a Revenj, un naga que se niega a someterse a la tiran&amp;#237;a de los altos dragones, y has obtenido cierta informaci&amp;#243;n sobre el grupo de los riverans. Revenj te ha revelado el lugar donde los aldeanos han sido prisioneros. Tambi&amp;#233;n te ha contado que los nagas recolectaban cristales para d&amp;#225;rselos de comer a los parfs y te ha pedido ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20109">
+        <Page social="0">&lt;PCNAME&gt;, gracias a ti, los aldeanos prisioneros en la mansi&amp;#243;n est&amp;#225;n a salvo. Pero a&amp;#250;n quedan m&amp;#225;s aldeanos cautivos en Exodor.&lt;BR&gt;&lt;BR&gt;Debemos liberarlos a todos y encontrar la manera de detener Exodor.&lt;BR&gt;&lt;BR&gt;Los aldeanos y Thro ya se han adelantado. Deber&amp;#237;amos seguirles el paso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="20101">
+        <Page social="0" voiceTypeId="0">Es imposible.&lt;BR&gt;&lt;BR&gt;Por m&amp;#225;s que le doy vueltas al asunto, parece imposible movernos en grupo sin ser descubiertos. Te das cuenta, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a saber qu&amp;#233; rayos se le pas&amp;#243; por la cabeza a Elion. Si nos quedamos juntos, seremos una presa f&amp;#225;cil para el Arkarp, &amp;#191;no crees?&lt;BR&gt;&lt;BR&gt;Creo que ser&amp;#237;a mejor empezar por detener Exodor. Si Elion insiste tanto en evacuar a los aldeanos, ser&amp;#225; mejor que nos separemos.&lt;NEXTPAGEBUTTON&gt;"Calmécete."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tienes raz&amp;#243;n. Me he alterado un poco. Tengo unas ganas furiosas de abofetear a Elion.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que ser&amp;#225; mejor que vayas a hablar con &amp;#233;l para que luego me cuentes lo que dijo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Claro que entiendo el punto de vista de Thro.&lt;BR&gt;&lt;BR&gt;Pero aun as&amp;#237;, es crucial evacuar a los aldeanos cueste lo que cueste.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos debatir esto todos juntos.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Entendido.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos movernos por separado.&lt;BR&gt;&lt;BR&gt;Propongo encargar a Thro, Armande y Aurl que busquen un lugar seguro para los aldeanos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; y yo seguiremos a Jelena, quien parti&amp;#243; en busca de los dem&amp;#225;s prisioneros.&lt;BR&gt;&lt;BR&gt;Podemos usar bengalas de socorro para comunicarnos.&lt;BR&gt;&lt;BR&gt;Pong&amp;#225;monos en marcha lo antes posible. El tiempo apremia.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20303">
+        <Page social="4" voiceTypeId="0">&amp;#191;Ves esto, &lt;PCNAME&gt;? Es una se&amp;#241;al que Jelena dej&amp;#243; para nosotros.&lt;BR&gt;&lt;BR&gt;Sin duda encontraremos m&amp;#225;s por los alrededores.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" villagerId="20400">
+        <Page social="0">No esperaba que llegaras tan r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;&amp;#201;chale un vistazo a esto.&lt;BR&gt;&amp;#191;Ves al prisionero?&lt;BR&gt;No es un naga ni nada por el estilo. Es un Human, de eso no hay duda. Hay m&amp;#225;s prisioneros por aqu&amp;#237;. Espera... &amp;#191;Hay nagas entre los prisioneros?&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos verificar si hay m&amp;#225;s prisioneros.&lt;BR&gt;Enc&amp;#225;rgate de salvar a esos. Elion y yo a&amp;#250;n debemos revisar otro lugar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="22020">
+        <Page social="4" voiceTypeId="0">&amp;#191;Acaso eres... &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Muchas gracias por salvarme! Cre&amp;#237; que me hab&amp;#237;a llegado la hora.&lt;BR&gt;&lt;BR&gt;Los prisioneros nagas parecen ser diferentes de nuestros captores.&lt;BR&gt;&lt;BR&gt;Nos miraban raro antes de que llegaras.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20810">
+        <Page social="1">Muchas... gracias. No esperaba encontrar aqu&amp;#237; otra cosa que no fueran prisioneros.&lt;BR&gt;&lt;BR&gt;Para escapar de este campamento, debes derrotar a los nagas.&lt;BR&gt;&lt;BR&gt;Camina hacia el sur al salir de este puesto avanzado y te topar&amp;#225;s con mi residencia.&lt;BR&gt;Re&amp;#250;nete conmigo all&amp;#237;. Te lo compensar&amp;#233;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20605">
+        <Page social="0">A&amp;#250;n no me he presentado.&lt;BR&gt;Me llamo Regani y formo parte de la resistencia, m&amp;#225;s conocida como los Riverans.&lt;BR&gt;&lt;BR&gt;Tus compa&amp;#241;eros han salvado a nuestros camaradas prisioneros.&lt;BR&gt;Revenj, el l&amp;#237;der de los Riverans, te espera a ti y a tus compa&amp;#241;eros.&lt;BR&gt;&lt;BR&gt;Te indico el camino.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20501">
+        <Page social="1" voiceTypeId="0">Muchas gracias por salvar a mis camaradas y eliminar a los esbirros de Azra que obedecen al infame Rogash.&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Este lugar es el campamento de la tribu Rosema y el refugio de los Riverans.&lt;BR&gt;&lt;BR&gt;Al igual que los dem&amp;#225;s nagas, fuimos obligados a ocuparnos de los parfs y parfons de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Poco antes de tu llegada, el drag&amp;#243;n superior Rogash irrumpi&amp;#243; en el campamento para secuestrar nagas y someterlos a sus experimentos. Muchos nagas perdieron la vida all&amp;#237;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="12" villagerId="20501">
+        <Page social="1" voiceTypeId="0">Esos dragones superiores consideran a los nagas como poca cosa. Por eso fund&amp;#233; a los Riverans.&lt;BR&gt;&lt;BR&gt;Fingimos sumisi&amp;#243;n ante estos despreciables dragones superiores mientras preparamos secretamente una rebeli&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mi sue&amp;#241;o es liberar a los nagas esclavizados y abandonar este lugar juntos.&lt;NEXTPAGEBUTTON&gt;"¿Qué quieres de mí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Te vi luchar contra los soldados de Rogash. Creo que podemos ayudarnos mutuamente.&lt;BR&gt;&lt;BR&gt;Conozco tu objetivo en Exodor.&lt;BR&gt;&lt;BR&gt;Quieres detener la fortaleza, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Nunca la he visto antes, pero una fuente de energ&amp;#237;a alimenta la fortaleza negra.&lt;NEXTPAGEBUTTON&gt;"¿Dónde está la fortaleza negra?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La fortaleza negra se alza en pleno coraz&amp;#243;n de la Isla celeste.&lt;BR&gt;&lt;BR&gt;Puedo ayudarte a llegar all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Dónde están los aldeanos secuestrados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No est&amp;#225;n aqu&amp;#237;, sino en la isla de enfrente.&lt;BR&gt;&lt;BR&gt;Sin duda sirven como t&amp;#237;teres vivientes para Rukmia o como conejillos de indias para los experimentos de Rogash.&lt;BR&gt;&lt;BR&gt;Si llegas demasiado tarde, ya habr&amp;#225;n sido convertidos en marionetas.&lt;NEXTPAGEBUTTON&gt;"¿Qué debo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lo mismo que yo.&lt;BR&gt;&lt;BR&gt;Los Riverans han erigido un campamento al este de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Al ayudarnos a nosotros, te ayudas a ti mismo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20304">
+        <Page social="4" voiceTypeId="0">Todos salen ganando.&lt;BR&gt;&lt;BR&gt;Rogash... El destino de los aldeanos prisioneros me preocupa.</Page>
+    </Text>
+</QuestDialog>

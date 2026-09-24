@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">&amp;#161;La flota est&amp;#225; amarrada en el puerto y todos tienen miedo de salir del pueblo... lo que significa que los negocios van mal! Y me temo que las cosas no van a mejorar en un futuro cercano. Se acab&amp;#243; la buena vida, vamos a tener que acostumbrarnos a nuestra nueva existencia.&lt;BR&gt;&lt;BR&gt;Pero por el momento, &lt;PCCLASS:lcase&gt;, nuestro futuro rima con la palabra &quot;piel&quot;.&lt;BR&gt;&lt;BR&gt;No en el sentido de &quot;salvar la piel&quot; escondi&amp;#233;ndose de los piratas, sino yendo a conseguir las pieles de los {@LinkCreature:11#4004#kamaras queue de pique} &amp;#161;y revendi&amp;#233;ndolas por una peque&amp;#241;a fortuna!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#161;Bien hecho, &lt;PCNAME&gt;! Al mostrarles c&amp;#243;mo aprovechar al m&amp;#225;ximo la situaci&amp;#243;n, &amp;#161;les est&amp;#225;s poniendo el ejemplo a estos pescadores!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1007">
+        <Page social="0">Escucha, &amp;#191;de verdad crees, como todos los dem&amp;#225;s, que si te quedas ah&amp;#237; cruzando de brazos, los piratas terminar&amp;#225;n por evaporarse por arte de magia?&lt;BR&gt;&lt;BR&gt;Deja de so&amp;#241;ar. &amp;#161;Ve a patearles el trasero a esos {@LinkCreature:11#4004#kamaras queue de pique}!</Page>
+    </Text>
+</QuestDialog>

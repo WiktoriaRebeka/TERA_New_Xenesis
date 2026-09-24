@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="4">Nos morimos de hambre aqu&amp;#237; abajo. Normalmente, se supone que una entrega de v&amp;#237;veres nos llega una vez cada dos semanas, pero ya conoces la canci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Escucha, no se encuentra mineral de xermetal en la regi&amp;#243;n, pero &amp;#191;alguna vez has o&amp;#237;do hablar de {@RawItem:206809}? &amp;#161;Necesito mucho, porque sin este metal es imposible hacer la guerra correctamente!&lt;BR&gt;&lt;BR&gt;&amp;#161;Estoy dispuesto a pag&amp;#225;rtelo por encima de su valor! Tr&amp;#225;eme suficiente {@RawItem:206809}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="4">Oh, aqu&amp;#237; tenemos con qu&amp;#233; abastecernos mientras nos llega el suministro. &amp;#161;Nuestra &amp;#250;ltima carga nunca lleg&amp;#243;! Gracias de nuevo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1007">
+        <Page social="0">&amp;#191;Todav&amp;#237;a no has encontrado ? &amp;#161;Voy a volverme loco!</Page>
+    </Text>
+</QuestDialog>

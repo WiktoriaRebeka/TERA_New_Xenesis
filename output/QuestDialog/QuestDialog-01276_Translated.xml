@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Un aldeano llamado {@LinkCreature:249#1018} se fue directo a la plataforma de teletransportaci&amp;#243;n este. Est&amp;#225; muy decidido a estudiar a los argones, incluso si tiene que enfrentarse a ellos, pero un ni&amp;#241;o de ocho a&amp;#241;os le ganar&amp;#237;a a las vencidas.&lt;BR&gt;&lt;BR&gt;Por favor, dir&amp;#237;gete a la plataforma y haz todo lo posible para echarle una mano. Su valor es loable y necesito gente como &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1018">
+        <Page social="6">&amp;#191;Vienes a ayudarme? Genial... Realmente esperaba que me enviaran un guardaespaldas.</Page>
+    </Text>
+</QuestDialog>

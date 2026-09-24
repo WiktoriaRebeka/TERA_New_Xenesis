@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">&amp;#191;Quiere un sombrero de pirata a medida? &amp;#191;En serio?&lt;BR&gt;&lt;BR&gt;Mire, si no tiene un pedazo de cuero infundido con ciyama en una caja fuerte, no puedo hacer nada por usted.&lt;NEXTPAGEBUTTON&gt;"¡Pues da la casualidad de que sí!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Bien, bien. &amp;#191;Ten&amp;#237;a en reserva? En fin, no es asunto m&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Me pongo a ello entonces, &amp;#191;de qu&amp;#233; color lo quiere?&lt;NEXTPAGEBUTTON&gt;"A ver..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">D&amp;#233;jeme adivinar, encontr&amp;#243; todo excepto el cuero infundido con ciyama. &lt;BR&gt;&lt;BR&gt;&amp;#191;Quiere un buen consejo? Si todav&amp;#237;a no lo ha encontrado, d&amp;#233;jelo, nunca lo encontrar&amp;#225;.</Page>
+    </Text>
+</QuestDialog>

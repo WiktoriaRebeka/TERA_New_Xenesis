@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">Nakarash... ese monstruo empieza a sacarme de quicio por completo. No logro entender por qu&amp;#233; es tan dif&amp;#237;cil de matar. Mis soldados hicieron lo mejor que pudieron, pero acabaron echos pedazos.&lt;BR&gt;&lt;BR&gt;No te voy a mentir, ser&amp;#225; un combate de lo m&amp;#225;s peligroso. Si logras matar a {@LinkCreature:7#18#Nakarash}, tal vez podamos concluir nuestras investigaciones. Y cuando est&amp;#233; hecho, podremos retomar el control de esta regi&amp;#243;n en nombre de la Federaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#191;Mataste a Nakarash? &amp;#191;Y me trajiste una escama para su estudio? Empiezo a pensar que tus talentos se desperdician aqu&amp;#237;. &amp;#161;Deber&amp;#237;as pertenecer a la Legi&amp;#243;n armada y entrenar a nuestros mejores reclutas!&lt;BR&gt;&lt;BR&gt;Gracias a ti, mi intr&amp;#233;pido compa&amp;#241;ero y yo mismo podremos concluir nuestras investigaciones y volver al santuario de Allemantheia. Tienes toda nuestra gratitud, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">Ni hablar de continuar mis investigaciones mientras Nakarash ande por las colinas. S&amp;#225;lvanos el pellejo y ve a matarlo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1001">
+        <Page social="5">&amp;#191;Un trozo de la armadura de Nakarash? Intrigante... Tienes talento por haber triunfado sobre un monstruo tan formidable.&lt;BR&gt;&lt;BR&gt;Lo estudiaremos como es debido e intentaremos sacar algo &amp;#250;til de &amp;#233;l. Gracias.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">Durante una visi&amp;#243;n, Klaon vislumbr&amp;#243; Fey Forest, un ritual que se llevaba a cabo all&amp;#237;, y te llam&amp;#243; para pedir ayuda. Mencion&amp;#243; piedras flotantes y un grupo de intrusos que realizaban un ritual. Conoc&amp;#237;a el nombre de su l&amp;#237;der, Garkior, pero no supo decirte qu&amp;#233; hab&amp;#237;an ido a hacer sus sirvientes a Fey Forest.&lt;BR&gt;&lt;BR&gt;Klaon te pidi&amp;#243; que fueras a destruir las piedras en cuesti&amp;#243;n y mataras a Garkior. Una vez cumplida la misi&amp;#243;n, regresaste con Klaon, quien te dijo que su visi&amp;#243;n se hab&amp;#237;a disipado, pero que el misterio estaba lejos de resolverse. Tambi&amp;#233;n aprendiste el nombre de los enemigos a los que te enfrentabas... los descendientes de Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! Klaon te estaba buscando. &amp;#161;Creo que se ha ido a Isolated Town!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1024">
+        <Page social="4">Gracias por estar {@gender:venu/venue}, &lt;PCNAME&gt;. Empiezo a sentirme abrumado por los acontecimientos.&lt;BR&gt;&lt;BR&gt;Soy un humilde m&amp;#237;stico. Cuando busco respuestas, medito y dejo que el Sue&amp;#241;o me invada. &amp;#218;ltimamente he visto Fey Forest... y un grupo de intrusos.&lt;NEXTPAGEBUTTON&gt;"¿Quiénes son?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Dif&amp;#237;cil de decir. Los vi realizando un ritual. Tambi&amp;#233;n vi piedras flotantes. Estaban creando {@LinkCreature:2#209#&amp;#233;clats de vortex}.&lt;BR&gt;&lt;BR&gt;Esas cosas se ve&amp;#237;an... hambrientas. Vi una especie de tent&amp;#225;culos emerger de ellas y devorar el bosque. Vi a la persona que dirig&amp;#237;a el ritual y escuch&amp;#233; su nombre... {@LinkCreature:2#259#Garkior}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Detenlo y destruye esas cosas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1024">
+        <Page social="4">Nunca antes me hab&amp;#237;a cruzado con criaturas de este tipo. Tampoco hab&amp;#237;a o&amp;#237;do hablar de los descendientes de Lok.&lt;BR&gt;&lt;BR&gt;La visi&amp;#243;n que recib&amp;#237; se est&amp;#225; desvaneciendo, por lo que podemos esperar que tus esfuerzos por poner fin a esta locura hayan dado frutos. Sin embargo, me temo que el fin de este episodio solo presagia el comienzo de otro.&lt;BR&gt;&lt;BR&gt;Mantente alerta, &lt;PCNAME&gt;... y gracias de nuevo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1024">
+        <Page social="0">Me pregunto qu&amp;#233; extraen estos esbirros del bosque, y &amp;#191;por qu&amp;#233; lo hacen?&lt;BR&gt;&lt;BR&gt;Tantas preguntas... a tu regreso, espero tener nuevos elementos de respuesta.</Page>
+    </Text>
+</QuestDialog>

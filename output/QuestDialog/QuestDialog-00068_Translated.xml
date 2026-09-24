@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="9">Neacal me pidi&amp;#243; que vigilara la ruta de la caravana, pero esa no es nuestra &amp;#250;nica prioridad.&lt;BR&gt;&lt;BR&gt;Foledus fue atacado por los {@LinkCreature:3#300142#guerriers devans} y perdi&amp;#243; todo un cargamento. Seguro que se lo han repartido. Mira si puedes recuperarlo. &amp;#161;Seguro que le devuelves la alegr&amp;#237;a a ese taca&amp;#241;o de Castanic!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1013">
+        <Page social="8">Ya veo a Foledus saltando de alegr&amp;#237;a. Deber&amp;#237;as ir lo antes posible a Levee Camp y darle la buena noticia.&lt;BR&gt;&lt;BR&gt;Y si le queda algo de cerveza en stock, &amp;#161;piensa en traerme un poco!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1013">
+        <Page social="0">Despoja a un Devan, al que sea. Tienes una buena oportunidad de encontrar parte de la mercanc&amp;#237;a de Philetus en &amp;#233;l.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1005">
+        <Page social="4">&amp;#161;Maldita sea! &amp;#161;Hab&amp;#237;a perdido toda esperanza! &amp;#161;Muchas gracias! Esos malditos devans siempre encuentran la forma de hacernos la vida imposible.&lt;BR&gt;&lt;BR&gt;En fin, si logro regresar a la ciudad y abrir mi tienda, t&amp;#250; tendr&amp;#225;s acceso prioritario a mis mejores art&amp;#237;culos... &amp;#161;y a precios preferenciales!</Page>
+    </Text>
+</QuestDialog>

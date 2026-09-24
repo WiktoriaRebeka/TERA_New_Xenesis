@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">Esos {@LinkCreature:25#2041#tireurs d'&amp;#233;lite de Lok} y {@LinkCreature:25#2042#faucheurs sanglants de Lok} siguen interponi&amp;#233;ndose en nuestro camino en la Cath&amp;#233;drale sombre y nos impiden alcanzar nuestros objetivos. &amp;#191;Podr&amp;#237;as ayudarnos a despejar el camino?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">&amp;#161;Bien hecho! Nosotros podremos hacernos cargo a partir de ahora. Si tan solo pudiera conseguir informaci&amp;#243;n adicional sobre el Atel Akaad. Defenderse est&amp;#225; bien... pero preferir&amp;#237;a aplastarlos de una vez por todas.</Page>
+    </Text>
+</QuestDialog>

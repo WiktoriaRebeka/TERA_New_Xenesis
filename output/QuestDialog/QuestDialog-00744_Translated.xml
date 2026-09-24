@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Los eruditos del Mysterium necesitan m&amp;#225;s muestras para sus investigaciones.&lt;BR&gt;&lt;BR&gt;Mata {@LinkCreature:28#1011#licornes sabots noirs}, {@LinkCreature:28#1021#loups ligneux &amp;#224; &amp;#233;pines}, {@LinkCreature:28#1031#marchespores tr&amp;#233;buchants} y {@LinkCreature:28#1041#mycanars corrompus}.&lt;BR&gt;&lt;BR&gt;Una vez terminada la misi&amp;#243;n, pres&amp;#233;ntale tu informe a la coordinadora Sarvasia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

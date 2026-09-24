@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Parte del trabajo de la Herencia consiste en reconstruir la zona tal como era antes de la muerte de Balder.&lt;BR&gt;&lt;BR&gt;Encuentra a {@LinkCreature:71#3015#Umma} y ay&amp;#250;dale a alimentar a algunos peces.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">&amp;#161;Bienvenida, &lt;PCNAME&gt;! Creo que esto te va a gustar.&lt;BR&gt;&lt;BR&gt;Los comederos del refugio ya no funcionan de forma autom&amp;#225;tica.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que es muy sencillo: g&amp;#237;ralos una vez, su&amp;#233;ltalos y listo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">&amp;#161;Ja! Es divertido, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Me encanta mi trabajo. &amp;#161;Miro bonitos peces, tengo lodo fresco entre los dedos de los pies al aire y pescado asado en todas las comidas!</Page>
+    </Text>
+</QuestDialog>

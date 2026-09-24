@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="4">Todav&amp;#237;a estaba en el campamento avanzado cuando nuestros exploradores avistaron a los gulas reuni&amp;#233;ndose para un ataque.&lt;BR&gt;&lt;BR&gt;El centuri&amp;#243;n me dio un mensaje para que se lo entregara urgentemente a Tryphena. Tambi&amp;#233;n me pidi&amp;#243; que me quedara aqu&amp;#237; y dirigiera a los refuerzos que llegaran hacia el campamento.&lt;BR&gt;&lt;BR&gt;Ve hacia all&amp;#237; y ayuda a nuestros hombres a hacer retroceder al enemigo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#191;Todos? &amp;#191;Han muerto todos?&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s {@gender:certain/certaine}? Qu&amp;#233; estoy diciendo... &amp;#191;Por qu&amp;#233; ibas a inventarte algo as&amp;#237;? Me cuesta asumir la realidad. Esos hombres eran... mis amigos.&lt;BR&gt;&lt;BR&gt;Gracias por hacer todo lo posible. Ya no se puede hacer nada por ellos, salvo tomar el relevo. Hazme el favor y ve a avisar a {@LinkCreature:209#1005$$Tryphena} en el {@Rgn:9011$$Avant-poste des Chasseurs de Reliques} de que pienso quedarme aqu&amp;#237; para tomar el relevo. Alguien tiene que hacerlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1005">
+        <Page social="4">&amp;#191;Jascus ha decidido quedarse abajo? Hay que tener agallas y un gran sentido del deber para soportar lo que ha tenido que aguantar y conservar la cabeza fr&amp;#237;a...&lt;BR&gt;&lt;BR&gt;Me asegurar&amp;#233; de que lo condecoren por su conducta ejemplar. Solo espero que no sea a t&amp;#237;tulo p&amp;#243;stumo.</Page>
+    </Text>
+</QuestDialog>

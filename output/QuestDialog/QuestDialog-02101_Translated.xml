@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">{@LinkCreature:77#3008#Varaz} es probablemente uno de los bot&amp;#225;nicos m&amp;#225;s eminentes de este siglo.&lt;BR&gt;&lt;BR&gt;Sin embargo, como muchos miembros de Invalesco, es un erudito, no un soldado.&lt;BR&gt;&lt;BR&gt;Por lo tanto, necesita tus habilidades de combate.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">&amp;#161;Oh, maravilloso&amp;nbsp;! &amp;#161;Alguien para asistirme!&lt;BR&gt;&lt;BR&gt;Mi misi&amp;#243;n consiste en estudiar la flora local, ya que la mayor&amp;#237;a de las especies vegetales de la regi&amp;#243;n han sufrido una mutaci&amp;#243;n debido a la presencia de los argons.&lt;BR&gt;&lt;BR&gt;Tranquilo, al menos no se volvieron carn&amp;#237;voras. Por otra parte, no puedo decir lo mismo de los argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">&amp;#161;Oh, espl&amp;#233;ndido&amp;nbsp;! Espec&amp;#237;menes perfectos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tambi&amp;#233;n eres bot&amp;#225;nico? Si no es el caso, deber&amp;#237;as considerar cambiar de profesi&amp;#243;n.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Tener algunas plantas mutantes de {@Rgn:46010$$Aiguille de Raga Evala} enriquecer&amp;#237;a nuestras investigaciones de manera muy pertinente.&lt;BR&gt;&lt;BR&gt;Ya que vas justamente en esa direcci&amp;#243;n, &amp;#191;podr&amp;#237;as traernos algunas?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="7" villagerId="3008">
+        <Page social="4">&amp;#161;Oh, espl&amp;#233;ndido&amp;nbsp;! Espec&amp;#237;menes perfectos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tambi&amp;#233;n eres bot&amp;#225;nico? Si no es el caso, deber&amp;#237;as considerar cambiar de profesi&amp;#243;n.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Escuch&amp;#233; que hay hongos mutantes creciendo en {@Rgn:46007$$Profondeurs de Raga Evala}.&lt;BR&gt;&lt;BR&gt;Si pudiera estudiar algunos de estos espec&amp;#237;menes, tal vez lograr&amp;#237;a descubrir qu&amp;#233; utilidad tienen para los argons.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="9" villagerId="3008">
+        <Page social="4">&amp;#161;Oh, espl&amp;#233;ndido&amp;nbsp;! Espec&amp;#237;menes perfectos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tambi&amp;#233;n eres bot&amp;#225;nico? Si no es el caso, deber&amp;#237;as considerar cambiar de profesi&amp;#243;n.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" villagerId="3008">
+        <Page social="0">Un colega me asegur&amp;#243; que hay flores mutantes creciendo en {@Rgn:46010$$Aiguille de Raga Evala}.&lt;BR&gt;&lt;BR&gt;Nunca podr&amp;#233; agradecerle lo suficiente si pudiera traerme algunas, me gustar&amp;#237;a estudiarlas.</Page>
+    </Text>
+</QuestDialog>

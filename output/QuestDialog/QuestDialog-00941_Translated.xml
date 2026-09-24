@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="5">S&amp;#237;, el carro deber&amp;#237;a haber pasado por aqu&amp;#237;, pero no lo he visto.&lt;BR&gt;&lt;BR&gt;Si sube hacia el norte, en direcci&amp;#243;n a Allemantheia, terminar&amp;#225; encontr&amp;#225;ndolo por la fuerza.&lt;BR&gt;&lt;BR&gt;Pero tenga cuidado, si no ha llegado a su destino... es porque algo le ha tenido que pasar. As&amp;#237; que mant&amp;#233;ngase alerta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1026">
+        <Page social="5">(La tripulaci&amp;#243;n est&amp;#225; muerta, y los suministros y la comida han desaparecido.)&lt;BR&gt;&lt;BR&gt;(Un arma yace en el suelo. Deber&amp;#237;a llev&amp;#225;rsela a Tarnan.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1004">
+        <Page social="6">&amp;#191;Un ataque? Me imaginaba que volver&amp;#237;a con una noticia as&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Encontr&amp;#243; un arma? D&amp;#233;jame echarle un vistazo.&lt;NEXTPAGEBUTTON&gt;"Claro, tome."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">&amp;#161;Es un arma de T&amp;#233;n&amp;#233;brara! &amp;#191;Por qu&amp;#233; nos atacar&amp;#237;an?&lt;BR&gt;&lt;BR&gt;&amp;#161;No tiene sentido!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">T&amp;#250; y Chama vencieron al comandante de la tropa de asalto devan y devolvieron las mercanc&amp;#237;as robadas a Crescentia. Jodoc te agradeci&amp;#243; por asegurar as&amp;#237; la v&amp;#237;a de suministro. Sin embargo, indic&amp;#243; que sigue habiendo un problema de gran importancia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="1" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Obedecen las &amp;#243;rdenes de la {@linkcreature:3#12#troupe d'assaut devane}.&lt;BR&gt;&lt;BR&gt;Se unieron a su causa y &lt;BR&gt; la ayudan a llevar a sus planes a cabo.&lt;BR&gt;&lt;BR&gt;Basta con que eliminemos a la tropa de asalto devan,&lt;BR&gt;el resto no deber&amp;#237;a darnos problemas.&lt;NEXTPAGEBUTTON&gt;Escuchas atentamente.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tengo una idea.&lt;BR&gt;Divid&amp;#225;monos en dos grupos.&lt;BR&gt;&lt;BR&gt;T&amp;#250; enc&amp;#225;rgate de eliminar a los {@linkcreature:3#300151#bandits devans} de ah&amp;#237; en frente.&lt;BR&gt;&lt;BR&gt;Mientras sirves de distracci&amp;#243;n, buscar&amp;#233; una soluci&amp;#243;n que nos permita acabar con la tropa de asalto devan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1040">
+        <Page social="4" voiceTypeId="0">Encontr&amp;#233; el punto de reuni&amp;#243;n de la tropa de asalto.&lt;BR&gt;Sus miembros almacenan ah&amp;#237; las mercanc&amp;#237;as robadas del otro lado.&lt;BR&gt;&lt;BR&gt;Como el lugar est&amp;#225; rodeado de guardias, no ser&amp;#225; f&amp;#225;cil llegar a ellos. Comencemos entonces por recuperar las mercanc&amp;#237;as robadas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengan cuidado, estos tipos son m&amp;#225;s fuertes que los que hemos enfrentado hasta ahora!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1036">
+        <Page social="4" voiceTypeId="0">&amp;#161;Shh, esc&amp;#243;ndete!&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves a esos devans all&amp;#225; adentro?&lt;BR&gt;Son miembros de la fuerza de asalto.&lt;BR&gt;&lt;BR&gt;Esos cofres con objetos de valor seguramente est&amp;#225;n llenos de mercanc&amp;#237;as robadas a Crescentia. Debemos recuperarlos.&lt;BR&gt;&lt;BR&gt;Yo me encargo de los dem&amp;#225;s&lt;BR&gt;mientras t&amp;#250; te deshaces de los matones de la fuerza de asalto.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="5" villagerId="1037">
+        <Page social="4" voiceTypeId="0">D&amp;#233;janos ocuparnos del resto. Lleva estos cofres de vuelta a Crescentia.&lt;BR&gt;&lt;BR&gt;Ah, y otra vez, ten cuidado con los sporewalkers agitados que rondan la entrada del pueblo.&lt;BR&gt;Atacan a todo lo que se mueve.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="59" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Oho, con que has eliminado al l&amp;#237;der de la fuerza de asalto de los devans.&lt;BR&gt;Y aqu&amp;#237; est&amp;#225;n los objetos robados...&lt;BR&gt;&lt;BR&gt;Much&amp;#237;simas gracias.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n le enviar&amp;#233; un mensaje a Boquillon para informarle de que la ruta de suministro es segura hasta nuevo aviso.&lt;BR&gt;&lt;BR&gt;Claro que a&amp;#250;n nos queda mucho camino por recorrer,&lt;BR&gt; pero nos has quitado un peso de encima, gracias.</Page>
+    </Text>
+</QuestDialog>

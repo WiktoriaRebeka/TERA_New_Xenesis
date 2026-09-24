@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Bueno, ya que est&amp;#225;s aqu&amp;#237;, ay&amp;#250;dame con algo.&lt;BR&gt;&lt;BR&gt;Hay muchos fouaille-tripes merodeando por la zona. Si fueras a matar a algunos de los {@LinkCreature:6#1081#tr&amp;#233;paneurs fouaille-tripes} que est&amp;#225;n en la primera l&amp;#237;nea, tal vez eso obligar&amp;#237;a a los dem&amp;#225;s a largarse.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">Genial, gracias. Eso deber&amp;#237;a facilitarme un poco las cosas.</Page>
+    </Text>
+</QuestDialog>

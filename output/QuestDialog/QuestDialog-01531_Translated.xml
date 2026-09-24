@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Para domesticar a una bestia salvaje, debes empezar por conocer su dieta.&lt;BR&gt;&lt;BR&gt;Si le das de comer algo que le guste, digamos un buen bistec de grizzly de Tirkai, por ejemplo, te ganar&amp;#225;s su confianza.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Cuando Val Tirkai cay&amp;#243; en manos de los argons, se volvi&amp;#243; dif&amp;#237;cil conseguir esa carne en Velika, pero al parecer, has logrado arregl&amp;#225;rtelas.&lt;BR&gt;&lt;BR&gt;Con esto, podr&amp;#225;s establecer un v&amp;#237;nculo con el animal.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Adiestrar a un bicho no es tarea sencilla, y la forma m&amp;#225;s segura de ganarse un lugar en su coraz&amp;#243;n es jugar con la &quot;reconnaissance de l'estomac&quot;, como suele decirse.</Page>
+    </Text>
+</QuestDialog>

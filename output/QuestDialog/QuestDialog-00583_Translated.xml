@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">Ya no alcanzo a seguir el ritmo con todo lo que pasa.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; muy bien qu&amp;#233; est&amp;#225;n tramando, pero deshazme de los {@LinkCreature:20#30143000#file-&amp;#233;b&amp;#232;ne} y de los {@LinkCreature:20#30140000#mages sanglants} de Lok.&lt;BR&gt;&lt;BR&gt;Seguro est&amp;#225;n preparando un mal golpe. Y toma todo lo que encuentres relacionado con sus trabajos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">&amp;#191;Un diario, eh? &amp;#191;Informes de experimentos? Se lo transmitir&amp;#233; enseguida a Arthgal. Querr&amp;#225; enviarlo a Velika.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">Odio no saber lo que pasa. &amp;#161;Tr&amp;#225;eme todo lo que encuentres que concierna a sus investigaciones, y por fin podr&amp;#233; ver las cosas m&amp;#225;s claras!</Page>
+    </Text>
+</QuestDialog>

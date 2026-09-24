@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">Hay novedades, &lt;PCNAME&gt;. Aqu&amp;#237; tienes agua bendita. Roc&amp;#237;a con ella los cad&amp;#225;veres y sus almas podr&amp;#225;n descansar en paz en el Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Por lo tanto, no m&amp;#225;s fantasmas, no m&amp;#225;s no-muertos... nada de nada.&lt;BR&gt;&lt;BR&gt;Una cosa m&amp;#225;s: cuando puedas, recupera las pertenencias de los muertos. Siempre intentamos devolver algo a las familias. Dicen que eso les ayuda a hacer el duelo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1112">
+        <Page social="0">(El agua bendita chispea y hierve cuando la viertes sobre el cad&amp;#225;ver. El ignominioso olor a muerte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Regresa al Sueño, amigo mío."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Recoges el arma al lado del muerto y las placas que cuelgan de su cuello.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1114">
+        <Page social="0">(El agua bendita chispea y hierve cuando la viertes sobre el cad&amp;#225;ver. El ignominioso olor a muerte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Regresa al Sueño, amigo mío."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Recoges el arma al lado del muerto y las placas que cuelgan de su cuello.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1116">
+        <Page social="0">(El agua bendita chispea y hierve cuando la viertes sobre el cad&amp;#225;ver. El ignominioso olor a muerte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Regresa al Sueño, amigo mío."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Recoges el arma al lado del muerto y las placas que cuelgan de su cuello.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1110">
+        <Page social="4">&amp;#191;Has terminado? &amp;#191;Tienes efectos personales para las familias?&lt;BR&gt;&lt;BR&gt;Los enviar&amp;#233; inmediatamente a Castanica. &amp;#161;Gracias, &lt;BR&gt;&lt;BR&gt; &amp;#161;Por la Federaci&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

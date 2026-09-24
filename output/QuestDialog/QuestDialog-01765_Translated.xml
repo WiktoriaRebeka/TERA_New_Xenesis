@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="0">Te encontraste con un explorador de la Guardia de las Ruinas y te revel&amp;#243; la ubicaci&amp;#243;n del campamento temporal archidevan. La aguja de la verdad te permiti&amp;#243; obtener un mapa de magia de sangre.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Uno de mis exploradores inform&amp;#243; sobre actividad archidevan cerca del precipicio del Fuego Verde. Est&amp;#225;n extrayendo algo del suelo, pero no sabemos exactamente qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Ve a ver al explorador, se llama Marat. Conoce todos los campamentos archidevan de la regi&amp;#243;n, as&amp;#237; como las patrullas. Sabr&amp;#225; d&amp;#243;nde encontrar lo que buscas.&lt;NEXTPAGEBUTTON&gt;"Iré a hablar con él."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Bienvenid{@gender:er/&amp;#232;re}, extranjer&lt;BR&gt;. Bienvenid&lt;BR&gt; a nuestras tierras.&lt;BR&gt;&lt;BR&gt;Lamento informarte que no he visto ning&amp;#250;n artefacto capaz de afectar el Muro de la Tempestad. Pero supongo que solo sus oficiales m&amp;#225;s fieles sabr&amp;#225;n d&amp;#243;nde se encuentra algo as&amp;#237;.M&amp;#241;e. Por suerte, hay un oficial de alto rango en el campamento de excavaci&amp;#243;n cerca del precipicio del Fuego Verde. Sigue el sendero pasando la colina y mira a tu izquierda. Deber&amp;#237;as encontrar la entrada de la cueva.&quot;Yo me encargo.&quot;&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="208">
+        <Page social="4" voiceTypeId="0">&amp;#191;Eras t&amp;#250;...?&lt;BR&gt;&lt;BR&gt;Tengo una sensaci&amp;#243;n extra&amp;#241;a... como si hubiera bebido demasiado vino... &amp;#191;Ya llegamos a la playa? Quiero broncearme un poco.&lt;BR&gt;&lt;BR&gt;No podemos quedarnos mucho tiempo... &amp;#161;Tengo que volver al Energia Celo...! &amp;#161;Estoy de guardia!&lt;NEXTPAGEBUTTON&gt;"Te llevaré de vuelta. ¿Dónde queda eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La entrada... se mueve constantemente... se necesita el mapa m&amp;#243;vil...&lt;NEXTPAGEBUTTON&gt;"¡Claro que sí! ¡El mapa! ¿Dónde lo guardaste?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Est&amp;#225; dentro de este cofre... Pero deber&amp;#237;as saberlo. &amp;#191;Por qu&amp;#233; no lo sabes?&lt;BR&gt;&lt;BR&gt;Espera... &amp;#191;pero qui&amp;#233;n eres? &amp;#191;C&amp;#243;mo entraste{@g:/e} aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;¡Manos fuera!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, gracias, extranjer{@gender:er/&amp;#232;re}!&lt;BR&gt;&lt;BR&gt;Pero te lo ruego: hay m&amp;#225;s prisioneros all&amp;#225; arriba. &amp;#191;Ves esta escalera? Est&amp;#225;n todos arriba.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por favor, tambi&amp;#233;n debes ayudarlos!&lt;NEXTPAGEBUTTON&gt;"No te preocupes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1012">
+        <Page social="4" voiceTypeId="0">&amp;#161;Libre!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias, extranjer{@gender:er/&amp;#232;re}! &amp;#161;Me has salvado!&lt;NEXTPAGEBUTTON&gt;"Los retendré. ¡Mientras tanto, huye!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1013">
+        <Page social="4" voiceTypeId="0">&amp;#161;Te ayudar&amp;#233; a combatirlos! Solo... necesito... recuperar mis fuerzas...&lt;NEXTPAGEBUTTON&gt;"Ya habrá tiempo para eso después. Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Te esperaba, &lt;PCNAME&gt;!&lt;BR&gt;Hagand me habl&amp;#243; sobre sus investigaciones de las Piedras devannes que recuperaste para &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Cree que los Archidevans las usan para su magia de sangre. Eso explica por qu&amp;#233; se empe&amp;#241;aban tanto en protegerlas.&lt;BR&gt;&lt;BR&gt;Si logramos encontrar su laboratorio, sin duda podremos salvar a algunas de sus v&amp;#237;ctimas.&lt;NEXTPAGEBUTTON&gt;"Tengo un mapa que lleva a su laboratorio."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Sabes d&amp;#243;nde est&amp;#225;? &amp;#161;Perfecto!&lt;BR&gt;&lt;BR&gt;Tal vez logremos ver las cosas con m&amp;#225;s claridad... &amp;#161;y reactivar el teleportal hacia Velika!&lt;NEXTPAGEBUTTON&gt;"Puede que tengas razón. Solo hay una forma de averiguarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

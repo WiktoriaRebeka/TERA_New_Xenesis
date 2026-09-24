@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">S&amp;#237;, lo s&amp;#233;. Siempre es la misma historia... &quot;regresar al campamento a ponerse a salvo&quot;. No es para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Entonces, &amp;#191;me van a echar una mano?&lt;NEXTPAGEBUTTON&gt;"No recuerdo haber ofrecido mi ayuda."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Han sido {@gender:d&amp;#233;clar&amp;#233;/d&amp;#233;clar&amp;#233;e} voluntarios a la fuerza para servir a la ciencia. Estudio la civilizaci&amp;#243;n de los gigantes, pero no he podido reunir suficiente documentaci&amp;#243;n para comprenderla por completo. Sin embargo, he notado que los {@LinkCreature:18#17#teralithes anciens} est&amp;#225;n cubiertos de inscripciones. Me pregunto qu&amp;#233; podr&amp;#237;an ense&amp;#241;arnos.&lt;BR&gt;&lt;BR&gt;Me har&amp;#237;an un gran favor yendo a buscar algunas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#161;Oh, miren estas inscripciones! Es exactamente lo que esperaba encontrar.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;an ense&amp;#241;arme unas cuantas cosas. &amp;#161;Es un buen trabajo!&lt;BR&gt;&lt;BR&gt;Tengan, aqu&amp;#237; tienen con qu&amp;#233; premiar sus esfuerzos. No es gran cosa, pero es dif&amp;#237;cil encontrar algo mejor tan lejos del campamento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Si buscan a los {@LinkCreature:18#17#terralithes anciens} aqu&amp;#237;, van a tardar un buen rato en encontrarlos.&lt;BR&gt;&lt;BR&gt;Ahora, al trabajo. &amp;#191;Puedo contar con ustedes, o no?</Page>
+    </Text>
+</QuestDialog>

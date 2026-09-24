@@ -1,0 +1,47 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#201;lion te explic&amp;#243; que Samael se hizo pasar por Lok, y que los descendientes de Lok le creyeron y se unieron a su causa.&lt;BR&gt;&lt;BR&gt;No hay pruebas de que Samael sea en realidad Lok, pero tiene la mirada puesta en la lanza maldita que el dios Gidd utiliz&amp;#243; para apoderarse del poder de la diosa Velik.&lt;BR&gt;&lt;BR&gt;T&amp;#250; y &amp;#201;lion impidieron que la lanza maldita cayera en manos de Samael y la guardaron como prueba de su traici&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Logr&amp;#233; llegar a Cutthroat Harbor (a pesar del mal tiempo), y tengo noticias de Velika sobre los planes de &quot;S&quot;. Ven a reunirte conmigo tan pronto como puedas.&lt;BR&gt;&lt;BR&gt;- &quot;E&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Jelena me lo cont&amp;#243; todo. Hiciste un gran trabajo. &amp;#191;Quieres o&amp;#237;r algo alarmante? Samael afirma ser la reencarnaci&amp;#243;n de Lok.&lt;BR&gt;&lt;BR&gt;Pues bien, los descendientes de Lok le creen y le sirven. Adem&amp;#225;s, anda buscando una lanza maldita.&lt;BR&gt;&lt;BR&gt;&amp;#161;La lanza de Gidd, el dios antiguo! Esa lanza tiene el poder de acabar con los dioses... y robarles su poder.&lt;NEXTPAGEBUTTON&gt;"¿Puede drenar el poder de los dioses?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ahora sabemos a qui&amp;#233;n tiene en la mira: &lt;BR&gt;&lt;BR&gt;La diosa Velik.&lt;BR&gt;Velik es el s&amp;#237;mbolo de Velika y el punto de anclaje de la federaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n es &amp;#233;l quien se ali&amp;#243; con los argons para intentar destruir el &amp;#225;rbol de tiaran, que porta en su interior el poder de la diosa Velik.&lt;BR&gt;&lt;BR&gt;Planeaba apoderarse as&amp;#237; de la fuerza de la diosa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Si no hubiera ca&amp;#237;do en su trampa, habr&amp;#237;a podido evitar que los argons inundaran Tiarania. Debemos detener a Samael a toda costa.&lt;BR&gt;&lt;BR&gt;Los mercaderes mirta ca&amp;#237;dos en desgracia ya est&amp;#225;n tramando nuevos planes con las unidades especiales. Aparentemente, su l&amp;#237;der {@linkcreature:12#23#Sloawgesh} se encuentra en la C&amp;#244;te abandonn&amp;#233;e. Elim&amp;#237;nalo y busca pistas. Cada segundo cuenta.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225; el registro de intercambios de Slawgesh. Vaya... Parece estar escrito con un c&amp;#243;digo secreto.&lt;BR&gt;&lt;BR&gt;Para descifrarlo, necesitamos conseguir el c&amp;#243;digo gula del {@linkcreature:12#7#cogneur gula}...&lt;BR&gt;&lt;BR&gt;Tengo mucho que hacer. &amp;#161;Gracias por encargarte de esto!&lt;BR&gt;&lt;BR&gt;Encuentra el c&amp;#243;digo gula en el {@linkcreature:12#7#cogneur gula}. &lt;BR&gt;Y no te preocupes, me encargar&amp;#233; de cuidar bien el registro de intercambios.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" villagerId="1035">
+        <Page social="0">&amp;#191;C&amp;#243;mo vas con el registro de intercambios?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="212" prevId="5" villagerId="1035">
+        <Page social="4" voiceTypeId="0">&amp;#161;Encontraste el c&amp;#243;digo gula! Bien. &amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;&amp;#161;Por fin podremos descifrar el registro de intercambios!&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; lo tienes. &amp;#161;Pru&amp;#233;balo!&lt;BR&gt;&lt;BR&gt;(A Jelena le brillan los ojos mientras te tiende el registro de intercambios.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="212" prevId="7" villagerId="1035">
+        <Page social="4" voiceTypeId="0">(Jelena lee el registro con expresi&amp;#243;n incr&amp;#233;dula.)&lt;BR&gt;&lt;BR&gt;Me he quedado sin palabras. La unidad especial y los mirta han hecho negocios con regularidad.&lt;BR&gt;&lt;BR&gt;Y una lanza maldita... mira.&lt;BR&gt;Todo ha sido minuciosamente documentado.&lt;BR&gt;Fue enviado directamente al Labyrinthe d'Azarel.&lt;BR&gt;&lt;BR&gt;El Labyrinthe d'Azarel...&lt;BR&gt;Una fortaleza de los gulas...&lt;BR&gt;&lt;BR&gt;Pero qu&amp;#233; significa esto... &amp;#191;Kutmaschuk?&lt;BR&gt;&lt;BR&gt;Debemos informar a {@linkcreature:62#1036#&amp;#201;lion} lo antes posible.&lt;BR&gt;Vamos, date prisa. &amp;#161;No hay ni un minuto que perder!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="212" villagerId="1035">
+        <Page social="0">&amp;#191;Pudiste descifrar el documento? Estoy impaciente por conocer su contenido.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="8" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Tienes el registro de Slawgesh.&lt;br&gt;Y al parecer, Samael y Akia se han comunicado.&lt;BR&gt;&lt;BR&gt;(Jelena se pregunta qu&amp;#233; pensar del t&amp;#233;rmino Kutmaschuk.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Aj&amp;#225;! Kutmaschuk es un l&amp;#237;der despreciable de los descendientes de Lok. Probablemente tambi&amp;#233;n posea la lanza maldita.&lt;BR&gt;&lt;BR&gt;Primero deber&amp;#237;amos centrarnos en frustrar los planes de los descendientes de Lok.&lt;PCNAME&gt;, ve al Labyrinthe d'Azarel.&lt;BR&gt;Te acompa&amp;#241;ar&amp;#233; al Labyrinthe d'Azarel para ayudarte.&lt;BR&gt;&lt;BR&gt;Encontr&amp;#233;monos en {@linkcreature:209#1031#Avant-poste des chasseurs de reliques}.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="209" prevId="10" villagerId="1031">
+        <Page social="4" voiceTypeId="0">&amp;#161;Llegas en el momento oportuno, &lt;PCNAME&gt;! Te estaba esperando.&lt;BR&gt;&lt;BR&gt;Busca a {@linkcreature:209#2000#Tulutulu} en el campamento; &amp;#233;l te permitir&amp;#225; llegar al segundo s&amp;#243;tano del laberinto sin contratiempos.&lt;BR&gt;&lt;BR&gt;All&amp;#237; encontrar&amp;#225;s el {@linkcreature:209#1030#t&amp;#233;l&amp;#233;portail} que Kutmaschuk utiliz&amp;#243;.&lt;NEXTPAGEBUTTON&gt;"¿Para qué sirve este teletransporte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Gracias a la piedra m&amp;#225;gica, puedes llegar al &lt;font color='#0080FF'&gt;Repaire de Kutmaschuk&lt;/font&gt;. Por favor, date prisa.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="209" prevId="11" villagerId="1030">
+        <Page social="4" voiceTypeId="0">La piedra m&amp;#225;gica apesta. Debe de ser la peste de Kutmaschuk. Usa este teletransporte para llegar al Repaire de Kutmaschuk.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="209" prevId="12" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Es la lanza maldita de Gidd...&lt;BR&gt;&lt;BR&gt;(&amp;#201;lion estudia la lanza en detalle. Una sonrisa burlona ilumina de repente su rostro.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Jajaja! Disc&amp;#250;lpame. Esos gulas son realmente muy astutos. Es una falsificaci&amp;#243;n. El arma de un dios legendario no es tan f&amp;#225;cil de conseguir. Pero que hayan tenido la audacia de intentar enga&amp;#241;ar a Samael...&lt;BR&gt;&lt;BR&gt;Ah, me siento m&amp;#225;s tranquilo. Ahora tenemos la prueba que necesit&amp;#225;bamos para desenmascarar a Samael. Por ah&amp;#237; deber&amp;#237;amos empezar.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="209" villagerId="1031">
+        <Page social="0">La lanza maldita no debe caer bajo ning&amp;#250;n concepto en sus manos.&lt;BR&gt;&lt;BR&gt;De lo contrario, la vida de la diosa Velik correr&amp;#225; peligro. Y se trata del principal soporte de la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos poner nuestras manos en la lanza maldita antes que ellos!</Page>
+    </Text>
+</QuestDialog>

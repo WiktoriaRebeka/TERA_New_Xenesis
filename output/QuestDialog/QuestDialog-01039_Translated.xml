@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;La corrupci&amp;#243;n de los ovolitos en los niveles inferiores de la Guarida ar&amp;#225;cnida se est&amp;#225; extendiendo progresivamente.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:39#110#ovolithes gardiens} y a los {@LinkCreature:39#270#ovolithes sans piti&amp;#233;}.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a Esrill.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0">Tras cruzar el puente hacia Isolated Valley, te encontraste con Phaedra, una exploradora castanic que te envi&amp;#243;{@g:/e} a patrullar el per&amp;#237;metro. Una vez que llegaste{@g:/e} al campamento provisional de la guarnici&amp;#243;n, Sersine te dio &amp;#243;rdenes adicionales.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="4">No puedo contactar a mis exploradores principales, pero abrirme paso entre una manada de cromos merodeadores equivaldr&amp;#237;a a abandonar este puente a los orkans. &lt;BR&gt;&lt;BR&gt;Pero ya que est&amp;#225;s aqu&amp;#237;, &amp;#191;no podr&amp;#237;as ir a ver c&amp;#243;mo est&amp;#225;n de mi parte? Y ya que est&amp;#225;s en eso, tambi&amp;#233;n puedes encargarte de los cromos. Darius estaba de patrulla, pero Phaedra deber&amp;#237;a estar justo al otro lado del pr&amp;#243;ximo puente, si es que obedeci&amp;#243; sus &amp;#243;rdenes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Edan sigue con vida! Vaya, qu&amp;#233; alivio. Pareces bastante ingenioso{@g:/e}, despu&amp;#233;s de todo.&lt;BR&gt;&lt;BR&gt;Voy a ponerte al d&amp;#237;a sobre Isolated Valley. Estamos en pleno territorio enemigo, y lo que sobran son enemigos. Demonios a montones y de todos los tama&amp;#241;os. Est&amp;#225;n buscando algo, pero ignoro de qu&amp;#233; se trata.&lt;NEXTPAGEBUTTON&gt;"¿Cuáles son mis órdenes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nuestro campamento provisional est&amp;#225; justo ah&amp;#237;, pero no tenemos suficientes efectivos para explorar el per&amp;#237;metro. Bueno, hasta tu llegada. Dir&amp;#237;gete al otro lado de esta colina y observa qu&amp;#233; est&amp;#225;n tramando estos demonios. Lo que quiero decir con eso es: mata a algunos y mira si llevan algo interesante encima.&lt;BR&gt;&lt;BR&gt;Ah, y si te encuentras con algunos de nuestros camarados ca&amp;#237;dos, toma su amuleto de expedici&amp;#243;n y ll&amp;#233;vaselo a Sersine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1025">
+        <Page social="4">As&amp;#237; que Edan sobrevivi&amp;#243; al ataque. Eso es una buena noticia. Ten&amp;#237;amos mucho miedo de haberlo perdido.&lt;BR&gt;&lt;BR&gt;Y gracias por recuperar estos amuletos, deber&amp;#237;an permitir a las familias de las v&amp;#237;ctimas hacer su duelo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1025">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

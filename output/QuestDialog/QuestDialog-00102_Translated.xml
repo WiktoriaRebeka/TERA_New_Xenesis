@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Los {@LinkCreature:4#1051#golems de guerre devans} y los {@LinkCreature:4#1052#protecteurs devans morts} se creen en su casa aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt; M&amp;#225;talos y, si encuentras monedas de sombrabetal en sus armaduras, rec&amp;#243;gelas.&lt;BR&gt;&lt;BR&gt;La Monta&amp;#241;a Fyr es nuestra mina, &lt;PCNAME&gt;. Demu&amp;#233;stramelo... a golpes de pico.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#191;Sigues en pie? Sigue as&amp;#237; y pronto retomaremos el control de estas minas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">&amp;#161;Maldita sea! &amp;#191;No te molesta que el enemigo pasee por los alrededores como si estuviera en su casa?</Page>
+    </Text>
+</QuestDialog>

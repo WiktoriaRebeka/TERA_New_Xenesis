@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">&amp;#161;Incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;Tengo tantas cosas que hacer que ni siquiera tengo tiempo para tomarme algo. &amp;#161;Y t&amp;#250; andas por la ciudad con las manos en los bolsillos!&lt;NEXTPAGEBUTTON&gt;"Así soy yo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">{@LinkCreature:63#3002#Taratia} necesita ayuda, como de costumbre. Empieza a sacarme de quicio, te lo digo yo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Ah, &amp;#191;te env&amp;#237;a {@linkcreature:63#3003#Elthienne}?&lt;BR&gt;Nunca tenemos suficientes mercanc&amp;#237;as en la ciudad.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a conseguirme algo?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Me trajiste un {@RawItem:206818}.&lt;BR&gt;&amp;#161;Perfecto! De verdad no escatimas esfuerzos.&lt;BR&gt;Por favor, dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Extraer {@RawItem:206818} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disc&amp;#250;lpame por haberte confiado tal tarea.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Me trajiste un {@RawItem:206819}.&lt;BR&gt;&amp;#161;Perfecto! De verdad no escatimas esfuerzos.&lt;BR&gt;Por favor, dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Extraer {@RawItem:206819} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disc&amp;#250;lpame por haberte confiado tal tarea.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Me trajiste un {@RawItem:206820}.&lt;BR&gt;&amp;#161;Perfecto! De verdad no escatimas esfuerzos.&lt;BR&gt;Por favor, dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Extraer {@RawItem:206820} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disc&amp;#250;lpame por haberte confiado tal tarea.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Me trajiste un {@RawItem:206821}.&lt;BR&gt;&amp;#161;Perfecto! De verdad no escatimas esfuerzos.&lt;BR&gt;Por favor, dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Extraer {@RawItem:206821} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disc&amp;#250;lpame por haberte confiado tal tarea.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Me trajiste un {@RawItem:206822}.&lt;BR&gt;&amp;#161;Perfecto! De verdad no escatimas esfuerzos.&lt;BR&gt;Por favor, dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">Extraer {@RawItem:206822} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disc&amp;#250;lpame por haberte confiado tal tarea.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">No fue tan dif&amp;#237;cil, &amp;#191;o s&amp;#237;?&lt;BR&gt;&amp;#161;Bien hecho!&lt;BR&gt;Hasta la pr&amp;#243;xima.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">Has descubierto que el tambor y los nen&amp;#250;fares atraen a los tuwangis y que estos usan los tambores para alejar a las ranas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Vedobo busca ayuda. T&amp;#250; gran ayuda. Ir a ayudar a Vedobo.&lt;NEXTPAGEBUTTON&gt;OK.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2002">
+        <Page social="4">A algunos tuwangis les gusta el tambor. Nosotros tocar tambor, tuwangis venir.&lt;BR&gt;&lt;BR&gt;A otros tuwangis les gustan las flores. &amp;#161;Necesitar flor para traer de vuelta a tuwangis!&lt;NEXTPAGEBUTTON&gt;Puedo ayudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2002">
+        <Page social="4">T&amp;#250; traer buenas flores. Flores traer tuwangis.&lt;BR&gt;&lt;BR&gt;Tambor traer tuwangis tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ir a aprender tambor con Kukuta!&lt;NEXTPAGEBUTTON&gt;OK.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="2002">
+        <Page social="0">Necesitar flores.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="4" villagerId="2003">
+        <Page social="4">&amp;#161;Tambor f&amp;#225;cil!&lt;BR&gt;&lt;BR&gt;&amp;#161;Golpear tambor. Rana roja, tambor rojo! &amp;#161;Rana morada, tambor morado! &amp;#161;Rana azul, tambor azul!&lt;BR&gt;&lt;BR&gt;&amp;#191;Probar, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;Por qué no, puedo intentarlo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="6" villagerId="2003">
+        <Page social="0">Tocar el tambor para los tuwangis.</Page>
+    </Text>
+</QuestDialog>

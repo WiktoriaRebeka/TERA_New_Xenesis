@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Esta vez debemos recuperar el n&amp;#250;cleo y vengar a Kaidun. Contamos contigo, &lt;PCNAME&gt;. Sin tu apoyo, la misi&amp;#243;n est&amp;#225; destinada al fracaso. As&amp;#237; pues, acomp&amp;#225;&amp;#241;ame hasta la Monta&amp;#241;a Fyr.&lt;NEXTPAGEBUTTON&gt;"Cuenta conmigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Muchas gracias. Emprendemos la marcha en cuanto terminen los preparativos. Deber&amp;#237;as adelantarte con &amp;#201;lion. &amp;#201;l est&amp;#225; acostumbrado a misiones de este tipo. Ve a buscar a &amp;#201;lion y expl&amp;#237;cale que vas a formar la vanguardia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Decidida a recuperar el n&amp;#250;cleo de una vez por todas y a vengar a Kaidun, Freya te encarg&amp;#243; formar la vanguardia junto con &amp;#201;lion y te envi&amp;#243; a la Monta&amp;#241;a Fyr. Perseguiste a Akasha con la ayuda de &amp;#201;lion y Jelena. Cuando Akasha se dispon&amp;#237;a a huir al Labyrinthe d'or con el n&amp;#250;cleo, al final lograste capturarla y apoderarte del n&amp;#250;cleo. Sin embargo, Serion, el portador del n&amp;#250;cleo, result&amp;#243; gravemente herido en la maniobra y ya no pudiste hacer nada por &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="1104">
+        <Page social="5" voiceTypeId="0">Me encargo de todo tipo de misiones para la vanguardia. Tienes cara de preocupaci&amp;#243;n. Fraya ya te lo hab&amp;#237;a dicho: estoy acostumbrado a este tipo de misiones. Ya ver&amp;#225;s lo que es colaborar con rastreadores experimentados. Te veo en la Monta&amp;#241;a Fyr.&lt;BR&gt;&lt;BR&gt;Ah, voy a comunicarle las zonas que planeo explorar a Arin, en el puesto avanzado del caldero de la Monta&amp;#241;a Fyr. Bueno, me pongo en marcha.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">&amp;#191;Eres &lt;PCNAME&gt;, verdad? Tengo un mensaje de &amp;#201;lion para ti. Desea explorar algunos lugares m&amp;#225;s y te esperar&amp;#225; m&amp;#225;s al norte, junto a la {@linkcreature:204#1101#Base de feu de la bravoure}. Ve a buscarlo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1101">
+        <Page social="5" voiceTypeId="0">&amp;#191;C&amp;#243;mo hice para llegar aqu&amp;#237; tan r&amp;#225;pido? Siempre viaje ligero, camarada.&lt;BR&gt;&lt;BR&gt;Tengo buenas noticias: logr&amp;#233; conseguir la ayuda de Jelena y, para colmo, &amp;#161;ella ya encontr&amp;#243; a Akasha!&lt;BR&gt;&lt;BR&gt;Me dijo que la avistaron cerca de la Boca de Bahaar, al este. Pero ten cuidado... es un territorio peligroso.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1102">
+        <Page social="5" voiceTypeId="0">&amp;#161;Maldici&amp;#243;n, si no tienes un poco de cuidado, todo el mundo se enterar&amp;#225; pronto, &lt;pcname&gt;! &lt;BR&gt;&lt;BR&gt;Te han descubierto. Akasha incluso probablemente ya se haya lanzado a tu persecuci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Si ese es el caso, deber&amp;#237;amos adelantarnos. &amp;#161;Debemos eliminar a los esbirros de Akasha y descubrir qu&amp;#233; se traen entre manos!&lt;NEXTPAGEBUTTON&gt;"¿Dónde puedo encontrar a estos esbirros?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Por esto te tengo tanto aprecio, &lt;PCNAME&gt;! &amp;#161;Comprendes de inmediato lo que espero de ti!&lt;BR&gt;&lt;BR&gt;Elimina a {@linkcreature:4#7012#Jirakar}, un esbirro de Akasha ubicado al este de la Quijada de Bahaar. Seguramente lleva las &amp;#243;rdenes de Akasha consigo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="204" prevId="6" villagerId="1102">
+        <Page social="5" voiceTypeId="0">&amp;#161;Oh, vaya, esto es muy molesto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Akasha quiere llevar el n&amp;#250;cleo al Labyrinthe d'or! Si lo logra, ser&amp;#225; casi imposible detenerla. Pero si logramos interceptarla antes...&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; es donde planean reunirse antes de partir juntos hacia el laberinto. Cerca de... &amp;#191;los Abismos de la Monta&amp;#241;a Fyr? &amp;#161;Hay que informarle a &amp;#201;lion de inmediato... &lt;BR&gt;&lt;BR&gt;... Estuvimos a punto de no llegar...!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="204" villagerId="1102">
+        <Page social="0">&amp;#161;Si no descubrimos qu&amp;#233; planea Akasha, jam&amp;#225;s pondremos las manos en el n&amp;#250;cleo! &amp;#161;R&amp;#225;pido!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1200">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, Jelena, &amp;#191;qu&amp;#233; descubriste?&lt;NEXTPAGEBUTTON&gt;"Aquí están las órdenes de Akasha."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Las &amp;#243;rdenes de Akasha! &lt;PCNAME&gt;, gracias a ti, tal vez podamos evitar que Akasha lleve el n&amp;#250;cleo al Labyrinth of Terror.&lt;BR&gt;&lt;BR&gt;Si logramos encontrar y recuperar el n&amp;#250;cleo, la victoria estar&amp;#225; al alcance de nuestra mano. &amp;#161;Debemos impedir a toda costa que Akasha se lleve el n&amp;#250;cleo!&lt;BR&gt;&lt;BR&gt;Jelena le informar&amp;#225; a la comandante Fraya. &amp;#161;Vayamos lo antes posible a Fyr Mountain Abyss! &amp;#161;Podemos usar este teleportal!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="403" prevId="9" villagerId="1101">
+        <Page social="5" voiceTypeId="0">Recuperaste el n&amp;#250;cleo. Pero...&lt;BR&gt;&lt;BR&gt;Parece da&amp;#241;ado. &lt;BR&gt;Primero regresa a Castanica. All&amp;#237; podremos debatir con calma los siguientes pasos.&lt;BR&gt;&lt;BR&gt;Thulsa, el c&amp;#243;mplice de Akasha, probablemente ya est&amp;#233; al tanto del fracaso del plan para apoderarse del n&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Te doy mi pergamino de teletransportaci&amp;#243;n. &lt;BR&gt;Reun&amp;#225;monos en Castanica.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="61" prevId="10" villagerId="1105">
+        <Page social="5" voiceTypeId="0">No tuve la oportunidad de agradecerte en Fyr Mountain. &lt;BR&gt;Hiciste un gran trabajo. Gracias a ti, pudimos recuperar el n&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Es cierto que Thulsa nos escabull&amp;#243; el bulto, pero sabiendo que el n&amp;#250;cleo est&amp;#225; nuevamente en nuestras manos, Kaidun seguramente podr&amp;#225; dormir tranquilo...&lt;NEXTPAGEBUTTON&gt;"¿En qué estado se encuentra el núcleo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Por mucho que recurramos a lo mejor de la magia del Mysterium y la tecnolog&amp;#237;a de Castanica, esto no pinta nada bien.&lt;BR&gt;&lt;BR&gt;En principio, Serion no podr&amp;#225; controlar el poder del n&amp;#250;cleo por mucho m&amp;#225;s tiempo. Soy responsable de Allemantheia y s&amp;#233; que pronto tendremos que tomar varias decisiones muy importantes.&lt;BR&gt;&lt;BR&gt;Pero ante todo quiero agradecerte por tus esfuerzos. &lt;BR&gt;Toma, esto es para como agradecimiento.</Page>
+    </Text>
+</QuestDialog>

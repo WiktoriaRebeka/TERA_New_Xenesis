@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1020">
+        <Page social="0">Los jabal&amp;#237;es de colmillos largos lideran a estos lechones. Cuando uno de ellos ataca a alguien, todos los lechones lo siguen.&lt;BR&gt;&lt;BR&gt;Si logramos matar al menos a uno, podremos afectar su moral. &amp;#191;Crees que puedes con esto?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">&amp;#161;Vaya! Eres mucho m&amp;#225;s {@g:fort/forte} de lo que es&amp;#8230; o sea, &amp;#161;claro que sab&amp;#237;a que volver&amp;#237;as de una pieza! &amp;#161;Buen trabajo! Nunca dud&amp;#233; de tus capacidades.</Page>
+    </Text>
+</QuestDialog>

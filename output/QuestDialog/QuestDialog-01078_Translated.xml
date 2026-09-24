@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0">Los miembros de la Griffe noire nos impiden acceder a nuestros cazaderos habituales. Tenemos que luchar contra los {@LinkCreature:41#4001#basilics f&amp;#233;roces} por el m&amp;#225;s peque&amp;#241;o trozo de comida. Perdemos m&amp;#225;s cazadores cada d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n el decuri&amp;#243;n, usted es un gran cazador. &amp;#191;Podr&amp;#237;a reducir la cantidad de Basilics por nosotros?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">&amp;#161;Mire el tama&amp;#241;o de este colmillo! Este basilic habr&amp;#237;a causado estragos entre nosotros. Muchas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1018">
+        <Page social="0">Los {@LinkCreature:41#4001#basilics f&amp;#233;roces} representan un gran peligro para nosotros, o de lo contrario no le pedir&amp;#237;amos ayuda.</Page>
+    </Text>
+</QuestDialog>

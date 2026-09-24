@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0">Argh, mi cabeza... &amp;#161;Esas est&amp;#250;pidas hadas me enojan cada vez que salgo a cortar madera. Su zumbido me da un dolor de cabeza atroces! &amp;#161;Tengo que remediar esto como sea!&lt;BR&gt;&lt;BR&gt;Pero me duele la cabeza cada vez que me acerco a esta zona. &amp;#161;No podr&amp;#237;as deshacerte de esos malditos {@LinkCreature:2#52#protecteurs f&amp;#233;eriques} por m&amp;#237; y traerme sus alas!&lt;BR&gt;&lt;BR&gt;Ya no puedo vivir as&amp;#237;. &amp;#161;Por favor, ay&amp;#250;dame!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1046">
+        <Page social="4">Uf... Ahora puedo o&amp;#237;rme. &amp;#161;Gracias! Bueno, ya que me ayudaste, toma esto. &amp;#161;Insisto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1046">
+        <Page social="0">&amp;#161;Estoy harto de este ruido! &amp;#161;Te lo ruego, l&amp;#225;nzate contra las hadas!</Page>
+    </Text>
+</QuestDialog>

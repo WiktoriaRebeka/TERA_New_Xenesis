@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1033">
+        <Page social="4">S&amp;#237;, los triperos son una espina en nuestro costado, pero tenemos otros problemas. Los {@LinkCreature:21#7#hy&amp;#232;nes yurklags} y los {@LinkCreature:21#14#travailleurs arachn&amp;#233;ens du d&amp;#233;sert} constituyen una amenaza inmediata.&lt;BR&gt;&lt;BR&gt;Dicen que tu especialidad es matar criaturas. Bueno, &amp;#161;pru&amp;#233;balo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1033">
+        <Page social="4">Ahora que ya no corremos el riesgo de terminar en el est&amp;#243;mago de una bestia, podremos trabajar. Eres un soldado excelente, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">Ahora seguramente tienes una idea precisa del problema que nos causan los tuwangis. Es bastante sorprendente, por cierto. &amp;#191;Qui&amp;#233;n podr&amp;#237;a haber predicho este repentino impulso expansionista?&lt;BR&gt;&lt;BR&gt;Sea como sea, nos faltan tropas. Hasta ahora, este lugar era uno de los sitios m&amp;#225;s tranquilos de la Federaci&amp;#243;n, de ah&amp;#237; el reducido tama&amp;#241;o del contingente asignado aqu&amp;#237;. Sin embargo, hemos analizado el problema desde todos los &amp;#225;ngulos y hemos encontrado la manera de reaccionar a pesar de todo, con lo que tenemos a mano.&lt;NEXTPAGEBUTTON&gt;"¿Ah? ¿Y cómo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Podr&amp;#237;amos empezar cortando las comunicaciones entre los diferentes pueblos. Atacando los pueblos uno por uno, no deber&amp;#237;a ser demasiado dif&amp;#237;cil, &amp;#191;no crees?&lt;BR&gt;&lt;BR&gt;El {@LinkCreature:5#12#tambour des grenouilles} de los tuwangis rochemartels asegura la comunicaci&amp;#243;n entre los pueblos en caso de emergencia. Si destruimos este tambor, los pueblos quedar&amp;#225;n completamente aislados.&lt;BR&gt;&lt;BR&gt;No tienes nada especial que hacer por el momento, &amp;#191;verdad? Me gustar&amp;#237;a encargarte esta misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Por mi parte, tengo que ocuparme del entrenamiento de los soldados. Por favor, ay&amp;#250;dame.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="5">&amp;#191;Has destruido los tambores? &amp;#191;Todos? Genial.&lt;BR&gt;&lt;BR&gt;Ahora es hora de pasar a cosas m&amp;#225;s serias.</Page>
+    </Text>
+</QuestDialog>

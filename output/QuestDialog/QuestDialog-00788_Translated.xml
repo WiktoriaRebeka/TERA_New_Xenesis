@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Los depositarios de sabidur&amp;#237;a registran lo que sucedi&amp;#243;. Sospecho que tu amigo del Bastion, {@LinkCreature:71#1101$$Alais}, prefiere conocer el futuro.&lt;BR&gt;&lt;BR&gt;Para agradecerte por haberme {@gender:envoy&amp;#233;/envoy&amp;#233;e}, te revelar&amp;#233; d&amp;#243;nde mi clan ha guardado los {@LinkCreature:230#1095#d&amp;#233;positaires de visions} en el Refuge de Balder.&lt;BR&gt;&lt;BR&gt;Ret&amp;#233;n los consejos prof&amp;#233;ticos de estos depositarios, luego dile a Alais lo que has aprendido.&lt;BR&gt;&lt;BR&gt;No hace falta ser profeta para prever que se va a desmayar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1095">
+        <Page social="1">(En este depositario est&amp;#225; escrito: Mystel, diosa del destino, advirti&amp;#243; al dios Balder que grandes fuerzas destruir&amp;#237;an pronto el reino celestial y debilitar&amp;#237;an enormemente a los dioses supervivientes. A Balder le preocupaba que el sol mismo no sobreviviera a la destrucci&amp;#243;n inminente, por lo que convoc&amp;#243; a sabios barakas, liderados por el venerable Vernicus y su hijo, Nandu.)&lt;BR&gt;&lt;BR&gt;(El resto est&amp;#225; redactado en un idioma que no entiendes.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1096">
+        <Page social="1">(En este depositario est&amp;#225; escrito: los sabios barakas construyeron el templo para albergar un don de Balder: el espejo del sol.&lt;BR&gt;&lt;BR&gt;Si el mundo se oscurece o enemigos lo amenazan, un verdadero h&amp;#233;roe entrar&amp;#225; al templo y empu&amp;#241;ar&amp;#225; el espejo con virtud.)&lt;BR&gt;&lt;BR&gt;(El resto est&amp;#225; redactado en un idioma que no entiendes.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1097">
+        <Page social="1">(En este depositario est&amp;#225; escrito: los barakas se preocuparon, porque a pesar de su sabidur&amp;#237;a, &amp;#191;c&amp;#243;mo reconocer&amp;#237;an al verdadero h&amp;#233;roe? La diosa del destino, Mystel, los tranquiliz&amp;#243; dici&amp;#233;ndoles que su nombre estar&amp;#237;a inscrito en el {@LinkCreature:226#1102$$c&amp;#233;notaphe}, y que el h&amp;#233;roe llevar&amp;#237;a una llave.)&lt;BR&gt;&lt;BR&gt;(El resto est&amp;#225; redactado en un idioma que no entiendes.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1098">
+        <Page social="1">(En este dep&amp;#243;sito est&amp;#225; escrito: la diosa Mystel a&amp;#241;adi&amp;#243;: &quot;Otorgar&amp;#233; longevidad a tu clan para que puedan presenciar este d&amp;#237;a. Mientras el S&amp;#237;mbolo de Balder ondee en el cielo y el Faro del Sol brille, estar&amp;#225;n protegidos. No envejecer&amp;#225;n ni un segundo antes de la llegada del verdadero h&amp;#233;roe&quot;).&lt;BR&gt;&lt;BR&gt;(El resto est&amp;#225; redactado en un idioma que no entiendes.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="3" villagerId="1101">
+        <Page social="1">&amp;#191;Qu&amp;#233; te ha mostrado {@LinkCreature:230#1047$$Nandu}?&lt;BR&gt;&lt;BR&gt;As&amp;#237; que Balder les dijo a los barakas que construyeran un templo... Ya hab&amp;#237;amos escuchado profec&amp;#237;as similares antes.&lt;BR&gt;&lt;BR&gt;Sin embargo, la parte sobre el S&amp;#237;mbolo de Balder, esos glifos y l&amp;#237;neas en el cielo, y el Faro del Sol es nueva. Un poder as&amp;#237;... tan antiguo, tan inmenso. El resto del Mysterium debe enterarse de esto de inmediato.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" villagerId="1101">
+        <Page social="0">Est&amp;#225;s buscando algo. Puedo verlo.</Page>
+    </Text>
+</QuestDialog>

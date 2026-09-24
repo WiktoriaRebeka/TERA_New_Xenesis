@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">Unos {@Creature:47#4003#&amp;#233;craseurs gulas argonomorphes} se han apoderado de un campamento al norte de aqu&amp;#237;. Me gustar&amp;#237;a saber por qu&amp;#233;, pero no tengo ninguna gana de que me devoren, y todos aqu&amp;#237; comparten mi opini&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a echar un vistazo al lugar y tal vez repeler un poco al invasor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="5">&amp;#191;Ten&amp;#237;an esa tierra en sus zapatos? No tiene nada de particular, pero encontr&amp;#233; semillas poco comunes all&amp;#237;. Vienen de la {@Rgn:45001$$Forteresse de la servitude}.&lt;BR&gt;&lt;BR&gt;Ve inmediatamente al puesto avanzado de avanzada y pres&amp;#233;ntate ante Borskan. Las gulas argonomorfas est&amp;#225;n en movimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1021">
+        <Page social="0">&amp;#191;Has repelido a las gulas?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">As&amp;#237; pues, las gulas ven&amp;#237;an de la Forteresse de la Servitude. No me esperaba eso.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#233; que profundizar en esta investigaci&amp;#243;n y me gustar&amp;#237;a saber si est&amp;#225;s {@gender:dispos&amp;#233;/dispos&amp;#233;e} para ayudarme.</Page>
+    </Text>
+</QuestDialog>

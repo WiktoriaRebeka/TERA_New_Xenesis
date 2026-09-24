@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Si queremos encontrar una soluci&amp;#243;n pac&amp;#237;fica al problema de las hadas al que nos enfrentamos, la ayuda de Maon nos ser&amp;#225; de gran ayuda.&lt;BR&gt;&lt;BR&gt;Ve a hablar con &amp;#233;l y mira si es posible encontrar un punto de acuerdo.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as empezar por hablar con su hijo, un chiquillo con un car&amp;#225;cter extremadamente juguet&amp;#243;n. Si te ganas su favor, seguro que te ser&amp;#225; mucho m&amp;#225;s f&amp;#225;cil convencer a su padre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">&amp;#161;Eh! &amp;#191;Quieres jugar conmigo?&lt;BR&gt;&lt;BR&gt;Ah, mi padre es el que te interesa, &amp;#191;verdad? Bueno... Si me prometes volver a verme m&amp;#225;s tarde, hablar&amp;#233; bien de ti a mi padre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Lo &amp;#250;ltimo que necesitamos, &lt;PCCLASS:lcase&gt;, es a otro belicista en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mi hijo dice que no eres como los dem&amp;#225;s... Eso est&amp;#225; muy bien, pero si quieres persuadirme de que el proceso de paz te interesa de verdad, vas a tener que demostrarme que no est&amp;#225;s {@gender:venu/venue} aqu&amp;#237; con la idea de dedicarte a una masacre.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="4">&amp;#191;C&amp;#243;mo se atreve esta banda de monstruos a hacerse llamar &quot;Garde sanglante&quot;? Me da asco.&lt;BR&gt;&lt;BR&gt;Cada vez que los veo jugar a los soldados, un poco de mi alma muere. &amp;#161;Son monstruos!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, mu&amp;#233;strales c&amp;#243;mo es un verdadero soldado. &amp;#161;Caza a los {@LinkCreature:33#12#lanciers} y a los {@LinkCreature:33#62#champions} de la Garde sanglante y qu&amp;#237;tales sus insignias! &amp;#161;No merecen llevarlas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1004">
+        <Page social="4">Me voy a encargar de quemar yo mismo cada una de estas insignias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1004">
+        <Page social="0">Los {@LinkCreature:33#12#lanciers} y los {@LinkCreature:33#62#champions} de la Garde sanglante se burlan de nosotros con esas insignias. &amp;#191;Vas a dejar que pase?</Page>
+    </Text>
+</QuestDialog>

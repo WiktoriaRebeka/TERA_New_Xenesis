@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tras el ataque de los triperos en el Valle de los Titanes, al sur de Boquillon, el prefecto Daven te ha {@gender:envoy&amp;#233;/envoy&amp;#233;e} restaurar la paz en la regi&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n urgentes:&amp;nbsp;&lt;BR&gt;&lt;BR&gt;Los triperos han abierto brecha en el Valle de los Titanes.&lt;BR&gt;&lt;BR&gt;Ve a buscar tus &amp;#243;rdenes con el prefecto Daven, en Boquillon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">Vienes por el asunto de los triperos, &amp;#191;verdad? Hemos establecido un puesto defensivo en la Granja de los Dos Robles, pero no s&amp;#233; cu&amp;#225;nto tiempo aguantar&amp;#225;.&lt;BR&gt;&lt;BR&gt;Toma la salida sur, dir&amp;#237;gete a la granja y busca a {@LinkCreature:206#1010#Petrina}. Seguramente necesitar&amp;#225; tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1010">
+        <Page social="4">&amp;#191;Vienes a echarnos una mano? Muy bien... Esos bichos parecen unos brutos, pero no te f&amp;#237;es de las apariencias. Si los subestimas, te llevas una paliza de las buenas.&lt;BR&gt;&lt;BR&gt;En cambio, si su inteligencia es mayor de lo que parece, la organizaci&amp;#243;n de su grupo depende enteramente de su l&amp;#237;der, {@linkcreature:6#7051#Smulch}. Si lo abatimos, ser&amp;#225; m&amp;#225;s f&amp;#225;cil eliminar a los dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Eso s&amp;#237;, cuida tus pasos... tiene fama de aplastar a sus adversarios de un solo golpe.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" prevId="4" villagerId="1010">
+        <Page social="4">&amp;#191;De verdad? &amp;#191;Has conseguido morder el polvo... digo, hacerlo morder el polvo? &amp;#161;Le mand&amp;#233; a mis mejores elementos y no volvi&amp;#243; ninguno! &amp;#161;Y t&amp;#250; vas y me lo mandas al infierno como si fuera un trabajo rutinario!&lt;BR&gt;&lt;BR&gt;Dicho esto... eh... no querr&amp;#237;a que pensaras que era una misi&amp;#243;n suicida. O sea... siempre tuve fe en ti... desde el principio. Daven no ha dejado de alabarte.&lt;BR&gt;&lt;BR&gt;Por cierto, si quieres seguir con esta racha, tengo otro favor que pedirte.&lt;NEXTPAGEBUTTON&gt;"¿Qué clase de favor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bueno, estamos recuperando el control de la situaci&amp;#243;n, pero la Granja del Eco nos ha enviado una petici&amp;#243;n de ayuda.&lt;BR&gt;&lt;BR&gt;Mientras volvemos a encarrilarnos, te pedir&amp;#233; que vayas a la Granja del Eco y veas en qu&amp;#233; puedes ser &amp;#250;til.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="5" villagerId="1005">
+        <Page social="4">Ya era hora de que llegaran refuerzos. Dir&amp;#237;gete hacia el este para alcanzar las ruinas de Colchester y ve al encuentro de {@LinkCreature:206#1003#Sozia}. Est&amp;#225; desbordada de trabajo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1003">
+        <Page social="4">Si no est&amp;#225;s aqu&amp;#237; para ayudar, la salida es por ah&amp;#237;. Los holgazanes no son bienvenidos por estos lares.&lt;BR&gt;&lt;BR&gt;Si formas parte de los refuerzos, te pedir&amp;#233; que vayas a buscar a los supervivientes al pueblo y hagas que se re&amp;#250;nan conmigo. Procura darte prisa.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="6" villagerId="1">
+        <Page social="0">&amp;#161;Ayuda! &amp;#161;Por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1003">
+        <Page social="4">&amp;#161;Mucha gente te debe una enorme deuda! Por favor, acepta esto.&lt;BR&gt;&lt;BR&gt;Sin ti, no habr&amp;#237;amos logrado salvarlos.</Page>
+    </Text>
+</QuestDialog>

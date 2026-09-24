@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="4">Una &amp;#250;ltima cosa... antes de que te vayas. Tengo un contacto entre los tuwangis. No creo que est&amp;#233; en peligro, pero...&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a ver a {@LinkCreature:205#1016#Jirra} de mi parte y verificar que todo est&amp;#233; bien para &amp;#233;l?&lt;BR&gt;&lt;BR&gt;Oh, y si tiene problemas, dale este pergamino. Le permitir&amp;#225; teletransportarse a un lugar seguro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1016">
+        <Page social="0">&amp;#161;Auxilio! &amp;#161;Ayuda! Caramba, esta criatura no puede entenderme.&lt;BR&gt;&lt;BR&gt;A menos que... &amp;#161;Oh, parece que s&amp;#237;! &amp;#161;Me comprende! &amp;#161;Ay&amp;#250;dame!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es esto? &amp;#191;Un pergamino de teletransportaci&amp;#243;n? &amp;#161;Genial! &amp;#161;Gracias, muchas gracias!&lt;BR&gt;&lt;BR&gt;Ve a ver a mi hermano, {@LinkCreature:205#1003#Pangari}. Lo encontrar&amp;#225;s al sureste de aqu&amp;#237;. &amp;#161;Hazle saber que estoy sano y salvo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1003">
+        <Page social="0">&amp;#161;Gracias por ayudar a Jirra a escapar! Aqu&amp;#237; las cosas han salido muy mal. &amp;#161;Tres tribus buscan expandir el pantano en medio de rencillas internas!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los tuwangis no deber&amp;#237;an pelearse entre ellos de esa manera! &amp;#161;Todo el mundo desconf&amp;#237;a de todos! Pude huir, pero mi hermano no tuvo tanta suerte como yo.&lt;BR&gt;&lt;BR&gt;Te estoy muy agradecido por haberlo salvado. Muchas gracias.</Page>
+    </Text>
+</QuestDialog>

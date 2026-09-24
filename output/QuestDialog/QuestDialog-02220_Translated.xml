@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="230" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;alguna vez has visto un pulpo gigante?&lt;BR&gt;Aparentemente, Naiya vio uno cuando estaba por aqu&amp;#237;. &amp;#161;Es incre&amp;#237;ble!&lt;BR&gt;Por otro lado, tiene fama de exagerar siempre. Si de verdad hay un bicho impresionante en este lago, ser&amp;#237;a una buena oportunidad para que la federaci&amp;#243;n de pesca gane algo de credibilidad.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a verificar si dice la verdad?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">El hada del lago te encarg&amp;#243; capturar el pulpo dorado del Lac de Seren y eso fue lo que hiciste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="1" villagerId="1043">
+        <Page social="4" voiceTypeId="0">&amp;#161;Vaya! &amp;#191;Est&amp;#225;s aqu&amp;#237; por el rumor?&lt;BR&gt;&amp;#161;Anteayer vi un pulpo gigantesco tan brillante como el sol nadando en el lago!&lt;BR&gt;No s&amp;#233;, &amp;#161;medir&amp;#237;a como 5 Barakas!&lt;BR&gt;Las hadas del lago apenas lograron ahuyentarlo.&lt;BR&gt;&amp;#191;Que si estoy exagerando? &amp;#161;Ve a ver a las hadas del lago para preguntarles!&lt;NEXTPAGEBUTTON&gt;"¿Y dónde puedo encontrar a las hadas del lago?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Las hadas del lago adoran todo lo que es dulce.&lt;BR&gt;Esparce caramelos de estrellas sobre los lotos de luz estelar y deber&amp;#237;an aparecer.&lt;BR&gt;&amp;#191;C&amp;#243;mo? &amp;#191;Que no tienes caramelos de estrellas? Pero si es un art&amp;#237;culo indispensable en cualquier equipo de viaje.&lt;BR&gt;&lt;BR&gt; Prep&amp;#225;rate una ensalada de mariscos y champi&amp;#241;ones y te dar&amp;#233; algunos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1043">
+        <Page social="4" voiceTypeId="0">&amp;#161;Estoy impresionada! &amp;#161;Una ensalada de mariscos y champi&amp;#241;ones!&lt;BR&gt;&amp;#161;Solo con el olor, se me hace la agua la boca!&lt;BR&gt;Aqu&amp;#237; tienes tus caramelos de estrellas.&lt;BR&gt;Solo tienes que esparcirlos sobre los lotos de luz estelar.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1043">
+        <Page social="0">&amp;#191;Tienes la ensalada de mariscos y champi&amp;#241;ones?&lt;BR&gt;Puedes conseguir los ingredientes en la tienda de art&amp;#237;culos de pesca.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="9906">
+        <Page social="4" voiceTypeId="0">&amp;#161;Vaya! &amp;#191;Eres t&amp;#250; quien ha esparcido esos caramelos?&lt;BR&gt;Siempre caigo en la trampa.&lt;BR&gt;&amp;#191;Un pulpo? S&amp;#237;, el pulpo gigante que se ha instalado en el lago nos est&amp;#225; dando muchos dolores de cabeza.&lt;BR&gt;Ya no pegamos ojo en toda la noche debido a su cabeza deslumbrante.&lt;BR&gt;&amp;#191;Podr&amp;#237;as atraparlo por nosotros?&lt;BR&gt;Te daremos una recompensa, por supuesto. Y tambi&amp;#233;n puedes quedarte el pulpo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="9906">
+        <Page social="4" voiceTypeId="0">&amp;#161;De verdad lo has atrapado!&lt;BR&gt;Aaaah, aleja esa cabeza deslumbrante de aqu&amp;#237;.&lt;BR&gt;&amp;#161;Gracias! Por fin podremos dormir en paz.&lt;BR&gt;Aqu&amp;#237; tienes tu recompensa.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="9906">
+        <Page social="0">&amp;#191;Has capturado el pulpo dorado?&lt;BR&gt;No es tarea f&amp;#225;cil, as&amp;#237; que t&amp;#243;mate tu tiempo.</Page>
+    </Text>
+</QuestDialog>

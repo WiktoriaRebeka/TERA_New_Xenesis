@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1036">
+        <Page social="4">Muchos de mis camaradas murieron en combate. Les brindamos un homenaje como manda la tradici&amp;#243;n, pero &amp;#191;qu&amp;#233; ser&amp;#225; de sus familias? &amp;#191;Qu&amp;#233; recuerdos guardar&amp;#225;n del sacrificio de sus seres queridos?&lt;BR&gt;&lt;BR&gt;En la Cueva de los Piratas encontrar&amp;#225;s nuestros casilleros. Si me los traes, podr&amp;#233; entregar los efectos personales que contienen a las familias de los ca&amp;#237;dos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1032">
+        <Page social="0">(Este peque&amp;#241;o casillero contiene baratijas sin valor.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1033">
+        <Page social="0">(Este peque&amp;#241;o casillero contiene notas escritas a mano y una piedra brillante, pero claramente sin valor.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1034">
+        <Page social="0">(Este peque&amp;#241;o casillero contiene una serie de dibujos parcialmente borrados y una botella de ron vac&amp;#237;a.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="211" prevId="5" villagerId="1035">
+        <Page social="0">(Este peque&amp;#241;o casillero contiene lencer&amp;#237;a sugerente y un l&amp;#225;tigo.)&lt;BR&gt;&lt;BR&gt;(Lo cierras r&amp;#225;pidamente antes de continuar tu camino.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="211" prevId="6" villagerId="1036">
+        <Page social="4">Gracias por {@gender:all&amp;#233;/all&amp;#233;e} recuperar todo esto.&lt;BR&gt;&lt;BR&gt;Para las familias de los difuntos, cada uno de estos objetos ser&amp;#225; atesorado como una reliquia.</Page>
+    </Text>
+</QuestDialog>

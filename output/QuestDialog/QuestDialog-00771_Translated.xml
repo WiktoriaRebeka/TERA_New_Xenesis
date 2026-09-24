@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Pongamos ese sentido hiperdesarrollado de la asistencia a buen uso, &lt;PCNAME&gt;. Sestena, un investigador que quiere encontrar artefactos llamados tablillas de archivo, necesita ayuda sobre el terreno.&lt;BR&gt;&lt;BR&gt;Toma esto como un castigo por tu ingenuidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1019">
+        <Page social="1">&amp;#161;Me salvas!&lt;BR&gt;&lt;BR&gt;Las {@Rgn:30009$$Ruines du temple} est&amp;#225;n tan esparcidas que no s&amp;#233; por d&amp;#243;nde empezar.&lt;BR&gt;&lt;BR&gt;Aparentemente, las tablillas de archivo est&amp;#225;n encerradas en cajas de piedra dispersas por toda la regi&amp;#243;n del templo.&lt;BR&gt;&lt;BR&gt;Recoge todas las cajas de piedra que encuentres y d&amp;#225;selas a {@linkcreature:230#1026$$Meterok}. Con un poco de suerte, podr&amp;#225; volver a ponerlas en orden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1026">
+        <Page social="1">&amp;#161;Es una aut&amp;#233;ntica mina de tablillas! D&amp;#225;melas, pero ten cuidado. Pertenecen al antiguo imperio de los gigantes, ya sabes.&lt;BR&gt;&lt;BR&gt;Mi teor&amp;#237;a sostiene que los gigantes que crearon las tablillas de archivo de las cajas de piedra son los ancestros directos de los Barakas. Amantes del conocimiento y no de la conquista, en otras palabras.&lt;BR&gt;&lt;BR&gt;Te recompensar&amp;#233; por tus esfuerzos, ni que decir tiene.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1026">
+        <Page social="0">Ya era hora de que Sestena me mandara ayuda.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="4">Soldado, necesito un enlace. Tras este &amp;#250;ltimo ataque argon, nuestras l&amp;#237;neas de comunicaci&amp;#243;n se han cortado. No podemos seguir as&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Te ayudaré con mucho gusto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excelente. Ve a {@Rgn:48004} y entrega estas &amp;#243;rdenes a {@LinkCreature:248#1015}. Por el camino, intenta encontrar a {@LinkCreature:78#1012} cerca de {@Rgn:78001} y ord&amp;#233;nale que regrese a la base.{@Rgn:48004}{@LinkCreature:248#1015}Rompan filas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1012">
+        <Page social="4">&amp;#191;Regresar a la base? Pero a&amp;#250;n no termino de repartir los suministros.&lt;BR&gt;&lt;BR&gt;Estos v&amp;#237;veres son perecederos. &amp;#191;Podr&amp;#237;a entregarlos de mi parte?&lt;NEXTPAGEBUTTON&gt;"Si está en mi camino, con gusto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Genial! {@LinkCreature:78#1009} ha asado porcinos para los herreros de {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Busca a {@LinkCreature:248#1044}, al sureste de la fortaleza. Lo reconocer&amp;#225;s, es un aman con un martillo grande que debe de tener mucha hambre...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1044">
+        <Page social="6">&amp;#161;Por los titanes, qu&amp;#233; bien huele! &amp;#161;Ni siquiera recuerdo la &amp;#250;ltima vez que com&amp;#237; carne fresca!&lt;BR&gt;&lt;BR&gt;Solo queda sobrevivir el tiempo suficiente para disfrutarla.&lt;NEXTPAGEBUTTON&gt;"¿Problemas con los argons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Siempre. Si vas a {@Rgn:78001}, &amp;#191;podr&amp;#237;as matar algunas horrores cadav&amp;#233;ricos argonomorfos por m&amp;#237;? Est&amp;#225; en tu camino y me ayudar&amp;#237;a a proteger a nuestros hombres.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="1015">
+        <Page social="6">Es un placer conocerte, &lt;PCNAME&gt;. Muhrak me habl&amp;#243; muy bien de ti.&lt;BR&gt;&lt;BR&gt;Gracias por las &amp;#243;rdenes. Cuando nos quedamos aislados, me pregunt&amp;#233; si de verdad deb&amp;#237;amos quedarnos. Pero si logramos dominar la tecnolog&amp;#237;a argon, esto cambiar&amp;#237;a el curso de la guerra.&lt;BR&gt;&lt;BR&gt;Espero que valga la pena.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Quer&amp;#237;a interceder a favor de la federaci&amp;#243;n de pesca con mi jefe, pero no hubo caso.&lt;BR&gt;De verdad lo lamento.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tal vez quieras intentar hablar con &amp;#233;l?&lt;BR&gt;Se llama Mattin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mattin te cont&amp;#243; que hab&amp;#237;a problemas de suministro con las escamas de pescado antiguo desde que la federaci&amp;#243;n de pesca opera el sitio de pesca. Resolviste el problema pescando en persona a la bestia sagrada, un pez ancestral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1001">
+        <Page social="1" voiceTypeId="0">&amp;#191;Qu&amp;#233; pasa? &amp;#191;&amp;#161;Pescar!?&lt;BR&gt;&lt;BR&gt;No me hables de pesca. Solo el olor a pescado me da urticaria.&lt;BR&gt;Durante a&amp;#241;os, he recolectado con dificultad el polvo dorado en el fondo del lago para estudiarlo.&lt;BR&gt;De hecho, no es un polvo com&amp;#250;n.&lt;BR&gt;Es un mineral producido por la oxidaci&amp;#243;n de escamas de peces viejos.&lt;BR&gt;Pero desde la aparici&amp;#243;n de la federaci&amp;#243;n de pesca, mis investigaciones est&amp;#225;n estancadas.&lt;BR&gt;Obviamente esto es muy molesto y es la raz&amp;#243;n por la cual estamos en conflicto.&lt;NEXTPAGEBUTTON&gt;"Sea magnánimo, entonces."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Si me traes algo de polvo de escamas viejas, puedo llegar a considerarlo.&lt;BR&gt;&amp;#191;D&amp;#243;nde encontrarlo?&lt;BR&gt;&lt;BR&gt;Preg&amp;#250;ntale al responsable del sitio de pesca.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="9903">
+        <Page social="1" voiceTypeId="0">&amp;#191;Hablaste con &amp;#233;l? &amp;#161;&amp;#191;Escamas viejas!?&lt;BR&gt;&amp;#191;Se referir&amp;#225; al siluro gigante, la bestia sagrada de este lago?&lt;BR&gt;Dicen que un pez legendario nada en las aguas de este sitio de pesca: el siluro gigante.&lt;BR&gt;Tiene varios miles de a&amp;#241;os y aseguran que provoca un sismo cuando salta fuera del agua.&lt;BR&gt;Seguramente no ser&amp;#225; f&amp;#225;cil de atrapar, pero &amp;#191;no quieres intentarlo por la federaci&amp;#243;n de pesca?&lt;BR&gt;Mattin seguramente se pondr&amp;#225; feliz si le llevamos el pez entero en lugar del polvo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1001">
+        <Page social="1" voiceTypeId="0">&amp;#191;No ser&amp;#225; este el pez que vive aqu&amp;#237; desde hace una eternidad?&lt;BR&gt;&amp;#161;Sus escamas me dar&amp;#225;n m&amp;#225;s polvo del que podr&amp;#237;a recolectar en a&amp;#241;os.&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias! Con esto podr&amp;#233; concluir mis investigaciones.&lt;BR&gt;&lt;BR&gt;Por favor, dale las gracias al responsable de pesca.&lt;BR&gt;A partir de hoy, todo ir&amp;#225; bien entre nosotros.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" villagerId="1001">
+        <Page social="0">&amp;#191;Me trajiste escamas del pez antiguo?&lt;BR&gt;El responsable afirma que hay que pescar una bestia sagrada para conseguirlas. Aparentemente, son extremadamente raras y dif&amp;#237;ciles de atrapar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="5" villagerId="9903">
+        <Page social="1" voiceTypeId="0">&amp;#161;As&amp;#237; que logramos salvar nuestro sitio de pesca!&lt;BR&gt;&amp;#161;Tienes toda mi gratitud!&lt;BR&gt;&amp;#161;Aqu&amp;#237; tienes tu recompensa!</Page>
+    </Text>
+</QuestDialog>

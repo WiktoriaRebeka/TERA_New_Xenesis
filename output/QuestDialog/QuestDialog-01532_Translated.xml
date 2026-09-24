@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Ahora bien, debes saber que un animal puede distraerse con lo que ve. Limitar su campo de visi&amp;#243;n es una buena manera de hacer que obedezca bajo cualquier circunstancia.&lt;BR&gt;&lt;BR&gt;Para lograrlo, necesitar&amp;#225;s un arn&amp;#233;s con capucha... eso obliga a la bestia a mirar al frente. Cons&amp;#237;gueme uno.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Ah, perfecto. Esto deber&amp;#237;a facilitarte la tarea.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">S&amp;#237;, sin duda podr&amp;#237;as entrenar a la bestia sin la ayuda de un arn&amp;#233;s, pero eso podr&amp;#237;a costarte un brazo, una pierna o alg&amp;#250;n miembro que prefieras conservar en buen estado.&lt;BR&gt;&lt;BR&gt;T&amp;#250; decides... ya hemos hablado bastante.</Page>
+    </Text>
+</QuestDialog>

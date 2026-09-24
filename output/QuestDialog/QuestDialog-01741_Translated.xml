@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="0">El naufragio del Intr&amp;#233;pide representa una gran p&amp;#233;rdida para la Iniciativa de la vanguardia. Ayudaste a hacer un balance antes de retomar la misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="4">La mayor parte de la vanguardia escap&amp;#243; gracias a ti. Aun as&amp;#237;, el resto de nuestra misi&amp;#243;n parece estar comprometido.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer para ayudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Debemos asegurar nuestros suministros antes de que alguna criatura atroz se los devore. Sin el crucero estelar, qui&amp;#233;n sabe cu&amp;#225;ndo podremos reabastecernos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme a llevarle las provisiones a Dougal?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1001">
+        <Page social="4">Bien hecho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Bien, ya llegamos al norte de Arun y a&amp;#250;n podemos cumplir con nuestra misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Preg&amp;#250;ntale a Zolyn c&amp;#243;mo est&amp;#225;n las tropas. Debemos conocer nuestra capacidad de combate antes de movernos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1001">
+        <Page social="0">&amp;#191;Eso es todo? &amp;#191;De verdad?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1002">
+        <Page social="4">&amp;#161;Maldita sea, &lt;PCNAME&gt;! Soy una Reaper, no una doctora.&lt;BR&gt;&lt;BR&gt;Examina a los heridos t&amp;#250; mismo. Yo buscar&amp;#233; rastros de Syona.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1003">
+        <Page social="4">&amp;#161;Mi pierna! Creo que me quebr&amp;#233; el tobillo. &amp;#191;Se supone que este hueso debe sobresalir as&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ay&amp;#250;dame!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1004">
+        <Page social="4">Ay, me duele al respirar. &amp;#161;Caramba! &amp;#161;Qu&amp;#233; m&amp;#225;s da!&lt;BR&gt;&lt;BR&gt;Jam&amp;#225;s volveremos a casa, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1002">
+        <Page social="4">La herida de Tysan nos va a retrasar. Le ordenar&amp;#233; a Paesyn que fabrique una camilla para transportarlo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Broderik tendr&amp;#225; que aguantar su herida! &amp;#161;Nadie regresa hasta que encontremos a Syona!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1001">
+        <Page social="4">Las heridas pudieron haber sido mucho peores. &amp;#161;Podemos considerarnos afortunados!&lt;BR&gt;&lt;BR&gt;Buen trabajo. Como en los viejos tiempos, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="4">Sospecho que una especie de... estructura argoniana... est&amp;#225; alterando el desarrollo de los fragmentos de iteris. Deber&amp;#237;a estudiarla, pero no formo parte de los venators. &amp;#191;Podr&amp;#237;as ir a la plataforma de teletransporte sur y enviarme un mensaje en cuanto no haya peligro?&lt;NEXTPAGEBUTTON&gt;"¿Cómo debo hacerlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Las ondas arm&amp;#243;nicas de la plataforma de teletransporte entrar&amp;#225;n en resonancia con las de la plataforma de Kanstria. No podr&amp;#237;a ser m&amp;#225;s f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Cuando el lugar sea seguro, dame una se&amp;#241;al y aparecer&amp;#233; por all&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1101">
+        <Page social="6">(Por lo visto, el lugar es seguro.)&lt;BR&gt;&lt;BR&gt;(Deber&amp;#237;as avisar a Shirka.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1016">
+        <Page social="6">&amp;#161;Sorpresa! No soy Shirka.&lt;BR&gt;&lt;BR&gt;Tengo &amp;#243;rdenes de protegerla cueste lo que cueste. Esta regi&amp;#243;n es demasiado peligrosa para ella, por eso estoy aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Muy bien. ¿Y ahora qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">{@Rgn:49002} al sur de aqu&amp;#237; proyecta rayos de energ&amp;#237;a hacia unas estructuras org&amp;#225;nicas que llamamos c&amp;#225;psulas de cyasmana.&lt;BR&gt;&lt;BR&gt;Shirka quiere un fragmento de una de estas c&amp;#225;psulas. Destruye una, recoge un trozo y vuelve a verme.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="1016">
+        <Page social="6">Perfecto... Shirka deber&amp;#237;a estar satisfecha.&lt;BR&gt;&lt;BR&gt;Podr&amp;#225;s usar la plataforma de teletransporte para volver a Kanstria cuando quieras.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" villagerId="1016">
+        <Page social="0">La c&amp;#225;psula de cyasmana se encuentra cerca de {@Rgn:49002}. Sigue el haz de luz que brilla en el cielo. No tiene p&amp;#233;rdida.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="5" villagerId="1022">
+        <Page social="6">Esta muestra deber&amp;#237;a ense&amp;#241;arnos unas cuantas cosas.&lt;BR&gt;&lt;BR&gt;Espero que no te haya costado demasiado recuperarlas.&lt;NEXTPAGEBUTTON&gt;"Sí, con unos kelbas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Hab&amp;#237;a kelbas en la c&amp;#225;psula? Qu&amp;#233; extra&amp;#241;o.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;a ser que jueguen un papel en la alteraci&amp;#243;n de los fragmentos? Tendr&amp;#233; que investigar este asunto. De cualquier manera, &amp;#161;gracias por tu ayuda!</Page>
+    </Text>
+</QuestDialog>

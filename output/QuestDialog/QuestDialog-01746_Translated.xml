@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">Un intento por reparar el motor del Intr&amp;#233;pide fracas&amp;#243;, pero la misi&amp;#243;n contin&amp;#250;a.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">Encontr&amp;#233; un componente del motor del Intr&amp;#233;pide. No estoy seguro de lo que digo, pero podr&amp;#237;a ser posible repararlo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Estar&amp;#237;as dispuesto{@g:/e} a ayudarme a encontrar los componentes?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, y ten cuidado{@g:/e}! El &amp;#225;rea est&amp;#225; infestada de p&amp;#225;jaros furiosos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1200">
+        <Page social="4">Y ahora, encontremos el motor. A juzgar por la disposici&amp;#243;n de las piezas dispersas, debe de estar en esta colina.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que luchar contra esos Parth, pero no me preocupa. &amp;#161;Te ir&amp;#225; bien!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1200">
+        <Page social="0">No. Todav&amp;#237;a no es seguro.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1401">
+        <Page social="4">No soy ingeniero, pero parece recuperable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?&lt;NEXTPAGEBUTTON&gt;"Me temo que no."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Entonces salgamos de este campamento apestoso.&lt;BR&gt;&lt;BR&gt;Rhodos nos espera m&amp;#225;s all&amp;#225; de esos lobos Bloodclaw. Te veo all&amp;#237;. &amp;#161;Ten cuidado{@g:/e}!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1406">
+        <Page social="4">Me alegra verte de nuevo.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo est&amp;#225; esa enorme m&amp;#225;quina con la que vinieron aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Es irreparable."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Qu&amp;#233; l&amp;#225;stima! Un aparato as&amp;#237; nos habr&amp;#237;a dado ventaja en la batalla.</Page>
+    </Text>
+</QuestDialog>

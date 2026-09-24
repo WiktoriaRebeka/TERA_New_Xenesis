@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1018">
+        <Page social="4">Si logras eliminar a los {@LinkCreature:32#7#faucheurs de la troupe des r&amp;#244;deurs}, podr&amp;#225;s considerarte todo un experto. Son duros de roer.&lt;BR&gt;&lt;BR&gt;Si quieres demostrar tu val&amp;#237;a, los encontrar&amp;#225;s en el campamento de mercenarios de la cuenca, al norte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1018">
+        <Page social="4">&amp;#161;Ah! No me equivoqu&amp;#233; en mi juicio... eres un alma valiente. Ser&amp;#225; un honor combatir a tu lado.</Page>
+    </Text>
+</QuestDialog>

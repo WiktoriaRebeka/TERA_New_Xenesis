@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">Cada cosa a su tiempo. Empieza por deshacerte de los templarios mekonaris en las escaleras del altar. Son los combatientes mekonaris m&amp;#225;s temibles, y Killian les dio amuletos protectores para ganarse su confianza. Imagina su humillaci&amp;#243;n si se los quitas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">Poderosos amuletos. Por una vez somos nosotros quienes los debilitamos.&lt;BR&gt;&lt;BR&gt;&amp;#161;El camino est&amp;#225; libre hasta el altar, o casi! Estas horrores pronto terminar&amp;#225;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">&amp;#161;Vamos, &lt;PCCLASS&gt;! &amp;#161;Esos templarios nos cierran el paso!</Page>
+    </Text>
+</QuestDialog>

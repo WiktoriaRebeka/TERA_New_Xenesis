@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has tenido una segunda oportunidad de disfrutar de las festividades en compa&amp;#241;&amp;#237;a de las personas que no pudiste salvar en el pasado. Y he aqu&amp;#237; que llega el hombre providencial...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Es un honor darte la bienvenida aqu&amp;#237;. Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;Supongo que est&amp;#225;s aqu&amp;#237; para participar en la fiesta de Velika, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1134">
+        <Page social="0" voiceTypeId="0">Hola, &lt;PCNAME&gt;.&lt;BR&gt;He o&amp;#237;do hablar del gran valor que demostraste al destruir el fragmento de sangre de Lakan y al terror&amp;#237;fico RK-9 en el hangar de los robots de Randun. Gracias a ti podemos celebrar esta fiesta en paz.&lt;BR&gt;&lt;BR&gt;El tiempo est&amp;#225; absolutamente espl&amp;#233;ndido hoy, &amp;#191;no es as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Ah, la fiesta va a empezar pronto.&lt;BR&gt;Por favor, dir&amp;#237;gete a la Sala de banquet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="509" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;eres t&amp;#250;, verdad?&lt;BR&gt;&lt;BR&gt;Yo tambi&amp;#233;n he recibido una invitaci&amp;#243;n en agradecimiento por mi contribuci&amp;#243;n durante la invasi&amp;#243;n de los dragones.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos, vamos! Todo el mundo te espera, as&amp;#237; que dir&amp;#237;gete inmediatamente a la Sala de banquet.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="509" prevId="4" villagerId="7500">
+        <Page social="0" voiceTypeId="0">Eres el &amp;#250;nico que recuerda la muerte de Velik.&lt;BR&gt;Gracias a ti, la paz ha regresado a Velika y a todo Arborea.&lt;BR&gt;&lt;BR&gt;Anta&amp;#241;o se me conoc&amp;#237;a como la diosa del destino, pero esta vez me he inmiscuido demasiado en el destino de los mortales... Te predigo una larga vida.&lt;BR&gt;&lt;BR&gt;Te ruego que olvides por un instante el funesto futuro del que fuiste testigo y te relajes.&lt;BR&gt;&lt;BR&gt;Es la segunda vez que participas en la fiesta.&lt;BR&gt;Entra r&amp;#225;pido. Hay muchos esper&amp;#225;ndote.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="509" prevId="5" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Compruebo la lista de invitados.&lt;BR&gt;&amp;#191;Podr&amp;#237;a ver tu invitaci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;&amp;#161;Bienvenido, &lt;PCNAME&gt;!&lt;BR&gt;El comandante Seir te espera, guardi&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Por favor, pasa por el Cuartel general antes de disfrutar de la fiesta.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="509" prevId="6" villagerId="3001">
+        <Page social="0" voiceTypeId="0">Saludos.&lt;BR&gt;T&amp;#250; tambi&amp;#233;n est&amp;#225;s aqu&amp;#237; por la fiesta, &amp;#191;verdad?&lt;BR&gt;Jaja. Estudio a los monstruos. Vine a la fiesta para presentar los resultados de mis investigaciones a Seir.&lt;NEXTPAGEBUTTON&gt;"¿Vienes de Élénea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;C&amp;#243;mo lo sabes? Ahora dirijo mis investigaciones en otro lugar.&lt;BR&gt;Tengo un hermano gemelo mayor que todav&amp;#237;a vive en &amp;#201;l&amp;#233;nea.&lt;BR&gt;Sus investigaciones son tan extra&amp;#241;as que ni yo mismo s&amp;#233; exactamente qu&amp;#233; est&amp;#225; estudiando.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="509" prevId="7" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Si todo ha salido bien, te lo debemos a ti. &lt;BR&gt;El hecho de que tantos dragones hayan podido aparecer de golpe a&amp;#250;n suscita muchas dudas, pero por el momento, la situaci&amp;#243;n se ha calmado.&lt;BR&gt;He recibido la orden de redactar un informe sobre este incidente.&lt;BR&gt;&lt;BR&gt;Disfruta de la fiesta, &lt;BR&gt;.&lt;PCNAME&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="509" prevId="8" villagerId="2100">
+        <Page social="0" voiceTypeId="0">&amp;#161;Hola, &lt;PCNAME&gt;!&lt;BR&gt;Disfruta de la fiesta.&lt;BR&gt;&lt;BR&gt;Encontrar&amp;#225;s numerosas actividades: baile, comida, cajas de fortuna, teatro y mucho m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;La obra de teatro va a comenzar pronto.&lt;BR&gt;&amp;#191;Quieres verla?&lt;NEXTPAGEBUTTON&gt;"Pienso asistir a la obra de teatro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Ves el teatro detr&amp;#225;s de m&amp;#237;?&lt;BR&gt;Hay bastante espacio delante del escenario.&lt;BR&gt;&lt;BR&gt;Por cierto, Seir dar&amp;#225; un discurso a continuaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="509" prevId="9" villagerId="5026">
+        <Page social="0" voiceTypeId="0">La obra de teatro ha sido muy interesante.&lt;BR&gt;&amp;#161;Y pensar que alguien ha inventado los personajes, las escenas y la escenograf&amp;#237;a de la nada! &lt;BR&gt;La puesta en escena desdibuja la frontera entre la ficci&amp;#243;n y la realidad.&lt;BR&gt;&lt;BR&gt;Da la impresi&amp;#243;n de haber vivido esas experiencias uno mismo...&lt;BR&gt;&lt;BR&gt;Me ha entrado de repente el deseo de escribir mi propia obra de teatro.&lt;NEXTPAGEBUTTON&gt;"¿Qué tipo de obra de teatro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Parece que he despertado tu curiosidad?&lt;BR&gt;No se lo digas a nadie, por favor.&lt;BR&gt;Eres el &amp;#250;nico que lo sabe.&lt;BR&gt;&lt;BR&gt;Tratar&amp;#225; sobre una historia en la que un h&amp;#233;roe salva el mundo.&lt;BR&gt;Ya sabes el tipo de historia de h&amp;#233;roes cl&amp;#225;sica.&lt;BR&gt;Pero lo mejor es que nadie sabe que el h&amp;#233;roe ha salvado el mundo.&lt;BR&gt;&lt;BR&gt;El h&amp;#233;roe es el &amp;#250;nico que lo sabe.&lt;BR&gt;&amp;#191;Qu&amp;#233; te parece?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="509" prevId="10" villagerId="2019">
+        <Page social="0" voiceTypeId="0">Saludos.&lt;BR&gt;&amp;#191;La comida es de tu agrado? &lt;BR&gt;La comida que se ofrece en esta fiesta es deliciosa.&lt;NEXTPAGEBUTTON&gt;"¿Qué has comido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Com&amp;#237; alas l&amp;#250;gubres.&lt;BR&gt;El matrimonio entre las claras de struthios y la salsa especial fue simplemente divino. Sencillamente no entiendo c&amp;#243;mo logran transformar las claras de struthios, que son bastante sosas, en semejante explosi&amp;#243;n de aromas.&lt;BR&gt;&lt;BR&gt;Lo &amp;#250;nico que me molesta de este plato es su nombre, &quot;alas l&amp;#250;gubres&quot;. &lt;BR&gt;&lt;BR&gt;L&amp;#250;gubre es verdaderamente la &amp;#250;ltima palabra que se me vendr&amp;#237;a a la mente para describir este plato.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="509" prevId="11" villagerId="2026">
+        <Page social="0" voiceTypeId="0">Muchas gracias por tus halagos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="12" villagerId="1102">
+        <Page social="0" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;A&amp;#250;n no has conseguido tu recuerdo.&lt;BR&gt;Supuse que lo hab&amp;#237;as olvidado y por eso lo guard&amp;#233; para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Toma, rec&amp;#243;gelo.</Page>
+    </Text>
+</QuestDialog>

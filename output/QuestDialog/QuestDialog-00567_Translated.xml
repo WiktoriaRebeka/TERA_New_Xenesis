@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="4">&amp;#191;Puedes encontrar a mi hermano? Se fue hace unos d&amp;#237;as a comprar equipo a la tienda y no lo he vuelto a ver desde entonces. Se llama Patteck.&lt;BR&gt;&lt;BR&gt;Cada vez secuestran a m&amp;#225;s aldeanos y yo solo quiero...&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir a buscarlo por m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1024">
+        <Page social="0">(Una vieja caja lleva la inscripci&amp;#243;n &quot;Pattek&quot;. Las huellas que la rodean se dirigen hacia las Minas tenebrosas.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1002">
+        <Page social="0">No puedo... No tengo suficiente informaci&amp;#243;n. Ignoro qu&amp;#233; pas&amp;#243;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="4">Si los argons se fueron repentinamente, tal vez hayan dejado equipos valiosos en los {@Rgn:45005$$Champs du Ciel}. &amp;#191;Quieres ir a ver si es el caso?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">No esperaba tanto. Deb&amp;#237;an tener mucha prisa por irse.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1029">
+        <Page social="0">&amp;#191;Has encontrado equipo argon en las {@Rgn:45005$$Champs du Ciel}&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

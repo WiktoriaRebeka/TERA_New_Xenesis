@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="4">Necesito que alguien con experiencia se introduzca en la Citadelle du Tourment para ayudar a estos investigadores antes de que los maten a todos.&lt;BR&gt;&lt;BR&gt;Aparentemente, los soldados que ya est&amp;#225;n all&amp;#237; no son suficientes. &amp;#191;Te interesa esta misi&amp;#243;n, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Entonces ve a ver a Meygren en la Citadelle du Tourment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1003">
+        <Page social="4">Bienvenido, bienvenido. Espero que tengas ganas de poner manos a la obra.&lt;BR&gt;&lt;BR&gt;Nuestra prioridad es instalar defensas para que la gente no se vea afectada por los maleficios de los monstruos, pero por desgracia, tenemos dificultades para reunir los ingredientes necesarios.&lt;NEXTPAGEBUTTON&gt;"¿Qué necesitas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">El segundo y tercer piso albergan varias extra&amp;#241;as criaturas regresadas de entre los muertos, as&amp;#237; como sus pertenencias, de las que emana el tipo de MP que necesitamos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a buscarnos los cepillos para el cabello manchados de sangre de la {@LinkCreature:33#3#nobles vampires} y de la {@LinkCreature:33#53#nobles vampires maudites} en el segundo piso, as&amp;#237; como los relojes de bolsillo letales del {@LinkCreature:33#4#nobles vampires} del tercer piso?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1003">
+        <Page social="4">&amp;#161;Lo lograste! Con esto podr&amp;#233; detener a los vampiros y su magia hipnotizante. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" villagerId="1003">
+        <Page social="0">Encontrar&amp;#225;s a la {@LinkCreature:33#3#noble vampire} y a la {@LinkCreature:33#53#noble vampire maudite} en el Sal&amp;#243;n de las damas. El {@LinkCreature:33#4#noble vampire} se encuentra en el Sal&amp;#243;n de los maestros. Afortunadamente, un piso los separar&amp;#225; de estas horribles mu&amp;#241;ecas...</Page>
+    </Text>
+</QuestDialog>

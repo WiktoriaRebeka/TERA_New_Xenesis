@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="4">El Campamento de Subyugaci&amp;#243;n... Al principio, este lugar naci&amp;#243; de un capricho muy impulsivo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora es nuestro turno de subyugar al enemigo! El lugar demostr&amp;#243; una importancia estrat&amp;#233;gica que no sospech&amp;#225;bamos, y logramos mantener el control a costa de muchos sacrificios.&lt;BR&gt;&lt;BR&gt;&amp;#161;Hoy, los {@LinkCreature:11#1009#faucheurs du Fouet rouge} intentan echarnos de aqu&amp;#237;! &amp;#161;Detenlos, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1012">
+        <Page social="4">Traes un buen n&amp;#250;mero de trofeos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ahora creo que entiendes mejor la importancia de este campamento, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1012">
+        <Page social="0">&amp;#161;Los {@LinkCreature:11#1009#faucheurs du Fouet rouge} quieren este campamento, pero ni hablar de d&amp;#225;rselo!</Page>
+    </Text>
+</QuestDialog>

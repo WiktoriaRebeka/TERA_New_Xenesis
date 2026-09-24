@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">&amp;#191;Sabe por qu&amp;#233; a esto lo llaman el oro de los tontos? &amp;#161;Porque hay que estar realmente loco para burlarse de un investigador respetable que vino aqu&amp;#237; a experimentar con la transmutaci&amp;#243;n... de los elementos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Y estoy muy cerca del gran descubrimiento! &amp;#161;Pronto dominar&amp;#233; la fabricaci&amp;#243;n del oro!&lt;NEXTPAGEBUTTON&gt;"¿Yupi?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">El truco, y no puedo creer que ninguno de mis colegas haya pensado en ello, es usar magia, no simplemente una mezcla de compuestos qu&amp;#237;micos.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; obra la magia simp&amp;#225;tica. &amp;#161;Algo bastante elaborado!&lt;BR&gt;&lt;BR&gt;Por varias razones arbitrarias y esot&amp;#233;ricas, necesito &lt;B&gt;yeux d'avarice&lt;/B&gt;. Mata a los {@LinkCreature:472#29#enrag&amp;#233;s sihrans} en el Labyrinthe d'Or, luego regresa y te dir&amp;#233; m&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="6" voiceTypeId="0">&amp;#191;Ves? Es magia simp&amp;#225;tica. Para la transmutaci&amp;#243;n en oro, necesito un ojo cegado por la codicia.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ac&amp;#233;rcalo m&amp;#225;s! No hay mucha luz aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">&amp;#161;No puedo lograrlo solo, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

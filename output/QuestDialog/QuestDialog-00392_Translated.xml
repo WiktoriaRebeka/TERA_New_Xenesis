@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Tengo una misi&amp;#243;n para ti.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:13#301194#grandes cr&amp;#234;tes becailloux} est&amp;#225;n robando equipo de investigaci&amp;#243;n y perturbando las mediciones tomadas en el linde noreste de la base.&lt;BR&gt;&lt;BR&gt;Ve a ver si puedes recuperar algunas de nuestras &lt;b&gt;outils de recherche&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Cuando tengas una buena cantidad, ll&amp;#233;vaselas a Jairus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1042">
+        <Page social="4">&amp;#161;Qu&amp;#233; agradable sorpresa! Llevo un rato paseando pregunt&amp;#225;ndome c&amp;#243;mo terminar mis investigaciones sobre esta especie de &amp;#225;rbol tan magn&amp;#237;fica. Cada vez que instalo mis instrumentos, los bearkat aparecen y me los roban. No s&amp;#233; por qu&amp;#233;...&lt;BR&gt;&lt;BR&gt;De todos modos, gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1042">
+        <Page social="0">Adria dijo que hab&amp;#237;a enviado a alguien a buscar mis instrumentos. &amp;#191;Eres t&amp;#250;? Te lo pregunto porque no parece que hayas recuperado lo que los {@LinkCreature:13#301194#grandes cr&amp;#234;tes becailloux} me robaron.&lt;BR&gt;&lt;BR&gt;Si tienes la oportunidad de ir a darles unos golpes en el pico, me encantar&amp;#237;a recuperar mi equipo...</Page>
+    </Text>
+</QuestDialog>

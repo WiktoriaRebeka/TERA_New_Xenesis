@@ -1,0 +1,110 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Laaran, el magistrado de Tria, te est&amp;#225; buscando.&lt;BR&gt;Ve a hablar con Laaran.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te has enterado de que la Fortaleza sangrienta, donde los aldeanos se hab&amp;#237;an refugiado ante la epidemia, tampoco era segura.&lt;BR&gt;Por lo tanto, se ha erigido un nuevo campamento en colaboraci&amp;#243;n con los hombres de Jordal para salvar y proteger a los aldeanos. Pero en el camino que lleva a la Fortaleza sangrienta, han visto una gigantesca fortaleza voladora.&lt;BR&gt;Unas mariposas similares a las vistas en el sue&amp;#241;o de Velik se han escapado de la fortaleza para atacar la aeronave.&lt;BR&gt;Te has apresurado al lugar del accidente y has salvado a los supervivientes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="1" villagerId="1011">
+        <Page social="0" voiceTypeId="0">He decidido enviar a los aldeanos a la Fortaleza sangrienta.&lt;BR&gt;Hemos fletado una aeronave para ellos y te agradecer&amp;#237;a que les ayudaras a embarcar.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;a hacerlo yo, pero creo que los aldeanos se tranquilizar&amp;#225;n si te encargas t&amp;#250;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1020">
+        <Page social="0" voiceTypeId="0">Hemos hecho bien en advertir a Jordal de antemano.&lt;BR&gt;Nuestra ausencia podr&amp;#237;a prolongarse, as&amp;#237; que deber&amp;#237;amos llevar provisiones a la fortaleza.&lt;BR&gt;Unas cuantas frutas bastar&amp;#225;n. Ah, y tambi&amp;#233;n un remedio contra las n&amp;#225;useas. Y tal vez un abrigo: puede que haga fr&amp;#237;o.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="3" villagerId="1039">
+        <Page social="0" voiceTypeId="0">Los reclutas nunca han visto una sola batalla y, por tanto, no estoy seguro de que puedan proteger a los aldeanos cuando lleguen a la Fortaleza sangrienta.&lt;BR&gt;&lt;BR&gt;Pero tambi&amp;#233;n puede ser que alguien tan talentoso como t&amp;#250; se oculte entre esos reclutas. Despu&amp;#233;s de todo, las aptitudes de un soldado se revelan en el calor de los combates y no durante el entrenamiento.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Cuando el brillo de una estrella supera al de su vecina, eso no significa que la otra estrella se apague.&lt;BR&gt;&lt;BR&gt;Quiero expresarte mi gratitud, no solo hacia ti, sino tambi&amp;#233;n hacia los numerosos soldados rasos a los que tu radiante personalidad eclipsa.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="70" prevId="3" villagerId="1042">
+        <Page social="0" voiceTypeId="0">Si nuestro destino es la Fortaleza sangrienta, entonces una aeronave ser&amp;#237;a sin duda mucho m&amp;#225;s segura.&lt;BR&gt;&lt;BR&gt;Como nos faltaban tropas, ni siquiera pudimos ir a examinar las reliquias. Pero al menos la aeronave nos conducir&amp;#225; a la Fortaleza sangrienta de manera r&amp;#225;pida y segura.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="70" prevId="4" villagerId="1011">
+        <Page social="0" voiceTypeId="0">La evacuaci&amp;#243;n de los aldeanos me parte el coraz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Quisiera pedirte que des la se&amp;#241;al de salida de la aeronave en mi lugar.&lt;BR&gt;&lt;BR&gt;No tengo el valor de presentarme ante los aldeanos, ya que no he logrado proteger el pueblo.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="70" prevId="8" villagerId="1064">
+        <Page social="0" voiceTypeId="0">&amp;#191;Qu&amp;#233; va a ser de este pueblo?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="70" prevId="9" villagerId="1065">
+        <Page social="0" voiceTypeId="0">Pronto podremos volver a casa, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="10" villagerId="1066">
+        <Page social="0" voiceTypeId="0">Todo saldr&amp;#225; bien.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="70" prevId="11" villagerId="1067">
+        <Page social="0" voiceTypeId="0">Nuestro &amp;#250;nico consuelo es que esto nos dar&amp;#225; la oportunidad de ver las reliquias de m&amp;#225;s cerca.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="12" villagerId="1063">
+        <Page social="0" voiceTypeId="0">En la aeronave se puede escuchar a los aldeanos charlando.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1053">
+        <Page social="0" voiceTypeId="0">El hecho de que la aeronave ya haya despegado es muy problem&amp;#225;tico.&lt;BR&gt;&lt;BR&gt;Varios informes cre&amp;#237;bles afirman que un polvo anaranjado se escapa de la Fortaleza sangrienta. Debemos localizar inmediatamente la aeronave e intentar hacerla dar la vuelta.&lt;BR&gt;&lt;BR&gt;Si la aeronave llega a la Fortaleza sangrienta antes que nosotros, debemos sacar a los aldeanos sanos y salvos de la fortaleza.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" prevId="14" villagerId="1011">
+        <Page social="0" voiceTypeId="0">&amp;#191;C&amp;#243;mo he podido? He puesto en gran peligro al pueblo y tambi&amp;#233;n a todos los aldeanos.&lt;BR&gt;&lt;BR&gt;El valle... s&amp;#237;... La aeronave debe de estar sobrevolando el Valle de la serenidad.&lt;BR&gt;Velnen est&amp;#225; apostado all&amp;#237;: ve a buscarlo y podr&amp;#225; darte la posici&amp;#243;n actual de la aeronave. &amp;#161;Ve ahora mismo!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Te llevar&amp;#233; a la Base de lib&amp;#233;ration donde vive Velnen.&lt;BR&gt;&amp;#191;Quieres ir ahora mismo?</Page>
+    </Text>
+    <Text id="16" huntingZoneId="227" prevId="15" villagerId="1008">
+        <Page social="0" voiceTypeId="0">Es evidente que, como el dirigible avanza m&amp;#225;s r&amp;#225;pido que nosotros, que caminamos a pie, llegar&amp;#225; a la Forteresse sanglante antes que nosotros.&lt;BR&gt;&lt;BR&gt;Pero los monstruos furiosos controlan no solo los caminos, sino tambi&amp;#233;n los puestos de observaci&amp;#243;n, por lo que ser&amp;#225; extremadamente dif&amp;#237;cil abrirse paso hasta la zona de aterrizaje.&lt;BR&gt;Ni qu&amp;#233; decir tiene que ser&amp;#225; infinitamente m&amp;#225;s complicado hacer el camino de regreso en compa&amp;#241;&amp;#237;a de los aldeanos.&lt;BR&gt;&lt;BR&gt;Si tienes algunos camaradas, deber&amp;#237;as enviarlos all&amp;#237; para que protejan a los aldeanos despu&amp;#233;s del aterrizaje. &amp;#191;Qu&amp;#233; tal si nos ayudas a reconquistar el campamento, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Es una buena idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Si logras asegurar los alrededores de los cuatro puestos destruidos y reparar cada uno de ellos, las tropas de defensa podr&amp;#225;n reconquistar los campamentos progresivamente y preparar as&amp;#237; la protecci&amp;#243;n de los aldeanos.&lt;BR&gt;&lt;BR&gt;Por favor, comienza por el puesto m&amp;#225;s cercano.&lt;BR&gt;Elimina a los jabal&amp;#237;es mutantes y restaura el portal del primer puesto.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="227" prevId="16" villagerId="1033">
+        <Page social="0" voiceTypeId="0">Velnen probablemente tom&amp;#243; la decisi&amp;#243;n correcta.&lt;BR&gt;No solo es importante tener tropas para defender a los aldeanos, sino que tambi&amp;#233;n necesitamos a alguien que asegure el camino de regreso para ellos.&lt;BR&gt;&lt;BR&gt;Como Jelena y yo nos especializamos en infiltraci&amp;#243;n, ayudaremos a la tropa de defensa a reconquistar los puestos.&lt;NEXTPAGEBUTTON&gt;"Tiene sentido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Jelena y yo buscaremos el dirigible, protegeremos a los aldeanos all&amp;#237; y esperaremos a las fuerzas armadas de la tropa de defensa.&lt;BR&gt;&lt;BR&gt;Una vez que hayas recuperado las defensas de Ess&amp;#233;nia y los puestos para permitir que los aldeanos regresen a salvo, podr&amp;#225;s unirte a nosotros.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="227" prevId="17" villagerId="1034">
+        <Page social="0" voiceTypeId="0">Es un honor darte la bienvenida aqu&amp;#237;. Me llamo Hudere y he sido nombrado centuri&amp;#243;n provisional en lugar de Velnen.&lt;BR&gt;&lt;BR&gt;Te agradezco que hayas restablecido el portal. &lt;BR&gt;Me encargar&amp;#233; de que el puesto funcione correctamente abasteci&amp;#233;ndolo.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">El lugar est&amp;#225; infestado de monstruos volc&amp;#225;nicos y no podremos lograrlo solos. Parecen mucho m&amp;#225;s poderosos que los jabal&amp;#237;es comunes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;a pedirte que elimines a los monstruos volc&amp;#225;nicos en los alrededores del puesto para que el carro de suministros llegue a su destino sin contratiempos?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="227" prevId="18" villagerId="1035">
+        <Page social="0" voiceTypeId="0">Te agradezco que hayas restablecido el portal.&lt;BR&gt;Gracias a ti, los suministros pudieron llegar sin complicaciones.&lt;BR&gt;&lt;BR&gt;Ahora queremos marchar hacia el siguiente puesto.&lt;BR&gt;Pero como nuestro ca&amp;#241;&amp;#243;n de asedio est&amp;#225; defectuoso, nos cuesta mucho avanzar r&amp;#225;pidamente hasta el puesto.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer para ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Podr&amp;#237;as quiz&amp;#225;s transportar el ca&amp;#241;&amp;#243;n de asedio hasta el siguiente puesto?&lt;BR&gt;&lt;BR&gt;Es cierto que est&amp;#225; defectuoso, pero si logramos repararlo en el pr&amp;#243;ximo puesto, ser&amp;#225; un recurso valioso para lo que sigue.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; muy da&amp;#241;ado, por lo que debemos tener mucho cuidado de que ning&amp;#250;n monstruo lo ataque.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="27" villagerId="1019">
+        <Page social="0">Parece que ya no le queda mucho combustible.&lt;BR&gt;Darnos prisa.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="227" prevId="19" villagerId="1038">
+        <Page social="0" voiceTypeId="0">Te admiro, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Te admiro desde que te encargaste de los descendientes de Lok.&lt;BR&gt;Pero aqu&amp;#237; estoy charlando en lugar de darte mi informe.&lt;BR&gt;&lt;BR&gt;Cuando Pluie argent&amp;#233;e intent&amp;#243; tomar el tercer puesto con sus soldados, algunos de ellos resultaron heridos por v&amp;#225;stagos de fauces infernales con colmillos contaminados.&lt;BR&gt;&lt;BR&gt;En consecuencia, Pluie argent&amp;#233;e te pide que te encargues del cuarto puesto, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"¿Qué fue de los soldados heridos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tras el asalto de los v&amp;#225;stagos de fauces infernales con colmillos contaminados, los soldados parecen haber perdido todo su ardor para el combate.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; si capturas a algunos monstruos en el camino hacia el cuarto puesto y luego muestras sus dientes a los soldados, deber&amp;#237;an recuperar su combatividad.&lt;BR&gt;&lt;BR&gt;Es cierto que el ca&amp;#241;&amp;#243;n de asedio deber&amp;#237;a permitir capturar a estos monstruos, pero tambi&amp;#233;n lo lograr&amp;#225;s sin dificultad, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="227" prevId="21" villagerId="1037">
+        <Page social="0" voiceTypeId="0">Te vi eliminar a los v&amp;#225;stagos de fauces infernales con colmillos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, le has devuelto el valor a los soldados. Te lo agradezco.&lt;NEXTPAGEBUTTON&gt;"Resistan, sus heridas sanarán pronto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ahora que hemos reconquistado todos los puestos, solo nos queda rescatar a los aldeanos para que la defensa repela de una vez por todas el asalto de los monstruos cristalizados.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="27" prevId="22" villagerId="1000">
+        <Page social="0" voiceTypeId="0">Escuch&amp;#233; que estabas restaurando los puestos y vine corriendo de inmediato.&lt;BR&gt;&lt;BR&gt;El dirigible ya se encuentra en la Forteresse sanglante.&lt;BR&gt;&lt;BR&gt;Debemos darnos prisa para rastrear el dirigible.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="27" prevId="23" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Aparentemente, acaba de ocurrir algo horrible.&lt;BR&gt;&lt;BR&gt;Debemos llegar a la fortaleza lo antes posible para rescatar a los aldeanos.&lt;BR&gt;&lt;BR&gt;Lian afirm&amp;#243; que ten&amp;#237;a la intenci&amp;#243;n de ir a la fortaleza, pero con un sismo as&amp;#237;, tal vez &amp;#233;l mismo est&amp;#233; en peligro.&lt;NEXTPAGEBUTTON&gt;"... !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Avanzar juntos nos har&amp;#237;a perder el tiempo.&lt;BR&gt;Vayamos cada uno por nuestro lado.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="27" prevId="24" villagerId="1001">
+        <Page social="0" voiceTypeId="0">&amp;#161;Monstruos han invadido la fortaleza... mariposas!&lt;BR&gt;&lt;BR&gt;Estas mariposas esparcen un polvo anaranjado por toda la fortaleza.&lt;BR&gt;&lt;BR&gt;Dej&amp;#233; a mis compa&amp;#241;eros atr&amp;#225;s. Si no exterminamos a estas mariposas ahora mismo, todos los que est&amp;#225;n en la fortaleza se convertir&amp;#225;n en piedras anaranjadas.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="27" prevId="25" villagerId="1015">
+        <Page social="0" voiceTypeId="0">El dirigible de repente fue...&lt;BR&gt;&lt;BR&gt;He perdido a mi esposo. &amp;#191;Qu&amp;#233; voy a hacer?&lt;BR&gt;&lt;BR&gt;Probablemente todav&amp;#237;a est&amp;#233; vivo.&lt;BR&gt;&amp;#161;Te lo suplico, prom&amp;#233;teme que lo encontrar&amp;#225;s!&lt;BR&gt;Sin eso, no puedo irme.&lt;NEXTPAGEBUTTON&gt;"Encontraré a tu esposo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Gracias! Muchas gracias.&lt;BR&gt;Rezar&amp;#233; por tu salvaci&amp;#243;n y la de mi esposo.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="27" prevId="26" villagerId="1016">
+        <Page social="0" voiceTypeId="0">De repente, unas mariposas rodearon la aeronave, tras lo cual perdi&amp;#243; el equilibrio y se estrell&amp;#243; contra el suelo.&lt;BR&gt;&lt;BR&gt;La gente huy&amp;#243; gritando, pero no pude ver qu&amp;#233; les pas&amp;#243; despu&amp;#233;s.&lt;NEXTPAGEBUTTON&gt;"Tranquilízate."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No s&amp;#233; qu&amp;#233; pas&amp;#243;. &amp;#161;Ay&amp;#250;dame!&lt;BR&gt;&lt;BR&gt;All&amp;#237; dentro todav&amp;#237;a hay algunos Humanos que no lograron ponerse a salvo. &amp;#161;Date prisa en ir a rescatarlos!</Page>
+    </Text>
+    <Text id="28" huntingZoneId="27" prevId="27" villagerId="1017">
+        <Page social="0" voiceTypeId="0">El cad&amp;#225;ver est&amp;#225; cubierto de sangre y polvo de cristal.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="27" prevId="28" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225; la cueva.&lt;BR&gt;&lt;BR&gt;&amp;#191;Todav&amp;#237;a hay sobrevivientes? &lt;BR&gt;&amp;#161;Pues b&amp;#250;scalos! &lt;BR&gt;Mientras tanto, nosotros distraeremos a las mariposas. &lt;BR&gt; Tr&amp;#225;eme a todos los rescatados.</Page>
+    </Text>
+    <Text id="30" huntingZoneId="27" villagerId="1018">
+        <Page social="0">Parecen haber perdido todas sus fuerzas. Deber&amp;#237;amos llevarlos a ver a Lian.</Page>
+    </Text>
+    <Text id="31" huntingZoneId="27" prevId="29" villagerId="502">
+        <Page social="0" voiceTypeId="0">Ya que formas parte de la federaci&amp;#243;n, deber&amp;#237;as hacerle tu informe a Seir.&lt;BR&gt;Deber&amp;#237;amos ayudarlos de acuerdo con la decisi&amp;#243;n de la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Jelena y yo observaremos la fortaleza a&amp;#233;rea.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tengo algunos pergaminos m&amp;#225;s por aqu&amp;#237;. Usa este para llegar a la entrada de la fortaleza.&lt;BR&gt;&lt;BR&gt;Si el destino quiere, nos volveremos a ver.&lt;BR&gt;&lt;BR&gt;[Atenci&amp;#243;n: si pones fin a la conversaci&amp;#243;n, ser&amp;#225;s teletransportado autom&amp;#225;ticamente.]</Page>
+    </Text>
+    <Text id="32" huntingZoneId="227" prevId="31" villagerId="1008">
+        <Page social="0" voiceTypeId="0">Est&amp;#225;s ileso. Menos mal.&lt;BR&gt;&lt;BR&gt;El choque de la aeronave...&lt;BR&gt;Nunca habr&amp;#237;a podido imaginarlo.&lt;BR&gt;&amp;#191;Son estos todos los sobrevivientes?&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Descansa un poco.&lt;BR&gt;Me encargar&amp;#233; de los aldeanos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">No solo debemos sacar a la luz todas estas conspiraciones, sino tambi&amp;#233;n descubrir tesoros. El esfuerzo de guerra depende de nosotros, y los {@LinkCreature:42#210#crois&amp;#233;s dagonites} no nos ponen las cosas f&amp;#225;ciles. &amp;#161;Es nuestro turno de hacerles la vida imposible, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="5">Siempre es un placer recompensar el trabajo bien hecho, y este fue totalmente el caso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Nunca encontraremos estos tesoros si tenemos que abrirnos paso a la fuerza entre los {@LinkCreature:42#210#crois&amp;#233;s dagonites} en cada habitaci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

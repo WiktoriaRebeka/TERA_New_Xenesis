@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="100">
+        <Page social="0" voiceTypeId="0">[Orden]&lt;BR&gt;&lt;BR&gt;Poco despu&amp;#233;s de tu partida de Exodor, la Federaci&amp;#243;n Valkyon instal&amp;#243; una base para vigilar los movimientos de Arkarp y explorar Exodor.&lt;BR&gt;Regresa de inmediato a Exodor para abastecer la base.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A lo lejos divisas un rostro familiar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="100">
+        <Page social="4">&amp;#161;Hola! &amp;#161;Mucho gusto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me llamo Anya!&lt;NEXTPAGEBUTTON&gt;"¿De verdad eres tú, Anya?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">&amp;#191;Eh? Por supuesto que soy Anya. &amp;#191;Qui&amp;#233;n m&amp;#225;s quieres que sea?&lt;NEXTPAGEBUTTON&gt;"¿No me reconoces?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Aj&amp;#225;! Parece que me conoces.&lt;BR&gt;Y, sin embargo, no soy la Anya que conoces.&lt;BR&gt;Es dif&amp;#237;cil de entender, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Escucha mis explicaciones y todo quedar&amp;#225; claro. S&amp;#237;gueme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="120">
+        <Page social="4" voiceTypeId="0">Este lugar se llama Osnium Agaia.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; conectado con el espacio-tiempo.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; vive mucha gente como yo, que difiere de las personas de tu mundo.&lt;NEXTPAGEBUTTON&gt;"Lo entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Voy a explicarte el fen&amp;#243;meno.&lt;BR&gt;&lt;BR&gt;Esc&amp;#250;chame bien.</Page>
+    </Text>
+</QuestDialog>

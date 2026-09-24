@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Elthienne} te estaba buscando. &amp;#191;Fuiste a {@gender:all&amp;#233;/all&amp;#233;e} hablar con &amp;#233;l?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#161;Eh! Justo me preguntaba si alguien ten&amp;#237;a noticias tuyas.&lt;BR&gt;&lt;BR&gt;Al parecer, nuestros vecinos del sur est&amp;#225;n invadidos por lagartos de tempestad, vulcains y kumas.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a brindarles un poco de ayuda, pero... &amp;#191;vulcains? &amp;#191;Kumas? Eres mucho m&amp;#225;s eficiente que las Manos individualmente... y tal vez incluso colectivamente.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo enviarte a eliminar parte de estas amenazas a Val Aureum?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#191;Tomaste la {@Rgn:24001#Route d'Aurum}? &amp;#191;Era una misi&amp;#243;n suicida? En ese caso, no tuvo &amp;#233;xito.&lt;BR&gt;&lt;BR&gt;Advierte a {@LinkCreature:63#3003#Elthienne} que tendr&amp;#225; que hacerlo mejor que eso si quiere matarte.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Reduce el n&amp;#250;mero de {@LinkCreature:24#5#l&amp;#233;zards de la temp&amp;#234;te vifs} en la {@Rgn:24001#Route d'Aurum} y tr&amp;#225;enos su piel.&lt;BR&gt;&lt;BR&gt;Elthienne no pidi&amp;#243; piel, pero no voy a desaprovechar la oportunidad de conseguir material para hacerme un nuevo atuendo. &amp;#161;Va a estar ardiente!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Odio la {@Rgn:24001#Route d'Aurum}. No, en serio, &amp;#191;para qu&amp;#233; sirve? Hace un calor insoportable y por all&amp;#225; todo est&amp;#225; muerto, excepto lo que quiere matarte. Creo que deber&amp;#237;amos olvidarnos del sur.&lt;BR&gt;&lt;BR&gt;Le dije a {@LinkCreature:63#3003#Elthienne} que no se molestara en pedirme que fuera. &amp;#161;Pero supongo que ya te habr&amp;#225; prometido una peque&amp;#241;a y bonita recompensa a cambio!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Caza {@LinkCreature:24#9#kumas foudre du d&amp;#233;sert} en la {@Rgn:24001#Route d'Aurum} y tr&amp;#225;eme todo lo que encuentres que sea &amp;#250;til.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">&amp;#191;Solo quer&amp;#237;a decirte que eres una fuente de inspiraci&amp;#243;n? &amp;#161;De verdad!&lt;BR&gt;&lt;BR&gt;Espero que {@LinkCreature:63#3003#Elthienne} te aprecie tanto como yo. Deber&amp;#237;as ir a visitarla para comprobarlo.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Mata {@LinkCreature:24#12#vulcains cupides} en la {@Rgn:24001#Route d'Aurum} y tr&amp;#225;eme todo lo que encuentres que se pueda reutilizar... sabiendo que todo se puede reutilizar.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">&amp;#161;Oh, {@LinkCreature:63#3003#Elthienne}! &amp;#161;Mira qui&amp;#233;n ha vuelto!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Mata {@LinkCreature:24#62#vulcans ardents} en la {@Rgn:24001#Route d'Aurum} y qu&amp;#233;date con todos los objetos &amp;#250;tiles que encuentres en sus cad&amp;#225;veres.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Taratia parece de buen humor. Lo que encontraste en los cad&amp;#225;veres de las criaturas hostiles de la Route d'Aurum debi&amp;#243; de valer la pena. Tus haza&amp;#241;as nunca dejan de impresionarme.</Page>
+    </Text>
+</QuestDialog>

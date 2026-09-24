@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="4">Los mekonaris han erigido dispositivos m&amp;#225;gicos que se parecen a l&amp;#225;pidas.&lt;BR&gt;&lt;BR&gt;De vez en cuando, un argon o un mekonari viene a cubrirlas de sangre; seguramente debe ser parte de su ritual. &amp;#191;No es raz&amp;#243;n suficiente para destruirlas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1022">
+        <Page social="4">&amp;#191;Puedo ver los fragmentos?&lt;BR&gt;&lt;BR&gt;&amp;#161;Grandes dioses, qu&amp;#233; horror! &amp;#161;As&amp;#237; que fueron dise&amp;#241;ados para romper el v&amp;#237;nculo entre las almas y el Sue&amp;#241;o! Jam&amp;#225;s cre&amp;#237; que fuera posible. &amp;#191;Los mekonaris no se dan cuenta de lo que hacen?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1022">
+        <Page social="0">Destruye esas tumbas de sangre, &lt;PCNAME&gt;; eso solo puede arruinar su ritual.</Page>
+    </Text>
+</QuestDialog>

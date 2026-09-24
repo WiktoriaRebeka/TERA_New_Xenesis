@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tras las advertencias de Isrenia sobre las intenciones de Thulsa y Killian hacia Sikander, cruzaste Fey Forest, impediste que los mekonaris cometieran m&amp;#225;s secuestros y destruiste el altar donde sacrificaron a cientos de prisioneros. All&amp;#237;, las pistas te llevaron a Amena Quatla, tierra de los sikandaris y del gran huevo donde duerme Sikander.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[Voz de Isrenia]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; ...&lt;BR&gt;&lt;BR&gt;Se est&amp;#225; celebrando un ritual mal&amp;#233;fico en los siguientes lugares: en el Altar of Despair de Fey Forest y en el Sanctum of Resurrection en Amena Quatla... Debes interrumpir el ritual en ambos lugares.&lt;BR&gt;&lt;BR&gt;El ritual que se lleva a cabo frente al pilar de sangre del Altar of Despair requiere una multitud de v&amp;#237;ctimas...&lt;BR&gt;&lt;BR&gt;Un pueblo llamado Dragonfall se encuentra no muy lejos de ah&amp;#237;.&lt;PCNAME&gt;, ve tambi&amp;#233;n en busca del captor...</Page>
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Los secuestros nos est&amp;#225;n causando muchos problemas.&lt;BR&gt;&lt;BR&gt;Los cazadores y tejedores de &amp;#233;bano mekonaris capturan Humanos al azar en Fey Forest antes de llevarlos a Umbra.&lt;BR&gt;&lt;BR&gt;Busca a Arshak, un l&amp;#237;der del grupo de incursi&amp;#243;n de Camp Umbra, en Fey Forest. &amp;#201;l est&amp;#225; a cargo de Camp Umbra.&lt;BR&gt;&lt;BR&gt;Mis amigos est&amp;#225;n organizando una misi&amp;#243;n de rescate all&amp;#237; mismo.&lt;BR&gt;&amp;#161;Ve a ayudarles!&lt;BR&gt;&lt;BR&gt;Elimina a los cazadores y tejedores de &amp;#233;bano mekonaris y pon fin a los secuestros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">&amp;#191;Acaso es un ojo de mekonari? &amp;#161;Ja, ja, ja, ja! &amp;#161;Supongo que les diste una buena lecci&amp;#243;n a esos cuervos negros! &amp;#161;Bien, muy bien! &amp;#161;Siempre es bueno contar con un aliado confiable para nuestra misi&amp;#243;n de b&amp;#250;squeda!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" villagerId="1010">
+        <Page social="0">&amp;#161;Los cazadores y tejedores de &amp;#233;bano cruzan Sylvanoth antes de ir a secuestrar a m&amp;#225;s v&amp;#237;ctimas! &amp;#161;No los dejes pasar!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="256" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233;? &amp;#191;Es por eso que secuestraron a los Humanos?&lt;BR&gt;&lt;BR&gt;Uno de los sobrevivientes cont&amp;#243; que se los llevaron a un altar con pilares extra&amp;#241;os. Cuando los mekonaris empezaron a entonar hechizos, los pilares comenzaron a brillar y los Humanos perdieron el conocimiento uno tras otro.&lt;BR&gt;&lt;BR&gt;Debe tratarse de un ritual.&lt;NEXTPAGEBUTTON&gt;"Eso parece."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Debemos encontrar su origen o los secuestros nunca se detendr&amp;#225;n! &lt;BR&gt;&amp;#161;Destruyamos el pilar de sangre!&lt;BR&gt;&lt;BR&gt;Pero, &amp;#191;d&amp;#243;nde est&amp;#225;? &lt;BR&gt;La entrada al Altar of Despair debe estar cerca de los templarios mekonaris y los devotos mekonaris... &lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n es all&amp;#237; donde rescatamos a los nuestros. &amp;#161;Comencemos por eliminarlos y luego busquemos informaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="256" prevId="6" villagerId="1025">
+        <Page social="1" voiceTypeId="0">(Encuentras un mont&amp;#243;n de huesos.&lt;BR&gt;Deben ser los restos de los Humanos secuestrados para servir de ofrenda al pilar de sangre. Debemos poner fin a estos rituales de inmediato.)&lt;BR&gt;&lt;BR&gt;(Una luz comienza a brillar en medio del mont&amp;#243;n de huesos.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="256" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">(Escuchas una voz.)&lt;BR&gt;&lt;BR&gt;Deben... vengarnos...&lt;BR&gt;Destruyan... el pilar de sangre... El Altar of Despair... se encuentra... aqu&amp;#237;...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="256" prevId="8" villagerId="1026">
+        <Page social="1" voiceTypeId="0">(La voz se acerca.)&lt;BR&gt;&lt;BR&gt;Pasado un cierto tiempo... ni la espada... ni la magia... pueden destruir... el pilar de sangre... &lt;BR&gt;&lt;BR&gt;(La voz se desvanece.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="256" prevId="9" villagerId="1010">
+        <Page social="1" voiceTypeId="0">&amp;#161;Parece que lo lograste!&lt;BR&gt;&lt;BR&gt;Bien. &amp;#191;Tambi&amp;#233;n pusiste fin a los rituales?&lt;NEXTPAGEBUTTON&gt;"Aún hay un ritual en curso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;A&amp;#250;n hay un ritual en curso en Amena Quatla? &amp;#161;Debes interrumpirlo tambi&amp;#233;n!&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n mi informaci&amp;#243;n, un gigantesco templo de los sikandaris se alza en Amena Quatla. Es ah&amp;#237; donde se supone que se instal&amp;#243; el dios Sikander.&lt;BR&gt;&lt;BR&gt;El campamento del puente roto est&amp;#225; muy cerca de ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los centuriones deben saber algo!</Page>
+    </Text>
+</QuestDialog>

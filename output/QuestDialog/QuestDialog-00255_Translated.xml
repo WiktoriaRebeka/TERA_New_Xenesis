@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0">Es sencillo, &lt;PCCLASS:lcase&gt;. Las cabezas de los {@LinkCreature:9#430#taille-tripes gulas} tienen precio.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; motivos? Cr&amp;#237;menes contra la Federaci&amp;#243;n, homicidios, canibalismo... cargos a los que a&amp;#241;ado a t&amp;#237;tulo personal su obesidad repugnante y su fealdad inicua.&lt;BR&gt;&lt;BR&gt;Y acu&amp;#233;rdate de traerme sus cuchillos como prueba del trabajo hecho, &amp;#191;entendido?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Tienes cuchillos, yo tengo dinero. No vale la pena debatir durante horas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Mira a la criatura y preg&amp;#250;ntate si se podr&amp;#237;a ser m&amp;#225;s adiposo y repugnante.&lt;BR&gt;&lt;BR&gt;Si la respuesta es no, entonces no hay duda, es todo un {@LinkCreature:9#430#taille-tripes gulas}.&lt;BR&gt;&lt;BR&gt;A menos que se trate de tu madre.</Page>
+    </Text>
+</QuestDialog>

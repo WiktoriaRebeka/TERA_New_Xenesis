@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="4">No hay noticias de refuerzos provenientes de {@Rgn:32008$$Fortin des Irr&amp;#233;ductibles}.&lt;BR&gt;&lt;BR&gt; Entiendo que la situaci&amp;#243;n es dif&amp;#237;cil, pero por favor, ve all&amp;#225; y dile a Hallaj que realmente necesitamos esas tropas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">&amp;#191;As&amp;#237; que a Qale le falta personal, eh? Pues a nosotros tambi&amp;#233;n. Adem&amp;#225;s, yo no me encargo de la gesti&amp;#243;n de las tropas, eso es cosa de Nashwa. Si tienes alguna pregunta, ve a verla.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">S&amp;#237;, he escuchado a Hallaj desde aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Desafortunadamente dice la verdad. No podemos enviar ning&amp;#250;n refuerzo a Qale. Siento haberte hecho hacer todo este camino para nada. Desear&amp;#237;a que fuera de otra manera.</Page>
+    </Text>
+</QuestDialog>

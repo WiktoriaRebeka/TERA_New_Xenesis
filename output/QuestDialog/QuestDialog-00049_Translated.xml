@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="64" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="4">Siguiendo este camino hacia el oeste, encontrar&amp;#225;s el campamento de Aron.&lt;BR&gt;&lt;BR&gt;Si de verdad te interesa la suerte de Fey Forest, &lt;PCCLASS:lcase&gt;, es all&amp;#237; a donde debes ir. Una vez all&amp;#237;, ayuda a Nemir a determinar el origen del viento de locura que arrasa el bosque y sume a su pueblo en esta locura asesina.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1044">
+        <Page social="4">Toda esta violencia no es... la naturaleza de las hadas... por decirlo de alg&amp;#250;n modo. Un poder maligno est&amp;#225; actuando.&lt;NEXTPAGEBUTTON&gt;"¿Una especie de viento de locura?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Exactamente! Pero el &amp;#250;nico problema con ese viento...&lt;BR&gt;&lt;BR&gt;... es que no tengo la menor idea de d&amp;#243;nde viene.</Page>
+    </Text>
+</QuestDialog>

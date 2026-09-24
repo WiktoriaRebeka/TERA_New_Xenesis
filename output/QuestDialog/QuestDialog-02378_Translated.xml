@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3027" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Carta]&lt;BR&gt;&lt;BR&gt;Incluso en medio de la nada, los relatos de tus proezas llegan hasta m&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;Te escribo esta carta para rogarte que investigues a un lobo misterioso que siembra el terror entre los dragones.&lt;BR&gt;&lt;BR&gt;Es demasiado silencioso y r&amp;#225;pido para que pueda perseguirlo yo mismo. Por favor, encuentra a este lobo.&lt;BR&gt;&lt;BR&gt;Berdash de Atalaya del drac&amp;#243;n</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A petici&amp;#243;n de Berdash, entraste en Guarida del trueno. All&amp;#237; te reencontraste con Halrath y descubriste Arena de la furia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="1" villagerId="3000">
+        <Page social="4" voiceTypeId="0">Gracias por venir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hace unos d&amp;#237;as estaba ocupado observando a los Alkus. Y de repente surgi&amp;#243; un lobo.&lt;BR&gt;En cuanto vieron al lobo, los Alkus se retiran de inmediato.&lt;NEXTPAGEBUTTON&gt;"¿Habrá sido una coincidencia?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eso es lo que habr&amp;#237;a pensado si un solo Alkus se hubiera comportado as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pero vi bien que todos los Alkus actuaron de la misma manera ante la presencia del lobo.&lt;BR&gt;&lt;BR&gt;Este lobo parec&amp;#237;a venir de otro mundo.&lt;BR&gt;&lt;BR&gt;Por favor, ve a averiguar qu&amp;#233; est&amp;#225; pasando.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="2000">
+        <Page social="4" voiceTypeId="0">Cu&amp;#225;nto tiempo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ha pasado un buen rato desde que encerraren a Bahaar.&lt;NEXTPAGEBUTTON&gt;"¿Qué haces aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Siempre con esa insaciable curiosidad, eh, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Estoy aqu&amp;#237; porque percib&amp;#237; una poderosa energ&amp;#237;a demon&amp;#237;aca.&lt;BR&gt;Me recuerda bastante a la de Killian, as&amp;#237; que no tuve m&amp;#225;s remedio que acudir de inmediato.&lt;BR&gt;&lt;BR&gt;Sin duda, esto se debe a la explosi&amp;#243;n de la fuente de poder de Exodor, que despert&amp;#243; a las criaturas de Arborea que llevaban mucho tiempo ocultas en las sombras.&lt;NEXTPAGEBUTTON&gt;"¿De dónde proviene esta energía demoníaca?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lok cre&amp;#243; un c&amp;#237;rculo de destierro que me impide acercarme a la fuente.&lt;BR&gt;&lt;BR&gt;No es casualidad que te hayan enviado aqu&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;Te ayudar&amp;#233; a cruzar el c&amp;#237;rculo de destierro.&lt;BR&gt;&lt;BR&gt;Luego conv&amp;#243;came all&amp;#237; para permitirme acceder a la fuente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Muchas gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Los dioses no pueden cruzar el c&amp;#237;rculo de destierro de Lok.&lt;BR&gt;Me encantar&amp;#237;a ir yo mismo hacia la fuente de energ&amp;#237;a demon&amp;#237;aca, pero me es imposible.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&lt;PCNAME&gt;, debes descubrir de d&amp;#243;nde proviene la energ&amp;#237;a demon&amp;#237;aca.&lt;BR&gt;&lt;BR&gt;Lok sell&amp;#243; este portal dimensional m&amp;#225;gico para mantener alejados a los dioses como yo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as cruzarlo y averiguar en qu&amp;#233; consiste la fuente de esta energ&amp;#237;a?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Un combatiente inmortal...&lt;BR&gt;&lt;BR&gt;Al parecer, Killian se divirti&amp;#243; aqu&amp;#237; presenciando sangrientos combates.&lt;BR&gt;Es probable que Lok haya sellado este lugar para detener al Combatiente inmortal creado por la maldici&amp;#243;n de Killian.&lt;BR&gt;&lt;BR&gt;Pero ahora la explosi&amp;#243;n de Exodor ha hecho que este lugar resurja de las sombras.&lt;NEXTPAGEBUTTON&gt;"¿Y ahora qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si Lok estuviera aqu&amp;#237;, podr&amp;#237;a sellar por completo este lugar...&lt;BR&gt;&lt;BR&gt;Pero por ahora, debemos asegurarnos de que nadie se entere.&lt;BR&gt;&lt;BR&gt;Regresa a ver a Berdash e ind&amp;#237;cale que no encontraste nada.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="238" prevId="6" villagerId="3000">
+        <Page social="4" voiceTypeId="0">Si se te escap&amp;#243;... significa que es m&amp;#225;s poderoso de lo que pensaba.&lt;BR&gt;&lt;BR&gt;Av&amp;#237;same si deseas saber m&amp;#225;s sobre el lobo.</Page>
+    </Text>
+</QuestDialog>

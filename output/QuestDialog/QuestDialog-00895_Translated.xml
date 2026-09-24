@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">Nuestra petici&amp;#243;n de refuerzos a Allemantheia qued&amp;#243; sin respuesta, pero no podemos dejar que los wendigos re&amp;#250;nan sus tropas y nos ataquen en masa.&lt;BR&gt;&lt;BR&gt;Elimina algunos {@LinkCreature:34#600#&amp;#233;craseurs}, {@LinkCreature:34#700#ma&amp;#238;tres de combat}, {@LinkCreature:34#500#tisse-givres} wendigos o {@LinkCreature:34#800#arachn&amp;#233;ens marche-glaces} para mantener a los wendigos a raya... cueste lo que cueste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1001">
+        <Page social="4">Tenemos un respiro gracias a ti.&lt;BR&gt;&lt;BR&gt;Tienes toda mi gratitud.</Page>
+    </Text>
+</QuestDialog>

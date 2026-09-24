@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">He sido testigo de tus esfuerzos por ayudar a {@LinkCreature:76#1036} a cumplir su hushang. Es un alivio ver que a algunos soldados todav&amp;#237;a les queda un poco de la m&amp;#225;s elemental bondad.&lt;BR&gt;&lt;BR&gt;Nuestro amigo todav&amp;#237;a necesita ayuda y s&amp;#233; d&amp;#243;nde encontrarla. Ve a entregarle esta carta a {@LinkCreature:248#1015}. &amp;#201;l se encargar&amp;#225; del resto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1015">
+        <Page social="6">Interesante... Un hushang no es algo com&amp;#250;n en esta regi&amp;#243;n. &amp;#191;Y t&amp;#250; eres {@gender:pr&amp;#234;t/pr&amp;#234;te} dispuesto a echar una mano?&lt;NEXTPAGEBUTTON&gt;"Por supuesto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Este muchacho va a necesitar metal, y del bueno. Mineral no falta por aqu&amp;#237;, pero hay que estar dispuesto a jugarse la vida para ir a buscarlo.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme mineral de fyrdras y comprobar&amp;#233; si es de buena calidad. Si es as&amp;#237;, servir&amp;#225; para el hushang.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1033">
+        <Page social="4">&amp;#191;Mineral de fyrdras? De hecho, es un metal precioso. Es una leyenda lo que va a forjar nuestro amigo, no una simple arma ornamental.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale esto a {@LinkCreature:76#1036}. Va a poner una cara muy extra&amp;#241;a.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1033">
+        <Page social="0">&amp;#191;Lo lograste?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1036">
+        <Page social="4">&amp;#191;M... Mineral de fyrdras? &amp;#161;Kaia sea loada! &amp;#161;Es incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a ti, mi hushang ser&amp;#225; m&amp;#225;s que un &amp;#233;xito; ser&amp;#225; un verdadero triunfo!</Page>
+    </Text>
+</QuestDialog>

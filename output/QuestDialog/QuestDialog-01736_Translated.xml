@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">Ayuda a Canen a preparar a los reclutas que van a embarcar en Elkaia. Parecen inquietos ante la idea de una expedici&amp;#243;n tan larga.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">Esta no es la primera misi&amp;#243;n hacia el norte, ya sabes. Enviamos a otro grupo hace poco.&lt;BR&gt;&lt;BR&gt;Todo el mundo se muestra reacio a hablar de ello, pero tememos lo peor. Cu&amp;#237;date, &lt;PCNAME&gt;. La federaci&amp;#243;n no puede permitirse perderte a ti tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Ve a ver a Caenia para asegurarte de que todo el personal est&amp;#233; listo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">&amp;#191;&lt;PCNAME&gt;? Te saludo. He le&amp;#237;do mucho sobre tus haza&amp;#241;as. Es un placer trabajar con un soldado de tu talla.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, algunos otros son tan impresionantes como un cesto de manzanas. &amp;#191;No te importar&amp;#237;a reunirlos? Pienso que tu presencia podr&amp;#237;a inspirarlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">Calambres... en el est&amp;#243;mago. Dios del cielo, &amp;#191;pero qu&amp;#233; hemos comido? Es imposible... volver a... este estado...&lt;BR&gt;&lt;BR&gt;Ve a ver a... Tilda. Tr&amp;#225;enos un remedio.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">&amp;#161;Esos imb&amp;#233;ciles! Y pensar que les dije bien claro que no bebieran mis elixires. Son demasiado concentrados. &amp;#161;Y ahora miren, est&amp;#225;n envenenados!&lt;NEXTPAGEBUTTON&gt;"¿Y cuál es el antídoto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bueno, todo mi inventario est&amp;#225; a bordo del crucero estelar. No tengo ning&amp;#250;n t&amp;#243;nico.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;amos macerar algunas hierbas... previamente masticadas.&lt;BR&gt;&lt;BR&gt;Lo s&amp;#233;, es asqueroso, pero nos permitir&amp;#225; salvar vidas.&lt;BR&gt;&lt;BR&gt;Supongo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">&amp;#161;Puaj! &amp;#161;Qu&amp;#233; porquer&amp;#237;a de preparaci&amp;#243;n asquerosa! &amp;#161;Es peor que sangre de vampiro!&lt;BR&gt;&lt;BR&gt;Y ahora qu&amp;#233; pasa con Actol. A &amp;#233;l tambi&amp;#233;n hay que herirlo... digo, ayudarlo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">&amp;#191;Qu&amp;#233; dijo el boticario?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">Sab&amp;#237;a que Eduyar hab&amp;#237;a tomado el elixir incorrecto. Siento como si un Dracoloth estuviera destrozando mis entra&amp;#241;as.&lt;BR&gt;&lt;BR&gt;&amp;#161;Puaj! &amp;#161;Qu&amp;#233; es esto! &amp;#191;Intentan precipitar mi fin?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">&amp;#191;Envenenados? &amp;#191;Y los salvaste aliment&amp;#225;ndolos... Jajaja!&lt;BR&gt;&lt;BR&gt;Eso les ense&amp;#241;ar&amp;#225; a robar en nuestros inventarios. Hiciste bien.</Page>
+    </Text>
+</QuestDialog>

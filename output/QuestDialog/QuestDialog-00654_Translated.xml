@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">Desafortunadamente, todo el reino no est&amp;#225; unido. Los Poporis, como los {@LinkCreature:23#20#sorci&amp;#232;res elins} por ejemplo, usan su poder para s&amp;#237; mismos, no para la naturaleza.&lt;BR&gt;&lt;BR&gt;Recientemente, algunos han atacado nuestros aldeas. Ser&amp;#225;s el brazo armado de nuestra justicia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">Gracias a ti, estos villanos han quedado muy debilitados. Esto nos ser&amp;#225; de gran ayuda. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="5">Las brujas vadomas son las mejores instructoras del mundo en todo lo relacionado con la magia, pero han perdido la cabeza.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#31#Serena}, nuestra gobernanta, se ha vuelto brutal y ataca a todo el mundo.&lt;BR&gt;&lt;BR&gt;No tengo suficiente poder para enfrentarla, as&amp;#237; que cuento contigo para detenerla.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="5">La p&amp;#233;rdida de Serena nos afecta a todas, pero al menos no nos destruir&amp;#225;.&lt;BR&gt;&lt;BR&gt;Y si recuperamos el control de la academia, tal vez podamos resucitarla.&lt;BR&gt;&lt;BR&gt;De lo contrario, tendr&amp;#233; un gran ascenso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">Ella conoce todos mis trucos, &lt;PCNAME&gt;. Al fin y al cabo, fue ella quien me los ense&amp;#241;&amp;#243;.&lt;BR&gt;&lt;BR&gt;Solo t&amp;#250; est&amp;#225;s a la altura para enfrentarte a {@LinkCreature:22#31#Serena}.</Page>
+    </Text>
+</QuestDialog>

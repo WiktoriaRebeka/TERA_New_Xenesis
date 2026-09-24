@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="4">&amp;#191;Por qu&amp;#233; me enviaron aqu&amp;#237;? &amp;#161;No soy un soldado! &quot;Mantengan el puesto de observaci&amp;#243;n&quot;, dec&amp;#237;an. &quot;Maten a los {@LinkCreature:40#4#porcid&amp;#233;s cuirass&amp;#233;s} y a los {@LinkCreature:40#3#porcid&amp;#233;s cuirass&amp;#233;s enrag&amp;#233;s}&quot;, dec&amp;#237;an. &amp;#161;El que va a terminar muerto soy yo!&lt;BR&gt;&lt;BR&gt;A menos que pueda pagarte para que los mates en mi lugar, por supuesto.&lt;BR&gt;&lt;BR&gt;Mi amigo {@LinkCreature:240#1026$$Grada} tiene una deuda de juego conmigo. Mata a los cerdos y esa suma ser&amp;#225; tuya.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">&amp;#191;Te env&amp;#237;a Wooron? &amp;#161;El viejo bandido! Hace trampas a los dados, ya sabes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1026">
+        <Page social="0">No voy a darte el dinero de Wooron sin que hayas matado a unos cuantos {@LinkCreature:40#4#procid&amp;#233;s cuirass&amp;#233;s} y {@LinkCreature:40#3#porcid&amp;#233;s cuirass&amp;#233;s enrag&amp;#233;s}.</Page>
+    </Text>
+</QuestDialog>

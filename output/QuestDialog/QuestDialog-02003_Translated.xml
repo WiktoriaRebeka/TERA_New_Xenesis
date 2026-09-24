@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;la hermandad de los Archers necesita tu ayuda. Si deseas responder a su llamada, ven a verme a Velika.&lt;BR&gt;&lt;BR&gt;Hamile&lt;NEXTPAGEBUTTON&gt;Respondes a la llamada.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">&amp;#161;Cu&amp;#225;nto tiempo! &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo est&amp;#225;s? Me he aburrido bastante, ya que ustedes, los aprendices de Archers, siempre hacen todo bien sin que yo tenga que intervenir.&lt;NEXTPAGEBUTTON&gt;"Estoy bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Me alegra o&amp;#237;rlo.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; directo al grano. Sin duda habr&amp;#225;s o&amp;#237;do decir que, tras un esfuerzo prodigioso, la Confr&amp;#233;rie des Archers ha conseguido desarrollar una nueva tecnolog&amp;#237;a, &amp;#191;no es as&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"¿De qué se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No prestas suficiente atenci&amp;#243;n a los rumores...&lt;BR&gt;&lt;BR&gt;Pero seguro que has o&amp;#237;do que unos cuantos perezosos que se pasan la vida con las narices metidas en los libros han desarrollado una nueva tecnolog&amp;#237;a por pura casualidad.&lt;BR&gt;&lt;BR&gt;Por desgracia, se nos han adelantado. Sin embargo, &amp;#161;nosotros tambi&amp;#233;n hemos conseguido desarrollar una tecnolog&amp;#237;a moderna e innovadora! Sea como fuere, fuimos m&amp;#225;s r&amp;#225;pidos que esos idiotas de los espadachines.&lt;NEXTPAGEBUTTON&gt;"¿Y cuál ha sido el resultado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Por eso me he puesto en contacto contigo, para que pruebes nuestra nueva tecnolog&amp;#237;a, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es cierto que a&amp;#250;n eres un novato, pero esta t&amp;#233;cnica deber&amp;#237;a permitirte poner a prueba tus facultades.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres hacerte cargo de esta misi&amp;#243;n? Est&amp;#225; dividida en un total de seis tareas. Te ofrecer&amp;#233; una gran recompensa.&lt;NEXTPAGEBUTTON&gt;"Sí, acepto hacerme cargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Excelente. Te explicar&amp;#233; en qu&amp;#233; consiste tu misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Es bastante sencillo. Debes cruzar dos veces una mazmorra acorde a tus facultades. Es factible, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"Sí, de sobra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Tener confianza en uno mismo es bueno, pero debes tener presente que esta misi&amp;#243;n pondr&amp;#225; tus modestas habilidades a prueba.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que no deber&amp;#237;as tomarte todo esto a la ligera.&lt;NEXTPAGEBUTTON&gt;"Haré lo mejor posible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Bien hecho. Pero no se te suban los humos a la cabeza. Si se cree a la Confr&amp;#233;rie des Archers, tus habilidades corresponden al nivel de principiante. As&amp;#237; que parece justificado atribuir por completo tu &amp;#233;xito a la excepcional tecnolog&amp;#237;a de la Confr&amp;#233;rie des Archers.&lt;BR&gt;&lt;BR&gt;Vuelve a verme cuando tengas el nivel suficiente para realizar la siguiente tarea. Una recompensa a&amp;#250;n m&amp;#225;s tentadora te espera.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

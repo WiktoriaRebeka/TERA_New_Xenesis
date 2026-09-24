@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">El pescado gana popularidad en todo Arborea.&lt;BR&gt;Y existen combinaciones para vender las especies m&amp;#225;s preciadas por separado.&lt;BR&gt;Mi colega del Site de p&amp;#234;che du Lac des larmes podr&amp;#225; contarte m&amp;#225;s.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fabricaste un paquete de entrega en el Site de p&amp;#234;che du Lac des larmes y aprendiste a distribuirlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para unirte al Lac des larmes?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Dale mis saludos al responsable del Lac des larmes de ma part.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">&amp;#161;Hola, guardi&amp;#225;n! &amp;#191;Te gustar&amp;#237;a ganar oro pescando, guardi&amp;#225;n?&lt;BR&gt;Incluso si no es as&amp;#237;, le har&amp;#237;as un gran favor a los ciudadanos de Arborea abasteci&amp;#233;ndolos con pescado.&lt;BR&gt;Si ampliamos la zona donde entregamos nuestro pescado, la federaci&amp;#243;n recuperar&amp;#225; la confianza de Jeremy.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Si fabricas un paquete de entrega de pescado, puedes venderlo a un precio mayor.&lt;BR&gt;Puedes comprar el plano requerido en la tienda de la federaci&amp;#243;n.&lt;BR&gt;&amp;#191;Qu&amp;#233; tal si lo intentas?&lt;BR&gt;&lt;BR&gt;Un paquete as&amp;#237; evita que el filete de pescado se eche a perder demasiado r&amp;#225;pido. As&amp;#237; se mantiene fresco por m&amp;#225;s tiempo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="9904">
+        <Page social="2" voiceTypeId="0">&amp;#161;Bien hecho! &amp;#191;Est&amp;#225;s listo para hacerte cargo de la entrega?&lt;BR&gt;Solo tienes que entregar el paquete a uno de los proveedores del sitio de pesca o en una de las grandes ciudades.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ir a ver a {@linkcreature:223#9905#Glenn} ahora?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" villagerId="9904">
+        <Page social="0">Puedes comprar el plano requerido en la tienda de la federaci&amp;#243;n.&lt;BR&gt;&amp;#191;Quieres intentarlo para ver qu&amp;#233; tal?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" prevId="6" villagerId="9905">
+        <Page social="1" voiceTypeId="0">&amp;#161;Bienvenido! Siempre compramos el pescado y los paquetes de entrega de pescado a un buen precio. &amp;#191;Tienes algo para vendernos? &lt;BR&gt;Como es tu primera vez, pondr&amp;#233; un &lt;font color='#FF0000'&gt;proveedor especial&lt;/font&gt; a tu disposici&amp;#243;n. Entr&amp;#233;gale tu paquete de entrega de pescado.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" prevId="8" villagerId="9925">
+        <Page social="1" voiceTypeId="0">Gracias. Regresa tan seguido como te sea posible. &lt;BR&gt;&lt;BR&gt;Como las cantidades de entrega son fijas para cada d&amp;#237;a, ganas m&amp;#225;s dinero entregando primero las mercanc&amp;#237;as costosas. &lt;BR&gt;Y puedes obtener a&amp;#250;n m&amp;#225;s fabricando paquetes de entrega de pescado antes de distribuirlos.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="9" villagerId="9904">
+        <Page social="1" voiceTypeId="0">&amp;#191;Hablaste con los encargados de entregas? Cuanto m&amp;#225;s alto sea el rango del paquete de entrega de pescado, m&amp;#225;s dinero te embolsar&amp;#225;s. &lt;BR&gt;Puedes comprar el plano requerido en la tienda de la federaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

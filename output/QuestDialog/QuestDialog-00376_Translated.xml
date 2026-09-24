@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Lian le pidi&amp;#243; a Jehan que redactara un informe sobre la corrupci&amp;#243;n demon&amp;#237;aca para la Base de la Torre. Le llevaste el informe al tribuna Adria y al consejero Teil.&lt;BR&gt;&lt;BR&gt;Ambos tomaron conciencia de la gravedad de la situaci&amp;#243;n y empiezan a considerar las medidas que deben tomarse con respecto a los demonios.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">A Jehan le encanta redactar informes. Su trabajo me es tan &amp;#250;til como puede serlo para Adria. Ya termin&amp;#243; de redactar uno; as&amp;#237; que ve a entreg&amp;#225;rselo a Adria.&lt;BR&gt;&lt;BR&gt;Y que sepas que tienes toda la gratitud de Lian de Allemantheia, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Tengo mucho respeto por Lian, pero una cosa es segura: odia el papeleo. Salvo cuando es para una revista acad&amp;#233;mica. Publicar o perecer, ya te sabes la canci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;En fin, &amp;#191;de qu&amp;#233; informe se trata?&lt;NEXTPAGEBUTTON&gt;"El que concierne a la corrupción demoníaca."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah s&amp;#237;, ese... entendido.&lt;BR&gt;&lt;BR&gt;L&amp;#233;elo atentamente. Hay mucho trabajo por hacer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1001">
+        <Page social="4">No tengo ninguna raz&amp;#243;n para dudar de las conclusiones de Lian, sobre todo despu&amp;#233;s de lo que hemos tenido que soportar.&lt;BR&gt;&lt;BR&gt;Ve a entregarle este informe al &lt;font color='#660000'&gt;consejero Teil&lt;/font&gt; lo antes posible. Lo encontrar&amp;#225;s en la parte superior de las escaleras.&lt;BR&gt;&lt;BR&gt;Debe ser puesto al corriente de la situaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1009">
+        <Page social="4">&amp;#191;El Valle Maldito? No me sorprende. Siempre he tenido una santa repulsi&amp;#243;n por ese lugar. Has sido de una ayuda inestimable, &lt;PCNAME&gt;. Es un buen trabajo.&lt;BR&gt;&lt;BR&gt;Vuelve a ver a Adria y agrad&amp;#233;cele de mi parte. Te entregar&amp;#225; tus pr&amp;#243;ximas &amp;#243;rdenes de misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

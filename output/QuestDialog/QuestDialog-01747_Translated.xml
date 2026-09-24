@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="0">Mientras hablabas de estrategia con Rhodos, una esp&amp;#237;a escuch&amp;#243; todo. La perseguiste y fallaste en un lugar bastante inesperado.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="4">Sin duda fueron los Archidevans quienes enviaron a los Parth. Tampoco pueden usar tu nave, pero parecen saber de su existencia.&lt;NEXTPAGEBUTTON&gt;"¿Cuál es nuestra próxima opción?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">En Spring Valley hay goblins dispuestos a hacer cualquier cosa por un poco de dinero.&lt;BR&gt;&lt;BR&gt;Si los Archidevans est&amp;#225;n reuniendo guerreros all&amp;#237;, los goblins lo sabr&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Intenta averiguar si el lugar es seguro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="2010">
+        <Page social="4">&amp;#161;Oh! Bueno... mi montura est&amp;#225;, eh... herida.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1506">
+        <Page social="4">&amp;#161;Lo dejaste escapar!&lt;BR&gt;&lt;BR&gt;Mihog nos estaba espiando. &amp;#161;R&amp;#225;pido! &amp;#161;Est&amp;#225; herido, as&amp;#237; que deber&amp;#237;as poder alcanzarlo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1016">
+        <Page social="4">(La montura de Mihog yace muerta en el suelo. La sangre se est&amp;#225; secando en el suelo y hay ropa desgarrada por los alrededores.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2016">
+        <Page social="4">Vi a un fugitivo herido.&lt;BR&gt;&lt;BR&gt;No es un amigo. Ve hacia el oeste.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2001">
+        <Page social="4">&amp;#191;Una persona sospechosa?&lt;BR&gt;&lt;BR&gt;Bueno, no he visto a nadie m&amp;#225;s que a ese que se arrastr&amp;#243; hacia la cueva. &amp;#191;Se puede considerar eso sospechoso?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2029">
+        <Page social="4">(Gotas de sangre manchan la madera de este barril.)</Page>
+    </Text>
+</QuestDialog>

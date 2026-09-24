@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">&amp;#191;Quiere una pluma dorada? Lo siento, pero me promet&amp;#237; una cosa: no volver a hacerlos.&lt;BR&gt;&lt;BR&gt;Es por las suaves plumas de struthio, Shariar las declar&amp;#243; ilegales. Y desatar su ira no vale la pena.&lt;NEXTPAGEBUTTON&gt;"Pero ya tengo esta pluma...";&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">&amp;#191;Tienes una? Shariar solo impuso una ley en contra de &quot;la caza&quot;, as&amp;#237; que podr&amp;#237;a hacerte otra.&lt;NEXTPAGEBUTTON&gt;"{@gender:Content/Contenta de saberlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Lo siento, pero los valientes combatientes de Shariar han declarado ilegal la caza de struthios. Te aconsejo que vendas tus minerales de xermetal y tus fibras de luria, y que olvides todo este asunto.</Page>
+    </Text>
+</QuestDialog>

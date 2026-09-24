@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="1">Me dijeron que las &quot;recuperaciones&quot; son tu especialidad, &lt;PCNAME&gt;. Bueno, eso y el caos.&lt;BR&gt;&lt;BR&gt;Nos bastar&amp;#225; sin el caos, pero podr&amp;#237;as recuperar algo para m&amp;#237;: piel para nuestras tener&amp;#237;as de Allemantheia.&lt;BR&gt;&lt;BR&gt;Todo el mundo caza roedores y otros animales peque&amp;#241;os, pero te propongo pasar a la categor&amp;#237;a superior. &amp;#161;Vamos a matar osos errantes!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1027">
+        <Page social="1">Buenas pieles, camarada. C&amp;#243;selas para hacer ropa de alta calidad, ll&amp;#233;valas a Allemantheia y espera a que los clientes vengan con carretillas llenas de dinero.&lt;BR&gt;&lt;BR&gt;Y si est&amp;#225;s {@gender:pr&amp;#234;t/pr&amp;#234;te} dispuesto a quedarte aqu&amp;#237; un rato, podremos ganar a&amp;#250;n m&amp;#225;s dinero.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1027">
+        <Page social="0">Abro mi monedero a cualquiera que me traiga pieles de {@LinkCreature:30#200#ours r&amp;#244;de-plaines}. Sabes c&amp;#243;mo es un oso, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

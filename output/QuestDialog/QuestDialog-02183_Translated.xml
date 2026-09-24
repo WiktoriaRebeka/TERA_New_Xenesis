@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">A&amp;#250;n estamos desempacando y todav&amp;#237;a no tenemos todos nuestros materiales de referencia.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a pedir prestado un libro taumat&amp;#250;rgico a la Academia de magia de Allemantheia? Lo entender&amp;#225;n, es... ayuda mutua entre colegas... ya sabes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1712">
+        <Page social="4">Es el libro que Fitae quiere recuperar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Exactamente lo que necesitaba. Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tu ayuda nos permitir&amp;#225; acelerar nuestra investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1702">
+        <Page social="0">El libro est&amp;#225; en la Academia de magia. Perd&amp;#243;n, no tiene im&amp;#225;genes, es un libro para adultos.</Page>
+    </Text>
+</QuestDialog>

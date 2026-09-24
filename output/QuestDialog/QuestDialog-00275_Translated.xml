@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="4">Voy a enviarte directamente a enfrentarte a nuestros adversarios m&amp;#225;s formidables: los {@LinkCreature:10#16#chevauche-griffus nagas} que bloquean el camino que lleva a la Isla Serpentis. Es la ruta que suelen tomar los refuerzos de la Cabeza de Puente.&lt;BR&gt;&lt;BR&gt;Por supuesto, nunca recibimos refuerzos, solo despistados como t&amp;#250;. Me pregunto si Port Coupe-gorge tiene los mismos problemas que nosotros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1006">
+        <Page social="4">Tienes muy buena mano, &lt;PCNAME&gt;. &amp;#161;Con un par de personas de tu altura como refuerzo, no tardaremos en tomar el control de esta provincia de una vez por todas!</Page>
+    </Text>
+</QuestDialog>

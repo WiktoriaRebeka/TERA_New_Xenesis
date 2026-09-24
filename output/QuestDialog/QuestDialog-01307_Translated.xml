@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Pasa algo raro. {@LinkCreature:50#1002} llega tarde, y eso jam&amp;#225;s le pasa.&lt;BR&gt;&lt;BR&gt;Me temo que ha hecho un descubrimiento interesante en las cavernas subterr&amp;#225;neas y ha perdido por completo la noci&amp;#243;n del tiempo... A menos que se haya ido a meter en las garras de los argons.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a buscarlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Me alegro de verte. &amp;#191;Qu&amp;#233; te trae por aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Conozco a alguien que está preocupado por ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No conozco a ning&amp;#250;n bot&amp;#225;nico digno de ese nombre que deje pasar la oportunidad de explorar las Cavernas de Viridia. La resistencia de la flora local es sencillamente asombrosa.&lt;BR&gt;&lt;BR&gt;Y adem&amp;#225;s... me he perdido un poco.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Las leyendas dicen que Yurian bendijo las Cavernas de Viridia y que este milagro se debe a la devoci&amp;#243;n absoluta de una famosa castanic. Eso podr&amp;#237;a explicar la resistencia de las plantas que crecen aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Esa castanic era una guerrera?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">No, no... Una gran rom&amp;#225;ntica.&lt;BR&gt;&lt;BR&gt;Se llamaba Imalia y le encantaban estas cavernas. Las cuidaba mucho. De hecho, la consideraban un poco como la protectora del lugar.&lt;BR&gt;&lt;BR&gt;Un d&amp;#237;a conoci&amp;#243; a Tiparius, un hombre que hab&amp;#237;a venido a refugiarse a las cavernas. Le bast&amp;#243; con cruzar su mirada para enamorarse perdidamente.&lt;NEXTPAGEBUTTON&gt;"¿No era solo soledad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eso es... y fue rec&amp;#237;proco. Durante un tiempo, formaron la pareja m&amp;#225;s feliz de Shara.&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó después?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tiparius necesitaba un cambio. Hab&amp;#237;a pasado suficiente tiempo en el norte de Shara para su gusto y extra&amp;#241;aba Castanica.&lt;BR&gt;&lt;BR&gt;Imalia estaba desgarrada entre su amor por &amp;#233;l... y el que sent&amp;#237;a por este lugar. Tiparius le suplic&amp;#243; que lo siguiera, pero al final ella decidi&amp;#243; quedarse aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Prefirió una cueva al amor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, no... Simplemente prim&amp;#243; el sentido del deber. Yurian bendijo este lugar para recompensarla por su devoci&amp;#243;n y asegurarle que su sacrificio no habr&amp;#237;a sido en vano.&lt;BR&gt;&lt;BR&gt;Bien, y ahora... &amp;#191;Intentamos encontrar a {@LinkCreature:250#1002}?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">A decir verdad, estoy completamente perdido. Debo encontrar a {@LinkCreature:250#1002}, pero es imposible recordar el camino que hay que tomar. Debe estar muerto de preocupaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme a encontrar la salida?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="50" villagerId="39">
+        <Page social="0">&amp;#191;Salimos?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="1022">
+        <Page social="6">Gracias por ayudar a un bot&amp;#225;nico un poco despistado a volver a casa.&lt;BR&gt;&lt;BR&gt;La pr&amp;#243;xima vez que me aventure en una red de galer&amp;#237;as, me acordar&amp;#233; de llevar tiza.</Page>
+    </Text>
+</QuestDialog>

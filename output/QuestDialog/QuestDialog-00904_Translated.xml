@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="4">Tenemos otros enemigos aqu&amp;#237; adem&amp;#225;s de los que caminan en dos patas. Los barsicores son feroces. &amp;#161;Pueden comerse a una familia entera en una sola comida!&lt;BR&gt;&lt;BR&gt;Antes de que las familias en cuesti&amp;#243;n desaparezcan por completo, &amp;#161;quiero que vayas a eliminar a algunos {@LinkCreature:34#1110#barsicores chasseurs-de-givre}! &amp;#161;Que su muerte sirva de lecci&amp;#243;n a los dem&amp;#225;s depredadores!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">&amp;#191;Sab&amp;#237;as que la carne de barsicore es asquerosa? Sabe a cordero podrido, y peor.&lt;BR&gt;&lt;BR&gt;En fin, solo te ped&amp;#237; que los mataras. Dejaremos que las bestias salvajes coman lo que puedan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">&amp;#161;Lo vas a lograr! Creo en ti.&lt;BR&gt;&lt;BR&gt;Los barsicores no son tan grandes. Son notablemente m&amp;#225;s peque&amp;#241;os que una docena de Barakas.</Page>
+    </Text>
+</QuestDialog>

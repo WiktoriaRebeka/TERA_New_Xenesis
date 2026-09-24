@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="0">Derrotaste al {@creature:425#8005$$gardien de la relique} en el {@Rgn:9025001$$Temple de Balder} y encontraste el espejo de Balder. {@creature:71#1114$$Rida}, de Pora &amp;#201;linu, se apoder&amp;#243; de &amp;#233;l provisionalmente.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="1" voiceTypeId="0">&amp;#161;No me mires as&amp;#237;!&lt;BR&gt;&lt;BR&gt;A m&amp;#237; tambi&amp;#233;n me parece extra&amp;#241;o estar aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;No ten&amp;#237;a planeado terminar aqu&amp;#237; tambi&amp;#233;n. Pero cuando recuper&amp;#233; el conocimiento, me encontraba en el Temple de Balder. Seren u otro dios parece estar detr&amp;#225;s de esto.&lt;BR&gt;&lt;BR&gt;Aprovech&amp;#233; la oportunidad para echar un vistazo al depositario de Langsyne. El {@linkcreature:425#8005$$gardien de la relique} vigila la reliquia de Balder. En lo m&amp;#225;s profundo del edificio, al parecer.&lt;BR&gt;&lt;BR&gt;Primero debes derrotar al {@linkcreature:425#8005$$gardien de la relique} para poder obtener el espejo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10008">
+        <Page social="1" voiceTypeId="0">Nuestros destinos profetizados nos han reunido aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;La &amp;#250;ltima esperanza de Balder...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ha llegado el momento.&lt;BR&gt;{@linkcreature:425#10005$$Rida}, la princesa de {@Rgn:68001$$Pora &amp;#201;linu}, te entregar&amp;#225; el sello de Seren del espejo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="425" prevId="3" villagerId="10005">
+        <Page social="1" voiceTypeId="0">Parece que Mystel me envi&amp;#243; al templo. Bah, lo repetir&amp;#233; por &amp;#250;ltima vez: &amp;#161;no te segu&amp;#237;! &amp;#161;Es Mystel quien me env&amp;#237;a!&lt;BR&gt;&lt;BR&gt;En fin, aqu&amp;#237; tienes el sello del espejo del que habl&amp;#243; Mystel. Despu&amp;#233;s de que Seren se me apareci&amp;#243; en un sue&amp;#241;o, lo encontr&amp;#233; sobre mi almohada.&lt;BR&gt;&lt;BR&gt;T&amp;#243;malo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="425" prevId="4" villagerId="10009">
+        <Page social="1" voiceTypeId="0">(En el centro del marco, ves un agujero del tama&amp;#241;o del sello. Coloca el sello del espejo en el {@linkcreature:425#10009$$miroir de Balder}).</Page>
+    </Text>
+    <Text id="6" huntingZoneId="425" prevId="5" villagerId="10008">
+        <Page social="1" voiceTypeId="0">&amp;#191;C&amp;#243;mo es posible?&lt;BR&gt;Parte del poder del sol ha desaparecido en las profundidades. Ciertamente esa no era la intenci&amp;#243;n de Balder...&lt;BR&gt;&lt;BR&gt;Por suerte, tenemos la otra mitad de la luz. Esta fuerza a&amp;#250;n es demasiado poderosa para ti.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos confi&amp;#225;rsela a Seren por ahora. D&amp;#225;sela a Rida.&lt;BR&gt;&lt;BR&gt;Cuando llegue el momento, la recuperar&amp;#225;s.&lt;NEXTPAGEBUTTON&gt;"¿Y cuándo llegará?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">No puedo dec&amp;#237;rtelo.&lt;BR&gt;Pero nos volveremos a ver pronto.&lt;BR&gt;&lt;BR&gt;Buen viaje, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="425" prevId="6" villagerId="10005">
+        <Page social="1" voiceTypeId="0">... As&amp;#237; pues, el poder est&amp;#225; con Seren.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que deber&amp;#237;amos pensar en regresar.&lt;BR&gt;&lt;BR&gt;&amp;#161;El viejo va a poner una cara! &amp;#161;Ja, ja! Sin duda espera que regreses con el espejo al hombro, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1047">
+        <Page social="1" voiceTypeId="0">La profec&amp;#237;a por fin se ha cumplido.&lt;BR&gt;&lt;BR&gt;El cuerpo de los Consos se funde con la profec&amp;#237;a de Balder. Sent&amp;#237; c&amp;#243;mo el poder del espejo se desvanec&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Este lugar ya no necesita estar aislado del resto del mundo. Por fin podr&amp;#233; tomar un poco de aire fresco, ja, ja.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1053">
+        <Page social="1" voiceTypeId="0">Mmh, si esa era la voluntad de Mystel, no tengo nada que objetar. Pero debo admitir que me siento un poco traicionado.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que Rida se apoder&amp;#243; del poder del espejo, lo que implica que Seren ha sellado dicho poder. &amp;#191;Debo concluir que a&amp;#250;n no ha llegado la hora?&lt;BR&gt;&lt;BR&gt;No olvides que eres t&amp;#250; quien domina este poder.&lt;BR&gt;&lt;BR&gt;El {@linkcreature:425#10009$$miroir de Balder} debe ser utilizado para el bien de todas las razas y t&amp;#250; has sido elegido para esta tarea, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es mejor que Allemantheia a&amp;#250;n no sepa nada de esto. Si no, el Mysterium har&amp;#237;a todo lo posible por quit&amp;#225;rtelo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1054">
+        <Page social="1" voiceTypeId="0">Empezaba a preocuparme seriamente. Qu&amp;#233; alegr&amp;#237;a verte regresar a salvo.&lt;BR&gt;&lt;BR&gt;Intent&amp;#233; convencer a la princesa &amp;#201;lin de que nos ayudara con nuestras investigaciones, pero no se dign&amp;#243; a concedernos la m&amp;#225;s m&amp;#237;nima mirada. &amp;#161;As&amp;#237; que no me queda m&amp;#225;s remedio que regresar a {@Rgn:68001$$Pora &amp;#201;linu}...!&lt;BR&gt;&lt;BR&gt;Retomar&amp;#233; el camino para comprobar si ocurren otros fen&amp;#243;menos extra&amp;#241;os en otros lugares. Tal vez tengamos la oportunidad de volver a vernos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1083">
+        <Page social="1" voiceTypeId="0">Esta elfa es realmente insoportable. Quiere seguirme a todas partes para que la ayude en sus investigaciones.&lt;BR&gt;&lt;BR&gt;Intenta disuadirla.&lt;BR&gt;&lt;BR&gt;Por cierto, me cuesta mucho descifrarte. Hiciste lo imposible para conseguir el espejo, pero pareces indiferente a si lo posees o no. &amp;#191;Han sido en vano todos mis preparativos?&lt;NEXTPAGEBUTTON&gt;"¿Qué preparativos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">(Rida te entrega algo.)&lt;BR&gt;&lt;BR&gt;Toma esto. Cuando llegue la hora, tendr&amp;#225;s que usarlo.&lt;BR&gt;&lt;BR&gt;La profec&amp;#237;a de Seren y Mystel me asegura que el espejo volver&amp;#225; a llamarte.&lt;BR&gt;&lt;BR&gt;Regresar&amp;#233; a {@Rgn:68001$$Pora &amp;#201;linu}. Mi protector seguramente habr&amp;#225; notado mi ausencia.&lt;BR&gt;&lt;BR&gt;Me voy. &amp;#161;Oc&amp;#250;pate de esa elfa hist&amp;#233;rica!</Page>
+    </Text>
+</QuestDialog>

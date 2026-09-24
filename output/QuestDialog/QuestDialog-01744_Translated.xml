@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">Te abriste{@g:/e} paso entre los guwangis, salvaste a Madat y te ganaste la confianza de los Khiriens al acudir con tus tropas a su refugio.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">Los guwangis cuentan entre nuestros numerosos enemigos. Atacan a los m&amp;#237;os y los arrastran hasta su aldea.&lt;NEXTPAGEBUTTON&gt;"Iré a buscarlos para salvar a Madat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Has derrotado a los arachn&amp;#233;ens. Quiz&amp;#225;s tambi&amp;#233;n puedas masacrar a los guwangis.&lt;BR&gt;&lt;BR&gt;Su aldea est&amp;#225; al oeste de aqu&amp;#237;. Reunir&amp;#233; a los Khiriens mientras localizas a Madat.&lt;BR&gt;&lt;BR&gt;Lo salvaremos juntos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1012">
+        <Page social="4">&quot;El nacimiento de una estrella implica que otra se apague... Me puedo ir con el coraz&amp;#243;n tranquilo, sabiendo que esta nueva estrella cambiar&amp;#225; el panorama. Mjusu Kraal.&quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1013">
+        <Page social="0">(Hay algo grabado debajo de la tapa: Madat.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1014">
+        <Page social="0">&amp;#161;No, por favor! &amp;#161;Piedad, no me mates!&lt;NEXTPAGEBUTTON&gt;"¿Has visto a un viejo con un sombrero gracioso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">S&amp;#237;. &amp;#161;S&amp;#237;! El sombrero con cuernos largos. Lo vi hace poco.&lt;BR&gt;&lt;BR&gt;Si es lo bastante fuerte, los guwangis lo esclavizar&amp;#225;n. Si no, bueno ya sabes, est&amp;#225;n dispuestos a comerse cualquier cosa.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1107">
+        <Page social="0">Qu&amp;#233; te tom&amp;#243; tanto tiempo. El destino ya no es lo que era.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vay&amp;#225;monos de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1106">
+        <Page social="0">Bien hecho, sure&amp;#241;o. Puede que haya sido muy r&amp;#225;pido en juzgarte.&lt;BR&gt;&lt;BR&gt;Los Khiriens tienen un escondite en una cueva de la colina detr&amp;#225;s de m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Encu&amp;#233;ntrame all&amp;#237;. Los guwangis van a querer vengarse por lo que pas&amp;#243; hoy.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">Bienvenido a nuestro refugio.&lt;BR&gt;&lt;BR&gt;Este lugar no es exactamente lujoso, pero es seguro. Nuestras tropas pueden un&amp;#237;osenos gracias a este teleportal y puedes curar tus heridas aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

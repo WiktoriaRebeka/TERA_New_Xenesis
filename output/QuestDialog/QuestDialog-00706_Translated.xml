@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">Si logramos conseguir una cadena de control mental potente, podremos extraer el hechizo que contiene. Deber&amp;#237;as poder encontrar algunas en los {@LinkCreature:25#1032#d&amp;#233;fenseurs squelettiques}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">Has vuelto. Ha llegado una carta en tu ausencia.&lt;BR&gt;&lt;BR&gt;Encontr&amp;#233; el hechizo de extracci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Tengo la cadena."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perfecto... si logramos extraer el hechizo, podremos encontrar una manera de contrarrestarlo. Ll&amp;#233;vale esto a Deigan. Es la persona m&amp;#225;s indicada para hacer este tipo de trabajos. Y recuerda entregarle esta carta cuando lo veas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Extraer el maleficio contenido en la cadena nos permitir&amp;#225; crear un hechizo capaz de contrarrestarlo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1020">
+        <Page social="4">Si encontramos la manera de contrarrestar el hechizo eficazmente, podremos hacer retroceder a los cultistas... &amp;#161;es un buen plan! Me pondr&amp;#233; manos a la obra.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es esta carta? Qu&amp;#233; galimat&amp;#237;as... espera... est&amp;#225; firmada por Davina.&lt;NEXTPAGEBUTTON&gt;"¿Es importante?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Davina es mi prima. Trabaja para Elion. Me pregunto por qu&amp;#233; me hace llegar esta carta ilegible. Elsine tal vez pueda traducirla... se le da muy bien el lenguaje codiciado. Incluso cre&amp;#243; algunos, seg&amp;#250;n tengo entendido.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1022">
+        <Page social="4">Esto es bastante inesperado. Se trata de un c&amp;#243;digo que cre&amp;#233; para comunicarme con Elion y Lian. Si la firma es aut&amp;#233;ntica, significa que Elion debi&amp;#243; de haber transmitido los secretos de este c&amp;#243;digo a otras personas. Si Davina es la prima de Deigan, tambi&amp;#233;n debe ser la hermana de Jelena. No deber&amp;#237;a ser muy complicado traducir la carta.&lt;BR&gt;&lt;BR&gt;&quot;Hemos descubierto el s&amp;#243;tano de la Cath&amp;#233;drale sombre y planeo ir all&amp;#237;.&quot;&lt;BR&gt;&lt;BR&gt;Maldici&amp;#243;n... esta carta fue redactada antes de la partida de Elion y su equipo. Parece que Davina se adelant&amp;#243;.</Page>
+    </Text>
+</QuestDialog>

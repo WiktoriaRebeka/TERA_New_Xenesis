@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="4">El trabajo de Loreen consume mucho MP. No ser&amp;#237;a un problema si tuvi&amp;#233;ramos n&amp;#250;cleos, pero son muy raros por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;La buena noticia es que los cultistas ubicados en las afueras de las ruinas, como los {@linkcreature:24#17#ma&amp;#238;tres eldritch} o los {@linkcreature:24#18#fendeurs de cr&amp;#226;ne}, tienen MP. Claro que su MP es mal&amp;#233;fico, pero es muy f&amp;#225;cil de purificar. Tr&amp;#225;eme sus orbes de MP.&lt;BR&gt;&lt;BR&gt;Bueno, no son exactamente orbes, sino m&amp;#225;s bien sus corazones. En fin, &amp;#161;tr&amp;#225;emelos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1024">
+        <Page social="5">&amp;#161;Gracias! Debes haberla pasado muy mal, pero alguien ten&amp;#237;a que encargarse. Gracias por llevarle estos corazones a Loreen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1024">
+        <Page social="0">&amp;#191;Conseguiste estos corazones? Pero todav&amp;#237;a piensas hacerlo, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="3" villagerId="1002">
+        <Page social="4">Perm&amp;#237;teme expresarte mi gratitud por tu rapidez. Es exactamente lo que necesitaba.</Page>
+    </Text>
+</QuestDialog>

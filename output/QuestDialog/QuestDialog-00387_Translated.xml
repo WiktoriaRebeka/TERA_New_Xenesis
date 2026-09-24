@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Hay alguien que sabe mucho sobre los {@LinkCreature:13#300931#ghilliedhus}: Dulari, un investigador y amigo. Cuando vayas a su campamento hacia el sur, recolecta muestras de los que combatas.&lt;BR&gt;&lt;BR&gt;Ataque por la espalda o por los flancos... pero sobre todo, no dejes de moverte. No es buena idea burlarse de un ghilliedhu enfadado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">He visto que has tenido que defenderte por el camino. Qu&amp;#233; comportamiento tan extra&amp;#241;os en estas criaturas que suelen ser tan d&amp;#243;ciles... &lt;BR&gt;&lt;BR&gt;Los ghilliedhus son esp&amp;#237;ritus protectores, no soldados. Necesito respuestas... y unas muestras me ayudar&amp;#225;n a averiguar qu&amp;#233; est&amp;#225; pasando.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Otro soldado. M&amp;#225;s de lo mismo con Kishale queriendo &quot;ayudar&quot;... Estas muestras solo refuerzan mis conclusiones: debemos estudiar este lugar, no conquistarlo.&lt;BR&gt;&lt;BR&gt;Si tienes que luchar, entr&amp;#233;nate hasta que puedas plantar cara a Vekas sin miedo. Creo que pone nerviosos a los dem&amp;#225;s esp&amp;#237;ritus, y al comprender a Vekas, aprenderemos m&amp;#225;s sobre esta isla que con la violencia ciega.</Page>
+    </Text>
+</QuestDialog>

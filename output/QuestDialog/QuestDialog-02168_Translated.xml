@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Nuestras provisiones empiezan a escasear. Bueno, casi no nos queda nada. {@LinkCreature:63#3003#Elthienne} quiere que alguien vaya ahora mismo a las {@Rgn:7001#Collines c&amp;#233;lestes} para traernos raciones.&lt;BR&gt;&lt;BR&gt;Dile que est&amp;#225;s disponible, &amp;#161;ya que parece que lo est&amp;#225;s! &amp;#161;M&amp;#237;rame c&amp;#243;mo tiemblo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, &amp;#191;te dijo Taratia que alguien tiene que ir a las {@Rgn:7001#Collines c&amp;#233;lestes} para una buena sesi&amp;#243;n de caza a la antigua usanza? &amp;#191;Podr&amp;#237;as encargarte t&amp;#250;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Yupii! {@LinkCreature:63#3003#Elthienne} se va a poner muy contenta de verte de nuevo. Casi nos morimos de hambre.&lt;BR&gt;&lt;BR&gt;Es incre&amp;#237;ble, &amp;#191;verdad, en una gran ciudad?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:7#1#mercenaires naga} a las {@Rgn:7001#Collines c&amp;#233;lestes} y tr&amp;#225;eme carne fresca.&lt;BR&gt;&lt;BR&gt;&amp;#161;R&amp;#225;pido! Nunca he tenido tanta hambre en mi vida. Es incre&amp;#237;ble lo ego&amp;#237;sta que es la gente por aqu&amp;#237;. En cuanto a la solidaridad, ya hemos visto cosas mejores.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Gracias, &lt;PCNAME&gt;. Est&amp;#225; fresca, &amp;#191;verdad? Huele bien.&lt;BR&gt;&lt;BR&gt;Av&amp;#237;sale a {@LinkCreature:63#3003#Elthienne} de tu regreso. Aunque probablemente no pueda ni verte. Es broma.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:7#3#kumas indolents} en {@Rgn:7001#Collines c&amp;#233;lestes} y tr&amp;#225;eme un poco de grasa de kuma.&lt;BR&gt;&lt;BR&gt;Es muy buena, &amp;#191;sabes? Adem&amp;#225;s, no es como si pudiera ponerme quisquillosa.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Tengo tantas ganas de cocinarnos esto. &amp;#161;Gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene tu recompensa.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:7#4#kumas amorphes} en {@Rgn:7001#Collines c&amp;#233;lestes} y tr&amp;#225;eme un poco de grasa de kuma.&lt;BR&gt;&lt;BR&gt;Si no tuvi&amp;#233;ramos tanta hambre, podr&amp;#237;amos usarla para hacer l&amp;#225;piz labial. Habr&amp;#237;a que te&amp;#241;irla, por supuesto, si de verdad quieres tener unos labios carnosos. Bueno, tal vez no te quede tan bien, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Gracias, &lt;PCNAME&gt;. Est&amp;#225; maravillosamente fresca. &amp;#191;Quieres volver para cenar?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} estar&amp;#225; encantado de poner un cubierto m&amp;#225;s en la mesa si es por ti.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:7#23#mercenaires mastodontes} en {@Rgn:7001#Collines c&amp;#233;lestes} y tr&amp;#225;eme carne. Es dura, pero seca y salada se puede comer.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Que los dioses bendigan el hecho de que hayas venido con nosotros, &lt;PCNAME&gt;. Nos has salvado.</Page>
+    </Text>
+</QuestDialog>

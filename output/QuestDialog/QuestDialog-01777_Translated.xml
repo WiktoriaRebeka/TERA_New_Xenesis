@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Keezar prometi&amp;#243; reparar el colgante roto con un pegamento especial. Recolectaste numerosos ingredientes y al fin lograste reparar el colgante.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Busca a Keezar, quien huy&amp;#243; de la cueva.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Como habr&amp;#225;s de suponer, el pegamento no crece en los &amp;#225;rboles. A menos que me hables de savia, en cuyo caso, ser&amp;#237;a muy tonta si me pusiera a discutir contigo.&lt;NEXTPAGEBUTTON&gt;"¡No estoy hablando de savia!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Y por lo tanto, hablas de pegamento. Entendido.&lt;BR&gt;&lt;BR&gt;Bien, para que este pegamento funcione, vamos a necesitar cal. Te hablo de cal mineral y no de lo que almacenas en tu crucero celeste para combatir el escorbuto. Hay muchos dep&amp;#243;sitos de cal alrededor de las aguas termales de atr&amp;#225;s. A menos que tu amigo popori ya se haya llevado todo para relajar sus m&amp;#250;sculos.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme cal, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"¿El crucero...? ¿Popori...? ¡Cal! De acuerdo, te traeré cal."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2036">
+        <Page social="1" voiceTypeId="0">Bueno, no fue tan dif&amp;#237;cil, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Pero volver a armar el colgante fue la parte m&amp;#225;s f&amp;#225;cil. Todav&amp;#237;a necesitamos sintonizarlo con los talismanes de demokron para que funcione. Tendr&amp;#225;s que matar a arqueros parteos, guerreros parteos y jinetes parteos para conseguir los misteriosos talismanes...&lt;NEXTPAGEBUTTON&gt;"¿Como estos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Los ten&amp;#237;as antes incluso de venir a verme?&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldita sea! &amp;#161;Hace tanto tiempo que no trataba con profesionales que ya ni me acordaba de lo que se siente!&lt;BR&gt;&lt;BR&gt;Ahora, espera aqu&amp;#237; mientras realizo este procedimiento extremadamente delicado y complejo...&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" villagerId="2036">
+        <Page social="0">Las aguas termales est&amp;#225;n justo detr&amp;#225;s de m&amp;#237;. &amp;#191;Unos bichos blancos grandes? &amp;#191;Con un bicho azul grande en el medio?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="4" villagerId="2036">
+        <Page social="1" voiceTypeId="0">&amp;#191;Pero cu&amp;#225;nto va a tardar todo esto? &amp;#161;Ya te lo dije: necesito cuernos de devan!&lt;BR&gt;&lt;BR&gt;No puedo trabajar contigo cuando est&amp;#225;s as&amp;#237;. Ya ni s&amp;#233; qui&amp;#233;n eres. Definitivamente ya no eres la persona de la que me enamor&amp;#233;. Tengo que concentrarme de verdad en mi carrera ahora.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no vas a hablar con Dandit, mi asistente de producci&amp;#243;n? Est&amp;#225; un poco m&amp;#225;s adelante en el camino que va hacia el sur.&lt;BR&gt;&lt;BR&gt;S&amp;#237;, &amp;#233;l te lo confirmar&amp;#225;.&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2042">
+        <Page social="4" voiceTypeId="0">&amp;#191;Te manda Keezar?&lt;BR&gt;&lt;BR&gt;Es... extra&amp;#241;o. Ella no es de las que ayudan a los dem&amp;#225;s...&lt;BR&gt;&lt;BR&gt;Bueno, veamos para qu&amp;#233; te manda.&lt;NEXTPAGEBUTTON&gt;"Keezar estaba a punto de reparar este colgante para mí..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Bien. Ya casi hab&amp;#237;a terminado. Al pegamento solo le falta un poco de l&amp;#225;grimas espirituales.&lt;BR&gt;&lt;BR&gt;Por suerte, las l&amp;#225;grimas espirituales no son tan dif&amp;#237;ciles de encontrar. Las chamanes de guerra parteas siempre llevan algunas encima y, para colmo de buena suerte, hay todo un grupo detr&amp;#225;s de m&amp;#237;, m&amp;#225;s arriba en la colina.&lt;NEXTPAGEBUTTON&gt;"De acuerdo..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Buen trabajo.&lt;BR&gt;&lt;BR&gt;Mezclar la cal y las Larmes d'Esprit permite fijar las piezas del colgante entre s&amp;#237; mientras se concentra la magia.&lt;BR&gt;&lt;BR&gt;Esto deber&amp;#237;a tomar solo unos segundos.&lt;NEXTPAGEBUTTON&gt;"Sin problemas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2042">
+        <Page social="0">Sin Larmes d'Esprit, la cal es solo un mineral blanquecino.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Y aqu&amp;#237; est&amp;#225;s listo{@g:/e}.&lt;BR&gt;&lt;BR&gt;Aseg&amp;#250;rate de haber juntado todas las piezas del colgante y luego p&amp;#233;galas con el pegamento fuerte.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2042">
+        <Page social="1" voiceTypeId="0">A ver.&lt;BR&gt;&lt;BR&gt;S&amp;#237;, vuelve a funcionar correctamente. Pero es mejor que no intentes activarlo, a menos que quieras romperlo por segunda vez.&lt;BR&gt;&lt;BR&gt;Ah, por cierto, las personas que est&amp;#225;n cerca de la plataforma de teletransporte te buscaban hace un momento. &amp;#191;Son amigos?&lt;NEXTPAGEBUTTON&gt;"Iré a ver, gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

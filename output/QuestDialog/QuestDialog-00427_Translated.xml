@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1029">
+        <Page social="0">Despu&amp;#233;s de una lecci&amp;#243;n explosiva con Kiriya, conociste a Rutgar, el responsable de abastecimiento, y Milene te ense&amp;#241;&amp;#243; a descansar y usar talismanes.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1029">
+        <Page social="4">AHORA SABES LO QUE SE PUEDE HACER CON UNA BOMBA. DEBER&amp;#205;AS CONOCER A LOS OTROS MIEMBROS DE LA GUARNICI&amp;#211;N.&lt;BR&gt;&lt;BR&gt;BAJA A VER A RUTGAR, &amp;#201;L CONOCE A TODO EL MUNDO.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Bienvenida, nueva recluta!&lt;BR&gt;&lt;BR&gt;Me llamo Rutgar y, por tu aspecto, apuesto a que es Kiriya quien te manda. Si quieres, puedo conseguirte algunas vendas y otros bienes consumibles.&lt;BR&gt;&lt;BR&gt;No tengas ning&amp;#250;n remordimiento por dejar el campamento con un bulto lleno de pociones y dem&amp;#225;s. No hay verg&amp;#252;enza en estar bien preparado.&lt;NEXTPAGEBUTTON&gt;"KIRIYA ME DIJO... hum, ¿con quién debo hablar ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Sin duda deber&amp;#237;as descansar un poco antes de continuar. &amp;#191;Ya sabes c&amp;#243;mo usar una fogata?&lt;BR&gt;&lt;BR&gt;&amp;#161;Milene! &amp;#191;No quisieras mostrarle al novato c&amp;#243;mo se usa una fogata?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1049">
+        <Page social="4">Combatir es agotador, y la fatiga puede jugarle malas pasadas a los aventureros m&amp;#225;s experimentados. Y un compa&amp;#241;ero de armas extenuado no sirve de mucho. &lt;BR&gt;&lt;BR&gt;Si combates sin descansar nunca, tu &lt;font color='#660000'&gt;resistencia&lt;/font&gt; se desvanece, lo que reduce tu MP y HP m&amp;#225;ximo.&lt;BR&gt;&lt;BR&gt;Puedes verificar el nivel de tu resistencia pasando el cursor por encima del &lt;B&gt;ic&amp;#244;ne en forme de c&amp;#339;ur&lt;/B&gt; en la parte superior de la pantalla.&lt;NEXTPAGEBUTTON&gt;"De acuerdo. ¿Y cómo se recarga?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Busca una &lt;font color='#660000'&gt;fogata&lt;/font&gt; en tu bolsa. Si no tienes una, Rutgar te vender&amp;#225; una. Haz clic derecho para usarla, luego qu&amp;#233;date cerca para recuperar tu resistencia.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233;date cerca del fuego hasta que suba al 120 %, luego vuelve a verme para la siguiente lecci&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1049">
+        <Page social="4">Entonces, &amp;#191;c&amp;#243;mo te sientes? &amp;#191;Reanimado{@g:/e}?&lt;BR&gt;&lt;BR&gt;Puedes usar las fogatas en cualquier momento, excepto durante un combate y a menos que haya otra cerca.&lt;BR&gt;&lt;BR&gt;Puedes poner un &lt;font color='#660000'&gt;le&amp;#241;o&lt;/font&gt; en el fuego para &lt;B&gt;rallonger sa dur&amp;#233;e&lt;/B&gt; pero sobre todo, tienes la posibilidad de consumir talismanes en &amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"¿Talismanes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Los talismanes como este &lt;font color='#660000'&gt;Talisman de asalto&lt;/font&gt; solo pueden usarse durante el descanso.&lt;BR&gt;&lt;BR&gt;Vuelve a verme cuando hayas intentado &lt;font color='#660000'&gt;usar este talisman descansando cerca de la fogata&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="5" villagerId="1049">
+        <Page social="4">Una vez activados, los talismanes y otros efectos que influencian tu condici&amp;#243;n se indican mediante iconos en la parte superior de tu pantalla. Pasa el rat&amp;#243;n sobre un icono para leer su descripci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Puedes tener hasta tres talismanes activos simult&amp;#225;neamente. Pero ten cuidado, usar un nuevo talisman del mismo tipo reemplazar&amp;#225; al que ya est&amp;#225; activo, lo quieras o no.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Una &amp;#250;ltima cosa: los talismanes son solo temporales y su efecto se desvanece cuando tu resistencia cae demasiado.&lt;BR&gt;Si combates, descansar cerca de una fogata cada &lt;B&gt;30 minutes&lt;/B&gt; deber&amp;#237;a bastar.&lt;BR&gt;&lt;BR&gt;Por lo dem&amp;#225;s, las fogatas colocadas por otros jugadores aparecen en tu minimapa y funcionan para todos.</Page>
+    </Text>
+</QuestDialog>

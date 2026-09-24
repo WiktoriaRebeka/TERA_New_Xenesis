@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="4">Debilitar a los imp&amp;#237;os no es suficiente, debemos eliminar a Sinarl, su regente.&lt;BR&gt;&lt;BR&gt;Amline se arriesg&amp;#243; en la Plaza de los ca&amp;#237;dos para buscarlo.&lt;BR&gt;&lt;BR&gt;&amp;#218;nete a ella y pr&amp;#233;stale tu ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1024">
+        <Page social="4">&amp;#191;Te env&amp;#237;a Arast? Bienvenida.&lt;BR&gt;&lt;BR&gt;Sinarl no est&amp;#225; lejos, est&amp;#225; abajo, en el valle. Lo fastidioso es que no puedo acercarme, seguro est&amp;#225; rodeado de jalmaraks y urisks.&lt;BR&gt;&lt;BR&gt;T&amp;#250;, que matas a todo lo que se atraviesa, &amp;#191;qu&amp;#233; tal si te encargas de un regente imp&amp;#237;o?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1025">
+        <Page social="4">Gracias a la muerte de Sinarl, podremos intentar restablecer el contacto con el resto de los jalmaraks. Tr&amp;#225;elos de vuelta, de verdad no s&amp;#233; qu&amp;#233; les dio por ir a ayudar a Thulsa...&lt;BR&gt;&lt;BR&gt;&amp;#161;Eres un soldado incre&amp;#237;ble, &lt;PCNAME&gt;. Gracias!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1025">
+        <Page social="0">Sinarl es prudente, tendr&amp;#225; aliados para protegerlo. Es muy peligroso ir solo, busca refuerzos.</Page>
+    </Text>
+</QuestDialog>

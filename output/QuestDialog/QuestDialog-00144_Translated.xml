@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">Si te interesa nuestro destino, hay otro favor que podr&amp;#237;as hacerme. Antes de irme de aqu&amp;#237;, quisiera vengarme de los tuwangis que me persiguieron.&lt;BR&gt;&lt;BR&gt;Son muchos y no pedir&amp;#237;an nada mejor que volver a empezar si tuvieran la oportunidad. Tal vez podr&amp;#237;as ir a ver a los {@LinkCreature:5#9#ochemartels tuwangis} y mostrarles lo que se siente al tener la muerte pis&amp;#225;ndote los talones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">&amp;#161;Ja! Bien jugado... &amp;#161;Lo del martillador martillado debi&amp;#243; dejarles una cara muy extra&amp;#241;a!&lt;BR&gt;&lt;BR&gt;&amp;#191;A que s&amp;#237;? &amp;#161;Ja, ja! Muchas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1003">
+        <Page social="0">Entonces, &amp;#191;c&amp;#243;mo va todo con los tuwangis? &amp;#191;Es el p&amp;#225;nico? &amp;#191;Les has metido el miedo en el cuerpo?</Page>
+    </Text>
+</QuestDialog>

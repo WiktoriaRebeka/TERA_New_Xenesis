@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="4">Los wendigos no son brutos est&amp;#250;pidos, ni mucho menos. Dominan la magia, al igual que nosotros, y eso es lo que los hace tan peligrosos.&lt;BR&gt;&lt;BR&gt;Voy a enviarte a cazar {@LinkCreature:34#510#mages de givre} y {@LinkCreature:34#500#tisse-givres} wendigos para recuperar sus armas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1008">
+        <Page social="4">Magn&amp;#237;fico. Sin sus armas, los wendigos pierden una gran parte de su poder m&amp;#225;gico, lo que reduce la amenaza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1008">
+        <Page social="0">&amp;#191;De qu&amp;#233; sirve matar wendigos si dejas sus focus al lado para que otros wendigos los usen?&lt;BR&gt;&lt;BR&gt;Mata a los magos de escarcha y a los tejeescarcha y recupera sus armas m&amp;#225;gicas.</Page>
+    </Text>
+</QuestDialog>

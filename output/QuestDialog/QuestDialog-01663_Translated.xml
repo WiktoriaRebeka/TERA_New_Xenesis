@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="54" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1181">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1181">
+        <Page social="0">Aqu&amp;#237; est&amp;#225;n los materiales. No dudes en usar el taller y ven a mostrarme lo que ser&amp;#225;s {@gender:parvenu/parvenue} de crear.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1181">
+        <Page social="0">Ahh...&lt;BR&gt;&lt;BR&gt;Los resultados son magn&amp;#237;ficos. Hay que decir que el plan tambi&amp;#233;n era magn&amp;#237;fico.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1181">
+        <Page social="0">Se han proporcionado la receta y los materiales principales. Ve a hablar con los comerciantes de alquimia si necesitas otros reactivos.</Page>
+    </Text>
+</QuestDialog>

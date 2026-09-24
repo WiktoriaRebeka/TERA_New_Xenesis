@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">Tenemos suerte de que Akia y Arcras ya no est&amp;#233;n aqu&amp;#237; para dar &amp;#243;rdenes a los jefes de guerra ossugons... y eso es gracias a ti. Ahora nos ser&amp;#225; mucho m&amp;#225;s sencillo eliminar a los {@LinkCreature:25#2011#chefs de guerre ossugons}.&lt;BR&gt;&lt;BR&gt;Acu&amp;#233;rdate de traer sus cr&amp;#225;neos para evitar que vuelvan a la vida. Privados de generales, sus ej&amp;#233;rcitos no tardar&amp;#225;n en dispersarse.&lt;BR&gt;&lt;BR&gt;Esta misi&amp;#243;n es crucial, &lt;PCNAME&gt;. No veo a nadie m&amp;#225;s calificado que t&amp;#250; para llevarla a buen t&amp;#233;rmino. Nuestro futuro est&amp;#225; en tus manos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">&amp;#161;As&amp;#237; es como hay que hacerlo! &amp;#161;Privado de jefes de guerra, el ej&amp;#233;rcito va a renunciar a sus planes de ataque! &amp;#161;Nos has salvado!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1027">
+        <Page social="0">&amp;#161;Date prisa! &amp;#161;Ve a matar a los {@LinkCreature:25#2011#chefs de guerre ossugons} antes de que su ej&amp;#233;rcito ataque!</Page>
+    </Text>
+</QuestDialog>

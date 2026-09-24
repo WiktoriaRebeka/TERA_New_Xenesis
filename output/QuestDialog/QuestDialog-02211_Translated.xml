@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, acaba de ocurrir algo terrible.&lt;BR&gt;Hemos recibido una carta del laboratorio de Mysterium, ubicado al lado del sitio de pesca. &lt;BR&gt;Es posible que ya no se &amp;#2361;&amp;#2350;&amp;#2375;&amp;#2306; permita pescar en este lago.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a buscar al investigador {@linkcreature:207#1010#Meridien}? &lt;BR&gt;Por supuesto, est&amp;#225; fuera de lugar presentarte all&amp;#237; con las manos vac&amp;#237;as. &lt;BR&gt;&amp;#161;Los humanos siempre son m&amp;#225;s cooperativos cuando tienen el est&amp;#243;mago lleno!&lt;NEXTPAGEBUTTON&gt;"¿Cómo es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3" voiceTypeId="0">Toma, toma este plano de cocina. &lt;BR&gt;Incluso los gastr&amp;#243;nomos m&amp;#225;s exigentes no pueden resistir el suave aroma del pescado marinado.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que ll&amp;#233;vale un pescado marinado a {@linkcreature:207#1010#Meridien}. &lt;BR&gt;Puedes comprar los ingredientes en una tienda de art&amp;#237;culos de pesca o a un mercader de consumibles. &lt;BR&gt;Si tienes suficiente oro, tambi&amp;#233;n puedes comprar los platillos en el intermediario.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La federaci&amp;#243;n de pesca te pidi&amp;#243; que fueras a ver a Meridien para encargarte de los problemas del laboratorio de Mysterium. Resolviste el problema de Meridien, quien, en su embriaguez, hab&amp;#237;a arrojado sus materiales de investigaci&amp;#243;n al agua.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&amp;#191;Eh? &amp;#191;Podr&amp;#237;a ser ese famoso pescado marinado del que todo el mundo habla? &lt;BR&gt;&amp;#191;Es para m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">&amp;#161;Qu&amp;#233; rico! &amp;#161;Qu&amp;#233; sabor tan exquisito! &amp;#161;Los aromas del pescado se combinan con la sal y el vinagre para crear un sabor agridulce incomparable! &lt;BR&gt;&amp;#161;Y no huele para nada a pescado! &amp;#161;Te estoy muy agradecido por haberme dado este manjar tan suculento! &lt;BR&gt;Con el est&amp;#243;mago lleno, las cosas van mucho mejor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1010">
+        <Page social="0">Oh, no. Oh, no...&lt;BR&gt;&amp;#191;Qu&amp;#233; pasa? Si no es importante, &amp;#161;no me molestes!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">&amp;#191;Te env&amp;#237;a la federaci&amp;#243;n de pesca? Entonces, sabes pescar.&lt;BR&gt;En ese caso, tal vez puedas ayudarme.&lt;BR&gt;&lt;BR&gt;Anoche tuve la mala suerte de dejar caer todos mis documentos de investigaci&amp;#243;n importantes en el lago de Murica.&lt;BR&gt;&amp;#191;C&amp;#243;mo pas&amp;#243;? Tengo debilidad por el alcohol. El alcohol...&lt;BR&gt;Me cuesta mucho parar.&lt;BR&gt;El &amp;#250;nico problema es que no puedo recuperar mi ellinium de investigaci&amp;#243;n.&lt;BR&gt;Si aceptas ayudarme, estar&amp;#233; dispuesto a hablar sobre la federaci&amp;#243;n de pesca.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Muy bien. Te explicar&amp;#233; c&amp;#243;mo recuperar mi ellinium de investigaci&amp;#243;n que cay&amp;#243; al agua.&lt;BR&gt;&lt;BR&gt;Primero, revisa la caja de materiales de investigaci&amp;#243;n que est&amp;#225; a mi lado en busca de los fragmentos de cellisium que te servir&amp;#225;n de carnada.&lt;BR&gt;Lanza tu ca&amp;#241;a y el ellinium ser&amp;#225; atra&amp;#237;do hacia la superficie como un im&amp;#225;n. Si te quedas sin carnada, te dar&amp;#233; m&amp;#225;s.&lt;BR&gt;Vamos, date prisa. Necesito recuperar el ellinium antes de que llegue mi jefe para su inspecci&amp;#243;n.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh! Lo has encontrado todo.&lt;BR&gt;Es un trabajo excelente.&lt;BR&gt;As&amp;#237; que ya no tengo que preocuparme por la inspecci&amp;#243;n.&lt;BR&gt;Izar&amp;#233; el tema del sitio de pesca con mi jefe.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" villagerId="1010">
+        <Page social="0">Tienes el ellinium de investigaci&amp;#243;n.&lt;BR&gt;&amp;#161;Por favor, date prisa! &amp;#161;Hay que tener todo listo antes de que llegue mi jefe!&lt;BR&gt;&lt;BR&gt;Toma la carnada de la caja de materiales de investigaci&amp;#243;n que est&amp;#225; a mi lado y ve a pescar al sitio de pesca de Murica.</Page>
+    </Text>
+</QuestDialog>

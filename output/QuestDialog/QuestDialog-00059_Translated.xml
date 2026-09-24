@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Rastrea a los dientes de sable que nos impiden tomar el control del Fey Forest.&lt;BR&gt;&lt;BR&gt;Elimina los {@LinkCreature:2#4#dents-de-sabre furtifs}.&lt;BR&gt;&lt;BR&gt;Una vez completada la misi&amp;#243;n, ve a presentar tu informe a Reindal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="4">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

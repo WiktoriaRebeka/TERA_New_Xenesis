@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">&amp;#161;El p&amp;#225;nico se ha apoderado de la Eldritch Academy! Solo quer&amp;#237;amos organizar un Festival de la Cosecha, pero hemos recibido cartas de amenaza: &quot;Ser&amp;#225;n atormentados por sus malas acciones pasadas&quot; y otros mensajes por el estilo.&lt;BR&gt;&lt;BR&gt;Serena me pidi&amp;#243; que descubriera qui&amp;#233;n est&amp;#225; detr&amp;#225;s de estos intentos de arruinarlo todo. Sin duda me eligi&amp;#243; despu&amp;#233;s de pillarme leyendo &quot;Cuentos apasionantes para detectives novatos&quot; cuando se supone que deb&amp;#237;a estar estudiando.&lt;BR&gt;&lt;BR&gt;Estoy persiguiendo al que mueve los hilos. Mientras me pongo manos a la obra, &amp;#191;podr&amp;#237;as asegurarte de que nada arruine la fiesta?&lt;NEXTPAGEBUTTON&gt;"Por supuesto... pero ¿por qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">A causa de los tuwangis. Se est&amp;#225;n reuniendo en la academia ahora mismo. Pero no te preocupes: podemos usar sus propias supersticiones en su contra.&lt;BR&gt;&lt;BR&gt;Usa el ca&amp;#241;&amp;#243;n para disparar calabazas a los invitados no deseados y defiende las reservas de la fiesta, especialmente los dulces.&lt;BR&gt;&lt;BR&gt;Cuando los tuwangis sean golpeados por las calabazas, s&amp;#237;mbolos de la cosecha, huir&amp;#225;n sin mirar atr&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="4">&amp;#191;A&amp;#250;n te quedan calabazas, espero? Bien.&lt;BR&gt;&lt;BR&gt;Toma, agarra esto... y &amp;#250;nete a la fiesta. &amp;#161;Ser&amp;#225; perfecto!&lt;NEXTPAGEBUTTON&gt;"Eh, ¿y el enorme monstruo calabaza?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Un monstruo calabaza? Seguro que es un disfraz, nada de qu&amp;#233; preocuparse. Ustedes los &lt;PCCLASS:lcase&gt;s est&amp;#225;n demasiado estresados.</Page>
+    </Text>
+</QuestDialog>

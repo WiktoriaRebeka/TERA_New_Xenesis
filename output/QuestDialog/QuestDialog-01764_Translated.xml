@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="0">&lt;PCNAME&gt; habl&amp;#243; con un goblin y un baraka sobre las actividades de los Archidevans en Ex Prima.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="4" voiceTypeId="0">Debemos reunir informaci&amp;#243;n sobre las actividades de los Archidevans. Pero los Scrutateurs no nos ser&amp;#225;n de gran ayuda. Busquemos a alguien m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Hay un goblin, Jagreg, que suele encontrarse en el puesto de Baaldaz. Preg&amp;#250;ntale si ha visto Archidevans por los alrededores.&lt;NEXTPAGEBUTTON&gt;"Iré a hablar con él."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">&amp;#161;No te acerques a los &amp;#225;rboles de dinero de Jagreg, &lt;PCRACE:lcase&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Jagreg los vio primero! &amp;#161;As&amp;#237; que estas frutas pecuniarias pertenecen a Jagreg!&lt;NEXTPAGEBUTTON&gt;"Mmm. Puedo cosecharlas por ti... a cambio de algo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">... &amp;#161;cambio! &amp;#161;De acuerdo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Jagreg est&amp;#225; de acuerdo! &amp;#161;Cosecharlas ahora!&lt;NEXTPAGEBUTTON&gt;"De acuerdo, espérame aquí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1011">
+        <Page social="4" voiceTypeId="0">&amp;#161;Jaja! &amp;#161;Jagreg es rico!&lt;BR&gt;&lt;BR&gt;Buen trabajo, &lt;PCRACE:lcase&gt;. Ahora, &amp;#191;qu&amp;#233; quieres saber?&lt;NEXTPAGEBUTTON&gt;"¿Qué están tramando los Archidevans?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Archidevans? &lt;PCRACE&gt; morir pronto, piensa Jagreg.&lt;BR&gt;&lt;BR&gt;Archidevans investigar pasado. Ignora por qu&amp;#233;.&lt;NEXTPAGEBUTTON&gt;"¿Pero sabes dónde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Kamun.&lt;BR&gt;&lt;BR&gt;Kamun sabe d&amp;#243;nde. Kamun observa Archidevans. Estudia. Kamun morir pronto tambi&amp;#233;n, piensa Jagreg.&lt;BR&gt;&lt;BR&gt;Preguntar a Kamun.&lt;NEXTPAGEBUTTON&gt;"Disfruta de tus frutas pecuniarias, Jagreg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Los Archidevans tienen muchos campamentos en esta regi&amp;#243;n. Cualquiera de ellos podr&amp;#237;a ser el centro neur&amp;#225;lgico de su dispositivo detr&amp;#225;s de la muralla de las Tormentas.&lt;NEXTPAGEBUTTON&gt;"Pero, ¿cuál es el más probable?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Excelente pregunta!&lt;BR&gt;&lt;BR&gt;La mejor manera de obtener una respuesta fiable es interrogar a uno o dos Archidevans. Pero son particularmente deshonestos. Solo he logrado sacarles informaci&amp;#243;n &amp;#250;til usando agujas de la verdad estrat&amp;#233;gicamente colocadas.&lt;NEXTPAGEBUTTON&gt;"¿No tendrás una o dos por casualidad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Por desgracia, mis provisiones se agotaron. Me preparaba para organizar una nueva expedici&amp;#243;n y conseguir m&amp;#225;s componentes... pero si aceptas hacer este trabajo, estar&amp;#233; dispuesto a prepararte algunos.&lt;BR&gt;&lt;BR&gt;Solo tr&amp;#225;eme unas cuantas escamas brillantes de los chupathingys de por aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Hecho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&amp;#191;Conseguiste las escamas brillantes?&lt;NEXTPAGEBUTTON&gt;"Es mi trabajo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" villagerId="1010">
+        <Page social="0">&amp;#191;Sigues buscando escamas brillantes? Son indispensables para descubrir la verdad.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="6" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Has hecho un buen trabajo. Dame un segundo... &amp;#161;y listo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Que esta aguja de la verdad te sea de gran ayuda!&lt;NEXTPAGEBUTTON&gt;"Gracias, Kamun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

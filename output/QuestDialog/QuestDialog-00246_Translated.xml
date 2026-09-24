@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">&amp;#161;Los crocutas han vuelto a atacar nuestra caravana de suministros!&lt;BR&gt;&lt;BR&gt;Primero tuvimos problemas con los {@LinkCreature:9#300#crocutas cuirass&amp;#233;s}, as&amp;#237; que tuvimos que duplicar el tama&amp;#241;o del grupo de escolta. Ahora son los {@LinkCreature:9#310#crocutas alpha} los que se meten en esto... y para ellos, los guardias son solo aperitivos, nada m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Y no, no es una exageraci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;L&amp;#237;branos de esos crocutas y tr&amp;#225;eme sus pieles, &lt;PCNAME&gt;. Seguro que encontramos la manera de hacer mantas u otros art&amp;#237;culos &amp;#250;tiles para paliar la escasez de suministros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1007">
+        <Page social="4">Deber&amp;#237;amos poder curtirlas antes de la pr&amp;#243;xima ola de fr&amp;#237;o, que sin duda llegar&amp;#225; mucho antes de que recibamos suministros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1007">
+        <Page social="0">Los suministros no son nuestra &amp;#250;nica preocupaci&amp;#243;n. Los {@LinkCreature:9#300#crocutas cuirass&amp;#233;s} y los {@LinkCreature:9#310#crocutas alpha} matan gente todos los d&amp;#237;as, y tenemos muy pocos soldados para darles caza.</Page>
+    </Text>
+</QuestDialog>

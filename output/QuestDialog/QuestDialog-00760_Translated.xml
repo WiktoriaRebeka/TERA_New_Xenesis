@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="1">Soldado, &amp;#191;puede concederme un momento? Tengo una misi&amp;#243;n que requiere habilidad e inteligencia.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:30#10#gorilles peau-cendr&amp;#233;e} de la regi&amp;#243;n est&amp;#225;n abrumados por perezosos agresivos e invasivos. Sin mentir. Perezosos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los gorilas no atacan sin haber sidoprovocados, pero los perezosos tienen un agudo sentido del territorio!&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedo ayudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Estamos reuniendo a los gorilas en una reserva cerca de las puertas del Bastion para salvar su poblaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tome una de esas frutas que tanto les gustan a los gorilas y gu&amp;#237;e a uno hasta el corral. Nosotros haremos el resto.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:30#10#gorilles peau-cendr&amp;#233;e} son pac&amp;#237;ficos, pero tenga cuidado con los perezosos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="23">
+        <Page social="0">(Los ojos del gorila est&amp;#225;n fijos en la fruta, pero parece nervioso ante la idea de acercarse.&lt;BR&gt;&lt;BR&gt;Si avanza lentamente hacia el corral, deber&amp;#237;a seguirlo.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="1104">
+        <Page social="1">Son criaturas magn&amp;#237;ficas, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; l&amp;#225;stima que los perezosos las cachen.&lt;BR&gt;&lt;BR&gt;Incluso los protectores de la naturaleza entre nosotros estar&amp;#237;an encantados si estas pesadillas con garras se extinguieran.</Page>
+    </Text>
+</QuestDialog>

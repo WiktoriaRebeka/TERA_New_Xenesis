@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="9">&amp;#191;Eres uno de los soldados de la Espada de Kaia? &amp;#191;Podr&amp;#237;as ayudarme?&lt;BR&gt;&lt;BR&gt;Mis hijos se fueron de casa hace unos d&amp;#237;as y estoy muy preocupada. &amp;#191;Podr&amp;#237;as ir a ver c&amp;#243;mo est&amp;#225;n?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#191;Buscas a Zebedah y Zebulon, los hijos de Wynne?&lt;BR&gt;&lt;BR&gt;Perdona, no quer&amp;#237;a darte falsas esperanzas. No los he visto. Intento vigilar lo que pasa por aqu&amp;#237;, pero no soy Balder. No puedo verlo todo.&lt;BR&gt;&lt;BR&gt;Preg&amp;#250;ntale a {@LinkCreature:212#1001#Munam}. Y no dejes que te embauque. No hay mayor cotilla.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1001">
+        <Page social="4">&amp;#191;Est&amp;#225;s aqu&amp;#237; a petici&amp;#243;n de Wynne? &amp;#191;Y dices que los ni&amp;#241;os han desaparecido? Est&amp;#225;n pasando muchas cosas ahora mismo, pero no me hab&amp;#237;a enterado de este asunto. Hubo un ni&amp;#241;o merodeando por aqu&amp;#237; hace unos d&amp;#237;as. Deber&amp;#237;as preguntar a los guardias mientras das una vuelta por el campamento. Me temo que no puedo decirte mucho m&amp;#225;s. De todos modos, es un placer verte volver con nosotros sano y salvo.</Page>
+    </Text>
+</QuestDialog>

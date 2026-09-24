@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Ves una peque&amp;#241;a l&amp;#225;pida.)&lt;BR&gt;&lt;BR&gt;(Deber&amp;#237;as echarle un vistazo.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1010">
+        <Page social="6" voiceTypeId="0">(Aparte de la pedregal y el moho azul, solo encuentras una peque&amp;#241;a nota.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1010">
+        <Page social="6" voiceTypeId="0">Descubres una peque&amp;#241;a l&amp;#225;pida. La levantas y encuentras una nota de Linkia.</Page>
+    </Text>
+</QuestDialog>

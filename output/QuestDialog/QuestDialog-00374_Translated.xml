@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="0">Eria te pidi&amp;#243; que consiguieras esencia de n&amp;#250;cleo de los espor&amp;#225;podos de la regi&amp;#243;n para estudiarla. Cuando aplic&amp;#243; esta esencia a la corrupci&amp;#243;n que mancillaba el Azote del demonio, sinti&amp;#243; claramente que alguien luchaba contra su voluntad.&lt;BR&gt;&lt;BR&gt;Estaba afligida por no poder ayudar m&amp;#225;s a Lian, pero este &amp;#250;ltimo se mostr&amp;#243; bastante satisfecho. Crees que tu enemigo se encuentra en la cima de las Alturas de Arun.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="4">Necesito que vayas a matar espor&amp;#225;podos y me traigas su esencia de n&amp;#250;cleo. Estas criaturas primitivas surgieron al mismo tiempo que el mundo... Son muy sensibles a las fluctuaciones m&amp;#225;gicas.&lt;BR&gt;&lt;BR&gt;Debo determinar si la energ&amp;#237;a que mancilla el Azote del demonio es tambi&amp;#233;n la que afecta a la poblaci&amp;#243;n de la isla.&lt;BR&gt;&lt;BR&gt;&amp;#161;Basta de charla!&lt;TEXTBUTTON&gt;"¡Me encargo de eso!"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">&amp;#161;Bien hecho! Es m&amp;#225;s agradable trabajar contigo que con el se&amp;#241;or pretencioso en jefe.&lt;BR&gt;&lt;BR&gt;Veamos qu&amp;#233; pueden ense&amp;#241;arnos estas esencias... &amp;#161;Oh, yo...!&lt;NEXTPAGEBUTTON&gt;"¿Todo bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Yo... no puedo lograrlo! &amp;#161;Por la ira de la naturaleza, esto es demasiado poderoso para m&amp;#237;!&lt;BR&gt;&lt;BR&gt;Alguien se opone a m&amp;#237;. Sent&amp;#237; en mi mente una presencia... abominable. Todo lo que puedo decir con certeza es que ven&amp;#237;a del este... tal vez de esa colline.&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo siento... desear&amp;#237;a poder hacer m&amp;#225;s por Lian! Me gustar&amp;#237;a impresionarlo aprendiendo m&amp;#225;s sobre el Azote del demonio, pero esto supera mis fuerzas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1021">
+        <Page social="0">&lt;PCNAME&gt;, realmente necesito tu ayuda. Si quiero entender la relaci&amp;#243;n que existe entre los fen&amp;#243;menos presenciados y el Azote del demonio, &amp;#161;necesito estos n&amp;#250;cleos!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">&amp;#191;As&amp;#237; que alguien se opuso a los poderes m&amp;#225;gicos de Eria? Interesante. Vimos movimiento en la cima de esa colina, a la que llamamos Alturas de Arun.&lt;BR&gt;&lt;BR&gt;Un buen punto de vista... totalmente el tipo de lugar que elegir&amp;#237;a un adversario astuto. &amp;#161;Ahora sabemos d&amp;#243;nde buscar!</Page>
+    </Text>
+</QuestDialog>

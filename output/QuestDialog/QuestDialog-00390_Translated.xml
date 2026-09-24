@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="4">Los investigadores le piden a Jirash que ponga fin a los ataques de los {@LinkCreature:13#2#marchespores} que saquean sus reservas, pero Adria prohibi&amp;#243; a los centinelas abandonar sus puestos.&lt;BR&gt;&lt;BR&gt;Solo alguien que no pertenezca ni al personal cient&amp;#237;fico ni a las filas de los centinelas podr&amp;#237;a echarnos una mano. Los esp&amp;#237;ritus buscan cristales de mana que les fueron robados a otros esp&amp;#237;ritus.&lt;BR&gt;&lt;BR&gt;Recoge tantos cristales como puedas antes de traer todo de vuelta aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1023">
+        <Page social="4">Eso es exactamente lo que quer&amp;#237;an. &amp;#161;Los investigadores y los centinelas te lo agradecen! Ahora, te quedes o no, tal vez por fin pueda combatir de verdad.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1023">
+        <Page social="0">Los {@LinkCreature:13#2#marchespores} est&amp;#225;n un poco m&amp;#225;s abajo. Cuidado con su alcance. Dan vueltas, giran y demuelen a cualquiera que tenga la desgracia de tom&amp;#225;rselos a la ligera. Pero tal vez ya lo sepas, dado que claramente no has recuperado los cristales de mana.&lt;BR&gt;&lt;BR&gt;Ve a buscar eso y tr&amp;#225;emelo todo de vuelta. No hace falta que regreses antes.</Page>
+    </Text>
+</QuestDialog>

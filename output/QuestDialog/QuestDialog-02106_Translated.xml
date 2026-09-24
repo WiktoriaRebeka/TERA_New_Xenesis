@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="4">Los argons nunca se debilitan, y arrojarles cuerpos no sirve de nada. Debemos encontrar otra forma de rechazarlos.&lt;NEXTPAGEBUTTON&gt;"¿Puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Absolutamente. Mi amigo, {@LinkCreature:248#3014#Damian}, de {@Rgn:48004$$Fonderie de Cyanocanon} est&amp;#225; al borde del colapso.&lt;BR&gt;&lt;BR&gt;Si puedes ayudar a mis camaradas de la fundici&amp;#243;n, les har&amp;#237;a mucho bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">&amp;#161;S&amp;#237;, necesitamos ayuda! Nuestras reservas est&amp;#225;n en rojo y debido a la puerta sellada, conseguir materias primas se vuelve cada vez m&amp;#225;s dif&amp;#237;cil.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hay por todas partes que pertenecen tanto a ellos como a nosotros, y que podemos recuperar. Re&amp;#250;ne los componentes dispersos alrededor de {@Rgn:48001$$Front de Khanovar}.&lt;BR&gt;&lt;BR&gt;Cuantos m&amp;#225;s recuperemos, m&amp;#225;s r&amp;#225;pido volveremos al terreno armados hasta los dientes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Los componentes argons son indispensables para los cianoca&amp;#241;ones. Me gustar&amp;#237;a recuperar algunos.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="10" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Necesitamos componentes para armas de asedio sin falta. No hay nada mejor para infligir un gran da&amp;#241;o. Es crucial que contemos con semejante potencia de fuego.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="12" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Los componentes argons son indispensables para los cianoca&amp;#241;ones. Me gustar&amp;#237;a recuperar algunos.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="14" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Necesitamos componentes para armas de asedio sin falta. No hay nada mejor para infligir un gran da&amp;#241;o. Es crucial que contemos con semejante potencia de fuego.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="16" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Los componentes argons son indispensables para los cianoca&amp;#241;ones. Me gustar&amp;#237;a recuperar algunos.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="18" villagerId="3014">
+        <Page social="4">&amp;#161;Por fin, a esto lo llamo ayuda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a esto, podremos golpear a los argons justo en donde m&amp;#225;s les duele!&lt;BR&gt;&lt;BR&gt;Aunque no s&amp;#233; si siquiera tienen...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Necesitamos componentes para armas de asedio sin falta. No hay nada mejor para infligir un gran da&amp;#241;o. Es crucial que contemos con semejante potencia de fuego.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+</QuestDialog>

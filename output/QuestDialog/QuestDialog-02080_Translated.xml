@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="222">
+        <Page social="4" voiceTypeId="0">El n&amp;#250;mero de ghilliedhus est&amp;#225; aumentando.&lt;BR&gt;&lt;BR&gt;Supongo que podr&amp;#237;amos darles el golpe de gracia eliminando al ghilliedhu original.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a buscar al maestro Varkas y derr&amp;#243;talo!&lt;BR&gt;Me llevar&amp;#233; a Anya a un lugar seguro.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, elimina al maestro Varkas para erradicar a los ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="242">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ya has solucionado el problema y sin la ayuda de nadie!&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;no dejas de impresionarme!&lt;BR&gt;Tengo que ir al pueblo por un asunto urgente. Deber&amp;#237;as seguirme.&lt;NEXTPAGEBUTTON&gt;"Eso es lo que pienso hacer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="223">
+        <Page social="0">Llegas antes de lo previsto. Muy bien.&lt;BR&gt;Glennock, el jefe del laboratorio, ya te espera desesperadamente.&lt;NEXTPAGEBUTTON&gt;"Por lo visto, es urgente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

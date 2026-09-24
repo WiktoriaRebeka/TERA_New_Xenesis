@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="1183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">{@linkcreature:183#1015#Omeros} tiene algo que decirte. Ve a hablar con &amp;#233;l.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Omeros te entrega los relatos de la Danselune.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1015">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, que la luz de la luna te acompa&amp;#241;e.&lt;BR&gt;Mientras estabas en el Sal&amp;#243;n del Conocimiento, encontr&amp;#233; otro libro.&lt;BR&gt;Contiene informaci&amp;#243;n importante.&lt;NEXTPAGEBUTTON&gt;"¿De qué trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Cuenta otra historia de la legendaria Danselune.&lt;BR&gt;Ya conoces la primera historia.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n deber&amp;#237;as leer esta.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Me gustar&amp;#237;a saber c&amp;#243;mo contin&amp;#250;a.&lt;BR&gt;Sin duda eres capaz de encontrar las p&amp;#225;ginas que faltan.&lt;BR&gt;&lt;BR&gt;Por favor, ven a contarme el final de la historia si lo encuentras.&lt;NEXTPAGEBUTTON&gt;"Te lo prometo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

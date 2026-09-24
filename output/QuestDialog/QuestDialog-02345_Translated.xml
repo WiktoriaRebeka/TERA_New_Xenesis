@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Bashik estaba esperando tu llegada junto a la plataforma de la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te enteraste de que la Forteresse de Berak alberga una sala de m&amp;#225;quinas que permite controlar el n&amp;#250;cleo oscuro. Te disfrazaste de High Elf e infiltraste la Forteresse de Berak.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="126">
+        <Page social="0" voiceTypeId="0">Las medidas de seguridad son muy estrictas por aqu&amp;#237;. Los naga comunes como yo no pueden ir m&amp;#225;s all&amp;#225;.&lt;BR&gt;&lt;BR&gt;M&amp;#225;s all&amp;#225; de la plataforma, todo es zona prohibida. La zona prohibida alberga a los vasallos naga que sirven al Vanarch High Elf. No te detengo por m&amp;#225;s tiempo.&lt;BR&gt;&lt;BR&gt;Abandona la zona prohibida y ve a buscar a Revenj. Sigue el camino en el valle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">Aparentemente, tu camarada &amp;#201;lion va en camino a la fortaleza.&lt;BR&gt;&lt;BR&gt;Los guardias que vigilaban la entrada de la zona prohibida se fueron de inmediato a la fortaleza.&lt;BR&gt;Est&amp;#225; custodiada por las tropas de &amp;#233;lite de los high dragons, as&amp;#237; que infiltrarse no ser&amp;#225; tarea f&amp;#225;cil. Deber&amp;#237;amos disfrazarnos de high dragons.&lt;NEXTPAGEBUTTON&gt;"¿Y cómo hacemos eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Parecerse a un high dragon es una cosa, pero su olor tambi&amp;#233;n es importante.&lt;BR&gt;&lt;BR&gt;Si no lo imitamos a la perfecci&amp;#243;n, nos descubrir&amp;#225;n al instante.&lt;BR&gt;Ya tengo parte de los materiales necesarios. Cons&amp;#237;gueme unos cuantos fragmentos de metal de Exodor y algo de mucosidad nauseabunda, y te transformar&amp;#233; en un high dragon perfecto.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="100">
+        <Page social="0" voiceTypeId="0">Lo conseguiste todo. As&amp;#237; que tengo todo lo necesario.&lt;BR&gt;&lt;BR&gt;Fabrica una herramienta de disfraz con los materiales y no tendr&amp;#225;s ning&amp;#250;n problema para entrar en la fortaleza.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo pedirte un favor antes de que vayas a la fortaleza?&lt;NEXTPAGEBUTTON&gt;"¿De qué se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Podr&amp;#237;as eliminar a los vasallos naga de aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;Me reh&amp;#250;so a dejar que los Riverans se encarguen de esto.&lt;BR&gt;&lt;BR&gt; Ay&amp;#250;dame y los Riverans podr&amp;#225;n encargarse de este lugar como es debido.&lt;BR&gt;&lt;BR&gt;Cuando la herramienta de disfraz est&amp;#233; lista, se la entregar&amp;#233; a Jelena y Thro.&lt;BR&gt;Los encontrar&amp;#225;s frente a la puerta de los escalofr&amp;#237;os. Cumple tu misi&amp;#243;n y ve a reunirte con tus amigos.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" villagerId="100">
+        <Page social="0">No tienes suficientes materiales. No puedes fabricar la herramienta de disfraz a menos que hayas reunido todos los materiales.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">Espera, no ataques. Soy yo, Thro.&lt;BR&gt;&lt;BR&gt;Tu herramienta de disfraz est&amp;#225; lista.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; high dragon quieres hacerte pasar?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">&amp;#191;Ah, s&amp;#237;? &amp;#191;Un high dragon femenino?&lt;BR&gt;&lt;BR&gt;Un momento. Te busco la herramienta de disfraz correcta.&lt;BR&gt;A ver, a ver... femenino...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">&amp;#191;Un high dragon masculino?&lt;BR&gt;&lt;BR&gt;Un momento. Te busco la herramienta de disfraz correcta.&lt;BR&gt;A ver, a ver... masculino...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;. Toma, es para ti.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; olor tan nauseabundo, &amp;#191;verdad? Sorprendentemente, el olor cambia una vez que te disfrazas.&lt;BR&gt;&lt;BR&gt;Usa esto y te convertir&amp;#225;s inmediatamente en un high dragon.&lt;BR&gt;&lt;BR&gt;Jelena ya parti&amp;#243; hacia la fortaleza. Cuando todo est&amp;#233; listo, vayamos juntos a la fortaleza.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;. Toma, es para ti.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; olor tan nauseabundo, &amp;#191;verdad? Sorprendentemente, el olor cambia una vez que te disfrazas.&lt;BR&gt;&lt;BR&gt;Usa esto y te convertir&amp;#225;s inmediatamente en un high dragon.&lt;BR&gt;&lt;BR&gt;Jelena ya parti&amp;#243; hacia la fortaleza. Cuando todo est&amp;#233; listo, vayamos juntos a la fortaleza.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2003" prevId="11" villagerId="120">
+        <Page social="0" voiceTypeId="0">&amp;#191;Qu&amp;#233; haces merodeando por aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Acaso no recibiste las instrucciones de Rukmia, la comandante en jefe?&lt;BR&gt;Dir&amp;#237;gete a la fortaleza y busca a los intrusos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2003" prevId="12" villagerId="110">
+        <Page social="4" voiceTypeId="0">Por aqu&amp;#237;. &amp;#161;Est&amp;#225;s ileso, menos mal!&lt;BR&gt;&lt;BR&gt;No esperaba que el disfraz de Revenj fuera tan eficaz.&lt;BR&gt;&lt;BR&gt;Exploremos un poco los alrededores.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">&amp;#191;Has visto a los perezosos? &amp;#191;Te gustan?&lt;BR&gt;&lt;BR&gt;&amp;#191;No? &amp;#191;Quieres... hacerte cargo de ellos?&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:71#3014#Arura}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">&amp;#161;Ey, ah&amp;#237; est&amp;#225; nuestro {@gender:valeureux/valeureuse} {@gender:h&amp;#233;ros/h&amp;#233;ro&amp;#239;ne}! Entonces, &amp;#191;tuviste tu dotaci&amp;#243;n de mordeduras de perezoso?&lt;BR&gt;&lt;BR&gt;&amp;#191;Y si restableces el equilibrio? &amp;#191;Conoces las frutas que tanto les gustan? Tr&amp;#225;eme la mayor cantidad posible.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es f&amp;#225;cil! &amp;#161;Solo tendr&amp;#225;s que sacudir algunos {@WorkObject:75}!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Buen trabajo. Pasemos a la tarea m&amp;#225;s divertida, que consiste en... &amp;#161;envenenarlos!&lt;BR&gt;&lt;BR&gt;&amp;#161;No te preocupes, aqu&amp;#237; solo los perezosos comen eso!&lt;BR&gt;&lt;BR&gt;Y yo, a veces.</Page>
+    </Text>
+</QuestDialog>

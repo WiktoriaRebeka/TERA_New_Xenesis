@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2504">
+        <Page social="4" voiceTypeId="0">Me llamo &amp;#201;lion.&lt;BR&gt;&lt;BR&gt;Thro y yo estamos ocupados deteniendo la invasi&amp;#243;n de Exodor.&lt;BR&gt;&lt;BR&gt;Necesitamos tu ayuda.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ayudaste a &amp;#201;lion a destruir Exodor.&lt;BR&gt;&lt;BR&gt;Sin embargo, nadie sabe d&amp;#243;nde habita el otro &amp;#201;lion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2504">
+        <Page social="4">Gracias.&lt;BR&gt;&lt;BR&gt;Sin ti, esto podr&amp;#237;a haber resultado peligroso.&lt;NEXTPAGEBUTTON&gt;"De nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Por cierto: mi otro yo era de tal fuerza que no estaba a su altura.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Debo redoblar mis esfuerzos en el entrenamiento.</Page>
+    </Text>
+</QuestDialog>

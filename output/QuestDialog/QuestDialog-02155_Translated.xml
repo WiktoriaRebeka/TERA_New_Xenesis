@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;Tengo un peque&amp;#241;o problema...&lt;BR&gt;&lt;BR&gt;&amp;#191;Aceptar&amp;#237;as ayudarme?&lt;NEXTPAGEBUTTON&gt;"Sí, te ayudaré."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sab&amp;#237;a que ibas a decir eso.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} sabe lo que necesitamos. Es mi experta en recolecci&amp;#243;n. &amp;#161;Vaya t&amp;#237;tulo, &amp;#191;verdad?!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">&quot;&amp;#191;Experta en recolecci&amp;#243;n?&quot; &amp;#191;Est&amp;#225;s bromeando? Te lo juro, hay que ver lo que hay que o&amp;#237;r.&lt;BR&gt;&lt;BR&gt;Como de costumbre, necesito materiales bastante raros. S&amp;#233; que lo lograr&amp;#225;s, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil conseguirlo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Lo s&amp;#233;, la fibra de luria no se encuentra en cualquier esquina.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">&amp;#161;Muy bien! &amp;#161;Ahora puedo tomar un descanso!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil de encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dale mis m&amp;#225;s sinceras gracias a {@linkcreature:63#3003#Elthienne}, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;El {@RawItem:206801} no fue f&amp;#225;cil de encontrar, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Mis disculpas.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil de encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dale mis m&amp;#225;s sinceras gracias a {@linkcreature:63#3003#Elthienne}, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;El {@RawItem:206802} no fue f&amp;#225;cil de encontrar, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Mis disculpas.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil de encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dale mis m&amp;#225;s sinceras gracias a {@linkcreature:63#3003#Elthienne}, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;El {@RawItem:206803} no fue f&amp;#225;cil de encontrar, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Mis disculpas.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil de encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dale mis m&amp;#225;s sinceras gracias a {@linkcreature:63#3003#Elthienne}, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;La {@RawItem:206804} no fue f&amp;#225;cil de encontrar, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Mis disculpas.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Incre&amp;#237;ble! Seguro que no fue f&amp;#225;cil de encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dale mis m&amp;#225;s sinceras gracias a {@linkcreature:63#3003#Elthienne}, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;La {@RawItem:206805} no fue f&amp;#225;cil de encontrar, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Mis disculpas.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">&amp;#161;Gracias por tu ayuda con esta dif&amp;#237;cil tarea!&lt;BR&gt;Has hecho un excelente trabajo, &lt;PCNAME&gt;.&lt;BR&gt;Mucho mejor de lo que esperaba.&lt;BR&gt;La pr&amp;#243;xima vez que necesite ayuda, recurrir&amp;#233; a ti.</Page>
+    </Text>
+</QuestDialog>

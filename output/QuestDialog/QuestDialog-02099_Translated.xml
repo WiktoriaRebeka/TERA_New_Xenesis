@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3004#Arkant}, de {@Rgn:46017$$Chambre de la Lueur d'Ombre} en la regi&amp;#243;n de Tres Torres, nos pidi&amp;#243; ayuda.&lt;BR&gt;&lt;BR&gt;Tres Torres es donde se esconden las respuestas del misterio argon. Debemos tener &amp;#233;xito en esta misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="4">&amp;#161;Oh, gracias Velik&amp;nbsp;! &amp;#161;La ayuda de un soldado siempre ser&amp;#225; bienvenida!&lt;BR&gt;&lt;BR&gt;Primero, los {@LinkCreature:46#401#seigneurs de guerre ossugons argonomorphes} se acercan peligrosamente a nosotros. Tener como vecinos a argons zombis, gracias, pero paso.&lt;BR&gt;&lt;BR&gt;Luego, los {@LinkCreature:46#403#iskaragards argonomorphes} nos interrumpen constantemente en nuestras investigaciones. No los queremos m&amp;#225;s molestando.{@LinkCreature:46#403#iskaragards argonomorphes}&lt;BR&gt;Por &amp;#250;ltimo, nos gustar&amp;#237;a que destruyeras a los {@LinkCreature:246#3011#amplificateurs symbraux}.&lt;BR&gt;&lt;BR&gt;Estos objetivos son blancos prioritarios, pero el orden de eliminaci&amp;#243;n depende solo de ti. Rompen filas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="4">Tu altruismo exacerbado es la perfecta ilustraci&amp;#243;n de los valores de la Federaci&amp;#243;n tal como los imagino.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;. No lo olvidaremos pronto.</Page>
+    </Text>
+</QuestDialog>

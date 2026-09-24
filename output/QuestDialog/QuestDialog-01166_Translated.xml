@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="4">Tenemos dos problemas principales, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Primero, los &amp;#250;ltimos argons en la regi&amp;#243;n de Raga Kabash. Parece que se dirigen hacia el sur, hacia una especie de sala de transmisi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Segundo, necesito piezas de una {@Creature:46#7005#aiguille grellok}. Para la investigaci&amp;#243;n, ya sabes...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1102">
+        <Page social="5">Gracias. La aguja grellok es interesante, pero... &amp;#191;sabes a qui&amp;#233;n le interesar&amp;#237;a a&amp;#250;n m&amp;#225;s? Rhentar, que trabaja en la C&amp;#225;mara del Coraz&amp;#243;n. Esto encajar&amp;#237;a perfectamente en la l&amp;#237;nea de sus investigaciones.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1028">
+        <Page social="0">&amp;#191;Dices que esto viene de una aguja grellok? No logr&amp;#233; acercarme a ninguna... Recu&amp;#233;rdame agradecerle a Nevian si es que alg&amp;#250;n d&amp;#237;a salgo de esta c&amp;#225;mara.</Page>
+    </Text>
+</QuestDialog>

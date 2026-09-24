@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="5">No tienes cara de... preocuparte por problemas morales. &amp;#191;Te apetece ganar un buen paquete de oro?&lt;BR&gt;&lt;BR&gt;Los kumas llevan un collar adornado con un cristal enorme. Tengo arcanistas que quieren uno y est&amp;#225;n dispuestos a pagar un mont&amp;#243;n de piezas de oro. Si matas un {@LinkCreature:24#9#kumas de foudre du d&amp;#233;sert} y me traes el cristal, ser&amp;#233; muy generoso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1021">
+        <Page social="5">&amp;#161;Qu&amp;#233; piedra! &amp;#161;Es un placer hacer negocios contigo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1021">
+        <Page social="0">Vamos, &amp;#191;no me vas a decir que no fuiste capaz de encontrar un kumas del tama&amp;#241;o de una casa? &amp;#161;Date prisa en traerme ese collar!</Page>
+    </Text>
+</QuestDialog>

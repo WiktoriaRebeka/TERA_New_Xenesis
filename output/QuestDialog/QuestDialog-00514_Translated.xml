@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Una de nuestras arque&amp;#243;logos... si es que se puede llamar a su m&amp;#233;todo &quot;arqueolog&amp;#237;a&quot;... se ha vuelto a esfumar. Nema es una temeraria. Seguro que se ha vuelto a meter en problemas y no tengo tiempo para ocuparme de eso.&lt;BR&gt;&lt;BR&gt;Ve a preguntarle a {@LinkCreature:218#1022$$Mirak} si la mand&amp;#243; a alguna parte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">&amp;#191;{@LinkCreature:218#1007#Nema}? S&amp;#237;, la conozco, y cr&amp;#233;eme, me arrepiento.&lt;BR&gt;&lt;BR&gt;Pero... No, no est&amp;#225; por aqu&amp;#237;. Se ha vuelto a escapar a escondidas a pesar de mis repetidas advertencias. Un d&amp;#237;a, si no se la come una bestia salvaje, ser&amp;#233; yo quien acabe estrangul&amp;#225;ndola.&lt;NEXTPAGEBUTTON&gt;"¿Dónde puede estar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Creo que debe de estar en el Templo de Tithus. Se va corriendo para all&amp;#225; en cuanto le damos la espalda. &amp;#161;Tres cosas en este mundo me horripilan por completo: los cultistas, los escorpiones y la curiosidad de Nema!&lt;BR&gt;&lt;BR&gt;Si quieres encontrarla, s&amp;#225;cate lascas t&amp;#250; mismo. Ya estoy harto de lidiar con ella.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1007">
+        <Page social="4">&amp;#191;Mirak se ha portado mal? Qu&amp;#233; sorpresa... Bueno, es verdad que tal vez fui un poco molesto.&lt;BR&gt;&lt;BR&gt;&amp;#161;Aun as&amp;#237;, no entiendo por qu&amp;#233; espera que me quede en el campamento cuando puedo estudiar en un lugar as&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

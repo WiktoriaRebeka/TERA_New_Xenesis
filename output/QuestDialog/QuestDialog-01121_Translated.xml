@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">La naga llamada {@LinkCreature:42#5006#Maelsaress} es la oficial de mayor rango de Dagon. Tiene un libro: Los Hechos de Dagon.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, no sabr&amp;#237;a decirte cu&amp;#225;n esencial es este libro para nosotros si queremos vencer a los nagas y encontrar su tesoro. Eres nuestra mejor oportunidad para lograrlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">Vencer a Maelsaress fue lo mejor que pudiste hacer, aparte de matar al propio Dagon. Todas las haza&amp;#241;as que has logrado aqu&amp;#237; nos impresionan a todos.&lt;BR&gt;&lt;BR&gt;Entre t&amp;#250; y yo, creo que llegar&amp;#225;s lejos en la Federaci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Al matar a {@LinkCreature:42#5006#Maelsaress}, le dar&amp;#237;amos un golpe decisivo a los nagas. Pero es mejor actuar con rapidez.</Page>
+    </Text>
+</QuestDialog>

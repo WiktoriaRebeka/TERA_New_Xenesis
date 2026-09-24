@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="4">No s&amp;#233; qu&amp;#233; est&amp;#225; pasando. Los devoratripas y sus aliados nunca hab&amp;#237;an sido tan agresivos. Bueno... nunca hemos sido precisamente buenos amigos, pero las cosas han cambiado.&lt;BR&gt;&lt;BR&gt;Y no para bien... No podemos darnos el lujo de quedarnos de brazos cruzados esperando a que nos maten. Debemos reaccionar.&lt;BR&gt;&lt;BR&gt;L&amp;#237;brennos de los {@LinkCreature:18#1#rosseurs} y los {@LinkCreature:18#2#shamans} del desierto de fuego. Cuando termine, hable con {@LinkCreature:218#1003#Kardelen}, en el Campamento de Marrakeen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">&amp;#191;Termin&amp;#243; con los devoratripas? &amp;#161;Buenas noticias...! &amp;#161;Necesitaba descansar!&lt;BR&gt;&lt;BR&gt;Recuerdo los tiempos en que me quejaba de la falta de acci&amp;#243;n. Siempre hay que pensar dos veces antes de hablar, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

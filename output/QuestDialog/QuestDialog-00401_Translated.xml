@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">La caja que falta contiene piedras de reliquia. Eria, el hijo de Elinu, afirma que las piedras son particularmente sensibles a los guardianes de esta isla y permiten a los soldados del Valle maldito una mayor libertad de movimiento. Debe de ser lo que los {@LinkCreature:13#901#gardiens orkans} buscaban en la aeronave, &amp;#191;pero por qu&amp;#233; motivo?&lt;BR&gt;&lt;BR&gt;Tenemos que recuperar estos objetos a toda costa. No dude en usar la fuerza contra los orkans. &amp;#161;No dudar&amp;#225;n en ser violentos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">Estos objetos nos han causado muchos dolores de cabeza. Le estoy muy agradecido.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Cada hora que pasa aumenta el riesgo de que las &lt;font color='#660000'&gt;piedras de reliquia&lt;/font&gt; queden totalmente da&amp;#241;adas por los {@LinkCreature:13#901#gardiens orkans}. Todos los que luchan por nuestra causa en el Valle maldito corren peligro. &amp;#161;P&amp;#243;ngase manos a la obra r&amp;#225;pidamente!</Page>
+    </Text>
+</QuestDialog>

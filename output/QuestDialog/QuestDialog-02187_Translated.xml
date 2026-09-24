@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">&amp;#161;La ingenier&amp;#237;a mec&amp;#225;nica es el camino del futuro!&lt;BR&gt;La Academia de magia conserva varias obras sobre esta disciplina. &amp;#161;Ve a consultarlas para aprobar el examen con &amp;#233;xito!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1710">
+        <Page social="4">La ingenier&amp;#237;a mec&amp;#225;nica incluye entre otras &lt;font color='#0000FF'&gt;la mec&amp;#225;nica de materiales&lt;/font&gt; que explica la solidez y la transformaci&amp;#243;n de los materiales. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;La cinetof&amp;#237;sica explica &lt;font color='#0000FF'&gt;la velocidad, la aceleraci&amp;#243;n y las vibraciones&lt;/font&gt; causadas por fuerzas o movimientos externos. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;La &lt;font color='#0000FF'&gt;teor&amp;#237;a de la mec&amp;#225;nica&lt;/font&gt; explica por su parte las interacciones entre los componentes mec&amp;#225;nicos. (Detalles omitidos.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">&amp;#191;Has aprendido bien tu lecci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;Entonces que comience una peque&amp;#241;a prueba.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#191;Qu&amp;#233; ciencia explica la solidez y la transformaci&amp;#243;n de los materiales?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#161;Est&amp;#225;s diciendo cualquier tonter&amp;#237;a!&lt;NEXTPAGEBUTTON&gt;"¿Ah? ¿Eso significa que no acerté entonces?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">No, la cinetof&amp;#237;sica explica la din&amp;#225;mica causada por fuerzas o movimientos externos.&lt;NEXTPAGEBUTTON&gt;"Es difícil no confundirlas también..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#161;Falso! Incluso te di una pista: la palabra &quot;materiales&quot;.&lt;NEXTPAGEBUTTON&gt;"Debería haber repasado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Correcto. Has hecho bien tus deberes. Ah, si todos los alumnos fueran como t&amp;#250;...&lt;NEXTPAGEBUTTON&gt;"¿Respondí bien entonces?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">S&amp;#237;, tienes facilidad para la cinetof&amp;#237;sica.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#191;Cu&amp;#225;l es el nombre de la ciencia que explica las interacciones entre los componentes mec&amp;#225;nicos?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#191;Eso que me dices es el nombre de una ciencia? &amp;#161;No te burles de m&amp;#237;!&lt;NEXTPAGEBUTTON&gt;"No retuve bien ciertos detalles."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#161;Bien hecho, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"Estas preguntas no son tan difíciles después de todo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, cr&amp;#233;eme, de todas formas me ha tocado escuchar algunas tonter&amp;#237;as.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">La aceleraci&amp;#243;n es un tipo de movimiento, es verdad, pero te estaba preguntando por la gran teor&amp;#237;a que engloba todo.&lt;NEXTPAGEBUTTON&gt;"¿Y la respuesta está en el libro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Diste... suspenso... &amp;#161;una... mala respuesta!&lt;NEXTPAGEBUTTON&gt;"¿Puedo intentar de nuevo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Existen tres elementos de la cinetof&amp;#237;sica que son causados por fuerzas y movimientos externos. &amp;#191;Cu&amp;#225;les son?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Ah, solo tienes dos de tres.&lt;NEXTPAGEBUTTON&gt;"Tenía el último en la punta de la lengua."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#191;Psicokinesis? Eh, te detengo ah&amp;#237;. Est&amp;#225;s delirando por completo.&lt;NEXTPAGEBUTTON&gt;"¿Tal vez no leí el libro correcto...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#161;Pero si lo sabes todo!&lt;NEXTPAGEBUTTON&gt;"¿Eso significa que lo logré?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Facil&amp;#237;simo! La kinetof&amp;#237;sica ya no tiene secretos para ti.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">&amp;#161;Falso! &amp;#191;Le&amp;#237;ste eso en el libro?&lt;NEXTPAGEBUTTON&gt;"Eh... supongo que no."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Regresa a la Academia de magia y abre el libro esta vez.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1704">
+        <Page social="4">La ingenier&amp;#237;a mec&amp;#225;nica es la base de la teor&amp;#237;a unificada. Estudia bien esta materia y te convertir&amp;#225;s en un gran te&amp;#243;rico.</Page>
+    </Text>
+</QuestDialog>

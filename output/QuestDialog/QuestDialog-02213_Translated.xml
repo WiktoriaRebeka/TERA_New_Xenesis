@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&amp;#191;Conoces a Dirken? Tiene muchos botes en este puerto.&lt;BR&gt;&amp;#161;Y ahora nos reclama una tarifa por la explotaci&amp;#243;n del sitio de pesca! &amp;#161;Qu&amp;#233; descaro!&lt;BR&gt;&lt;BR&gt;&amp;#161;No tengo ninguna gana de ceder ante los caprichos de semejante sujeto! &amp;#191;Podr&amp;#237;as ir a verlo para hablar con &amp;#233;l?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Detuviste a los piratas junto con Dirken de Cutthroat Harbor. Usaste las plantas ilusorias recolectadas para atraer a los piratas con peces abisales. Despu&amp;#233;s de eso, les diste una buena lecci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="1024">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233; ocurre? &amp;#191;T&amp;#250; tambi&amp;#233;n eres pescador? &amp;#191;Se trata de nuevo de la tarifa?&lt;BR&gt;&lt;BR&gt;Para pescar, debemos preparar nuestros barcos y lanzarnos al mar, &amp;#191;y ustedes solo quieren lanzar sus l&amp;#237;neas en el puerto? &amp;#161;P&amp;#243;nganse en mi lugar!&lt;NEXTPAGEBUTTON&gt;"¿Qué es lo que exige, entonces?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Mmm... Hace alg&amp;#250;n tiempo cay&amp;#243; en mis manos la receta del pescado estofado.&lt;BR&gt;Pero no conozco a ning&amp;#250;n pescador capaz de prepararlo.&lt;BR&gt;Si te doy la receta, &amp;#191;me traer&amp;#237;as pescado estofado?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4" voiceTypeId="0">No pens&amp;#233; que lo lograr&amp;#237;as. &amp;#161;Gracias!&lt;BR&gt;&amp;#191;Me dejas probarlo ahora mismo?&lt;NEXTPAGEBUTTON&gt;"Con muchísimo gusto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">&amp;#161;Qu&amp;#233; rico! &amp;#161;Ese aroma a aceitunas y ese filete de pescado que se deshace en la boca! &amp;#161;Qu&amp;#233; delicia! No hay nada m&amp;#225;s divino.&lt;BR&gt;&amp;#191;El impuesto de pesca? Hay una explicaci&amp;#243;n para eso.&lt;BR&gt;Y, como era de esperarse, los piratas est&amp;#225;n detr&amp;#225;s de todo esto. Ellos mismos parecen peces y en cuanto ven uno, quieren apropiarse de todo.&lt;BR&gt;Y nosotros tampoco estamos mucho mejor.&lt;NEXTPAGEBUTTON&gt;"Cuéntame más al respecto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Tambi&amp;#233;n nos hacen la vida imposible. &lt;BR&gt;Si quieres solucionarlo, tendremos que cooperar. &lt;BR&gt;&amp;#191;Quieres ayudarme a darle una lecci&amp;#243;n a los piratas?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" villagerId="1024">
+        <Page social="0">&amp;#191;Tienes el pescado al vapor? Mmm...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1024">
+        <Page social="1" voiceTypeId="0">S&amp;#233; c&amp;#243;mo dejarles bien claro qui&amp;#233;n manda aqu&amp;#237;.&lt;BR&gt;Pero para eso, necesito un pescador capaz, como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;Siguiendo la costa hacia el sur desde el Port Coupe-gorge, te encontrar&amp;#225;s con el Camp des patrouilleurs de la jungle, a tu derecha.&lt;BR&gt;All&amp;#237; encontrar&amp;#225;s un viejo bote.&lt;BR&gt;Consigue las plantas ilusorias que crecen bajo el bote.&lt;BR&gt;Pero ten cuidado de no caer en las ilusiones.&lt;BR&gt;Debes recolectar los p&amp;#233;talos cuidadosamente uno por uno.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1024">
+        <Page social="4" voiceTypeId="0">No has tardado nada en conseguir las plantas ilusorias.&lt;BR&gt;&amp;#218;salas como carnada en el Port Coupe-gorge.&lt;BR&gt;Es la &amp;#250;nica manera de capturar peces abisales.&lt;BR&gt;Su hedor es tal que la gente com&amp;#250;n apenas lo soporta. Pero los piratas del Fouet rouge las adoran.&lt;BR&gt;Tres peces abisales deber&amp;#237;an bastar para atraerlos.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" villagerId="1024">
+        <Page social="0">&amp;#191;Has examinado las plantas ilusorias?&lt;BR&gt;Debes traerme 3 p&amp;#233;talos si planeas ayudarme.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1024">
+        <Page social="4" voiceTypeId="0">&amp;#161;Buen trabajo! Su olor es verdaderamente abominable.&lt;BR&gt;Y ahora, los usaremos para atraer a los piratas.&lt;BR&gt;De hecho, mientras sigan escondidos en la Grotte des pirates, son intocables.&lt;BR&gt;Pero son tan aficionados a los peces abisales que se lanzar&amp;#225;n con alegr&amp;#237;a a la boca del lobo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ve a ver a mi asistente {@linkcreature:62#1043#Zaira}.&lt;BR&gt;Ha preparado un altar.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" villagerId="1024">
+        <Page social="0">&amp;#191;Has capturado los peces abisales?&lt;BR&gt;Si perdiste los p&amp;#233;talos en el camino, debes ir a buscar otros.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para ir al altar, al sur del puerto?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="0" voiceTypeId="0">S&amp;#237;gueme por la costa hacia el sur.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="62" prevId="11" villagerId="1043">
+        <Page social="1" voiceTypeId="0">&amp;#161;Perfecto!&lt;BR&gt;He preparado un altar. Extiende all&amp;#237; los peces abisales para que su hedor se esparza por todas partes.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="62" prevId="13" villagerId="1043">
+        <Page social="1" voiceTypeId="0">&amp;#161;Puaj! &amp;#161;De verdad venciste a los piratas! Ve r&amp;#225;pido a ver a mi jefe.&lt;BR&gt;Yo tengo que ordenar todo esto.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="62" prevId="14" villagerId="1024">
+        <Page social="1" voiceTypeId="0">&amp;#161;Le has dado una buena lecci&amp;#243;n a los piratas!&lt;BR&gt;A partir de ahora, no osar&amp;#225;n volver a mostrarse en el puerto. Eres incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;Me pondr&amp;#233; en contacto de inmediato con la federaci&amp;#243;n de pesca. &lt;BR&gt;Despu&amp;#233;s de todo, estamos todos en el mismo barco. &amp;#161;Jaja!</Page>
+    </Text>
+</QuestDialog>

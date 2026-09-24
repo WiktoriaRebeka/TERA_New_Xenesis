@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="5">Hay noticias para ti, &lt;PCNAME&gt;. El c&amp;#243;nsul Dougal te pide que regreses a Velika lo antes posible.&lt;BR&gt;&lt;BR&gt;Se trata de refuerzos para nuestras tropas en el frente interior. Deber&amp;#237;as ponerte en marcha.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Gracias por hacer el viaje, &lt;PCNAME&gt;. Ser&amp;#233; breve... la participaci&amp;#243;n en el esfuerzo de guerra afecta terriblemente la calidad de vida de los pueblos de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esta &amp;#250;ltima hace un llamado hoy a ti y a otros agentes para ayudar a los magistrados, recuperar bienes de primera necesidad y aliviar el sufrimiento de la poblaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante el magistrado Arn en Boquillon. Debemos demostrarle a la poblaci&amp;#243;n que nos preocupamos tanto por ella como por los argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1013">
+        <Page social="9">Lo que la naturaleza nos ofrece, el enemigo nos lo roba. Nuestros recursos se agotan.&lt;BR&gt;&lt;BR&gt;Necesitamos ante todo un {@RawItem:206802}, un {@RawItem:206805} y un {@RawItem:206809}. Sin estos recursos, es dif&amp;#237;cil sobrevivir por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as consegu&amp;#237;rnoslos lo antes posible?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="4" villagerId="1013">
+        <Page social="8">&amp;#161;Esto deber&amp;#237;a ayudarnos&amp;nbsp;! Podremos reparar nuestras herramientas, cuidar nuestras tierras y curar nuestras heridas. Muchas gracias.&lt;NEXTPAGEBUTTON&gt;"El placer fue mío."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Eres demasiado modesto. El magistrado Bisi seguramente pensar&amp;#225; lo mismo cuando te conozca. Se encuentra en Popolion, y la situaci&amp;#243;n de la poblaci&amp;#243;n local no tiene nada que envidiarle a la de la nuestra antes de que intervinieras.&lt;BR&gt;&lt;BR&gt;Que Velik te bendiga.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" villagerId="1013">
+        <Page social="0">Los tiempos son dif&amp;#237;ciles para todos. Todo lo que pedimos es un poco de ayuda para solucionar los problemas m&amp;#225;s urgentes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1015">
+        <Page social="9">S&amp;#237;, Boquillon carece de materias primas.&lt;BR&gt;&lt;BR&gt;A ver... &amp;#191;Puedes conseguirnos un {@RawItem:206801}, un {@RawItem:206803} y un {@RawItem:206809}? No es una tarea muy gratificante, pero ser&amp;#237;as de una ayuda inestimable para nosotros.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="7" villagerId="1015">
+        <Page social="13">&amp;#161;Much&amp;#237;simas gracias&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;La naturaleza sabe mostrarse generosa... &amp;#161;cuando &lt;PCNAME&gt; est&amp;#225; ah&amp;#237; para echarle una mano&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"Es mi trabajo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">&amp;#161;Jam&amp;#225;s olvidaremos lo que hiciste por nosotros&amp;nbsp;! &amp;#161;Jam&amp;#225;s&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Por lo dem&amp;#225;s, hemos recibido &amp;#243;rdenes dirigidas a ti. Parece que tendr&amp;#225;s que ir a Tulufan. Te necesitan all&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Que Seren te bendiga&amp;nbsp;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" villagerId="1015">
+        <Page social="0">Encontrar&amp;#225;s todo lo que te ped&amp;#237; en los campos de Popolion. Ir&amp;#237;a yo mismo... pero con estos monstruos...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="8" villagerId="1009">
+        <Page social="5">&amp;#161;Ya era hora!&lt;BR&gt;&lt;BR&gt;He enviado tantos mensajes a Velika que seguro terminar&amp;#225;n poniendo mi nombre en una secci&amp;#243;n de los archivos.&lt;BR&gt;&lt;BR&gt;Nuestras reservas han sido saqueadas &amp;#250;ltimamente. Los habitantes de Tulufan se las arreglan como pueden... siempre y cuando nuestros inventarios se mantengan abastecidos de {@RawItem:206810}, {@RawItem:206819} y {@RawItem:206821}.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podemos contar con tu ayuda?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="66" prevId="10" villagerId="1009">
+        <Page social="8">Nada mal... nada mal del todo.&lt;BR&gt;&lt;BR&gt;Si hubi&amp;#233;ramos sabido que la F&amp;#233;d&amp;#233;ration iba a abandonarnos, nunca habr&amp;#237;amos aceptado unirnos a ella.&lt;NEXTPAGEBUTTON&gt;"Estamos todos en el mismo barco."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hmpff... tal vez.&lt;BR&gt;&lt;BR&gt;El c&amp;#243;nsul Dougal dice que ahora tendr&amp;#225;s que ir a Tria, en el sur de Shara.&lt;BR&gt;&lt;BR&gt;Que la bendici&amp;#243;n de Kaia te acompa&amp;#241;e, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Bueno, supongo que tendremos que arregl&amp;#225;rnoslas con arena. En cuanto a utilidad, no hay nada mejor, &amp;#191;verdad? &amp;#161;Es imposible hacer ropa o armas con ella, pero podremos usarla como polvos picantes contra el enemigo!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="11" villagerId="1011">
+        <Page social="5">Toda ayuda es bienvenida.&lt;BR&gt;&lt;BR&gt;Las reservas de Tria est&amp;#225;n por los suelos. Necesitamos ante todo un {@RawItem:206802}, un {@RawItem:206803} y un {@RawItem:206807}.&lt;BR&gt;&lt;BR&gt;Sin la ayuda de la F&amp;#233;d&amp;#233;ration, no saldremos adelante. &amp;#161;T&amp;#250; que has recorrido todo Arun, ay&amp;#250;danos!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1011">
+        <Page social="5">Esto servir&amp;#225; a la perfecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;La poblaci&amp;#243;n de Tria recuperar&amp;#225; la esperanza. Te agradecemos infinitamente.&lt;NEXTPAGEBUTTON&gt;"Fue un placer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">El prefecto Lauma, de Frontera, espera poder aprovechar la ayuda de la F&amp;#233;d&amp;#233;ration al igual que nosotros. &amp;#161;Buen viaje!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" villagerId="1011">
+        <Page social="0">Somos conscientes de que te pedimos mucho, pero no nos quedan opciones. Por favor, ay&amp;#250;danos.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="75" prevId="14" villagerId="1007">
+        <Page social="5">&amp;#161;El exarca Dougal nos habl&amp;#243; sobre la iniciativa de la F&amp;#233;d&amp;#233;ration para ayudar a los campamentos de la regi&amp;#243;n. Y necesitamos esa ayuda de inmediato!&lt;BR&gt;&lt;BR&gt;Nos faltan los siguientes recursos: {@RawItem:206804}, {@RawItem:206805} y {@RawItem:206808}.&lt;BR&gt;&lt;BR&gt;Nos har&amp;#237;as un gran favor ayud&amp;#225;ndonos a reponer nuestras reservas.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="75" prevId="16" villagerId="1007">
+        <Page social="5">Se nota que Dougal sabe rodearse bien. Te estamos agradecidos por tu ayuda y nos aseguraremos de hacer un buen uso de estos recursos.&lt;BR&gt;&lt;BR&gt;Dougal ha enviado una orden pidi&amp;#233;ndote que regreses a Velika. Adi&amp;#243;s, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="75" villagerId="1007">
+        <Page social="0">Debemos conseguir materias primas para garantizar la calidad de vida y la productividad de Frontera.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="1160">
+        <Page social="5">Me han hablado muy bien de ti. Incluso Turrek parece estar de mejor humor ahora.&lt;BR&gt;&lt;BR&gt;Por supuesto, no se trataba de desbaratar una gran conspiraci&amp;#243;n ni de enfrentar a una criatura legendaria, pero la simple devoci&amp;#243;n hacia los dem&amp;#225;s es uno de los valores m&amp;#225;s sagrados de la F&amp;#233;d&amp;#233;ration. Has hecho un buen trabajo, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+</QuestDialog>

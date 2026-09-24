@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">Es un placer verte de nuevo, &lt;PCNAME&gt;. {@LinkCreature:250#1013} tambi&amp;#233;n est&amp;#225; con nosotros.&lt;BR&gt;&lt;BR&gt;A&amp;#250;n sigue sumergida en sus investigaciones. De hecho, la escuch&amp;#233; hablar de pedir tu ayuda. &amp;#191;Por qu&amp;#233; no vas a hablar con ella?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1013">
+        <Page social="6">La &amp;#250;ltima vez, fuiste de una ayuda inestimable para m&amp;#237; &lt;PCNAME&gt;. &amp;#191;Te apetecer&amp;#237;a repetir la haza&amp;#241;a?&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves esas grandes... ra&amp;#237;ces? Claramente tienen algo de argon, pero debo aprender m&amp;#225;s sobre su naturaleza.&lt;NEXTPAGEBUTTON&gt;"¿En qué puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Podr&amp;#237;as traerme una muestra?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1013">
+        <Page social="6">Es justo lo que tem&amp;#237;a. Esta aleaci&amp;#243;n contiene una buena dosis de fragmentos de iteris.&lt;BR&gt;&lt;BR&gt;No te molestes en preguntarnos por qu&amp;#233; es tan dif&amp;#237;cil encontrar fragmentos de iteris... &amp;#161;Los argons est&amp;#225;n arrasando con todo!</Page>
+    </Text>
+</QuestDialog>

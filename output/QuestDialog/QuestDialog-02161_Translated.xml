@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#161;Oye! &amp;#191;Quieres probar algo diferente hoy? &amp;#161;{@LinkCreature:63#3003#Elthienne} no deja de pedirme que vaya a cazar gibas, pero bueno, a m&amp;#237; me encantan las grandes ciudades! No me interesa, adem&amp;#225;s es asqueroso.&lt;BR&gt;&lt;BR&gt;Pero pongo las manos en el fuego a que este tipo de misi&amp;#243;n te encantar&amp;#237;a. Ve a hablar con {@LinkCreature:63#3003#Elthienne}, ella te dar&amp;#225; todos los detalles m&amp;#225;s jugosos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#191;C&amp;#243;mo que no le gusta cazar gibas? &amp;#161;Vaya castanic! Qu&amp;#233; clase de p&amp;#225;jaro raro.&lt;BR&gt;&lt;BR&gt;Bueno, s&amp;#233; que no te andas con chiquitas. Me gustar&amp;#237;a que fueras a cazar para los Mains. Tendr&amp;#225;s que viajar, matar algunos nagas y traer algunas partes de sus cuerpos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Ay, caramba! Piel fresca, garras y huesos... &amp;#161;Puaj!&lt;BR&gt;&lt;BR&gt;&amp;#191;Has paseado todo eso en tu bolsa durante todo el viaje y no has vomitado?&lt;BR&gt;&lt;BR&gt;&amp;#191;Te has lavado las manos al menos? {@LinkCreature:63#3003#Elthienne} te espera para entregarte tu pago.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Necesitamos caparazones, huesos y garras de nagas. No me preguntes por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#8#ma&amp;#238;tres de combat naga} en la {@Rgn:10001#Ile Serpentis} y tr&amp;#225;eme algunas partes de sus cuerpos. Los Mains sabr&amp;#225;n qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Puaj. &amp;#161;Quiero decir, gracias!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} te compensar&amp;#225; por tus esfuerzos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Necesitamos caparazones, huesos y garras de nagas. No me preguntes por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#16#chevauche-griffus nagas} en la {@Rgn:10001#Ile Serpentis} y tr&amp;#225;eme algunas partes de sus cuerpos. Los Mains sabr&amp;#225;n qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">&amp;#191;Qu&amp;#233; es este olor? Apuesto a que {@LinkCreature:63#3003#Elthienne} te pidi&amp;#243; que trajeras esto aqu&amp;#237; solo para castigarme.&lt;BR&gt;&lt;BR&gt;Ve a ver a esa vieja bruja si quieres que te paguen.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Necesitamos caparazones, huesos y garras de nagas. No me preguntes por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#17#ma&amp;#238;tres-griffus nagas} en la {@Rgn:10001#Ile Serpentis} y tr&amp;#225;eme algunas partes de sus cuerpos. Los Mains sabr&amp;#225;n qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Uf, qu&amp;#233; asco. Al menos no huele a nada... por ahora.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene con qu&amp;#233; pagarte.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Necesitamos caparazones, huesos y garras de naga. No me pregunten por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Caza {@LinkCreature:10#18#l&amp;#233;viathans nagas} en {@Rgn:10001#Ile Serpentis} y tr&amp;#225;enos algunas partes de sus cuerpos. Las Manos sabr&amp;#225;n qu&amp;#233; hacer con ellas.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;, eres incre&amp;#237;ble!</Page>
+    </Text>
+</QuestDialog>

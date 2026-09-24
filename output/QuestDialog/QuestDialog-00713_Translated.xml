@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0">Los cultistas han invocado demonios provenientes de lo m&amp;#225;s profundo de los infiernos. Estos &amp;#250;ltimos se preparan para abandonar la catedral. Si lo logran, todos nuestros esfuerzos se reducir&amp;#225;n a nada. Elimina a los &lt;BR&gt;&lt;BR&gt;{@LinkCreature:25#2051#fimbrilisks cruels}. No intentes combatirlo en solitario... busca camaradas que te apoyen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">&amp;#161;Bien hecho! Los cultistas siguen siendo extremadamente numerosos, pero es un buen comienzo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Elimina a los fimbrilisks crueles y tr&amp;#225;eme sus n&amp;#250;cleos.</Page>
+    </Text>
+</QuestDialog>

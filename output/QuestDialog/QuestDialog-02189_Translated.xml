@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">Estoy buscando un componente para este aparato, un peque&amp;#241;o engranaje. Y cuando digo &quot;peque&amp;#241;o&quot;, no estoy bromeando. Es tan peque&amp;#241;o que ning&amp;#250;n artesano com&amp;#250;n puede fabricarlo.&lt;BR&gt;&lt;BR&gt;Solo hay un lugar en el mundo donde se puede alcanzar ese nivel de detalle: Lilipart, en el Reino de los Enanos.&lt;BR&gt;&lt;BR&gt;Si logras vencer a los guardianes del bosque en Lilipart y consigues hablar con el jefe de la aldea, te dar&amp;#225; un peque&amp;#241;o engranaje. &amp;#191;Podr&amp;#237;as tra&amp;#233;rmelo, por favor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="445" prevId="2" villagerId="122">
+        <Page social="4">Gracias, &lt;PCCLASS:lcase&gt;, nos has librado de los guardianes del bosque. Toma, qu&amp;#233;date con este peque&amp;#241;o engranaje. Y si alguna vez regresas a nuestro reino, no dudes en ayudar a los habitantes de por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">&amp;#161;Eso es! &amp;#161;Perfecto!&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes? &amp;#161;Si tuviera otros peque&amp;#241;os engranajes, podr&amp;#237;a miniaturizar cualquier cosa! &amp;#161;Mis inventos ser&amp;#237;an los m&amp;#225;s peque&amp;#241;os del mundo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1704">
+        <Page social="0">Necesitar&amp;#237;a un peque&amp;#241;o engranaje. Tr&amp;#225;eme uno de la estancia de los Enanos.</Page>
+    </Text>
+</QuestDialog>

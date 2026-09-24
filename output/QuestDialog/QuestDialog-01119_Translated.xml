@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">&amp;#191;Te cansaste de matar mekonaris? Yo tampoco. En el tercer piso hay de sobra para entretenerse.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo contar contigo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="5">&amp;#161;Lo tienes todo para ser una fiera, &lt;PCNAME&gt;! &amp;#161;{@gender:Un pr&amp;#233;dateur/Une pr&amp;#233;datrice} definitivo! No te relajes, l&amp;#237;mpiame todo este maldito templo.</Page>
+    </Text>
+</QuestDialog>

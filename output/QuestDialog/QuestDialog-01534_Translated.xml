@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">&quot;M&amp;#225;s vale prevenir que lamentar&quot;. Ese es mi lema... bueno, lo ser&amp;#237;a si tuviera uno.&lt;BR&gt;&lt;BR&gt;Si las cosas salen, digamos... mal... con tu nuevo amigo leopardo, quiero tener un anest&amp;#233;sico a la mano. Necesitamos algo eficaz.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Ah, s&amp;#237;... un elixir morpheutic. Servir&amp;#225; a la perfecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;El objetivo no es hacerle da&amp;#241;o al animal... solo evitar que te devore.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Personalmente, no ir&amp;#237;a a molestar a un bicho de ese tama&amp;#241;o sin tener elixir a la mano.</Page>
+    </Text>
+</QuestDialog>

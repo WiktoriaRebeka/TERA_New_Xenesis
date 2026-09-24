@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="5">&amp;#161;Uf! Me pas&amp;#233; el d&amp;#237;a preparando planes de evacuaci&amp;#243;n. Ya ni tengo tiempo de hacer mi trabajo correctamente.&lt;BR&gt;&lt;BR&gt;Hoy no pude atender la petici&amp;#243;n de... &amp;#191;Gumbi, eh... Gamilon? En fin, el novato que trabaja en la puerta norte.&lt;BR&gt;&lt;BR&gt;Parec&amp;#237;a bastante urgente. &amp;#191;Podr&amp;#237;as ayudarle a un viejo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="5">Gracias por hacer el viaje. &amp;#161;El viejo Bisi est&amp;#225; abrumado; tengo suerte de que se haya acordado de m&amp;#237;! El Camp de la Vigilance, al sur de aqu&amp;#237;, est&amp;#225; ocupado por investigadores que vinieron a indagar sobre el mal que corroe la regi&amp;#243;n, pero una pandilla de {@LinkCreature:15#3#dents-de-sabre noirs fulminants} los aisl&amp;#243;. &amp;#191;Podr&amp;#237;as abrirnos camino?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1009">
+        <Page social="5">&amp;#161;Colmillos de dientes de sable! Prefiero verlos ah&amp;#237; que en sus fauces, &amp;#191;no crees?&lt;BR&gt;&lt;BR&gt;Dime, &amp;#191;tendr&amp;#237;as tiempo de ayudarnos a resolver otro problema?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1009">
+        <Page social="0">Prefiero tener doce colmillos de dientes de sable en mi mano que en la nuca, si sabes a lo que me refiero. Te encargar&amp;#225;s de ello, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

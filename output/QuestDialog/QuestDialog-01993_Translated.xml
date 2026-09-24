@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="0">Has devuelto el perro de Ameldas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="1" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;, mi perro ha desaparecido! &lt;BR&gt;Como no paras de obligarme a tragar este remedio, aunque no quiero, me enoj&amp;#233; y lanc&amp;#233; mi mu&amp;#241;eca lejos. &lt;BR&gt;&lt;BR&gt;Mi perro lo vio y se abalanz&amp;#243; de inmediato detr&amp;#225;s de la mu&amp;#241;eca para tra&amp;#233;rmela. &lt;BR&gt;&lt;BR&gt;Pero a&amp;#250;n no ha vuelto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="117">
+        <Page social="1" voiceTypeId="0">Lanzu&amp;#233; mi mu&amp;#241;eca all&amp;#225; con un hechizo &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7014#-66688,-21739,709&amp;type=1&amp;name=ici g&amp;#238;t la poup&amp;#233;e d'Ameldas&quot;&gt;&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;No quiero tomar el remedio, pero siempre hay alguien que me obliga. Este medicamento es realmente asqueroso.&lt;BR&gt;&lt;BR&gt;Pero empiezo a temer haber perdido a mi perro por culpa de mi rabieta. Por lo general, siempre vuelve de inmediato cuando lo llamo con mi silbato. Pero ahora no vuelve. &amp;#191;Se est&amp;#225; escondiendo?&lt;BR&gt;&lt;BR&gt;Tengo tanto miedo de que le haya pasado algo.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a ir a buscarlo yo misma, pero Eifin y mam&amp;#225; y pap&amp;#225; me dijeron que la zona es demasiado peligrosa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="142">
+        <Page social="1" voiceTypeId="0">(Debe de ser la mu&amp;#241;eca de la que habl&amp;#243; Ameldas. Hay peque&amp;#241;os jirones esparcidos por todas partes. &amp;#191;Los habr&amp;#225; arrancado el perro?)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="141">
+        <Page social="1" voiceTypeId="0">*a&amp;#250;lla* (El perro aparta la cabeza cuando le tiendes la mu&amp;#241;eca da&amp;#241;ada.)&lt;NEXTPAGEBUTTON&gt;"Ameldas está muy preocupado por ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">*guau*&lt;BR&gt;&lt;BR&gt;(Al o&amp;#237;r el nombre de Ameldas, el perro menea alegremente la cola.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="510" villagerId="30">
+        <Page social="0">*guau*</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="5" villagerId="117">
+        <Page social="4" voiceTypeId="0">&amp;#161;Me has tra&amp;#237;do de vuelta a mi perro!&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Pero... &amp;#191;qu&amp;#233; es esta mu&amp;#241;eca?&lt;NEXTPAGEBUTTON&gt;"La traje porque pensé que era tu muñeca."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233; es esto? &amp;#191;Habr&amp;#225; sido el perro el que da&amp;#241;&amp;#243; mi mu&amp;#241;eca favorita?&lt;BR&gt;&amp;#191;Es por eso que no quer&amp;#237;a volver?&lt;BR&gt;&lt;BR&gt;(Ameldas parece estar a punto de romper a llorar.)&lt;BR&gt;&lt;BR&gt;No, no voy a llorar. &lt;BR&gt;Promet&amp;#237; que ser&amp;#237;a un ni&amp;#241;o valiente de ahora en adelante. &lt;BR&gt;Todo va bien, ya que mi perro ha regresado. &lt;BR&gt;Es cierto que mi mu&amp;#241;eca est&amp;#225; rota, pero...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" villagerId="117">
+        <Page social="0">&amp;#191;No has visto mi mu&amp;#241;eca?</Page>
+    </Text>
+</QuestDialog>

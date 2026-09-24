@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">Voy a descansar. Por favor, d&amp;#237;gale a {@linkcreature:213#1134$$Edan} que estoy bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">&amp;#161;Qu&amp;#233; alivio! Nos hab&amp;#237;amos quedado sin piedras de reliquia. Menos mal que tenemos otras.&lt;BR&gt;&lt;BR&gt;Saludos, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Se han invocado vulcanios kelthuzad en Tor Exsul para comprometer las operaciones de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:36#999#vulcains kelthuzads}.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a Slevene.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

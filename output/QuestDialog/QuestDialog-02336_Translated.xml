@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Con las armas y las provisiones, este lugar empieza a tener una pinta estupenda.&lt;BR&gt;&lt;BR&gt;Sin embargo, la tribu de Azra ubicada en el sur todav&amp;#237;a me causa algunos problemas. &amp;#191;Podr&amp;#237;as ayudarnos a quitarles las ganas de venir a meter las narices en nuestro campamento?&quot;&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer para ayudarte?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Es muy sencillo. Ve a eliminar en secreto a sus l&amp;#237;deres y se paralizar&amp;#225;n de miedo.&lt;BR&gt;&lt;BR&gt;Elimina al verdugo del almac&amp;#233;n de cristal y al director del almac&amp;#233;n de cristal.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="0">&lt;PCNAME&gt;, gracias a ti, los naga mantienen un perfil bajo. Much&amp;#237;simas gracias.&lt;BR&gt;&lt;BR&gt;Esperaremos aqu&amp;#237; a los refuerzos de Arborea.&lt;BR&gt;&amp;#161;Te lo suplico, debes detener a Exodor a toda costa!</Page>
+    </Text>
+</QuestDialog>

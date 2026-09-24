@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Sabemos que las tropas argones apostadas aqu&amp;#237; se supone que deben unirse al Front de Khanovar, pero no sab&amp;#237;amos de d&amp;#243;nde ven&amp;#237;an. Gracias a la informaci&amp;#243;n que Hasmina y t&amp;#250; nos proporcionaron, ahora sabemos c&amp;#243;mo lo est&amp;#225;n haciendo los argons.&lt;BR&gt;&lt;BR&gt;Y vamos a detenerlos.&lt;NEXTPAGEBUTTON&gt;"¡Genial! ¿Y cómo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@LinkCreature:76#1025} prepar&amp;#243; algo peque&amp;#241;o para la ocasi&amp;#243;n. Te dar&amp;#225; los detalles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1025">
+        <Page social="6">Toma estas bombas. Est&amp;#225;n dise&amp;#241;adas para entrar en resonancia con las ondas arm&amp;#243;nicas de los transportadores zolnaj.&lt;BR&gt;&lt;BR&gt;Encuentra la manera de infiltrarte en el {@Rgn:49004}, elimina a los guardianes argons y coloca las bombas. No podr&amp;#237;a ser m&amp;#225;s f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;En fin, ten cuidado... Un miembro arrancado por la onda expansiva de una explosi&amp;#243;n no vuelve a crecer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1005">
+        <Page social="6">&amp;#161;Ey, refuerzos! &amp;#161;Por fin buenas noticias!&lt;BR&gt;&lt;BR&gt;Intent&amp;#233; destruir el transportizador, pero mis armas fallaron...&lt;BR&gt;&lt;BR&gt;Bueno, por decirlo de alguna manera...&lt;BR&gt;&lt;BR&gt;De cualquier manera, si quieres ir a echar un vistazo, ten cuidado. Los argons abundan por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">La destrucci&amp;#243;n del transportizador evitar&amp;#225; que los refuerzos argons lleguen en masa al {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Nos has regalado un respiro.</Page>
+    </Text>
+</QuestDialog>

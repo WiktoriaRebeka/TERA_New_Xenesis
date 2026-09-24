@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="69" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Me presento, soy Lora, delegada de la Valkyon Federation.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; te parecer&amp;#237;a volar, &lt;PCNAME&gt;?&lt;BR&gt;La Valkyon Federation busca actualmente guardianes capaces de volar. &lt;BR&gt;&amp;#161;Ven a verme si te interesa!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Gracias por tu visita.&lt;BR&gt;&lt;BR&gt;La Valkyon Federation no da abasto.&lt;BR&gt;Todo el mundo est&amp;#225; al l&amp;#237;mite. Ante todo, nos falta un guardi&amp;#225;n capaz de explorar los cielos. &lt;BR&gt;&lt;BR&gt;&amp;#191;Te gustar&amp;#237;a volar?&lt;NEXTPAGEBUTTON&gt;&quot;S&amp;#237;, me gustar&amp;#237;a bastante.&quot;&lt;NEXTPAGEBUTTON&gt;"Oui, ça me dirait bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para hacer un examen de vuelo? &lt;BR&gt;Si est&amp;#225;s a la altura, &amp;#161;te encomendar&amp;#233; una misi&amp;#243;n muy especial!&lt;BR&gt;&lt;BR&gt;Las condiciones no son f&amp;#225;ciles de cumplir, &amp;#161;pero tendr&amp;#225;s la oportunidad de hacerte un nombre como guardi&amp;#225;n!&lt;BR&gt;&lt;BR&gt;Hay cinco esencias dispersas por los alrededores de Freedom Plaza, en Velika. &amp;#161;Tr&amp;#225;emelas!&lt;BR&gt;&lt;BR&gt;&amp;#161;En marcha!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="6001">
+        <Page social="5" voiceTypeId="0">&amp;#161;Perfecto! Has cumplido tu misi&amp;#243;n con brillantez.&lt;BR&gt;&amp;#161;Tus facultades son asombrosas!&lt;BR&gt;&lt;BR&gt;Tengo el placer de anunciarte que ahora puedes participar en la exploraci&amp;#243;n de los cielos.&lt;BR&gt; &lt;BR&gt;&lt;BR&gt;Para ello, solo tienes que participar en las misiones celestiales y completarlas con &amp;#233;xito.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="6001">
+        <Page social="5" voiceTypeId="0">&amp;#161;Lo sab&amp;#237;a!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, gracias a ti, el cielo ha sido explorado de cabo a rabo y por fin podemos respirar tranquilos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Espero poder contar de nuevo con tu ayuda en el futuro!&lt;BR&gt;&amp;#161;Hasta pronto!</Page>
+    </Text>
+</QuestDialog>

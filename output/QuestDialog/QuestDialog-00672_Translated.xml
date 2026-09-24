@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0">(&amp;#161;Esta caja de suministros tiene una marca extra&amp;#241;a, parece que fue abandonada por los bandidos! &amp;#161;Tal vez esta marca permita identificar a los bandidos!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#161;Buen trabajo, soldado&amp;nbsp;! &amp;#191;Qu&amp;#233; tienes ah&amp;#237;&amp;nbsp;? &amp;#161;Eh, estos no son productos de la Federaci&amp;#243;n, esta marca la usan los Gutripper! &amp;#161;Y qu&amp;#233; olor&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Parece que no se conforman con incitar a los kobolds a atacarnos, sino que adem&amp;#225;s les suministran explosivos&amp;nbsp;! &amp;#161;Ahora no hay duda, tendremos que romper el control de los Gutripper sobre estas criaturas&amp;nbsp;!&lt;NEXTPAGEBUTTON&gt;"¿Tienes un plan ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Tengo decenas de planes&amp;nbsp;! La Federaci&amp;#243;n puede hacer realidad todos nuestros sue&amp;#241;os, &amp;#191;verdad&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;El problema es que, aunque los amans est&amp;#225;n dispuestos a darle el beneficio de la duda a la Federaci&amp;#243;n, los l&amp;#237;deres siguen esc&amp;#233;pticos. Nuestro trabajo aqu&amp;#237; es de suma importancia, pero no pretender&amp;#233; que sea f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Por ahora, solo necesito algo que demuestre que nos estamos encargando de los {@LinkCreature:24#15#hy&amp;#232;nes pattes sableuses} y los {@LinkCreature:24#106#faucheurs du vent de sable}, mientras intento convencer a Turrek de que comparta sus reservas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1001">
+        <Page social="4">Excelente trabajo, soldado. Eso podr&amp;#237;a influir en la postura de Turrek y de los dem&amp;#225;s l&amp;#237;deres. Si no, al menos hemos debilitado a los Gutripper y a sus esbirros.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" villagerId="1001">
+        <Page social="0">&amp;#191;Tienes las pieles&amp;nbsp;? Pronto debo ver a Turrek.</Page>
+    </Text>
+</QuestDialog>

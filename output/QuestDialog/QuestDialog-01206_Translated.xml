@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Los {@LinkCreature:47#3003#chamanes wendigos argonomorphes} de {@Rgn:47004$$Hurlefl&amp;#233;au} est&amp;#225;n sembrando el caos all&amp;#237; junto con sus compinches, {@LinkCreature:47#3002#wendigos argonomorphes} y {@LinkCreature:47#3001#wendigos contamin&amp;#233;s}. Ll&amp;#233;vale las insignias que encuentres en ellos a {@Creature:247#1005$$Chenace}. Ella se encargar&amp;#225; de recompensarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1005">
+        <Page social="5">Gracias por tomarte la molestia de encargarte de esto, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1005">
+        <Page social="0">Si quieres hacerme feliz, oc&amp;#250;pate de {@LinkCreature:47#3001#wendigos contamin&amp;#233;s}, {@LinkCreature:47#3002#wendigos argonomorphes} y {@LinkCreature:47#3003#chamanes wendigos argonomorphes}.</Page>
+    </Text>
+</QuestDialog>

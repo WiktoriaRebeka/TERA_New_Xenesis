@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="4">Pr&amp;#243;ximos en la lista: los {@LinkCreature:8#2021#mercenaires ca&amp;#239;mans} y {@LinkCreature:8#2042#gardes ca&amp;#239;mans}&lt;BR&gt;&lt;BR&gt;&amp;#161;Limitamos su n&amp;#250;mero y le enviamos un mensaje a todos: trabajar para los gulas es una mala idea!&lt;BR&gt;&lt;BR&gt;Barre con ellos. Arr&amp;#225;ncales los colmillos tambi&amp;#233;n. Har&amp;#233; un collar con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1002">
+        <Page social="4">&amp;#161;Excelente noticia! &amp;#161;Estas sabandijas me daban escalofr&amp;#237;os!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1002">
+        <Page social="0">Debemos hacerles llegar un mensaje. Haz que sea sangriento.</Page>
+    </Text>
+</QuestDialog>

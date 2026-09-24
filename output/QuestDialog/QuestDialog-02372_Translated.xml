@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Busca a Ahrep dentro de Forteresse de Berak para verificar la informaci&amp;#243;n de Revenj.&lt;BR&gt;&lt;BR&gt;[Se requiere un nivel de equipo de 463 o superior para entrar en Forteresse de Berak.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Parece que ha descubierto un pasaje que lleva al interior de Forteresse de Berak. &lt;BR&gt;&lt;BR&gt;P&amp;#237;dele a Ahrep m&amp;#225;s detalles.&lt;BR&gt;&lt;BR&gt;Al completar la misi&amp;#243;n, activar&amp;#225;s autom&amp;#225;ticamente la misi&amp;#243;n &lt;font color='#7F00FF'&gt;[important] yunque de Kaia&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0" voiceTypeId="0">Hola, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hace poco vi abrirse una puerta justo despu&amp;#233;s de la retirada de los comandantes altos dragones.&lt;BR&gt;&lt;BR&gt;A trav&amp;#233;s de la puerta alcanc&amp;#233; a distinguir a un ser de un pueblo desconocido.&lt;BR&gt;&lt;BR&gt;Cruza la puerta y descubre a qu&amp;#233; nos enfrentamos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="4" voiceTypeId="0">Gracias, &lt;PCNAME&gt;. Gracias a ti, ahora sabemos lo que est&amp;#225;n tramando. &lt;BR&gt;&lt;BR&gt;Vayamos a informar a los dem&amp;#225;s lo antes posible.</Page>
+    </Text>
+</QuestDialog>

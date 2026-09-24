@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="0">Rhodos revel&amp;#243; una parte de la historia del norte de Arun, mientras Paesyn probaba una nueva t&amp;#225;ctica para ganarse los favores de Zolyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="4">El hecho de que los Khiriens nos hayan acogido dice mucho de la calidad de tu trabajo, &lt;PCNAME&gt;. &amp;#161;Vaya que necesit&amp;#225;bamos un poco de refugio!&lt;BR&gt;&lt;BR&gt;El que se llama Rhodos nos habl&amp;#243; de cosas que caen del cielo. &amp;#161;Quiz&amp;#225;s logremos recuperar el Intr&amp;#233;pide!&lt;BR&gt;&lt;BR&gt;Nuestra misi&amp;#243;n tal vez no est&amp;#233; condenada al fracaso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1301">
+        <Page social="4">A Paesyn le gustar&amp;#237;a hablar contigo, si tienes un momento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1100">
+        <Page social="4">&amp;#161;Por esto te tengo tanto aprecio! &amp;#161;Nos has vuelto a salvar el pellejo!&lt;BR&gt;&lt;BR&gt;He visto varios pedazos del naufragio del Intr&amp;#233;pide. &amp;#161;Los examinar&amp;#233; e intentar&amp;#233; impresionar un poco a Zolyn para que empiece a apreciarme!&lt;BR&gt;&lt;BR&gt;Ya que mi poema no la conmovi&amp;#243;, hice un retrato de ella. &amp;#191;Podr&amp;#237;as llev&amp;#225;rselo, por favor?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1102">
+        <Page social="4">Me enter&amp;#233; de que salvaste a Madat. Nada mal. Eres un soldado que se defiende.&lt;NEXTPAGEBUTTON&gt;"Paesyn dibujó esto para ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Retiro lo dicho.&lt;BR&gt;&lt;BR&gt;Deja de hacerme perder el tiempo con estas tonter&amp;#237;as. &amp;#191;Qu&amp;#233; le pasa a este ingeniero imb&amp;#233;cil? &amp;#191;Acaso no tiene trabajo que hacer?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1301">
+        <Page social="4">&amp;#191;No habr&amp;#225;s visto a d&amp;#243;nde fue Paesyn, por pura casualidad?&lt;NEXTPAGEBUTTON&gt;"Está examinando el naufragio."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bueno, debemos seguir avanzando.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1206">
+        <Page social="4">Lo que nos espera no ser&amp;#225; f&amp;#225;cil. Acabas de llegar a Val Oriyn. Perm&amp;#237;tenos contarte nuestro triste destino.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">Nosotros, los Khirian, resistimos a los Archidevans, pero la mayor&amp;#237;a de los m&amp;#237;os han sido esclavizados. Los llamamos Parth.&lt;BR&gt;&lt;BR&gt;Tienen un campamento por aqu&amp;#237;, pero no s&amp;#233; si nos dejar&amp;#225;n pasar sin luchar.&lt;NEXTPAGEBUTTON&gt;"Iré a hablar con ellos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Espero que la diplomacia te sonr&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Busca a Pariya. Los Parth la respetan, pero mant&amp;#233;n los ojos bien abiertos.&lt;BR&gt;&lt;BR&gt;Es peligrosa.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1015">
+        <Page social="0">&amp;#191;Hatishna? &amp;#191;Crees en una f&amp;#225;bula popori as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Nadie resiste al se&amp;#241;or Dkurion. &amp;#161;Todos deber&amp;#237;an inclinarse ante &amp;#233;l!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="172" prevId="9" villagerId="1200">
+        <Page social="4">&amp;#161;Oh, &lt;PCNAME&gt;! &amp;#161;Est&amp;#225;s aqu&amp;#237;! &amp;#161;Perfecto!&lt;BR&gt;&lt;BR&gt;&amp;#191;Vio Zolyn mi dibujo? Pas&amp;#233; varios d&amp;#237;as en &amp;#233;l. Y, &amp;#191;qu&amp;#233; dijo al respecto?&lt;NEXTPAGEBUTTON&gt;"No pareció apreciarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No valora mi realismo abstracto en su justa medida. Hice dos d&amp;#237;as de estudios de bellas artes en Velika. As&amp;#237; que soy un experto en el tema.</Page>
+    </Text>
+</QuestDialog>

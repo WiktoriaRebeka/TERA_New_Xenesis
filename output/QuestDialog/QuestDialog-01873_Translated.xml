@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="1">Pareces ser {@gender:le/la} {@gender:champion/championne} del sol.&lt;BR&gt;&lt;BR&gt;Los mayores misterios del templo descansan al amparo de la luz, guardados en urnas antiguas. Encuentra el espejo dimensional en una de estas vasijas y enfr&amp;#233;ntate al {@linkcreature:425#8005}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10004">
+        <Page social="1">El sol ha hecho de ti {@gender:son/sa} {@gender:champion/championne}.&lt;BR&gt;&lt;BR&gt;Es el dios Balder en persona quien ha colocado el {@LinkCreature:425#8005} en el camino de aquellos que vienen a buscar la bendici&amp;#243;n suprema del templo por malas razones.&lt;BR&gt;&lt;BR&gt;Balder rinde homenaje a tu valor ofreci&amp;#233;ndote una recompensa fuera de lo com&amp;#250;n.&lt;BR&gt;&lt;BR&gt;Que los titanes Arun y Shara te acojan en el seno de su sue&amp;#241;o hasta el fin de los tiempos.</Page>
+    </Text>
+</QuestDialog>

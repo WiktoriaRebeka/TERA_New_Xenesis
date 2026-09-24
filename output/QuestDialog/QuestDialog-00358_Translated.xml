@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="4">Se supone que los piratas deben vigilar un muelle en nombre del Kazuur Syndicate. Gracias a ti, &lt;PCNAME&gt;, los gulas ya no pueden contar con esa ayuda.&lt;BR&gt;&lt;BR&gt;Ahora debemos asegurarnos de que ning&amp;#250;n barco vuelva a atracar all&amp;#237;.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que tendr&amp;#225;s que eliminar a los {@LinkCreature:12#13#chevauche-griffus du Fouet rouge}. Ning&amp;#250;n capit&amp;#225;n que colabore con los esclavistas atracar&amp;#225; en un muelle desprotegido. Por lo tanto, el Kazuur Syndicate ser&amp;#225; incapaz de trasladar a sus esclavos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Debes ser la peor pesadilla de los esclavistas, &lt;PCNAME&gt;. &amp;#161;Los dioses sin duda aprecian tu sentido de la justicia!</Page>
+    </Text>
+</QuestDialog>

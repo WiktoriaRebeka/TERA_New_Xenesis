@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="0">Has examinado minuciosamente el lugar donde se ocultaban los descendientes de Lok y has descubierto un pasaje secreto al que solo pueden acceder quienes poseen una insignia de los descendientes. Bebiste la poci&amp;#243;n de invisibilidad de Kamia para colarte en el Basti&amp;#243;n de Lok. Al espiar a los descendientes de Lok, te enteraste de que existe una base de suministros de los descendientes de Lok en alg&amp;#250;n lugar al norte de los Bosques del Olvido.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Pero hay algo que no me cuadra.&lt;BR&gt;&lt;BR&gt;La sacerdotisa de la que nos habl&amp;#243; Kantusa.&lt;BR&gt;Afirm&amp;#243; que ella acompa&amp;#241;aba a Dakanius.&lt;BR&gt;&lt;BR&gt;Sin embargo, no vi a nadie que pareciera una sacerdotisa. Pero entonces, &amp;#191;d&amp;#243;nde puede estar?&lt;NEXTPAGEBUTTON&gt;Escuchas.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Y hay otra cosa extra&amp;#241;a.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te acuerdas de las armas en la guarida de Dakanius?&lt;BR&gt;&amp;#191;De d&amp;#243;nde habr&amp;#225;n salido?&lt;BR&gt;&lt;BR&gt;Parece poco probable que hayan podido conseguir semejantes armas en un lugar tan aislado.&lt;BR&gt;Tal vez deber&amp;#237;amos explorar los alrededores, &amp;#191;no?&lt;NEXTPAGEBUTTON&gt;"Sin vacilar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1049">
+        <Page social="4" voiceTypeId="0">&amp;#161;Mira! &amp;#161;Hay un pasaje secreto por aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos a usarlo!&lt;NEXTPAGEBUTTON&gt;"Pero no tenemos la menor idea de cuántos enemigos hay adentro..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tengo aqu&amp;#237; una poci&amp;#243;n de invinvibilidad.&lt;BR&gt;&lt;BR&gt;Pero su efecto se desvanece r&amp;#225;pido. Debes partir en cuanto hayas averiguado algo.&lt;BR&gt;&lt;BR&gt;&amp;#161;En marcha, r&amp;#225;pido!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="420" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Esa Tetra de la que hablaste seguramente sea la sacerdotisa.&lt;BR&gt;Sin duda est&amp;#225; al tanto de la muerte de Dakanius.&lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos volver r&amp;#225;pido al cuartel general para informar!&lt;BR&gt;&amp;#161;Por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Qu&amp;#233; alivio verte regresar sano y salvo.&lt;BR&gt;Estoy al tanto de todo.&lt;BR&gt;&lt;BR&gt;Le ten&amp;#237;a mucho afecto a Kantusa. Qu&amp;#233; tragedia.&lt;BR&gt;&lt;BR&gt;Jam&amp;#225;s podr&amp;#233; perdonar a los de autem en adelante.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Esta noche, alguien o algo se infiltr&amp;#243; dentro de la guarnici&amp;#243;n. Solo una forma de hechicer&amp;#237;a muy poderosa pudo permitir que los enemigos pasaran desapercibidos.&lt;BR&gt;&lt;BR&gt;Hemos instalado un tipo de dispositivo que busca rastros residuales de magia... Siempre quedan cuando se recurre a ese tipo hechizos.&lt;BR&gt;&lt;BR&gt;Lo activamos esta ma&amp;#241;ana. &amp;#191;Podr&amp;#237;as ir a buscar el detector con los registros dentro de ese dispositivo, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1012">
+        <Page social="6">Ah, &lt;PCNAME&gt;... Est&amp;#225;s a la altura de tu reputaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Me encargar&amp;#233; de examinar los registros.&lt;NEXTPAGEBUTTON&gt;Entregarle los resultados&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Oh... Energ&amp;#237;a arg&amp;#243;n! Esto confirma la idea de que Thulsa y ellos trabajan mano a mano.</Page>
+    </Text>
+</QuestDialog>

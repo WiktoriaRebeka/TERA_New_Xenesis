@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="4">Este lugar es una trampa mortal. &amp;#161;Cuando no son los kumas, es algo peor&amp;nbsp;! Envi&amp;#233; patrullas y fueron atacadas por unos {@LinkCreature:24#5#l&amp;#233;zards de la temp&amp;#234;te vifs}. Temo un mot&amp;#237;n en cualquier momento. Si pudieras reducir el n&amp;#250;mero de estos lagartos, ser&amp;#237;a menos reacia a enviar hombres a patrullar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Oh, qu&amp;#233; talento&amp;nbsp;! &amp;#161;Mira esas garras&amp;nbsp;! &amp;#161;Eso va a remotivar a mis tropas&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1005">
+        <Page social="0">&amp;#191;No encontrabas el camino de regreso&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Como erudito, no puedo evitar sentir intriga por los {@Rgn:50008}... Evidentemente, la corrupci&amp;#243;n argon no ha logrado conquistar por completo el lugar. Me pregunto de d&amp;#243;nde les viene esta resistencia al proceso de mutaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Lo que est&amp;#225; en juego detr&amp;#225;s de la respuesta a esta pregunta es colosal.&lt;NEXTPAGEBUTTON&gt;"Y necesitas ayuda..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Me lees la mente... Los rezagados rastreros de por aqu&amp;#237; sol&amp;#237;an ser flores magn&amp;#237;ficas... antes de que los argons los transformaran en criaturas mutantes.&lt;BR&gt;&lt;BR&gt;Usa esta flor de Tyalinth en los rezagados. Veamos si es posible invertir el proceso de mutaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">&amp;#161;He aqu&amp;#237; resultados prometedores! Si logro adaptar el m&amp;#233;todo a las dem&amp;#225;s criaturas, tenemos una oportunidad de curar este mundo.</Page>
+    </Text>
+</QuestDialog>

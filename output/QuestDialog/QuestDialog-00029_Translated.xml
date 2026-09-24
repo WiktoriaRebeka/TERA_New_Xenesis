@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="4">Volos decidi&amp;#243; enviar a Himir a Boquillon como emisaria del pueblo de las hadas.&lt;BR&gt;&lt;BR&gt;Pero queda un cabo suelto... De hecho, aunque Himir tiene todas las cualidades esperadas de una buena embajadora, no sabe nada sobre el manejo de armas, y es seguro que las hadas rebeldes de los alrededores no dejar&amp;#225;n pasar la oportunidad de tenderle una emboscada.&lt;BR&gt;&lt;BR&gt;Himir a&amp;#250;n no ha terminado de prepararse para el viaje, as&amp;#237; que podr&amp;#225;s ganar tiempo yendo directamente al Camino bois&amp;#233;, donde se reunir&amp;#225; contigo. Deber&amp;#237;a poder llegar al lugar sin contratiempos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2" villagerId="44">
+        <Page social="0">Mant&amp;#233;nganse alerta, querido amigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="490" prevId="2" villagerId="1003">
+        <Page social="4">Alabados sean los dioses... &amp;#161;los dos est&amp;#225;n aqu&amp;#237;, {@gender:tous/toutes}, y sanos y salvos!&lt;BR&gt;&lt;BR&gt;Himir ser&amp;#225; una buena emisaria, estoy seguro. Nos encargaremos de asegurar su protecci&amp;#243;n; ya no tiene nada que temer.&lt;BR&gt;&lt;BR&gt;Se puede decir que has hecho un buen trabajo, &lt;PCNAME&gt;. P&amp;#225;sate a verme cuando est&amp;#233;s {@gender:tous/toutes} listo para volver al Estang des F&amp;#233;es.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="4" villagerId="1032">
+        <Page social="4">&amp;#161;Himir est&amp;#225; a salvo! &amp;#161;Por Isren, qu&amp;#233; buenas noticias!&lt;BR&gt;&lt;BR&gt;Las negociaciones probablemente tomar&amp;#225;n alg&amp;#250;n tiempo. Ha corrido mucha sangre en ambos bandos.&lt;BR&gt;&lt;BR&gt;De cualquier manera, si te preguntabas c&amp;#243;mo podr&amp;#237;as ser &amp;#250;til aqu&amp;#237;, &lt;PCNAME&gt;, no te hagas m&amp;#225;s preguntas: ya est&amp;#225; hecho.</Page>
+    </Text>
+</QuestDialog>

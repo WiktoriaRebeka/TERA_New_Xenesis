@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="424" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="4">Seir ha pedido verte, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;T&amp;#250; decides, pero yo no le har&amp;#237;a esperar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">{@LinkCreature:63#1048} vio algo inquietante en el Collegium Arcanum anoche: gulas, seg&amp;#250;n ella.&lt;BR&gt;&lt;BR&gt;Ve a pedirle detalles y lleva a cabo la investigaci&amp;#243;n. Si tiene raz&amp;#243;n, podr&amp;#237;a ser grave.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1048">
+        <Page social="4">Te digo que eran gulas. No me acerqu&amp;#233; demasiado, pero s&amp;#233; lo que vi... y ol&amp;#237;.&lt;BR&gt;&lt;BR&gt;Estaban ojeando un libro... el que habla de {@LinkCreature:424#2000}, el demonio cabra. Al verme, arrancaron la p&amp;#225;gina del hechizo de invocaci&amp;#243;n y desaparecieron.&lt;BR&gt;&lt;BR&gt;Han dejado un emblema del Sindicato de Kazuur. Sin duda ven&amp;#237;an de Ostgarath.&lt;BR&gt;&lt;BR&gt;Es todo lo que puedo decirte. Tal vez alguien en {@Rgn:12013} pueda contarte m&amp;#225;s. Por lo general, son ellos los que tratan con el sindicato.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1007">
+        <Page social="6">&amp;#191;El Sindicato de Kazuur? Su basti&amp;#243;n se encuentra al oeste de aqu&amp;#237;, cerca de los {@Rgn:12003}. Cr&amp;#233;eme, es mejor no ir.&lt;NEXTPAGEBUTTON&gt;"Iré y te explicaré por qué."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Qu&amp;#233; historia. Y no deseo so&amp;#241;ar con {@LinkCreature:424#2000} esta noche al acostarme.&lt;BR&gt;&lt;BR&gt;Si has tomado una decisi&amp;#243;n, tendr&amp;#225;s que abrirte camino en los {@Rgn:12003} para llegar al {@Rgn:9024001}.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" prevId="5" villagerId="1501">
+        <Page social="6">(Este teleportal te permitir&amp;#225; llegar al {@Rgn:9024001}.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1102">
+        <Page social="6">Has prestado un gran servicio a la Federaci&amp;#243;n al matar a {@LinkCreature:424#2000}, &lt;PCNAME&gt;. Nos gustar&amp;#237;a rendirte homenaje con esta muestra de nuestro reconocimiento.&lt;BR&gt;&lt;BR&gt;Y por supuesto, nuestra eterna gratitud, pero supongo que ya te vas acostumbrando a eso.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="1102">
+        <Page social="0">Puede que no comprendas toda la gravedad de la situaci&amp;#243;n. Hay que matar a {@LinkCreature:424#2000}, y te designo a ti para que te encargues de su ejecuci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;No regreses hasta que el acto est&amp;#233; consumado.</Page>
+    </Text>
+</QuestDialog>

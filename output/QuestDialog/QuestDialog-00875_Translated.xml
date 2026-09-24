@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">T&amp;#250; eres &lt;PCNAME&gt;, &amp;#191;verdad? Quiz&amp;#225;s puedas ayudarme. Los soldados ordinarios no sirven para nada.&lt;BR&gt;&lt;BR&gt;Me enviaron aqu&amp;#237; para estudiar a los muertos vivientes y encontrar una brecha, pero los soldados no consiguen recolectar... eh... espec&amp;#237;menes.&lt;BR&gt;&lt;BR&gt;Mata a {@LinkCreature:33#16#serviteurs angoiss&amp;#233;s} y a {@LinkCreature:33#17#inquisiteurs d'&amp;#233;b&amp;#232;ne}.&lt;BR&gt;&lt;BR&gt;Y recuerda esto bien: le haces un gran servicio a sus almas atrapadas al permitirles unirse al mundo del Sue&amp;#241;o.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1008">
+        <Page social="0">Puedes creerme: si mueres ah&amp;#237; abajo, preferir&amp;#237;as que tu alma regresara al Sue&amp;#241;o de los titanes y no quedar atrapado en un cuerpo de muerto viviente durante a&amp;#241;os, o incluso siglos...</Page>
+    </Text>
+</QuestDialog>

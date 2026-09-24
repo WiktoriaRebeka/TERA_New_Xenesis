@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Creo que la plaga no ha golpeado a Frontera porque su poblaci&amp;#243;n toma el agua de otro pozo.&lt;BR&gt;&lt;BR&gt;Para confirmar mi teor&amp;#237;a, tendr&amp;#233; que pedirte que vayas al Village en Quarantaine y me traigas cubos de agua contaminada.&lt;BR&gt;&lt;BR&gt;Entr&amp;#233;gaselos a {@LinkCreature:240#1035$$Narpa}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="0">&amp;#161;Excelente! Podr&amp;#233; continuar mis investigaciones. Con un poco de suerte, encontraremos la manera de poner fin a esta locura.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1035">
+        <Page social="0">&amp;#161;Necesitamos muestras del agua del pozo contaminado en este pueblo! Te lo ruego... Contamos contigo.</Page>
+    </Text>
+</QuestDialog>

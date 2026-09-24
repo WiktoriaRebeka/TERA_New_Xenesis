@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4">Los beneficios ocurren cuando la oferta se encuentra con la demanda. Yo tengo la oferta y las tropas en las cuevas tienen la demanda. El problema es el encuentro.&lt;BR&gt;&lt;BR&gt;Pagarle a sus guardaespaldas a precio de mercado. Lecci&amp;#243;n aprendida.&lt;BR&gt;&lt;BR&gt;Pero ya no tengo dinero y los hombres de {@LinkCreature:208#1034#Baidan} siguen sin comida. &amp;#191;Puedes ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1034">
+        <Page social="4">&amp;#191;Te env&amp;#237;a Avil?&lt;BR&gt;&lt;BR&gt;A este p&amp;#237;caro regordete le falta un d&amp;#237;a y algunos objetos en cada entrega. Le valdr&amp;#237;a m&amp;#225;s no cruzarse conmigo en un callej&amp;#243;n oscuro.</Page>
+    </Text>
+</QuestDialog>

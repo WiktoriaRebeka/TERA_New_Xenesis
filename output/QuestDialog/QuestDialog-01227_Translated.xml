@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">No podemos dejar que los argon sigan reforzando esta fortaleza. Est&amp;#225;n haciendo llegar combatientes a trav&amp;#233;s de los transportadores zolnajs.&lt;NEXTPAGEBUTTON&gt;"Esto es grave."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Exactamente. Quiero que destruyas varios de estos transportadores antes de volver aqu&amp;#237;. Decidiremos los siguientes pasos en ese momento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Buen trabajo, solo guardar&amp;#233; buenos recuerdos de esta misi&amp;#243;n exitosa. Necesitaremos m&amp;#225;s como esta.&lt;BR&gt;&lt;BR&gt;Los shariars aprecian tu valor. Compensa casi nuestras fuerzas mermadas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1012">
+        <Page social="0">Mientras estos transportadores funcionen, los argon seguir&amp;#225;n siendo poderosos.</Page>
+    </Text>
+</QuestDialog>

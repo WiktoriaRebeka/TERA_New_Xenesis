@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="0">Djik era uno de los sobrevivientes de Essenia. Quer&amp;#237;a encontrar a su hija desaparecida.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="4" voiceTypeId="0">Guardi&amp;#225;n, te ruego que me ayudes.&lt;BR&gt;&lt;BR&gt;Mi hija y yo fuimos separados durante los eventos de Essenia y todav&amp;#237;a no s&amp;#233; si est&amp;#225; viva.&lt;BR&gt;&lt;BR&gt;No la encontr&amp;#233; en el campamento de refugiados ni en la morgue.&lt;BR&gt;As&amp;#237; que regres&amp;#233; a Essenia.&lt;NEXTPAGEBUTTON&gt;"Continúa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">De todo coraz&amp;#243;n espero que siga viva, pero si no es as&amp;#237;... al menos me gustar&amp;#237;a encontrar sus restos.&lt;BR&gt;&lt;BR&gt;Un sobreviviente que haya presenciado el incidente tal vez pueda darnos una pista.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">Hiciste bien en venir.&lt;BR&gt;Por suerte, puedo ayudarte.&lt;BR&gt;&lt;BR&gt;S&amp;#237;, lo vi con mis propios ojos.&lt;BR&gt;Recuerdo perfectamente la trayectoria que tom&amp;#243; la aeronave.&lt;BR&gt;&lt;BR&gt;La colisi&amp;#243;n ocurri&amp;#243; m&amp;#225;s all&amp;#225; de esa colina.&lt;BR&gt;Lo aseguro. Hizo un ruido ensordecedor.&lt;NEXTPAGEBUTTON&gt;"Continúa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Cierto, el viejo da l&amp;#225;stima, pero algo terrible pas&amp;#243; en la colina. &lt;BR&gt;Ve.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado: la colina es m&amp;#225;s alta de lo que parece. &lt;BR&gt;Camina en lugar de correr, es m&amp;#225;s seguro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="566">
+        <Page social="0" voiceTypeId="0">(Los restos parecen ser los de la hija de Djik.&lt;BR&gt;Esfu&amp;#233;rzate por llev&amp;#225;rselos.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="561">
+        <Page social="4" voiceTypeId="0">&amp;#191;C&amp;#243;mo dices? &lt;BR&gt;Bueno, soy un Humano y este cad&amp;#225;ver es el de una High Elf.&lt;BR&gt;&lt;BR&gt;Guardi&amp;#225;n, creo que te est&amp;#225;s equivocando.&lt;BR&gt;&lt;BR&gt;En otras palabras, no has encontrado a mi hija.&lt;NEXTPAGEBUTTON&gt;"Continúa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No. No hace falta que te disculpes.&lt;BR&gt;&lt;BR&gt;Pero me quedar&amp;#233; aqu&amp;#237;.&lt;BR&gt;Con el tiempo, supongo que lo olvidar&amp;#233;.&lt;BR&gt;&lt;BR&gt;Y qui&amp;#233;n sabe... quiz&amp;#225;s logre encontrar la aeronave desaparecida o escuche algo sobre mi hija.</Page>
+    </Text>
+</QuestDialog>

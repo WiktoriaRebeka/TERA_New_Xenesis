@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Eh, &lt;PCNAME&gt;. Descubrimos que los collares que Cimen te pidi&amp;#243; son en realidad amuletos creados por los enanos.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que fueras a entregarle algunos a {@LinkCreature:67#1020$$Adru}, que vigila la puerta norte. Nos servir&amp;#225;n para repeler a las fuerzas del mal antes de que se infiltren en Poporia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#191;Esto lo env&amp;#237;a Paka? Bueno, espero que sirva. Todo vale mientras funcione, como suele decirse.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

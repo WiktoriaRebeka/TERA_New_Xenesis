@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">Uno de los grandes misterios del Val embras&amp;#233; radica en la {@LinkCreature:204#1117#pyl&amp;#244;ne cruental}.&lt;BR&gt;&lt;BR&gt;Evidentemente posee inmensos poderes. Si tan solo supi&amp;#233;ramos c&amp;#243;mo aprovecharlos...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} se pasa el tiempo con esa piedra. Apuesto a que sabe algo, o posee algo, que la conecta con la piedra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1117">
+        <Page social="0">(El pil&amp;#243;n est&amp;#225; lo suficientemente caliente como para quemarte si lo tocas.)&lt;BR&gt;&lt;BR&gt;(Insertas la llave y una tablilla grabada emerge del interior mismo de la piedra.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1117">
+        <Page social="0">(El pil&amp;#243;n est&amp;#225; demasiado caliente para tocarlo. Tal vez {@LinkCreature:4#7011#Marakadi} conozca un modo secreto para manipularlo.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="3" villagerId="1003">
+        <Page social="7">&amp;#191;Estaba eso dentro del pil&amp;#243;n cruental? &amp;#161;Incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;Esta tablilla lleva inscripciones m&amp;#225;gicas de los Shurians, pero ellos no se aliaron con los demonios.&lt;BR&gt;&lt;BR&gt;En todo caso, nunca lo hab&amp;#237;an hecho hasta ahora. Es perturbador. Pero supongo que es mejor que no saber nada, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

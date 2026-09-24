@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">Debemos entender el papel de estos recolectores zomgul. Nuestros descubrimientos inquietan al Mysterium.&lt;BR&gt;&lt;BR&gt;Ve a encontrar a {@LinkCreature:250#1021} y entr&amp;#233;gale muestras frescas para estudiar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1021">
+        <Page social="6">Fascinante... Veo dif&amp;#237;cil para qu&amp;#233; les pueden servir estos corazones, sabiendo que los zomguls no tienen sangre que bombear.&lt;BR&gt;&lt;BR&gt;El objetivo &amp;#250;ltimo de esta especie est&amp;#225; seguramente relacionado con su inter&amp;#233;s por la biomec&amp;#225;nica.&lt;BR&gt;&lt;BR&gt;Realmente fascinante...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1021">
+        <Page social="0">Sin corazones de zomgul, no hay estudio posible.</Page>
+    </Text>
+</QuestDialog>

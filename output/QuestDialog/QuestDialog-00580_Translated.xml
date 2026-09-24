@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="4">&amp;#161;Esos {@LinkCreature:20#30087000#arachn&amp;#233;ens griffe-sang acharn&amp;#233;s} son extraordinariamente da&amp;#241;inos! Adem&amp;#225;s de cavar las paredes, muerden. &amp;#161;Y su veneno es temible!&lt;BR&gt;&lt;BR&gt;Quiero recuperar las gl&amp;#225;ndulas de veneno para enviarlas a los eruditos de la Federaci&amp;#243;n. Pienso que al estudiarlas, podr&amp;#225;n fabricar un ant&amp;#237;doto.&lt;BR&gt;&lt;BR&gt;De ah&amp;#237; las gl&amp;#225;ndulas de veneno. &amp;#191;Crees que puedes encargarte de eso?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">Eso deber&amp;#237;a bastarle a los eruditos de la Federaci&amp;#243;n para desarrollar un ant&amp;#237;doto.&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">Si no hacemos llegar estas gl&amp;#225;ndulas a la Federaci&amp;#243;n, estaremos indefensos contra el veneno.</Page>
+    </Text>
+</QuestDialog>

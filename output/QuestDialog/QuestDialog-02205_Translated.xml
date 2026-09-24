@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="615" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">Me encontr&amp;#233; con algunos refugiados en Highwatch. &lt;BR&gt;Uno de ellos, Rumin, me pregunt&amp;#243; por ti.&lt;BR&gt;&lt;BR&gt;Su comportamiento era bastante misterioso. Le gustar&amp;#237;a pedirte algo.&lt;BR&gt;&amp;#191;No quieres escucharlo?&lt;BR&gt;&lt;BR&gt;&lt;font color='#804000'&gt;[Completa la misi&amp;#243;n para obtener un &lt;font color='#0000FF'&gt;compa&amp;#241;ero&lt;/font&gt;.]&lt;/font&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2064">
+        <Page social="4" voiceTypeId="0">Me enter&amp;#233; de los acontecimientos de Tria.&lt;BR&gt;&lt;BR&gt;Estaba en el Bosque Intemporal para saber c&amp;#243;mo estaban mis amigos. Desafortunadamente, no todos lograron sobrevivir.&lt;BR&gt;&lt;BR&gt;Pero, gracias a los dioses, pude salvar este huevo.&lt;BR&gt;&lt;BR&gt;Aunque hay un problema. &amp;#191;Quieres echarle un vistazo?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2064">
+        <Page social="4" voiceTypeId="0">Es un huevo espectral de Timeless Woods. &lt;BR&gt;&lt;BR&gt;Sin embargo, su incubaci&amp;#243;n es problem&amp;#225;tica. El entorno no es el ideal. &lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a usar un hechizo de incubaci&amp;#243;n para ayudar a un nuevo esp&amp;#237;ritu a salir de &amp;#233;l. Para eso, necesito tu ayuda.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Gracias. &amp;#161;Pero no hay ni un minuto que perder! &lt;BR&gt;&lt;BR&gt;Mi asistente te explicar&amp;#225; el proceso en detalle.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2065">
+        <Page social="4" voiceTypeId="0">Para el hechizo de incubaci&amp;#243;n, necesitamos un &lt;font color='#0000FF'&gt;cristal de los mundos&lt;/font&gt; creado a partir de diferentes almas de este mundo. &lt;BR&gt;&lt;BR&gt;Esto incluye las almas de los jabal&amp;#237;es enfermos. Dir&amp;#237;gete al Bosque Intemporal de Tria y acaba con unos cuantos.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme sus almas silvestres.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2065">
+        <Page social="5" voiceTypeId="0">&amp;#191;Los llevas contigo? &amp;#161;Muchas gracias!&lt;NEXTPAGEBUTTON&gt;"De nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Derrota a varios monstruos, aunque las probabilidades de obtener un &lt;font color='#0000FF'&gt;cristal de los mundos&lt;/font&gt; sean muy bajas. &lt;BR&gt;&lt;BR&gt;Para el hechizo de incubaci&amp;#243;n, necesitamos &lt;font color='#0000FF'&gt;cristales de los mundos&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Derrota a monstruos de nivel 65 o superior para tener una baja probabilidad de obtener &lt;font color='#0000FF'&gt;cristales de los mundos&lt;/font&gt;.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="2065">
+        <Page social="0">El Bosque Intemporal de Tria alberga jabal&amp;#237;es enfermos de los que puedes obtener almas silvestres.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="6" villagerId="2065">
+        <Page social="7" voiceTypeId="0">Voy a crear un &lt;font color='#0000FF'&gt;cristal de los mundos&lt;/font&gt; para ti.&lt;BR&gt;&lt;BR&gt;&amp;#161;Con este podremos hacer eclosionar el huevo espectral!&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as informarle a Rumin?&lt;NEXTPAGEBUTTON&gt;"Bien, espero."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" villagerId="2065" />
+    <Text id="10" huntingZoneId="183" prevId="8" villagerId="2064">
+        <Page social="4" voiceTypeId="0">&amp;#161;Has reunido todos los materiales!&lt;BR&gt;&amp;#161;Ahora llega la hora de la verdad!&lt;BR&gt;&lt;BR&gt;Hace mucho tiempo que no lanzo un hechizo de incubaci&amp;#243;n. Espero que todo salga bien.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="2064">
+        <Page social="4" voiceTypeId="0">&amp;#161;Jajaja! &amp;#161;Muchas gracias! El milagro de la vida...&lt;BR&gt;&lt;BR&gt;Oh... este reci&amp;#233;n nacido espectral...&lt;BR&gt;Parece que le agradas mucho.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tal vez se &lt;i&gt;sabe&lt;/i&gt; que te debe la vida! &amp;#191;Quieres conservarlo? Ser&amp;#237;a un compa&amp;#241;ero de elecci&amp;#243;n para tus viajes.&lt;NEXTPAGEBUTTON&gt;"Sí, me gustaría."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Este esp&amp;#237;ritu es muy inteligente. Posee poderes m&amp;#225;gicos que podr&amp;#237;an resultar muy &amp;#250;tiles. &lt;BR&gt;&lt;BR&gt;&amp;#161;Cu&amp;#237;dalo bien!&lt;BR&gt;&amp;#161;Que los dioses te protejan en tu camino!</Page>
+    </Text>
+</QuestDialog>

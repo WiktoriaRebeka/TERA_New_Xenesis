@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Orden]&lt;BR&gt;&lt;BR&gt;Poco despu&amp;#233;s de tu partida de Exodor, la Valkyon Federation instal&amp;#243; una base para vigilar los movimientos de Arkarp y explorar Exodor.&lt;BR&gt;Regresa de inmediato a Exodor para abastecer la base.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fuiste a ver al responsable de mercanc&amp;#237;as para conseguir provisiones para Exodor antes de tomar la Puerta de las dimensiones para regresar a Exodor.&lt;BR&gt;&lt;BR&gt;Al completar la misi&amp;#243;n, puedes ejecutar &lt;font color='#FF3333'&gt;[donjon (463)] el llamado de Revenj&lt;/font&gt; y &lt;font color='#FF3333'&gt;[donjon (463)] enemigo oculto&lt;/font&gt;. Despu&amp;#233;s de lo cual, la misi&amp;#243;n &lt;font color='#7F00FF'&gt;[important] yunque de Kaia&lt;/font&gt; se activa autom&amp;#225;ticamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4">Sin duda le&amp;#237;ste la orden que te envi&amp;#233;. Seg&amp;#250;n Dougal, la destrucci&amp;#243;n del n&amp;#250;cleo provoc&amp;#243; la aparici&amp;#243;n de una Puerta de las dimensiones irregular. Aparentemente, fue la energ&amp;#237;a liberada la que la cre&amp;#243;.&lt;BR&gt;&lt;BR&gt;Los miembros del Arkarp podr&amp;#237;an intentar tomar la Puerta de las dimensiones para invadir nuestra base. Debemos reforzar nuestras defensas.&lt;BR&gt;&lt;BR&gt;Sin embargo, para reforzar la base de la federaci&amp;#243;n, necesitamos muchas provisiones. Ve a informar a los responsables de mercanc&amp;#237;as de Velika y luego regresa aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1108">
+        <Page social="4" voiceTypeId="0">Debemos participar en un trabajo tan importante, eso va de suyo. Pondr&amp;#233; provisiones a disposici&amp;#243;n de Exodor, aunque tenga que ayunar para ello. D&amp;#233;jame encargarme de eso.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="3" villagerId="1117">
+        <Page social="4" voiceTypeId="0">Ya he o&amp;#237;do hablar de Exodor... &amp;#191;Existe realmente ese lugar? No he podido ver nada desde Velika.&lt;BR&gt;&lt;BR&gt;Pero si el comandante afirma que debo ayudarte, no faltar&amp;#233; a ello.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1102">
+        <Page social="4" voiceTypeId="0">&amp;#161;As&amp;#237; que todos nos van a ayudar, qu&amp;#233; alivio!&lt;BR&gt;&lt;BR&gt;Conf&amp;#237;o en ti para ayudar a Dougal en la base de Exodor.&lt;BR&gt;&lt;BR&gt;Haz tus preparativos para ir a Exodor. Luego ve a encontrar a Gulan. &amp;#201;l te indicar&amp;#225; c&amp;#243;mo unirte a Exodor.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1567">
+        <Page social="4" voiceTypeId="0">Realmente fuiste a Exodor, es asombroso. Una Puerta de las dimensiones que lleva a Exodor est&amp;#225; abierta. Vallon, en Highwatch, te explicar&amp;#225; todo lo dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Te env&amp;#237;o all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Saluda a Vallon de mi parte.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="4999">
+        <Page social="4" voiceTypeId="0">Llegas en el momento justo. El comandante Seir me dijo que mi hermano fue a Exodor.&lt;BR&gt;&lt;BR&gt;Ahora puedes tomar la Puerta de las dimensiones para unirte a Exodor. Utiliza la Puerta de las dimensiones y ve luego a encontrar all&amp;#237; a Dougal.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2000" prevId="8" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Bienvenido a la base de la federaci&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;El comandante Seir probablemente ya te inform&amp;#243; que la destrucci&amp;#243;n del n&amp;#250;cleo oscuro provoc&amp;#243; la creaci&amp;#243;n de una Puerta de las dimensiones en la Zona central.&lt;BR&gt;&lt;BR&gt;Muchos Arkarps hostiles todav&amp;#237;a operan all&amp;#237;. Ay&amp;#250;dame a poner fin a sus actividades.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">Los mandriles est&amp;#225;n sembrando el caos en nuestro campamento, derribando andamios, moviendo objetos e impidiendo cualquier excavaci&amp;#243;n arqueol&amp;#243;gica digna de ese nombre en el {@Rgn:30001$$Refuge de Balder}.&lt;BR&gt;&lt;BR&gt;Erradica a los mandriles {@LinkCreature:30#510#patteffrois} y los {@LinkCreature:30#520#vilpattes}.&lt;BR&gt;&lt;BR&gt;Luego ve a ver a Leiria para una compensaci&amp;#243;n posterior a la masacre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1090">
+        <Page social="1">S&amp;#237;. Eso hace un mont&amp;#243;n de mandriles muertos.&lt;BR&gt;&lt;BR&gt;Y ahora, l&amp;#237;mpiame toda esa sangre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1090">
+        <Page social="0">&amp;#161;Mata a esos mandriles antes de que destruyan nuestro campamento!</Page>
+    </Text>
+</QuestDialog>

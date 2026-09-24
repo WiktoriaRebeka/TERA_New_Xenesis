@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="0">Has podido disfrutar del juego del tambor de guerra, una tradici&amp;#243;n de la fiesta del estanque para ahuyentar a las ranas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="4">&amp;#161;Bum, tambor rojo, la rana roja se va! &amp;#161;Bum, tambor morado, la rana morada se va! &lt;BR&gt;&lt;BR&gt;Hacer que las ranas se vayan.&lt;NEXTPAGEBUTTON&gt;De acuerdo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2003">
+        <Page social="4">&amp;#161;Buen trabajo con el tambor! &amp;#161;Un regalo para ti!&lt;NEXTPAGEBUTTON&gt;"Fue divertido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="0">Patrullaste los alrededores de la Aiguille mathar, escalaste un risco y saltaste para caer de pie, ligera como una pluma. Cuando viniste{@g:/e} a informar, Jorhon te declar&amp;#243;{@g:/e} apta para el servicio.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="4">Es hora de demostrar tu val&amp;#237;a, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Gyebrik, hijo de Karas, vigila el acceso este a la Base de la Tour. Ve a su encuentro mientras informo a Jorhon de tu progreso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1024">
+        <Page social="4">Se acerca una nueva recluta y hay trabajo por hacer. Semejante coincidencia es un buen augurio para tu futuro.&lt;BR&gt;&lt;BR&gt;Todos los d&amp;#237;as patrullamos la zona alrededor de la Aiguille mathar y recolectamos las flores que crecen en las alturas. Sirven para preparar una poci&amp;#243;n especial. Hemos instalado un obelisco para proteger la zona.&lt;NEXTPAGEBUTTON&gt;"¿Y qué me pides que haga exactamente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;No es obvio? Unos {@linkcreature:13#301194#Becailloux} da&amp;#241;aron el obelisco y se tragaron algunos pedazos. Recup&amp;#233;ralos, repara el obelisco y recolecta las flores. Oc&amp;#250;pate de esta tarea y Gyebrik, hijo de Karas, estar&amp;#225; encantado de ascenderte a miembro de pleno derecho de la guarnici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Los que tienden a entretenerse despu&amp;#233;s de cortar la flor se toman luego esta poci&amp;#243;n transl&amp;#250;cida. &amp;#218;sala solo en el momento oportuno.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1053">
+        <Page social="4">(Mientras vuelves a colocar los fragmentos, el obelisco se ilumina. Parece que ha funcionado.)&lt;BR&gt;&lt;BR&gt;(Ahora, trepa por las plantas trepadoras frente a ti.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1053">
+        <Page social="0">(Parece que no tienes suficientes fragmentos.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Cuando te envi&amp;#233;{@g:/e} a entrenar, pens&amp;#233; que te volver&amp;#237;a a ver m&amp;#225;s r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;Bueno, &amp;#191;qu&amp;#233; tienes que decir en tu defensa?&lt;NEXTPAGEBUTTON&gt;"Terminé mi patrulla, jefe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, una flor de montecelaje. Has terminado de verdad.&lt;BR&gt;&lt;BR&gt;Pues bien, &lt;PCNAME&gt;, tu entrenamiento ciertamente me ha satisfecho. &amp;#161;Felicitaciones! Ahora eres un miembro de pleno derecho de nuestra guarnici&amp;#243;n. Y creo que ya va siendo hora de que vistas el uniforme adecuado...</Page>
+    </Text>
+</QuestDialog>

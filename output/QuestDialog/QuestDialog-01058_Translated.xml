@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">Primero, instalan una gran piedra. Ahora, se re&amp;#250;nen a su alrededor. &amp;#191;Tiene esto relaci&amp;#243;n con todas estas muertes y mutaciones? No tengo ninguna prueba. Quiz&amp;#225;s tengas m&amp;#225;s suerte que yo, &amp;#191;qui&amp;#233;n sabe?&lt;BR&gt;&lt;BR&gt;Encuentra algo que pruebe la participaci&amp;#243;n de los {@LinkCreature:40#13#&amp;#233;visc&amp;#233;rateurs prions} en esta historia de plaga y entr&amp;#233;gaselo a {@LinkCreature:240#1004$$Lashirah}.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que lo har&amp;#237;as sin necesidad de esto, pero hay una recompensa en juego.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Bien hecho. Esto responde a muchas preguntas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">&amp;#191;Encontraste algo? &amp;#191;Todav&amp;#237;a no? Deshazte de unos cuantos {@LinkCreature:40#13#&amp;#233;visc&amp;#233;rateurs prions}, m&amp;#225;talos y registra sus cad&amp;#225;veres.</Page>
+    </Text>
+</QuestDialog>

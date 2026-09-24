@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Velik, la deidad protectora de Velika, expres&amp;#243; su deseo de conocerte. Tras una breve entrevista con la sacerdotisa Ciebel, obtuviste audiencia con Velik. Esta &amp;#250;ltima te advirti&amp;#243; sobre la existencia de una amenaza oculta que se cierne sobre Velika y pidi&amp;#243; tu ayuda.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Regresa a Velika de inmediato y pres&amp;#233;ntate ante el comandante Samael para darle tu informe. Esto es una orden prioritaria.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Mjum... al parecer tus insignificantes actos tambi&amp;#233;n han llegado a o&amp;#237;dos de Velik. La diosa ha pedido conocerte.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a las escaleras con la estatua de la diosa. Mira hacia adelante desde la Plataforma del p&amp;#233;gase y ver&amp;#225;s el lugar en cuesti&amp;#243;n. Una vez all&amp;#237;, ve a hablar con la {@linkcreature:63#1167#Pr&amp;#234;tresse Ciebel}. Ella te llevar&amp;#225; hasta el Santuario de Velik.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4" voiceTypeId="0">Es un honor recibirte aqu&amp;#237;, &lt;pcname&gt;. La diosa ya me ha hablado mucho de ti.&lt;BR&gt;&lt;BR&gt;Sin &amp;#225;nimo de ser grosera, me gustar&amp;#237;a hacerte una pregunta antes de llevarte ante la diosa.&lt;NEXTPAGEBUTTON&gt;"¿Qué quieres saber?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Imagina que te encuentras en una situaci&amp;#243;n cr&amp;#237;tica sin poder salir de ella por tus propios medios. Est&amp;#225;s al borde de la muerte...&lt;BR&gt;&lt;BR&gt;Tu enemigo est&amp;#225; justo al lado tuyo. &lt;BR&gt;&lt;BR&gt;Si sigues enfrent&amp;#225;ndolo, morir&amp;#225;n ambos. Pero si lo perdonas, pagas con tu vida.&lt;BR&gt;&lt;BR&gt;Al final, &amp;#191;preferir&amp;#237;as morir con tu enemigo?&lt;BR&gt;&amp;#191;O le dejar&amp;#237;as la vida a salvo?&lt;NEXTPAGEBUTTON&gt;"¿A dónde quieres llegar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Je, je, es tentador, &amp;#191;verdad? &lt;BR&gt;No exijo una respuesta inmediata.&lt;BR&gt;&lt;BR&gt;Pero nos vendr&amp;#237;a muy bien alguien de tu calibre. &lt;BR&gt;&lt;BR&gt;Sea cual sea tu decisi&amp;#243;n, tendr&amp;#225; un gran impacto en tu futuro.&lt;NEXTPAGEBUTTON&gt;"Tengo que pensarlo un poco más."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Lo esencial es no arrepentirte nunca de tu decisi&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Cuando llegue el momento, comprender&amp;#225;s mi pregunta y sabr&amp;#225;s qu&amp;#233; responder.&lt;BR&gt;&lt;BR&gt;Bien, &amp;#191;est&amp;#225;s listo para la diosa?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="409" prevId="4" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Por fin nos conocemos, &lt;PCNAME&gt;. Tu incorporaci&amp;#243;n es muy reciente, pero eres uno de los reclutas m&amp;#225;s prometedores. Has servido con valor y honor, pero m&amp;#225;s all&amp;#225; de eso, lo has hecho con compasi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Necesito soldados tan meritorios como t&amp;#250;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1167">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, recuerda siempre las palabras de la diosa. &lt;BR&gt;&lt;BR&gt;Debes salvar Velika. Que Shara y Arun te bendigan. &lt;BR&gt;&lt;BR&gt;Y ahora, regresa con Samael. Sin duda ya te est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has conocido a la diosa?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; inmenso honor! Sin importar la magnitud de tus haza&amp;#241;as... conocer a la diosa Velik tan pronto en una carrera tiene algo de milagroso.</Page>
+    </Text>
+</QuestDialog>

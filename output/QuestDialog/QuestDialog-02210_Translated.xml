@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9904">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#191;te embolsaste muchas insignias de pesca?&lt;BR&gt;Puedes usarlas para mejorar tu ca&amp;#241;a de pescar.&lt;BR&gt;Por otro lado, una ca&amp;#241;a de pescar mejorada te permite atrapar peces m&amp;#225;s dif&amp;#237;ciles.&lt;BR&gt;Si quieres saber m&amp;#225;s al respecto, te enviar&amp;#233; a Marais Vexatus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">En las cercan&amp;#237;as de Marais Vexatus, aprendiste c&amp;#243;mo funciona la mejora de las ca&amp;#241;as de pescar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para ir al sitio de pesca de Marais Vexatus?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Entonces saluda de mi parte al encargado de Marais Vexatus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">&amp;#161;Argh! &amp;#161;M&amp;#225;s despacio! Espantar&amp;#225;s a todos los peces con tu alboroto.&lt;BR&gt;&amp;#191;Entendido? &amp;#191;Te env&amp;#237;a el encargado del Lac des larmes?&lt;BR&gt;&amp;#161;Entonces disc&amp;#250;lpame! Estoy un poco irritable porque estoy acechando a los peces.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no me ayudas?&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Cuanto m&amp;#225;s mejorues tu ca&amp;#241;a de pescar, m&amp;#225;s peces dif&amp;#237;ciles podr&amp;#225;s atrapar.&lt;BR&gt;Seguramente ya compraste una ca&amp;#241;a en la tienda con tus insignias de pesca, &amp;#191;verdad?&lt;BR&gt;As&amp;#237; que intenta atrapar peces de mayor rango.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as capturarme un car&amp;#225;s [rango 3] en el sitio de pesca de Marais Vexatus?&lt;BR&gt;A cambio, te dar&amp;#233; un buen cebo pegajoso.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9904">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo tienes! Es un trabajo excelente.&lt;BR&gt;&lt;BR&gt;No tengo nada m&amp;#225;s que ense&amp;#241;arte.&lt;BR&gt;&lt;BR&gt;Cada sitio de pesca alberga un pez gigante, apodado bicho sagrado. Nunca se queda en el mismo lugar y debes pescar t&amp;#250; mismo para poder capturarlo. Sin embargo, las probabilidades de atraparlo son muy bajas.&lt;BR&gt;As&amp;#237; que prueba tu suerte cuando el clima sea favorable.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Como la federaci&amp;#243;n de pesca a&amp;#250;n se est&amp;#225; estableciendo, necesitamos la ayuda de principiantes como t&amp;#250;, &lt;PCNAME&gt;.&lt;BR&gt;Dir&amp;#237;gete a los otros sitios de pesca y mira c&amp;#243;mo puedes ser &amp;#250;til.&lt;BR&gt;La federaci&amp;#243;n te recompensar&amp;#225; dignamente.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9904">
+        <Page social="0">&amp;#191;Atrapaste el car&amp;#225;s? Para capturarlo, debes usar imperativamente una ca&amp;#241;a de pescar del rango apropiado.&lt;BR&gt;Si, para colmo, usas un cebo pegajoso de alto rango, no deber&amp;#237;a ser muy dif&amp;#237;cil.</Page>
+    </Text>
+</QuestDialog>

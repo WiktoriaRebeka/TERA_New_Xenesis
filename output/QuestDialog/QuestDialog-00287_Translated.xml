@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0">Me gustar&amp;#237;a poder disfrutar indefinidamente de tu ayuda, &lt;PCNAME&gt;, pero se te necesita urgentemente en el Puesto de vigilar costero.&lt;BR&gt;&lt;BR&gt;Sigue el camino hacia el sur y luego cruza el canal. Deber&amp;#237;as poder ver el puesto de vigilar.&lt;BR&gt;&lt;BR&gt;Te vamos a extra&amp;#241;ar, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="0">Parece que los nagas intentan infiltrarse en la Tombe de Dagon para despertar a su dios y creador. No s&amp;#233; si tienes conocimientos de teolog&amp;#237;a, pero Dagon no es un dios precisamente fil&amp;#225;ntropo.&lt;BR&gt;&lt;BR&gt;No tenemos diez mil opciones frente a nosotros.</Page>
+    </Text>
+</QuestDialog>

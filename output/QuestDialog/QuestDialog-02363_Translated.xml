@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="20102">
+        <Page social="4">&amp;#191;Te has adaptado bien a Arborea?&lt;BR&gt;&lt;BR&gt;Debes entrenar sin descanso para acostumbrarte r&amp;#225;pidamente al nuevo entorno.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres que te entrene?&lt;NEXTPAGEBUTTON&gt;"¿Qué debo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perfecto. Usa {@WorkObject:250001} para hacer aparecer a un guerrero de las sombras al que debes vencer. En cambio, esto es solo un calentamiento.&lt;BR&gt;&lt;BR&gt;Puedes venir a entrenar cuando te plazca.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

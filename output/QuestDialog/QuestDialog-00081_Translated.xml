@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Los devans de los alrededores est&amp;#225;n equipados con un nuevo tipo de armas. Son muy diferentes de sus armas tradicionales. Una cosa llev&amp;#243; a la otra, y pens&amp;#233; que nos ser&amp;#237;an tan &amp;#250;tiles como a ellos, si no m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Rastrea a los {@LinkCreature:3#300141#spadassins}, a los {@LinkCreature:3#19#bandits} o a los {@LinkCreature:3#18#r&amp;#226;cleuses} devans y recupera sus armas. Si est&amp;#225;n encantadas, prefiero tenerlas en nuestras manos que en las de ellos. No falles tu golpe. Los habitantes de esta regi&amp;#243;n cuentan con nosotros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#161;Bien hecho! Matamos dos p&amp;#225;jaros de un tiro: es malo para ellos y bueno para nosotros. Tendr&amp;#233; que encontrar una manera de hacer llegar estas armas al puesto de vanguardia o a Crescentia.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Oh, no tendr&amp;#225;s problemas para encontrarlos. En Deva Silva, no se ve otra cosa. Vi este nuevo tipo de armas en los devas y los bandidos. Deber&amp;#237;as empezar por ellos.</Page>
+    </Text>
+</QuestDialog>

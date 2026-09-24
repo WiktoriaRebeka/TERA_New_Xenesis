@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="0">Rida te ayud&amp;#243; a romper el segundo sello del templo a la orilla del lago de Seren. Antes de tu encuentro con el l&amp;#237;der de los Consos, {@creature:71#1114$$Rida} te inst&amp;#243; a no divulgar demasiados secretos del templo al Mysterium.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="1" voiceTypeId="0">Mi maestro, es decir, {@linkcreature:230#1024$$Alais}, es especialista en la lengua de los dioses. Podr&amp;#225; ayudarte.&lt;BR&gt;&lt;BR&gt;Espera... Deber&amp;#237;a estar midiendo la energ&amp;#237;a del patr&amp;#243;n de Balder.&lt;BR&gt;&lt;BR&gt;Camina hacia el este y encontrar&amp;#225;s el campamento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1024">
+        <Page social="1" voiceTypeId="0">&amp;#161;Oh, &lt;PCNAME&gt;!&lt;BR&gt;&amp;#191;C&amp;#243;mo va esa b&amp;#250;squeda del espejo de Balder? Entonces, &amp;#191;ya rompiste un sello de Seren?&lt;BR&gt;&lt;BR&gt;&amp;#161;Impresionante! Y para el siguiente sello, necesitas el contenido de este pergamino, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo echarle un vistazo?&lt;BR&gt;&lt;BR&gt;Oho, pero esto es...&lt;BR&gt;&lt;BR&gt;La persona que rompi&amp;#243; el primer sello recibe grandes elogios aqu&amp;#237;. Tambi&amp;#233;n est&amp;#225; escrito que el segundo sello se encuentra a la orilla de {@Rgn:30014$$Lac de Seren}.&lt;BR&gt;&lt;BR&gt;Y tambi&amp;#233;n se habla de un juramento. Mmm... Deber&amp;#237;as llev&amp;#225;rselo a Rida.&lt;NEXTPAGEBUTTON&gt;"¿Dónde está Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Probablemente ya te est&amp;#233; esperando en {@Rgn:30014$$Lac de Seren}. &amp;#191;No dijiste que tambi&amp;#233;n te esperaba para el primer sello? As&amp;#237; que ya conoce la ubicaci&amp;#243;n del sello.&lt;BR&gt;&lt;BR&gt;Seren parece tener un control fenomenal sobre la princesa. O quiz&amp;#225;s simplemente se enamor&amp;#243; de la princesa. Ja, ja.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as partir hacia el lago de Seren. Ven a {@Rgn:30015$$Forteresse des archives} cuando hayas roto el sello. Te esperar&amp;#233; all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Qué es esta fortaleza?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Es el campamento del clan Consos.&lt;BR&gt;Quiero presentarle a alguien cuando termine su misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mmm... Todo este asunto definitivamente ha avanzado mucho. Los Consos probablemente ya est&amp;#233;n alterados.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo que ver eso!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1082">
+        <Page social="1" voiceTypeId="0">&amp;#161;Llegas tarde!&lt;BR&gt;&amp;#191;C&amp;#243;mo te atreves a hacerme esperar as&amp;#237;? &amp;#191; trajiste el juramento?&lt;BR&gt;&lt;BR&gt;&amp;#161;Sin el juramento no podr&amp;#225;s acceder al sello de Seren!&lt;BR&gt;&lt;BR&gt;Mmm... Bien, aqu&amp;#237; est&amp;#225; el juramento. Maldici&amp;#243;n... &amp;#161;Necesitamos loto de luz de luna para extraer el poder!&lt;BR&gt;&lt;BR&gt;&amp;#161;Bueno, no te quedes ah&amp;#237; parado mene&amp;#225;ndote! &amp;#161;Ve a buscar loto de luz de luna en el lago!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1082">
+        <Page social="1" voiceTypeId="0">Eso deber&amp;#237;a servir.&lt;BR&gt;&lt;BR&gt;(Rida se unta las manos con roc&amp;#237;o de loto de luz de luna y murmura algo.)&lt;BR&gt;&lt;BR&gt;Uf... Casi termino.&lt;BR&gt;&amp;#161;Hagamos lo mismo que con el primer sello!&lt;BR&gt;&lt;BR&gt;&amp;#161;Rompe el sello de Seren mientras yo canalizo mis fuerzas en &amp;#233;l!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" villagerId="1082">
+        <Page social="0">Tampoco es tan dif&amp;#237;cil recolectar loto de luz de luna a la orilla del lago.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="5" villagerId="1082">
+        <Page social="1" voiceTypeId="0">Y listo... &amp;#161;{@Rgn:9025001$$Temple de Balder} abierto!&lt;BR&gt;&lt;BR&gt;(Rida parece exhausta.)&lt;BR&gt;&lt;BR&gt;El espejo de Balder est&amp;#225; ahora al alcance de la mano. Eso no significa que el espejo vaya a ser tuyo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; planeas hacer con el espejo?&lt;BR&gt;&lt;BR&gt;Tienes un plan, &amp;#191;verdad? &amp;#191;O solo seguiste tontamente las instrucciones del viejo? Pero te est&amp;#225; usando, eso es todo.&lt;NEXTPAGEBUTTON&gt;"Si es por una buena causa, no me importa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, &amp;#161;qu&amp;#233; ingenuidad! Incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;Pero me alegra saber que tendr&amp;#225;s el espejo de Balder en tus manos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eso no significa en absoluto que me caigas bien!&lt;BR&gt;&lt;BR&gt;Pero ni se te ocurra ofrecerle el espejo al viejo sin una buena raz&amp;#243;n. Si lo haces, &amp;#161;te detestar&amp;#233; el resto de mis d&amp;#237;as!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1053">
+        <Page social="1" voiceTypeId="0">&amp;#191;Rompiste el sello?&lt;BR&gt;Genial, &lt;PCNAME&gt;. As&amp;#237; que aqu&amp;#237; estamos.&lt;BR&gt;&lt;BR&gt;Ahora te presentar&amp;#233; a {@linkcreature:230#1047$$Nandu}, el l&amp;#237;der del clan Consos.&lt;BR&gt;&lt;BR&gt;Ha protegido el espejo de Balder y ha esperado mucho tiempo a que se cumpla la profec&amp;#237;a. Ve a informarle que todos los sellos est&amp;#225;n rotos.&lt;BR&gt;&lt;BR&gt;&amp;#201;l te dir&amp;#225; c&amp;#243;mo entrar en {@Rgn:9025001$$Temple de Balder}.</Page>
+    </Text>
+</QuestDialog>

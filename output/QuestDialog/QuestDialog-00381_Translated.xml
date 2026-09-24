@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Karascha, el se&amp;#241;or de los demonios, amenazaba la seguridad de la expedici&amp;#243;n y del mundo entero.&lt;BR&gt;&lt;BR&gt;Entraste en Karascha's Lair y lo mataste. Pero las palabras pronunciadas en el momento de su muerte sugieren que sus acciones eran solo una distracci&amp;#243;n al servicio de prop&amp;#243;sitos mucho m&amp;#225;s oscuros. Tambi&amp;#233;n pusiste la mano en un documento que parece indicar que Elion sobrevivi&amp;#243; a un enfrentamiento con Karascha y que sigue con vida, en busca de respuestas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Todos nuestros esfuerzos conflu&amp;#237;an en este momento crucial, &lt;PCNAME&gt;. Debemos impedir a toda costa que Karascha lleve su ritual hasta el final. Si hay que creer el documento que encontraste, hay un santuario al noreste de este campamento. &amp;#225;brete paso entre los demonios que encuentres mientras yo movilizo a nuestras fuerzas.&lt;BR&gt;&lt;BR&gt;Debemos enfrentar a Karascha en su guarida y acabar con &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Tan pronto como propinaste el golpe mortal, los demonios se retiraron. Ya se puede vislumbrar un cambio en la energ&amp;#237;a del valle.&lt;NEXTPAGEBUTTON&gt;"Karascha pronunció unas palabras..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Ah? Lian deber&amp;#237;a estar aqu&amp;#237; pronto, sin duda hay que ponerlo al corriente. Y ah&amp;#237; llega.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1037">
+        <Page social="4">Cuando Sersine, hija de Karas, mand&amp;#243; a llamarme, esperaba ver a Elion. Pero aun as&amp;#237; me alegra ver que est&amp;#225;s con vida. &amp;#191;Qu&amp;#233; noticias de mi hermano me traes?&lt;NEXTPAGEBUTTON&gt;"Esto es lo que pasó..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mh. Hubiera pensado que Elion no se perder&amp;#237;a un momento tan crucial. Pero al parecer, mi hermano est&amp;#225; desaparecido. &amp;#191;No tienes ninguna otra informaci&amp;#243;n al respecto?&lt;NEXTPAGEBUTTON&gt;"Bueno, encontré este pergamino..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Lian lee el pergamino)&lt;BR&gt;&lt;BR&gt;Una escritura antigua, pero s&amp;#233; leerla. Este pasaje dice: &quot;Elion nos ha evadido... todos los agentes de Arun tienen la orden de encontrarlo y reducirlo al silencio de una vez por todas&quot;.&lt;BR&gt;&lt;BR&gt;Parece que la ausencia de mi hermano no es deliberada y que a&amp;#250;n podr&amp;#237;a estar en peligro. S&amp;#237;gueme hasta Tower Base, &lt;BR&gt;. Adria debe ser puesta al corriente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">De acuerdo. As&amp;#237; que Elion fue capturado. Al menos sabemos que escap&amp;#243;. &lt;BR&gt;&lt;BR&gt;Gu&amp;#225;rdate esto por ahora. Si sus captores llegaran a enterarse de que lo est&amp;#225;s buscando, podr&amp;#237;as correr un gran peligro. Ya encontraremos alguna historia que contar que calme todos los &amp;#225;nimos.</Page>
+    </Text>
+</QuestDialog>

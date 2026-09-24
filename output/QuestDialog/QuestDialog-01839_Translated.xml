@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="0">&lt;PCNAME&gt; luch&amp;#243; hasta la plataforma de la aeronave, luego embarc&amp;#243; para atacar a los Parthas por v&amp;#237;a a&amp;#233;rea.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="4">Quiero que ataques al enemigo por la retaguardia con la ayuda de tus extra&amp;#241;as m&amp;#225;quinas voladoras.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los agarraremos en pinza y nos veremos en el medio!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2132">
+        <Page social="4">Para llegar a la plataforma de la aeronave, primero tendr&amp;#225;s que abrirte paso entre los Archidevans del valle ubicado al norte.&lt;BR&gt;&lt;BR&gt;Una vez despejado el camino, podr&amp;#225;s embarcar en tu nave.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2133">
+        <Page social="4">Te vi combatir. Sabes lo que haces. Qu&amp;#233; gusto saber que Seir a&amp;#250;n sabe elegir a la flor y nata de los combatientes.&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a necesitamos recuperar algunas piezas sueltas para la aeronave. No podr&amp;#225; despegar sin ellas.&lt;BR&gt;&lt;BR&gt;Encuentra las cajas y ll&amp;#233;vaselas a Garog.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2103">
+        <Page social="4">Kaia lo quiera, las has encontrado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pongo la aeronave en condiciones de marcha y embarcas. Por fin podremos lanzar el asalto!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="2103">
+        <Page social="0">Sin estas piezas, la misi&amp;#243;n no avanza.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;Ayud&amp;#243; a los soldados que recuperaban las provisiones en los Fey Forest y obtuvo m&amp;#225;s informaci&amp;#243;n sobre los planes de los Orkans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;&lt;PCNAME&gt;, debo regresar al campamento. Encontrar&amp;#225; el carro de suministros a la derecha siguiendo este camino. Por favor, recupere las provisiones que est&amp;#225;n esparcidas ah&amp;#237; y ll&amp;#233;velas de vuelta a Ketrath.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1026">
+        <Page social="4" voiceTypeId="0">&amp;#161;Por fin vino alguien! Pero temo que llegue demasiado tarde.&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Transport&amp;#225;bamos provisiones valiosas cuando todo empez&amp;#243; a salir mal. &lt;BR&gt;&lt;BR&gt;Unos orkans nos atacaron, saquearon nuestras provisiones y masacraron a nuestros camaradas. &amp;#191;Podr&amp;#237;a pedirle que libere a los soldados que los orkans capturaron? &lt;BR&gt;&lt;BR&gt;Solo tiene que darles un peque&amp;#241;o empuj&amp;#243;n y luego podr&amp;#225;n arregl&amp;#225;rselas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" villagerId="1026">
+        <Page social="0">El tiempo urge. Dese prisa, por favor.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="3" villagerId="1040">
+        <Page social="4" voiceTypeId="0">&amp;#161;Much&amp;#237;simas gracias! Yo puedo encargarme del resto. &lt;BR&gt;&lt;BR&gt;Pero vi a los orkans arrastrando a mis camaradas hasta el campamento de los orkans. &lt;BR&gt;&lt;BR&gt;Por favor, vaya a rescatarlos. Se lo ruego.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1041">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ha venido por nosotros!&lt;BR&gt;&lt;BR&gt;Estoy bien... Pero se lo ruego, ayude a mi amigo Milio. Lo escuch&amp;#233; gritar hace un momento, as&amp;#237; que s&amp;#233; que est&amp;#225; prisionero en alguna parte de este campamento.&lt;BR&gt;&lt;BR&gt;Regreso a la base de suministros, llegar&amp;#233; por mis propios medios.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1042">
+        <Page social="4" voiceTypeId="0">&amp;#191;Esere est&amp;#225; viva? &amp;#191;Y Ketrath tambi&amp;#233;n? As&amp;#237; que no fue una masacre completa...&lt;BR&gt;&lt;BR&gt;&amp;#191;D&amp;#243;nde est&amp;#225;n?&lt;NEXTPAGEBUTTON&gt;"Regresen a la base."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Entiendo. Me pondr&amp;#233; en marcha pronto.&lt;BR&gt;&lt;BR&gt;Durante mi cautiverio, pude observar lo siguiente: los orkans de los Fey Forest obedecen a una cadena de mando. Llevan un sello rojo y operan de manera muy organizada. &lt;BR&gt;&lt;BR&gt;Gracias por eliminar a los orkans, recuperar sus sellos y llev&amp;#225;rselos a Lapau. Es un poco neur&amp;#243;tico, pero sabe un mont&amp;#243;n sobre los orkans. &lt;BR&gt;&lt;BR&gt;En cambio, &amp;#233;l merodeaba solo por la regi&amp;#243;n cuando los orkans atacaron, as&amp;#237; que ignoro si a&amp;#250;n sigue con vida.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">&amp;#161;Hola! &amp;#191;C&amp;#243;mo va la resistencia?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tiene ah&amp;#237;? &amp;#161;Ah, un sello para marcar orcan! &amp;#161;Los orcans los usan para marcar a sus esclavos.&lt;BR&gt;&lt;BR&gt;Mmm, esto es interesante. &amp;#161;Estos son m&amp;#225;gicos! &amp;#161;El amo puede transferir poderes a su esclavo a trav&amp;#233;s de este sello!&lt;NEXTPAGEBUTTON&gt;"Debería buscar un lugar donde esconderse."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ey! &amp;#161;Qu&amp;#233; graciosa es! &amp;#161;Me las arreglo para esconderme de los orcans! &amp;#161;Simplemente se me da mejor que a todos los dem&amp;#225;s!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ey, hola! &amp;#191;Es una de sus conocidas?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" villagerId="1009">
+        <Page social="0">No hay nada que pueda interesarle.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="87" prevId="8" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Seg&amp;#250;n mis an&amp;#225;lisis, los orkans tienen un l&amp;#237;der que coordin&amp;#243; el asalto a Pora &amp;#201;linu. &lt;BR&gt;&lt;BR&gt;La estrategia de los orkans consiste generalmente en abrumar al adversario.&lt;NEXTPAGEBUTTON&gt;"Lo entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No deja de ser verdad. Escucha, tengo una nueva misi&amp;#243;n para ti. Tengo a otro explorador bastante avanzado en el territorio controlado por los Orkans que busca un punto d&amp;#233;bil que podamos aprovechar para expulsarlos de Fey Forest.&lt;BR&gt;&lt;BR&gt;Volver&amp;#225;s a hacer de distracci&amp;#243;n. Si lo logras, te habr&amp;#225;s ganado todo mi respeto.&lt;BR&gt;&lt;BR&gt;Mientras tanto, toma. Considera que se trata de tu trofeo por haber llegado aqu&amp;#237; antes que yo.</Page>
+    </Text>
+</QuestDialog>

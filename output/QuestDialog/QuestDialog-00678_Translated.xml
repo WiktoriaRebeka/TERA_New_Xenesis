@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="4">&amp;#161;Pfft...! &amp;#161;Estoy aqu&amp;#237; para encontrar reliquias, pero los eruditos para los que trabajo me mandaron decir que ya no est&amp;#225;n interesados!&lt;BR&gt;&lt;BR&gt;Escuch&amp;#233; sobre coleccionistas que pagan muy caro por un collar de orkan. El problema es que no estoy muy equipado para cazar {@LinkCreature:24#11#berserker orkan cornu}.&lt;BR&gt;&lt;BR&gt;Y a todo esto, &amp;#191;te interesar&amp;#237;a ganar un poco de dinero?&lt;BR&gt;&lt;BR&gt;Yo recojo mercanc&amp;#237;a para revender, t&amp;#250; tienes oro, la seguridad del campamento se refuerza y los orkans alimentan a los escorpiones. Todos salimos ganando. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#191;Qui&amp;#233;n dir&amp;#237;a que los orkans pod&amp;#237;an fabricar baratijas tan bonitas? &amp;#161;Deber&amp;#237;a venderse a buen precio! Unos cuantos m&amp;#225;s as&amp;#237; y pongo rumbo a la costa. Aqu&amp;#237; tienes tu parte. &amp;#161;Es un placer hacer negocios contigo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1020">
+        <Page social="0">&amp;#161;Nada de excusas tontas! Si has sobrevivido hasta aqu&amp;#237;, &amp;#161;unos cuantos orkans no van a asustarte!&lt;BR&gt;&lt;BR&gt;&amp;#161;Vuelve all&amp;#225; y no manches las joyas con su sangre!</Page>
+    </Text>
+</QuestDialog>

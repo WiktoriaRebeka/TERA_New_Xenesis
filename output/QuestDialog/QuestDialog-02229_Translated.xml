@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Encendiste los fuegos artificiales en honor a Balder.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="4">En nombre de Balder.&lt;BR&gt;&lt;BR&gt;Mantenemos las antorchas encendidas d&amp;#237;a y noche, todo el a&amp;#241;o, pero durante el festival, tambi&amp;#233;n lanzamos fuegos artificiales como ofrendas para Balder.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Has hecho tanto por nosotros... &amp;#191;Quisieras encender estos fuegos artificiales?&lt;NEXTPAGEBUTTON&gt;"¡Suena divertido!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Echa un vistazo a la plataforma de las antorchas y enciende estos fuegos artificiales.&lt;BR&gt;&lt;BR&gt;Ah, aseg&amp;#250;rate de no encenderlos hacia la gente. Es peligroso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7001">
+        <Page social="4">Mis agradecimientos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que este trabajo puede parecer tedioso, pero todos los d&amp;#237;as le estoy agradecido a Balder. Espero que honrar a Balder te haya ayudado a sentir lo mismo que yo.</Page>
+    </Text>
+</QuestDialog>

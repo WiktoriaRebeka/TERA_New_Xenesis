@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7002">
+        <Page social="0">Has ayudado a Tagun a reunir a su reba&amp;#241;o.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7002">
+        <Page social="4">Qu&amp;#233; bueno verte de nuevo. Mis ovejas se han escapado. Otra vez. &amp;#191;Podr&amp;#237;as ayudarme a reunirlas?&lt;NEXTPAGEBUTTON&gt;"Claro que sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="702" villagerId="7">
+        <Page social="0">&amp;#161;Beeee! &amp;#161;Beeee!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7002">
+        <Page social="4">Dime qu&amp;#233; oveja ha sido la m&amp;#225;s salvaje y le leer&amp;#233; la receta del cordero bulgogi.&lt;BR&gt;&lt;BR&gt;Bueno, gracias por tu ayuda. &amp;#161;Aqu&amp;#237; tienes un peque&amp;#241;o detalle para expresarte mi gratitud!&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

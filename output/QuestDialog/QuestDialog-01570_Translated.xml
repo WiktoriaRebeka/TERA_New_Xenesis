@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Muy bien... tienes el alkahest, un arma que se puede encantar y materia prima.&lt;BR&gt;&lt;BR&gt;A trabajar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Encantar un objeto permite mejorarlo, pero solo las piezas de equipo que se pueden encantar reciben este tratamiento.&lt;BR&gt;&lt;BR&gt;Las armas requieren cuatro unidades de materia prima por intento. Las armaduras de pecho requieren tres, mientras que el calzado y los guantes solo piden dos. Las materias primas deben ser del mismo rango o de un rango superior al objeto que est&amp;#225;s encantando.&lt;BR&gt;&lt;BR&gt;Cuando alcances la bonificaci&amp;#243;n m&amp;#225;xima, podr&amp;#225;s usar m&amp;#225;s materias primas para mejorar tus modificaciones. Pero a&amp;#250;n no hemos llegado a eso.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">En cuanto al alkahest... debes consultar el rango. Cada intento te costar&amp;#225; una cantidad de alkahests correspondiente al rango del objeto + 10&lt;BR&gt;&lt;BR&gt;En cuanto al uso: accede al men&amp;#250; de encantamiento presionando la tecla &quot;T&quot;. Haz clic derecho en el objeto que deseas encantar. Tus materias primas y tu alkahest se cargar&amp;#225;n autom&amp;#225;ticamente y se indicar&amp;#225; la cantidad &amp;#243;ptima. Haz clic en Encantar para hacer una prueba.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">&amp;#191;Lo has entendido todo? &amp;#191;Perfecto? Me lo figuraba, tienes cara de listo. Los mejores &lt;PCCLASS:lcase&gt;s encantan su equipo tanto como pueden. Toma, esto te ser&amp;#225; &amp;#250;til.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="4">Los Atel Akaad se mantienen extra&amp;#241;amente tranquilos. Dejaron una retaguardia, pero esperaba enfrentamientos m&amp;#225;s violentos. Est&amp;#225;n tramando algo.&lt;BR&gt;&lt;BR&gt;La &amp;#250;nica manera de hacernos una idea de sus planes consiste en poner las manos en los informes de los {@LinkCreature:25#2031#ma&amp;#238;tres de la mort devans} que dejaron atr&amp;#225;s. Cuento contigo para encontrar la forma de &quot;recuperarlos&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">&amp;#191;Son los informes de los exploradores? Hmm... veamos eso. &amp;#161;Por la maldici&amp;#243;n de Lok! La calma de la que hablaba es la que precede a las tormentas. Se est&amp;#225;n preparando para lanzar una ofensiva mayor. &amp;#161;Necesitamos refuerzos! Es demasiado para una sola persona. Ve a hablar con Rendalf, tal vez &amp;#233;l pueda encender una chispa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">&amp;#161;Mu&amp;#233;vete! &amp;#161;Necesitamos m&amp;#225;s informes de exploradores! Requeriremos toda esta informaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1027">
+        <Page social="10">&amp;#161;ESTOY AQU&amp;#205;, Culetta! No hace falta que me env&amp;#237;es mensajeros y solicitudes oficiales. Hmpff... estoy a cinco metros de ti.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; puede ser tan importante como para que... &amp;#191;C&amp;#243;mo?&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;Los jefes de guerra ossugons est&amp;#225;n reuniendo lo que queda de las fuerzas de los cultistas para atacar este fort&amp;#237;n?! No podemos darnos el lujo de perderlo. Llamo inmediatamente a refuerzos.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;. Oye, si no tienes nada m&amp;#225;s que hacer...</Page>
+    </Text>
+</QuestDialog>

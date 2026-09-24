@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2002" prevId="0" villagerId="130">
+        <Page social="5">Entiendo que quieras seguir a Elion lo antes posible para salvar a los aldeanos.&lt;BR&gt;&lt;BR&gt;Pero debes saber que un remedio contra la cristalizaci&amp;#243;n es igual de importante.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme, por favor?&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tengo que regresar al refugio de los Riverans para participar en el desarrollo de un remedio.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, un administrador de Arkarp me bloquea el camino. Te lo ruego, elim&amp;#237;nalo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="0">Gracias. Podr&amp;#233; sumergirme en cuerpo y alma en mis investigaciones.&lt;BR&gt;&lt;BR&gt;Encontrar&amp;#233; un remedio. Ve a salvar a los aldeanos.</Page>
+    </Text>
+</QuestDialog>

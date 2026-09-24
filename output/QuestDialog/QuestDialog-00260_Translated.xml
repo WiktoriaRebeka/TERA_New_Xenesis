@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0">(El cuerpo del soldado ha sufrido mutilaciones y una hoja sigue clavada en su carne.)&lt;BR&gt;&lt;BR&gt;(Sin embargo, se trata de un arma de {@LinkCreature:9#1000#faucheur sanglant de Lok}. No es de dise&amp;#241;o gula.)&lt;BR&gt;&lt;BR&gt;Estas armas parecen demostrar que los {@LinkCreature:9#1100#adorateurs} colaboran con los gulas, pero para formarnos una convicci&amp;#243;n &amp;#237;ntima, tendr&amp;#225;s que conseguirnos otras &lt;font color='#660000'&gt;armas&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">A pesar de tu juventud en el oficio, parece que entiendes de cuchillas. Y tienes raz&amp;#243;n: no se trata de un arma gula.&lt;BR&gt;&lt;BR&gt;&amp;#191;Los devotos de Lok colaboran con los gulas&amp;nbsp;? &amp;#161;Que Kaia nos socorra!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">&amp;#191;A qu&amp;#233; se debe tanta prisa&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

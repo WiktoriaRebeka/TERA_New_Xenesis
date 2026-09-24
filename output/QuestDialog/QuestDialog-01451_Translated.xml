@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tras poner fin al ritual del Altar of Despair, fuiste a Amena Quatla para interrumpir otro ritual en el Sanctum of Resurrection. Lograste detener todos los rituales. Pero mientras Isrenia intentaba calmar el huevo de Sikander, Thulsa y Killian aparecieron para completar el ritual, provocando as&amp;#237; el despertar de Kelsaik...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Voz de Isren]&lt;BR&gt;&lt;BR&gt;El pilar de sangre del Altar of Despair ha sido destruido. &lt;BR&gt;Hemos interrumpido un ritual. &lt;BR&gt;Ahora debemos interrumpir el ritual del Sanctum of Resurrection.&lt;BR&gt;&lt;BR&gt;Ve a Amena Quatla. &lt;BR&gt;Obt&amp;#233;n informaci&amp;#243;n sobre el Sanctum of Resurrection.</Page>
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4" voiceTypeId="0">&amp;#191;Kelsaik? &amp;#191;Qui&amp;#233;n es ese? &amp;#191;Acaso planea destruir el mundo? &lt;BR&gt;&amp;#191;Es eso lo que nos espera si Sikander despierta?&lt;BR&gt;&lt;BR&gt;Los sikandaris no escatiman esfuerzos.&lt;BR&gt;&lt;BR&gt;Hace alg&amp;#250;n tiempo, un explorador nos inform&amp;#243; que cuatro personas con aspecto de cl&amp;#233;rigos de alto rango subieron a la cima del templo de Amena Quatla.&lt;BR&gt;&lt;BR&gt;&amp;#161;No puede ser una coincidencia!&lt;BR&gt;&lt;BR&gt;Pero este informe no es del todo reciente.&lt;BR&gt;As&amp;#237; que deber&amp;#237;as darte prisa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="474" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Aparentemente, interrumpiste el primer ritual.&lt;BR&gt;Sikander y la energ&amp;#237;a negativa que lo afecta parecen debilitarse de nuevo.&lt;BR&gt;&lt;BR&gt;Siento que la energ&amp;#237;a de Isrenia fluye en ti. Si tambi&amp;#233;n logras detener el ritual del Sanctum of Resurrection, Isrenia podr&amp;#225; calmar a Sikander.&lt;BR&gt;&lt;BR&gt;Voy a bendecirte...&lt;BR&gt;Esta bendici&amp;#243;n te evitar&amp;#225; lo peor.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="474" prevId="4" villagerId="1008">
+        <Page social="4" voiceTypeId="0">Es la hora, me toca a m&amp;#237;.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;... gracias. Me ha gustado recorrer el mundo mortal a vuestro lado durante alg&amp;#250;n tiempo.&lt;BR&gt;&lt;BR&gt;Pero Sikander me necesita ahora... necesita todo lo que tengo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Sikander! &amp;#161;Acu&amp;#233;rdate de Isren! &amp;#161;Acu&amp;#233;rdate de su... de nuestro... amor por ti!&lt;BR&gt;&lt;BR&gt;&amp;#161;No hagas eso!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="474" prevId="5" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Kelsaik por fin ha despertado. Thulsa, Killian... &amp;#161;qu&amp;#233; insensatos!&lt;BR&gt;&lt;BR&gt;&amp;#191;De verdad pensaban que pod&amp;#237;an domar a semejante monstruo? &amp;#191;Y eso tras un combate as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Gracias a vuestros esfuerzos combinados con los de Isrenia, la resurrecci&amp;#243;n de Kelsaik no ha sido total. Queda un rayo de esperanza.&lt;BR&gt;&lt;BR&gt;Si Kelsaik hubiera recuperado todos sus poderes, hasta mi bendici&amp;#243;n habr&amp;#237;a sido impotente.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="474" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Sikander es un dios de la generaci&amp;#243;n de nuestros antepasados.&lt;BR&gt;Ahora que el reino de los dioses est&amp;#225; cerrado y nuestras fuerzas est&amp;#225;n mermadas, no podemos hacer nada contra Kelsaik.&lt;BR&gt;&lt;BR&gt;Pero un Kelsaik inacabado...&lt;BR&gt;Quiz&amp;#225; tengamos una oportunidad despu&amp;#233;s de todo.&lt;BR&gt;&lt;BR&gt;Volved primero a Kaiator. &amp;#191;Est&amp;#225;is listo?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="474" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Nos volveremos a ver en Kaiator. Excelente trabajo.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="6" villagerId="5029">
+        <Page social="4" voiceTypeId="0">No soy m&amp;#225;s que la sombra de lo que fui desde que el reino de los dioses est&amp;#225; cerrado.&lt;BR&gt;Me alegra verle con buena salud, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tengo la esperanza de que pueda derrotar a Kelsaik con la ayuda de la reliquia antigua de Saleron.&lt;NEXTPAGEBUTTON&gt;"¿Dónde está Saleron?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Saleron est&amp;#225; prisionero en la Crypt of Pannic, al sur de Shara.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Su poder bastar&amp;#237;a para dominar el mundo entero... as&amp;#237; que derrotar a Kelsaik, imag&amp;#237;nese... Thulsa y Killian seguramente tambi&amp;#233;n van tras esta reliquia.&lt;BR&gt;&lt;BR&gt;Si el poder de Kelsaik cae en manos equivocadas, el mundo estar&amp;#225; condenado.</Page>
+    </Text>
+</QuestDialog>

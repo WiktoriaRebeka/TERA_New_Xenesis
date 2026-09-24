@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="4">Jehan coloc&amp;#243; comida con peque&amp;#241;os detectores en los pastos situados al &lt;b&gt;sud&lt;/b&gt;. Como se esperaba, los {@LinkCreature:13#300920#noruks broussailleux} los destruyeron o se los comieron.&lt;BR&gt;&lt;BR&gt;Normalmente no me gusta meterme con unos guardianes tan nobles, pero Jehan insiste en recuperar sus &lt;font color='#660000'&gt;barras de energ&amp;#237;a&lt;/font&gt;. &amp;#191;Podr&amp;#237;as ir a buscarlas por nosotros? Yo mismo me encargar&amp;#237;a, pero me lastim&amp;#233; el tobillo y mi escolta... se niega a echarme una mano.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Kamarnu sabe elegir a sus agentes. Estas barras nos permitir&amp;#225;n entender qu&amp;#233; est&amp;#225; afectando a los guardianes de esta isla.&lt;BR&gt;&lt;BR&gt;Sabiendo lo &amp;#250;til que has demostrado ser para los investigadores, no te faltar&amp;#225; trabajo en el campamento. Deber&amp;#237;as quedarte por aqu&amp;#237;, tenemos m&amp;#225;s misiones que encargarte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Kamarnu tiene &amp;#243;rdenes, pero es un vago. Las barras de energ&amp;#237;a tienen un tiempo de vida limitado. Cada {@LinkCreature:13#300920#noruk broussailleux} que anda suelto sin ser examinado es una oportunidad que dejamos pasar.</Page>
+    </Text>
+</QuestDialog>

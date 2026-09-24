@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="4">Los mercenarios son unos payasos en comparaci&amp;#243;n con los {@LinkCreature:32#10#sorci&amp;#232;res sihrans} y los {@LinkCreature:32#11#polytypes sihrans}.&lt;BR&gt;&lt;BR&gt;El simple chisporroteo de sus hechizos en el aire basta para... bueno, digamos que si los mercenarios te dan pesadillas, no hay palabras para describir el terror que sentir&amp;#225;s ante las brujas.&lt;BR&gt;&lt;BR&gt;Si alguien pudiera deshacerse de ellas, nos facilitar&amp;#237;a mucho las cosas en el campo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1013">
+        <Page social="4">&amp;#161;Le tengamos miedo a esas brujas o no, es un alivio saber que ya no tendremos que lidiar con ellas! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1013">
+        <Page social="0">Si erradicas a los {@LinkCreature:32#10#sorci&amp;#232;res} y a los {@LinkCreature:32#11#polytypes} sihrans, todos podremos irnos de aqu&amp;#237; pronto.</Page>
+    </Text>
+</QuestDialog>

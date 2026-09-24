@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Creo que tu misi&amp;#243;n aqu&amp;#237; llega a su fin. En tu ausencia, pas&amp;#243; un mensaje: te estaba buscando.&lt;BR&gt;&lt;BR&gt;Ret&amp;#233;n bien lo que aprendiste aqu&amp;#237;. No olvides que tu devoci&amp;#243;n responde a una causa superior, e intenta que no te maten. Demasiados de tus compa&amp;#241;eros han... muerto &amp;#250;ltimamente.&lt;BR&gt;&lt;BR&gt;Ramun no deber&amp;#237;a tardar en regresar con tus nuevas &amp;#243;rdenes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1038">
+        <Page social="4">&amp;#161;Eh, t&amp;#250;, de ah&amp;#237;! &amp;#191;Conocer&amp;#237;as a una persona llamada &quot;&lt;PCNAME&gt;&quot;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Eres t&amp;#250;? Muy bien. Ya corro suficiente como para tener que andarte persiguiendo por aqu&amp;#237; y por all&amp;#225;. El Centurion Neziir necesita a todas las personas disponibles para participar en... lo que &amp;#233;l llama un &quot;ejercicio de pacificaci&amp;#243;n&quot;. Una forma elegante de decir &quot;Los Esp&amp;#237;ritus guardianes nos desbordan y estamos hasta el cuello&quot;, supongo.&lt;BR&gt;&lt;BR&gt;Lo encontrar&amp;#225;s en la cima de la colina, despu&amp;#233;s de seguir el camino... &amp;#161;Probablemente te ver&amp;#233; all&amp;#237;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1004">
+        <Page social="4">Saca pecho, &lt;PCNAME&gt;. Necesito que vayas a ocuparte de esos {@LinkCreature:13#304#noruks blafards}. Los investigadores de la expedici&amp;#243;n nos pidieron que examinemos la sangre de esp&amp;#237;ritus y bestias aparentemente debilitados.&lt;BR&gt;&lt;BR&gt;Vas a trabajar para m&amp;#237;, as&amp;#237; que ya sabes qu&amp;#233; hacer. Mata a tantos como sea necesario y recoge las muestras de sangre para los investigadores. Una vez cumplida tu misi&amp;#243;n, ve a rendir informe al &lt;font color='#660000'&gt;Prefecto Ashak&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1119">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;! Otro &amp;#233;xito que a&amp;#241;adir a tu haber. Solo lamento ver que un n&amp;#250;mero cada vez mayor de animales enferma. Intentamos limitar la masacre de especies vivas en la Isla de Dawn, pero para comprender lo que ocurre y salvar a algunas, debemos sacrificar a otras.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" villagerId="1119">
+        <Page social="0">Parece que no tienes suficientes muestras de sangre para mis investigaci&amp;#243;nes. Vas a tener que conseguir m&amp;#225;s de los {@LinkCreature:13#304#noruks blafards}.&lt;BR&gt;&lt;BR&gt;Nunca habr&amp;#237;a cre&amp;#237;do que Neziir se ver&amp;#237;a obligado a encargar esta misi&amp;#243;n a un recluta joven. Hab&amp;#237;a pedido veteranos, no novatos.</Page>
+    </Text>
+</QuestDialog>

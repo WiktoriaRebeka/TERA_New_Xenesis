@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Thulsa teme por su miserable pellejo... ha hecho reunir a sus tropas.&lt;BR&gt;&lt;BR&gt;Ha llamado de vuelta a sus chamanes y guardias de la Tour d'&amp;#201;b&amp;#232;ne, as&amp;#237; como a los guardias, los torturadores ar&amp;#225;cnidos y otros sirvientes de angustia normalmente asignados a otros contingentes.&lt;BR&gt;&lt;BR&gt;Empieza a escasear de tropas. &amp;#161;Ve a arruinar sus esfuerzos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">&amp;#161;Fant&amp;#225;stico! Si no eres {@gender:b&amp;#233;ni/b&amp;#233;nie} por Kaia, me pregunto qui&amp;#233;n puede serlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1035">
+        <Page social="0">&amp;#161;Si el camino de la virtud es mostrar compasi&amp;#243;n por los sirvientes del mal, entonces elijo el camino del vicio!</Page>
+    </Text>
+</QuestDialog>

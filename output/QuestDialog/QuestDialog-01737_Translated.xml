@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="0">Deja que Dougal te informe sobre la misi&amp;#243;n. Est&amp;#225; totalmente decidido a llevarla hasta el final.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="4" voiceTypeId="0">Podemos comenzar el embarque una vez que los reclutas hayan regresado.&lt;BR&gt;&lt;BR&gt;No deber&amp;#237;a hacer esperar a Zolyn. Inf&amp;#243;rmale que las provisiones y los soldados est&amp;#225;n listos para la partida.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1522">
+        <Page social="4" voiceTypeId="0">Los preparativos a&amp;#250;n no han terminado. &lt;BR&gt;Tienes algo agradable...&lt;BR&gt;&lt;BR&gt;Dime...&lt;BR&gt;Syona, la princesa &amp;#201;lin, &amp;#191;te suena de algo, no?&lt;NEXTPAGEBUTTON&gt;"¿Por qué quieres saberlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No, est&amp;#225; bien. No tiene importancia. No pienses m&amp;#225;s en eso.&lt;BR&gt;&lt;BR&gt;Pero trajiste la llave a Tamari, &amp;#191;verdad?&lt;BR&gt;As&amp;#237; que podemos contar contigo. &lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes el arrancador del crucero estelar Intr&amp;#233;pide. Ll&amp;#233;vaselo a Dougal.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1521">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; bueno verte por aqu&amp;#237;, &lt;PCNAME&gt;! &amp;#191;Est&amp;#225;s listo para zarpar hacia un nuevo continente?&lt;NEXTPAGEBUTTON&gt;"Aquí está el arrancador del crucero estelar Intrépide."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">El arrancador. Por fin podemos despegar. Perfecto.&lt;BR&gt;&lt;BR&gt;Estamos en camino hacia el norte de Arun. Creemos que es ah&amp;#237; donde se encuentran las ra&amp;#237;ces del mal demokron, adem&amp;#225;s de otro misterio m&amp;#225;s personal.&lt;BR&gt;&lt;BR&gt;Hablaremos de esto m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1521">
+        <Page social="4" voiceTypeId="0">Vamos, embarquemos, ya quiero ponerme en marcha.&lt;BR&gt;&lt;BR&gt;Pyon te transportar&amp;#225; a la nave en cuanto est&amp;#233;s listo.{@g:/e}</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1000">
+        <Page social="4" voiceTypeId="0">&amp;#161;Bienvenida a bordo! &amp;#191;No es magn&amp;#237;fico? M&amp;#225;s ancho que un barco de guerra y capaz de transportar a toda una compa&amp;#241;&amp;#237;a.&lt;BR&gt;&lt;BR&gt;No conozco todos sus peque&amp;#241;os secretos, pero s&amp;#233; que este crucero estelar se basa en una enorme cantidad de tecnolog&amp;#237;a argona.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" villagerId="4">
+        <Page social="0">Te mostrar&amp;#233; tu camarote. Av&amp;#237;same cuando est&amp;#233;s listo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="6" villagerId="1005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, nos salvaste a Actol y a m&amp;#237;. Gracias.&lt;BR&gt;&lt;BR&gt;No te preocupes, se acab&amp;#243; el robar elixires.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Equipamiento de la Federaci&amp;#243;n destinado a ayudar a &lt;PCNAME&gt; a derrotar al ej&amp;#233;rcito archidevan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Carta de Dougall]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;Me temo que la amenaza archidevana est&amp;#225; lejos de terminar. Debemos prepararnos para una nueva batalla.&lt;BR&gt;Tengo nuevos suministros de la Federaci&amp;#243;n que podr&amp;#237;an resultar &amp;#250;tiles.&lt;BR&gt;Re&amp;#250;nete conmigo en Highwatch cuando est&amp;#233;s listo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">&amp;#161;Qu&amp;#233; bueno verte de nuevo, &lt;PCNAME&gt;.&lt;BR&gt;Tengo equipo nuevo fabricado por los mejores herreros de la Federaci&amp;#243;n. Nunca est&amp;#225; de m&amp;#225;s actualizar el equipo.&lt;BR&gt;&amp;#161;Buena suerte! Nunca dejar&amp;#233; de apoyarte.</Page>
+    </Text>
+</QuestDialog>

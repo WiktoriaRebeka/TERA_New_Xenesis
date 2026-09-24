@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="5">Jajaja, Adru es tan gracioso como un orkan con nariz de payaso.&lt;BR&gt;&lt;BR&gt;Dicho esto, tiene raz&amp;#243;n... Ciertas especies de {@LinkCreature:15#14#carnassiers} rondan por los alrededores... se infiltraron en el campamento y Tetrask casi termina convertido en guiso de cabeza hueca.&lt;BR&gt;&lt;BR&gt;Hace falta mucho para alterarme, pero esas cosas eran... bastante aterradoras.&lt;BR&gt;&lt;BR&gt;&amp;#161;Soy la &amp;#250;nica persona capaz de proteger a nuestros eruditos de estos monstruos! &amp;#191;Te gustar&amp;#237;a ayudarme a disuadirlos de volver?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1023">
+        <Page social="5">Es un buen trabajo. Por poco, ser&amp;#237;as digno de formar parte de la guardia del reino. &amp;#161;Sigue as&amp;#237;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1023">
+        <Page social="0">&amp;#191;Mataste a esas especies de {@LinkCreature:15#14#pestesangs}?</Page>
+    </Text>
+</QuestDialog>

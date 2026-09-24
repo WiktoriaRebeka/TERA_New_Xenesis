@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">M&amp;#225;s problemas.&lt;BR&gt;&lt;BR&gt;Kunchara sabe hacer... &amp;#191;cu&amp;#225;l era la palabra? &amp;#161;&quot;In-tan-ca-siones&quot;... o algo as&amp;#237;! Escribe palabras en un papel, pone el papel en un hacha &amp;#161;y pum! Golpea m&amp;#225;s fuerte.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a ver a {@LinkCreature:218#1027$$Takucha}. &amp;#161;Nuestros talismanes no son para Tukarus!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Oooh, s&amp;#237;... La tienda de Kunchara se quem&amp;#243;, pero una r&amp;#225;faga de viento apag&amp;#243; el incendio... y la tienda. Takucha intent&amp;#243; recuperar los talismanes, pero Tukarus golpea fuerte. &amp;#191;Ves esta cicatriz?&lt;BR&gt;&lt;BR&gt;Tukarus le da nuestros talismanes a la {@LinkCreature:18#11#tribu de m&amp;#233;tal}... Esos bichos grandes con ruedas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1002">
+        <Page social="0">&amp;#161;Bien! &amp;#161;Muy bien, incluso! &amp;#161;No hay talismanes para Tukarus y los g&amp;#243;lems! Eres {@gender:dou&amp;#233;/dou&amp;#233;e}, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Har&amp;#237;as {@gender:un/une} {@gender:bon/bonne} cham&amp;#225;n!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1002">
+        <Page social="0">&amp;#191;La tribu de metal? Takucha quiere hablar de los g&amp;#243;lems. &amp;#191;G&amp;#243;lems con talismanes? &amp;#161;Pum! Eso duele.</Page>
+    </Text>
+</QuestDialog>

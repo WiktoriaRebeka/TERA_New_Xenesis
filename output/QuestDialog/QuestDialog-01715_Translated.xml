@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1609">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1609">
+        <Page social="0">El clima est&amp;#225; lejos de ser clemente en Isolated Town. Los Maestros apostados all&amp;#237; necesitan t&amp;#250;nicas resistentes a todas las inclemencias del tiempo y la soluci&amp;#243;n seguramente reside en la alquimia. &amp;#191;Podr&amp;#237;as ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1004">
+        <Page social="0">Gracias, &lt;PCclass:lcase&gt;. Tu ayuda marca una verdadera diferencia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1004">
+        <Page social="0">Tienes el plano y los kits. Habla con los vendedores de artesan&amp;#237;a en las ciudades si necesitas materiales suplementarios.</Page>
+    </Text>
+</QuestDialog>

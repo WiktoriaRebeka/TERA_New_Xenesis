@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#191;Est&amp;#225;s con &amp;#225;nimo temerario, &lt;PCNAME&gt;? Necesito que alguien vaya a buscar reliquias al {@Rgn:9017001$$Phare du Soleil}. &amp;#191;Qu&amp;#233; me dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Los trabajadores golem han comenzado a transferir al faro todas las reliquias que han desenterrado o encontrado.&lt;BR&gt;&lt;BR&gt;Sobre el papel no hay problema, &amp;#161;pero los combatientes golem que est&amp;#225;n adentro tienden a da&amp;#241;arlas! Ve al faro y salva algunos artefactos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">&amp;#161;Oh, m&amp;#237;rame esto!&lt;BR&gt;&lt;BR&gt;Unas pizarras de sabidur&amp;#237;a, algunas estatuas... son magn&amp;#237;ficas.&lt;BR&gt;&lt;BR&gt;La naturaleza nos sonr&amp;#237;e, &lt;BR&gt;. Bien hecho.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3025">
+        <Page social="0">&amp;#161;Salva estas reliquias antes de que los golems las rompan todas!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3025">
+        <Page social="4">A ver qu&amp;#233; has encontrado.&lt;BR&gt;&lt;BR&gt;Mmm. Varios pergaminos, un jarr&amp;#243;n y... otras cosas y achiperres.&lt;BR&gt;&lt;BR&gt;El Mysterium estar&amp;#225; encantado. &amp;#161;Gracias de nuevo!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3025">
+        <Page social="0">&amp;#161;Salva estas reliquias antes de que los golems las rompan todas!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3025">
+        <Page social="4">Aaah, &amp;#191;y qu&amp;#233; has encontrado?&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh, son discos de instrucciones para golem! Los Consos sabr&amp;#225;n qu&amp;#233; hacer con ellos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; d&amp;#237;a tan fruct&amp;#237;fero, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3025">
+        <Page social="0">&amp;#161;Salva estas reliquias antes de que los golems las rompan todas!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">La mina sigue expandi&amp;#233;ndose inexorablemente gracias al trabajo incesante de los {@LinkCreature:20#30011000#contrema&amp;#238;tres d'esclaves} y los {@LinkCreature:20#30012000#esclaves zombies}. &amp;#191;Qui&amp;#233;n sabe a qu&amp;#233; profundidad habr&amp;#225;n llegado a estas alturas?&lt;BR&gt;&lt;BR&gt;Vas a tener que librarnos de ellos. Si el enemigo sigue cavando de una forma u otra, este asunto terminar&amp;#225; mal.&lt;BR&gt;&lt;BR&gt;Mientras est&amp;#233;s en ello, ad&amp;#250;nate de sus herramientas. No se las vamos a dejar, eso ser&amp;#237;a un desperdicio. Ll&amp;#233;vaselo todo a Ruanal, en los Salones de la Melancol&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">A eso llamo un buen trabajo, &lt;PCNAME&gt;. Perm&amp;#237;teme invitarte...&lt;BR&gt;&lt;BR&gt;Toma, aqu&amp;#237; tienes un peque&amp;#241;o detalle para agradecerte tus esfuerzos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Todav&amp;#237;a hay much&amp;#237;simos zombis por eliminar...</Page>
+    </Text>
+</QuestDialog>

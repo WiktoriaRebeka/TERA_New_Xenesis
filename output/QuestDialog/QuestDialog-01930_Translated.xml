@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="0">Has decidido destruir la Base Secreta de los Devan para vengar a los soldados ca&amp;#237;dos en combate.&lt;BR&gt;Para restablecer la paz en Crescentia, eliminaste a Murdranak y con ello hiciste un gran servicio.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, la entrada de la Base Secreta&lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=emplacement de la Base secr&amp;#232;te des Descendants de Lok&quot;&gt;&lt;/A&gt;&lt;/font&gt; y el nombre del comandante est&amp;#225;n inscritos aqu&amp;#237;. &lt;BR&gt;&lt;BR&gt;Su l&amp;#237;der se llama {@LinkCreature:487#101}, y parece especialmente brutal y sin escr&amp;#250;pulos. Debemos intervenir antes de que puedan causar m&amp;#225;s da&amp;#241;os.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Debemos intentar infiltrarnos primero en la Base Secreta.&lt;BR&gt;Por desgracia, el lugar est&amp;#225; lleno de basiliscos muy ariscos. &lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as despejarnos el paso que lleva all&amp;#237;, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Para enfrentarte a adversarios bastante poderosos, debes mejorar tus t&amp;#233;cnicas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Puedes usar este glifo para fortalecer tus habilidades, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Con cada subida de nivel, obtienes puntos de glifo para usar en la activaci&amp;#243;n de glifos y efectos. &lt;BR&gt;&lt;BR&gt;Para abrir glifos bloqueados, debes alcanzar un nivel superior o conseguir una caja de glifos. &lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Appuyez sur la touche &lt;img src='img://__Icon_KeyboardShape.Keyboard_k' width='21' height='21' vspace='-6'/&gt; pour ouvrir le menu de comp&amp;#233;tences et utiliser des points de glyphe.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Si activas el glifo equivocado por error, no te preocupes. &lt;BR&gt;&lt;BR&gt;Solo tienes que restablecer tus puntos de glifo desde el men&amp;#250;.&lt;BR&gt;&lt;BR&gt;La calidad de un glifo var&amp;#237;a seg&amp;#250;n sea superior o raro. &lt;BR&gt;&lt;BR&gt;Seguramente encontrar&amp;#225;s buenos glifos durante tus aventuras.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, s&amp;#237;. &lt;BR&gt;&lt;BR&gt;Una vez que hayas eliminado a los basiliscos, ve a ver a Ausdan. &lt;BR&gt;&lt;BR&gt;Voy a volver a Crescentia para informar a Jodoc. &lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Ah, entonces ya est&amp;#225;s al tanto. &lt;BR&gt;&lt;BR&gt;Las estad&amp;#237;sticas de las habilidades var&amp;#237;an seg&amp;#250;n el glifo que uses. &lt;BR&gt;&lt;BR&gt;Aprender&amp;#225;s a usarlos sabiamente durante tus viajes, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Cuento con ello."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, s&amp;#237;. &lt;BR&gt;&lt;BR&gt;Una vez que elimines a los basiliscos, ve a ver a Ausdan. &lt;BR&gt;&lt;BR&gt;Har&amp;#233; que se env&amp;#237;e un informe sobre la Base secreta a Jodoc. &lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Est&amp;#225;s de vuelta, &lt;PCNAME&gt;.&lt;BR&gt;&amp;#191;As&amp;#237; que aceptaste la misi&amp;#243;n que apunta a la Base secreta?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="9" voiceTypeId="0">&lt;BR&gt;&lt;BR&gt;Lamentablemente no podr&amp;#233; ayudarte directamente en combate.&lt;BR&gt;&lt;BR&gt;La entrada est&amp;#225; por all&amp;#225;, a la derecha. Toma el camino que parte a mi izquierda hasta la entrada de la caverna.&lt;BR&gt;&lt;BR&gt;He visto a adversarios ir y venir por ah&amp;#237;. Sin duda es ah&amp;#237; donde se encuentra su &lt;BR&gt;&lt;font color='#0080FF'&gt;Base secreta&lt;/A&gt;&lt;/font&gt;. Grapine est&amp;#225; adentro, disfrazado para pasar desapercibido.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esos monstruos decimaron a la mayor parte de mi unidad, as&amp;#237; que no tengas sentimientos! &amp;#161;Elim&amp;#237;nalos cueste lo que cueste! &amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3001" prevId="6" villagerId="1111">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, eres t&amp;#250;! &amp;#161;Alguien de la Valkyon Federation Headquarters! Si te cruzo aqu&amp;#237;, probablemente sea porque los documentos han llegado. &lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; pas&amp;#243; con tus aliados?&lt;NEXTPAGEBUTTON&gt;"Todos están muertos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pero al menos s&amp;#233; que el sacrificio de mis aliados no ha sido en vano. La destrucci&amp;#243;n de la Base secreta me ofrece cierto consuelo.&lt;BR&gt;&lt;BR&gt;Te dir&amp;#233; todo lo que s&amp;#233;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3001" prevId="7" villagerId="1109">
+        <Page social="4" voiceTypeId="0">Este teleportal te transporta fuera de la Base secreta. &lt;BR&gt;&lt;BR&gt;Informa a Isla sobre el &amp;#233;xito de tu misi&amp;#243;n.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Le donjon ne se r&amp;#233;initialise pas automatiquement quand vous le quittez apr&amp;#232;s l'avoir termin&amp;#233;. &lt;BR&gt;&lt;BR&gt;Tapez "/R&amp;#233;initialiser" dans la fen&amp;#234;tre de discussion ou cliquez sur la touche de r&amp;#233;initialisation des instances. &lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1006">
+        <Page social="4" voiceTypeId="0">&amp;#191;Destruiste la Base secreta?&lt;BR&gt;&lt;BR&gt;Es realmente impresionante, &lt;PCNAME&gt;. As&amp;#237;, el sacrificio de los equipos de investigaci&amp;#243;n no ha sido en vano. Ahora que destruiste al resto de las tropas de los descendientes de Lok y de los devans en la Base secreta, cierta serenidad volver&amp;#225; a Arcadia por un buen rato.&lt;BR&gt;&lt;BR&gt;Gracias por informarle a Jodoc, en Crescentia. Usa este pergamino que te llevar&amp;#225; a Crescentia.&lt;BR&gt;&lt;BR&gt;&amp;#161;En marcha, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="59" prevId="9" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Le has hecho un gran servicio a la Federaci&amp;#243;n. Su muerte es un verdadero alivio.&lt;BR&gt;&lt;BR&gt;Tu trabajo merece un gesto de gratitud. Aqu&amp;#237; tienes tu recompensa. Te ruego que la aceptes.</Page>
+    </Text>
+</QuestDialog>

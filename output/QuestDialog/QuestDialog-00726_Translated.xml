@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1015">
+        <Page social="4">&amp;#191;Ves a ese Castanic de all&amp;#225;? &amp;#191;Deigan?&lt;NEXTPAGEBUTTON&gt;"Sí, ¿por qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Me sigue a todas partes como un Popori enamorado. Me ronda, pero... es todo lo que hace.&lt;BR&gt;&lt;BR&gt;No tengo tiempo que perder con sus jueguitos. Si es demasiado cobarde para declararse, que se vaya a coquetear con las gulas.&lt;BR&gt;&lt;BR&gt;Deshazte de &amp;#233;l, &amp;#191;entendido? B&amp;#250;rlate de &amp;#233;l, hum&amp;#237;llalo, en fin... haz lo necesario.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#191;Qu&amp;#233;? &amp;#161;No soy un cobarde! Es solo que... me estoy tomando mi tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y adem&amp;#225;s, m&amp;#237;rate este hueso! Se necesitan agallas para conseguir esta clase de trofeos en combate.&lt;BR&gt;&lt;BR&gt;Ve a mostrarle esto. Eso deber&amp;#237;a cerrarle la boca.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1015">
+        <Page social="4">Qu&amp;#233; pesado... Como si fuera a dejarme impresionar por un hueso. Cualquier imb&amp;#233;cil puede matar a un ossugon.&lt;BR&gt;&lt;BR&gt;Siento haberte {@gender:embarqu&amp;#233;/embarqu&amp;#233;e} en esto, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

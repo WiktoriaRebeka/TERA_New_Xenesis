@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="4">No tenemos mucho tiempo, as&amp;#237; que ir&amp;#233; directo al grano.&lt;BR&gt;&lt;BR&gt;Kunchara les dijo que hab&amp;#237;a vuelto locos a los devoratripas con un hechizo. S&amp;#237; lanz&amp;#243; un hechizo, pero sus efectos no son los responsables de esta cat&amp;#225;strofe.&lt;BR&gt;&lt;BR&gt;Como de costumbre, los cultistas son los culpables.&lt;NEXTPAGEBUTTON&gt;"Pero Tukarus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tukarus pensaba lo mismo que Kunchara, pero ambos se equivocaban. No puedo explicarles todo en detalle ahora mismo, pero conf&amp;#237;en en mi.&lt;BR&gt;&lt;BR&gt;Para arreglar las cosas, voy a necesitar la sangre de los {@LinkCreature:18#21#fendeurs de cr&amp;#226;ne de Lok} y los {@LinkCreature:18#22#pr&amp;#234;tres de Lok}.&lt;BR&gt;&lt;BR&gt;Les explicar&amp;#233; todo a su regreso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">Es exactamente lo que necesitaba. Muchas gracias.&lt;BR&gt;&lt;BR&gt;&amp;#191;La explicaci&amp;#243;n? Me temo que tengo demasiado que hacer. Ser&amp;#225; para la pr&amp;#243;xima, lo prometo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1022">
+        <Page social="0">Cuanto m&amp;#225;s tiempo se queden aqu&amp;#237;, m&amp;#225;s tiempo tendr&amp;#225;n los cultistas para organizarse.</Page>
+    </Text>
+</QuestDialog>

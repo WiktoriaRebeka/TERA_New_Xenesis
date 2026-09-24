@@ -1,0 +1,56 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir te est&amp;#225; buscando. Ve a verlo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tras el festival de Velika, te enteraste de que la diosa no se hab&amp;#237;a despertado de su sue&amp;#241;o.&lt;BR&gt;La Arcanalit de Mystel y la propia Mystel te ayudaron a adentrarte en el sue&amp;#241;o de Velik para eliminar all&amp;#237; a las mariposas que distorsionaban el sue&amp;#241;o y ver despu&amp;#233;s el verdadero contenido del mismo.&lt;BR&gt;Los aldeanos de Arborea cristalizados ca&amp;#237;an del cielo e incluso la diosa Velik estaba prisionera en una gema.&lt;BR&gt;Fue en ese momento cuando la diosa Velik se dio cuenta de tu presencia en su sue&amp;#241;o y te expuls&amp;#243; de &amp;#233;l.&lt;BR&gt;Mystel te advirti&amp;#243; sobre los peligros inminentes antes de desaparecer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Desde el festival de Velika, los aldeanos se quejan de mareos inexplicables.&lt;BR&gt;&lt;BR&gt;Y t&amp;#250; tampoco pareces estar en plena forma.&lt;BR&gt;&lt;BR&gt;Sin embargo, te ruego que averig&amp;#252;es si los aldeanos est&amp;#225;n enfermos y cu&amp;#225;l es la causa de sus s&amp;#237;ntomas.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">El gestor de inventario Getty est&amp;#225; especialmente afectado.&lt;BR&gt;&lt;BR&gt;Ve a verlo e identifica sus s&amp;#237;ntomas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">&amp;#218;ltimamente, me dan ataques de mareos muy fuertes con frecuencia.&lt;BR&gt;&lt;BR&gt;La &amp;#250;ltima vez, por poco abro el almac&amp;#233;n equivocado.&lt;BR&gt;Y cuando consigo conciliar el sue&amp;#241;o, mis sue&amp;#241;os son muy agitados.&lt;BR&gt;&lt;BR&gt;Un drag&amp;#243;n negro cae por un acantilado en presencia de una mariposa.&lt;BR&gt;&lt;BR&gt;Kailum afirma que tiene el mismo sue&amp;#241;o desde que sufre de mareos.&lt;NEXTPAGEBUTTON&gt;"¿Qué haces para remediarlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aparentemente, Kailum ha hecho llamar a un m&amp;#233;dico de renombre.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que me examinara tambi&amp;#233;n a m&amp;#237;, pero la gente como yo, que tiene que trabajar todos los d&amp;#237;as, apenas puede hacerse examinar.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1157">
+        <Page social="0" voiceTypeId="0">Es cierto que los sue&amp;#241;os son molestos, pero los mareos son a&amp;#250;n peores.&lt;BR&gt;&lt;BR&gt;Parece que Cottrey ha desarrollado un remedio para curar los mareos y por eso lo he hecho llamar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tal si te haces examinar t&amp;#250; tambi&amp;#233;n?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1264">
+        <Page social="0" voiceTypeId="0">La gente ha cambiado mucho desde el festival de Velika.&lt;BR&gt;&lt;BR&gt;&amp;#191;Sientes t&amp;#250; tambi&amp;#233;n s&amp;#237;ntomas similares?&lt;BR&gt;Tal vez alguien haya echado veneno en los barriles de vino.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero no te preocupes! No hay enfermedad sin cura.&lt;NEXTPAGEBUTTON&gt;"¿Desde el festival?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hablo del festival de Velika.&lt;BR&gt;&lt;BR&gt;Desde entonces, muchos participantes se quejan de migra&amp;#241;as.&lt;BR&gt;&lt;BR&gt;Puede ocurrir que a todo un grupo le d&amp;#233; migra&amp;#241;a, pero que adem&amp;#225;s todos tengan el mismo sue&amp;#241;o, es cuanto menos extra&amp;#241;o. Quiz&amp;#225; ni siquiera se trate de una enfermedad.&lt;BR&gt;&lt;BR&gt;&amp;#161;Desde luego, este remedio solo sirve para combatir los mareos, pero intentar&amp;#233; preparar uno a&amp;#250;n mejor!&lt;BR&gt;&lt;BR&gt;Bien, empieza por tomarte este remedio y descansa un poco.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1264">
+        <Page social="0" voiceTypeId="0">&amp;#191;Te encuentras mejor?&lt;BR&gt;&lt;BR&gt;Sin duda, alguien ha metido hierbas t&amp;#243;xicas en los barriles de vino.&lt;BR&gt;&lt;BR&gt;La diosa Velik tambi&amp;#233;n parece extenuada.&lt;BR&gt;En cualquier caso, sigue durmiendo profundamente.&lt;NEXTPAGEBUTTON&gt;"¿La diosa Velik?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Jajaja! No me vas a creer.&lt;BR&gt;&lt;BR&gt;Yo tambi&amp;#233;n me re&amp;#237; mucho cuando me enter&amp;#233; por primera vez.&lt;BR&gt;&lt;BR&gt;Un cl&amp;#233;rigo de la diosa me hablaba con cara de gravedad y me cost&amp;#243; much&amp;#237;simo reprimir una carcajada.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1265">
+        <Page social="0" voiceTypeId="0">Ah, eres t&amp;#250;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La diosa Velik no se despierta y eso es muy problem&amp;#225;tico.&lt;NEXTPAGEBUTTON&gt;"¿Es frecuente que la diosa Velik se duerma?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Eso nunca hab&amp;#237;a ocurrido antes.&lt;BR&gt;Por esta raz&amp;#243;n necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;Actualmente hay un m&amp;#233;dico de renombre en Velika y he pensado en hacerlo llamar, pero prefiero acudir a ti.&lt;BR&gt;&lt;BR&gt;Ve a ver a Halran, el sabio de Highwatch, y preg&amp;#250;ntale qu&amp;#233; puede significar el sue&amp;#241;o de la diosa.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1003">
+        <Page social="0" voiceTypeId="0">El Hall of Knowledge no est&amp;#225; abierto a cualquiera.&lt;BR&gt;&lt;BR&gt;Pero Halran te ha mencionado, &lt;PCNAME&gt;, y por lo tanto puedes entrar.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Te enviar&amp;#233; directamente con Halran.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" prevId="9" villagerId="1018">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, te estaba esperando.&lt;BR&gt;&lt;BR&gt;Te entrego las notas que Halran nos dej&amp;#243;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="1010">
+        <Page social="0" voiceTypeId="0">La Arcanalit de Mystel combina fren&amp;#233;ticamente las letras.&lt;BR&gt;&lt;BR&gt;[... @#$den ver el sue&amp;#241;o de un dios...]&lt;BR&gt;&lt;BR&gt;[... solo pueden provenir de un dios... @#!$ ...]&lt;BR&gt;&lt;BR&gt;[&lt;PCNAME&gt; ...]&lt;BR&gt;&lt;BR&gt;[Parcialmente divino... @#!$ ... no por ello es un dios.]&lt;NEXTPAGEBUTTON&gt;"Continúo leyendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La Arcanalit de Mystel combina fren&amp;#233;ticamente las letras.&lt;BR&gt;&lt;BR&gt;[... Fountain of Shara... @#$# ...]&lt;BR&gt;&lt;BR&gt;[... @#!$ ... cuando aparecen los vestigios de los dioses...]&lt;BR&gt;&lt;BR&gt;[... &lt;PCNAME&gt;...]&lt;BR&gt;&lt;BR&gt;[... el se&amp;#241;or de los vestigios... @#!$... aparecer&amp;#225;...]</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="2204">
+        <Page social="0" voiceTypeId="0">&amp;#191;Has encontrado la respuesta que buscabas?&lt;BR&gt;&lt;BR&gt;Halran tambi&amp;#233;n me pidi&amp;#243; que te entregaras esto.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="226" prevId="12" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Te estaba esperando. &lt;BR&gt;&lt;BR&gt;Te entrego el &amp;#250;ltimo fragmento del destino, guardi&amp;#225;n.&lt;BR&gt;&lt;PCNAME&gt;, est&amp;#225;s vinculado a una parte de mi ser.&lt;NEXTPAGEBUTTON&gt;"Me gustaría saber qué significa el sueño de la diosa Velik."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Para lograr ver el sue&amp;#241;o de Velik, necesito ciertas cosas.&lt;BR&gt;&lt;BR&gt;Necesito un ojo para ver el sue&amp;#241;o de la diosa, un c&amp;#237;rculo de destierro para proteger el cuerpo humano dentro del espacio divino, un flujo que permita atracar en el tiempo real, as&amp;#237; como una cuerda con la que pueda encontrar mi envoltorio carnal.&lt;BR&gt;&lt;BR&gt;Cons&amp;#237;gueme el ojo del observador, el c&amp;#237;rculo de destierro del santuario, el flujo del tiempo distorsionado y el cord&amp;#243;n del &amp;#225;rbol de resurrecci&amp;#243;n, y entonces te ayudar&amp;#233; a ver el sue&amp;#241;o de la diosa Velik.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="226" prevId="13" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Ahora te mencionar&amp;#233; dos cosas que debes tener en cuenta.&lt;BR&gt;&lt;BR&gt;Se trata de un asunto de la m&amp;#225;s alta importancia.&lt;BR&gt;&lt;BR&gt;Primero: el efecto del flujo del tiempo distorsionado se desvanece poco a poco.&lt;BR&gt;&lt;BR&gt;Una vez disipado el efecto, debo repatriarte para que no quedes prisionero entre el tiempo del mundo de los dioses y el de aqu&amp;#237; abajo.</Page>
+        <Page social="0" voiceTypeId="0">Segundo: ten en cuenta que el sue&amp;#241;o de un dios suele ser manipulado por su poseedor.&lt;BR&gt;&lt;BR&gt;Si deseas ver el verdadero contenido del sue&amp;#241;o, debes encontrar los elementos que alteran el sue&amp;#241;o y neutralizarlos.&lt;BR&gt;&lt;BR&gt;Coloca los materiales en la jarra y sumerge tu cabeza en ella para unirte al sue&amp;#241;o de la diosa Velik.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="226" prevId="14" villagerId="2000">
+        <Page social="0" voiceTypeId="0">No te preguntar&amp;#233; qu&amp;#233; es lo que viste.&lt;BR&gt;&lt;BR&gt;Pero percibo un peligro que se acerca.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, si no te preparas para enfrentar este peligro, el mundo se encaminar&amp;#225; a su perdici&amp;#243;n junto contigo y conmigo.&lt;BR&gt;&lt;BR&gt;Tu destino te llamar&amp;#225; cuando llegue el momento.&lt;BR&gt;Hasta pronto.</Page>
+    </Text>
+</QuestDialog>

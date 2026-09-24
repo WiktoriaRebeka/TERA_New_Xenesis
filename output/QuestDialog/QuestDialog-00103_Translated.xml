@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">Estos no-muertos est&amp;#225;n por todas partes. No s&amp;#233; si vienen del norte, si trabajan para los argons... en fin, &amp;#161;no s&amp;#233; pr&amp;#225;cticamente nada!&lt;BR&gt;&lt;BR&gt;Pero s&amp;#233; una cosa: &amp;#161;no quiero volver a verlos!&lt;BR&gt;&lt;BR&gt;Empieza por eliminar a los {@LinkCreature:4#1061#chevaliers sombres devans} y al {@LinkCreature:4#1062#infanterie devan relev&amp;#233;e}. Y ya que est&amp;#225;s, recupera sus insignias. Las colecciono.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Aqu&amp;#237; tienes un problema resuelto, &lt;PCNAME&gt;. Sigue luchando por la buena causa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Vamos, tampoco son titanes. Solo son huesos... con unas cuantas placas alrededor... y armas abominables. &amp;#161;Ve a acabar con esto y que no se hable m&amp;#225;s!</Page>
+    </Text>
+</QuestDialog>

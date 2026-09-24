@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="2" voiceTypeId="0">&amp;#161;Maldita sea... qu&amp;#233; fr&amp;#237;o tengo! Tengo las manos completamente entumecidas.&lt;BR&gt;Si tan solo tuviera un poco de sopa de pescado bien caliente.&lt;BR&gt;&lt;BR&gt;Si te doy la receta necesaria, &amp;#191;quieres prepararme una sopa de pescado?&lt;BR&gt;Desafortunadamente, no puedo moverme de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A la orilla del Lac de Celsian, Anville te convenci&amp;#243; de preparar cerveza con truchas asalmonadas plateadas. Capturaste truchas asalmonadas plateadas usando plantas paradis&amp;#237;acas como cebo y su amigo Jaedon hizo cerveza con ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">&amp;#191;De verdad me has preparado una?&lt;BR&gt;&amp;#161;Mil gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">&amp;#191;Tienes la sopa de pescado?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Gracias de nuevo por la sopa.&lt;BR&gt;Me la com&amp;#237; con mi amigo Jaedon a la orilla del Rocher de la d&amp;#233;solation.&lt;BR&gt;&amp;#201;l fue quien me cont&amp;#243; que incluso se puede hacer cerveza con las truchas asalmonadas plateadas del lago. &amp;#161;Dicen que es un manjar!&lt;BR&gt;Claro que todav&amp;#237;a me cuesta imaginarlo, pero hace una eternidad que no pruebo nada fuerte.&lt;BR&gt;&amp;#191;Qu&amp;#233; opinas, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Es interesante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Partiendo de aqu&amp;#237; hacia el norte, te topar&amp;#225;s con las plantas paradis&amp;#237;acas que crecen al pie de la monta&amp;#241;a.&lt;BR&gt;Con esas plantas, atrapar las truchas asalmonadas plateadas es pan comido.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="83" prevId="5" villagerId="9905">
+        <Page social="4" voiceTypeId="0">As&amp;#237; que has encontrado las plantas paradis&amp;#237;acas.&lt;BR&gt;Con el extracto de estas plantas, puedes fabricar un cebo al que las truchas asalmonadas plateadas no podr&amp;#225;n resistirse.&lt;BR&gt;&lt;BR&gt;Usa este extracto de plantas paradis&amp;#237;acas.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="83" prevId="6" villagerId="9905">
+        <Page social="0" voiceTypeId="0">&amp;#161;Has atrapado todas las truchas asalmonadas plateadas! Eso deber&amp;#237;a bastar para preparar la cerveza. Espera a que termine de elaborarla.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="83" villagerId="9905">
+        <Page social="0">&amp;#191;Tienes las truchas asalmonadas plateadas?&lt;BR&gt;Deber&amp;#237;as poder atraparlas fabricando un cebo a partir del extracto de plantas paradis&amp;#237;acas.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="83" prevId="7" villagerId="9905">
+        <Page social="4" voiceTypeId="0">&amp;#161;Gracias! Gracias a ti, pude hacer la cerveza.&lt;BR&gt;Por supuesto, te invito a un trago, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

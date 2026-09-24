@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3001#Derik} te busca.&lt;BR&gt;&lt;BR&gt;Parece que le gustar&amp;#237;a encomendarte el destino de unos cuantos argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">&amp;#161;Es un verdadero placer volver a verte, &lt;PCNAME&gt;! &amp;#161;Hay tantos argons y el tiempo apremia!&lt;BR&gt;&lt;BR&gt;Me encargar&amp;#237;a yo mismo si tuviera la oportunidad, &amp;#161;pero pens&amp;#233; que t&amp;#250; podr&amp;#237;as encargarte de liquidar a unos cuantos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Mmm, con gracia, rapidez y voluptuosidad.&lt;BR&gt;&lt;BR&gt;Ejem... &amp;#161;Quiero decir, lo haces de maravilla!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">&amp;#161;Mantente alerta, incluso si ya has cazado a docenas de presas como esa!&lt;BR&gt;&lt;BR&gt;&amp;#161;La complacencia puede hacer que te maten!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">No son los argons m&amp;#225;s hermosos con los que me he topado, pero aun as&amp;#237; es gratificante acabar con ellos, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Ten cuidado.&lt;BR&gt;&lt;BR&gt;Atacan desde abajo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">&amp;#191;No te aburre demasiado? &amp;#191;O sigue siendo un buen entrenamiento para cuando vuelvas al frente?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">No bajes la guardia.&lt;BR&gt;&lt;BR&gt;Es cuando combates contra presas habituales que eres m&amp;#225;s propenso a cometer errores.</Page>
+    </Text>
+</QuestDialog>

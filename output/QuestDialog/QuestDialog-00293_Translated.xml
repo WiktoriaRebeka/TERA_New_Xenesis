@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">En combate, los {@LinkCreature:10#18#l&amp;#233;viathans nagas} parecen catalizar la ira de sus pares.&lt;BR&gt;&lt;BR&gt;Al eliminar a estas criaturas, me pregunto si podr&amp;#237;amos afectar la voluntad de combate. Debemos descubrir c&amp;#243;mo lograrlo.&lt;BR&gt;&lt;BR&gt;Solo hay una manera de estar seguros. Intenta matar a los leviatanes, &lt;PCNAME&gt;, eso deber&amp;#237;a sumir a los nagas en la &quot;confusi&amp;#243;n&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Debe haber algo en estas vasijas. Se las enviar&amp;#233; a uno de esos eruditos que podr&amp;#225; divertirse descubriendo qu&amp;#233; contienen.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo, &lt;PCNAME&gt;&amp;nbsp;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1003">
+        <Page social="0">Escucha, no hay peligro. No te f&amp;#237;es del nombre de los {@LinkCreature:10#18#l&amp;#233;viathans nagas}.&lt;BR&gt;&lt;BR&gt;Puedes acercarte sin problema.</Page>
+    </Text>
+</QuestDialog>

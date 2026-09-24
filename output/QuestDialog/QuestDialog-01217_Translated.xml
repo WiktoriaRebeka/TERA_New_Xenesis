@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="4">Mi misi&amp;#243;n es desarrollar armas que nos den una ventaja sobre los argons, ya que no tenemos la ventaja num&amp;#233;rica.&lt;NEXTPAGEBUTTON&gt;"¿Tienes prototipos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bueno, tengo estos moduladores argon. Se supone que afectan a los argons sin poner a los dem&amp;#225;s en peligro.&lt;BR&gt;&lt;BR&gt;Solo necesito que los pruebes en el campo. Sin morir, por supuesto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">Esta bomba solo deber&amp;#237;a afectar a los aplastadores hulrap cerca de {@Rgn:48008}. Probablemente no los mate, pero podr&amp;#237;a hacerlos d&amp;#243;ciles.&lt;BR&gt;&lt;BR&gt;O tener un efecto totalmente diferente... Si te salen botones, ven a avisarme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Despu&amp;#233;s de seleccionar la parte 1, P&amp;#225;gina de di&amp;#225;logo 1)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Despu&amp;#233;s de seleccionar la parte 2, P&amp;#225;gina de di&amp;#225;logo 1)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(Despu&amp;#233;s de seleccionar la parte 3, P&amp;#225;gina de di&amp;#225;logo 1)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="6">Toma este modulador de flujo argon. Pru&amp;#233;balo r&amp;#225;pidamente en los {@LinkCreature:48#5#aplatisseurs hulraps} y regresa a darme tu informe.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="1017">
+        <Page social="6">&amp;#191;Se convirti&amp;#243; en rana? Extraordinario...&lt;BR&gt;&lt;BR&gt;Si se hubiera convertido en porcino, pronto tendr&amp;#237;amos al ej&amp;#233;rcito m&amp;#225;s gordo de la historia.&lt;BR&gt;&lt;BR&gt;Bien, vuelvo a trabajar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="1017">
+        <Page social="6">Toma este modulador de flujo argon. Pru&amp;#233;balo r&amp;#225;pidamente en los aplastadores hulrap y regresa a darme tu informe.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1017">
+        <Page social="6">&amp;#191;Encogi&amp;#243;? Notable...&lt;BR&gt;&lt;BR&gt;Si logro ajustar la f&amp;#243;rmula para afectar a los akalaths o a los gilgashs, &amp;#161;esto podr&amp;#237;a cambiar el curso de la guerra!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="1017">
+        <Page social="6">Toma este modulador de flujo argon. Pru&amp;#233;balo r&amp;#225;pidamente en los aplastadores hulrap y regresa a darme tu informe.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="1017">
+        <Page social="6">&amp;#191;M&amp;#225;s fuerte? Eso es malo...&lt;BR&gt;&lt;BR&gt;No s&amp;#233; d&amp;#243;nde puede estar mal la f&amp;#243;rmula. Voy a releer mis notas. Volver&amp;#233; a trabajar en ello.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="4">Esto ya no puede seguir as&amp;#237;. {@LinkCreature:231#1023$$Ghauth} est&amp;#225; poniendo nerviosas a las tropas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as hablar con {@LinkCreature:231#1013$$Urwah} en {@Rgn:31009$$Garnison de la Pointe du Phare} para obtener informaci&amp;#243;n detallada sobre la flota?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Escuch&amp;#233; una bocina de niebla a lo lejos a altas horas de la noche pasada. Jurar&amp;#237;a que era el barco de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos ver la flota ahora.&lt;BR&gt;&lt;BR&gt;Hay un &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7012#19245.8750,-104143.7813,34.8662&amp;type=1&amp;name=pointe du guet&quot;&gt;puesto de vigilancia&lt;/A&gt;&lt;/font&gt; en la orilla si te metes al agua y sigues la costa hacia la izquierda. &amp;#161;Pero ten cuidado, el lugar es traicionero!&lt;BR&gt;&lt;BR&gt;Desde ese lugar deber&amp;#237;as poder divisar la flota Valkyon. As&amp;#237; estaremos informados.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1013">
+        <Page social="4">&amp;#191;Qu&amp;#233;? &amp;#191;En serio?&lt;BR&gt;&lt;BR&gt;&amp;#191;Ning&amp;#250;n rastro de la flota? Es imposible. &amp;#161;Escuch&amp;#233; esa bocina muy bien!&lt;BR&gt;&lt;BR&gt;Esto es horrible. &amp;#191;Qu&amp;#233; se supone que les dir&amp;#233; a los dem&amp;#225;s?</Page>
+    </Text>
+</QuestDialog>

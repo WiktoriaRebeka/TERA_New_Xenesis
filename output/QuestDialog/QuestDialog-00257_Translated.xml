@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">&amp;#191;Sabes, &lt;PCNAME&gt;?, por todas partes se oye decir que nadie te llega a la suela de los zapatos.&lt;BR&gt;&lt;BR&gt;Pero tal vez solo sean habladur&amp;#237;as de cuartel...&lt;BR&gt;&lt;BR&gt;Si quieres demostrar tu val&amp;#237;a, ve a combatir a unos cuantos {@LinkCreature:9#1410#r&amp;#244;deurs labyrinthiques}. Ser&amp;#225;n adversarios a tu altura.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Hay que creer que los rumores de pasillo no son sistem&amp;#225;ticamente infundados.&lt;BR&gt;&lt;BR&gt;Ya nadie se burlar&amp;#225; de ti. En todo caso, no de tu esp&amp;#237;ritu combativo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Si me traes cuernos de {@LinkCreature:9#1410#r&amp;#244;deurs labyrinthiques}, demostrar&amp;#225;s que las lenguas viperinas no se equivocan contigo.&lt;BR&gt;&lt;BR&gt;Y si fracasas, les dar&amp;#225;s la raz&amp;#243;n a los esc&amp;#233;pticos.</Page>
+    </Text>
+</QuestDialog>

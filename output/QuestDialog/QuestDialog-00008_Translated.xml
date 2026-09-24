@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">La mayor parte de los refugiados que ver&amp;#225;s aqu&amp;#237; vienen de peque&amp;#241;os campamentos al otro lado de la colina. No se puede decir que la Federaci&amp;#243;n se haya esforzado mucho para mejorar su situaci&amp;#243;n. En fin, supongo que no son los &amp;#250;nicos necesitados.&lt;BR&gt;&lt;BR&gt;Sea como sea, vamos a tener que conseguirles comida. &amp;#161;Algunos ya se han reducido a intentar hacer sopa con trozos de corteza!&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedo ayudarles?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Los refugiados necesitan carne, eso es evidente. La mejor manera de conseguirla es cazar {@LinkCreature:2#57#phacoch&amp;#232;res longues-d&amp;#233;fenses} y {@LinkCreature:2#7#brutes phacoch&amp;#232;res}. &amp;#161;Solo queda asarla y a la mesa!&lt;BR&gt;&lt;BR&gt;El &amp;#250;nico problema es que estos puercos salvajes no son... muy amigables. &amp;#161;As&amp;#237; que ten cuidado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1031">
+        <Page social="4">Con esto tendr&amp;#225;n qu&amp;#233; comer durante un buen rato, &lt;PCNAME&gt;. Panza llena, coraz&amp;#243;n contento, como suele decirse.&lt;BR&gt;&lt;BR&gt;&amp;#161;Te guardaremos un par de chuletas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1031">
+        <Page social="0">&amp;#161;Piensa en los ni&amp;#241;os hambrientos! &amp;#161;Y en estos deliciosos asados de jabal&amp;#237;! Tr&amp;#225;eme algo de carne de {@LinkCreature:2#57#phacoch&amp;#232;re longues-d&amp;#233;fenses} y de {@LinkCreature:2#7#brute phacoch&amp;#232;re}.</Page>
+    </Text>
+</QuestDialog>

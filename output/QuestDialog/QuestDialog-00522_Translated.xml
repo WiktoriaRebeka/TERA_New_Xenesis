@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">&amp;#191;Puedo contar con su ayuda, verdad? Espero que les vaya mejor que a la persona encargada de asistirme. A cambio, acepto compartir con ustedes los frutos de cualquier descubrimiento relacionado con los gigantes. &amp;#191;Trato hecho?&lt;BR&gt;&lt;BR&gt;Muy bien, entonces vayan a cazar a los {@LinkCreature:18#11#golems rouages} y vean si pueden encontrarme otros &lt;FONT COLOR='#660000'&gt;fragmentos&lt;/FONT&gt;.&lt;BR&gt;&lt;BR&gt;Mis descubrimientos van a poner al mundillo de la ciencia a mis pies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">&amp;#161;Excelente! &amp;#161;Cuando pienso en el conocimiento que encierran estas inscripciones!&lt;BR&gt;&lt;BR&gt;Oooh, esto parece propaganda. &amp;#161;Intrigante!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ya quiero poder analizar esto! &amp;#161;Gracias por su ayuda!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">&amp;#191;Todav&amp;#237;a siguen aqu&amp;#237;? Les gusta holgazanear, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">Es el colmo... la cantidad de criaturas que terminan atac&amp;#225;ndonos por culpa de los cellerredes. Ahora tenemos que enfrentarnos a los {@LinkCreature:6#2021#phacoch&amp;#232;res grandes-d&amp;#233;fenses}.&lt;BR&gt;&lt;BR&gt;Esto empieza a cansarme. &amp;#191;Ir&amp;#237;as a cazar a estas bestias?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">Gracias. Con un poco de suerte podremos respirar tranquilos un rato, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

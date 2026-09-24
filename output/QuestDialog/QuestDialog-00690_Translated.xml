@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="4">Ve a eliminar a los {@LinkCreature:24#13#gardiens de runes rus&amp;#233;s}. Colaboran con los destripadores y protegen a los Culpables de la Conspiraci&amp;#243;n. Trae sus cuernos cuando los hayas matado.&lt;BR&gt;&lt;BR&gt;Sus cuernos tienen un gran valor. Quiero una compensaci&amp;#243;n por haber estado a punto de perder la vida.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1019">
+        <Page social="5">&amp;#161;Excelente! &amp;#161;Ya me siento m&amp;#225;s seguro! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1019">
+        <Page social="0">&amp;#191;A&amp;#250;n no has terminado?</Page>
+    </Text>
+</QuestDialog>

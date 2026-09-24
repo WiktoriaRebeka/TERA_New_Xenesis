@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="5">Los {@LinkCreature:22#7#apprenties sorci&amp;#232;res} son los menos peligrosos, pero los m&amp;#225;s numerosos. Si esta locura es contagiosa, debemos ponerle fin.&lt;BR&gt;&lt;BR&gt;Se re&amp;#250;nen en el Gran Sal&amp;#243;n. M&amp;#225;talos y luego ve a ver a {@LinkCreature:222#1008#Duani}.&lt;NEXTPAGEBUTTON&gt;"¿Que mate a los alumnos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">S&amp;#237;, absolutamente. Contrataremos un ej&amp;#233;rcito de m&amp;#237;sticos para resucitarlos cuando todo haya terminado.&lt;BR&gt;&lt;BR&gt;Estas aprendizas estar&amp;#225;n protegidas por {@LinkCreature:22#1#ronronneurs de mauvais poil} y {@LinkCreature:22#2#ronronneurs de bon poil}, as&amp;#237; que ten cuidado.{@g:prudent/prudente}&lt;BR&gt;Recupera todos los documentos y todas las cartas que las aprendizas tengan encima. Quiz&amp;#225; descubramos pistas en ellos.&lt;BR&gt;&lt;BR&gt; &amp;#161;Y ten mucho cuidado cuando le anuncies su muerte a {@LinkCreature:222#1008#Duani}. &amp;#161;Podr&amp;#237;a tom&amp;#225;rselo mal!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#191;Has masacrado ni&amp;#241;os para encontrar pistas?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; clase de... no, tienes raz&amp;#243;n. Ella tiene raz&amp;#243;n. No es momento para sentimentalismos.&lt;BR&gt;&lt;BR&gt;Necesitamos respuestas. Voy a estudiar estas cartas y ver qu&amp;#233; pueden ense&amp;#241;arnos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1008">
+        <Page social="0">&amp;#191;Dicen que debes entregarme cartas y pistas?&lt;BR&gt;&lt;BR&gt;&amp;#191;Es as&amp;#237;? Excelente. Vuelve a verme cuando las tengas.</Page>
+    </Text>
+</QuestDialog>

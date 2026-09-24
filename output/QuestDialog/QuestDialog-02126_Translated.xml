@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">Uno de nuestros mejores cazadores encabeza un equipo del Mysterium en {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;Necesitan a alguien que les despeje el camino. Di tu nombre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">&amp;#191;Siempre listo para la acci&amp;#243;n, &lt;PCNAME&gt;&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Bien, eres {@gender:le/la} &lt;PCCLASS:lcase&gt; que estaba buscando. &amp;#191;Te apetece un poco de acci&amp;#243;n&amp;nbsp;?&lt;NEXTPAGEBUTTON&gt;"¡Como siempre !"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nunca te cansas, &amp;#191;eh&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Los argons se han reunido en la zona que el Mysterium quer&amp;#237;a explorar en busca de artefactos.&lt;BR&gt;&lt;BR&gt;&amp;#193;breles paso y rec&amp;#243;geme algunas pieles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Son criaturas peque&amp;#241;as y h&amp;#225;biles, &amp;#191;no crees&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Hasta entra&amp;#241;ables, en cierto modo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Los merodeadores cazan en grupo.&lt;BR&gt;&lt;BR&gt;No son muy listos, pero corren r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">Est&amp;#225;n locos, &amp;#191;verdad&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Estos par&amp;#225;sitos har&amp;#225;n unos trofeos preciosos.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Los recolectores parecen extra&amp;#241;os. Esp&amp;#233;rate lo inesperado.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">Ya est&amp;#225;, asunto arreglado.&lt;BR&gt;&lt;BR&gt;Supongo que ves un mont&amp;#243;n de kalashs en primera l&amp;#237;nea.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Los kalashs son astutos, duros y sus largas espadas causan estragos.&lt;BR&gt;&lt;BR&gt;Aprende a respetarlos.</Page>
+    </Text>
+</QuestDialog>

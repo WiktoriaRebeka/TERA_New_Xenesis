@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="4">El sufrimiento reina en este lugar, literalmente se puede sentir c&amp;#243;mo rezuma.&lt;BR&gt;&lt;BR&gt;Pero puedes remediarlo, &lt;PCNAME&gt;. Extermina a los {@LinkCreature:8#4051#inquisiteurs vulgaires}, los {@LinkCreature:8#4041#inquisiteurs cruels} y los {@LinkCreature:8#4052#farfadet auriques vicieux} antes de que inventen otras formas de torturar almas inocentes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="4">Voy a poner estas herramientas fuera del alcance de los gulas.&lt;BR&gt;&lt;BR&gt;De hecho, ser&amp;#225; mejor que las destruya. Por tranquilidad mental.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1014">
+        <Page social="0">Debes poner fin a sus actos, &lt;PCNAME&gt;. &amp;#161;Ve a detener a estas criaturas!</Page>
+    </Text>
+</QuestDialog>

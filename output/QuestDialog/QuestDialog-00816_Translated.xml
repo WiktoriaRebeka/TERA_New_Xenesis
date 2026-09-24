@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="4">En la cima de la colina situada al oeste de Icefang Creek hay un faro. Antes de que ocurriera esta tormenta m&amp;#225;gica, el guardi&amp;#225;n del faro evitaba que los barcos encallaran, pero ahora que el arroyo se ha congelado por completo, nos ser&amp;#237;a m&amp;#225;s &amp;#250;til aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, los {@LinkCreature:31#10#sentinelles des confins de givre} han invadido el camino que lleva al faro. Todos estamos preocupados por Mogel, que se ha quedado solo all&amp;#237; arriba. &amp;#191;Podr&amp;#237;as despejar el camino y ayudarlo a bajar para ponerse a salvo aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1006">
+        <Page social="4">No creo haber tenido la oportunidad de verte por aqu&amp;#237; antes. Has hecho un buen trabajo con esos centinelas de Icefang. Debe ser dif&amp;#237;cil combatir a estas criaturas con un fr&amp;#237;o as&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te mandan a buscarme? Pues diles a esas personas &amp;#161;que ni hablar! No voy a bajar. Este lugar est&amp;#225; lleno de recuerdos... mis hijos... mi vida. &amp;#161;Haya o no barcos, este faro seguir&amp;#225; iluminando el arroyo hasta mi &amp;#250;ltimo aliento!&lt;BR&gt;&lt;BR&gt;Dales las gracias de mi parte por su preocupaci&amp;#243;n, pero ya no hace falta que vengan a molestarme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1011">
+        <Page social="4">Sab&amp;#237;a que esto pod&amp;#237;a acabar as&amp;#237;. {@LinkCreature:31#30#Endain}, {@LinkCreature:31#31#Endrenlas} y {@LinkCreature:31#32#Enkanas}, los hijos de Mogel, formaban parte de los soldados de Acarum encargados de defender la costa. Murieron durante el desembarco naga, poco antes de que se desatara la tormenta.&lt;BR&gt;&lt;BR&gt;Pero esta triste historia no acaba ah&amp;#237;. Los tres hermanos siguen deambulando por la llanura Storm Plain.&lt;NEXTPAGEBUTTON&gt;"¿Cómo es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La magia de Thulsa ha obligado a los hijos de Mogel, que ahora rondan por nuestras tierras, a vagar por el Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Mogel seguramente lo sabe... &amp;#191;c&amp;#243;mo podr&amp;#237;a ignorarlo? La cercan&amp;#237;a de los monstruos que se han apropiado de la piel de sus hijos lo expone a&amp;#250;n m&amp;#225;s al peligro.&lt;BR&gt;&lt;BR&gt;Si fueras a poner fin al sufrimiento de los tres hermanos antes de traer de vuelta sus pertenencias, ir&amp;#233; a d&amp;#225;rselas yo mismo a Mogel. Quiz&amp;#225;s as&amp;#237; acepte por fin dejar el faro.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1011">
+        <Page social="10">Jam&amp;#225;s olvidaremos esta triste historia ni la dedicaci&amp;#243;n que has demostrado. Llevar&amp;#233; estas cosas a Mogel y me asegurar&amp;#233; de que me siga.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Debes encontrar a los hijos de Mogel y liberarlos de la pesadilla que los prisioneros.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="4">Recorro los continentes en busca de tesoros y otras rarezas, registrando las ruinas y los naufragios con los que me cruzo en el camino.&lt;BR&gt;&lt;BR&gt;Si supieras algo sobre la caza de tesoros, tu ropa delatar&amp;#237;a otro estilo de vida. &amp;#161;Pero est&amp;#225;s de suerte! &amp;#161;Voy a ense&amp;#241;arte los trucos del oficio!&lt;NEXTPAGEBUTTON&gt;"Te escucho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Esos restos antes eran barcos mercantes... pero los mercantes tienen sus peque&amp;#241;os secretos. Sube a bordo del barco y c&amp;#233;ntrate en todo lo que parezca estar fuera de lugar entre lo dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;En fin, &amp;#161;sube a bordo y encuentra el tesoro! Nunca se te habr&amp;#237;a ocurrido solo, &amp;#191;eh?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1032">
+        <Page social="4">(Este cofre parece diferente a los dem&amp;#225;s)&lt;NEXTPAGEBUTTON&gt;"¡El tesoro!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Est&amp;#225; cerrado. Quiz&amp;#225;s encuentres la llave en un {@LinkCreature:31#14#ma&amp;#238;tre d'&amp;#233;quipage gula noy&amp;#233;}.)&lt;NEXTPAGEBUTTON&gt;"Prepárate, cofre del tesoro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1025">
+        <Page social="4">&amp;#161;Lo ves! Te lo dije. Me he ganado dos tercios de este tesoro... &amp;#161;s&amp;#237;, me parece justo!&lt;BR&gt;&lt;BR&gt;Abramos este cofre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" villagerId="1025">
+        <Page social="0">Busca y encontrar&amp;#225;s. &amp;#161;Basta de charla!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="4" villagerId="1025">
+        <Page social="4">&amp;#191;Eh? Es... un mapa.&lt;BR&gt;&lt;BR&gt;&amp;#161;M&amp;#237;rame eso! &amp;#161;Sin duda, es un mapa del tesoro! S&amp;#237;, pondr&amp;#237;a las manos en el fuego.&lt;NEXTPAGEBUTTON&gt;"¿A dónde lleva?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eso... un explorador no te lo dir&amp;#225;. Es una tarea reservada para alguien versado en el arte de descifrar c&amp;#243;digos.&lt;BR&gt;&lt;BR&gt;Hasta que el documento no sea descifrado, no nos ense&amp;#241;ar&amp;#225; nada.&lt;BR&gt;&lt;BR&gt;Mu&amp;#233;strale esto a Yasper, en la Guarnici&amp;#243;n de Lighthouse. Es uno de mis alumnos y se le da muy bien la decodificaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" prevId="6" villagerId="1027">
+        <Page social="4">&amp;#191;Un mapa codificado? Veamos un poco eso.&lt;BR&gt;&lt;BR&gt;&amp;#191;D&amp;#243;nde lo encontraste? Esto no es un mapa del tesoro. Es una obra de arte.&lt;NEXTPAGEBUTTON&gt;"¿Cómo es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bueno, parece un mapa y es muy antiguo, pero este &quot;c&amp;#243;digo&quot; es caligraf&amp;#237;a gula. Es puramente decorativo.&lt;BR&gt;&lt;BR&gt;Sin embargo, su edad le otorga cierto valor, siempre que se lo vendas al coleccionista adecuado. Si planeas deshacerte de &amp;#233;l, te lo compro. &amp;#191;Qu&amp;#233; me dices?</Page>
+    </Text>
+</QuestDialog>

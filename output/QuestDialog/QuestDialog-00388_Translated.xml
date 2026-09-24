@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Tu &quot;arsenal&quot; dice mucho de ti. Est&amp;#225;s aqu&amp;#237; para luchar, no para aprender. Sin embargo, creo que eres capaz de hacer ambas cosas.&lt;BR&gt;&lt;BR&gt;Las &lt;b&gt;essences&lt;/b&gt; de estos {@LinkCreature:13#300933#ghilliedhus} son anormales. Antes de poder hacer lo correcto, tendr&amp;#225;s que aprender a reconocer lo incorrecto.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te crees con fuerzas para tu primera lecci&amp;#243;n con un poco de tala improvisada?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">Despu&amp;#233;s de todo, tal vez te ir&amp;#237;a bien en medio de los investigadores... si aprendieras a arregl&amp;#225;rtelas sin tu arma.&lt;BR&gt;&lt;BR&gt;Mis &quot;perros guardianes&quot; Helier y Clovis dijeron que quer&amp;#237;an hablar contigo. Cuando puedas, ve a ver qu&amp;#233; quieren.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Ser&amp;#233; sincero, &lt;PCCLASS:lcase&gt;. Si no ves qu&amp;#233; hace que estos {@LinkCreature:13#300930#ghilliedhus anciens} sean &quot;especiales&quot;, no le sirves de nada a la Federaci&amp;#243;n ni a m&amp;#237;. Sigue cumpliendo con tu deber de soldado hasta que sepas reconocer una aut&amp;#233;ntica &lt;b&gt;essence de c&amp;#339;ur de bois&lt;/b&gt;.</Page>
+    </Text>
+</QuestDialog>

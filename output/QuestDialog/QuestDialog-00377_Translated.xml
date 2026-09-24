@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="0">El consejero Teil te comparti&amp;#243; las sospechas de Elion sobre el Valle Maldito y te pidi&amp;#243; que investigaras. En el camino, ayudaste a poner a salvo las provisiones de una aeronave estrellada y salvaste a sus pilotos de los orkans que los amenazaban.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="4">Los demonios del Valle Maldito nos preocupan a Elion y a m&amp;#237;. Se trata de una zona peligrosa y costosa de asegurar. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, te env&amp;#237;o all&amp;#237; en busca de Elion, pero tambi&amp;#233;n para ayudar en lo que puedas.&lt;BR&gt;&lt;BR&gt;{@linkcreature:64#1033$$Bipi} gestiona la log&amp;#237;stica para nuestros puestos avanzados de vanguardia. Ve a hablar con ella antes de ponerte en marcha y te dar&amp;#225; lo necesario.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1033">
+        <Page social="4">&lt;PCCLASS&gt;, te recibo con una muy triste noticia. Nuestra aeronave de suministros se estrell&amp;#243; y perdimos el contacto con sus pilotos. &lt;BR&gt;&lt;BR&gt;{@linkcreature:213#1007$$Chione} es inteligente e ingeniosa, pero no es un soldado. Se est&amp;#225; organizando un equipo de rescate, pero est&amp;#225;s disponible de inmediato. Sigue este camino hacia el este y haz algo de limpieza en las filas de los orkans de la Garra Negra. Y no dudes en recuperar todas las provisiones que encuentres mientras buscas a Chione.&lt;BR&gt;&lt;BR&gt;Bien, &amp;#191;por qu&amp;#233; no est&amp;#225;s ya en camino?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1007">
+        <Page social="4">Por fin un rostro amigable.&lt;BR&gt;&lt;BR&gt;Era un vuelo de rutina, hasta la explosi&amp;#243;n. Tras el accidente, unos terrones escaparon de la carcasa y ciertamente no estaban en el registro de vuelo.&lt;BR&gt;&lt;BR&gt;Esperar&amp;#233; aqu&amp;#237; con las provisiones que recuperaste. Los orkans parecen querer conformarse con mirarme... por el momento.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Ten cuidado, &lt;PCCLASS:lcase&gt;. Estos orkans no son lo que parecen.&lt;BR&gt;&lt;BR&gt; Ay&amp;#250;dame a recuperar estas provisiones y podremos hablar m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

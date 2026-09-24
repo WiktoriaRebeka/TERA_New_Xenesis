@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Muhrak, el herrero legendario, ha enviado una misiva.&lt;BR&gt;Me ha rogado que te encuentre lo antes posible.&lt;BR&gt;Dir&amp;#237;gete a Velika inmediatamente despu&amp;#233;s de recibir este mensaje.&lt;BR&gt;Me gustar&amp;#237;a darte todos los detalles en persona.&lt;BR&gt;&lt;BR&gt; Seir&lt;BR&gt;&lt;BR&gt;[Se requiere un nivel de equipo de 457 o superior para entrar en Campamento de los revolucionarios.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">El herrero legendario te rog&amp;#243; que fueras en busca de su hijo. Al seguir su rastro, descubriste el Campamento de los revolucionarios. &lt;BR&gt;&lt;BR&gt;All&amp;#237; te enteraste de que Karakhir fue secuestrado por Hennika, la comandante de los revolucionarios de la bandera roja.&lt;BR&gt;&lt;BR&gt;Liberaste a Karakhir, pero Hennika logr&amp;#243; escapar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ah, aqu&amp;#237; est&amp;#225;s, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Muhrak, el herrero legendario, me hizo llegar una misiva para rogarme que te encontrara.&lt;NEXTPAGEBUTTON&gt;"¿De qué se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Empieza por leer esto.&lt;BR&gt;Es un mensaje de Karakhir que Muhrak adjunt&amp;#243; a la carta.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Este mensaje es la &amp;#250;ltima se&amp;#241;al de vida que hemos recibido de Karakhir.&lt;BR&gt;Muhrak afirma que algo as&amp;#237; jam&amp;#225;s hab&amp;#237;a ocurrido.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; muy preocupado y espera poder contar con el apoyo de la Federaci&amp;#243;n. Por eso me envi&amp;#243; esta misiva.&lt;NEXTPAGEBUTTON&gt;"¿Y qué más?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pidi&amp;#243; que fueras t&amp;#250; quien lo ayudara, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Conf&amp;#237;a plenamente en ti, ya que antes lo salvaste.&lt;NEXTPAGEBUTTON&gt;"El herrero legendario puede contar conmigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Perfecto, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Cuando est&amp;#233;s listo, dir&amp;#237;gete a Frontera y explora los alrededores. De ah&amp;#237; provino el &amp;#250;ltimo mensaje de Karakhir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="39" prevId="4" villagerId="400">
+        <Page social="0" voiceTypeId="0">(Una carretilla abandonada que muestra indicios de un ataque. Ya no contiene ning&amp;#250;n objeto.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="39" prevId="5" villagerId="401">
+        <Page social="0" voiceTypeId="0">(Parece ser una caja de la carretilla que acabas de examinar. La caja todav&amp;#237;a est&amp;#225; llena de objetos. Al parecer, el ataque no ten&amp;#237;a como objetivo robar a los pasajeros.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="39" prevId="6" villagerId="402">
+        <Page social="0" voiceTypeId="0">(...khir)&lt;BR&gt;&lt;BR&gt;(Algunas letras apenas son visibles en la tela.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="739" prevId="7" villagerId="4002">
+        <Page social="4" voiceTypeId="0">Hola. Soy el aprendiz de Karakhir.&lt;BR&gt;Vine aqu&amp;#237; para ir al Templo de Dagon en compa&amp;#241;&amp;#237;a de mi maestro, en busca de nuevos materiales para armas.&lt;NEXTPAGEBUTTON&gt;"¿Qué le pasó a Karakhir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Fui a buscar comida para mi maestro y, al regresar, vi a una extra&amp;#241;a mujer que se lo llevaba junto con algunos monstruos.&lt;BR&gt;La segu&amp;#237; hasta aqu&amp;#237;.&lt;BR&gt;No pens&amp;#233; que encontrar&amp;#237;a un pueblo as&amp;#237; detr&amp;#225;s de un acantilado...&lt;BR&gt;&lt;BR&gt;Me temo que le har&amp;#225;n da&amp;#241;o a mi maestro.&lt;BR&gt;&amp;#191;Podr&amp;#237;as salvarlo?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="739" prevId="8" villagerId="4006">
+        <Page social="0" voiceTypeId="0">&amp;#161;Argh! &amp;#161;Desaparezcan!&lt;BR&gt;&amp;#191;Qu&amp;#233; quieren de m&amp;#237;?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="739" prevId="9" villagerId="4001">
+        <Page social="4" voiceTypeId="0">(Est&amp;#225; exasperado.) Una mujer llamada Hennika me secuestr&amp;#243; y me oblig&amp;#243; a construir un arma poderosa.&lt;BR&gt;Quieren alzarse contra la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;No me gusta nada trabajar bajo amenaza. Intent&amp;#233; escapar, pero... Me encontraron y me encerraron aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Cre&amp;#237; que iba a morir aqu&amp;#237;. &amp;#191;C&amp;#243;mo me encontraste?&lt;NEXTPAGEBUTTON&gt;"Muhrak me envió."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Vaya! Mi padre debe estar muy preocupado.&lt;BR&gt;&amp;#161;Tengo que salir de este lugar lo antes posible para enviarle un mensaje!&lt;NEXTPAGEBUTTON&gt;"Tu aprendiz te espera afuera."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Mi aprendiz? &amp;#191;De qu&amp;#233; est&amp;#225;s hablando?&lt;BR&gt;Todav&amp;#237;a no tengo ning&amp;#250;n aprendiz de verdad.&lt;BR&gt;Sin duda se trata de uno de esos que buscan mostrar respeto a un herrero.&lt;BR&gt;&lt;BR&gt;Sea como sea, me pondr&amp;#233; en marcha.&lt;BR&gt;Probablemente sea mejor que use un pergamino de escape.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="39" prevId="10" villagerId="404">
+        <Page social="4" voiceTypeId="0">Oh, &amp;#191;qu&amp;#233; pas&amp;#243;? &amp;#191;Conociste a mi maestro?&lt;BR&gt;Me qued&amp;#233; aqu&amp;#237; esperando todo este tiempo, pero no lo he visto...&lt;NEXTPAGEBUTTON&gt;"¡Déjame contarte todo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, no! Si este es el cuerno de mi maestro, entonces probablemente le haya ocurrido algo imprevisto.&lt;BR&gt;&lt;BR&gt;Los Aman entran en p&amp;#225;nico de verdad cuando uno de sus cuernos se rompe.&lt;BR&gt;Y si se dio cuenta mientras usaba el pergamino de escape, eso podr&amp;#237;a haberlo distraeido tanto como para enviarlo a un lugar completamente diferente.&lt;BR&gt;&lt;BR&gt;Har&amp;#233; mejor en explorar los alrededores en su b&amp;#250;squeda.&lt;NEXTPAGEBUTTON&gt;"Te ayudaré."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Niega con la cabeza.) Es mejor que te quedes aqu&amp;#237; para no perd&amp;#233;rtelo.&lt;BR&gt;Si lo ves, dile que me espere aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes una peque&amp;#241;a recompensa por salvar a mi maestro. Por favor, ac&amp;#233;ptala.</Page>
+    </Text>
+</QuestDialog>

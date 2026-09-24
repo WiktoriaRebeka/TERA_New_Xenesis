@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="4">Los argons atacaron nuestra fundici&amp;#243;n en {@Rgn:48008}. Necesito que vayas a ver a {@LinkCreature:248#1030}.&lt;BR&gt;&lt;BR&gt;No podemos darnos el lujo de perder ni a un solo cerebro encargado del estudio del cianoca&amp;#241;&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">S&amp;#237;, los argons no se anduvieron con rodeos. Perd&amp;#237; a casi todo mi contingente.&lt;BR&gt;&lt;BR&gt;Mand&amp;#233; a la mayor&amp;#237;a de nuestros sobrevivientes a la Fundici&amp;#243;n de cianoca&amp;#241;&amp;#243;n. Ah&amp;#237; es donde ser&amp;#225;n m&amp;#225;s &amp;#250;tiles.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; a advertir a {@LinkCreature:248#1015} sobre mi situaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

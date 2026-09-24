@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="0">La vanguardia ha marchado sobre Arx Umbra, en la frontera del territorio archidevan, pero ha tenido problemas con unos goblins.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="4">&amp;#161;Les ped&amp;#237; a tus tropas que abandonaran Arx Umbra para que pudi&amp;#233;ramos atacar a los archidevans en su propio hogar! &amp;#161;Los aplastaremos juntos!&lt;BR&gt;&lt;BR&gt;Te alcanzar&amp;#233; pronto. Solo debo rendir un &amp;#250;ltimo homenaje a los barakas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4001">
+        <Page social="4">&amp;#191;Eh? &amp;#191;&lt;PCNAME&gt;? &amp;#191;Qu&amp;#233; haces aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"¿A dónde se fueron los soldados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Acaban de irse! Pens&amp;#233; que ibas con ellos.&lt;BR&gt;&lt;BR&gt;Mi amigo Deoric forma parte de la retaguardia. B&amp;#250;scalo al norte de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="4002">
+        <Page social="4">&amp;#161;Esos malditos demonios!&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Unos goblins nos pidieron ayuda y el imb&amp;#233;cil que conduc&amp;#237;a la carreta se detuvo. Y ah&amp;#237; fue cuando nos atacaron. Me llev&amp;#233; un golpe terrible en la cabeza.&lt;BR&gt;&lt;BR&gt;Cuando volv&amp;#237; en m&amp;#237;, la carreta hab&amp;#237;a desaparecido. Debemos recuperar la carga.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="4023">
+        <Page social="4">(La carreta est&amp;#225; vac&amp;#237;a.)&lt;BR&gt;&lt;BR&gt;(Hay huellas que suben por la pendiente.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="4002">
+        <Page social="4">&amp;#191;Ni una sola caja&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Entonces debieron de moverlas mientras estaba desmayado.&lt;NEXTPAGEBUTTON&gt;"Parece que volvieron al camino."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bien. Deber&amp;#237;as lanzarte a la persecuci&amp;#243;n de las provisiones. Te alcanzar&amp;#233; m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4003">
+        <Page social="4">Un trabajo excelente.&lt;BR&gt;&lt;BR&gt;Me encargar&amp;#233; de llevarlas desde aqu&amp;#237;. En cuanto a ti, alcanza al resto de las tropas.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="4003">
+        <Page social="0">&amp;#161;Los colgar&amp;#233;, a esos granujas!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="4004">
+        <Page social="4">Tu ausencia nos hizo temer lo peor. Qu&amp;#233; alegr&amp;#237;a que nos hayas alcanzado. &lt;BR&gt;&lt;BR&gt;Rhodos nos pidi&amp;#243; mantener esta posici&amp;#243;n mientras te espera en el puesto de avance de Domare.&lt;BR&gt;&lt;BR&gt;No est&amp;#225; lejos de aqu&amp;#237;, pero s&amp;#233; prudente{@g:/e}. Est&amp;#225;s entrando en una zona peligrosa.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="191" prevId="9" villagerId="2102">
+        <Page social="4">&amp;#191;Qu&amp;#233; le han hecho a este pa&amp;#237;s, esos malditos Archidevans? &amp;#161;Mira nom&amp;#225;s el cielo!&lt;BR&gt;&lt;BR&gt;Es hora de poner fin a este complot infernal. &amp;#191;Est&amp;#225;s listo{@g:/e}&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

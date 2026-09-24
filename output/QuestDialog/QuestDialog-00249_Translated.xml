@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Tengo dos preguntas para ti, &lt;PCNAME&gt;, y est&amp;#225;n relacionadas.&lt;BR&gt;&lt;BR&gt;Primero, &amp;#191;conoces la expresi&amp;#243;n &quot;peligroso como un nido de mugatos&quot;?&lt;BR&gt;&lt;BR&gt;Segundo, &amp;#191;sab&amp;#237;as que hay precisamente un nido de mugatos justo al &lt;font color='#660000'&gt;sur&lt;/font&gt; de aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;No podemos permitir que estas bestias se instalen tan cerca de nosotros. &amp;#191;Podr&amp;#237;as cazar a los {@LinkCreature:9#200#mugatos} de ah&amp;#237;, o al menos alejarlos un poco?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">Al menos este lugar est&amp;#225; a salvo de los mugatos... por ahora.&lt;BR&gt;&lt;BR&gt;Pero tarde o temprano volver&amp;#225;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; fastidio!</Page>
+    </Text>
+</QuestDialog>

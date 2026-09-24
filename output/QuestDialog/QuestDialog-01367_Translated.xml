@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">A menos que tengas los ojos vendados, habr&amp;#225;s notado todos estos cad&amp;#225;veres pudri&amp;#233;ndose, estos esqueletos y... &amp;#191;qu&amp;#233; es eso? Otro muerto viviente, sin duda...&lt;BR&gt;&lt;BR&gt;En fin, est&amp;#225;s en pleno territorio enemigo, el dominio de las tropas ksharans, para ser exactos... el batall&amp;#243;n m&amp;#225;s imponente del ej&amp;#233;rcito de Thulsa.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te tienta la idea de relegar al Ej&amp;#233;rcito del Cuervo al segundo puesto? Pues ve a darles un buen golpe, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Vaya, esto supera todas mis expectativas. &amp;#161;No me extra&amp;#241;a que Krok te haya recomendado con tanto entusiasmo!{@gender:recommand&amp;#233;/recommand&amp;#233;e}&lt;BR&gt;&lt;BR&gt;&amp;#161;Que Kaia te bendiga, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1034">
+        <Page social="0">Las tropas ksharans deambulan por todas partes en este lugar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Decap&amp;#237;tala para demostrarnos de lo que eres capaz!</Page>
+    </Text>
+</QuestDialog>

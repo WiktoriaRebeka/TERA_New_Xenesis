@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="105">
+        <Page social="4" voiceTypeId="0">&amp;#191;Eh? Qu&amp;#233; extra&amp;#241;o...&lt;BR&gt;Tengo la sensaci&amp;#243;n de que Tiaran est&amp;#225; en peligro.&lt;BR&gt;Espera un momento, guardian.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has regresado al pueblo con Anya.&lt;BR&gt;&lt;BR&gt;Anya avanzaba con seguridad antes de detenerse de golpe afirmando haber escuchado que Tiaran estaba en peligro. En ese preciso instante, surgieron unos ghilliedhus.&lt;BR&gt;&lt;BR&gt;Se supon&amp;#237;a que los guardianes hab&amp;#237;an erradicado hac&amp;#237;a mucho tiempo a estos par&amp;#225;sitos que antes proliferaban en las ra&amp;#237;ces de Tiaran. Pero ahora era evidente que un ghilliedhu original hab&amp;#237;a vuelto a la vida para engendrar a los ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="105">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, no, unos ghilliedhus!&lt;BR&gt;&lt;BR&gt;&amp;#161;Son malos! &amp;#161;Roban la savia de las ra&amp;#237;ces de Tiaran y eso lo pone enfermo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tienes que detenerlos, &lt;PCNAME&gt;! &amp;#161;Voy a buscar al t&amp;#237;o Emun!&lt;NEXTPAGEBUTTON&gt;"¡Voy a detenerlos, Anya. Y tú, mantente alerta!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="222">
+        <Page social="4" voiceTypeId="0">&amp;#161;Acabas de derrotar a tres ghilliedhus t&amp;#250; solo{@g:/e}, &lt;PCNAME&gt;! &amp;#161;Jam&amp;#225;s lo habr&amp;#237;a cre&amp;#237;do de no haberlo visto!&lt;BR&gt;&lt;BR&gt;Me pregunto qu&amp;#233; hacen por aqu&amp;#237;. Nunca hab&amp;#237;amos visto ghilliedhus en esta parte de la isla...&lt;NEXTPAGEBUTTON&gt;"¿Cómo han llegado hasta aquí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

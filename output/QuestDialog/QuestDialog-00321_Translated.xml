@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">Aqu&amp;#237; hay muchas cosas almacenadas y no tengo tiempo de examinarlo todo.&lt;BR&gt;&lt;BR&gt;Pero conozco un modo de responder a tu pregunta. Si los Red Lash Pirates han guardado algo inusual aqu&amp;#237;, de seguro lo encontrar&amp;#225;s en los documentos bajo la custodia de los {@LinkCreature:11#1003#v&amp;#233;t&amp;#233;rans du Fouet rouge}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">A ver... S&amp;#237;, las bombas est&amp;#225;n ah&amp;#237;. &amp;#161;Y hay un mont&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Las est&amp;#225;n transportando entre la reserva y el muelle. Al parecer, tambi&amp;#233;n se habla de una &quot;piedra m&amp;#225;gica&quot; en el cargamento.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as ir a avisarle a Otus que las cosas se van a poner feas muy pronto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1026">
+        <Page social="0">Ve a recuperar los manifiestos de los {@LinkCreature:11#1003#V&amp;#233;t&amp;#233;rans du Fouet rouge}, y conoceremos el fondo del asunto.</Page>
+    </Text>
+</QuestDialog>

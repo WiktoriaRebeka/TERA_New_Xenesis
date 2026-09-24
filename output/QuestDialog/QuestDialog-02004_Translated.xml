@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Aqu&amp;#237; tienes tu segunda misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esta te pide una vez m&amp;#225;s que cruces dos veces una mazmorra a la altura de tus competencias.&lt;BR&gt;&lt;BR&gt;Las misiones parecen id&amp;#233;nticas, pero el nivel de dificultad ha aumentado y, por tanto, deber&amp;#237;as prepararte con cuidado.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Al parecer, has afilado un poco tus habilidades.&lt;BR&gt;&lt;BR&gt;Pero no olvides que a&amp;#250;n te queda un largo camino por recorrer. Para poder cumplir la pr&amp;#243;xima tarea, vas a tener que dominar nuevas t&amp;#233;cnicas.&lt;NEXTPAGEBUTTON&gt;"Me esforzaré por progresar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

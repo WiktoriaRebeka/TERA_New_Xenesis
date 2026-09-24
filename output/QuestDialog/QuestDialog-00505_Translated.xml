@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Tengo un trabajo para usted, soldado. Nuestras provisiones est&amp;#225;n cayendo en manos de los miembros del culto de Chute-c&amp;#233;leste. &amp;#161;Cada bocado que tragan los hace un poco m&amp;#225;s fuertes y a nosotros un poco m&amp;#225;s d&amp;#233;biles! Quiero que vaya a recuperar todo lo que pueda de los {@LinkCreature:17#300551#moissonneurs t&amp;#234;te de baril} que encuentre al este. &amp;#161;Es un trabajo sucio, pero debemos evitar que estas alima&amp;#241;as nos hagan da&amp;#241;o!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Bien hecho, soldado. No olvide esta gran lecci&amp;#243;n: un enemigo hambriento es un enemigo desesperado, y la desesperaci&amp;#243;n lleva al error. Solo tenemos que seguir presion&amp;#225;ndolos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1023">
+        <Page social="0">S&amp;#233; que la tarea es desalentadora, pero al matar a los cultistas para recuperar la comida, matamos dos p&amp;#225;jaros de un tiro. Rompan filas.</Page>
+    </Text>
+</QuestDialog>

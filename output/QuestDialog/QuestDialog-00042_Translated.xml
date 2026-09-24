@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="57" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Estoy tan ocupado que ni siquiera he tenido tiempo de comerme una buena comida.&lt;BR&gt;&lt;BR&gt;No pareces especialmente {@g:un bon cuisinier/une bonne cuisini&amp;#232;re} pero... creo que los champi&amp;#241;ones nebulosos de los alrededores son una aut&amp;#233;ntica delicia.&lt;BR&gt;&lt;BR&gt;Ya que vas a recorrer el bosque, &amp;#191;podr&amp;#237;as ir a buscarme algunos, &lt;BR&gt;?&lt;NEXTPAGEBUTTON&gt;"Espero que no sean venenosos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, no, no contienen veneno, solo el delicioso sabor del bosque.&lt;BR&gt;&lt;BR&gt;B&amp;#250;scalos en los rincones del bosque alrededor de Maon's Cabin.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="4">Muchas gracias, &lt;PCNAME&gt;. Estaba listo para hacerme un s&amp;#225;ndwich de corteza; es una rodaja de corteza entre dos rodajas de, eh&amp;#8230; corteza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">Los &lt;font color='#660000'&gt;champi&amp;#241;ones nebulosos&lt;/font&gt; son famosos en el continente de Arun por su delicioso y mantecoso sabor.</Page>
+    </Text>
+</QuestDialog>

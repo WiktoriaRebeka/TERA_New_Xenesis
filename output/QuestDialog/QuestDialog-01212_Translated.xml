@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Hazto, el herrero del Valle de la Matanza en Khanvovar, te pidi&amp;#243; que consiguieras componentes de garra de acero para neutralizar los ca&amp;#241;ones de asedio de los argons.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n te pidi&amp;#243; que trajeras los cuerpos y las pertenencias de los soldados ca&amp;#237;dos.&lt;BR&gt;&lt;BR&gt;Encontraste a un superviviente aislado cerca de los ca&amp;#241;ones de asedio y te ayud&amp;#243; a eliminar a los shamallans, los argons que manejaban las armas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Regresa a la Ciudadela de Khanovar para informar a {@LinkCreature:248#2001#Tamur} de que has activado los ca&amp;#241;ones de asedio y eliminado as&amp;#237; a los argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10" voiceTypeId="0">&amp;#161;Ah, est&amp;#225;s aqu&amp;#237;! Has hecho un buen trabajo.&lt;BR&gt;Qu&amp;#233; suerte que los ca&amp;#241;ones de asedio vuelvan a funcionar.&lt;BR&gt;&lt;BR&gt;Y aun as&amp;#237;, no tenemos ninguna posibilidad contra las armas de los argons. Las llamamos &quot;garras de acero&quot;.&lt;BR&gt;&lt;BR&gt;Intentamos eliminar a los argons para desactivar estos ca&amp;#241;ones. Pero, por desgracia, el plan no sali&amp;#243; como esper&amp;#225;bamos.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que nos ayudaras a estudiar las garras de acero. El herrero {@LinkCreature:248#1032#Hazto} te contar&amp;#225; m&amp;#225;s al respecto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1032">
+        <Page social="10" voiceTypeId="0">&amp;#161;Bienvenido! &amp;#161;Necesitamos tu ayuda urgentemente! Tenemos ca&amp;#241;ones de asedio, pero las garras de acero de los argons son m&amp;#225;s poderosas.&lt;BR&gt;&lt;BR&gt;Son enormes e imprevisibles, ya que atacan desde el aire. Por desgracia, hemos sufrido grandes bajas.&lt;BR&gt;&lt;BR&gt;Esper&amp;#225;bamos tener al menos una m&amp;#237;nima posibilidad de ganar esta guerra neutraliz&amp;#225;ndolos.&lt;NEXTPAGEBUTTON&gt;"Entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Pero primero debemos recuperar los componentes de la garra de acero para encontrar una soluci&amp;#243;n. El problema es que los soldados enviados a buscar dichos componentes a&amp;#250;n no han regresado.&lt;BR&gt;&lt;BR&gt;Me temo que han fracasado y no han salido con vida.&lt;BR&gt;&lt;BR&gt;Los alrededores de las garras de acero est&amp;#225;n repletos de argons. Ve a eliminarlos y tr&amp;#225;eme los componentes de sarjalod.&lt;BR&gt;&lt;BR&gt;Y... si encuentras las pertenencias de los soldados, tr&amp;#225;emelas tambi&amp;#233;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="48" prevId="4" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Probablemente seas &lt;PCNAME&gt;. He o&amp;#237;do hablar mucho de ti. Me alegro de no tener que morir solo.&lt;BR&gt;&lt;BR&gt;Esas garras de acero nos han bombardeado en un ataque a&amp;#233;reo interminable.&lt;BR&gt;&lt;BR&gt;Voy a exterminarlos a todos. Tienen la muerte de mis camaradas sobre sus conciencias.&lt;NEXTPAGEBUTTON&gt;"Es demasiado peligroso sin escolta."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Me da igual. Solo cumplo con mi deber. &amp;#161;Mi misi&amp;#243;n consiste en eliminar argons!&lt;BR&gt;&lt;BR&gt;Sin duda est&amp;#225;s aqu&amp;#237; para recuperar los componentes de sarjalod, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;En ese caso, tengo un favor que pedirte. Los cad&amp;#225;veres de mis camaradas yacen por los alrededores. Por favor, recoge sus placas de identificaci&amp;#243;n. A cambio, obtendr&amp;#225;s informaci&amp;#243;n. Hazme este favor.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Este soldado cay&amp;#243; en combate al enfrentarse a los argons para restablecer la paz en {@Rgn:1}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="5" villagerId="1020">
+        <Page social="6" voiceTypeId="0">Este soldado cay&amp;#243; en combate al enfrentarse a los argons para restablecer la paz en {@Rgn:1}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="5" villagerId="1019">
+        <Page social="6" voiceTypeId="0">Este soldado cay&amp;#243; en combate al enfrentarse a los argons para restablecer la paz en {@Rgn:1}.&lt;BR&gt;&lt;BR&gt;Tiene algo en la mano.&lt;NEXTPAGEBUTTON&gt;"¿Qué es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="4">(Es {@RawItem:45304} de los cap&amp;#237;tulos perdidos de Dalmuri.) Deber&amp;#237;as guard&amp;#225;rtelo.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="48" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Muchas gracias. Cuando haya eliminado a los argons hasta el &amp;#250;ltimo y encontrado a mi tropa, pregonar&amp;#233; tu valent&amp;#237;a a los cuatro vientos.&lt;BR&gt;&lt;BR&gt;Tal como promet&amp;#237;, aqu&amp;#237; tienes mi informaci&amp;#243;n. Los argons que manejan las garras de acero se hacen llamar shamallans.&lt;BR&gt;&lt;BR&gt;Utilizan estas armas como si fueran una prolongaci&amp;#243;n de s&amp;#237; mismos.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedes decirme de los shamallans?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No son argons corrientes.&lt;BR&gt;&lt;BR&gt;Al eliminarlos, probablemente puedas acceder a los componentes de las garras de acero. De hecho, est&amp;#225;n conectados entre s&amp;#237;.&lt;BR&gt;&lt;BR&gt;Seguro que consigues vencerlos, &lt;BR&gt;. Se lo tienen merecido.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1032">
+        <Page social="6" voiceTypeId="0">Oh, me lo tem&amp;#237;a. &amp;#161;Qu&amp;#233; tragedia!&lt;BR&gt;&lt;BR&gt;Menos mal que t&amp;#250;, al menos, regresas ileso, &lt;PCNAME&gt;. &amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;Ahora que tenemos los componentes de sarjalod, podemos ponernos a analizar esta arma.&lt;BR&gt;Encontraremos la manera de neutralizarlos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="1032">
+        <Page social="0">No te costar&amp;#225; encontrar las garras de acero. Los argons apostados cerca de estos ca&amp;#241;ones seguramente te atacar&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Pero no me preocupo por ti. Ten cuidado y tr&amp;#225;eme los componentes.</Page>
+    </Text>
+</QuestDialog>

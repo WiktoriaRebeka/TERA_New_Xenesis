@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="5">Los niveles inferiores de la academia albergan los Laboratorios mal&amp;#233;ficos y las catacumbas de la reina de las brujas.&lt;BR&gt;&lt;BR&gt;Us&amp;#233; mi magia para crear una visi&amp;#243;n de lo que est&amp;#225; pasando all&amp;#237; y vi que esos pisos est&amp;#225;n plagados de demonios. Ah&amp;#237; es donde tu fuerza nos ser&amp;#225; &amp;#250;til.&lt;BR&gt;&lt;BR&gt;Llega a los niveles inferiores y encuentra a {@LinkCreature:222#1023#Chalyn}. Ella sabr&amp;#225; qu&amp;#233; hacer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">&amp;#191;C&amp;#243;mo va la batalla por los niveles superiores? Mejor que aqu&amp;#237;, espero.&lt;BR&gt;&lt;BR&gt;Estamos hasta el cuello de demonios, &lt;PCNAME&gt;. Nuestros problemas son un poco demasiado sutiles para estos demonios, pero son mercenarios muy cotizados para quienes eligen la v&amp;#237;a r&amp;#225;pida hacia el poder. &amp;#161;Sea cual sea su plan, vamos a ponerle fin!</Page>
+    </Text>
+</QuestDialog>

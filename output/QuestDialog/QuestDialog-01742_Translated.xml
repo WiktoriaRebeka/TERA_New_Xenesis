@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="0">Tras el naufragio del Intr&amp;#233;pide, la iniciativa de la vanguardia recay&amp;#243; en los Khiriens.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="4">No podemos quedarnos aqu&amp;#237; por mucho tiempo. Tenemos un deber hacia nuestros soldados y la Valkyon Federation.&lt;NEXTPAGEBUTTON&gt;"¿Cuáles son sus órdenes, líder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Envi&amp;#233; a un explorador. Alc&amp;#225;nzalo y ay&amp;#250;dalo en su labor de reconocimiento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1019">
+        <Page social="4">Vi los restos, pero no se pueden alcanzar desde aqu&amp;#237;. &lt;BR&gt;&lt;BR&gt;Se supone que debo enviar una bengala de socorro, pero no funciona. &amp;#191;No quieres intentarlo?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1019">
+        <Page social="4">Y aqu&amp;#237; est&amp;#225; la se&amp;#241;al de respuesta. Debemos perseverar.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; pasa con los heridos, pero no puedo enfrentarme a estos mandrills. &amp;#191;Tal vez puedas abrirnos un camino?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1005">
+        <Page social="4">Tu atuendo y tu armamento no me resultan familiares. &amp;#191;Qui&amp;#233;n eres?&lt;NEXTPAGEBUTTON&gt;"Vengo desde muy al sur."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eso no puede ser posible. Las nubes oscuras nos prisionizan aqu&amp;#237;. Si lo que dices es verdad, entonces Rhodos debe enterarse.&lt;BR&gt;&lt;BR&gt;Cruza el puente para ir a nuestro campamento. Pide ver a Rhodos y dale este pergamino. Yo respondo por ti.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">&amp;#191;Qu&amp;#233; es esto? Bagi afirma que vienes del sur. &amp;#191;Es verdad?&lt;NEXTPAGEBUTTON&gt;"Es la verdad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Por qu&amp;#233; est&amp;#225;s aqu&amp;#237;? &amp;#191;C&amp;#243;mo diste{@g:/e} con mi campamento?&lt;NEXTPAGEBUTTON&gt;"Nuestra nave se estrelló en la selva."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Probablemente seas h&amp;#225;bil, pero no logro saber si est&amp;#225;s mintiendo. Sin embargo, conozco a alguien que s&amp;#237; podr&amp;#225;.&lt;BR&gt;&lt;BR&gt;Al otro lado del camino de nuestro campamento, ver&amp;#225;s una caba&amp;#241;a con cuernos. Madat podr&amp;#225; juzgar la veracidad de tus palabras.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1007">
+        <Page social="4">Ah, el aerobarco.&lt;NEXTPAGEBUTTON&gt;"¿Qué acabas de decir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No pongas esa cara de sorpresa. Vi tu gran pez globo caer del cielo. Debes venir de m&amp;#225;s all&amp;#225; de nuestras fronteras.&lt;BR&gt;&lt;BR&gt;Tal vez el momento de actuar finalmente ha llegado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Creo que tu llegada es un presagio de la victoria de los Khiriens sobre los Archidevans!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hatishna! Eso es lo que debes decirle a Rhodos: &quot;&amp;#161;Hatishna!&quot;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1006">
+        <Page social="4">&amp;#191;Qu&amp;#233; dijo Madat?</Page>
+    </Text>
+</QuestDialog>

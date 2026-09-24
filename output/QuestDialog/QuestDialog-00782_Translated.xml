@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">Hice algunos descubrimientos durante mis investigaciones sobre los arkais. Los huevos de arkai podr&amp;#237;an otorgar la juventud eterna a un poderoso hechicero.&lt;BR&gt;&lt;BR&gt;&amp;#161;Imagina la estima que ganar&amp;#237;amos si le ofreci&amp;#233;ramos uno a Oshar!&lt;NEXTPAGEBUTTON&gt;"Siento que tengo una tarea por cumplir..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Est&amp;#225;s aprendiendo a anticiparte a las necesidades de Oshar, &lt;PCNAME&gt;. Bien hecho.&lt;BR&gt;&lt;BR&gt;Ve cerca de {@LinkCreature:30#1000$$arkaina} y consigue unos huevos.&lt;BR&gt;&lt;BR&gt;Ten cuidado, si la {@LinkCreature:30#220#arkai turquoise} te sorprende robando sus huevos, atacar&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">&amp;#191;Estos son los huevos?&lt;BR&gt;&lt;BR&gt;Son m&amp;#225;s peque&amp;#241;os de lo que pensaba. De hecho, se ven muy ordinarios.&lt;BR&gt;&lt;BR&gt;&amp;#191;Deber&amp;#237;a d&amp;#225;rselo primero a un perezoso? Y en ese caso, &amp;#191;habr&amp;#237;a creado un rey perezoso inmortal?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1036">
+        <Page social="0">Los huevos no son para m&amp;#237;, Oshar los quiere y nosotros no somos m&amp;#225;s que sus sirvientes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, he descubierto d&amp;#243;nde est&amp;#225; la segunda gema. Ven a verme a Highwatch.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva te ha informado de d&amp;#243;nde encontrar la segunda gema, la del cielo.&lt;BR&gt;Has arrancado la victoria en el Basti&amp;#243;n Celestial y has conseguido la gema de la tierra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#161;As&amp;#237; que has vuelto!&lt;br&gt;&lt;BR&gt;&amp;#161;He descubierto d&amp;#243;nde se encuentra la segunda gema.&lt;br&gt;&lt;BR&gt;Se trata de la gema del cielo, que est&amp;#225; muy cerca de aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te suena de algo el nombre de &lt;font color='#FF0000'&gt;Veigas&lt;/font&gt;?&lt;NEXTPAGEBUTTON&gt;"No."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Es una animadora legendaria que contribuy&amp;#243; a la construcci&amp;#243;n de Bamarama, que forma parte de la Granja de Lein.&lt;BR&gt;&lt;BR&gt;Particip&amp;#243; en la creaci&amp;#243;n de este lugar porque le gustaba observar a los guerreros en combate.&lt;BR&gt;&lt;BR&gt;&amp;#161;El vencedor del pr&amp;#243;ximo torneo en el Basti&amp;#243;n Celestial ganar&amp;#225; la gema del cielo!&lt;BR&gt;&lt;br&gt;Deber&amp;#237;as ir a hablar con Veigas. Le hace compa&amp;#241;&amp;#237;a al gerente de la entrada del Basti&amp;#243;n Celestial.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1149">
+        <Page social="0" voiceTypeId="0">&amp;#161;Bienvenida, nuevo guerrero!&lt;BR&gt;&amp;#191;T&amp;#250; tambi&amp;#233;n quieres participar en el torneo?&lt;BR&gt;&lt;BR&gt;Un guerrero debe dejar que se expresen su valor, su pasi&amp;#243;n, su furor, en fin: &amp;#161;todo! &amp;#161;Esa es la experiencia que te reserva el Basti&amp;#243;n Celestial! Y...&lt;BR&gt;...&lt;BR&gt;&amp;#191;Eh? &amp;#191;La corona de la eternidad? &amp;#191;La gema del cielo?&lt;br&gt;&lt;BR&gt;Vaya, pensaba que solo se trataba de una bonita joya.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as hab&amp;#233;rmelo dicho antes, no?&lt;BR&gt;&amp;#161;Pensaba que eras un nuevo candidato. Me he cansado haciendo publicidad para nada!&lt;NEXTPAGEBUTTON&gt;"¿Podrías darme la gema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;En el Basti&amp;#243;n Celestial puedes hacer una demostraci&amp;#243;n de tus habilidades como guerrero!&lt;BR&gt;&lt;br&gt;Aquel que triunfe sobre todos los monstruos hasta el &amp;#250;ltimo nivel se lleva la victoria. Es pan comido, &amp;#191;verdad?&lt;br&gt;&lt;BR&gt;Consigue la victoria y la gema del cielo ser&amp;#225; tuya.&lt;br&gt;&lt;BR&gt;&amp;#161;Tampoco ser&amp;#237;a lo mismo d&amp;#225;rtela como regalo! &amp;#161;Cada cosa tiene su precio!&lt;NEXTPAGEBUTTON&gt;"La corona de la eternidad es un regalo para la diosa Velik. ¿Aún no quieres darme la gema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Pues en ese caso, tendr&amp;#225;s que triunfar obligatoriamente!&lt;BR&gt;&lt;BR&gt;&amp;#161;La diosa Velik apreciar&amp;#225; a&amp;#250;n m&amp;#225;s la corona si te muestras digno de ella!&lt;BR&gt;&lt;BR&gt;&amp;#161;Basta de hablar!&lt;BR&gt;Ha llegado la hora del torneo. Si tienes algo que a&amp;#241;adir, &amp;#161;ser&amp;#225; DENTRO de la arena!&lt;BR&gt;&lt;BR&gt;&lt;b&gt;[Pour entrer dans le Tr&amp;#244;ne c&amp;#233;leste, adressez-vous &amp;#224; {@linkcreature:183#7001#Gaderong}, le guide de l'ar&amp;#232;ne.]&lt;/b&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="830" prevId="4" villagerId="4000103">
+        <Page social="0" voiceTypeId="0">&amp;#161;Todos los valientes rivales ya se han reunido!&lt;br&gt;&lt;BR&gt;&amp;#161;Habla con Gaderong cuando est&amp;#233;s listo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1149">
+        <Page social="0" voiceTypeId="0">&amp;#161;Bravo! &amp;#161;Fue un combate notable!&lt;br&gt;&lt;BR&gt;&amp;#191;Eres &lt;pcname&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#161;&amp;#161;Oh, c&amp;#243;mo hice para no reconocerte???&lt;NEXTPAGEBUTTON&gt;"¿Y ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ganaste, por supuesto!&lt;BR&gt;&lt;BR&gt;Tus rivales ni siquiera pudieron llegar hasta el cuarto nivel. Fue de lo m&amp;#225;s aburrido.&lt;br&gt;&lt;BR&gt;En fin, as&amp;#237; son las cosas.&lt;BR&gt;Toma, qu&amp;#233;date con la piedra preciosa, &lt;PCNAME&gt;. &amp;#161;Y felicitaciones por tu victoria!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#191;Sali&amp;#243; bien? &amp;#191;Conseguiste la piedra preciosa del cielo?&lt;NEXTPAGEBUTTON&gt;"Míralo tú mismo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Oh, est&amp;#225; casi completa!&lt;br&gt;&lt;BR&gt;&amp;#161;Toma! En agradecimiento por el esfuerzo que est&amp;#225;s haciendo.&lt;br&gt;Espero que esto te ayude a progresar a&amp;#250;n m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; en cuanto sevillano sepa algo m&amp;#225;s sobre otra piedra preciosa.&lt;BR&gt;&lt;BR&gt;Hasta pronto, protector.</Page>
+    </Text>
+</QuestDialog>

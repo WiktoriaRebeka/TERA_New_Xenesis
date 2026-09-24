@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1010">
+        <Page social="4">Me ofrec&amp;#237; como voluntaria para esta asignaci&amp;#243;n porque mi hermana muri&amp;#243; aqu&amp;#237;. Ten&amp;#237;a la esperanza de poder recuperar su cuerpo.&lt;BR&gt;&lt;BR&gt;Nunca lo encontr&amp;#233;. Ella sigue en alg&amp;#250;n lugar all&amp;#225; afuera, en el fr&amp;#237;o.&lt;NEXTPAGEBUTTON&gt;"Mis sinceras disculpas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No te preocupes por m&amp;#237;. Soy un soldado. Conozco los riesgos. Y mientras la recuerde, ella sigue viva en mi coraz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Considero un punto de honor dejarle flores en la tumba de uno de los soldados desconocidos cerca de Acarum para no olvidarla. Si pasas cerca del cementerio, &amp;#191;podr&amp;#237;as depositar estas flores por m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1114">
+        <Page social="4">(La l&amp;#225;pida parece vibrar casi bajo los recuerdos de amigos, familiares y camaradas ca&amp;#237;dos en combate.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1010">
+        <Page social="4">Gracias. Solo quiero que ella sepa que la recuerdo.</Page>
+    </Text>
+</QuestDialog>

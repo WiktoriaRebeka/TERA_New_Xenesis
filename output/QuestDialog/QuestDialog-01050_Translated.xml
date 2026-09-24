@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="4">Desde que llegaron las {@LinkCreature:40#11#&amp;#233;claireuses selvaras}, la gente desaparece. Quiz&amp;#225; los vendan como esclavos, pero en todo caso nadie ha pedido un rescate.&lt;BR&gt;&lt;BR&gt;Si matamos a unas cuantas, tal vez se lo piensen dos veces, as&amp;#237; que ofrezco una recompensa a cambio de las insignias de identificaci&amp;#243;n que se encuentran en ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1016">
+        <Page social="4">&amp;#191;No viste a ning&amp;#250;n desaparecido? &amp;#191;Ni a uno solo?&lt;BR&gt;&lt;BR&gt;Entonces seguro que ya est&amp;#225;n muy lejos.&lt;BR&gt;&lt;BR&gt;Pero gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1016">
+        <Page social="0">Las {@LinkCreature:40#11#&amp;#233;claireuses selvaras} seguramente llevan insignias de identificaci&amp;#243;n. Eso es lo que necesito.</Page>
+    </Text>
+</QuestDialog>

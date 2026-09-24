@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0">Necesito una muestra, un fragmento... en fin, cualquier pedazo proveniente de la fortaleza argon destruida. Se pueden encontrar en las {@Rgn:45005$$Champs c&amp;#233;lestes}, cerca de la entrada clausurada.&lt;BR&gt;&lt;BR&gt;Me salvar&amp;#237;as la vida y, de paso, me evitar&amp;#237;as el viaje. &amp;#191;Puedes conseguirme eso&amp;nbsp;? Recuerda eliminar a los Wendigos antes de acercarte a los fragmentos, o tratar&amp;#225;n de protegerlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">Me temo que no hay forma de entrar a la fortaleza, pero eso no debe impedirnos averiguar qu&amp;#233; estaban fabricando los argons all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Por suerte, hemos tomado el control de una fortaleza completamente funcional... la de las Tres Torres.&lt;BR&gt;&lt;BR&gt;Toma este informe y entr&amp;#233;gaselo a Borskan, en el puesto avanzada del Pionero. Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">Hazle tu informe a Ellisiana y sigue sus instrucciones. A&amp;#250;n nos queda mucho por aprender sobre esta supuesta retirada de los argons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="4" villagerId="1011">
+        <Page social="4">Este informe es preocupante. Plantea preguntas inquietantes... y algo me dice que las respuestas no ser&amp;#225;n m&amp;#225;s agradables de escuchar.&lt;BR&gt;&lt;BR&gt;Debemos descubrir por qu&amp;#233; los argons decidieron abandonar la regi&amp;#243;n. &amp;#191;Podemos contar con tu ayuda&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

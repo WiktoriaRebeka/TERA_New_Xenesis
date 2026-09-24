@@ -1,0 +1,56 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="4">Si digo &quot;Malachai&quot;, &amp;#191;te sugiere algo? &amp;#191;El nombre falso de Thulsa cuando se ocultaba en Allemantheia? Bien.&lt;BR&gt;&lt;BR&gt;Nos hemos preguntado durante mucho tiempo por qu&amp;#233; Thulsa vino a esconderse entre nosotros y quiz&amp;#225;s por fin hayamos encontrado la respuesta.&lt;BR&gt;&lt;BR&gt;Thulsa solo ten&amp;#237;a una idea en la cabeza... recuperar el poder del que hab&amp;#237;a sido privado al t&amp;#233;rmino de la Guerra Divina. Con la ayuda del Mysterium, se hab&amp;#237;a propuesto encontrar la manera de saquear el poder del N&amp;#250;cleo o corromperlo.&lt;BR&gt;&lt;BR&gt;En aquella &amp;#233;poca, era Serion quien serv&amp;#237;a de envoltura mortal para el N&amp;#250;cleo. Pero hoy, soy yo quien desempe&amp;#241;a este papel y no quiero que las investigaciones de Thulsa caigan en manos equivocadas.&lt;NEXTPAGEBUTTON&gt;"¿Cuál es mi papel en este asunto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hemos superado juntos un buen n&amp;#250;mero de pruebas y te has ganado mi confianza, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hoy soy la encarnaci&amp;#243;n del N&amp;#250;cleo y no quiero que las investigaciones de Thulsa despierten la codicia de personas malintencionadas, dioses o mortales.&lt;BR&gt;&lt;BR&gt;Voy a ser franca... temo que alguien explote las investigaciones de Thulsa con la idea de tomar el control de mi persona o corromperme.&lt;NEXTPAGEBUTTON&gt;"¿Crees que eso es posible?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Los Elfos solemos ser de naturaleza ambiciosa. In&amp;#250;til explayarse...&lt;BR&gt;&lt;BR&gt;Para saber m&amp;#225;s sobre los trabajos de Malachai... bueno, de Thulsa... dir&amp;#237;gete al Sanctum Mysterium y busca a un Baraka llamado Jerad. Conoce bien la lengua de los dioses antiguos y la de los dragones... as&amp;#237; que podemos recurrir a su ayuda para traducir los documentos cient&amp;#237;ficos que puedas encontrar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1448">
+        <Page social="4">&lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Eres t&amp;#250; &quot;la ayuda exterior&quot; de la que hablaba la comandante Fraya?&lt;BR&gt;No esperaba que apareciera un soldado, pero no importa. T&amp;#250; y yo no pintamos nada en los juegos de poder de los que Allemantheia es v&amp;#237;ctima, y eso es seguramente lo que nos vale la confianza de Fraya.&lt;BR&gt;&lt;BR&gt;Por ahora, esto es lo que he conseguido averiguar...&lt;NEXTPAGEBUTTON&gt;"Te escucho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Malachai, perd&amp;#243;n... Thulsa... buscaba entre otras cosas dividir el poder del N&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Fraya pr&amp;#225;cticamente nunca habla de las disensiones pol&amp;#237;ticas de su pueblo, pero ese es exactamente el objeto de sus temores en este caso. Ve las disputas que surgir&amp;#225;n cuando los Elfos consideren la manera de repartirse el poder del N&amp;#250;cleo. &amp;#161;Disputas que bien podr&amp;#237;an significar el fin de la ciudad!&lt;BR&gt;&lt;BR&gt;Malachai hizo saber al Mysterium que sus investigaciones se hab&amp;#237;an saldado con un fracaso, pero hoy sabemos que probablemente no fue as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ahora, en el seno del pueblo de los elfos, ciertas facciones intrigan para conseguir acceso al Laboratorio de Malachai... as&amp;#237; que debemos actuar con rapidez.&lt;NEXTPAGEBUTTON&gt;"¿El Laboratorio de Malachai?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Desde que la m&amp;#225;scara de Malachai cay&amp;#243; para revelar el rostro de Thulsa, su laboratorio ha estado prohibido al p&amp;#250;blico. Al mismo tiempo, al Mysterium se le neg&amp;#243; el derecho a entrar.&lt;BR&gt;&lt;BR&gt;En cambio, cuando el N&amp;#250;cleo pide algo, rara vez se le dice &quot;no&quot;. Fraya se las arregl&amp;#243; para conseguirnos un pase especial. Armis, mi asistente, puede darte acceso al Laboratorio de Malachai.&lt;BR&gt;&lt;BR&gt;Una vez all&amp;#237;, tendr&amp;#225;s poco tiempo... no queremos que tu presencia llame la atenci&amp;#243;n. As&amp;#237; que tendr&amp;#225;s que llevar a cabo tus investigaciones lo m&amp;#225;s r&amp;#225;pido posible.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="4">&amp;#161;No te demores! Ve en busca de las investigaciones de Thulsa lo m&amp;#225;s r&amp;#225;pido posible.&lt;BR&gt;&lt;BR&gt;Regresa a verme cuando seas {@gender:pr&amp;#234;t/pr&amp;#234;te}, y te dar&amp;#233; acceso al laboratorio.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Solo una persona puede acceder al Laboratorio de Malachai.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="3" villagerId="1450">
+        <Page social="0" />
+    </Text>
+    <Text id="13" huntingZoneId="428" prevId="3" villagerId="1007">
+        <Page social="4">Este diario de experimentos contiene los resultados de las investigaciones de Thulsa sobre la divisi&amp;#243;n de la energ&amp;#237;a del N&amp;#250;cleo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="13" villagerId="1448">
+        <Page social="4">&amp;#161;Es el diario de experimentos de Thulsa!&lt;BR&gt;&lt;BR&gt;A ver un poco...&lt;BR&gt;&lt;BR&gt;La Galer&amp;#237;a de Sirjuka... &amp;#161;maldici&amp;#243;n, claro que s&amp;#237;! La resonancia... todo cobra sentido.&lt;NEXTPAGEBUTTON&gt;"¿Qué es este lugar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La Galer&amp;#237;a de Sirjuka es... un museo dedicado a la magia ancestral de los High Elves. El lugar en s&amp;#237; es tan antiguo que la mayor&amp;#237;a de los High Elves han olvidado su existencia. Algunos objetos expuestos en estos lugares poseen una magia inmemorial. Fueron dise&amp;#241;ados incluso antes de que los High Elves tomaran posesi&amp;#243;n del N&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Si Thulsa ten&amp;#237;a la intenci&amp;#243;n de dividir el N&amp;#250;cleo o corromperlo, es l&amp;#243;gico que intentara experimentar con un principio de resonancia entre la magia del N&amp;#250;cleo y una forma de magia a&amp;#250;n m&amp;#225;s antigua.&lt;BR&gt;&lt;BR&gt;Debemos advertir a Fraya sobre nuestro descubrimiento. No hace falta ser un genio para adivinar a d&amp;#243;nde te pedir&amp;#225; que vayas... la Galer&amp;#237;a de Sirjuka.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" villagerId="1448">
+        <Page social="0">Debemos recuperar el diario de experimentos de Thulsa.&lt;BR&gt;&lt;BR&gt;Y debe de estar en alg&amp;#250;n lugar del Laboratorio de Malachai.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="518" prevId="14" villagerId="1001">
+        <Page social="4">&amp;#191;La Galer&amp;#237;a de Sirjuka?&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo sab&amp;#237;a! Las investigaciones de Thulsa hab&amp;#237;an dado frutos despu&amp;#233;s de todo.&lt;BR&gt;&lt;BR&gt;Encuentra el teleportal que lleva a la Galer&amp;#237;a de Sirjuka, &lt;PCNAME&gt;. Otras personas no tardar&amp;#225;n en llegar a las mismas deducciones que t&amp;#250;.</Page>
+    </Text>
+</QuestDialog>

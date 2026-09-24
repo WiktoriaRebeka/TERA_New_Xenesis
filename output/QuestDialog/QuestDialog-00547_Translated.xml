@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="4">Me importa un bledo Digory... Esos cereales les pertenecen por derecho a la gente cuyas cosechas fueron destruidas por sus golems. Y si no est&amp;#225;s de acuerdo conmigo, vete por donde viniste.&lt;NEXTPAGEBUTTON&gt;"No, estoy muy de acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Muy bien. La mala noticia es que un golem suelto destruy&amp;#243; nuestro carro.&lt;BR&gt;&lt;BR&gt;Vas a tener que encargarte de los {@LinkCreature:19#3000#hy&amp;#232;nes de guerre cornues} mientras veo si es posible reparar esto.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Genial... elimina tantos como puedas mientras calculo los da&amp;#241;os.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1033">
+        <Page social="4">Gracias por hacerte cargo{@gender:occup&amp;#233;/occup&amp;#233;e} de estas hienas.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, no estoy en condiciones de reparar el carro.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Tras calmar los esp&amp;#237;ritus de aquellos que perecieron en la guerra contra los orkans, te pusiste{@g:/e} en marcha hacia Kaiator en busca de batallas m&amp;#225;s prestigiosas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Los orkans ya no tienen comandante, por lo que ahora son solo una horda dispersa. No debemos permitir que sus combatientes supervivientes se conviertan en enemigos de Pora &amp;#201;linu. &lt;BR&gt;&lt;BR&gt;Tengo una petici&amp;#243;n urgente para ti, que has salvado a Pora &amp;#201;linu. Se trata de consolar las almas de aquellos a quienes esta tragedia les cost&amp;#243; la vida. Tu compasi&amp;#243;n les reconfortar&amp;#225; el coraz&amp;#243;n, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Regresa a Pora &amp;#201;linu para encontrar a Sujai y celebrar el rito f&amp;#250;nebre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Ha llegado la hora de la sanaci&amp;#243;n. Coloca esta flor en el incensario.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1025">
+        <Page social="5" voiceTypeId="0">(Una vez que colocas la flor en el incensario, se esparce un aroma puro y delicado.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1024">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo est&amp;#225;s haciendo muy bien, &lt;PCNAME&gt;! Muchas gracias.&lt;BR&gt;&lt;BR&gt;Tomar&amp;#225; algo de paciencia antes de que todo recupere su antiguo esplendor, pero al menos se ha restablecido el contacto entre Pora &amp;#201;linu y Rida. &lt;BR&gt;&lt;BR&gt;Rida fue a Kaiator a pedir apoyo y le encarg&amp;#243; a Arin la reconstrucci&amp;#243;n de Pora &amp;#201;linu. Afirm&amp;#243; que te esperar&amp;#237;a all&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Juntar&amp;#233; todas mis fuerzas para enviarte a Kaiator. Saluda a Rida de mi parte.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="5" villagerId="10031">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;Nunca cre&amp;#237; que fueras capaz de salvar a Pora &amp;#201;linu. Pero ahora me alegro de haber confiado en ti.&lt;br&gt;&lt;br&gt;Tienes toda mi gratitud como princesa de los elins.</Page>
+    </Text>
+</QuestDialog>

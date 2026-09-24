@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Es hora de poner fin a las ambiciones de gulas. Ve a acabar con su l&amp;#237;der, {@LinkCreature:8#8011#Glauka}, para mostrarles a los gulas qui&amp;#233;n manda en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ten cuidado, Glauka es un hueso duro de roer. Adem&amp;#225;s, si no lo fuera, nunca habr&amp;#237;a llegado a la posici&amp;#243;n que ocupa. Evita regresar con nosotros dentro de un ata&amp;#250;d.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">Se ve... pesado. La pr&amp;#243;xima vez, te pedir&amp;#233; que traigas un trofeo menos estorboso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Glauka se encuentra en la Caverne du massacre. Es intimidante, pero para decir la verdad, no tanto como t&amp;#250;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="480" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="5">Uno de los fragmentos de alma de Skulregnath sobrevivi&amp;#243; y regener&amp;#243; al drag&amp;#243;n del terror. Debemos detenerlo.&lt;BR&gt;&lt;BR&gt;Ve al Sello de Adstringo y destruye a {@LinkCreature:480#107#Evignar}, {@LinkCreature:480#113#Harkyriss}, el {@LinkCreature:480#119#gran jefe Tungkan y a {@LinkCreature:480#121#Skulregnath}.&lt;BR&gt;&lt;BR&gt;Debemos examinar estos fragmentos de drag&amp;#243;n. Tal vez nos revelen c&amp;#243;mo asegurarnos de que esta criatura no regrese al mundo de los vivos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="74" prevId="2" villagerId="1019">
+        <Page social="5">&amp;#161;Buen trabajo, &lt;PCNAME&gt;! Pocas personas pueden presumir de haber matado a un drag&amp;#243;n inmortal, &amp;#161;as&amp;#237; que imag&amp;#237;nate a dos!&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s podamos encontrar una forma de que esto no pase todos los d&amp;#237;as, &amp;#191;qu&amp;#233; te parece?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="74" villagerId="1019">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

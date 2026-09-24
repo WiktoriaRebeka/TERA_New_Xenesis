@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mientras {@gender:il/elle} combat&amp;#237;a al ej&amp;#233;rcito imperial archidevan, &lt;PCNAME&gt; not&amp;#243; que se esforzaban por proteger unos misteriosos carros de mineral.&lt;BR&gt;Suponiendo que estos conten&amp;#237;an sin duda algo importante, &lt;PCNAME&gt; se apoder&amp;#243; de {@g:/e} algunos fragmentos de las &quot;piedras devannes&quot; que estaban dentro.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Los &amp;#233;lites parth parecen empe&amp;#241;ados en proteger estos carros de mineral. &amp;#191;Qu&amp;#233; pueden contener que sea tan valioso?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Definitivamente eres mali{@gender:n/gne}, &lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;&amp;#161;Cualquier otro habr&amp;#237;a hecho las maletas para volver m&amp;#225;s tarde!&lt;BR&gt;&lt;BR&gt;Le mostrar&amp;#233; estas piedras a Hagand. Tal vez logre determinar para qu&amp;#233; sirven.&lt;NEXTPAGEBUTTON&gt;"El placer es mío."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

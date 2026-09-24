@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="5">Los ataques de los orkans nos han impedido llevar los suministros a la Ferme de Godric como estaba previsto. Gracias a ti, podremos solucionar este problema.&lt;BR&gt;&lt;BR&gt;Ve a entregar estas mercanc&amp;#237;as a {@LinkCreature:207#1005#Heroth}. &amp;#201;l se encarga de los &amp;#250;ltimos granjeros de la regi&amp;#243;n y asegura la protecci&amp;#243;n de algunos peces gordos del Mysterium. Estas provisiones deber&amp;#237;an subirle el &amp;#225;nimo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">&amp;#191;Comida? &amp;#191;De verdad? &amp;#191;No es rata seca o las hierbas que cabras y vacas no quisieron? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que Drustan no nos olvidar&amp;#237;a. Es un buen oficial... Cuida de sus tropas. Te agradezco que nos hayas hecho llegar estas provisiones, &lt;PCNAME&gt;. Mis soldados las necesitaban.</Page>
+    </Text>
+</QuestDialog>

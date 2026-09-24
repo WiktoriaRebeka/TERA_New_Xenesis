@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">Est&amp;#225; muy bien erradicar a los Red Lash Pirates de la cueva, pero tendremos que asegurarnos de que no puedan volver al mar.&lt;BR&gt;&lt;BR&gt;La mayor parte de la flota de Red Lash ha vuelto para reparaciones, as&amp;#237; que es el momento ideal para atacar.&lt;BR&gt;&lt;BR&gt;Los &lt;BR&gt; son los encargados del mantenimiento. M&amp;#225;talos y confisca sus herramientas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">&amp;#161;Les deseo mucha suerte reparando sus barcos sin t&amp;#233;cnicos ni herramientas! &amp;#161;Huele a desempleo forzoso entre los piratas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">Debes matar a los {@LinkCreature:11#3003#Injenirs du Fouet rouge}. Sin ellos, los barcos piratas nunca estar&amp;#225;n en condiciones de volver al mar.</Page>
+    </Text>
+</QuestDialog>

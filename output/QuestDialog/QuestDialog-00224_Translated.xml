@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">Por ahora, &lt;PCNAME&gt;, le has partido el lomo a los gulas, pero debemos reducir sus fuerzas.&lt;BR&gt;&lt;BR&gt;Para lograrlo, vamos a tener que golpear a los {@LinkCreature:8#3041#surveillants gulas} y a los {@LinkCreature:8#3042#bandits kobolds}. Todo lo que pueden encadenar, lo reducen a la esclavitud... &amp;#161;y la esclavitud constituye su principal aporte de oro!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">&amp;#161;Estos libros... una verdadera mina de informaci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Nombres de socios comerciales, los de familias separadas... &amp;#161;Todo est&amp;#225; ah&amp;#237;!&lt;BR&gt;&lt;BR&gt;Voy a enviar todo esto de inmediato al alto mando. &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">Si les impedimos capturar nuevos esclavos, les ser&amp;#225; imposible venderlos. Es as&amp;#237; de simple.</Page>
+    </Text>
+</QuestDialog>

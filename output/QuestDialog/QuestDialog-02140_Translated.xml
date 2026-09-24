@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">Necesito de tus servicios.&lt;BR&gt;&lt;BR&gt;De hecho, creo que eres {@gender:le/la} {@gender:seul/seule} en poder ayudarme.&lt;NEXTPAGEBUTTON&gt;"¿Ah? ¿Cuál es el problema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Uno de los faros se ha apagado! El glifo de Balder extiende su energ&amp;#237;a a trav&amp;#233;s de todo el refugio. Los faros transforman una parte de esta energ&amp;#237;a para... bueno, no estamos seguros, la verdad. Pero cuando se apagan, las plantas y los animales mueren y todas las protecciones de la zona se debilitan.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} tal vez sepa de d&amp;#243;nde viene el problema. &amp;#161;Ve a ayudarle, y r&amp;#225;pido!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&amp;#191;&lt;PCNAME&gt;? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;Debi&amp;#243; de haber un problema con la {@WorkObject:95}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma el teletransporte que est&amp;#225; adentro, sube a la torre y rein&amp;#237;ciala. Y sobre todo, &amp;#161;ten cuidado con los golems!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Magn&amp;#237;fico. S&amp;#237;, el campo se est&amp;#225; estabilizando.&lt;BR&gt;&lt;BR&gt;Entre las escaleras por un lado y los golems por el otro, no fue f&amp;#225;cil. Qu&amp;#233; suerte hemos tenido de tenerte a nuestro lado.</Page>
+    </Text>
+</QuestDialog>

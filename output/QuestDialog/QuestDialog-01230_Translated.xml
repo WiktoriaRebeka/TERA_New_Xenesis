@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="4">&amp;#161;Ey! &amp;#161;Eres &lt;PCNAME&gt;! Eres casi una leyenda. &amp;#161;Has matado a Thulsa, Killian, Akasha y Kelsaik!&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo pedirte un favor?&lt;NEXTPAGEBUTTON&gt;"{@gender:Désolée/Désolée}, no tengo pluma."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, no quiero aut&amp;#243;grafos. Estoy intentando endurecer un poco a estos reclutas. De verdad podr&amp;#237;as ense&amp;#241;arles mucho.&lt;BR&gt;&lt;BR&gt;Usa este {@WorkObject:60} para hacer salir a un Slinking Sabertooth que se unir&amp;#225; al combate. No deber&amp;#237;a ser un problema. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1040">
+        <Page social="6">Caramba. Hasta yo he aprendido una o dos cosas durante el combate.&lt;BR&gt;&lt;BR&gt;Muchas gracias. Y si encuentras una pluma, Ellak se escribe con dos &quot;l&quot;.</Page>
+    </Text>
+</QuestDialog>

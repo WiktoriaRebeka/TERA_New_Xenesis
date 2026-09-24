@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="4">Como soldado, entiendes que no podemos dejar atr&amp;#225;s a todos los hombres ca&amp;#237;dos en combate. Debemos repatriar todos los cuerpos posibles, o al menos las pertenencias personales de nuestros hermanos de armas.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2001#Baruster} debe dirigir precisamente una de estas misiones en los {@Rgn:9018001$$Catacombes argones} y ha pedido espec&amp;#237;ficamente tu participaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Todos los miembros del Shariar llevan un anillo cuando van al combate. Es m&amp;#225;s un s&amp;#237;mbolo que otra cosa, pero es importante devolv&amp;#233;rselo a las familias de los difuntos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ve a explorar las catacumbes y si encuentras cuerpos de soldados del Shariar, tr&amp;#225;eme sus anillos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Excelente. Las familias de nuestros muertos te estar&amp;#225;n muy agradecidas.&lt;BR&gt;&lt;BR&gt;De cualquier forma, te doy las gracias.&lt;BR&gt;&lt;BR&gt;Por favor, entrega estos anillos a Agrakh, en la Forteresse de Zulfikar.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2001">
+        <Page social="0">S&amp;#233; que preferir&amp;#237;as estar en el fragor de la batalla asestando algunos golpes en la nuca a nuestros enemigos, pero honrar a los muertos es tan importante como proteger a los vivos.&lt;BR&gt;&lt;BR&gt;Eso es lo que nos diferencia de los argon. Por favor, devuelve estos anillos.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2001">
+        <Page social="4">Excelente. Las familias de nuestros muertos te estar&amp;#225;n muy agradecidas.&lt;BR&gt;&lt;BR&gt;De cualquier forma, te doy las gracias.&lt;BR&gt;&lt;BR&gt;Por favor, entrega estos anillos a Agrakh, en la Forteresse de Zulfikar.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2001">
+        <Page social="0">S&amp;#233; que preferir&amp;#237;as estar en el fragor de la batalla asestando algunos golpes en la nuca a nuestros enemigos, pero honrar a los muertos es tan importante como proteger a los vivos.&lt;BR&gt;&lt;BR&gt;Eso es lo que nos diferencia de los argon. Por favor, devuelve estos anillos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2001">
+        <Page social="4">Excelente. Las familias de nuestros muertos te estar&amp;#225;n muy agradecidas.&lt;BR&gt;&lt;BR&gt;De cualquier forma, te doy las gracias.&lt;BR&gt;&lt;BR&gt;Por favor, entrega estos anillos a Agrakh, en la Forteresse de Zulfikar.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2001">
+        <Page social="0">S&amp;#233; que preferir&amp;#237;as estar en el fragor de la batalla asestando algunos golpes en la nuca a nuestros enemigos, pero honrar a los muertos es tan importante como proteger a los vivos.&lt;BR&gt;&lt;BR&gt;Eso es lo que nos diferencia de los argon. Por favor, devuelve estos anillos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="78" prevId="11" villagerId="3007">
+        <Page social="4">El Shariar te agradece tu ayuda, &lt;PCNAME&gt;. Cuando esta guerra termine, y contemplemos las haza&amp;#241;as de nuestros hombres, tu nombre estar&amp;#225; en lo m&amp;#225;s alto de la lista.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="78" prevId="13" villagerId="3007">
+        <Page social="4">El Shariar te agradece tu ayuda, &lt;PCNAME&gt;. Cuando esta guerra termine, y contemplemos las haza&amp;#241;as de nuestros hombres, tu nombre estar&amp;#225; en lo m&amp;#225;s alto de la lista.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="78" prevId="14" villagerId="3007">
+        <Page social="4">El Shariar te agradece tu ayuda, &lt;PCNAME&gt;. Cuando esta guerra termine, y contemplemos las haza&amp;#241;as de nuestros hombres, tu nombre estar&amp;#225; en lo m&amp;#225;s alto de la lista.</Page>
+    </Text>
+</QuestDialog>

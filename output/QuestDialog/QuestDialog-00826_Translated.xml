@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1008">
+        <Page social="4">Tengo otra petici&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hace poco, un hombre llamado {@LinkCreature:231#1020$$Bettenis} condujo su carreta hacia el norte con el prop&amp;#243;sito de empezar de nuevo en las tierras salvajes.&lt;BR&gt;&lt;BR&gt;No hemos vuelto a saber de &amp;#233;l. Su situaci&amp;#243;n actual debe ser tan mala como la nuestra, o peor. &amp;#191;Puedes ir a investigar? Estamos un poco cortos de recursos, pero ll&amp;#233;vale tambi&amp;#233;n algunas provisiones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#161;Bienvenida! Ha pasado mucho tiempo desde la &amp;#250;ltima vez que habl&amp;#233; con alguien.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s aqu&amp;#237; para ver c&amp;#243;mo estoy? &amp;#161;Ja!&lt;BR&gt;&lt;BR&gt;No te preocupes, camarada. Estoy bien aqu&amp;#237;. Me encanta el fr&amp;#237;o.&lt;NEXTPAGEBUTTON&gt;"Te traje provisiones."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Frijoles! Me encantan. Gracias. Solo necesito avivar el fuego para calentarlos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#237;as conseguirme algo de {@LinkCreature:231#1051#herbe s&amp;#232;che}? Me lastim&amp;#233; la mano al darle una caricia &quot;afectuosa&quot; a estos &quot;se&amp;#241;ores&quot; del hielo.&lt;BR&gt;&lt;BR&gt;No necesito mucho. Estos frijoles deber&amp;#237;an calentarse r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1051">
+        <Page social="4">(Esta hierba deber&amp;#237;a servir.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1020">
+        <Page social="4">Gracias. Te puedo decir que es muy &amp;#250;til. Sirve para todo, si sabes a lo que me refiero.&lt;BR&gt;&lt;BR&gt;Diles a tus camaradas que no se preocupen por m&amp;#237;. Soy bastante estoico. &amp;#161;Ya he visto peores!&lt;BR&gt;&lt;BR&gt;Hasta pronto.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="5" villagerId="1008">
+        <Page social="4">Est&amp;#225; loco. &amp;#191;Qu&amp;#233; hace ah&amp;#237; afuera? Qu&amp;#233; cabeza dura.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos enviar a alguien para traerlo a la fuerza. Aunque no necesitamos otra boca que alimentar.&lt;BR&gt;&lt;BR&gt;Gracias por tus esfuerzos.</Page>
+    </Text>
+</QuestDialog>

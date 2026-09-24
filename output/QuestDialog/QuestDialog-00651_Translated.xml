@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="5">Parece que has ganado cierta popularidad, &lt;PCNAME&gt;. El campamento situado al oeste de Pora Elinu necesita la ayuda de un soldado experimentado y las autoridades locales han pedido espec&amp;#237;ficamente por ti.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a echarles una mano? Dir&amp;#237;gete al Campamento de la Federaci&amp;#243;n Valkyon y ponte en contacto con {@LinkCreature:223#1010$$Lohona}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1010">
+        <Page social="5">As&amp;#237; que t&amp;#250; eres &lt;PCNAME&gt;... No te imaginaba as&amp;#237;. A juzgar por las historias que se cuentan, deber&amp;#237;as tener la complexi&amp;#243;n de un dracoloth.&lt;BR&gt;&lt;BR&gt;En fin, tengo trabajo para ti y vamos a ver si est&amp;#225;s a la altura de tu reputaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

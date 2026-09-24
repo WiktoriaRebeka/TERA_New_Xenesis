@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1027">
+        <Page social="4">Disculpa, &lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as hacerme un favor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1027">
+        <Page social="4">La princesa Arin me pidi&amp;#243; que le comprara un par de zapatos muy particulares... Tan particulares que ning&amp;#250;n comerciante los tiene en existencia.</Page>
+        <Page social="0">Una planta trepadora permite acceder a la terraza. Esc&amp;#225;lala y devu&amp;#233;lvele sus zapatos a {@Creature:223#1042$$Sujai} antes de que Arin note su desaparici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Por favor, ay&amp;#250;dame.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1042">
+        <Page social="4">&amp;#161;Vaya! &amp;#191;C&amp;#243;mo es que fuiste t&amp;#250; quien vino a devolverme mis zapatos?&lt;BR&gt;&lt;BR&gt;Oh, d&amp;#233;jalo, no importa. Espero que le hayan gustado a Merolyn.</Page>
+    </Text>
+</QuestDialog>

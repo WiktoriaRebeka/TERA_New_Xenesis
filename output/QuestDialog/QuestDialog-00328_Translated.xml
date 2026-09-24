@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Bueno, tal vez nos ser&amp;#237;a m&amp;#225;s f&amp;#225;cil ponerle las manos encima a esta &quot;piedra m&amp;#225;gica&quot; si supi&amp;#233;ramos algo m&amp;#225;s al respecto. Seguro que lleg&amp;#243; a bordo de un barco, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Todos los barcos de la flota de Red Lash tienen un diario de a bordo. Cuando los barcos est&amp;#225;n en el muelle, los {@LinkCreature:11#2001#seconds-ma&amp;#238;tres du Fouet rouge} y sus subordinados, los {@LinkCreature:11#2005#excavateurs du Fouet rouge}, se encargan de custodiar estos diarios de a bordo.&lt;BR&gt;&lt;BR&gt;Hag&amp;#225;monos con estos documentos e investiguemos un poco.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">A ver... &quot;piedra... m&amp;#225;gica&quot;... &amp;#161;Aqu&amp;#237; est&amp;#225;!&lt;BR&gt;&lt;BR&gt;Lleg&amp;#243; aqu&amp;#237; hace un a&amp;#241;o, m&amp;#225;s o menos. Debe de ser enorme; era el &amp;#250;nico objeto del cargamento. Todas las dem&amp;#225;s columnas de informaci&amp;#243;n llevan la menci&amp;#243;n &quot;Psicolito. Ver al capit&amp;#225;n&quot;.&lt;BR&gt;&lt;BR&gt;Sinceramente, esperaba encontrar algo mejor que esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1031">
+        <Page social="0">Estos diarios de a bordo son la clave del problema. Seguramente nos dir&amp;#225;n qu&amp;#233; tipo de piedra m&amp;#225;gica buscar. Ve a buscarlos a los {@LinkCreature:11#2001#seconds-ma&amp;#238;tres du Fouet rouge} y los {@LinkCreature:11#2005#excavateurs du Fouet rouge}.</Page>
+    </Text>
+</QuestDialog>

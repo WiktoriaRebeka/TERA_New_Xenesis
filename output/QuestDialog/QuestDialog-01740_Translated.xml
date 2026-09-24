@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="0">&amp;#161;Los piratas naga est&amp;#225;n atacando el Intr&amp;#233;pide, causando graves da&amp;#241;os y obligando a la iniciativa de la vanguardia a abandonar la nave!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="4">&amp;#161;Los naga est&amp;#225;n intentando robar el crucero estelar!&lt;BR&gt;&lt;BR&gt;Deben haberse ocultado en alguna de estas cajas. &amp;#161;Debimos haber tenido m&amp;#225;s cuidado...&lt;BR&gt;&lt;BR&gt;&amp;#161;Hay que defender la nave, cueste lo que cueste!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1100">
+        <Page social="4">Me encargar&amp;#233; de mantener esta posici&amp;#243;n. Vamos a impedir que entren en la bodega.&lt;BR&gt;&lt;BR&gt;Ayuda a Zolyn a repeler a estos granujas y a asegurar la cubierta del Intr&amp;#233;pide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1102">
+        <Page social="4">&amp;#161;Canalla naga!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! &amp;#191;Ves a ese gordinfl&amp;#243;n feo de ah&amp;#237;? &amp;#201;l est&amp;#225; al mando.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#225;s detenerlo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1102">
+        <Page social="4">&amp;#161;Excelente!&lt;BR&gt;&lt;BR&gt;Sin embargo, a&amp;#250;n no hemos terminado. Seguir&amp;#233; despejando la cubierta. &amp;#191;Viste a ese idiota peludo?&lt;NEXTPAGEBUTTON&gt;"No, no lo vi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ladr&amp;#243; algo acerca de una tuber&amp;#237;a cerca de la proa.&lt;BR&gt;&lt;BR&gt;Ve a ver si lo encuentras. Sus herramientas no son tan mortales como parece creer.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" villagerId="7">
+        <Page social="0">&amp;#161;Tenemos un problema!&lt;BR&gt;&lt;BR&gt;Los naga destruyeron los motores delanteros. Seguro no sab&amp;#237;an lo que hac&amp;#237;an.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dougal debe evacuar la nave antes de que se estrelle! &amp;#161;R&amp;#225;pido, ay&amp;#250;dame a comunicarme con &amp;#233;l!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="5" villagerId="1100">
+        <Page social="4">&amp;#161;Paesyn! &lt;PCNAME&gt;! Gloria a Velik, est&amp;#225;s bien.&lt;NEXTPAGEBUTTON&gt;"¡El Intrépide ya no puede volar, jefe!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Maldici&amp;#243;n! &amp;#191;No se puede salvar?&lt;BR&gt;&lt;BR&gt;Ni modo. Usa esto y dile a todos que abandonen el crucero estelar.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1100">
+        <Page social="4">Basta.&lt;BR&gt;&lt;BR&gt;&amp;#161;V&amp;#225;monos!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1000">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;! &amp;#191;Est&amp;#225;s herido{@g:/e}? &amp;#191;Todav&amp;#237;a me estimas?&lt;BR&gt;&lt;BR&gt; Me alegra que sigas con vida{@g:/e}. &amp;#161;Seren te protege, amigo m&amp;#237;o{@g:/e}!</Page>
+    </Text>
+</QuestDialog>

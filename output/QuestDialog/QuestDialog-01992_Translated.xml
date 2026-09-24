@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="0">Como miembro de la guarnici&amp;#243;n de Essenia, Jihenn fue una de las que vio el accidente de la aeronave con sus propios ojos. Desde entonces, estudia el comportamiento de las mariposas que aparecieron durante el incidente.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="4" voiceTypeId="0">Mjum. El comportamiento t&amp;#237;pico de las mariposas que conoc&amp;#237;amos hasta ahora consist&amp;#237;a en devorar la vegetaci&amp;#243;n antes de regresar a su refugio.&lt;BR&gt;&lt;BR&gt;Pero las de Essenia son diferentes.&lt;BR&gt;&lt;BR&gt;Seguro que no es casualidad que proliferen precisamente aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Continúa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Uno de nuestros agentes se esconde en la fortaleza para observar el comportamiento de las mariposas.&lt;BR&gt;&lt;BR&gt;Si no te importa, me gustar&amp;#237;a que fueras a ayudar a Kiower.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="564">
+        <Page social="4" voiceTypeId="0">Aqu&amp;#237;, el n&amp;#250;mero de mariposas nunca baja de cierto umbral.&lt;BR&gt;&lt;BR&gt;Por qu&amp;#233; y c&amp;#243;mo han venido aqu&amp;#237;... &lt;BR&gt;Tenemos multitud de preguntas, pero nunca suficientes informaci&amp;#243;n para responderlas.&lt;BR&gt;&lt;BR&gt;Guardi&amp;#225;n, si nos ayudas, tal vez logremos descifrar el comportamiento de las mariposas.&lt;NEXTPAGEBUTTON&gt;"Continúa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Para decirlo de forma sencilla: queremos reducir su n&amp;#250;mero.&lt;BR&gt;&lt;BR&gt;Guardi&amp;#225;n, por tu parte, elimina tantas mariposas como puedas y as&amp;#237; observaremos si se produce alg&amp;#250;n cambio en el proceso para compensar estas desapariciones.&lt;BR&gt;&lt;BR&gt;Tengo la intenci&amp;#243;n de poner por escrito estos cambios.&lt;BR&gt;Hay un informe, estoy convencido.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="564">
+        <Page social="4" voiceTypeId="0">Ah. Ya est&amp;#225;s aqu&amp;#237;.&lt;BR&gt;Guardi&amp;#225;n, gracias a ti hemos tenido cierto &amp;#233;xito.&lt;BR&gt;De hecho, hemos observado un tipo de comportamiento que se desv&amp;#237;a de lo ordinario.&lt;BR&gt;&lt;BR&gt;Por favor, lleva este documento a Jihenn.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="565">
+        <Page social="4" voiceTypeId="0">Seg&amp;#250;n este documento, el punto central alrededor del cual giran las mariposas deber&amp;#237;a encontrarse m&amp;#225;s o menos por aqu&amp;#237;.&lt;BR&gt;&amp;#191;Tienes alguna hip&amp;#243;tesis?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="567">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233; ha sido eso?&lt;BR&gt;Es la primera vez que veo algo as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pero t&amp;#250;, guardi&amp;#225;n, pareces saber algo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tiene esto que ver con las mariposas?&lt;NEXTPAGEBUTTON&gt;"Es difícil de explicar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">En la pr&amp;#243;xima aparici&amp;#243;n, debemos hacernos con &amp;#233;l a toda costa.&lt;BR&gt;Sin duda, eso nos permitir&amp;#225; progresar.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="1">&amp;#161;No, no, no!&lt;BR&gt;&lt;BR&gt;&amp;#191;Otro aparato roto? &amp;#161;Apenas lo toqu&amp;#233;! &amp;#161;El codirector Deresk me matar&amp;#225; si pido otro!&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes reparar este {@LinkCreature:71#1110#appareil d'analyse} o pedirle a {@LinkCreature:71#1108$$Adean} que lo haga?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="1110">
+        <Page social="1">(El {@LinkCreature:71#1110#appareil d'analyse} emite crujidos y un extra&amp;#241;o l&amp;#237;quido violeta se escapa de &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; realmente roto. Ll&amp;#233;vaselo a {@LinkCreature:71#1108$$Adean}, la comerciante de equipo.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="3" villagerId="1108">
+        <Page social="1">&amp;#191;El {@LinkCreature:71#1110#appareil d'analyse} de {@LinkCreature:71#1105$$Mienne}? Veamos un poco.&lt;BR&gt;&lt;BR&gt;Nada sorprendente. &amp;#191;De cu&amp;#225;ndo es su &amp;#250;ltimo ajuste?&lt;BR&gt;&lt;BR&gt;Bien, ench&amp;#250;falo en el tomacorriente de all&amp;#237;. Si funciona, ll&amp;#233;vaselo a {@LinkCreature:71#1102$$Deresk} y dile que no escatime en mantenimiento.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="4" villagerId="1111">
+        <Page social="1">(El aparato zumba suavemente.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="5" villagerId="1102">
+        <Page social="1">&amp;#191;El mantenimiento? &amp;#191;Para qu&amp;#233;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Antes de d&amp;#225;rselo a Mienne, lo us&amp;#233; durante cuatro a&amp;#241;os sin ning&amp;#250;n problema!</Page>
+    </Text>
+</QuestDialog>

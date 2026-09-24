@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="12">Me enter&amp;#233; de que los t&amp;#233;n&amp;#233;braras atacaron el carro de suministros.&lt;BR&gt;&lt;BR&gt;Es terrible, pero sobre todo es incomprensible. No tengo idea de qu&amp;#233; pudimos haber hecho para ganarnos estas represalias.&lt;BR&gt;&lt;BR&gt;Sea como sea, necesitamos esos suministros. Encu&amp;#233;ntrelos y tr&amp;#225;igaknoslos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1009">
+        <Page social="8">&amp;#161;Oh, buen trabajo! Nos encargaremos de distribuir todo esto de inmediato.&lt;BR&gt;&lt;BR&gt;Te debemos una gran favor, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1009">
+        <Page social="0">&amp;#191;Te {@gender:perdu/perdue}? Tienes que ir al Repaire des Hors-la-loi.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Los soldados de Kaidun, ubicados en el Campamento de los lobos de la escarcha al sur de Acarum, cuentan en sus filas con algunos combatientes consumados.&lt;br&gt;Por eso necesito tu ayuda. &amp;#191;Podr&amp;#237;as eliminarlos para garantizar la seguridad de los habitantes de Acarum?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">No s&amp;#233; c&amp;#243;mo agradecerte.&lt;br&gt;Much&amp;#237;simas gracias. Los habitantes de Acarum y yo nunca olvidaremos lo que has hecho por nosotros.</Page>
+    </Text>
+</QuestDialog>

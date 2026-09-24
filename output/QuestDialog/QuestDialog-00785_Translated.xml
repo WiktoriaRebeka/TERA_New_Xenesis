@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">Mmm, &lt;PCNAME&gt;, s&amp;#233; que tienes cierta afinidad con el gran y poderoso Oshar.&lt;NEXTPAGEBUTTON&gt;"Siento que tienes una petición."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Exactamente, pero no para Oshar, al menos no directamente. {@LinkCreature:230#1100$$Deresk} fue mi mentor antes de conocer a Oshar.&lt;BR&gt;&lt;BR&gt;Nos separamos... digamos que en malos t&amp;#233;rminos. Pero me gustar&amp;#237;a enmendar las cosas con un regalo.&lt;BR&gt;&lt;BR&gt;Esta poci&amp;#243;n tiene dos efectos: sirve como prenda de paz y demuestra cu&amp;#225;nto he aprendido del poderoso Oshar. &amp;#191;Puedes entreg&amp;#225;rsela?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1100">
+        <Page social="1">&amp;#191;&lt;PCNAME&gt; viene de parte de Filine? &amp;#191;Con todas sus pertenencias?&lt;BR&gt;&lt;BR&gt;No deber&amp;#237;amos guardar amargura, pero Filine fue nuestro mayor fracaso. A veces somos demasiado severos con nuestros alumnos. Los alumnos de este profesor se rebelaron y se inventaron un mentor imaginario llamado &quot;Oshar&quot; para poder evitar sus lecciones y vivir una vida disoluta de estudiantes perpetuos.&lt;NEXTPAGEBUTTON&gt;"Filine te hizo esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Esto contiene un verdadero poder... tal vez fui injusto...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1056">
+        <Page social="1">Espera... &amp;#191;Qu&amp;#233; pas&amp;#243;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1036">
+        <Page social="1">&amp;#161;Se la bebi&amp;#243;! &amp;#161;Ja, ja, ja!&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todos esos sermones apenas disimulados sobre la superioridad de la raza High Elf, veamos c&amp;#243;mo disfruta de dejar de ser uno de manera temporal.&lt;BR&gt;&lt;BR&gt;No pongas esa cara. Probablemente ya haya recuperado su apariencia de elfo moralizador.&lt;BR&gt;&lt;BR&gt;Espero que aprenda la lecci&amp;#243;n: sin importar lo que creas saber, nunca es bueno irritar al poderoso Oshar.</Page>
+    </Text>
+</QuestDialog>

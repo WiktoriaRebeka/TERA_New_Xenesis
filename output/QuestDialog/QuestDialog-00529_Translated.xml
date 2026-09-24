@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0">Tienes buena presencia... Espero que tu tren de vida est&amp;#233; a la altura.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te interesar&amp;#237;a algo de dinero f&amp;#225;cil? &amp;#161;Necesito un mensajero!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hazle llegar esto a {@LinkCreature:218#1008$$Nangor} lo antes posible!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1008">
+        <Page social="0">&amp;#191;Qu&amp;#233; quiere {@LinkCreature:218#1028$$Bumon} de m&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh, no! &amp;#161;No, no, no... Filtros de MP de {@LinkCreature:18#10#golems sentinelles}? &amp;#161;Le debo dinero, pero de ah&amp;#237; a arriesgar mi vida...!&lt;BR&gt;&lt;BR&gt;&amp;#161;Si te encargas de ir a buscar eso por m&amp;#237;, te dar&amp;#233; el dinero que le debo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1008">
+        <Page social="0">Esto le conviene a todo el mundo. Bumon obtiene lo que quiere, t&amp;#250; te llevas una buena tajada y yo sigo con vida.&lt;BR&gt;&lt;BR&gt;Toma, aqu&amp;#237; tienes lo que te debo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1008">
+        <Page social="0">No, quiere filtros de MP de {@LinkCreature:18#10#golems sentinelles}... Y no precisamente pocos. Vas a tener que acabar con un buen mont&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

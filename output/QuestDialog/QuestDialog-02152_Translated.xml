@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">El cielo te ha enviado. &amp;#161;Estoy tapado de trabajo!&lt;BR&gt;&amp;#191;Quieres ganar un poco de dinero?&lt;NEXTPAGEBUTTON&gt;"Ya conoces la respuesta.":&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Genial! {@LinkCreature:63#3002#Taratia} tiene una lista de misiones m&amp;#225;s larga que mi brazo. Puedes ir a hablar con &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#161;Ah, qu&amp;#233; bueno que llegas! &amp;#191;Puedes hacer una peque&amp;#241;a misi&amp;#243;n de recolecci&amp;#243;n para m&amp;#237;, por favor?&lt;BR&gt;&lt;BR&gt;Elthienne corre el riesgo de arrancarme la cabeza si no logro hacer el m&amp;#225;ximo de las tareas que me fueron confiadas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">Me quitas un gran peso de encima. Eres incre&amp;#237;ble. Me gustar&amp;#237;a mucho parecerme a ti de grande. &amp;#161;Pero s&amp;#237;, much&amp;#237;simo!&lt;BR&gt;&lt;BR&gt;Dile a {@LinkCreature:63#3003#Elthienne} que te cont&amp;#233; eso. Seguro que no me creer&amp;#225;, pero qu&amp;#233; m&amp;#225;s da. Ella piensa que jam&amp;#225;s llegar&amp;#233; a nada en la vida.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">&amp;#191;Fibra de sylva? &amp;#191;Uh? &amp;#191;Fibra de sylva? &amp;#191;Y bien?&lt;BR&gt;&lt;BR&gt;&amp;#191;No, nada? &amp;#161;Rayos! Bueno, me quedar&amp;#233; aqu&amp;#237; y esperar&amp;#233; a que alguien venga.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0">&amp;#161;Excelente! Es eso. &amp;#161;Eres lo m&amp;#225;ximo!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo para ti. &amp;#161;Apuesto a que nunca adivinar&amp;#225;s qu&amp;#233; es!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Hiciste un buen trabajo!&lt;BR&gt;Es gracias a personas como t&amp;#250; que Velika vuelve a ser habitable poco a poco.&lt;BR&gt;Inf&amp;#243;rmale a {@linkcreature:63#3003#Elthienne} que ya lo recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#191;Vas a tardar mucho m&amp;#225;s en conseguirme un poco de {@RawItem:206801}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Hiciste un buen trabajo!&lt;BR&gt;Es gracias a personas como t&amp;#250; que Velika vuelve a ser habitable poco a poco.&lt;BR&gt;Inf&amp;#243;rmale a {@linkcreature:63#3003#Elthienne} que ya lo recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#191;Vas a tardar mucho m&amp;#225;s en conseguirme un {@RawItem:206802}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Hiciste un buen trabajo!&lt;BR&gt;Es gracias a personas como t&amp;#250; que Velika vuelve a ser habitable poco a poco.&lt;BR&gt;Inf&amp;#243;rmale a {@linkcreature:63#3003#Elthienne} que ya lo recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#191;Vas a tardar mucho m&amp;#225;s en conseguirme un {@RawItem:206803}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Hiciste un buen trabajo!&lt;BR&gt;Es gracias a personas como t&amp;#250; que Velika vuelve a ser habitable poco a poco.&lt;BR&gt;Inf&amp;#243;rmale a {@linkcreature:63#3003#Elthienne} que ya lo recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#191;Vas a tardar mucho m&amp;#225;s en conseguirme una {@RawItem:206804}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#161;Hiciste un buen trabajo!&lt;BR&gt;Es gracias a personas como t&amp;#250; que Velika vuelve a ser habitable poco a poco.&lt;BR&gt;Inf&amp;#243;rmale a {@linkcreature:63#3003#Elthienne} que ya lo recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">&amp;#191;Vas a tardar mucho m&amp;#225;s en conseguirme una {@RawItem:206805}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">&amp;#191;Ya est&amp;#225;s de regreso?&lt;BR&gt;&lt;BR&gt;Buen trabajo. La pr&amp;#243;xima vez volver&amp;#233; a acudir a ti.</Page>
+    </Text>
+</QuestDialog>

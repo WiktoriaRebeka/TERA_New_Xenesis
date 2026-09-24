@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">Oye, &amp;#191;te apetece embarcarte en una misi&amp;#243;n tranquila?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} necesita medicamentos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Qu&amp;#233; bueno verte, mi {@gender:ami/amie}.&lt;BR&gt;&lt;BR&gt;Entre cortes, rasgu&amp;#241;os y mordiscos de perezosos, aqu&amp;#237; siempre falta algo.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale lo que encuentres a Buran. &amp;#161;Y gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3005">
+        <Page social="4">&amp;#161;S&amp;#237;, con eso bastar&amp;#225;!&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" villagerId="3005">
+        <Page social="0">La sombraluna que {@LinkCreature:71#3003#Ruma} necesita crece por los alrededores del Jardin de Seren.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="6" villagerId="3005">
+        <Page social="4">&amp;#161;Aah, qu&amp;#233; aroma tan dulce! Qu&amp;#233; frescura.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" villagerId="3005">
+        <Page social="0">El loto de la luz de la luna es un desinfectante excelente.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as encontrar un poco cerca del Lago de Seren.</Page>
+    </Text>
+</QuestDialog>

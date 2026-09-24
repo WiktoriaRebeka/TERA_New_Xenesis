@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="4">Ya no podemos manejar solos los ataques de los {@LinkCreature:39#140#gardiens d&amp;#8217;esclaves} y los {@LinkCreature:39#150#esclaves d&amp;#233;lirants} en los alrededores del campamento.&lt;BR&gt;&lt;BR&gt;Nos gustar&amp;#237;a que los frenaras un poco.&lt;BR&gt;&lt;BR&gt;A menos que solo est&amp;#233;s aqu&amp;#237; para admirar el paisaje...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1009">
+        <Page social="0">Has trabajado bien, &lt;PCNAME&gt; Si te quedaras, podr&amp;#237;amos enviar a un pobre infeliz a casa. Qui&amp;#233;n sabe... &amp;#161;Incluso podr&amp;#237;a ser yo! O Chamane. Los dioses saben que se lo ha ganado.</Page>
+    </Text>
+</QuestDialog>

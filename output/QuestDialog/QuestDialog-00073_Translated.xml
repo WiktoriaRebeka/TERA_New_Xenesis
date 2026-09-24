@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">(Corann parece profundamente perturbado.)&lt;BR&gt;&lt;BR&gt;Mjum... sobre Ohdi... Me temo que le ha tomado el gusto a esos huesos de no-muertos durante su estancia entre ellos. Desde entonces, ni siquiera huele la comida que le doy.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que... me preguntaba si podr&amp;#237;as conseguirme una provisi&amp;#243;n de huesos de {@LinkCreature:3#16#d&amp;#233;fenseurs morts}&amp;nbsp;? Me temo que Ohdi volver&amp;#225; a hacer las maletas si no le consigo esos huesos. Si vuelve a desaparecer, no s&amp;#233; si podr&amp;#233; soportarlo... Por favor, ay&amp;#250;dame.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1001">
+        <Page social="4">En vida nos sirvieron honorablemente. Espero que ahora descansen en paz.&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1001">
+        <Page social="0">Lo que te pido no requiere ning&amp;#250;n esfuerzo especial. Tarde o temprano tendr&amp;#225;s que combatir a los muertos vivientes de los Bois de l'Oubli.</Page>
+    </Text>
+</QuestDialog>

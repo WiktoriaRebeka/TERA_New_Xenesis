@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0">Kantusa fue descubierta y capturada por los devans. Lograste liberarla con el apoyo de Kamia, pero estaba demasiado gravemente herida. Al exhalar su &amp;#250;ltimo suspiro, Kantusa te revel&amp;#243; que son los descendientes de Lok quienes mueven los hilos. Para dar sentido al sacrificio de Kantusa, mataste a Dakanius, el l&amp;#237;der de los devans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0" voiceTypeId="0">Habla de nuevo con Kamia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Espera, oigo un gemido...&lt;BR&gt;&lt;BR&gt;(Kamia mira a su alrededor.)&lt;NEXTPAGEBUTTON&gt;"No oigo nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Eh! &amp;#161;Kantusa est&amp;#225; encerrada ah&amp;#237; dentro!&lt;BR&gt;&lt;BR&gt;&amp;#161;Creo que la han descubierto! &amp;#161;Adem&amp;#225;s, est&amp;#225; gravemente herida!&lt;BR&gt;&lt;BR&gt;Debemos salvarla. &amp;#161;R&amp;#225;pido, s&amp;#237;gueme!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1044">
+        <Page social="4" voiceTypeId="0">&amp;#161;Kamia! Ya no puedes hacer nada por m&amp;#237;. Salva el pellejo...&lt;BR&gt;Dakanius ha... argh...&lt;NEXTPAGEBUTTON&gt;"¡Kamia, huye!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Dakanius... y los descendientes de... Lok... han... han pactado...&lt;NEXTPAGEBUTTON&gt;Escuchas atentamente.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Hay que... detener a Dakanius...&lt;BR&gt;Se esconde... en el campamento de los devans... al norte de Deva Silva...&lt;BR&gt;&lt;BR&gt;Encuentra a {{@linkcreature:3#7#Dakanius} y pon... fin a sus fechor&amp;#237;as...&lt;NEXTPAGEBUTTON&gt;Intentas vendar las heridas.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No voy... a salir de esta...&lt;BR&gt;Te lo suplico... Tienes que detenerlos... En nombre de la paz...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1045">
+        <Page social="4" voiceTypeId="0">No... no... as&amp;#237; no...&lt;BR&gt;No puedes morir as&amp;#237;, Kantusa... &lt;BR&gt;&lt;BR&gt;(Kamia deja escapar unos sollozos.)&lt;NEXTPAGEBUTTON&gt;"Mi más sentido pésame."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Debemos detener a Dakanius a toda costa.&lt;BR&gt;&amp;#161;El sacrificio de Kantusa no puede haber sido en vano!&lt;BR&gt;&lt;BR&gt;Y si Dakanius realmente ha pactado con los descendientes de Lok, como afirm&amp;#243; Kantusa, &amp;#161;con m&amp;#225;s raz&amp;#243;n debemos deshacernos de &amp;#233;l!&lt;BR&gt;&lt;BR&gt;Ay&amp;#250;danos, te lo ruego. Ve al lugar indicado por Kantusa y mata a Dakanius y a sus secuaces.&lt;NEXTPAGEBUTTON&gt;"¡Me encargo yo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Lo hemos logrado.&lt;BR&gt;Kantusa podr&amp;#225; descansar en paz... &lt;BR&gt;&lt;BR&gt;Pero, &amp;#191;qu&amp;#233; tienes en la mano?&lt;NEXTPAGEBUTTON&gt;"Encontré esto en el cadáver de Dakanius."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Este objeto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Debe ser la insignia de Lok!&lt;BR&gt;&amp;#161;As&amp;#237; que Kantusa dec&amp;#237;a la verdad!</Page>
+    </Text>
+</QuestDialog>

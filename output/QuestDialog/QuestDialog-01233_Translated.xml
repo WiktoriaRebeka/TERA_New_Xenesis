@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;, necesito tu ayuda, y r&amp;#225;pido!&lt;NEXTPAGEBUTTON&gt;"¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Los argons atacaron un transportador del Shariar en alg&amp;#250;n lugar entre el Rempart argon y la Vall&amp;#233;e du Carnage.&lt;BR&gt;&lt;BR&gt;Tienes la orden de encontrarlo y ayudar a los supervivientes. Sobre todo... eh... no, nada. Date prisa.&lt;NEXTPAGEBUTTON&gt;"Voy de inmediato."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">No esperaba recibir ayuda de alguien tan r&amp;#225;pido. Supongo que puedo agradecerle a Truhna.&lt;NEXTPAGEBUTTON&gt;"¿Han sufrido bajas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No en el accidente, pero el ataque terrestre que sigui&amp;#243; nos cost&amp;#243; muchas vidas.&lt;BR&gt;&lt;BR&gt;Establecimos una posici&amp;#243;n defensiva y envi&amp;#233; exploradores hacia nuestro objetivo original. Pero un poco de ayuda no vendr&amp;#237;a mal, si te interesa.</Page>
+    </Text>
+</QuestDialog>

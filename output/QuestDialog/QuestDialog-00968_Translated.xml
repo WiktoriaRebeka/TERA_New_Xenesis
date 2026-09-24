@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0">Kelsaik se volvi&amp;#243; completamente incontrolable y comenz&amp;#243; a arrasar la regi&amp;#243;n. La diosa Kaia te envi&amp;#243; a pedirle cuentas a Saleron, un dios prisionero desde el final de la Guerra divina, para encontrar una manera de derrotar a Kelsaik. En su jard&amp;#237;n celestial, Saleron te puso a prueba. Demostraste estar a la altura y Saleron te entreg&amp;#243; el primero de los cuatro fragmentos de reliquia necesarios para alejar la amenaza que representa Kelsaik.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, inf&amp;#243;rmale a Tamur y p&amp;#237;dele ayuda a la comandante Fraya. Todos debemos cooperar.&lt;BR&gt;&lt;BR&gt;Saleron no le facilitar&amp;#225; la tarea a Thulsa y Killian. No les abandonar&amp;#225; las reliquias sin resistencia. Y, sin embargo, debemos darnos prisa.&lt;BR&gt;&lt;BR&gt;Ve primero a ver a Tamur. Ha mandado a buscarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Vengarme de Killian... un lujo que no puedo darme, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Killian no se conform&amp;#243; con asesinar a mi padre, tambi&amp;#233;n me priv&amp;#243; de mi sue&amp;#241;o de infancia: liderar al pueblo de los Aman en la batalla. Claro que ahora reino en Kaiator, pero ning&amp;#250;n hijo deber&amp;#237;a ser coronado frente al cad&amp;#225;ver de su padre.&lt;NEXTPAGEBUTTON&gt;"Los Aman lo necesitan."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">En efecto. Por eso quiero hacer de ti el instrumento de mi venganza, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Intentas detener a Kelsaik y Killian intenta controlar a Kelsaik. &amp;#161;Presiento que sus caminos se cruzar&amp;#225;n!&lt;BR&gt;&lt;BR&gt;Y ese d&amp;#237;a, no lo olvides: &amp;#161;nadie puede evadir la justicia, ni siquiera los dioses!&lt;NEXTPAGEBUTTON&gt;"Vengaré a tu padre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Te lo agradezco!&lt;BR&gt;Killian y Thulsa...&lt;BR&gt;&amp;#161;Esforc&amp;#233;monos por exterminar todas las amenazas que provienen de ellos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Te cubro las espaldas! &amp;#161;Pide tambi&amp;#233;n el apoyo de Fraya, la comandante de Allemantheia!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Bienvenido, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo pudo Thulsa aliarse con Killian?&lt;BR&gt;&lt;BR&gt;Pero opino igual que t&amp;#250;: debemos aniquilar a Kelsaik, el ap&amp;#243;stol de la destrucci&amp;#243;n. &amp;#191;Dec&amp;#237;as que necesitas la reliquia antigua de Saleron?&lt;NEXTPAGEBUTTON&gt;"En efecto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">He o&amp;#237;do que Saleron tiene un car&amp;#225;cter extremadamente &amp;#225;spero.&lt;BR&gt;Y como Killian y Saleron est&amp;#225;n lejos de ser buenos amigos, la ira de Saleron no har&amp;#225; m&amp;#225;s que amplificarse.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;amos pedir ayuda a los investigadores del Mysterium en la Cripta maldita.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Elenea para hablar con Elvar, el investigador jefe del Mysterium.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="74" prevId="4" villagerId="1100">
+        <Page social="4" voiceTypeId="0">As&amp;#237; que te interesa Saleron, el dios prisionero.&lt;BR&gt;Es el creador de los prion y el padre de los dragones.&lt;BR&gt;&lt;BR&gt;Por mucho que Saleron haya sido encarcelado en la Cripta maldita tras la guerra de los dioses, su esp&amp;#237;ritu sigue muy vivo.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Uno de los j&amp;#243;venes dioses involucrados en la captura de Saleron no era otro que su hijo Killian.&lt;NEXTPAGEBUTTON&gt;"¡Killian!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">As&amp;#237; es.&lt;BR&gt;Killian, el dios del caos y el suplicio, es el hijo de Saleron.&lt;BR&gt;&lt;BR&gt;Saleron despreciaba tanto a los mortales como a los dioses, pero tiene cierto afecto por sus creaciones, los prion. La mayor parte de nuestro conocimiento sobre Saleron proviene de investigadores como Legia, que han tenido la oportunidad de conversar con los prion.&lt;BR&gt;&lt;BR&gt;Ve a hablar con el agente de enlace {@LinkCreature:237#1029#Legia} en el &lt;A href=&quot;markmap:loc=7014#-69381,20408,-1991&amp;type=1&amp;name=Site de recherche de Saleron&quot;&gt;Sitio de investigaci&amp;#243;n de Saleron&lt;/A&gt; de la Cripta de la Desorientaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1029">
+        <Page social="1" voiceTypeId="0">Un poderoso se&amp;#237;smo sacudi&amp;#243; recientemente la Cripta maldita. Los rugidos de Saleron fueron los que lo provocaron.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:237#1027#Torsten}, el profeta vino a vernos despu&amp;#233;s, pero el miedo lo hab&amp;#237;a dejado sin voz.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as intentar hablar con &amp;#233;l?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="237" prevId="6" villagerId="1027">
+        <Page social="1" voiceTypeId="0">Los dioses mismos te han insuflado su aliento.&lt;BR&gt;&lt;BR&gt;Percibo el poder prodigioso que habita en ti. Creo que puedo confiar en ti.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="237" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">El dios del terror ha colocado innumerables esbirros en este lugar sagrado. &lt;BR&gt;&lt;BR&gt;Elimina a estos descarados traidores y tal vez Saleron te conceda su misericordia.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="237" prevId="8" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Fr&amp;#225;gil &lt;PCRACE&gt;, has recorrido un largo camino. He percibido la desaparici&amp;#243;n de los leones de Killian.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que has logrado eliminarlos.&lt;BR&gt;Tu valor es grande.</Page>
+    </Text>
+</QuestDialog>

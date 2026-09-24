@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Has disfrutado al m&amp;#225;ximo del festival y has probado el nuevo c&amp;#243;ctel especial de Freeholds.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233; tal un peque&amp;#241;o refresco, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo ofrecerte un &lt;font color='#0000FF'&gt;c&amp;#243;ctel especial de Freeholds&lt;/font&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Saludos, &lt;PCNAME&gt;. &amp;#191;Est&amp;#225;s disfrutando del festival?&lt;BR&gt;&lt;BR&gt;Je, je, puedo revelarte c&amp;#243;mo preparar t&amp;#250; mismo el &lt;font color='#0000FF'&gt;c&amp;#243;ctel especial de Freeholds&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Pero primero pru&amp;#233;balo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4" voiceTypeId="0">&amp;#191;Y bien? No te he mentido, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;No hemos escatimado en gastos ni esfuerzos para traerte esta explosi&amp;#243;n de sabores. Para preparar t&amp;#250; mismo el &lt;font color='#0000FF'&gt;c&amp;#243;ctel especial de Freeholds&lt;/font&gt;, necesitas ingredientes muy espec&amp;#237;ficos.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes la &lt;font color='#0000FF'&gt;receta: c&amp;#243;ctel especial de Freeholds&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

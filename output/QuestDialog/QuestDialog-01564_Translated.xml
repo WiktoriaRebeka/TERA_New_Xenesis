@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="4" voiceTypeId="0">Todav&amp;#237;a no has traicionado la confianza que tengo en ti.&lt;br&gt;&lt;br&gt;&amp;#191;Quieres intentar ahora derrotar a monstruos m&amp;#225;s poderosos?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">Como siempre, saliste adelante sin la menor dificultad.&lt;br&gt;Estoy muy orgulloso de ti.</Page>
+    </Text>
+</QuestDialog>

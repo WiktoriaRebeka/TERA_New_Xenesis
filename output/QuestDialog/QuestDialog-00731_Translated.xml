@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Las criaturas de la Cath&amp;#233;drale sombre nos impiden atacar a nuestros verdaderos enemigos.&lt;BR&gt;&lt;BR&gt;Eliminen a los {@LinkCreature:25#1081#hy&amp;#232;nes sans remords}, los {@LinkCreature:25#1041#&amp;#233;cuyers de l'effroi}, los {@LinkCreature:25#1021#pr&amp;#233;lats devans}, los {@LinkCreature:25#1022#gardiens squelettiques}, los {@LinkCreature:25#1031#chevaliers de l'effroi}, los {@LinkCreature:25#1032#d&amp;#233;fenseurs squelettiques} y los {@LinkCreature:25#1051#piquiers squelettiques}.&lt;BR&gt;&lt;BR&gt;Una vez terminada la misi&amp;#243;n, presenten su informe a la coordinadora Delwen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

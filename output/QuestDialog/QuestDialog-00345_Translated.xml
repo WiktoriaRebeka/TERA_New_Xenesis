@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="5">&amp;#191;Te env&amp;#237;a Dirken? Me cuesta creerlo.&lt;BR&gt;&lt;BR&gt;Con el debido respeto, &lt;BR&gt;, no me pareces el tipo de persona a la que Dirken contratar&amp;#237;a. Tienes las manos demasiado limpias.&lt;BR&gt;&lt;BR&gt;Ve a manch&amp;#225;rtelas un poco masacrando a unos {@LinkCreature:12#2#kamaras bais} y {@LinkCreature:12#3#r&amp;#244;deurs arachn&amp;#233;ens}. Luego podremos hablar. No importa para qui&amp;#233;n trabajes; a todo el mundo le gusta una playa limpia, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="5">Has limpiado esta playa tal como te ped&amp;#237;.&lt;BR&gt;&lt;BR&gt;Reconozco que en cuanto a obediencia ciega, te llevas la palma, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Retiro lo dicho; alguien tan disciplinado como t&amp;#250; puede trabajar perfectamente para Dirken. En su tripulaci&amp;#243;n, los librepensadores y los amotinados tienen una esperanza de vida muy corta.</Page>
+    </Text>
+</QuestDialog>

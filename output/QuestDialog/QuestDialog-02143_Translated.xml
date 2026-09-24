@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:230#3026#Lilis} est&amp;#225; en lo alto del {@Rgn:9017001$$Phare du Soleil} y no logra dominar a uno de los golems que hay dentro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes hacer algo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;, el {@LinkCreature:417#2001#vieux gardien} que est&amp;#225; en lo alto de la torre no me dejar&amp;#225; acercarme al arrancador, a pesar de que necesita ser limpiado. Si no, corre el riesgo de volver a averiarse.&lt;BR&gt;&lt;BR&gt;Encu&amp;#233;ntralo y ap&amp;#225;galo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Gracias.&lt;BR&gt;&lt;BR&gt;La torre ya es bastante inestable como para a&amp;#241;adir problemas de limpieza.</Page>
+    </Text>
+</QuestDialog>

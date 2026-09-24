@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="6">Thulsa ha invadido la regi&amp;#243;n, atra&amp;#237;do por la riqueza de Croskurn Mines en mineral de mana. Es ese mismo mineral el que alimenta los escudos de Allemantheia.&lt;BR&gt;&lt;BR&gt;Todo parece indicar que Thulsa est&amp;#225; preparando un ataque a gran escala que bien podr&amp;#237;a significar el fin de la Federaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"¿Se le puede detener?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Lo que es seguro es que, si perdemos la fe, aquellos que buscan nuestra ruina no tardar&amp;#225;n en salir ganando.&lt;BR&gt;&lt;BR&gt;En primer lugar, debemos recuperar el mineral de mana del que se ha apoderado la legi&amp;#243;n... antes de que llegue a manos de Thulsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1003">
+        <Page social="5">&amp;#161;Felicitaciones!&lt;BR&gt;&lt;BR&gt;Se puede decir que le has jugado una mala pasada a Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1003">
+        <Page social="0">Por favor, ve a recuperar ese mineral antes de que sirva para los oscuros prop&amp;#243;sitos de Thulsa.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">T&amp;#250; eres {@gender:le/la} {@gender:nouveau/nouvelle} &lt;PCCLASS:lcase&gt;, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Perfecto, necesito tu ayuda. Me faltan materiales para fabricar el papel m&amp;#225;gico que usamos para registrar observaciones cuando tenemos las manos demasiado ocupadas para escribir.&lt;BR&gt;&lt;BR&gt;Para fabricar este papel, necesitamos madera de manteca de cerdo. Y la conseguimos, s&amp;#237;, aqu&amp;#237; es donde se complica, de los guardianes y chamanes del bosque en la Monta&amp;#241;a Pr&amp;#232;mebleu.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos, en marcha! &amp;#161;Necesito madera de manteca de cerdo, y r&amp;#225;pido!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Has sido m&amp;#225;s r&amp;#225;pido de lo que pensaba, &lt;PCCLASS:lcase&gt;. Me has dejado con la boca abierta.&lt;BR&gt;&lt;BR&gt;Vamos a necesitar m&amp;#225;s y m&amp;#225;s papel m&amp;#225;gico, as&amp;#237; que estaremos buscando madera de manteca de cerdo muy a menudo. Procura no olvidarlo cuando pases por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1703">
+        <Page social="0">&amp;#161;Sin papel m&amp;#225;gico, mis... o sea, &quot;nuestras&quot; incre&amp;#237;bles investigaciones no quedar&amp;#225;n documentadas! &amp;#161;Ve a buscar un poco ahora mismo!</Page>
+    </Text>
+</QuestDialog>

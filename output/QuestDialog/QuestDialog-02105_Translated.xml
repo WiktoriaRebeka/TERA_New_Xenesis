@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">La Fortaleza de Zulfikar es la &amp;#250;ltima l&amp;#237;nea de defensa del Distrito de Helkan. Si los argons logran tomar el control, tendr&amp;#225;n el camino libre para llegar a Kaiator.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:78#3006} est&amp;#225; buscando a algunos soldados valientes. &amp;#191;Por qu&amp;#233; no vas a ver si puedes ayudarle?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">A decir verdad, las criaturas que m&amp;#225;s me preocupan son los {@LinkCreature:48#29#pestecorps argonomorphes}. Son salvajes, brutos, aut&amp;#233;nticas m&amp;#225;quinas de matar.&lt;BR&gt;&lt;BR&gt;Si quieres causar una buena impresi&amp;#243;n ante Shariar, comienza por erradicar esta amenaza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">&amp;#161;Nada mal! &amp;#161;Tu reputaci&amp;#243;n no es exagerada!&lt;BR&gt;&lt;BR&gt;Shariar estar&amp;#225; orgulloso de combatir a tu lado.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Recibiste una invitaci&amp;#243;n para la &quot;fiesta en la playa de Castanica&quot; de parte de Elesa de la Isla Serpentis.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#161;Eh, &lt;PCNAME&gt;! &amp;#191;Te acuerdas de m&amp;#237;? &amp;#161;No te he visto en una eternidad!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora mismo ando por Castanica para la fiesta en la playa! &amp;#191;Tienes pensado ir tambi&amp;#233;n? &amp;#161;Ser&amp;#237;a un placer volver a verte!&lt;BR&gt;&lt;BR&gt;Si no me ves en la playa, p&amp;#225;sate por la taberna al oeste de la playa y preg&amp;#250;ntale a la mesonera si sabe d&amp;#243;nde estoy.&lt;BR&gt;&lt;BR&gt;&amp;#161;Me muero de ganas!&lt;BR&gt;&amp;#8208;S</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2008">
+        <Page social="4">&amp;#161;Bienvenida, {@gender:cher/ch&amp;#232;re} &lt;PCRACE:lcase&gt;! Es tu primera vez, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes tu invitaci&amp;#243;n? &amp;#161;Es broma! &amp;#161;No la necesitas, todo el mundo est&amp;#225; invitado!&lt;BR&gt;&lt;BR&gt;&amp;#161;D&amp;#233;jame contarte todo lo genial que hay para hacer durante la fiesta en la playa!</Page>
+    </Text>
+</QuestDialog>

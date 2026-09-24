@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#191;Quieres ganar un poco de dinero extra, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} te dir&amp;#225; lo que debes hacer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Probablemente deber&amp;#237;a confiar esta misi&amp;#243;n a las Manos, pero t&amp;#250; eres mil veces m&amp;#225;s confiable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a la Montagne Fyr hoy? Si env&amp;#237;o a uno de mis hombres, no lo volver&amp;#233; a ver: o habr&amp;#225; huido o lo habr&amp;#225;n masacrado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;No puedo creer que te env&amp;#237;e a la {@Rgn:4001#Montagne Fyr}!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; habr&amp;#237;a pasado si nunca te hubi&amp;#233;ramos {@gender:rencontr&amp;#233;/rencontr&amp;#233;e}? Probablemente estar&amp;#237;amos todos muertos.&lt;BR&gt;&lt;BR&gt;Gracias, {@Rgn:4001#Montagne Fyr}. S&amp;#233; que a veces puedo ser molesto, pero la vida es dif&amp;#237;cil en este momento. Solo preg&amp;#250;ntale a {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Elthienne le prometi&amp;#243; a uno de nuestros contactos que nos encargar&amp;#237;amos de algunos de los peligros que acechan cerca de la {@Rgn:4001#Montagne Fyr}, as&amp;#237; que caza los {@LinkCreature:4#1011#rejetons &amp;#224; crocs} que est&amp;#225;n all&amp;#237;. Ah, y quieren una prueba de su muerte. No s&amp;#233; a qu&amp;#233; se refieren con eso, as&amp;#237; que tr&amp;#225;enos las u&amp;#241;as de sus pies o algo por el estilo.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">Supongo que no ha sido un camino de rosas.&lt;BR&gt;&lt;BR&gt;Ve a que {@LinkCreature:63#3003#Elthienne} te pague y rel&amp;#225;jate en la ciudad. Tienes que descansar, es bueno para el cutis, &lt;BR&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Caza {@LinkCreature:4#1021#groknars sulfureux} en la {@Rgn:4001#Montagne Fyr} y tr&amp;#225;eme una prueba de su muerte para el contacto de Elthienne.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; quiere ni por qu&amp;#233;, pero sin duda encontrar&amp;#225;s algo... algo repugnante, supongo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">Sabes, {@LinkCreature:63#3003#Elthienne} es alguien simp&amp;#225;tica, en realidad. Probablemente habl&amp;#233; de m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Es tenaz. Supongo que es dif&amp;#237;cil que dos personas con car&amp;#225;cter trabajen juntas. &amp;#161;Especialmente cuando una de las dos es tan vieja y... y ah&amp;#237; voy de nuevo! &amp;#161;Es m&amp;#225;s fuerte que yo!&lt;BR&gt;&lt;BR&gt;Creo que sabe que estamos hablando de ella. Deber&amp;#237;as ir a verla.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Mata {@LinkCreature:4#2011#rejetons voraces &amp;#224; crocs} en la {@Rgn:4001#Montagne Fyr} y tr&amp;#225;eme una prueba de su muerte. Elthienne la necesita para la persona que nos contrat&amp;#243;. Haz que sea algo sucio y pegajoso. Es ir&amp;#243;nico, por supuesto.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">&amp;#161;Lo has logrado una vez m&amp;#225;s, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Toma, te lo has ganado.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1011">
+        <Page social="4">Hacemos todo lo posible para evitar que el enemigo avance hacia el norte, pero hemos sufrido duros reveses en otros lugares. Los devoratripas se esconden en el Village du Vent de Sable, y Qasimir es nuestro &amp;#250;nico soldado en el lugar.&lt;BR&gt;&lt;BR&gt;Por favor, dir&amp;#237;gete hacia el suroeste. En el camino, &amp;#161;encuentra a los {@LinkCreature:24#56#charognards du vent de sable} y m&amp;#225;talos! Luego ayuda a nuestros soldados que se esconden cerca del pueblo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="4">&amp;#191;Te manda Pembry? Ya era hora. &amp;#161;Lloro pidiendo refuerzos desde ese maldito &amp;#250;ltimo equinoccio!&lt;BR&gt;&lt;BR&gt;En fin, ya que est&amp;#225;s aqu&amp;#237;, &amp;#161;pong&amp;#225;monos a trabajar!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0">Solo debemos pasar por Maon's Cabin. Nuestro mayor problema siguen siendo los {@LinkCreature:2#4#dents-de-sabre furtifs}.&lt;BR&gt;&lt;BR&gt;Antes tem&amp;#237;an a los humanos, pero ahora acechan todo lo que est&amp;#225; a su alcance.&lt;BR&gt;&lt;BR&gt;Mata a estas bestias y ll&amp;#233;vale sus dientes a Reindal. Tiene alg&amp;#250;n truco para los colmillos de estos bichos; no le pregunt&amp;#233; qu&amp;#233; hace con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">&amp;#161;Excelente! M&amp;#237;ralos, son tan... magn&amp;#237;ficos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">&amp;#191;Ves estos dientes de sable? Sus dientes son verdaderamente... verdaderamente magn&amp;#237;ficos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Carta]&lt;BR&gt;&lt;BR&gt;Ahrep me comunic&amp;#243; informaci&amp;#243;n importante. Ven a buscarme inmediatamente despu&amp;#233;s de recibir esta carta.&lt;BR&gt;&lt;BR&gt;Revenj</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has recibido una solicitud urgente por parte de Revenj. Aparentemente, dispone de informaci&amp;#243;n importante.&lt;BR&gt;&lt;BR&gt;Al completar la misi&amp;#243;n, puedes ejecutar &lt;font color='#FF3333'&gt;[calabozo (463)] enemigo oculto&lt;/font&gt;. Tras lo cual, la misi&amp;#243;n &lt;font color='#7F00FF'&gt;[importante] yunque de Kaia&lt;/font&gt; se activa autom&amp;#225;ticamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="4" voiceTypeId="0">Te estaba esperando, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Como mencion&amp;#233; en la carta, Ahrep ha detectado una fuerza desconocida dentro de la fortaleza.&lt;BR&gt;&lt;BR&gt;Ve a encontrar a Ahrep en la Fortaleza de Berak e interr&amp;#243;galo sobre el enemigo misterioso.</Page>
+    </Text>
+</QuestDialog>

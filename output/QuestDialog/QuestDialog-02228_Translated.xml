@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">Entregaste los helados de bayas de sar a los visitantes del festival.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">&amp;#161;&lt;PCNAME&gt;, me alegra verte aqu&amp;#237;! &amp;#191;Tienes tiempo para ayudarme?&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">&amp;#161;Hice todos estos helados de bayas de sar para los visitantes del festival, pero Luman est&amp;#225; demasiado ocupado para entregarlos!&lt;BR&gt;&lt;BR&gt;Dile a mi asistente, Trilyn, que t&amp;#250; los entregar&amp;#225;s.&lt;NEXTPAGEBUTTON&gt;"Tengo tiempo para ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Ah, &lt;PCNAME&gt;. Veo que Lilan logr&amp;#243; convencerte de ayudarnos de nuevo.&lt;BR&gt;&lt;BR&gt;Mientras no te moleste... Tengo pedidos para Morun... Tanith... y Hayden. Oc&amp;#250;pate de este primero, el cliente lleva mucho tiempo esperando.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">No olvides sonre&amp;#237;r.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">No olvides sonre&amp;#237;r.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">No olvides sonre&amp;#237;r.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="7103">
+        <Page social="1">&amp;#191;Es el famoso helado de bayas silvestres? &amp;#161;Sabe a verano!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="3" villagerId="7104">
+        <Page social="1">Ah, helado de bayas silvestres. Es perfecto cuando hace calor, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="3" villagerId="7105">
+        <Page social="1">&amp;#161;Ah, helado de bayas silvestres! Para ser honesto, es la &amp;#250;nica raz&amp;#243;n por la que vengo aqu&amp;#237;... Pero que quede entre nosotros.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="7101">
+        <Page social="4">&amp;#161;Gracias por ayudarme de nuevo, &lt;PCNAME&gt;! &amp;#161;Eres realmente el mejor!</Page>
+    </Text>
+</QuestDialog>

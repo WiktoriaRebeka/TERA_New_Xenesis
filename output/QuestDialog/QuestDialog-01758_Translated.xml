@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="0">Rhodos afirm&amp;#243; haber visto cad&amp;#225;veres de Barakas en la regi&amp;#243;n de Pierrefuge. &lt;BR&gt;A petici&amp;#243;n suya, examinaste los restos en el camino hacia Carri&amp;#232;re de Dirana antes de realizar un rito funerario para calmar sus almas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">T&amp;#250; eres &lt;PCNAME&gt; {@gender:le visiteur/la visiteuse}, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Un mensajero vino hace poco. Parece que Rhodos, el comandante khirien, quiere hablar contigo.&lt;BR&gt;&lt;BR&gt;Dijo que te esperar&amp;#237;a en el camino oeste.&lt;NEXTPAGEBUTTON&gt;"Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Encontr&amp;#233; los cad&amp;#225;veres de algunos soldados barakas y hay algo sospechoso en c&amp;#243;mo murieron.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as examinarlos y decirme qu&amp;#233; piensas? Los barakas conf&amp;#237;an en ti y me gustar&amp;#237;a que confirmaras mis sospechas.&lt;NEXTPAGEBUTTON&gt;"Claro que sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">(La herida de este baraka muerto ha sido cauterizada.)&lt;NEXTPAGEBUTTON&gt;"Extraño."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1016">
+        <Page social="4" voiceTypeId="0">(Este baraka fue asesinado de un solo golpe por la espalda.)&lt;NEXTPAGEBUTTON&gt;Concluir el examen.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo sab&amp;#237;a! &amp;#161;Archidevans!&lt;BR&gt;&lt;BR&gt;Las marcas de quemaduras lo confirman, y el hecho de que no vieran venir nada indica que fueron atacados desde la penumbra. Todos estos barakas muertos debieron caer en una emboscada.&lt;BR&gt;&lt;BR&gt;Son malas noticias, &lt;PCNAME&gt;. Si murieron sin ver el rostro de sus atacantes, regresar&amp;#225;n como fantasmas vengativos y rondar&amp;#225;n este camino por la eternidad. Debemos realizar un rito de consuelo para que sus esp&amp;#237;ritus encuentren la paz.&lt;NEXTPAGEBUTTON&gt;"Y... ¿esto va a durar mucho?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">S&amp;#233; que suena rid&amp;#237;culo, pero es una costumbre funeraria que los barakas y los Khiriens comparten. H&amp;#225;zme este favor.&lt;BR&gt;&lt;BR&gt;Le ordenar&amp;#233; a Joakim y Donakim que re&amp;#250;nan las piedras para construir la l&amp;#225;pida.&lt;BR&gt;&lt;BR&gt;Mientras tanto, usa las piedras alrededor de los restos de los barakas para recolectar sus almas. Luego, purif&amp;#237;cate con sangre de cordero para que el aroma de las almas no se adhiera a ti. De lo contrario, te perseguir&amp;#225;n hasta el fin de tus d&amp;#237;as.&lt;NEXTPAGEBUTTON&gt;"De hecho, prefiero evitar eso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Gracias, &lt;PCNAME&gt;. Te agradezco que muestres respeto por nuestra cultura.&lt;BR&gt;&lt;BR&gt;Joakim y Donakim han construido un cementerio para albergar a cada uno de los barakas. Solo te queda terminar las tumbas colocando sus piedras de alma en las l&amp;#225;pidas, y as&amp;#237; podr&amp;#225;n encontrar la paz en el m&amp;#225;s all&amp;#225;.&lt;NEXTPAGEBUTTON&gt;"Bien. Estoy ansioso{@g:/e} por empezar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Gracias, &lt;PCNAME&gt;. Sab&amp;#237;a que pod&amp;#237;a contar contigo.&lt;BR&gt;&lt;BR&gt;Y cuando llegue el momento, s&amp;#233; que me ayudar&amp;#225;s a hacer pagar a los responsables... &amp;#161;con sus propias vidas!&lt;NEXTPAGEBUTTON&gt;Asentimiento&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

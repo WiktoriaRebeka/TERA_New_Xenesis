@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Hemos instalado una Base avanzada en las Profundidades del Labyrinth of Azrael. En retrospectiva, fue una locura pensar que podr&amp;#237;amos garantizar la seguridad de un campamento instalado tan cerca de las l&amp;#237;neas enemigas. En su &amp;#250;ltimo informe, los hombres del campamento nos advirtieron que el enemigo estaba reuniendo sus fuerzas con la intenci&amp;#243;n de atacar.&lt;BR&gt;&lt;BR&gt;El problema es que el centuri&amp;#243;n de este campamento posee una copia de nuestros planes de batalla. Si esos documentos caen en manos del enemigo, todo estar&amp;#225; perdido.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;ne a un grupo de combatientes experimentados, ve a la &lt;font color='#660000'&gt;base avanzada&lt;/font&gt; de las Profundidades del Labyrinth of Azrael y destruye esos planes.&lt;BR&gt;&lt;BR&gt;Se trata de actuar r&amp;#225;pido, as&amp;#237; que ve a ver a {@LinkCreature:209#2000$$Tulutulu}. Podr&amp;#225; enviarte a las Profundidades del Labyrinth en un abrir y cerrar de ojos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="2000">
+        <Page social="4">&amp;#191;Eres {@gender:press&amp;#233;/press&amp;#233;e}&amp;nbsp;? Por una m&amp;#243;dica suma, puedo teletransportarte a las Profundidades del Labyrinthe d'Azarel.&lt;BR&gt;&lt;BR&gt;Te recomiendo encarecidamente que uses mis servicios. Es peligroso ir por cuenta propia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1026">
+        <Page social="0">(A juzgar por sus heridas, el centuri&amp;#243;n se enfrent&amp;#243; a un rival formidable.)&lt;BR&gt;&lt;BR&gt;(Al registrar su cad&amp;#225;ver, acabas encontrando una bolsa de cuero que contiene los planes de batalla.)&lt;BR&gt;&lt;BR&gt;(Un ruido te hace dar un brinco y, con urgencia, te metes el plano en la boca y te lo tragas tras masticarlo a las apuradas.)</Page>
+    </Text>
+</QuestDialog>

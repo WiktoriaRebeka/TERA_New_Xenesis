@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">{@LinkCreature:250#1013} desear&amp;#237;a poder realizar sus investigaciones sobre el terreno, pero es demasiado peligroso. No estoy aqu&amp;#237; para complacerla, sino para asegurar su seguridad.&lt;BR&gt;&lt;BR&gt;Evidentemente, si aceptaras eliminar a los verdugos manaathol y a los athakela al este de aqu&amp;#237;, podr&amp;#237;a dejarla hacer el viaje.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1018">
+        <Page social="6">Shirka se enter&amp;#243; de tu misi&amp;#243;n. Me acosa para que la deje ir a explorar la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Gracias a ti, podr&amp;#225; hacerlo con total seguridad.</Page>
+    </Text>
+</QuestDialog>

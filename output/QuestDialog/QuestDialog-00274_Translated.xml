@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0">Los nagas empiezan a envalentonarse y salen de sus nidos en la Isla Serpentis, &lt;PCCLASS:lcase&gt;. Y eso no augura nada bueno para nosotros.&lt;BR&gt;&lt;BR&gt;Queremos contenerlos. Ve a hablar con {@LinkCreature:61#1010#Zesine} y encuentra la manera de solucionar el problema lo antes posible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1010">
+        <Page social="0">Los nagas pueden silbar todo lo que quieran sobre Dagon, pero no pienso dejar que escapen de la Isla Serpentis.&lt;BR&gt;&lt;BR&gt;Por otro lado, me preocupan los refugiados de la costa este de la isla, por lo que he enviado un contingente de soldados de la espada de Kaia a erradicar a los nagas.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al Campamento de la V&amp;#237;bora y pr&amp;#233;stales tu fuerza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1006">
+        <Page social="0">&amp;#191;Has logrado burlar la vigilancia de los centinelas nagas y los kamaras, &lt;PCCLASS:lcase&gt;? Bueno, se puede decir que tienes talento. A menos que sea suerte... o un poco de ambas.&lt;BR&gt;&lt;BR&gt;Sea como sea, ve a ver a Briale antes de que sea ella quien te ponga las manos encima.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="1007">
+        <Page social="0">S&amp;#237;, Latas no es el m&amp;#225;s diplom&amp;#225;tico de nuestros soldados, pero bajo los efectos de la fatiga, cualquiera puede decir cosas de las que luego se arrepiente, y todos estamos agotados.&lt;BR&gt;&lt;BR&gt;Intentamos proteger al mismo tiempo la Orilla de la Boa, la Isla Kerozen y la Selva Adderkin, pero es como intentar contener el mar con las manos. Vas a sernos de gran ayuda.</Page>
+    </Text>
+</QuestDialog>

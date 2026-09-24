@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;, tengo un trabajo para ti!&lt;NEXTPAGEBUTTON&gt;¿Ah, sí?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Bueno, m&amp;#225;s bien es {@LinkCreature:63#3002#Taratia} quien tiene un trabajo para ti. Pero como fui yo quien se lo dio al principio, podr&amp;#237;a decirse que soy yo quien te ofrece el trabajo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Bueno, t&amp;#233;cnicamente es {@linkcreature:63#3003#Elthienne} quien tiene trabajo para ti, ya que es ella quien me asigna mis misiones...&lt;BR&gt;&lt;BR&gt;Pero supongo que no te estoy ense&amp;#241;ando nada nuevo. Se trata de recolecci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">{@linkcreature:63#3002#Taratia} no para de elogiarte. Ahora entiendo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&lt;PCNAME&gt;, &amp;#191;a&amp;#250;n no has terminado con el {@RawItem:206818}? &amp;#191;Qu&amp;#233; te parecer&amp;#237;a ir a hacer algunas compras juntos a Allemantheia?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">{@linkcreature:63#3002#Taratia} no para de elogiarte. Ahora entiendo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&lt;PCNAME&gt;, &amp;#191;a&amp;#250;n no has terminado con el {@RawItem:206819}? &amp;#191;Qu&amp;#233; te parecer&amp;#237;a ir a hacer algunas compras juntos a Allemantheia?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">{@linkcreature:63#3002#Taratia} no para de elogiarte. Ahora entiendo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&lt;PCNAME&gt;, &amp;#191;a&amp;#250;n no has terminado con el {@RawItem:206820}? &amp;#191;Qu&amp;#233; te parecer&amp;#237;a ir a hacer algunas compras juntos a Allemantheia?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">{@linkcreature:63#3002#Taratia} no para de elogiarte. Ahora entiendo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&lt;PCNAME&gt;, &amp;#191;a&amp;#250;n no has terminado con el {@RawItem:206821}? &amp;#191;Qu&amp;#233; te parecer&amp;#237;a ir a hacer algunas compras juntos a Allemantheia?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">{@linkcreature:63#3002#Taratia} no para de elogiarte. Ahora entiendo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&lt;PCNAME&gt;, &amp;#191;a&amp;#250;n no has terminado con el {@RawItem:206822}? &amp;#191;Qu&amp;#233; te parecer&amp;#237;a ir a hacer algunas compras juntos a Allemantheia?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">&lt;BR&gt;&amp;#161;No has escatimado esfuerzos!&lt;BR&gt;&lt;BR&gt;Gracias por haber completado esta delicada tarea.</Page>
+    </Text>
+</QuestDialog>

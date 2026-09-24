@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2503">
+        <Page social="4" voiceTypeId="0">&amp;#161;Yo soy Paesyn, de la unidad especial!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me gustar&amp;#237;a salvarnos a Zolyn y a m&amp;#237;!&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que he estado investigando varias cosas!&lt;NEXTPAGEBUTTON&gt;"¿Qué tipo de investigación?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Investigaci&amp;#243;n sobre un viaje a otro mundo.&lt;BR&gt;&lt;BR&gt;Mis investigaciones me han tenido tan obsesionado que no tengo tiempo para combatir.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, todav&amp;#237;a no he conseguido completar mi investigaci&amp;#243;n y el tiempo se agota.&lt;NEXTPAGEBUTTON&gt;"¿En serio?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Por eso necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;&amp;#161;Hazme un favor!&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;De verdad? Gracias.&lt;BR&gt;&lt;BR&gt;Por lo tanto, abrir&amp;#233; un portal dimensional para ti.&lt;BR&gt;&lt;BR&gt;Cr&amp;#250;zalo para cumplir con tu tarea.&lt;BR&gt;&lt;BR&gt;&amp;#161;Te alcanzar&amp;#233; tan pronto como sea posible!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Salvaste a Paesyn y Zolyn en el otro mundo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2503">
+        <Page social="5">Gracias por salvar a Paesyn y Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="10100">
+        <Page social="2">Gracias a ti, Zolyn y Paesyn tienen una segunda oportunidad.&lt;BR&gt;&lt;BR&gt;Con ver a Zolyn desde lejos me basta y sobra.&lt;BR&gt;&lt;BR&gt;Much&amp;#237;simas gracias.</Page>
+    </Text>
+</QuestDialog>

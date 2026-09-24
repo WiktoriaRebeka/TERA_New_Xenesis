@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1003">
+        <Page social="4">Muchos mineros son v&amp;#237;ctimas de la plaga. Con algunas muestras de tejido de los supervivientes mutados, podr&amp;#237;amos saber m&amp;#225;s sobre los or&amp;#237;genes de la enfermedad. De paso, podr&amp;#237;as poner fin al sufrimiento de estos {@LinkCreature:40#16#mineurs mutants}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1003">
+        <Page social="4">Trabajar&amp;#233; d&amp;#237;a y noche para entender qu&amp;#233; est&amp;#225; pasando. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1003">
+        <Page social="0">Cuando tenga las muestras de estos {@LinkCreature:40#16#mineurs mutants}, podr&amp;#233; ponerme a trabajar. Mientras tanto, tengo las manos atadas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Si planeas fraternizar con los piratas, vas a tener que hacer las cosas bien.&lt;BR&gt;&lt;BR&gt;Para ganar su respeto, y por tanto su cooperaci&amp;#243;n, tendr&amp;#225;s que hablar y comportarte como uno de {@gender:un/une} los suyos.&lt;BR&gt;&lt;BR&gt;Si logras convencer a {@LinkCreature:211#1036$$Dilato} y a {@LinkCreature:62#1014$$Finn} de que est&amp;#225;s {@gender:fait/faite} para la vida pirata, obtendr&amp;#225;s un mont&amp;#243;n de informaci&amp;#243;n &amp;#250;til.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">&amp;#161;Hoy en d&amp;#237;a ya no se cuentan los buenos para nada que quieren volverse piratas! &amp;#191;Crees que basta con ponerse un parche en el ojo y pasearse con un loro en el hombro?&lt;BR&gt;&lt;BR&gt;Esto es lo que vamos a hacer... Te har&amp;#233; una pregunta y veremos si tienes un coraz&amp;#243;n pirata.&lt;BR&gt;&lt;BR&gt;&amp;#191;Cu&amp;#225;ndo empieza un pirata a beber ron?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">&amp;#161;S&amp;#237;, es una buena respuesta! A saber... &amp;#161;Quiz&amp;#225;s s&amp;#237; tengas un coraz&amp;#243;n pirata despu&amp;#233;s de todo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="2" villagerId="1036">
+        <Page social="4">&amp;#161;Bien dicho! &amp;#161;Eso es lo que yo llamo una respuesta digna de ese nombre! &amp;#161;Salud por los aspirantes a pirata y por su amor al buen ron!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Me pareces un poco... Mmh... &amp;#191;Est&amp;#225;s {@gender:s&amp;#251;r/s&amp;#251;re} de estar {@gender:fait/faite} para la vida pirata?&lt;BR&gt;&lt;BR&gt;Bueno, vamos a ver eso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es lo mejor en la vida pirata?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Ah, s&amp;#237;... &amp;#161;Las moneditas, no hay nada mejor que eso! Bien dicho, {@gender:ami/amie}. &amp;#161;He aqu&amp;#237; una respuesta que merece que alcemos nuestra copa!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">Dejarse llevar por el vaiv&amp;#233;n de las olas. Aj&amp;#225;, yo mismo no conozco nada igual. Bien dicho.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">&amp;#161;Est&amp;#225;s {@gender:un/une} {@gender:vrai/vraie} pirata o yo no s&amp;#233; nada de esto!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="3" villagerId="1014">
+        <Page social="4">&amp;#161;Ja! &amp;#161;Pues yo digo &quot;bebamos por la embriaguez&quot;! Es una pasi&amp;#243;n sana y bien merece un brindis. Qui&amp;#233;n sabe... Puede que est&amp;#233;s {@gender:taill&amp;#233;/taill&amp;#233;e} para el oficio despu&amp;#233;s de todo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="211" prevId="6" villagerId="1009">
+        <Page social="4">&amp;#161;Bien hecho! Ganarse el respeto de los piratas no es poca cosa.&lt;BR&gt;&lt;BR&gt;Procura hacerles algunos favores menores y no tardar&amp;#225;n en aceptarte en sus filas.</Page>
+    </Text>
+</QuestDialog>

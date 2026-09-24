@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Los Barakas de Highwatch te ayudaron a llegar a Khanovar Front. All&amp;#237; conociste al comandante {@linkcreature:528#5005#Tamur}, quien te agradeci&amp;#243; y expres&amp;#243; su deseo de que pongas fin a esta terrible guerra.&lt;BR&gt;&lt;BR&gt;Este interminable conflicto segu&amp;#237;a cobr&amp;#225;ndose m&amp;#225;s v&amp;#237;ctimas, por lo que se abri&amp;#243; un nuevo campo de batalla en Khanovar Front para entrenar a nuevos soldados. Usando el ca&amp;#241;&amp;#243;n de asedio, finalmente lograste hacer retroceder a los gigantescos argons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Telegrama de la fortaleza de Khanovar]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, conque has recibido mi carta. &lt;BR&gt;&amp;#161;Ven r&amp;#225;pido!&lt;BR&gt;&lt;BR&gt;Tamur</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; alegr&amp;#237;a verte, &lt;PCNAME&gt;!&lt;BR&gt;Desafortunadamente, la situaci&amp;#243;n en el frente no pinta bien.&lt;BR&gt;&amp;#191;Y te ha ido todo bien?&lt;NEXTPAGEBUTTON&gt;"¿En qué puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">(Tamur parece asustado.)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, no dejas de impresionarme. &lt;BR&gt;&lt;BR&gt;Estoy muy contento con el apoyo que Highwatch nos brinda en esta guerra. Nos ayudar&amp;#225;n a estudiar a los argons y sus vestigios en las regiones desconocidas. &lt;BR&gt;&lt;BR&gt;Por ahora, no tenemos idea de lo que est&amp;#225;n tramando. &lt;BR&gt;&lt;BR&gt;El cuartel general te esperaba con impaciencia.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Nos enteramos de que los argons atacaron a los herreros del {@Rgn:48008$$Crat&amp;#232;re de Magthulk}. &lt;BR&gt;&lt;BR&gt;Enviamos suministros m&amp;#233;dicos para los heridos, pero al parecer necesitan m&amp;#225;s. Adem&amp;#225;s, los argons los tienen rodeados.&lt;NEXTPAGEBUTTON&gt;"La situación se ve muy peligrosa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Debemos ayudarlos.&lt;BR&gt;&lt;BR&gt;Reabastece a {@LinkCreature:248#2009#Caerok} en la zona de combate y elimina a los argons.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Lo sab&amp;#237;a! Tienes la mente aguda.&lt;BR&gt;No perdamos tiempo, la situaci&amp;#243;n en el frente es cr&amp;#237;tica. &lt;BR&gt;&lt;BR&gt;Nos enteramos de que los argons atacaron a los herreros del {@Rgn:48008$$Crat&amp;#232;re de Magthulk}. Debemos ayudarlos.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">{@LinkCreature:248#2009#Caerok} se ha unido a la zona de combate. Necesita suministros y los argons le impiden adem&amp;#225;s rescatar a los herreros. &lt;BR&gt;&lt;BR&gt;Por favor, reabast&amp;#233;celo y elimina a los argons. Para conseguir los suministros, habla con {@LinkCreature:248#1025#Jeruka}, el herrero del campamento.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="1025">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, conque aceptaste el contrato.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#2009#Caerok} est&amp;#225; por all&amp;#225;. La situaci&amp;#243;n ah&amp;#237; es explosiva. &lt;BR&gt;&lt;BR&gt;Ten mucho cuidado.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="6" villagerId="2009">
+        <Page social="4" voiceTypeId="0">&amp;#161;Alabada sea Kaia! &amp;#161;&amp;#161;Por fin hay refuerzos!!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias! Nuestras reservas est&amp;#225;n agotadas y ya no podemos tratar a los heridos. Hasta los herreros est&amp;#225;n arrimando el hombro porque nos falta mano de obra.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; alegr&amp;#237;a poder contar contigo, &lt;BR&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="2005">
+        <Page social="4" voiceTypeId="0">&amp;#161;Gracias por tu ayuda! Los argons no tardar&amp;#225;n en aparecer. &lt;BR&gt;&lt;BR&gt;Ya instalamos nuestro ca&amp;#241;&amp;#243;n de asedio frente al {@Rgn:48002$$Citadelle de Khanovar}. Desafortunadamente, no puedo prometerte que las armas sigan funcionando.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir all&amp;#237; para que tengamos al menos una m&amp;#237;nima oportunidad?&lt;BR&gt;&lt;BR&gt;&amp;#161;Intentaremos resistir aqu&amp;#237;! &amp;#161;Vamos, en marcha! &amp;#161;R&amp;#225;pido!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="2006">
+        <Page social="4" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;s, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Muhrak, mi padre, ya me ha hablado mucho de ti y de tus haza&amp;#241;as.&lt;BR&gt;&lt;BR&gt;He construido un ca&amp;#241;&amp;#243;n de asedio para cazar a los argons.&lt;BR&gt;Y tienes el insigne honor de ser el primer miembro de la Valkyon Federation en probarlo. &amp;#191;Qu&amp;#233; dices, te tienta?&lt;NEXTPAGEBUTTON&gt;"¡Con mucho gusto!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Por supuesto, &amp;#161;no lo estrenar&amp;#225;s del todo solo, no vaya a ser que el aparato est&amp;#233; defectuoso!&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#218;salo para aniquilar a los argons!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="48" prevId="9" villagerId="2000">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="2006">
+        <Page social="8" voiceTypeId="0">&amp;#161;Jajajajaja! Este ca&amp;#241;&amp;#243;n de asedio es una de mis obras maestras. &amp;#161;Tem&amp;#237;a que terminara hecho trizas antes incluso de ser desplegado, pero ha resultado extremadamente robusto! &amp;#161;Mi padre estar&amp;#237;a muy orgulloso de m&amp;#237;!&lt;BR&gt;&lt;BR&gt;Gracias a esta arma, podremos evitar que los argons nos abrumen, al menos por ahora. Muchas gracias.&lt;BR&gt;&lt;BR&gt;Yo me encargar&amp;#233; de todo lo dem&amp;#225;s. Regresa con el comandante Helkan y pres&amp;#233;ntale tu informe.</Page>
+    </Text>
+</QuestDialog>

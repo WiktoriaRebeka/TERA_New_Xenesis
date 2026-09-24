@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="5">&amp;#191;Soldado de la Federaci&amp;#243;n, eh? Bien, escucha... s&amp;#233; que a los soldados no les gusta hacer trabajos sucios, pero de verdad necesito una mano. Tengo que hacer llegar una carta a Furlan, un amigo.&lt;BR&gt;&lt;BR&gt;Le ped&amp;#237; a un mensajero que se encargara de ello, pero Furlan vive en el Valle de los Titanes y a nadie le apetece mucho ir a dar un paseo por ah&amp;#237; en este momento.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que conseguir la carta de parte de Brose. Fue a &amp;#233;l a quien le encargu&amp;#233; entregarla, pero creo que le da much&amp;#237;simo miedo ir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#191;Kenan te pidi&amp;#243; que te ocuparas de la carta? Bueno, justo estaba a punto de ponerme en marcha. Solo me retras&amp;#233; un poco preparando le&amp;#241;a... para mi fogata...&lt;BR&gt;&lt;BR&gt;Pero ya que insistes, toma, aqu&amp;#237; tienes la carta. Buen viaje.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1016">
+        <Page social="0">&amp;#191;Una carta de Kenan? Gracias por tra&amp;#233;rmela.&lt;BR&gt;&lt;BR&gt;Oh... le pide a mi familia que vaya a reunirse con &amp;#233;l; se preocupa por nuestra seguridad. Qu&amp;#233; detalle tan considerado... pero no podemos abandonar nuestro hogar. Debemos quedarnos aqu&amp;#237; para defenderlo.&lt;BR&gt;&lt;BR&gt;Gracias por hacer el viaje. Desafortunadamente lo hiciste para nada, pero estoy conmovido por tu solicitud.</Page>
+    </Text>
+</QuestDialog>

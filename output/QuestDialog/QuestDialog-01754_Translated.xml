@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">En busca de una manera de pedir refuerzos a Velika en el Hall de la conocimiento, &lt;PCNAME&gt; se encontr&amp;#243; con Halran, el sabio de Highwatch, quien lo estaba esperando. &lt;PCNAME&gt; intent&amp;#243; comulgar con la Arcanalitha de Mystel, una reliquia que otorga respuestas a quienes buscan voluntariamente su destino. Y {@gender:il/elle} tuvo una visi&amp;#243;n de los Archidevans y de la Muralla de las Tormentas.&lt;BR&gt;Halran predijo que &lt;PCNAME&gt; ser&amp;#237;a {@gender:le lib&amp;#233;rateur/la lib&amp;#233;ratrice} de los barakas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Como le dije, el Hall de la conocimiento no est&amp;#225; abierto para cualquiera... por lo general.&lt;BR&gt;&lt;BR&gt;Pero le escuch&amp;#233; a Omeros hablar bien de ti, &lt;PCNAME&gt; y creo que ser&amp;#237;a prudente dejarte entrar.&lt;BR&gt;&lt;BR&gt;Una vez dentro, deber&amp;#237;as buscar a Halran. &amp;#201;l deber&amp;#237;a poder ayudarte.&lt;NEXTPAGEBUTTON&gt;"Haré eso. Gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Muy bien! Te enviar&amp;#233; directamente al lugar donde Halran te espera.&lt;NEXTPAGEBUTTON&gt;"Estoy listo{@g:/e}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Halran me advirti&amp;#243; que vendr&amp;#237;a un visitante.&lt;BR&gt;&lt;BR&gt;&amp;#191;Eres &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Muy bien! Perm&amp;#237;teme servir de gu&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Al salir de esta habitaci&amp;#243;n encontrar&amp;#225;s unas escaleras. En la parte superior de estas podr&amp;#225;s ver la Arcanalitha de Mystel, donde Halran te estar&amp;#225; esperando.&lt;BR&gt;&lt;BR&gt;Ten la amabilidad de recoger todos los libros que encuentres en las escaleras.&lt;NEXTPAGEBUTTON&gt;"Ningún problema."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2037">
+        <Page social="4" voiceTypeId="0">[&quot;En la &amp;#233;poca de las leyendas viv&amp;#237;an gigantes que esclavizaron a los amans y conquistaron vastas extensiones de Arun y Shara. Luego llegaron el fuego de Yurian y el sacrificio de Balder. En medio de las cenizas, Balder despoj&amp;#243; a los gigantes de todo lo que los hac&amp;#237;a hijos de Tithus, dejando solo lo que los hac&amp;#237;a hijos de Oriyin.&quot;]&lt;NEXTPAGEBUTTON&gt;(Recoge el Libro de los Sabios.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2038">
+        <Page social="4" voiceTypeId="0">[En una p&amp;#225;gina que describe los acontecimientos de la guerra divina, un sabio ancestral garabate&amp;#243;:&lt;BR&gt;&lt;BR&gt;&quot;&amp;#191;La Muralla de las Tormentas precede al precipicio? No hay menci&amp;#243;n de esto en el Libro de los Sabios. El precipicio bordea la Muralla. &amp;#191;Causa? &amp;#191;Efecto? &amp;#191;Coincidencia?&quot;&lt;NEXTPAGEBUTTON&gt;(Recoge el libro del Erudito.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="2039">
+        <Page social="4" voiceTypeId="0">[La nota oculta en el libro dice: &lt;BR&gt;&lt;BR&gt;&quot;Lakan&quot;&lt;BR&gt;&lt;BR&gt;&quot;De los Castanics a los Devans y a los Archidevans.&quot;&lt;BR&gt;&lt;BR&gt;&quot;MAGIA DE SANGRE&quot;&lt;NEXTPAGEBUTTON&gt;(Recoge el Libro del Sensato.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="2113">
+        <Page social="4" voiceTypeId="0">[En una p&amp;#225;gina que describe los diferentes tipos de devans, alguien escribi&amp;#243;:&lt;BR&gt;&lt;BR&gt;&quot;Los efectos de la magia de sangre parecen desafiar a la muerte y transmitirse de generaci&amp;#243;n en generaci&amp;#243;n. La magia de sangre puede servir para levantar la magia de sangre, pero sin d&amp;#233;cadas de entrenamiento &amp;#8212;un pensamiento abyecto si los hay&amp;#8212;, cualquier intento de revertir una transformaci&amp;#243;n equivaldr&amp;#237;a a borrar una cicatriz infligiendo heridas adicionales alrededor.&quot;]&lt;NEXTPAGEBUTTON&gt;(Recoge el Libro del Astuto.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1019">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, muy buenos d&amp;#237;as! &amp;#191;No ser&amp;#225;n esos mis libros? &lt;BR&gt;Gracias por recoger las obras que hab&amp;#237;a dejado tiradas en las escaleras. &lt;BR&gt;Espero que las hayas le&amp;#237;do. Esa era mi verdadera intenci&amp;#243;n. &lt;BR&gt;Normalmente nunca dejar&amp;#237;a obras tan valiosas tiradas en un rinc&amp;#243;n. &amp;#191;Cu&amp;#225;l es tu nombre?&lt;NEXTPAGEBUTTON&gt;"Me llamo &lt;PCNAME&gt;."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Perfecto! Ya est&amp;#225;s preparado{@g:/e} para encontrar las respuestas a tus preguntas en la Arcanalit de Mystel. Llevo mucho tiempo esper&amp;#225;ndote.&lt;NEXTPAGEBUTTON&gt;"Me he encontrado con Mystel. Nunca me habló de eso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mystel sabe que una profec&amp;#237;a sin una definici&amp;#243;n tangible no es m&amp;#225;s que una carga para la mente mortal. Incluso una simple profec&amp;#237;a cuyo desenlace es inminente pone a prueba la salud mental. Imagina lo enajenante que ser&amp;#237;a poseer una premonici&amp;#243;n total sin poder comprenderla o tener la capacidad de desempe&amp;#241;ar ya un papel en los acontecimientos futuros.&lt;BR&gt;&lt;BR&gt;De todos los que he conocido, solo Verikam y yo ten&amp;#237;amos la fuerza mental suficiente para soportar m&amp;#225;s de un pu&amp;#241;ado de profec&amp;#237;as de la Arcanalit de Mystel al mismo tiempo.&lt;BR&gt;&lt;BR&gt;Pero parece que tu destino te empuja a hacer lo mismo. &amp;#191;Est&amp;#225;s listo{@g:/e} para comulgar con ella?&lt;NEXTPAGEBUTTON&gt;"Lo estoy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" villagerId="1019">
+        <Page social="0">Me preocupa un poco la capacidad de alguien que no entiende &quot;recuperen todos los libros&quot;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="9" villagerId="1010">
+        <Page social="4" voiceTypeId="0">[Archidevans. Impostura. Alteraci&amp;#243;n...]&lt;BR&gt;&lt;BR&gt;[Muralla negra... $%^&amp;*%#@%$&amp;*Piedras espaciotemporales#$%$^&amp;]&lt;BR&gt;&lt;BR&gt;Refuerzo. Reunificaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;[&amp;#8230;*#$#^(@##&lt;PCNAME&gt; ...]&lt;NEXTPAGEBUTTON&gt;"Espero haber comprendido bien la Arcanalit de Mystel."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="1019">
+        <Page social="4" voiceTypeId="0">&amp;#191;Las profec&amp;#237;as sobre los Archidevans, la Muralla de las Tormentas y la magia de sangre? &amp;#191;Y otras m&amp;#225;s?&lt;BR&gt;&lt;BR&gt;Mystel te ha identificado claramente{@g:/e} como un elemento vital en muchos acontecimientos cruciales de este mundo. Y eso va mucho m&amp;#225;s all&amp;#225; de aquellos en los que ya has participado.&lt;BR&gt;&lt;BR&gt;Parece indiscutible que estabas destinado{@g:/e} a venir aqu&amp;#237;, a Highwatch, para ayudar a los barakas a combatir a Dkurion, a pesar de la predicci&amp;#243;n de las p&amp;#233;rdidas y tragedias venideras. No envidio tu lugar en los libros de historia.&lt;NEXTPAGEBUTTON&gt;"Esto... es difícil de digerir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Te pido perd&amp;#243;n, &lt;PCNAME&gt;. Ya has sufrido demasiado para llegar hasta aqu&amp;#237;. Y ahora vengo a a&amp;#241;adirte semejante carga. Debes estar agotado{@g:/e} y necesitas reflexionar sobre muchas cosas.&lt;BR&gt;&lt;BR&gt;Pero si debes recordar una sola cosa, recuerda esto: Mystel te ha elegido. Es probable que hayas sido elegido{@g:/e} porque posees la capacidad &amp;#250;nica de poder cumplir todas las profec&amp;#237;as al mismo tiempo.&lt;NEXTPAGEBUTTON&gt;"No sería la primera vez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="183" prevId="12" villagerId="1002">
+        <Page social="4" voiceTypeId="0">&amp;#191;Por d&amp;#243;nde deseas empezar el viaje que Mystel ha preparado para ti?&lt;NEXTPAGEBUTTON&gt;"Voy a ir en busca de las piedras espaciotemporales."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Una sabia elecci&amp;#243;n, seg&amp;#250;n yo.&lt;BR&gt;&lt;BR&gt;Te aconsejo que hables con mi amigo Hagand. Ha recorrido todo el pa&amp;#237;s en busca de reliquias raras. Seguro que sabr&amp;#225; aconsejarte.&lt;BR&gt;&lt;BR&gt;Y te ruego que aceptes esto como una humilde muestra de mi agradecimiento. Podr&amp;#237;a serte &amp;#250;til.&lt;NEXTPAGEBUTTON&gt;"Entendido. Muchas gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="4">Sabes, ya que est&amp;#225;s aqu&amp;#237;... tal vez ser&amp;#237;a mejor eliminar a su l&amp;#237;der.&lt;BR&gt;&lt;BR&gt;Se llama Sidurek y apareci&amp;#243; un poco antes de que nuestra gente empezara a enfermar... y de que todos empezaran a transformarse...&lt;NEXTPAGEBUTTON&gt;"¿Matarlo nos daría otra pista?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Eso espero.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} probablemente est&amp;#233; en el coraz&amp;#243;n del campamento, as&amp;#237; que ten cuidado con sus guardias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1016">
+        <Page social="4">&amp;#191;Est&amp;#225; muerto? Bien. Qu&amp;#233; bien. &amp;#191;Encontraste alguna pista?&lt;BR&gt;&lt;BR&gt;&amp;#191;Una carta? D&amp;#225;mela.&lt;BR&gt;&lt;BR&gt;Habla de alguien llamado &quot;Malachai&quot;, de un plan y de un objeto que recibi&amp;#243; Sidurek. Mmm.&lt;BR&gt;&lt;BR&gt;Debemos averiguar m&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1016">
+        <Page social="0">Debes eliminar a Sidurek antes de que las cosas empeoren m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

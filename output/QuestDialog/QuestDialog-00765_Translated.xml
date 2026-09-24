@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">&amp;#161;&lt;PCNAME&gt;! &amp;#191;Puedo pedirte un favor? Necesito a alguien r&amp;#225;pido y resistente.&lt;NEXTPAGEBUTTON&gt;"¿Por qué? ¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Necesito los informes de nuestros equipos sobre el terreno.&lt;BR&gt;&lt;BR&gt;Ninguno est&amp;#225; muy lejos, pero cuando env&amp;#237;an mensajeros, estos suelen llegar medio muertos y apestan a perezoso a leguas. Sin mentir.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes pasar a ver a cada equipo mientras llevas a cabo tus misiones?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1085">
+        <Page social="1">Quien toma este camino es valiente o est&amp;#225; loco.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1086">
+        <Page social="1">Iba a llevar este informe yo mismo, pero tienes toda mi gratitud por haberme evitado esa tarea, camarade.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1087">
+        <Page social="1">{@LinkCreature:230#1005$$Naisas} nos agota.&lt;BR&gt;&lt;BR&gt;Creo que quiere volver a la ciudad. &amp;#161;Personalmente me encanta el trabajo de campo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1088">
+        <Page social="1">&amp;#161;No te acerques al borde! Aqu&amp;#237; est&amp;#225; mi informe. &amp;#161;Dile a {@LinkCreature:230#1005$$Naisas} que las torres son extraordinarias!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1005">
+        <Page social="1">Excelente trabajo y realizado con rapidez.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, tienes menos mordeduras de perezoso que los mensajeros habituales.</Page>
+    </Text>
+</QuestDialog>

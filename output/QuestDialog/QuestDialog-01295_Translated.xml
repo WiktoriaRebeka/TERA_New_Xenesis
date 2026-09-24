@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">Nuestros venators han avistado un nuevo tipo de argones cerca del Infusor dryuul de Cyasma. Al parecer, no son soldados, pero ignoramos todo sobre su misi&amp;#243;n. &amp;#191;Recolectar algo, tal vez?&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que fueras a eliminar a algunos y me trajeras lo que encuentres en ellos para continuar mis investigaciones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1017">
+        <Page social="6">&amp;#191;Qu&amp;#233; has descubierto? &amp;#191;Estos &quot;recolectores&quot; representan una amenaza?&lt;NEXTPAGEBUTTON&gt;"Sí, mira lo que encontré."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Pero... Estos corazones... No tienen nada de arg&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldici&amp;#243;n y infierno! Los argones deben buscar optimizar su metabolismo practicando el robo de &amp;#243;rganos. &amp;#161;Est&amp;#225;n matando dos p&amp;#225;jaros de un tiro!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1017">
+        <Page social="0">Necesito pistas para entender qu&amp;#233; son estos nuevos argones, &lt;PCNAME&gt;. Ponte en marcha.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1004">
+        <Page social="4">&amp;#191;Has visto a los {@LinkCreature:40#33#mineurs zomporis} que trabajan para la Legi&amp;#243;n de Thulsa? &amp;#191;Qu&amp;#233; les ha pasado? &amp;#191;Crees que lo que est&amp;#225;n desenterrando pudo afectar a los mineros?&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme a averiguarlo? Es posible que tengas que matar a algunos para conseguir muestras de mineral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">Se los confiaremos a los expertos del Mysterium para que los analicen. Entre nosotros, prefiero no tenerlos m&amp;#225;s tiempo del necesario.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1004">
+        <Page social="0">No soy m&amp;#225;s que un centuri&amp;#243;n, pero no soy tan tonto, y puedo entender la relaci&amp;#243;n entre las minas y las piedras m&amp;#225;gicas. &amp;#191;Has encontrado minerales?</Page>
+    </Text>
+</QuestDialog>

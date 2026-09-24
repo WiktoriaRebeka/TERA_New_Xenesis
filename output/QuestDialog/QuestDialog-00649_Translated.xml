@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">&amp;#161;Malditos piratones apestosos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mi familia lleva siglos destilando vino de bayas, pero estos {@LinkCreature:23#3#exil&amp;#233;s poporis} han robado todas nuestras reservas!&lt;BR&gt;&lt;BR&gt;Si no lo recuperamos, nos arruinaremos. No podremos pagar los impuestos ni comprar esos champi&amp;#241;ones divertidos. &amp;#191;Puedes echarnos una mano?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">&amp;#161;Eso es! &amp;#161;Es nuestro vino! &amp;#161;Lo has recuperado!&lt;BR&gt;&lt;BR&gt;&amp;#161;No me puedo creer que estos miserables sinverg&amp;#252;enzas no se lo hayan bebido todo ya!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, gracias, muchas gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1035">
+        <Page social="0">&amp;#161;Por favor, no vuelvas sin el vino! &amp;#161;A veces puedo ser un verdadero oso malhumorado cuando las cosas van mal!&lt;BR&gt;&lt;BR&gt;Lo siento, es humor popori.</Page>
+    </Text>
+</QuestDialog>

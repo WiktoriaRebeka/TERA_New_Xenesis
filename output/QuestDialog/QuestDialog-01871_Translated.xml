@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="1">Saludos, {@gender:ami/amie} del sol. Las pruebas del Temple de Balder se complican y se vuelven tan ardientes como el sol en su cenit.&lt;BR&gt;&lt;BR&gt;Para demostrar tu valent&amp;#237;a, &amp;#161;ahora debes derrotar a {@LinkCreature:425#3000$$Lagreah}, el protector del jard&amp;#237;n, y luego destruir el {@LinkCreature:425#5000#g&amp;#233;n&amp;#233;rateur de golems}!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">El sol te tiene en muy alta estima.&lt;BR&gt;&lt;BR&gt;Tu pr&amp;#243;xima prueba te espera.</Page>
+    </Text>
+</QuestDialog>

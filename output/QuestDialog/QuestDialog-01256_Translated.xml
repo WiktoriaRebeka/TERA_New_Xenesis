@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="4">Esta regi&amp;#243;n es conocida por su riqueza en fragmentos eldritch. Nuestros fragmentos de iteris son mucho m&amp;#225;s potentes que los de Westonia.&lt;BR&gt;&lt;BR&gt;Evidentemente, los argons echan mano de todo lo que encuentran, pero hay un curioso efecto de vasos comunicantes... El poder de los fragmentos que olvidan o abandonan aumenta.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as traerme algunas muestras?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1021">
+        <Page social="5">&amp;#161;Estos fragmentos de iteris tienen muy buena pinta! Y la energ&amp;#237;a que emanan... Incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;Los artesanos Castanic han tenido una gran inspiraci&amp;#243;n al instalarse en esta regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que vuelva a mis investigaciones. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1021">
+        <Page social="0">Busca {@RawItem:206811} en {@Rgn:49002}. El lugar es famoso por la extracci&amp;#243;n de piedras m&amp;#225;gicas.</Page>
+    </Text>
+</QuestDialog>

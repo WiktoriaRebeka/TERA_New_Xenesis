@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="4">Cuando pertenec&amp;#237;a a la Confr&amp;#233;rie libre, forjaba armas... y no porquer&amp;#237;as. Hoy en d&amp;#237;a, los sirvientes de Lok las usan para matar inocentes.&lt;NEXTPAGEBUTTON&gt;"¿Son armas mágicas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No realmente, digamos que eran de calidad superior... Conoc&amp;#237;a bien mi oficio. Ahora debemos quit&amp;#225;rselas a los sirvientes de Lok. &amp;#191;Puedo contar con tu ayuda?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1007">
+        <Page social="4">Menos mal que eso ya pas&amp;#243;. Estas armas volver&amp;#225;n a servir a una noble causa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1007">
+        <Page social="0">Por favor, ve a recuperar mis armas. El enemigo las ha usado en nuestra contra.</Page>
+    </Text>
+</QuestDialog>

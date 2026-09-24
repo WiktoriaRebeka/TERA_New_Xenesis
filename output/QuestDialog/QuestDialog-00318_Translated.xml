@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">Los {@LinkCreature:11#1008#pirates} y los {@LinkCreature:11#1004#excavateurs} del L&amp;#225;tigo Rojo siempre andan transportando suministros de un lado a otro. Eso no es nuevo.&lt;BR&gt;&lt;BR&gt;Pero &amp;#250;ltimamente parece que cuidan sus cargamentos con especial esmero. Nunca hab&amp;#237;a visto algo as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Y no he visto a ninguno de ellos sacar nada discretamente; as&amp;#237; que dudo que se trate de un tesoro. En mi opini&amp;#243;n, son explosivos. Ve a investigar m&amp;#225;s de cerca y tr&amp;#225;eme una muestra... &amp;#161;pero con cuidado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">Bombas... tal como lo sospechaba. En buena cantidad, habr&amp;#237;a suficiente para hundir a toda una flota o arrasar una ciudad.&lt;BR&gt;&lt;BR&gt;Pero por lo general, los piratas no usan explosivos... tendr&amp;#237;an demasiado miedo de hacer volar sus tesoros... Mmm...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1009">
+        <Page social="0">&amp;#161;Ve a confiscar esos explosivos antes de que los Red Lash Pirates hagan algo lamentable!</Page>
+    </Text>
+</QuestDialog>

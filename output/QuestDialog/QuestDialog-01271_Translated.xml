@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">Le diste un golpe severo a los argons, pero esto est&amp;#225; lejos de terminar. Si la Federaci&amp;#243;n nos env&amp;#237;a un batall&amp;#243;n, necesitaremos recuperar cierta libertad de movimiento, de lo contrario la eficacia de esos refuerzos ser&amp;#225; pr&amp;#225;cticamente nula.&lt;BR&gt;&lt;BR&gt;Ataca a los argons apostados cerca de la plataforma de teletransportaci&amp;#243;n norte. Ni hablar de dejar que nuestros refuerzos desembarquen en un per&amp;#237;metro no seguro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1034">
+        <Page social="6">Oye, &lt;PCNAME&gt;... Un momento, por favor. &amp;#191;Vas a {@Creature:249#1102}? Tengo un favor que pedirte.&lt;BR&gt;&lt;BR&gt;Me informaron sobre la presencia de criaturas argonomorfas at&amp;#237;picas llamadas zariik cyclops. Estas criaturas tienen alas magn&amp;#237;ficas. No puedes pasarlas por alto.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme sus alas. Sabr&amp;#233; hacerles un buen uso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1034">
+        <Page social="6">El Mysterium se interesa de cerca en los argonomorfos y paga cualquier muestra a precio de oro. Sus investigadores esperan encontrar alg&amp;#250;n d&amp;#237;a la manera de revertir el proceso.&lt;BR&gt;&lt;BR&gt;Una noble empresa... que, como dec&amp;#237;a, paga bastante bien.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1034">
+        <Page social="0">Escucha, asegurar la plataforma de todos modos provocar&amp;#225; su muerte.&lt;BR&gt;&lt;BR&gt;Esta es la oportunidad de matar dos p&amp;#225;jaros de un tiro.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">Por fin regresas. Ya estoy harto de escribir cartas a las familias para anunciarles que sus hijos nunca volver&amp;#225;n a casa.&lt;BR&gt;&lt;BR&gt;Muy bien. Hiciste tu parte del trabajo. Es hora de pensar en lo que sigue.</Page>
+    </Text>
+</QuestDialog>

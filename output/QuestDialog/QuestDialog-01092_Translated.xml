@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1013">
+        <Page social="4">Madjuk est&amp;#225; equivocado. &amp;#161;No entiende!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="4">No llevamos collares verdes porque nuestra piel sea verde, sino porque nuestra sangre es verde. El verde es el color del orgullo orkan. &amp;#161;Puedes ir a decirle eso!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1023">
+        <Page social="4">&amp;#191;La sangre, la piel, qu&amp;#233; diferencia hay? Nuestra piel es verde porque nuestra sangre es verde. Eso no tiene nada que ver con bonitas baratijas. Lo que cuenta Kuban no tiene ning&amp;#250;n sentido. &amp;#161;Puedes ir a decirle eso!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1013">
+        <Page social="4">&amp;#161;Ja! &amp;#191;Qu&amp;#233; piensas, &lt;PCNAME&gt;? &amp;#191;Este collar es solo una bonita baratija o el s&amp;#237;mbolo de nuestra tribu?&lt;NEXTPAGEBUTTON&gt;"No lo sé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No me est&amp;#225;s ayudando realmente.</Page>
+    </Text>
+</QuestDialog>

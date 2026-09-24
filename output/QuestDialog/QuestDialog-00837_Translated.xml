@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">&amp;#161;Kaidun! Para nosotros, los Amans, este nombre est&amp;#225; cargado de significado. Anta&amp;#241;o fue un s&amp;#237;mbolo vivo de la fuerza y la grandeza de nuestra raza. Pero ese tiempo ya pas&amp;#243;.&lt;BR&gt;&lt;BR&gt;Cuando Kaidun sali&amp;#243; de la Citadelle du Tourment, se hab&amp;#237;a convertido en un tirano sanguinario. Se lanz&amp;#243; a la conquista de Mont Tyrannas, y sin el sacrificio de nuestro pueblo, ya estar&amp;#237;a aqu&amp;#237; y nos habr&amp;#237;a masacrado a todos.&lt;BR&gt;&lt;BR&gt;Esta guerra dura demasiado tiempo y empezamos a escasear de recursos. Tenemos soldados, pero no con qu&amp;#233; armarlos.&lt;BR&gt;&lt;BR&gt; Cons&amp;#237;guenos armas. No importa c&amp;#243;mo lo hagas. De hecho, lo m&amp;#225;s f&amp;#225;cil ser&amp;#237;a ir a arranc&amp;#225;rselas a los miembros r&amp;#237;gidos de los {@LinkCreature:32#1#combattants sihrans} y los {@LinkCreature:32#2#t&amp;#234;tes cornues tuwangis}. Tendr&amp;#237;as toda mi gratitud.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">&amp;#161;Buen trabajo! Gracias a ti, nuestros reclutas van a poder ir al combate bien armados. Har&amp;#233; que estas armas les lleguen. &amp;#161;Todos nuestros hombres te estar&amp;#225;n agradecidos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Saber que el enemigo ser&amp;#225; castigado con sus propias armas me alegra de antemano!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1019">
+        <Page social="0">Encuentra los {@LinkCreature:32#1#combattants sihrans} y los {@LinkCreature:32#2#t&amp;#234;tes cornues tuwangis} de Passage de l'Intimidation, al este. Necesitamos sus armas.</Page>
+    </Text>
+</QuestDialog>

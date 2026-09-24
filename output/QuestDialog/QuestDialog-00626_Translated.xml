@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Las brujas han tomado el control de los Laboratorios mal&amp;#233;ficos, donde preparan ciertos brebajes. Usan sus pociones para contaminar todo el castillo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ve a cazar a mis hermanas {@LinkCreature:22#19#sorci&amp;#232;res vadomas} y a los {@LinkCreature:22#20#guides de l'ombre} antes de que sea demasiado tarde.&lt;BR&gt;&lt;BR&gt;Si no ponemos fin a esto, todo el reino podr&amp;#237;a estar en peligro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Buen trabajo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que estos calderos est&amp;#225;n en el coraz&amp;#243;n de esta tragedia, &amp;#191;pero qui&amp;#233;n se oculta detr&amp;#225;s?&lt;BR&gt;&lt;BR&gt;Odio los misterios.</Page>
+    </Text>
+</QuestDialog>

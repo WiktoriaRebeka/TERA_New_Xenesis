@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0">Oye, &lt;PCNAME&gt;, dile a {@LinkCreature:202#1012#Volos} que me gustar&amp;#237;a hablar con &amp;#233;l. Pero es un semidi&amp;#243;s, as&amp;#237; que no puedo simplemente ir a verlo y decirle &quot;Oye, Teros quiere charlar&quot;.&lt;PCNAME&gt;{@LinkCreature:202#1012#Volos}No, para un semidi&amp;#243;s debes llevar una ofrenda... una especie de tributo. Mata a algunos &lt;BR&gt; de paso.&lt;BR&gt;{@LinkCreature:2#5#dents-de-sabre colossaux}Volos es un cazador, sabr&amp;#225; apreciar tus acciones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1012">
+        <Page social="0">&amp;#191;Teroz du Camp de la Vall&amp;#233;e Faevine souhaite me parler? Jam&amp;#225;s hab&amp;#237;a o&amp;#237;do hablar de ese &quot;Teroz&quot;.&lt;BR&gt;&lt;BR&gt;En cambio, el nombre &lt;PCNAME&gt; suena cada vez con m&amp;#225;s fuerza.</Page>
+    </Text>
+</QuestDialog>

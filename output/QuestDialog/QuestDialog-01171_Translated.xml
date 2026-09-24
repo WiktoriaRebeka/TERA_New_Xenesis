@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="4">En el coraz&amp;#243;n de Raga Shadi hay argons, por supuesto. Pero lo que me fascina son los sirvientes de pesadilla argonomorfos. Creemos que su sangre reacciona, de alguna manera, ante los mortales que sue&amp;#241;an. En otras palabras, se vuelven m&amp;#225;s fuertes cuando dormimos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1035">
+        <Page social="4">Ten cuidado con su sangre. La sangre de pesadilla puede enloquecer si uno se expone demasiado a ella.&lt;BR&gt;&lt;BR&gt;Sabes orientarte por las torres, &amp;#191;no? &amp;#191;Viste la C&amp;#225;mara Marejada al este? Bueno, ah&amp;#237; es a donde vas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1035">
+        <Page social="0">La sangre de los {@Creature:46#402#serviteurs cauchemardesques argonomorphes} reacciona a los sue&amp;#241;os de los mortales. Debemos entender c&amp;#243;mo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1036">
+        <Page social="4">Flinton no tard&amp;#243; en mandarte aqu&amp;#237;. O eres muy eficiente, o... no, tiene que ser eso. Sabes lo que haces.</Page>
+    </Text>
+</QuestDialog>

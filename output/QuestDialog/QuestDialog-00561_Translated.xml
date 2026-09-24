@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1031">
+        <Page social="4">A&amp;#250;n no sabemos c&amp;#243;mo hizo Sidurek para corromper a la Confr&amp;#233;rie libre. Tendr&amp;#225;s que volver a las ruinas en busca de pistas que haya podido dejar atr&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1032">
+        <Page social="4">(Ves un libro. Podr&amp;#237;a tratarse de un diario.)&lt;NEXTPAGEBUTTON&gt;Leer el diario&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&lt;FONT COLOR='#660000'&gt;... Contaminar el agua o la comida es una t&amp;#233;cnica que ha dado buenos resultados. Tras mis experimentos, decid&amp;#237; tomar un barril de vino y contaminarlo con la ayuda del orbe...&lt;/FONT&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1034">
+        <Page social="4">(El barril est&amp;#225; lleno de cenizas. Metes la mano dentro y sacas un objeto redondo.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="4" villagerId="1031">
+        <Page social="4">&amp;#191;Crees que fue eso lo que us&amp;#243;? Mmh...&lt;BR&gt;&lt;BR&gt;Bueno, gracias por tomarte el tiempo de ayudarme, &lt;PCNAME&gt;. Har&amp;#233; que un mensajero le haga llegar esto a Velika. Nuestros cient&amp;#237;ficos descifrar&amp;#225;n sus misterios.</Page>
+    </Text>
+</QuestDialog>

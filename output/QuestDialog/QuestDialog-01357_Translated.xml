@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1018">
+        <Page social="4">Por si sus mordiscos, ara&amp;#241;azos y otras bajezas no fueran suficientes, los esbirros de Thulsa tambi&amp;#233;n recurren al veneno.&lt;BR&gt;&lt;BR&gt;La pleuracina que se encuentra por aqu&amp;#237; permite preparar un remedio eficaz, pero no tengo ninguna habilidad para el combate. Es imposible ir a buscar esta planta con la cantidad de soldados de Thulsa que merodean por los alrededores.&lt;BR&gt;&lt;BR&gt;Thulsa no debe asustar a un soldado de &amp;#233;lite como t&amp;#250;, &lt;PCCLASS:lcase&gt;, &amp;#191;me equivoco? As&amp;#237; que ve a buscarme esas pleuracinas para que pueda preparar un ant&amp;#237;doto para nuestros soldados.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1018">
+        <Page social="4">Con esto tengo suficiente para preparar remedios para todos. Contigo todo parece tan sencillo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1018">
+        <Page social="0">Por favor, date prisa. El veneno de los soldados no-muertos de Thulsa est&amp;#225; causando estragos en nuestras filas.</Page>
+    </Text>
+</QuestDialog>

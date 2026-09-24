@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="5">&amp;#161;Ey! &amp;#191;Te interesa una peque&amp;#241;a apuesta? Tienes ante ti a la persona m&amp;#225;s r&amp;#225;pida de todo Val Aureum.&lt;NEXTPAGEBUTTON&gt;"Sin ofender, lo dudo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Ja! Me esperaba tu reacci&amp;#243;n. Muy bien, entonces, &amp;#191;qu&amp;#233; dices de una peque&amp;#241;a carrera? La victoria ser&amp;#225; para el primero que llegue al Puesto de Observaci&amp;#243;n oeste pasando por el Refugio de Marchesable y Loqa ser&amp;#225; nuestro testigo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
+        <Page social="4">{@gender:Pr&amp;#234;t/Pr&amp;#234;te} &amp;#191;a recibir una paliza?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1007">
+        <Page social="5">Pfft... Raquib no es r&amp;#225;pido, solo es menos lento que algunos berserkers.&lt;BR&gt;&lt;BR&gt;Procura hac&amp;#233;rselo entender, pero tampoco vayas a humillarlo. Sigue siendo uno de los mejores soldados que tenemos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="4" villagerId="1012">
+        <Page social="5">Bueno, de acuerdo... Ya est&amp;#225;, lo entiendo.&lt;NEXTPAGEBUTTON&gt;"¿Sin resentimientos, Raquib?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sin resentimientos... Eres una buena persona, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La pr&amp;#243;xima vez que visites Tulufan, p&amp;#225;sate a verme. La primera ronda corre por mi cuenta.</Page>
+    </Text>
+</QuestDialog>

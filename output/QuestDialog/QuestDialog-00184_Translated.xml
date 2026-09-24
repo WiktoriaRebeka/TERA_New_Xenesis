@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="5">&amp;#161;Malditos cellerredes {@LinkCreature:6#1061#bandits} y {@LinkCreature:6#1062#pilleurs}! No hemos matado suficientes criaturas de estas.&lt;BR&gt;&lt;BR&gt;Ahora tenemos problemas con estos dos grupos. Podemos pasarnos horas discutiendo los detalles... o puedes ir directamente all&amp;#237; y deshacerte de ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">&amp;#161;Fant&amp;#225;stico! Gracias... Me pregunto qui&amp;#233;nes ser&amp;#225;n los pr&amp;#243;ximos en buscarnos problemas.&lt;BR&gt;&lt;BR&gt;Tal vez podr&amp;#237;amos hacer algo con estos tocados. Algo que sirva de advertencia para los dem&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1003">
+        <Page social="0">Veo que intentas solucionar el problema usando tu fuerza de inercia. Y... &amp;#191;funciona bien?</Page>
+    </Text>
+</QuestDialog>

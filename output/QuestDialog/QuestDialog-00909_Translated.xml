@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="9">Nuestro cargamento de fragmentos eldritch est&amp;#225; retenido en alguna parte de Roca de la Desolaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al lugar y p&amp;#237;dele a Kilda que acelere el tr&amp;#225;mite.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1014">
+        <Page social="4">&amp;#191;Los fragmentos?&lt;BR&gt;&lt;BR&gt;No es mi culpa. Los wendigos est&amp;#225;n desatados. Los junaidars saquean nuestros campamentos. Un Popori hambriento se trag&amp;#243; mi reserva de fragmentos... En fin... No vale la pena contar conmigo. Ve a ver a Forsil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1011">
+        <Page social="4">Todo mi stock de fragmentos debe partir hacia Allemantheia. Ni intentes duplicar al Mysterium.&lt;BR&gt;&lt;BR&gt;No lo repitas, pero me dijeron que el magistrado tiene una gran colecci&amp;#243;n privada.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1012">
+        <Page social="4">&amp;#191;Una colecci&amp;#243;n de fragmentos? &amp;#161;Es completamente rid&amp;#237;culo! &amp;#191;Acaso perdi&amp;#243; la cabeza?&lt;NEXTPAGEBUTTON&gt;"En verdad, ¿no hay forma de encontrar alguno?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, cr&amp;#233;eme que lo lamento, pero eso no crece en los &amp;#225;rboles.</Page>
+    </Text>
+</QuestDialog>

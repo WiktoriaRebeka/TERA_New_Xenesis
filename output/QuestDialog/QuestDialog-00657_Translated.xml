@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="5">Este bosque es sagrado para nuestro reino.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, estos horribles {@LinkCreature:23#13#rejetons br&amp;#251;lants &amp;#224; crocs} lo est&amp;#225;n devorando.&lt;BR&gt;&lt;BR&gt;Pero mis tropas se carbonizar&amp;#225;n si intervienen. Quiero que te encargues t&amp;#250;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1009">
+        <Page social="5">Bien, estas abominaciones escupefuego ya no deber&amp;#237;an molestarnos por un tiempo.&lt;BR&gt;&lt;BR&gt;Gracias. Nuestro legado es parte de lo que somos, debemos protegerlo.</Page>
+    </Text>
+</QuestDialog>

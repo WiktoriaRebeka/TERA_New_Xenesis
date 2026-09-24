@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Debemos eliminar a los argons que custodian este laberinto.&lt;BR&gt;&lt;BR&gt;Llevan armaduras mucho m&amp;#225;s robustas que las de sus cong&amp;#233;neres. Ni siquiera las de los soldados de &amp;#233;lite se les igualan.&lt;BR&gt;&lt;BR&gt;Tras derrotarlos, consigue piezas de armadura para ayudar a nuestros herreros en sus pruebas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Ja! &amp;#161;Los has hecho trizas!&lt;BR&gt;&lt;BR&gt;No te tiembla el pulso, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Buen trabajo, camarada.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1001">
+        <Page social="0">Los argons han desarrollado una nueva forma de fabricar armaduras.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme algunas piezas para que nuestros herreros las estudien.</Page>
+    </Text>
+</QuestDialog>

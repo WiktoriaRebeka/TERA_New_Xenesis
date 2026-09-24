@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#191;Quieres hacer un poco de artesan&amp;#237;a hoy? &amp;#161;Por favor, di que &quot;s&amp;#237;&quot;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Maravilloso! Es mi d&amp;#237;a libre. Pero nadie lo sabe. En fin... se lo hab&amp;#237;a contado a {@LinkCreature:63#3003#Elthienne}. Estoy enferma, as&amp;#237; que sin duda necesitar&amp;#225; tu ayuda debido a la calidad de lo que produces.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves? &amp;#161;Salimos ganando los dos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">&amp;#161;Qu&amp;#233; gusto verte, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} est&amp;#225; enferma y Barian necesita un artesano de calidad hoy. Sin duda prefiere trabajar contigo. Y un d&amp;#237;a sin tener a Taratia respir&amp;#225;ndome en la nuca ser&amp;#225; como unas vacaciones para m&amp;#237;.&lt;BR&gt;Entr&amp;#233;gale tu trabajo realizado a {@linkcreature:63#3001#Barian}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">&amp;#161;Muy buen trabajo!&lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia} para cobrar tu pago.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Elabora 2 ejemplares de {@RawItem:206812} y tr&amp;#225;elos aqu&amp;#237;.&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;no te gustar&amp;#237;a convertirte en el artesano real de la corte de las Manos de Velika por casualidad? &amp;#191;No? Disculpa, es que no puedo sac&amp;#225;rmelo de la cabeza.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">&amp;#161;Muy buen trabajo!&lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia} para cobrar tu pago.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Elabora 2 ejemplares de {@RawItem:206813} y tr&amp;#225;elos aqu&amp;#237;.&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;no te gustar&amp;#237;a convertirte en el artesano real de la corte de las Manos de Velika por casualidad? &amp;#191;No? Disculpa, es que no puedo sac&amp;#225;rmelo de la cabeza.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">&amp;#161;Muy buen trabajo!&lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia} para cobrar tu pago.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Elabora 2 ejemplares de {@RawItem:206814} y tr&amp;#225;elos aqu&amp;#237;.&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;no te gustar&amp;#237;a convertirte en el artesano real de la corte de las Manos de Velika por casualidad? &amp;#191;No? Disculpa, es que no puedo sac&amp;#225;rmelo de la cabeza.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">&amp;#161;Muy buen trabajo!&lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia} para cobrar tu pago.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Elabora 2 ejemplares de {@RawItem:206815} y tr&amp;#225;elos aqu&amp;#237;.&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;no te gustar&amp;#237;a convertirte en el artesano real de la corte de las Manos de Velika por casualidad? &amp;#191;No? Disculpa, es que no puedo sac&amp;#225;rmelo de la cabeza.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">&amp;#161;Muchas gracias! &lt;BR&gt;&lt;BR&gt;&amp;#161;Espero poder contar contigo de nuevo la pr&amp;#243;xima vez! &lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia}. Ella es quien tiene tu recompensa.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Elabora 2 ejemplares de {@RawItem:206816} y tr&amp;#225;elos aqu&amp;#237;.&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;no te gustar&amp;#237;a convertirte en el artesano real de la corte de las Manos de Velika por casualidad? &amp;#191;No? Disculpa, es que no puedo sac&amp;#225;rmelo de la cabeza.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Buen trabajo, &lt;PCNAME&gt;. &amp;#161;Realmente no cre&amp;#237; que fueras capaz de hacerlo!&lt;BR&gt;Vaya que te subestim&amp;#233;...</Page>
+    </Text>
+</QuestDialog>

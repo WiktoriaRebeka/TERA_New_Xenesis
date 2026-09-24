@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="4">Los nigromantes est&amp;#225;n desenterrando huesos, y me temo que tienen la intenci&amp;#243;n de levantar un ej&amp;#233;rcito de esqueletos.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que la perspectiva no tiene nada de agradable, pero debo pedirte que vayas a recuperar esos montones de huesos, o de lo contrario el enemigo dispondr&amp;#225; de soldados reciclables a voluntad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="4">Nos salvamos por poco, &amp;#191;verdad? Apenas me atrevo a imaginar qu&amp;#233; habr&amp;#237;a pasado si esos huesos se hubieran transformado en soldados.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">&amp;#161;Recupera esos huesos antes de que los nigromantes los transformen en soldados!</Page>
+    </Text>
+</QuestDialog>

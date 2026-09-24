@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">No tengo tiempo para preocuparme por arque&amp;#243;logos incompetentes con la cantidad de criaturas que rondan por la zona.&lt;BR&gt;&lt;BR&gt;Hablando de eso, no parece que tengas mucho que hacer con las manos. Ve y mata a unos &lt;BR&gt; y tr&amp;#225;eme sus n&amp;#250;cleos. Los atar&amp;#233; todos juntos y har&amp;#233; un cintur&amp;#243;n que le d&amp;#233; la vuelta a la ciudad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">&amp;#161;Bien hecho! Te habr&amp;#237;a pedido que los ataras t&amp;#250; mismo, pero veo a otro holgaz&amp;#225;n por ah&amp;#237; que necesita ponerse a trabajar...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1005">
+        <Page social="0">Por Dios, &amp;#191;tienes la agilidad mental y el coeficiente intelectual de un molusco? &amp;#191;Has conseguido perderte como esa arque&amp;#243;loga in&amp;#250;til?&lt;BR&gt;&lt;BR&gt;Tus objetivos son los {@LinkCreature:18#16#golems gravillonneurs} y los {@LinkCreature:18#15#charognards ramperocs}. A trabajar.</Page>
+    </Text>
+</QuestDialog>

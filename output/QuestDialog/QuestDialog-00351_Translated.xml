@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="5">&amp;#191;Sabes por qu&amp;#233; llaman a este lugar &quot;C&amp;#244;te abandonn&amp;#233;e&quot;? Es porque nada puede sobrevivir all&amp;#237; por mucho tiempo.&lt;BR&gt;&lt;BR&gt;La fauna termina en el est&amp;#243;mago de los {@LinkCreature:12#9#bouchers du Fouet rouge}, y la flora en el de los {@LinkCreature:12#11#kamaras des &amp;#238;les}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a limpiar esta playa, &lt;PCCLASS:lcase&gt;! Quiz&amp;#225;s as&amp;#237; puedas devolverle a este lugar un poco de su belleza y tranquilidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1003">
+        <Page social="5">&amp;#191;Limpiaste la playa t&amp;#250; solo? Nunca cre&amp;#237; que fuera posible.&lt;BR&gt;&lt;BR&gt;Estas porquer&amp;#237;as terminar&amp;#225;n volviendo, pero si la vida tiene la oportunidad de renacer aunque sea moment&amp;#225;neamente en esta playa, ser&amp;#225; gracias a ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

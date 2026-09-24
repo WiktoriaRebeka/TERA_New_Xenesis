@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0">Adria tiene informaci&amp;#243;n adicional sobre Eleon, el hermano mayor de Lian.&lt;BR&gt;&lt;BR&gt;Algunas personas se lo han cruzado y, seg&amp;#250;n la opini&amp;#243;n general, habr&amp;#237;a partido en busca de algo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Por fin obtuve informaci&amp;#243;n sobre Elion, &lt;PCNAME&gt;. El &quot;H&amp;#233;roe de la Federaci&amp;#243;n&quot; ha vuelto a desaparecer.&lt;BR&gt;&lt;BR&gt;Su hermano Lian est&amp;#225; preocupado y necesita tu ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1008">
+        <Page social="4">Elion, mi hermano, ha vuelto a desaparecer. Sin duda est&amp;#225; persiguiendo una pista oscura que lleva a una supuesta amenaza para la federaci&amp;#243;n, pero nadie conoce sus verdaderas intenciones.&lt;BR&gt;Reunir los diferentes indicios de sus movimientos podr&amp;#237;a revelar d&amp;#243;nde se encuentra, o al menos lo que est&amp;#225; buscando. Taras es el &amp;#250;ltimo guardia que vio a Elion. Ve a hablar con &amp;#233;l y sigue cualquier pista que pueda darte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1028">
+        <Page social="4">&amp;#191;Elion ha vuelto a desaparecer? Ahora que lo mencionas, recuerdo hab&amp;#233;rmelo cruzado hace unas horas. Se dirig&amp;#237;a hacia el punto de control sur.&lt;BR&gt;&lt;BR&gt;Murmur&amp;#243; algo sobre los ghilliedhus, pero no entend&amp;#237; todo. De todos modos, nunca hace da&amp;#241;o acabar con uno o dos, &amp;#161;as&amp;#237; que podr&amp;#237;as matar a algunos en el camino, no?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1147">
+        <Page social="4">&amp;#191;Elion? S&amp;#237;, lo vi dirigirse hacia el sur. De hecho, me pareci&amp;#243; extra&amp;#241;o porque el campamento est&amp;#225; abandonado. Me dije que deb&amp;#237;a tener buenas razones. Fue hace unas horas.&lt;BR&gt;&lt;BR&gt;Elion ha estado... distra&amp;#237;do &amp;#250;ltimamente. Honestamente, {@linkcreature:213#1008$$Lian} seguramente sabe m&amp;#225;s que yo sobre el tema.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Los detalles de nuestra interacci&amp;#243;n est&amp;#225;n consignados en este informe. {@linkcreature:213#1008$$Leander} deber&amp;#237;a poder extraer informaci&amp;#243;n m&amp;#225;s tangible de &amp;#233;l. Deber&amp;#237;as entreg&amp;#225;rselo lo antes posible.&lt;BR&gt;&lt;BR&gt;Y si un espor&amp;#237;voro te obstruye el paso, creo que ya sabes lo que te queda por hacer...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1008">
+        <Page social="4">Bien, es evidente que est&amp;#225; buscando algo. Como ya debes saber, suele hacer ese tipo de cosas de vez en cuando.&lt;BR&gt;&lt;BR&gt;Si se trata de una misi&amp;#243;n oficial, el consejero {@linkcreature:64#1009$$Teel} probablemente sepa un poco m&amp;#225;s sobre sus acciones.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="64" prevId="6" villagerId="1009">
+        <Page social="4">S&amp;#237;, s&amp;#233; lo que Elion estaba buscando. O al menos, s&amp;#233; lo que me dijo. Cree que hay una conspiraci&amp;#243;n contra Island of Dawn.&lt;BR&gt;&lt;BR&gt;Estoy trabajando en un informe sobre el tema, pero necesitamos algo m&amp;#225;s que su palabra para convencer a los dem&amp;#225;s de la validez de esta teor&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Te asigno al servicio activo para que puedas investigar.</Page>
+    </Text>
+</QuestDialog>

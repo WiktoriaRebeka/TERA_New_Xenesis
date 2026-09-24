@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">Los nagas se est&amp;#225;n reuniendo en la tumba de su dios y creador, Dagon. Galvanizadas por la presencia de {@LinkCreature:10#13#&amp;#233;cailles sanglantes nagas} y de {@LinkCreature:10#14#jeunes guivres nagas} en sus filas, estas criaturas est&amp;#225;n convencidas de que nunca nos atreveremos a ir contra ellas.&lt;BR&gt;&lt;BR&gt;Pero t&amp;#250; les vas a demostrar lo contrario. Acu&amp;#233;rdate de traerme sus escamas&amp;nbsp;: conseguir trofeos del enemigo es una buena manera de enviarle un mensaje contundente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Ahora es el enemigo el que se encuentra en inferioridad num&amp;#233;rica... nosotros no.&lt;BR&gt;&lt;BR&gt;Y aparte de eso, tenemos bonitos trofeos. Deber&amp;#237;amos considerar la posibilidad de exhibirlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">S&amp;#233; que este lugar abunda en nagas.&lt;BR&gt;&lt;BR&gt;Se puede decir que no te &quot;faltar&amp;#225; compa&amp;#241;&amp;#237;a&quot;.</Page>
+    </Text>
+</QuestDialog>

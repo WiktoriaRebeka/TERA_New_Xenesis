@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1001">
+        <Page social="4">La {@Rgn:45008$$Base de la Vaillance} necesita tu ayuda m&amp;#225;s que nosotros.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado, los {@Linkcreature:45#3001#archers de Lok argonomorphes} te cortan el paso. Si lle... quiero decir, cuando llegues al lugar, ve a presentar tu informe a Lahiah.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1005">
+        <Page social="4">Es un placer verte, &lt;PCCLASS:lcase&gt;, pero no somos nosotros quienes necesitamos tu ayuda. Te lo explicar&amp;#233;...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Entiendo que tienes cosas m&amp;#225;s importantes que hacer, pero la situaci&amp;#243;n se ha vuelto tan desesperada que tengo que pedirte ayuda.&lt;BR&gt;&lt;BR&gt;Las heridas infligidas por los gulas se infectan al instante. As&amp;#237; que necesito fabricar un vendaje impregnado con ung&amp;#252;ento para evitar que la infecci&amp;#243;n se propague. Para hacer esto, necesito &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;No encontrar&amp;#225;s {@RawItem:206819} en esta regi&amp;#243;n, pero si regresas con las manos vac&amp;#237;as, puedes comprar un poco por unas pocas monedas de oro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="0">Me imagino que recolectar plantas no era tu vocaci&amp;#243;n cuando te alistaste en el ej&amp;#233;rcito, pero muchos de tus hermanos de armas pronto te deber&amp;#225;n la vida, &lt;PCNAME&gt;. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Necesitamos un &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt; con suma urgencia. Cuento contigo.</Page>
+    </Text>
+</QuestDialog>

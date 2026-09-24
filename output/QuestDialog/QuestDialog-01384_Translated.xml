@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="4">&amp;#191;C&amp;#243;mo lograron los argons corromper a nuestra gente con su sola presencia&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo combatir a un enemigo tan intangible como el viento&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por favor, dile a Eltarun que est&amp;#225;s aqu&amp;#237; para ayudarnos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#161;Saludos, &lt;PCCLASS:lcase&gt;&amp;nbsp;! Llegas en el momento oportuno.&lt;BR&gt;&lt;BR&gt;Muchas hadas de estos bosques se muestran extremadamente belicosas, pero ignoramos si se debe a su contaminaci&amp;#243;n o si son agresivas por naturaleza.&lt;BR&gt;&lt;BR&gt;Al norte, son los Poporis salvajes quienes recorren los bosques. No las simp&amp;#225;ticas criaturitas que uno encuentra en las filas de la Federaci&amp;#243;n o del Mysterium... m&amp;#225;s bien bestias feroces, aunque, de nuevo, es dif&amp;#237;cil decir si est&amp;#225; relacionado o no con la contaminaci&amp;#243;n del lugar.&lt;BR&gt;&lt;BR&gt;Vas a tener que proporcionarme muestras de sangre para analizarlas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1011">
+        <Page social="4">Las pruebas son concluyentes. Su sangre contiene la misma &quot;toxina&quot; que la descubierta en la de las hadas.&lt;BR&gt;&lt;BR&gt;Me temo que nadie en el Taillis de Morteseaux sea capaz de resistir este mal, pero curiosamente, parece a&amp;#250;n m&amp;#225;s virulento en las hadas.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="81" villagerId="1011">
+        <Page social="0">La cantera se encuentra al norte.&lt;BR&gt;&lt;BR&gt;Mis investigaciones son importantes y no tengo tiempo que perder.</Page>
+    </Text>
+</QuestDialog>

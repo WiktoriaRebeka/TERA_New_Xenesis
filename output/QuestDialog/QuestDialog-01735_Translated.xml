@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="0">Dir&amp;#237;gete al muelle aeronaval y pres&amp;#233;ntate.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="4">S&amp;#233; que tienes que ir al muelle aeronaval. &amp;#191;No te importar&amp;#237;a entregar una de estas peque&amp;#241;as cajas por m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"¿Qué es esto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tamari encarg&amp;#243; una caja adornada con pedrer&amp;#237;a. Logr&amp;#233; conservarla, pero con la suerte que tengo hoy, prefiero deshacerme de ella.&lt;BR&gt;&lt;BR&gt;Por favor, &amp;#191;podr&amp;#237;as entreg&amp;#225;rsela?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1533">
+        <Page social="0">&amp;#191;Tonas lo logr&amp;#243;? Empezaba a preguntarme si me hab&amp;#237;a timado.&lt;BR&gt;&lt;BR&gt;Muy bien, s&amp;#233; qui&amp;#233;n eres. Tienes autorizaci&amp;#243;n{@g:/e} para subir al muelle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1502">
+        <Page social="4">&amp;#161;Oh, qu&amp;#233; torpeza!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pues hola!&lt;BR&gt;Mi nariz nunca se equivoca. Tienes el aroma de alguien bueno, as&amp;#237; que me agradas. Y &lt;em&gt;t&amp;#250;&lt;/em&gt;, &amp;#191;me agradas?&lt;BR&gt;&lt;BR&gt;Oye, &amp;#191;puedo pedirte un favor? Esas r&amp;#225;fagas de viento arrancaron de mi bolsa unos cuantos folios confidenciales de gran importancia. Necesito recuperarlos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1502">
+        <Page social="4">&amp;#161;Mi h&amp;#233;roe! Qu&amp;#233; desastre si esos folios hubieran ca&amp;#237;do en manos de los enemigos, o en las manos de ella.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;tambi&amp;#233;n vas a subir a bordo del crucero celestial?&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Es perfecto! Eres perfecto{@g:/e}. &amp;#161;Vamos a vivir una aventura juntos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Deber&amp;#237;as ir a presentarte con Rafe! &amp;#161;Nos vemos pronto, entre las nubes!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1502">
+        <Page social="0">Pero, &amp;#191;d&amp;#243;nde est&amp;#225;n los dem&amp;#225;s folios?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1503">
+        <Page social="4">Eres el &amp;#250;ltimo soldado de la lista. Muy bien.&lt;BR&gt;&lt;BR&gt;Gracias por entregar el registro a Maribel. Oh, y gracias a ti, el cargamento llegar&amp;#225; pronto a bordo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1566">
+        <Page social="4">Buen trabajo. Buena suerte en tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

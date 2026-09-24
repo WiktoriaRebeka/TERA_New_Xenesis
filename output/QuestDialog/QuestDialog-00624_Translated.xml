@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="5">&amp;#161;Hab&amp;#237;amos contratado a una compa&amp;#241;&amp;#237;a de arlequines para el festival, pero no nos ha ido bien!&lt;BR&gt;&lt;BR&gt;Estos bufones est&amp;#225;n locos y son violentos. Adem&amp;#225;s, se han aliado con las brujas enloquecidas y repelen nuestros ataques. &amp;#161;Registra el tercer piso y mata a los {@LinkCreature:22#16#bouffons vampiriques fous}!&lt;BR&gt;&lt;BR&gt;Y no llores por su destino. Cuando se ha derramado la sangre de tantos ni&amp;#241;os, &amp;#191;qu&amp;#233; es la sangre de unos cuantos desequilibrados?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
+        <Page social="5">Has sido de gran ayuda. Los bufones son sorprendentemente resistentes.&lt;BR&gt;&lt;BR&gt;En fin, &amp;#161;no es momento para charlas amables! &amp;#161;Todav&amp;#237;a queda mucho por hacer!</Page>
+    </Text>
+</QuestDialog>

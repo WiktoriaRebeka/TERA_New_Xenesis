@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">&amp;#161;Hubo un tiempo en el que me encantaba fabricar sombreros con forma de nido de p&amp;#225;jaro, pero se volvieron tan populares que todo el mundo quer&amp;#237;a uno!&lt;BR&gt;&lt;BR&gt;El problema es que su fabricaci&amp;#243;n requiere un huevo de sturnidae del Val y todos esos cazadores de sombreros se los llevaron hasta el &amp;#250;ltimo.&lt;BR&gt;&lt;BR&gt;No m&amp;#225;s huevos, no m&amp;#225;s sombreros.&lt;NEXTPAGEBUTTON&gt;"¿Habla de un huevo como este?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">&amp;#191;Tiene un huevo de sturnidae? Mjum, bueno, en ese caso, ser&amp;#237;a una pena no aprovecharlo...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; color combinar&amp;#237;a mejor con su armadura?&lt;NEXTPAGEBUTTON&gt;"A ver..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">El Legado de Hyderad importaba huevos de sturnidae del val antiguamente, pero con la extinci&amp;#243;n de los sturnidae, el comercio se vino abajo. No volver&amp;#225; a encontrar uno jam&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

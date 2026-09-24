@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Carta del comandante de Valkyon]&lt;BR&gt;Aviso a los m&amp;#225;s valientes de entre la &amp;#233;lite de Valkyon.&lt;BR&gt;Re&amp;#250;nanse inmediatamente en Highwatch con Angk, el instructor de la Prueba de los Monstruos.&lt;BR&gt;&lt;BR&gt;Instructor de la Prueba de los Monstruos {@linkcreature:183#7002#Angk}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7002">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;! He o&amp;#237;do hablar mucho de ti.&lt;BR&gt;&lt;BR&gt;Nuestro &amp;#250;ltimo grupo de reclutas no brill&amp;#243; precisamente durante las maniobras. As&amp;#237; que debemos tomar medidas dr&amp;#225;sticas.&lt;BR&gt;Con la ayuda de un poco de magia negra, hemos podido replicar las cavernas que la Valkyon Federation conquist&amp;#243; en el pasado.&lt;BR&gt;Te agradecer&amp;#237;a que exploraras las cavernas para verificar que el entrenamiento de los reclutas pueda realizarse de forma totalmente segura.&lt;BR&gt;&lt;BR&gt;[Se recomienda un nivel de equipo de al menos 431 para entrar a la Prueba de los Monstruos.]&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="7002">
+        <Page social="4">&amp;#161;Gracias, &lt;PCNAME&gt;! Gracias a ti, pude terminar la prueba sin perder plumas.&lt;BR&gt;Pero todo esto todav&amp;#237;a me parece demasiado dif&amp;#237;cil para los reclutas.&lt;BR&gt;En cambio, esto servir&amp;#225; como un buen calentamiento para los veteranos de tu talla.&lt;BR&gt;&lt;BR&gt;Acepta esta humilde recompensa y contin&amp;#250;a tu camino.&lt;BR&gt;No dudes en volver cuando necesites descansar.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Los orkans de Karba tienen mucho valor para oponerse a un n&amp;#250;mero tan grande de belicistas dentro de su propio pueblo. Ser&amp;#237;an buenos soldados al servicio de la Federaci&amp;#243;n, si el alto mando estuviera de acuerdo.&lt;BR&gt;&lt;BR&gt;Beben sangre de cullar para volverse m&amp;#225;s fuertes, pero la tribu de la Griffe noire les ha cortado el acceso a los cullars que viven en las cuevas del sur. Si alguna vez se encuentra cerca de esas &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=grottes&quot;&gt;cuevas&lt;/A&gt;&lt;/font&gt;, traiga un poco de sangre de cullar a {@LinkCreature:241#1019$$Hoorik}. Me gustar&amp;#237;a demostrarle a esos orkans que los apreciamos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="4">&amp;#191;Sangre de cullar? &amp;#191;C&amp;#243;mo la consigui&amp;#243;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Debi&amp;#243; de arriesgar el pellejo! No s&amp;#233; c&amp;#243;mo agradecerle...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">Extra&amp;#241;o el sabor de la sangre de cullar.&lt;BR&gt;&lt;BR&gt;Entiendo, no es su estilo, pero para mi pueblo es una bebida sagrada.</Page>
+    </Text>
+</QuestDialog>

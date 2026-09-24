@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="0">Has ayudado a la gente de Quarantine Station.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="1" voiceTypeId="0">(Un diario y un plato est&amp;#225;n enterrados bajo el mont&amp;#243;n de piedras.&lt;BR&gt;&amp;#191;Qu&amp;#233; es esto?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="145">
+        <Page social="1" voiceTypeId="0">Siento muy bien que mi estado corporal no deja de empeorar desde mi enfrentamiento con las mariposas. &lt;BR&gt;&lt;BR&gt;Aparentemente, el Mysterium erigi&amp;#243; una Estaci&amp;#243;n de cuarentena para tratar por separado a los pacientes con s&amp;#237;ntomas particularmente graves. Pero dado el n&amp;#250;mero de pacientes, dudo mucho que acepten tratar a alguien que presente mis s&amp;#237;ntomas.&lt;NEXTPAGEBUTTON&gt;"¿Qué dice en la página siguiente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hennika afirma que manipulando un poco los s&amp;#237;ntomas, recibiremos el tratamiento. &lt;BR&gt;&lt;BR&gt;Escuch&amp;#233; que al consumir un poco de hierba de profesi&amp;#243;n, el cuerpo se endurece durante cierto tiempo. En cambio, la mente se mantiene l&amp;#250;cida. &lt;BR&gt;&lt;BR&gt;Si consumo un poco de hierba de profesi&amp;#243;n, probablemente me aceptar&amp;#225;n como paciente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="140">
+        <Page social="1" voiceTypeId="0">(Una sensaci&amp;#243;n macabra te abruma mientras una brisa sopla cerca del mont&amp;#243;n de piedras. Un olor repugnante que emana de las hierbas que recolectaste llega a tus fosas nasales).&lt;BR&gt;&lt;BR&gt;(Este fen&amp;#243;meno te parece extra&amp;#241;o y por eso decides interrogar a un investigador del Mysterium al respecto.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="140">
+        <Page social="0">(Este mont&amp;#243;n de piedras parece abandonado.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="144">
+        <Page social="4" voiceTypeId="0">&amp;#161;Una gema... mentira!&lt;BR&gt;&lt;BR&gt;(Extiende penosamente dos dedos, luego el brazo y se&amp;#241;ala algo.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="120">
+        <Page social="4" voiceTypeId="0">&amp;#161;Pero es hierba de profesi&amp;#243;n! &lt;BR&gt;Es una hierba envenenada que provoca par&amp;#225;lisis. &lt;BR&gt;&lt;BR&gt;Puede resultar particularmente peligrosa para los Humanos que entraron en contacto con el polvo de cristal de los parfs y parfons. Aparentemente, se propaga un falso rumor que afirma que la hierba de profesi&amp;#243;n es buena contra la cristalizaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Esto es a&amp;#250;n m&amp;#225;s preocupante dado que todav&amp;#237;a no tenemos un remedio eficaz para todos.&lt;NEXTPAGEBUTTON&gt;"Yo tampoco era yo mismo en ese momento."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Era peligroso. Pero est&amp;#225;s ileso y menos mal.&lt;BR&gt;&lt;BR&gt;Pareces tener un organismo particularmente resistente, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sea como fuere, deber&amp;#237;as empezar por tomar este medicamento. &lt;BR&gt;Sus efectos son solo provisionales, pero algo es algo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="120">
+        <Page social="4" voiceTypeId="0">&amp;#191;Pero qui&amp;#233;n puede esconderse detr&amp;#225;s de todo esto? &amp;#191;Para ser admitido como paciente?&lt;BR&gt;&lt;BR&gt;&amp;#191;As&amp;#237; que un espectro se&amp;#241;al&amp;#243; esto con el dedo antes de gritar &quot;&amp;#161;Mentira&quot;!?&lt;NEXTPAGEBUTTON&gt;"Así fue exactamente como pasó."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No podemos creer todo lo que dice un espectro, pero parece plausible. Deber&amp;#237;amos examinar a los Humanos que se encuentran en el campamento. &lt;BR&gt;&lt;BR&gt;Si el espectro dice la verdad, entonces alguien le rob&amp;#243; el lugar a otro paciente para ser admitido en su lugar.. &lt;BR&gt;&lt;BR&gt;A esto es a lo que hemos llegado...&lt;BR&gt;Realmente debemos hacer todo lo posible para encontrar un remedio para todos.</Page>
+    </Text>
+</QuestDialog>

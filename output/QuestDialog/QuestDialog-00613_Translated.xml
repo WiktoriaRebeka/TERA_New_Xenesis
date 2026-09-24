@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="5">{@LinkCreature:223#1054$$Dullulu} se fue a ver qu&amp;#233; pasaba en la Academia Eldritch. Aparentemente, el lugar rebosa de criaturas peligrosas. Si planeas ir, p&amp;#237;dele que te ponga al corriente: te dir&amp;#225; de qu&amp;#233; debes cuidarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1054">
+        <Page social="5">El informe va a ser r&amp;#225;pido: si vas al lugar a pesar de mis advertencias, perder&amp;#225;s la cabeza o la vida... Eso es todo.&lt;BR&gt;&lt;BR&gt;Si a pesar de todo decides ir, intenta eliminar a un buen n&amp;#250;mero de {@LinkCreature:22#4#centaures vadomas}, de {@LinkCreature:22#5#artisans bonnets-rouges} y de {@LinkCreature:22#3#fabricants de baguette bonnets-rouges}.&lt;BR&gt;&lt;BR&gt;Si queremos poder echarle una mano al castillo, hay que empezar por despejar un camino que permita acceder a &amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"Puedes contar conmigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Gracias, &lt;PCNAME&gt;. Eres una buena persona, &amp;#191;te lo hab&amp;#237;an dicho antes?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" prevId="3" villagerId="1005">
+        <Page social="5">Oh, has matado a un buen pu&amp;#241;ado de centauros y capirotes rojos. Doy gracias a los dioses por tu intervenci&amp;#243;n. Aqu&amp;#237;, los peligros que nos acechan son muchos. Ahora que el camino est&amp;#225; despejado, otras personas podr&amp;#225;n venir a socorrernos.&lt;BR&gt;&lt;BR&gt;Con la ayuda de soldados de tu talla, tal vez tengamos una oportunidad de salir de esta.</Page>
+    </Text>
+</QuestDialog>

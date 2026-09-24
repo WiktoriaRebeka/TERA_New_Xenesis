@@ -1,0 +1,54 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">&amp;#191;Has o&amp;#237;do hablar de Dagon? El pueblo naga adora a este dios. La interminable guerra argona ha mermado las finanzas de la federaci&amp;#243;n. Por eso el cuartel general ha enviado una expedici&amp;#243;n al Temple de Dagon para saquear tesoros. Desgraciadamente, parece que est&amp;#225;n teniendo problemas. Ibar busca ayuda en Frontera. Habla con &amp;#233;l y descubre qu&amp;#233; ha pasado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Me alegro de que est&amp;#233;s aqu&amp;#237;. No s&amp;#233; si est&amp;#225;s al tanto, pero al cuartel general de Allemantheia le cuesta llegar a fin de mes. Es por culpa de la guerra argona que se alarga.&lt;BR&gt;&lt;BR&gt;Actualmente estamos explorando todo tipo de soluciones para salir de esta crisis financiera. De hecho, esa es la raz&amp;#243;n por la cual hemos enviado una expedici&amp;#243;n al Temple de Dagon.&lt;BR&gt;&lt;BR&gt;Este templo es sagrado para los nagas. Adoran a su creador, Dagon. Acumulan todo tipo de tesoros en este templo. Por eso la expedici&amp;#243;n intenta encontrar dichos tesoros.&lt;BR&gt;&lt;BR&gt;Nos permitir&amp;#237;an salir de este apuro. Te ruego que nos ayudes con esto.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al primer s&amp;#243;tano del Temple de Dagon y &amp;#233;chale una mano a Nedisia, la jefa de la expedici&amp;#243;n. Ya le promet&amp;#237; que los refuerzos estaban en camino.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1039">
+        <Page social="5" voiceTypeId="0">No te imaginas cu&amp;#225;nto me alegro de verte aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;No solo el templo es mucho m&amp;#225;s grande de lo previsto, sino que los piratas nagas y sus aliados son adversarios formidables.&lt;BR&gt;&lt;BR&gt;Hemos podido descubrir la existencia de dos c&amp;#225;maras del tesoro en dos plantas diferentes. La primera est&amp;#225; cerca de aqu&amp;#237;, y la otra, la m&amp;#225;s grande, est&amp;#225; al fondo del todo, donde Dagon duerme.&lt;BR&gt;&lt;BR&gt;Por desgracia, no sabemos nada m&amp;#225;s, pero tenemos que recuperar esos tesoros. La federaci&amp;#243;n los necesita desesperadamente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1039">
+        <Page social="4" voiceTypeId="0">&amp;#161;Has sido r&amp;#225;pido! &amp;#161;Bien, bien!&lt;BR&gt;&lt;BR&gt;&amp;#161;Echemos un vistazo a este tesoro!&lt;BR&gt;&lt;BR&gt;(Nedisia abre el cofre del tesoro de los piratas nagas y examina el bot&amp;#237;n.)&lt;NEXTPAGEBUTTON&gt;"¿Algo de valor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Un poco, pero todav&amp;#237;a estamos lejos de la meta. Debemos encontrar el tesoro enterrado m&amp;#225;s abajo. Esto apenas alcanzar&amp;#225; para un centenar de armaduras de calidad.&lt;BR&gt;&lt;BR&gt;Hay otro campamento un piso m&amp;#225;s abajo. Ve a buscar a Wekrine all&amp;#237;. Estaba intentando llegar a los niveles inferiores.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1039">
+        <Page social="0">&amp;#191;Ya has encontrado el tesoro de los piratas naga?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1040">
+        <Page social="5" voiceTypeId="0">&amp;#191;Te manda Nedisia? Perfectamente.&lt;BR&gt;&lt;BR&gt;Hemos peinado este nivel a fondo y no hemos encontrado nada. Ni siquiera un cofre roto. No hay absolutamente nada aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Y al parecer, &amp;#161;el cofre del tesoro del primer nivel tampoco era gran cosa! &amp;#161;Ni siquiera sabemos si el lugar alberga realmente tales tesoros! Deber&amp;#237;amos buscar otra soluci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, baja al segundo s&amp;#243;tano, dir&amp;#237;gete luego a la Chambre des &amp;#226;mes &amp;#233;minentes y tr&amp;#225;eme pieles de naga de los templarios dagonitas.&lt;NEXTPAGEBUTTON&gt;"¿Pieles de naga?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">S&amp;#237;. Su piel es bastante resistente para la confecci&amp;#243;n de armuras. Adem&amp;#225;s de que tienen caracter&amp;#237;sticas m&amp;#225;gicas. Se venden a buen precio en Allemantheia.&lt;BR&gt;&lt;BR&gt;Consigue las pieles de naga y ve a venderlas a Allemantheia.&lt;BR&gt;&lt;BR&gt;La piel de los templarios dagonitas deber&amp;#237;a ser de &amp;#243;ptima calidad.&lt;BR&gt;&lt;BR&gt;&amp;#161;Conf&amp;#237;o en ti! &amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="242" prevId="7" villagerId="1040">
+        <Page social="4" voiceTypeId="0">Gracias, son de excelente calidad.&lt;BR&gt;&lt;BR&gt;Podremos sacarles un muy buen precio. Y el dinero que aporte la venta ir&amp;#225; a alimentar nuestro tesoro de guerra.&lt;BR&gt;&lt;BR&gt;Ve a informarle a Valren en el tercer s&amp;#243;tano. Deber&amp;#237;amos pensar en regresar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="242" villagerId="1040">
+        <Page social="0">&amp;#191;Tienes las pieles de naga?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="242" prevId="8" villagerId="1038">
+        <Page social="5" voiceTypeId="0">(Le transmites las palabras de Wekrine a Valren.)&lt;BR&gt;&lt;BR&gt;Entiendo. Gracias por tu mensaje. P&amp;#237;eles de naga, dices... S&amp;#237;, valen su peso en oro, pero no cubrir&amp;#225;n los costos de esta guerra.&lt;BR&gt;&lt;BR&gt;Creo que el Templo de Dagon alberga la gema cer&amp;#250;lea. No es solo el objeto m&amp;#225;s preciado que podemos esperar encontrar.&lt;BR&gt;&lt;BR&gt;Los mekonaris tambi&amp;#233;n piensan que acelera la resurrecci&amp;#243;n de Dagon.&lt;BR&gt;&lt;BR&gt;Esto significa que debemos evitar cruzarnos con ellos.&lt;BR&gt;&lt;BR&gt;Sin duda tambi&amp;#233;n encontrar&amp;#225;s otros tesoros all&amp;#237;. No bajes la guardia.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="242" prevId="10" villagerId="1038">
+        <Page social="4" voiceTypeId="0">&amp;#161;Incre&amp;#237;ble! Por fin hemos encontrado estos suntuosos tesoros. Valen tanto como millones de pieles de naga.&lt;BR&gt;&lt;BR&gt;Hemos llevado a cabo nuestra peque&amp;#241;a investigaci&amp;#243;n sobre la ubicaci&amp;#243;n de la gema cer&amp;#250;lea. Los nagas creen que esta gema oculta el poder de Dagon. Tambi&amp;#233;n hemos notado que esta piedra preciosa encierra una energ&amp;#237;a poderosa.&lt;BR&gt;&lt;BR&gt;Hasta los mekonaris son conscientes de ello y buscan sacrificar la gema en el santuario de Dagon. As&amp;#237; esperan poder acelerar la resurrecci&amp;#243;n de Dagon.&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n mi explorador, los nagas han ocultado la reliquia de Dagon en la Donaci&amp;#243;n de Dagon. &amp;#161;Debemos conseguir esa gema!&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Los mekonaris apoyan a los nagas en su proyecto. Uno de ellos posee un grimorio que explica c&amp;#243;mo llegar a la Donaci&amp;#243;n de Dagon.&lt;BR&gt;&lt;BR&gt;Creen que Rishalok es el &amp;#225;ngel de resurrecci&amp;#243;n capaz de devolverle la vida a Dagon. Debes eliminarlo y robarle el libro de rituales.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que puedes con esto?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Veamos qu&amp;#233; contiene, &amp;#191;de acuerdo?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="242" prevId="11" villagerId="1038">
+        <Page social="4" voiceTypeId="0">&amp;#161;Has recuperado el &lt;B&gt;livre de rituels&lt;/B&gt;! Con esto, por fin podremos localizar el Templo de Dagon.&lt;BR&gt;&lt;BR&gt;(Valren comienza a hojear el libro.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo encontr&amp;#233;! Con su magia, los mekonaris han colocado c&amp;#237;rculos de prohibici&amp;#243;n para proteger la Donaci&amp;#243;n de Dagon.&lt;BR&gt;&lt;BR&gt;Hay un teletransporte en el vest&amp;#237;bulo central del tercer nivel. Tal vez te permita llegar a la Donaci&amp;#243;n de Dagon.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero ten cuidado! Guerreros poderosos montan guardia all&amp;#237;. Uno de ellos es Skuldarik.&lt;BR&gt;&lt;BR&gt;Derr&amp;#243;talo y busca la gema cer&amp;#250;lea en el &lt;font color='#660000'&gt;Santuario de Dagon&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="242" villagerId="1038">
+        <Page social="0">&amp;#191;Ya encontraste el libro de rituales? Sin ese libro, no podremos encontrar la Donaci&amp;#243;n de Dagon.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="242" prevId="13" villagerId="1038">
+        <Page social="4" voiceTypeId="0">As&amp;#237; que esta es la gema cer&amp;#250;lea. Esta sola gema vale todas las riquezas de Allemantheia.&lt;BR&gt;&lt;BR&gt;Sin mencionar la fuerza prodigiosa que habita en ella. El Mysterium probablemente estar&amp;#225; muy interesado.&lt;BR&gt;&lt;BR&gt;Ahora, la federaci&amp;#243;n tendr&amp;#225; los medios para enfrentar a los argons. Y se lo debemos a ti. Encontr&amp;#233; esta reliquia entre los tesoros que recuperamos y me gustar&amp;#237;a entreg&amp;#225;rtela. Es solo una peque&amp;#241;a recompensa en comparaci&amp;#243;n con los esfuerzos realizados, pero espero que te sea &amp;#250;til. Haz buen uso de ella.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="242" villagerId="1038">
+        <Page social="0">&amp;#191;Encontraste la gema cer&amp;#250;lea? &amp;#191;Estaba all&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

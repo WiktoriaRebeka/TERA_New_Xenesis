@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">Hemos avistado {@LinkCreature:42#800#trafiquants besharans} al sur del templo, cerca de la posada. Mientras los eliminas, intenta averiguar c&amp;#243;mo controlan a los no-muertos, especialmente a esos {@LinkCreature:42#700#farfadets osseux vicieux}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">&amp;#191;As&amp;#237; que los gulas que controlaban a los no-muertos llevaban estos cristales? A ver...&lt;BR&gt;&lt;BR&gt;&amp;#161;Mira! &amp;#161;Esto es un sello besharan y, justo al lado, un sello naga!&lt;BR&gt;&lt;BR&gt;Tengo que avisar a Frontera. Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Cuando sepamos c&amp;#243;mo los gulas controlan a los no-muertos, podremos usar esa informaci&amp;#243;n a nuestro favor.</Page>
+    </Text>
+</QuestDialog>

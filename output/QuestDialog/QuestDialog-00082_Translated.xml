@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Los devas nos han robado nuestras provisiones una cantidad incalculable de veces. Es hora de reaccionar.&lt;BR&gt;&lt;BR&gt;Ve a recuperar nuestras provisiones, y si tienes que matar a unos cuantos devas en el camino, bueno, eso que nos llevamos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#161;Perfecto! Es formidable.&lt;BR&gt;&lt;BR&gt;(Droyan asiente con satisfacci&amp;#243;n.)&lt;BR&gt;&lt;BR&gt;Esas alima&amp;#241;as van a ver lo que se siente al ser despojados. No sabes lo duro que ha podido ser para los habitantes de Crescentia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Escucha, esto no es un robo, es recuperaci&amp;#243;n. Le robaron estas provisiones a nuestras familias. Todo lo que te pido es que vayas a recuperar lo que nos pertenece.</Page>
+    </Text>
+</QuestDialog>

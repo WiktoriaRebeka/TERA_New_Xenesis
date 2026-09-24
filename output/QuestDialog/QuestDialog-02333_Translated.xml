@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Armande te esperaba para regresar al campamento provisional.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mientras Jelena atacaba el corral de los cullar, una larva la hiri&amp;#243; y perdi&amp;#243; el conocimiento. As&amp;#237; que fuiste a buscar un remedio para Jelena al Pantano de Viridian.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="20203">
+        <Page social="4" voiceTypeId="0">Har&amp;#237;amos bien en ir todos juntos al campamento provisional, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thro y Aurl est&amp;#225;n con los aldeanos.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as intentar convencer a Aurl de que acompa&amp;#241;e a los aldeanos con los Riverans.&lt;BR&gt;&lt;BR&gt;Intenta persuadir a Aurl de que este plan es lo correcto, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="22001">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! Bienvenida.&lt;BR&gt;&lt;BR&gt;Aparentemente, estos malditos nagas han abandonado este lugar. Y vi&amp;#233;ndolo bien, no est&amp;#225; tan mal.&lt;BR&gt;&lt;BR&gt;Y, sin embargo, no logro sacarme un mal presentimiento de encima...&lt;BR&gt;&lt;BR&gt;No hay luz sin sombra. Este lugar es perfecto para vengarse de los nagas.&lt;BR&gt;&lt;BR&gt;No te preocupes por m&amp;#237;. Mejor busca una forma de detener la fortaleza.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20204">
+        <Page social="4" voiceTypeId="0">&amp;#161;&amp;#191;Aurl y los Riverans a&amp;#250;n no se han puesto en marcha?!&lt;BR&gt;&lt;BR&gt;Es decepcionante, pero no tan sorprendente.&lt;BR&gt;S&amp;#233; muy bien que Aurl a&amp;#250;n no est&amp;#225; listo para considerar a un naga como un compa&amp;#241;ero.&lt;BR&gt;&lt;BR&gt;No hay nada que hacer al respecto. Dejemos este lugar en manos de Aurl y vayamos a buscar a Revenj.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n debemos alcanzar a Jelena para saber qu&amp;#233; significan los cristales.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20102">
+        <Page social="0" voiceTypeId="0">&amp;#191;Hasta d&amp;#243;nde piensas seguir avanzando?&lt;BR&gt;&lt;BR&gt;Si seguimos as&amp;#237;, terminaremos aterrizando en Velika.&lt;NEXTPAGEBUTTON&gt;"Busco a los Riverans."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Era eso! Sin duda saben mucho sobre este lugar.&lt;BR&gt;Con su apoyo, podremos cumplir nuestra misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y a d&amp;#243;nde vamos ahora? M&amp;#225;s nos vale darnos prisa.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20502">
+        <Page social="1" voiceTypeId="0">Ah, qu&amp;#233; bueno que llegas. Pero desafortunadamente llegas demasiado tarde.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres saber para qu&amp;#233; sirven estos cristales?&lt;BR&gt;&lt;BR&gt;&amp;#161;Para alimentar a las larvas!&lt;BR&gt;&lt;BR&gt;Las larvas devoran todo lo que se mueve. Los cristales que los parf y los parfon regurgitan aceleran el crecimiento de las larvas.&lt;NEXTPAGEBUTTON&gt;"¿Crías larvas a propósito?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">S&amp;#237;. Necesitamos muchas para enviar constantemente parf y parfon a tu continente.&lt;BR&gt;&lt;BR&gt;Los arist&amp;#243;cratas High Elf lo han decidido as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Y esto tambi&amp;#233;n se aplica a esta isla.&lt;BR&gt;&lt;BR&gt;Tal vez esa sea la raz&amp;#243;n por la cual los High Elf transportan cristales hasta la fortaleza.&lt;BR&gt;&lt;BR&gt;Cualesquiera que sean sus intenciones con estos cristales, no augura nada bueno para ustedes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" prevId="7" villagerId="20502">
+        <Page social="1" voiceTypeId="0">&amp;#161;Qu&amp;#233; presumida! Vino sola y me oblig&amp;#243; a revelarle el camino hacia la fortaleza.&lt;BR&gt;&lt;BR&gt;Solo quer&amp;#237;a ir a atacar el criadero de larvas y volver para ayudarme, pero no la volv&amp;#237; a ver. &lt;BR&gt;&lt;BR&gt;Ahora que lo mencionas, yo tambi&amp;#233;n tengo un mal presentimiento. &amp;#191;Quieres que vayamos a buscarla juntos?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="20404">
+        <Page social="0" voiceTypeId="0">...&amp;#161;Qu&amp;#233; mala suerte! &amp;#191;Por qu&amp;#233; mi cuerpo decide ahora...&lt;BR&gt;&lt;BR&gt;&amp;#161;A... a m&amp;#237; auxilio!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20503">
+        <Page social="0">Mmm, esto... no va nada bien.&lt;BR&gt;El veneno de las c&amp;#225;psulas minerales de las larvas j&amp;#243;venes es extremadamente potente.&lt;BR&gt;&lt;BR&gt;Por lo tanto, su cristalizaci&amp;#243;n avanzar&amp;#225; m&amp;#225;s r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;Supongo que la tribu Azra, que administra el almac&amp;#233;n de cristales y el criadero de larvas, debe tener un remedio en su campamento.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">En cambio, este remedio est&amp;#225; destinado principalmente a los naga y, con Jelena, probablemente solo servir&amp;#225; para retrasar el proceso.&lt;BR&gt;&lt;BR&gt;Empieza por pon&amp;#233;rselo en la comida y luego lleva a Jelena al campamento.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">&amp;#191;El remedio a&amp;#250;n no est&amp;#225; listo?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="11" villagerId="20504">
+        <Page social="1" voiceTypeId="0">Ganamos algo de tiempo gracias al remedio, pero sin un sanador digno de ese nombre, se va a transformar en gema.&lt;BR&gt;&lt;BR&gt;Rogash secuestr&amp;#243; al sanador que ayud&amp;#243; a los Riveran. Est&amp;#225; encerrado en un campamento cerca de la plataforma. Ve a rescatarlo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20505">
+        <Page social="1" voiceTypeId="0">Este lugar sirve como incubadora para bestias gigantescas.&lt;BR&gt;Los parf y los parfon son los responsables de la proliferaci&amp;#243;n de estas bestias en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Viven con el temor constante de ver aparecer escarabajos en grandes cantidades.&lt;BR&gt;&lt;BR&gt;Si queremos avanzar, tendremos que eliminar a estas aterrorizadas bestias.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2001" prevId="14" villagerId="20601">
+        <Page social="0" voiceTypeId="0">Contar con la asistencia de un extranjero es una experiencia fascinante.&lt;BR&gt;&lt;BR&gt;Sin embargo, es a&amp;#250;n m&amp;#225;s interesante ver que un extranjero se est&amp;#225; cristalizando. Ya he lidiado con alguien como ella: el remedio de los naga no funcionar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero tengo otra idea! Si me proporcionas los ingredientes necesarios, probablemente pueda curarla por completo.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="2001" prevId="15" villagerId="20508">
+        <Page social="1" voiceTypeId="0">Llevar&amp;#233; al sanador con Jelena.&lt;BR&gt;&lt;BR&gt;Por tu parte, ve al Pantano de Viridian. Te comunicar&amp;#233; los ingredientes que menciona el sanador.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme esos ingredientes y Jelena sobrevivir&amp;#225;.&lt;NEXTPAGEBUTTON&gt;"¿Y Elion en todo esto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">El sanador afirm&amp;#243; que Elion no hab&amp;#237;a pasado por el campamento.&lt;BR&gt;Sin embargo, us&amp;#243; esta plataforma de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;El miembro de los Riveran ubicado cerca de la plataforma del Pantano de Viridian tal vez pueda decirte m&amp;#225;s sobre tu compa&amp;#241;ero.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="2001" prevId="16" villagerId="20104">
+        <Page social="4" voiceTypeId="0">Es cierto que Jelena ha sido envenenada, pero tal vez este incidente nos permita encontrar una cura. No hay mal que por bien no venga.&lt;BR&gt;&lt;BR&gt;Consigamos r&amp;#225;pido los componentes del remedio para que Jelena se recupere pronto.&lt;NEXTPAGEBUTTON&gt;"Me daré prisa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Muy bien. Traje una gran colecci&amp;#243;n de mis amadas bombas, as&amp;#237; que en marcha hacia el pantano, r&amp;#225;pido.</Page>
+    </Text>
+</QuestDialog>

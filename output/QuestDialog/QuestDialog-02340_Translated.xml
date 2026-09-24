@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Thro te estaba buscando tras haber descubierto algo mientras segu&amp;#237;a el rastro de Elion.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena se uni&amp;#243; al guardian y a Thro mientras segu&amp;#237;an a Elion. El grupo del guardian termin&amp;#243; poniendo rumbo a la Fortaleza de Berak, en el centro de Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="150">
+        <Page social="4" voiceTypeId="0">Esto parece una pista dejada por Elion.&lt;BR&gt;&lt;BR&gt;Pero se detiene aqu&amp;#237; de golpe.&lt;BR&gt;&lt;BR&gt;Exploremos el jard&amp;#237;n y sin duda encontraremos otros rastros de su paso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="160">
+        <Page social="0" voiceTypeId="0">(Al acercarte, notas que el naga ha sido herido por una espada afilada.)&lt;BR&gt;&lt;BR&gt;(Curiosamente, la herida est&amp;#225; ennegrecida.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="151">
+        <Page social="4" voiceTypeId="0">Es obra de Elion, de eso no cabe duda. Pero, &amp;#191;por qu&amp;#233; esa energ&amp;#237;a oscura rodea la herida...?&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225; se deba al poder de Killian... Las heridas que inflige Killian nunca se cierran por completo.&lt;BR&gt;&lt;BR&gt;Debemos encontrar a Elion r&amp;#225;pidamente.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="161">
+        <Page social="0" voiceTypeId="0">(Este cad&amp;#225;ver de naga est&amp;#225; mutilado.)&lt;BR&gt;&lt;BR&gt;(La energ&amp;#237;a negra que emana de la herida envuelve el cuerpo entero.)&lt;BR&gt;&lt;BR&gt;(Definitivamente, algo preocupante parece estarle pasando a Elion.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" prevId="6" villagerId="170">
+        <Page social="0" voiceTypeId="0">Argh... &amp;#191;Acaso no son nuestros camaradas?&lt;BR&gt;Tu compa&amp;#241;ero ejecut&amp;#243; a nuestros camaradas a sangre fr&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Pude huir... pero los dem&amp;#225;s...&lt;NEXTPAGEBUTTON&gt;"He visto el cadáver."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Apparemment, il n'a plus rien d'humain.&lt;BR&gt;De l'énergie noire s'échappe de ses yeux et enveloppe son visage. Chaque attaque semble le précipiter davantage dans une rage meurtrière...&lt;BR&gt;&lt;BR&gt;Je n'avais encore jamais rien vu d'aussi infâme.&lt;BR&gt;Je prends mes affaires et je déguerpis.&lt;BR&gt;&lt;BR&gt;Vous trouverez un outil utile dans mes bagages.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" villagerId="172">
+        <Page social="0">Si has recogido tu equipaje, te llevo con tus camaradas. Vaya.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="7" villagerId="171">
+        <Page social="0" voiceTypeId="0">Est&amp;#225;s a salvo aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pero no te retrases m&amp;#225;s. Sigue adelante.&lt;BR&gt;&lt;BR&gt;Esperar&amp;#233; a mis camarados aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Dale el paquete a Revenj. Te ser&amp;#225; &amp;#250;til para llegar a la fortaleza.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="180">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; alegr&amp;#237;a verte ileso.&lt;BR&gt;&lt;BR&gt;Tu amiga Jelena tambi&amp;#233;n planeaba tomar esta ruta, as&amp;#237; que envi&amp;#233; a Bashik a ayudarla. El sanador intent&amp;#243; detenerla, &amp;#161;pero fue en vano!&lt;BR&gt;&lt;BR&gt;Y ahora Bashik se hace esperar...&lt;BR&gt;&lt;BR&gt;Ve a buscar a Jelena y a Bashik.&lt;BR&gt;Ven a la plataforma una vez que los hayas encontrado.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="10" villagerId="190">
+        <Page social="4" voiceTypeId="0">Disc&amp;#250;lpame por causarte tantos problemas. No pude llegar al punto de encuentro porque estaba muy ocupado despistando a mis perseguidores.&lt;BR&gt;&lt;BR&gt;Pero nos hemos reencontrado, eso es lo importante. &amp;#191;Alguna noticia de Elion?&lt;NEXTPAGEBUTTON&gt;"Algo no anda bien con Elion. Parece haberse vuelto malvado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eso es lo que tem&amp;#237;a...&lt;BR&gt;&lt;BR&gt;&amp;#161;Tenemos que darnos prisa! El cuerpo de Elion es el escenario de una constante lucha de poder entre Killian y &amp;#233;l. Debemos encontrar a Elion antes de que sucumba por completo a la voluntad de Killian.&lt;BR&gt;&lt;BR&gt;Vayamos a encontrar a Revenj.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="11" villagerId="124">
+        <Page social="0" voiceTypeId="0">Aqu&amp;#237; est&amp;#225; la plataforma.&lt;BR&gt;&lt;BR&gt;Los rastreadores sin duda nos buscar&amp;#225;n all&amp;#237;.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que primero ir&amp;#233; a la plataforma con Revenj para atraer la atenci&amp;#243;n de los perseguidores.&lt;BR&gt;&lt;BR&gt;Entonces podr&amp;#225;s eliminar a los adversarios y luego unirte a nosotros en la plataforma.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2002" prevId="12" villagerId="125">
+        <Page social="0" voiceTypeId="0">Los rastreadores han ido todos a la fortaleza.&lt;BR&gt;Sin duda est&amp;#225;n persiguiendo a Elion.&lt;BR&gt;&lt;BR&gt;Partamos hacia la plataforma.&lt;BR&gt;&lt;BR&gt;Revenj nos est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2002" prevId="13" villagerId="181">
+        <Page social="4" voiceTypeId="0">La mayor&amp;#237;a de ellos vio a Elion dirigirse hacia la fortaleza.&lt;BR&gt;&lt;BR&gt;Por ahora, los rastreadores naga y High Elf intentan capturarlo. Es posible que el comandante Kalligar se encargue personalmente del asunto.&lt;BR&gt;&lt;BR&gt;Bashik y yo nos adelantaremos para asegurar el paso.&lt;BR&gt;Usa el ascensor cuando est&amp;#233;s listo.&lt;BR&gt;&lt;BR&gt;Bashik te esperar&amp;#225;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2002" prevId="14" villagerId="126">
+        <Page social="0" voiceTypeId="0">Ah, aqu&amp;#237; est&amp;#225;s.&lt;BR&gt;Este lugar forma parte de la Forteresse de Berak.&lt;BR&gt;&lt;BR&gt;La fuente del poder que buscas se encuentra en el coraz&amp;#243;n de la fortaleza.&lt;BR&gt;&lt;BR&gt;Revenj vigila minuciosamente las entradas y salidas de la fortaleza para ayudarte.</Page>
+    </Text>
+</QuestDialog>

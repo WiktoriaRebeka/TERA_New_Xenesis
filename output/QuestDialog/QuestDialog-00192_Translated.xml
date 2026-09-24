@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">&amp;#161;&lt;PCNAME&gt;! He recibido una solicitud de refuerzos procedente de las Collines c&amp;#233;lestes. Drustan, del Poste de Casidhe, necesita ayuda urgente. No tengo soldados para enviarle, pero ya que est&amp;#225;s aqu&amp;#237;...&lt;BR&gt;&lt;BR&gt;Es un poco nervioso, pero es un buen hombre. Haz todo lo posible por ayudarle. &amp;#161;Por la Federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">&amp;#191;Eres t&amp;#250; la soluci&amp;#243;n milagrosa? &amp;#191;Un solo recluta?&lt;BR&gt;&lt;BR&gt;Daven ha perdido el sentido de la realidad. Necesitamos mucho m&amp;#225;s que eso, pero ya que est&amp;#225;s aqu&amp;#237;, te buscaremos trabajo. Los orkans se est&amp;#225;n agrupando para atacar. Tendremos que lanzar un ataque preventivo. Elimina a los {@LinkCreature:7#5#orkans} y a los {@LinkCreature:7#6#combattants} crocs-rouges, y tr&amp;#225;eme sus colmillos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Quiz&amp;#225;s eso nos permita respirar un poco. &amp;#161;A trabajar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">&amp;#161;Bien hecho! Eso hace un buen pu&amp;#241;ado de colmillos.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;a infundirles miedo por un tiempo, pero terminar&amp;#225;n volviendo. Con un poco de suerte, para entonces habremos recibido refuerzos m&amp;#225;s contundentes.&lt;BR&gt;&lt;BR&gt;Tenemos suerte de haber dado contigo, &lt;PCNAME&gt;. Sigue as&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">Tienes tus &amp;#243;rdenes, soldado. A trabajar.</Page>
+    </Text>
+</QuestDialog>

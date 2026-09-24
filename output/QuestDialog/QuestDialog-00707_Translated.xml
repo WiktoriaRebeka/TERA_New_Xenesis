@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">Los Fanatiques de Lok y sus {@LinkCreature:25#1031#chevaliers de l'effroi} est&amp;#225;n en una posici&amp;#243;n de fuerza en el camino que lleva a la catedral, y nos impiden enviar refuerzos all&amp;#237;. Sin estas criaturas bloque&amp;#225;ndome el paso, habr&amp;#237;a podido reunirme con Elion. &amp;#191;Podr&amp;#237;as encargarte de ellas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">&amp;#191;Tan pronto? &amp;#161;Fant&amp;#225;stico!</Page>
+    </Text>
+</QuestDialog>

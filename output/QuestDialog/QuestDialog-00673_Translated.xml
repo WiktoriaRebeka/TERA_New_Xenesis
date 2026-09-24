@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="5">Me informaron sobre humo sobre el Camino de Aurum. Ve a ver a Fayza en la puerta noroeste y p&amp;#237;dele confirmaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1014">
+        <Page social="4">&amp;#191;Humo&amp;nbsp;? &amp;#191;Qui&amp;#233;n habl&amp;#243; de humo&amp;nbsp;? Baruch es un buen capit&amp;#225;n, pero entre nosotros, podr&amp;#237;a esforzarse en conocer un poco mejor Val Aureum. No hay incendios forestales en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pero ahora que lo mencionas, algo levant&amp;#243; una gran nube de polvo en esa direcci&amp;#243;n. &amp;#191;Podr&amp;#237;as ir a interrogar a {@linkcreature:224#1005#Veltana} en el Puesto de observaci&amp;#243;n oeste&amp;nbsp;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1005">
+        <Page social="5">&amp;#161;Refuerzos&amp;nbsp;! La providencia te env&amp;#237;a. He pedido ayuda en numerosas ocasiones.&lt;BR&gt;&lt;BR&gt;&amp;#191;Arena&amp;nbsp;? &amp;#191;Polvo&amp;nbsp;? De eso tenemos y en cantidad...&lt;BR&gt;&lt;BR&gt;Pero encontrar efectivos es otro cantar... M&amp;#237;rame esto.</Page>
+    </Text>
+</QuestDialog>

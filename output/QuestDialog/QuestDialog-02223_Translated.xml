@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Ayudaste al clan Consos en el templo al avivar las llamas del sacrificio, el honor y la misericordia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">&amp;#161;A la gloria de Balder! Me llamo Modan.&lt;BR&gt;&lt;BR&gt;Es mi deber preservar las llamas de Balder para que su nobleza pueda reflejarse en los visitantes del templo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as ayudarme con mis deberes por un breve momento?&lt;NEXTPAGEBUTTON&gt;"Sería un honor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Revisa cada una de las tres llamas. Aseg&amp;#250;rate de que ardan bien y no les falte combustible.&lt;BR&gt;&lt;BR&gt;T&amp;#243;mate todo el tiempo que desees con cada llama. Piensa en lo que el sacrificio, el honor y la misericordia de Balder significan para ti. Cuando hayas revisado las tres llamas, vuelve a verme aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="8101">
+        <Page social="4">&amp;quot;La llama del sacrificio arde con intensidad.&amp;quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="8102">
+        <Page social="4">&amp;quot;La llama del honor arde correctamente.&amp;quot;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="8103">
+        <Page social="4">&amp;quot;La llama de la misericordia arde y da calor.&amp;quot;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="7001">
+        <Page social="4">Te agradezco tu trabajo. Espero que te sientas m&amp;#225;s cerca de Balder ahora, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Ah, casi lo olvido. Por favor, acepta estas recompensas de parte del clan Consos como muestra de gratitud.</Page>
+    </Text>
+</QuestDialog>

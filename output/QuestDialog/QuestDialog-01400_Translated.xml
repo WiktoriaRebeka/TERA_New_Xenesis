@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="4">&amp;#161;Alguien tendr&amp;#225; que aventurarse en el jard&amp;#237;n y evitar que los argones se apoderen del Indestructible!&lt;BR&gt;&lt;BR&gt;Pero antes de eso, ve a hablar con Doran lo antes posible. Los investigadores del Mysterium tienen algo para ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">&lt;PCNAME&gt;, al Mysterium le gustar&amp;#237;a saber c&amp;#243;mo se las arreglaron los argones para infiltrarse en el jard&amp;#237;n de Isren.&lt;BR&gt;&lt;BR&gt;Toma este dispositivo de control y ll&amp;#233;valo contigo. Proporcionar&amp;#225; a nuestros investigadores muchos datos &amp;#250;tiles sobre los argones con los que te tropieces.&lt;BR&gt;&lt;BR&gt;De esta manera, si enviamos a otro grupo de exploradores...&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh! Pero no me malinterpretes, estoy seguro de que saldr&amp;#225;s de esta sin un solo rasgu&amp;#241;o.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="3" villagerId="1037">
+        <Page social="4">&amp;#191;Eres {@gender:pr&amp;#234;t/pr&amp;#234;te}&amp;nbsp;? La entrada est&amp;#225; un poco m&amp;#225;s adelante, a la izquierda.&lt;BR&gt;&lt;BR&gt;Si logras seguirme, puedo guiarte hasta all&amp;#237;. Intenta no perderme de vista.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="254" prevId="4" villagerId="1039">
+        <Page social="4">&amp;#161;Aqu&amp;#237; est&amp;#225;s&amp;nbsp;! El teleportall y tu llave te permitir&amp;#225;n acceder al jard&amp;#237;n.&lt;BR&gt;&lt;BR&gt;Los alrededores de la entrada son seguros, pero la situaci&amp;#243;n empeora justo despu&amp;#233;s.&lt;BR&gt;&lt;BR&gt;Contamos contigo, &lt;PCCLASS:lcase&gt;. Localiza a las fuerzas argonas y elim&amp;#237;nalas.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="254" prevId="5" villagerId="1037">
+        <Page social="4">Doran y yo hemos vigilado tu progreso, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es un verdadero alivio saber que el jard&amp;#237;n y el Impuerecible ya no est&amp;#225;n en peligro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes a qui&amp;#233;n m&amp;#225;s le va a alegrar much&amp;#237;simo la noticia&amp;nbsp;? A Tanseril, en Scythera Fae. &amp;#161;Ve a avisarle&amp;nbsp;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="81" prevId="6" villagerId="1028">
+        <Page social="4">Has salvado el santuario sagrado de nuestra diosa, as&amp;#237; como la fuente de la magia fe&amp;#233;rica.&lt;BR&gt;&lt;BR&gt;Si no hubieras detenido a los argons, apenas me atrevo a imaginar qu&amp;#233; habr&amp;#237;a sido del Fey Forest y de Shara. Una perspectiva espantosa, &amp;#191;verdad&amp;nbsp;?&lt;BR&gt;&lt;BR&gt;Esperemos que nunca veamos que algo as&amp;#237; suceda.</Page>
+    </Text>
+</QuestDialog>

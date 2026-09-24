@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">Llevo un tiempo sospechando de los t&amp;#233;n&amp;#233;braras. Envi&amp;#233; a un explorador a vigilarlos por si acaso.&lt;BR&gt;&lt;BR&gt;Ve al encuentro de Pastin y preg&amp;#250;ntale qu&amp;#233; est&amp;#225; pasando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1028">
+        <Page social="5">&amp;#191;Mmm? &amp;#191;Oh, Tarnan te env&amp;#237;a a ver c&amp;#243;mo van las cosas?&lt;BR&gt;&lt;BR&gt;Bueno, llevo varios d&amp;#237;as observando a estos sacerdotes de T&amp;#233;n&amp;#233;brara. Se han pasado el tiempo practicando magia... lanzando hechizos. Algunos parecen exhaustos.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; cu&amp;#225;les son sus motivos, pero creo que sus hechizos son la causa del cambio de comportamiento de la fauna local. Debemos poner fin a sus maquinaciones.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1028">
+        <Page social="10">Deben haberte dado muchos problemas. Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ahora que hemos resuelto este problema de los hechizos, tendremos que descubrir por qu&amp;#233; los t&amp;#233;n&amp;#233;braras han decidido atacarnos.&lt;BR&gt;&lt;BR&gt;Busca documentos dentro de su base. Mira si puedes conseguir informaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1111">
+        <Page social="1">(Hay un pergamino guardado en este cofre.)&lt;NEXTPAGEBUTTON&gt;Leer el pergamino&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2">(En el pergamino se puede leer:&lt;BR&gt;&lt;BR&gt;Thulsa no te ha abandonado, pero tu debilitamiento trae consecuencias.&lt;BR&gt;&lt;BR&gt;Debes reagruparte y recuperar fuerzas antes de planear el siguiente paso.&lt;BR&gt;&lt;BR&gt;- Killian)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="236" prevId="5" villagerId="1028">
+        <Page social="9">&amp;#191;Killian? Debe haber encontrado la forma de poner a los l&amp;#237;deres de los t&amp;#233;n&amp;#233;braras de su lado. Eso lo explica todo.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, tambi&amp;#233;n significa que la situaci&amp;#243;n es a&amp;#250;n m&amp;#225;s grave de lo que pensaba.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir a avisar a Tarnan?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="236" prevId="6" villagerId="1004">
+        <Page social="10">&amp;#191;Killian?&lt;BR&gt;&lt;BR&gt;Oh, malas noticias. Debo advertir a Melrasa de inmediato.&lt;BR&gt;&lt;BR&gt;Gracias... sin ti, a&amp;#250;n ignorar&amp;#237;amos todo sobre esta... cat&amp;#225;strofe en ciernes.</Page>
+    </Text>
+</QuestDialog>

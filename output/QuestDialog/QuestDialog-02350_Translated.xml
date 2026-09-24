@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">&amp;#191;Podr&amp;#237;as ayudarme antes de unirte a la fortaleza a resolver algunos problemas?&lt;NEXTPAGEBUTTON&gt;"¿Qué problemas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ve a conseguir las gl&amp;#225;ndulas venenosas que necesitas contra los vasallos.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que son nagas como yo, pero estos vasallos sirven al linaje de los altos dragones... Tienen a muchos aliados de los Riverans en su conciencia.&lt;BR&gt;&lt;BR&gt;Fuera de cuesti&amp;#243;n dejar estos cr&amp;#237;menes impunes. El n&amp;#250;mero de nagas al servicio de los altos dragones disminuye a simple vista.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Gracias por tu ayuda.&lt;BR&gt;Ahora, los vasallos de los altos dragones probablemente no la est&amp;#233;n pasando nada bien.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo pedirte un &amp;#250;ltimo favor?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">No tienes suficientes gl&amp;#225;ndulas venenosas para eliminar a los viles traidores. Puedes obtener m&amp;#225;s gl&amp;#225;ndulas venenosas de las bestias del pantano.</Page>
+    </Text>
+</QuestDialog>

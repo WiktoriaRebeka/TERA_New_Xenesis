@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="0">Persiguiendo a Mihog, descubriste que en realidad, los demokrons eran Parthians transformados tras experimentos m&amp;#243;rbidos. Furioso, el comandante khirien Rhodos ha jurado venganza.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="1" voiceTypeId="0">(Este barril est&amp;#225; demasiado limpio en comparaci&amp;#243;n con los dem&amp;#225;s barriles polvorientos. Alguien parece haberlo movido hace poco.)&lt;NEXTPAGEBUTTON&gt;Mover el barril&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="822" prevId="2" villagerId="2003">
+        <Page social="1" voiceTypeId="0">&amp;#191;Una bruja archidevan? &amp;#161;Pas&amp;#243; frente a m&amp;#237;, con Zolyn y el popori tras sus huellas!&lt;NEXTPAGEBUTTON&gt;"De acuerdo, gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="822" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Zolyn se lanz&amp;#243; en su persecuci&amp;#243;n. Si te apresuras, podr&amp;#225;s alcanzarla y matar a esa maldita archidevan.&lt;NEXTPAGEBUTTON&gt;"¿Y Rhodos en todo esto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yo me encargo de hablar con Rhodos... y calmarlo. &amp;#161;T&amp;#250; enc&amp;#225;rgate de la bruja archidevan!&lt;NEXTPAGEBUTTON&gt;"¡Es como si estuviera hecho!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2010">
+        <Page social="1" voiceTypeId="0">&amp;#161;Este buf&amp;#243;n demasiado precavido crey&amp;#243; que era una trampa y se neg&amp;#243; a dejarme pasar! Y ahora hemos perdido el rastro de la bruja.&lt;NEXTPAGEBUTTON&gt;"No te lomes tan a mal."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

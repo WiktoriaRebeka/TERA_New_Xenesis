@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="4">Una de nuestras tropas se encuentra en {@Rgn:50004} para explorar el lugar.&lt;BR&gt;&lt;BR&gt;Estamos convencidos de que los argones y argones rojos se metamorfosean en kargons gracias a la importante fuente de energ&amp;#237;a que hay all&amp;#237;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} necesitar&amp;#237;a mucho de tu ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="4">Ciertos argones est&amp;#225;n hechos para el combate, pero otros, como el suulvir cosechador, apoyan la m&amp;#225;quina de guerra argon minando fragmentos de iteris.&lt;BR&gt;&lt;BR&gt;Si rompemos su organizaci&amp;#243;n, el resto de ellos podr&amp;#237;a venirse abajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1016">
+        <Page social="6">Nunca hab&amp;#237;a visto fragmentos de este tama&amp;#241;o. Es un buen trabajo.&lt;BR&gt;&lt;BR&gt;Sabremos qu&amp;#233; hacer con ellos, gracias.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" villagerId="1016">
+        <Page social="0">Vas a tener que matar a los suulvirs cosechadores para recuperar sus fragmentos.</Page>
+    </Text>
+</QuestDialog>

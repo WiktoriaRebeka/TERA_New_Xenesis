@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">En el Sal&amp;#243;n de las Doncellas se encuentran las peores monstruosidades de este abominable lugar. Me refiero a esas inmundas mu&amp;#241;ecas.&lt;BR&gt;&lt;BR&gt; Los {@LinkCreature:33#1#marmots fant&amp;#244;mes} y los {@LinkCreature:33#2#marmots maudits} quiz&amp;#225;s parezcan inofensivos, incluso casi adorables cuando los ves por primera vez. Pero cuando se abalanzan sobre tus compa&amp;#241;eros para descuartizarlos vivos... resulta bastante menos adorable. Es motivo para no volver a cerrar los ojos en la vida.&lt;BR&gt;&lt;BR&gt;&amp;#191;Cree que tiene el valor de matar a unos cuantos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">&amp;#161;Parece que lo ha logrado!&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; valor, &lt;PCNAME&gt;! Los... &amp;#161;POR KAIA, TIENE UNO EN LA ESPALDA!&lt;BR&gt;&lt;BR&gt;Ah, no. Era una sombra. Perd&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

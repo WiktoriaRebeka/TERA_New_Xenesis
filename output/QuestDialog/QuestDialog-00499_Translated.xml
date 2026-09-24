@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="5">&amp;#161;Bienvenido al coraz&amp;#243;n de la acci&amp;#243;n, soldado! &amp;#191;Has conocido al viejo Cafnil? &amp;#191;Ya ha intentado matarte? Qu&amp;#233;date con nosotros... y todo saldr&amp;#225; a la perfecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Nuestra misi&amp;#243;n consiste en desmantelar la cadena de suministro del Culto. Mira, &amp;#191;ves esa granja grande al norte? Un grupo de chalados totalmente agotados est&amp;#225; sudando la gota gorda all&amp;#237;, bajo las &amp;#243;rdenes de otros chalados que est&amp;#225;n en plena forma.&lt;BR&gt;&lt;BR&gt;&amp;#161;Son ellos los que deben morir primero! &amp;#161;Elimina a los {@LinkCreature:17#103#surveillants de Chute-c&amp;#233;leste} y a sus {@LinkCreature:17#102#ouvriers}. Mjum... &amp;#161;y recupera todas las herramientas que puedas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1022">
+        <Page social="5">&amp;#191;Todo listo? &amp;#191;Cu&amp;#225;ntos exactamente? &amp;#161;Uf, debe ser un caos por all&amp;#225;! Es un trabajo muy bueno.&lt;BR&gt;&lt;BR&gt;No te alejes demasiado... &amp;#161;A&amp;#250;n tenemos mucho trabajo por delante!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1022">
+        <Page social="0">Ve a robar las herramientas de los {@LinkCreature:17#103#surveillants de Chute-c&amp;#233;leste}. Y si unos {@LinkCreature:17#102#Ouvriers de Chute-c&amp;#233;leste} vienen a buscarte pleito, ya sabes qu&amp;#233; hacer.</Page>
+    </Text>
+</QuestDialog>

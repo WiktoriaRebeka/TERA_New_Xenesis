@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">La Federaci&amp;#243;n necesita montantes de veterano. Tengo materiales para ti, si sabes qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Esto funcionar&amp;#225; a la perfecci&amp;#243;n. &amp;#191;Podr&amp;#237;as llevarle esto a Baruch, en Tulufan?&lt;BR&gt;&lt;BR&gt;Sus Slayers est&amp;#225;n esperando sus armas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Tienes el dise&amp;#241;o y los kits, habla con los vendedores de artesan&amp;#237;a si necesitas material adicional.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="3" villagerId="1001">
+        <Page social="0">&amp;#161;Es justo lo que necesit&amp;#225;bamos! &amp;#161;Qu&amp;#233; gran momento! &amp;#161;Y qu&amp;#233; excelente trabajo!</Page>
+    </Text>
+</QuestDialog>

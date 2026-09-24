@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" voiceTypeId="0">&amp;#191;Partes por fin hacia la Tour d'&amp;#233;b&amp;#232;ne? &lt;BR&gt;&lt;BR&gt;No puedo hacer nada m&amp;#225;s por ti que rezar para que regreses indemne. &lt;BR&gt;&lt;BR&gt;Espero verte de una sola pieza.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has infiltrado la Tour d'&amp;#233;b&amp;#232;ne y has vencido a Thulsa. Sin embargo, no has encontrado ni rastro de Kelsaik. Mientras tanto, Thulsa intent&amp;#243; huir a pesar de sus heridas...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="1" villagerId="1033">
+        <Page social="1" voiceTypeId="0">El teletransporte de la Tour d'&amp;#233;b&amp;#232;ne no se activa as&amp;#237; como as&amp;#237;. Ah, &amp;#191;posees la gema de Killian, la llave del teletransporte?&lt;BR&gt;&lt;BR&gt;&amp;#191;Y quieres entrar en la torre mal&amp;#233;fica? La Tour d'&amp;#233;b&amp;#232;ne est&amp;#225; dividida en cinco niveles. El veneno de Thulsa afecta a la torre, pero tambi&amp;#233;n a las criaturas que alberga.&lt;BR&gt;&lt;BR&gt;Sin embargo, estamos convencidos de que lograr&amp;#225;s erradicar a los monstruos de la Tour d'&amp;#233;b&amp;#232;ne e incluso a Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1501">
+        <Page social="1" voiceTypeId="0">(Has activado el teletransporte con la ayuda de la gema de Killian.&lt;BR&gt;Se abre un portal hacia la Tour d'&amp;#233;b&amp;#232;ne.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" villagerId="1501">
+        <Page social="0">Es hora de usar la gema de Killian.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1501">
+        <Page social="1" voiceTypeId="0">(A&amp;#250;n se pueden sentir residuos de la poderosa magia de Thulsa en la Tour d'&amp;#233;b&amp;#232;ne.)&lt;BR&gt;&lt;BR&gt;(El teleportal parece vibrar al un&amp;#237;sono con otro teleportal cercano... &amp;#161;Por ah&amp;#237;!)</Page>
+    </Text>
+</QuestDialog>

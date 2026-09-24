@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">&amp;#161;Has hecho un buen trabajo con los tuwangis! Te estamos agradecidos y esperamos que sigas ech&amp;#225;ndonos una mano. &amp;#161;Nuestros siguientes objetivos son los {@LinkCreature:5#5#butors tuwangis} y los {@LinkCreature:5#6#tailladeurs tuwangis}!&lt;BR&gt;&lt;BR&gt;&amp;#193;brenos una brecha en sus defensas y hazles entender que es hora de batir en retirada.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="0">He aqu&amp;#237; otra victoria que celebrar. Tenemos la suerte de contar contigo en nuestras filas, &lt;PCNAME&gt;. Quer&amp;#237;a que lo supieras.&lt;BR&gt;&lt;BR&gt;La &amp;#250;nica sombra en el panorama es el triste estado de nuestras otrora excelentes relaciones con los tuwangis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1015">
+        <Page social="0">&amp;#191;A&amp;#250;n aqu&amp;#237;? &amp;#191;Te has cansado de ayudarnos? &amp;#191;Encuentras a los tuwangis demasiado lindos como para convertirlos en brochetas?&lt;BR&gt;&lt;BR&gt;A menos que tengas una aversi&amp;#243;n particular por las ranas.</Page>
+    </Text>
+</QuestDialog>

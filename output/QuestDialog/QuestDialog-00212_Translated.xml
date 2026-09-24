@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0">Al combatir a los gulas en las Cavernas Hambrientas, conociste a un soldado llamado Detrian. &amp;#201;l te admiraba desde siempre y te suplic&amp;#243; que le llevaras un regalo a su hermana. Por su parte, su hermana te pidi&amp;#243; que le entregaras un talism&amp;#225;n de combate a su hermano. Detrian tom&amp;#243; el talism&amp;#225;n y parti&amp;#243; con valent&amp;#237;a hacia las Cavernas Hambrientas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" voiceTypeId="0">Los gulas... con solo pensarlo, se me pone la piel de gallina. &lt;BR&gt;&lt;BR&gt;La espada de Kaia enfrenta a los gulas en el frente, pero necesitan refuerzos.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por piedad, ay&amp;#250;danos a derrotar a los gulas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Muchas gracias. Entonces te env&amp;#237;o oficialmente a las Cavernas Hambrientas. &lt;BR&gt;&lt;BR&gt;Pero, &amp;#191;podr&amp;#237;as hacerme un favor antes de partir hacia las Cavernas Hambrientas? &lt;BR&gt;&lt;BR&gt;Detrian est&amp;#225; actualmente de permiso en Castanica, pero necesitamos que vuelva al frente lo antes posible. Tra&amp;#233;telo de vuelta, por favor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1106">
+        <Page social="5" voiceTypeId="0">As&amp;#237; que me ordenan regresar. Puf... Oigan, pero... &amp;#191;No ser&amp;#225;s &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;(Asientes con la cabeza.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo sab&amp;#237;a! &amp;#161;Qu&amp;#233; inmenso honor conocerte! Yo... &amp;#161;Te admiro! &amp;#161;Estoy encantado de conocer al h&amp;#233;roe que liber&amp;#243; a Velika de las garras de Samael!&lt;BR&gt;&lt;BR&gt;A ti tambi&amp;#233;n te asignaron a las Cavernas Hambrientas, &amp;#191;&lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Así es."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Entiendo! La situaci&amp;#243;n es cr&amp;#237;tica en las Cavernas Hambrientas. &amp;#161;Me alegra que te nos unas, &lt;PCNAME&gt;! &amp;#161;Debemos darlo todo! Rayos... Si regreso ahora, no tendr&amp;#233; la oportunidad de entregarle este regalo a mi hermana.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, tengo que irme. &amp;#191;Podr&amp;#237;as llevarle esta mu&amp;#241;eca de madera a Hennika, mi hermanita?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ella te admira tanto como yo, &lt;PCNAME&gt;! Estar&amp;#225; en el s&amp;#233;ptimo cielo si eres t&amp;#250; quien le entrega el regalo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1107">
+        <Page social="5" voiceTypeId="0">&amp;#191;Mi hermano te env&amp;#237;a?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, mi mu&amp;#241;eca favorita! &amp;#161;Mi hermano mayor es el mejor! &amp;#191;C&amp;#243;mo te llamas? Ah, ya recuerdo, &lt;PCNAME&gt;. Te llamas igual que el &amp;#237;dolo de mi hermano.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n tengo un regalo para mi hermano mayor. Trabaja muy duro en las Cavernas Hambrientas. &lt;PCNAME&gt;, &amp;#191;t&amp;#250; tambi&amp;#233;n vas para all&amp;#225;, no? &amp;#191;Podr&amp;#237;as llevarle este talism&amp;#225;n a mi hermano? Lo hice yo misma. Proteger&amp;#225; a mi hermano mayor.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1023">
+        <Page social="5" voiceTypeId="0">Ah, &lt;PCNAME&gt;. &amp;#161;Por fin llegas!&lt;BR&gt;&lt;BR&gt;&amp;#191;Hennika te pidi&amp;#243; que me trajeras esto? Jajaja, un talism&amp;#225;n.&lt;BR&gt;&lt;BR&gt;(Detrian se ve muy feliz.)&lt;BR&gt;&lt;BR&gt;Gracias por tra&amp;#233;rmelo.&lt;BR&gt;&lt;BR&gt;Y ahora, ser&amp;#225; mejor que retomes el camino, &lt;PCNAME&gt;. La prefecta Karina te espera en el Refugio de Esp&amp;#237;as. Date prisa. Y ten cuidado con la energ&amp;#237;a de Karina.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">La purificaci&amp;#243;n de las Cavernas hambrientas debe realizarse lo m&amp;#225;s pronto posible. Debemos vengar a todos los que cayeron bajo los golpes de los gulas.&lt;BR&gt;&lt;BR&gt;Conf&amp;#237;o en usted, &lt;PCNAME&gt;. Sus primeros objetivos son los {@linkcreature:8#2021#esclavagistes gulas} y los {@linkcreature:8#2021#mercenaires ca&amp;#239;mans}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Excelente. Da gusto ver semejante entrega. Pero esto era solo el principio. No ser&amp;#225; suficiente para intimidar a estos recalcitrantes gulas.&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a quedan Humanos en las Cavernas hambrientas. Debemos darnos prisa en terminar el trabajo.</Page>
+    </Text>
+</QuestDialog>

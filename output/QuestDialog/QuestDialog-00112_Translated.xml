@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="4">La cuesti&amp;#243;n del mineral preocupa a Castanica y el desinter&amp;#233;s por las minas empieza a notarse en el esfuerzo de guerra.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te das cuenta de la gravedad de la situaci&amp;#243;n? Sobre todo nos falta &lt;B&gt;{@RawItem:206807}&lt;/B&gt;. La buena noticia es que las minas no son necesarias para conseguirlo: en efecto, muchos yacimientos afloran a la superficie. Tr&amp;#225;eme un poco de {@RawItem:206807} de la Montagne Fyr y Castanica te recibir&amp;#225; como a un h&amp;#233;roe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
+        <Page social="4">Es perfecto. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1134">
+        <Page social="0">&amp;#191;Todav&amp;#237;a no tienes un {@RawItem:206807}? Desde el cierre de las minas, Castanica est&amp;#225; en crisis. &amp;#161;Cualquier peque&amp;#241;o fragmento ser&amp;#237;a bienvenido!</Page>
+    </Text>
+</QuestDialog>

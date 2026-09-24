@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Necesito la ayuda de Jadan para entregar un paquete que acaba de llegar, pero no lo encuentro por ning&amp;#250;n lado.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;podr&amp;#237;as ir a la puerta norte y preguntarle a {@LinkCreature:67#1008$$Okon} si ha visto pasar a Jadan?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1008">
+        <Page social="5">&amp;#191;Jadan? No, no lo he visto en todo el d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Pero ve a preguntarle a {@LinkCreature:67#1019#Kripa}, por all&amp;#237;. Uno nunca sabe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1019">
+        <Page social="5">Vuelve a decirme su nombre... &amp;#191;Jadan? De hecho, lo vi partir hacia el &lt;font color='#660000'&gt;Val du Croc&lt;/font&gt; en compa&amp;#241;&amp;#237;a de su hijo. Dijo que iba a recolectar hierbas all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ahora que lo mencionas, ya pas&amp;#243; un buen rato desde que se fue.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1013">
+        <Page social="5">(Es el cad&amp;#225;ver de un Popori, tirado en medio de las hierbas que estaba recolectando. Su pelaje te complica la tarea, pero al examinar el cad&amp;#225;ver m&amp;#225;s de cerca, descubres que ha sido desangrado.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1019">
+        <Page social="5">&amp;#191;Qu&amp;#233;? &amp;#191;Ha sido...? Eso... eso no es posible. &amp;#191;C&amp;#243;mo pudo suceder algo as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Debes advertir a Paka inmediatamente.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="5">&amp;#191;Jadan ha muerto? Triste noticia... Definitivamente est&amp;#225;n pasando cosas extra&amp;#241;as &amp;#250;ltimamente. Para garantizar la seguridad de los ciudadanos, deber&amp;#237;amos considerar implementar un sistema de parejas.&lt;BR&gt;&lt;BR&gt;Pero espera... &amp;#191;D&amp;#243;nde est&amp;#225; Dipa, el hijo de Jadan?</Page>
+    </Text>
+</QuestDialog>

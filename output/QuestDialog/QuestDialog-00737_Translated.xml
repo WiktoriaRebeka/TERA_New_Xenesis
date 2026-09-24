@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Los investigadores que estudian las reliquias antiguas del Bassin b&amp;#233;ni han enviado una solicitud de refuerzos a la Federaci&amp;#243;n. Andras, el teralithe, ha enloquecido... Se abalanza sobre cualquiera que se acerque a los artefactos. Estas investigaciones son de vital importancia, por lo que pedimos a los Vanarchs y a sus hermandades que nos ayuden a eliminar a {@LinkCreature:26#501#Andras}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">&amp;#161;Tienes toda la gratitud de la Federaci&amp;#243;n! &amp;#161;Tu hermandad es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

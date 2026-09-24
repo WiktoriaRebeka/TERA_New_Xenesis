@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="0">Caza del devorador de hierro</Page>
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="4">&amp;#191;Conoces a {@LinkCreature:249#1013}, verdad?&lt;BR&gt;&lt;BR&gt;Se fue a estudiar a los {@Rgn:50008} en solitario.&lt;NEXTPAGEBUTTON&gt;"¿Es peligroso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">S&amp;#237;... Los spodas zariiks que merodean cerca de los {@Rgn:50008} se lo tragar&amp;#237;an en un abrir y cerrar de ojos. No tiene nada de soldado.&lt;BR&gt;&lt;BR&gt;Me har&amp;#237;as un gran favor si fueras a salvarle el pellejo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">&amp;#161;Vaya, qu&amp;#233; gracioso! Justo me estaba preguntando c&amp;#243;mo iba a salir de esta con vida... &amp;#161;y apareces t&amp;#250;!&lt;BR&gt;&lt;BR&gt;Haces honor a la frase &quot;llegar en el momento oportuno&quot;.</Page>
+    </Text>
+</QuestDialog>

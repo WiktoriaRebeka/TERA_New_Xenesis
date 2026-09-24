@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Te infiltraste{@g:/e} en el territorio orkan gracias a las pistas que obtuviste en Fey Forest. En la morada de Rahto, situada en el coraz&amp;#243;n del territorio orkan, obtuviste informaci&amp;#243;n sobre la invasi&amp;#243;n de Pora Elinu por los Orkans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;As&amp;#237; que piensas aventurarte en el territorio orkan? Conozco a un esp&amp;#237;a que podr&amp;#237;a ayudarte con eso. &lt;BR&gt;&lt;BR&gt;Va disfrazado de orkan, pero creo que con tus sentidos agudos, lo localizar&amp;#225;s en un abrir y cerrar de ojos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Psst! Eh, por aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;No soy realmente un Orkan. Soy un esp&amp;#237;a al servicio de Mirvan. Uso este disfraz para recuperar informaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mirvan tom&amp;#243; este sendero hacia el Repaire Orkan. Si empieza a armar alboroto por all&amp;#237;, necesitar&amp;#225; tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1027">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; batalla! &amp;#161;Si&amp;#233;ntete afortunado de seguir con vida!&lt;BR&gt;&lt;BR&gt;Aparentemente, este lugar tiene un significado particular para los orkans. Est&amp;#225; bien vigilado, pero se mantienen a distancia de este altar. Debo descubrir la causa.&lt;BR&gt;&lt;BR&gt;Rahto manda en el territorio de los orkans. Aparentemente, ocupa un edificio at&amp;#237;pico cerca del altar. &lt;BR&gt;&lt;BR&gt;Sin duda encontrar&amp;#225;s algunas pistas importantes all&amp;#237;. &amp;#191;Podr&amp;#237;as ir y explorar el lugar?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1028">
+        <Page social="4" voiceTypeId="0">[El diario es sobre todo un galimat&amp;#237;as sin pies ni cabeza, pero hay algunos pasajes interesantes que mencionan un sello rojo que Rahto habr&amp;#237;a recibido de manos de alguien frente al altar. Y de repente, los escritos denotan una inteligencia completamente nueva. El diario de Rahto habla de usar el sello para tomar el mando de su tribu y conferirle poder. Pero eso provoca un apetito voraz en Rahto.]</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1027">
+        <Page social="4" voiceTypeId="0">Examin&amp;#233; el altar de cerca y parece ser una especie de teletransporte. Supongo que los orkans lo usan para repatriar a sus tropas sin hacerse notar. &lt;BR&gt;&lt;BR&gt;Rahto se las arregl&amp;#243; para adquirir poderes especiales. Usa esos poderes y el sello rojo para comandar a los orkans. &lt;BR&gt;&lt;BR&gt;Pero estos poderes tienen un efecto secundario nada desde&amp;#241;able: una intensa sensaci&amp;#243;n de vac&amp;#237;os. Para llenar ese vac&amp;#237;o interior, Rahto recurre cada vez m&amp;#225;s a sus poderes, lo que acent&amp;#250;a la sensaci&amp;#243;n de vac&amp;#237;os. Es un c&amp;#237;rculo vicioso. &amp;#161;Al final, necesita saquear!&lt;BR&gt;&lt;BR&gt;En fin... &amp;#161;habr&amp;#237;austos que eliminar al l&amp;#237;der para debilitar a los orkans! Quiz&amp;#225;s eso nos permita salvar a Pora &amp;#201;linu.&lt;NEXTPAGEBUTTON&gt;"Es muy posible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Comencemos por largarnos de aqu&amp;#237;. &lt;BR&gt;&lt;BR&gt;Intentar&amp;#233; averiguar d&amp;#243;nde se esconde el l&amp;#237;der de los orkans. &lt;BR&gt;&lt;BR&gt;Elimina a los chamanes de &amp;#233;lite de Rock of Desolation y ve a encontrarte con el esp&amp;#237;a. &lt;BR&gt;Es necesario que informe a Rida sobre nuestro descubrimiento.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Bueno, si Rahto no se encuentra en el territorio Orkan, tal vez est&amp;#233; supervisando directamente la invasi&amp;#243;n de Pora Elinu.&lt;BR&gt;&lt;BR&gt;Le llevar&amp;#233; el informe de Mirvan a la princesa. Deber&amp;#237;as ir al norte y reunirte all&amp;#237; con Mirvan.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1011">
+        <Page social="4" voiceTypeId="0">&amp;#191;Lo lograste? Desafortunadamente, Rahto ya hab&amp;#237;a abandonado el repaire orkan cuando llegu&amp;#233;. Probablemente est&amp;#233; en camino hacia Pora &amp;#201;linu con sus orkans. &lt;BR&gt;&lt;BR&gt;Me enter&amp;#233; de que planean desplegar basiliscos domados como arma secreta para su pr&amp;#243;ximo ataque a Pora &amp;#201;linu. Si nos es imposible detener a Rahto, al menos debemos evitar que los basiliscos lleguen a Pora &amp;#201;linu, o de lo contrario las v&amp;#237;ctimas ser&amp;#225;n innumerables. &lt;BR&gt;&lt;BR&gt;Los basiliscos merodean al otro lado de la arena. Ve a exterminar tantos como puedas. Intentar&amp;#233; encontrar un camino seguro para llegar a Pora &amp;#201;linu.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" prevId="8" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Bien hecho. Definitivamente, no haces las cosas a medias, &amp;#161;je, je!&lt;BR&gt;&lt;BR&gt;El sendero detr&amp;#225;s de nosotros es la &amp;#250;nica ruta que lleva a Pora &amp;#201;linu. Me adelantar&amp;#233; para intentar dar con Rahto. &lt;BR&gt;&lt;BR&gt;Ve a buscar a Arin en Pora &amp;#201;linu para informarle de nuestros descubrimientos. &lt;BR&gt;&lt;BR&gt;Encontr&amp;#233; estas cosas en la zona que los orkans ocupaban. No les doy ning&amp;#250;n uso, as&amp;#237; que puedes qued&amp;#225;rtelas. &amp;#161;Buena suerte!</Page>
+    </Text>
+</QuestDialog>

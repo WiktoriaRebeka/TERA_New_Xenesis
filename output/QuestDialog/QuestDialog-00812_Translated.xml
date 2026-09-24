@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="4">Estos naufragios sol&amp;#237;an ser barcos mercantes ghol. Deben estar llenos de cosas tan anodinas como raciones de comida, madera o cereales, pero encontramos un manifiesto que menciona la presencia de monedas de oro en la carga. &amp;#161;Oro!&lt;BR&gt;&lt;BR&gt;Ya s&amp;#233; que los marineros se convirtieron en monstruos no-muertos, pero en su lugar, &amp;#191;no habr&amp;#237;as aprovechado el naufragio para apoderarte del bot&amp;#237;n? &amp;#161;Ve a matar a los {@LinkCreature:31#12#marins}, a los {@LinkCreature:31#14#ma&amp;#238;tres d'&amp;#233;quipage gulas noy&amp;#233;s} y rev&amp;#237;sales los bolsillos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1044">
+        <Page social="4">&amp;#161;Magn&amp;#237;fico! No puedo dejarte todo este oro por tus buenos y leales servicios, &amp;#161;pero no te ir&amp;#225;s con las manos vac&amp;#237;as!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1044">
+        <Page social="0">&amp;#161;Hermosas monedas de oro! &amp;#161;Maravillosas monedas de oro! &amp;#161;Una fortuna para los exploradores Popori!</Page>
+    </Text>
+</QuestDialog>

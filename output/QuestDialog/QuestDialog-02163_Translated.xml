@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#191;Quieres otra dosis de combates sangrientos? {@LinkCreature:63#3003#Elthienne} te dir&amp;#225; ad&amp;#243;nde ir y qu&amp;#233; criatura matar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#191;Te gusta Val Aureum? &amp;#191;Te importar&amp;#237;a ir all&amp;#237; y terminar un peque&amp;#241;o y desagradable trabajo?&lt;BR&gt;&lt;BR&gt;&amp;#161;Perfecto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#191;{@Rgn:18001#Ruines colossales}, &amp;#191;eh? &amp;#191;Y son realmente grandes?&lt;BR&gt;&lt;BR&gt;&amp;#191;Adivinas qui&amp;#233;n tiene tu dinero? Pues s&amp;#237;, has acertado, es {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Queremos que elimines a unos cuantos {@LinkCreature:18#17#teralithes anciens} en {@Rgn:18001#Ruines colossales} y que traigas algunos fragmentos de sus cuerpos masivos y toscos.&lt;BR&gt;&lt;BR&gt;Es mano de santo para los callos de los pies. Bueno, aunque no solo servir&amp;#225;n para eso.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#191;Qu&amp;#233; tal ese viaje hasta {@Rgn:18001#Ruines colossales}? Imagino que no ha sido un paseo por el campo, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Gracias. {@LinkCreature:63#3003#Elthienne} te recompensar&amp;#225; por esta misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Queremos que elimines a unos cuantos {@LinkCreature:18#18#gladiateurs g&amp;#233;ants} en {@Rgn:18001#Ruines colossales} y que traigas algunos de los brazaletes que llevan en sus enormes pulgares. Est&amp;#225;n fabricados con un metal dif&amp;#237;cil de encontrar.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">&amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;&amp;#191;A d&amp;#243;nde te vamos a poder enviar despu&amp;#233;s de esto?</Page>
+    </Text>
+</QuestDialog>

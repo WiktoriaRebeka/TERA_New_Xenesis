@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Mientras te ocupabas de los fouaille-tripes, &amp;#191;no te habr&amp;#225;s cruzado con cierta {@LinkCreature:206#1020#Dakona}? Cuida el puesto de avanzada temporal establecido al norte de la Ferme de l'&amp;#233;cho y debe sentirse bastante sola por ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;A decir verdad, me preocupa un poco. El aislamiento debe ser extremadamente dif&amp;#237;cil de soportar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a ver c&amp;#243;mo est&amp;#225;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="13">&amp;#191;Lethar te env&amp;#237;a a ver c&amp;#243;mo estoy? &amp;#191;De verdad? Qu&amp;#233; idiota...&lt;BR&gt;&lt;BR&gt;Parece que la &amp;#250;nica manera que tiene de demostrarle un poco de afecto a los dem&amp;#225;s es haci&amp;#233;ndoles sentir que no tiene ninguna confianza en sus capacidades... Te lo juro...</Page>
+    </Text>
+</QuestDialog>

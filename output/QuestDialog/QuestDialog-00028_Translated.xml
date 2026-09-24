@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="4">&amp;#161;Parece que te gustan los trabajos peligrosos y las recompensas que conllevan, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Date una vuelta por el oeste y caza marchespores {@LinkCreature:2#32#boursoufl&amp;#233;s}, {@LinkCreature:2#22#patauds} y {@LinkCreature:2#23#terrons fougueux}.&lt;BR&gt;&lt;BR&gt;Te dar&amp;#233; un buen precio por los sellos corruptos que encuentres en sus restos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1022">
+        <Page social="4">Sigue as&amp;#237; y terminar&amp;#225;s teniendo el honor de recibir una asignaci&amp;#243;n en Kaiator, en el frente de los Argon, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Puedes sacar pecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1022">
+        <Page social="0">Gu&amp;#225;rdatelo para ti, &lt;PCNAME&gt;, pero cuando las cosas vuelvan a la normalidad, me temo que me aburrir&amp;#233; hasta la muerte.</Page>
+    </Text>
+</QuestDialog>

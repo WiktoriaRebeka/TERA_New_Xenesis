@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="4">Disculpa, soldado, pero necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;Nuestra reserva de mineral de fyrdras est&amp;#225; disminuyendo peligrosamente. Estar&amp;#237;a dispuesto a pagar generosamente a cualquiera que me traiga un poco. En esta batalla, necesitamos el mejor equipo posible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1021">
+        <Page social="4">Los herreros de la Federaci&amp;#243;n har&amp;#225;n un buen uso de este mineral de fyrdras. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1021">
+        <Page social="0">Se puede encontrar mineral de fyrdras alrededor de los charcos de fuego. Busca por ese lado.</Page>
+    </Text>
+</QuestDialog>

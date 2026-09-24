@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">En la parte sur de la caverna, en los Halls des Ombres, unos {@LinkCreature:20#30048000#esclaves mains d'enclume} y unos {@LinkCreature:20#30048001#esclaves &amp;#233;crase-pierre} bloquean el paso hacia la parte central de los Halls des t&amp;#233;n&amp;#232;bres. Debemos despejar un paso.&lt;BR&gt;&lt;BR&gt;Ve a ver qu&amp;#233; puedes hacer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Oh, magn&amp;#237;fico... Ahora podremos hacer circular el suministro.</Page>
+    </Text>
+</QuestDialog>

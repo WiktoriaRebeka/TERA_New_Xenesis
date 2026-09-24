@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1010">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;Seguiste el rastro de Rahto, el l&amp;#237;der Orkan, y lo venciste. Le diste el coraz&amp;#243;n rojo de Rahto a Arin para que fuera destruido definitivamente.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;&amp;#161;Acabo de ver a un orkan gigante subir por la colina hacia el este y a uno de los nuestros sigui&amp;#233;ndolo! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ese gran orkan, debe ser ese Rahto que buscas. Pero no es el &amp;#250;nico orkan por los alrededores. As&amp;#237; que tendr&amp;#225;s que abrirte paso luchando hasta llegar a &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Oh, eres t&amp;#250;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Yo... Me temo que he fracasado. &amp;#161;No era Rahto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me lanc&amp;#233; en cuerpo y alma a la batalla y no era Rahto! &amp;#161;Y ahora ya no me quedan recursos para el verdadero combate!&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldici&amp;#243;n! Ten&amp;#237;a muchas ganas de derrotar a Rahto con mis propias manos...&lt;NEXTPAGEBUTTON&gt;"Has hecho todo lo que has podido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yo... te doy las gracias.&lt;BR&gt;&lt;BR&gt;Pero ahora estoy segura de saber d&amp;#243;nde encontrar a Rahto. Si sigues este camino en la colina, encontrar&amp;#225;s a un explorador llamado Belgun. &amp;#161;Encontrar&amp;#225;s a Rahto justo despu&amp;#233;s de Belgun!&lt;BR&gt;&lt;BR&gt;&amp;#161;Esc&amp;#250;chame, &lt;PCNAME&gt;! &amp;#161;S&amp;#233; que te trat&amp;#233; como a una novata, pero he visto de lo que eres capaz! Eres capaz de acabar con Rahto.&lt;BR&gt;&lt;BR&gt;Por favor, eres nuestra &amp;#250;nica oportunidad. &amp;#161;Derrota a Rahto y devuelve la paz a Pora Elinu!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Pobre Mirvan. Dio absolutamente todo en su combate contra Rahto y ni siquiera era &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Conozco a los Orkans: Rahto probablemente se est&amp;#233; escondiendo entre los matones.&lt;BR&gt;&lt;BR&gt;Pero no basta con matarlo, tambi&amp;#233;n debes recuperar la piedra que devor&amp;#243;, la fuente de su poder. Si no destruyes esta piedra, caer&amp;#225; en las manos, o mejor dicho, en las fauces de otro y todo volver&amp;#225; a empezar en otra parte.&lt;BR&gt;&lt;BR&gt;Si puedes matar a Rahto y llevarle la piedra a Princesa Arin, ella se encargar&amp;#225; del resto. &amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">As&amp;#237; que esa es la fuente del poder de Rahto... Ya no m&amp;#225;s. &amp;#161;Pora Elinu volver&amp;#225; a ser un para&amp;#237;so terrenal, te lo prometo!&lt;BR&gt;&lt;BR&gt;No s&amp;#233; c&amp;#243;mo agradecerte, &lt;PCNAME&gt;... S&amp;#233; que no es gran cosa comparado con lo que has hecho por nosotros, pero acepta esta muestra de gratitud por haber salvado a Pora Elinu.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1030">
+        <Page social="0">Debes derrotar a Rahto para salvar a Pora Elinu.</Page>
+    </Text>
+</QuestDialog>

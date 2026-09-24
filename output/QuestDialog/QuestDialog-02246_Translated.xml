@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Has preparado un plato y se lo has dado a Melsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">&amp;#161;Aqu&amp;#237; est&amp;#225;s otra vez, &lt;PCNAME&gt;! &amp;#191;De vuelta en el festival de Campagnes en f&amp;#234;te para divertirte un poco m&amp;#225;s?&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as volver m&amp;#225;s tarde? Estoy desbordado: agotamos todas las provisiones de la arena ayer, as&amp;#237; que tengo que preparar mucho m&amp;#225;s hoy.&lt;NEXTPAGEBUTTON&gt;"¿Puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, bueno... &amp;#191;est&amp;#225;s seguro{@g:/e}? En ese caso, &amp;#161;s&amp;#237;! &amp;#161;Con mucho gusto! He o&amp;#237;do que cocinas muy bien, &lt;PCNAME&gt;, &amp;#161;as&amp;#237; que un poco de ayuda ser&amp;#237;a bienvenida!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Por el momento, no necesito nada muy complicado, pero no tengo tiempo de encargarme de ello.&lt;NEXTPAGEBUTTON&gt;"Dígame qué necesita."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Nuestros bocadillos de grano soplado fueron un &amp;#233;xito rotundo ayer. &amp;#191;Qu&amp;#233; tal si preparas otra tanda?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">La ensalada de nabo de los pantanos tambi&amp;#233;n se est&amp;#225; vendiendo muy bien, &amp;#161;as&amp;#237; que tener m&amp;#225;s no vendr&amp;#237;a nada mal!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">El porcino siempre tiene &amp;#233;xito. &amp;#161;Enciende la barbacoa!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">&amp;#161;Oh, este grano soplado est&amp;#225; realmente delicioso! &amp;#161;Es suave y salado en su punto, lo que har&amp;#225; que tambi&amp;#233;n vendamos cerveza de ra&amp;#237;z por pal&amp;#233;s!&lt;BR&gt;&lt;BR&gt;Vamos, &lt;PCNAME&gt;, ya que me has ayudado, acepta esta recompensa. Puedes usarla cuando te plazca.&lt;NEXTPAGEBUTTON&gt;"No fue nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Y no lo olvides: &amp;#161;mant&amp;#233;n la receta a mano y nada podr&amp;#225; salir mal!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">&amp;#161;Has hecho suficiente ensalada de nabo de los pantanos como para alimentar a un batall&amp;#243;n, &lt;PCNAME&gt;! &amp;#161;Excelente trabajo!&lt;BR&gt;&lt;BR&gt;Escucha: ya que me has ayudado, voy a darte esto. Puedes usarlo cuando te plazca.&lt;NEXTPAGEBUTTON&gt;"No fue gran cosa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Ante la m&amp;#225;s m&amp;#237;nima duda, consulta siempre la receta.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">No s&amp;#233; por qu&amp;#233; estas peleas de monstruos le dan a la gente tantas ganas de porcino a la parrilla, &amp;#161;pero con esto tenemos de sobra para saciar su apetito!&lt;BR&gt;&lt;BR&gt;Toma, &lt;PCNAME&gt;, ya que me has ayudado bien, voy a darte esto. Puedes usarlo cuando te plazca.&lt;NEXTPAGEBUTTON&gt;"No fue gran cosa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Ante la menor duda, &amp;#233;chale un vistazo a la receta. &amp;#161;Ese es mi peque&amp;#241;o secreto!</Page>
+    </Text>
+</QuestDialog>

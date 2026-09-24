@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="4">Debo regresar a Chatran, pero no tengo ninguna posibilidad de sobrevivir al viaje. &amp;#161;Hay demasiados Argons!&lt;NEXTPAGEBUTTON&gt;"Estarás bajo mi protección."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Excelente! Tengo muchas ganas de volver al trabajo. Av&amp;#237;same cuando estemos listos para partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" villagerId="30">
+        <Page social="0">&amp;#191;Eres {@gender:pr&amp;#234;t/pr&amp;#234;te}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1034">
+        <Page social="6">Sab&amp;#237;a que cumplir&amp;#237;as tu palabra, &lt;PCNAME&gt;. Gracias.&lt;NEXTPAGEBUTTON&gt;"De nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Por cierto, encontr&amp;#233; una carta. Por todas las palabras sofisticadas que contiene, debe ser de un Baraka. &amp;#191;Crees que podr&amp;#237;as encontrar a su due&amp;#241;o? Si fuera t&amp;#250;, empezar&amp;#237;a a buscar por el lado de {@Rgn:78001}.</Page>
+    </Text>
+</QuestDialog>

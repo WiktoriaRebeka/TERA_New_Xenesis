@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le pediste a Halran que te llevara a la Cantera de Dirana. Te cont&amp;#243; que &amp;#233;l mismo hab&amp;#237;a explorado la regi&amp;#243;n en su juventud. Tras lo cual, te prepar&amp;#243; una poci&amp;#243;n especial destinada a protegerte de los peligros de la Cantera de Dirana.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Hagand no aparece por ninguna parte.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1005">
+        <Page social="4" voiceTypeId="0">A Hagand le gustar&amp;#237;a hablar contigo antes de que te vayas. B&amp;#250;scalo en ese edificio.&lt;NEXTPAGEBUTTON&gt;"Voy a hacerlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Bienvenido. He o&amp;#237;do que has ayudado a nuestros investigadores.&lt;BR&gt;&amp;#191;Por qu&amp;#233; quieres ir a la Cantera de Dirana?&lt;BR&gt;En mi juventud, fui all&amp;#237; para satisfacer mi curiosidad. Pero desde la aparici&amp;#243;n de la muralla negra, el lugar es extremadamente peligroso.&lt;BR&gt;&amp;#161;Le desaconsejo a cualquiera poner un pie all&amp;#237;!&lt;NEXTPAGEBUTTON&gt;"No te preocupes por mí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mmm. &amp;#191;Halran te env&amp;#237;a? Si es as&amp;#237;...&lt;BR&gt;&lt;BR&gt;Esc&amp;#250;chame bien: la &amp;#250;ltima vez que fui a Carri&amp;#232;re de Dirana, estaba bajo el control de los Archidevans y los Parthes.&lt;BR&gt;Us&amp;#233; una poci&amp;#243;n de invisibilidad para pasar desapercibido... y tienes suerte, a&amp;#250;n me queda un poco.&lt;BR&gt;&lt;BR&gt;&amp;#191;La quieres?&lt;NEXTPAGEBUTTON&gt;"¡Sí, por favor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Mmm, no eres del todo invisible. En el mejor de los casos, tienes un ligero tinte verde.&lt;BR&gt;&lt;BR&gt;Como tem&amp;#237;a, a esta poci&amp;#243;n se le ha pasado la fecha de caducidad. Deber&amp;#237;a haberme deshecho de ella hace a&amp;#241;os.&lt;NEXTPAGEBUTTON&gt;"¿No hay forma de preparar una nueva?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Donde hay voluntad, hay un modo.&lt;BR&gt;&lt;BR&gt;Tengo todos los ingredientes aqu&amp;#237;, excepto dos. &amp;#191;Estar&amp;#237;as dispuesto{@g:/e} a tra&amp;#233;rmelos?&lt;BR&gt;&lt;BR&gt;Primero, necesito Ra&amp;#237;z reflectante para confundir a los mirones.&lt;BR&gt;&lt;BR&gt;Segundo, Globos oculares neulosos para evitar miradas indiscretas.&lt;BR&gt;&lt;BR&gt;Se encuentran con bastante facilidad por los alrededores, aunque son un poco dif&amp;#237;ciles de recolectar.&lt;NEXTPAGEBUTTON&gt;"En ese caso, empieza. Te traigo los ingredientes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1004">
+        <Page social="4" voiceTypeId="0">&amp;#191;De vuelta tan pronto? Hace diez a&amp;#241;os, reunir estos ingredientes me tomaba una semana.&lt;BR&gt;&lt;BR&gt;Por suerte, la poci&amp;#243;n casi est&amp;#225; lista. Solo tienes que esperar un instante.&lt;NEXTPAGEBUTTON&gt;"Tómate el tiempo necesario para hacerlo bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1004">
+        <Page social="4" voiceTypeId="0">&amp;#161;Toma! Y ahora, esc&amp;#250;chame bien.&lt;BR&gt;&lt;BR&gt;Para que funcione, debes tomar esta poci&amp;#243;n en lugares muy espec&amp;#237;ficos.&lt;BR&gt;Espera a estar en Carri&amp;#232;re de Dirana para consumirla. Debes asegurarte de que nadie te la robe.&lt;BR&gt;Lo mejor que puedes hacer es beber la poci&amp;#243;n en la entrada de Carri&amp;#232;re de Dirana.&lt;BR&gt;&lt;BR&gt;El efecto no dura para siempre, as&amp;#237; que date prisa en recoger las piedras espacio-temporales.&lt;NEXTPAGEBUTTON&gt;"Entendido. Muchas gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

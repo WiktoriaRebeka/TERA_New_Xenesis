@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">La plataforma de teletransporte nos ha permitido estudiar a los argons sin hacernos notar. Te explicar&amp;#233; c&amp;#243;mo usarla.&lt;NEXTPAGEBUTTON&gt;"¿Una plataforma de teletransporte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Te acuerdas de Pegaso? Es algo similar.&lt;BR&gt;&lt;BR&gt;Las plataformas de teletransporte funcionan con {@RawItem:206811}. Es f&amp;#225;cil de encontrar. El &amp;#250;nico problema es que no hay ning&amp;#250;n yacimiento cerca.&lt;BR&gt;&lt;BR&gt;Consigue {@RawItem:206811} en {@Rgn:49002}. &amp;#191;Espero que sepas c&amp;#243;mo llegar a {@Rgn:76001}?&lt;NEXTPAGEBUTTON&gt;"Es menos complicado de lo que parece."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No es tan complicado como parece. Pru&amp;#233;bala por ti mismo y enseguida le pillar&amp;#225;s el truco.&lt;BR&gt;&lt;BR&gt;Empieza por buscar {@LinkCreature:249#1101}. Te esperar&amp;#233; all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Sal del pueblo y avanza hacia el sur. Te la encontrar&amp;#225;s seguro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Perfecto. La has encontrado.&lt;BR&gt;&lt;BR&gt;Al sur de aqu&amp;#237; se encuentra {@Rgn:49002}. Los argons recogen piedras m&amp;#225;gicas all&amp;#237;. El {@Collection:106} que hay contiene {@RawItem:206811}, que debes conseguir antes de poder usar la plataforma.&lt;BR&gt;&lt;BR&gt;Ven a verme cuando quieras aprender la habilidad de miner&amp;#237;a.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">Usa {@RawItem:206811} para activar la plataforma de teletransporte.&lt;BR&gt;&lt;BR&gt;As&amp;#237; podr&amp;#225;s regresar a {@Rgn:76001}.&lt;BR&gt;&lt;BR&gt;Yo ya me pongo en marcha.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">Usa un pico para conseguir {@RawItem:206811}. &amp;#191;Tienes uno?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">&amp;#161;Buen trabajo! Ya sabes c&amp;#243;mo funcionan las plataformas de teletransporte.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;n todas conectadas entre s&amp;#237;. Solo necesitas {@RawItem:206811} para viajar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pronto no podr&amp;#225;s vivir sin ellas!</Page>
+    </Text>
+</QuestDialog>

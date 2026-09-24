@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(Has recibido una carta de Dougal.&lt;BR&gt;&lt;BR&gt;Para mejorar el equipo de nuestras tropas, invitamos a todos los soldados a venir a encantar sus armas. Todos est&amp;#225;n convocados en {@Rgn:63009} de {@Rgn:63001}, donde se les entregar&amp;#225; lo necesario.&lt;BR&gt;&lt;BR&gt;- {@linkcreature:63#1160})</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">Un recluta de tu talla sabe lo importante que es armarse adecuadamente, pero a veces es m&amp;#225;s interesante encantar un arma que venderla para comprar una nueva.&lt;BR&gt;&lt;BR&gt;Para saber m&amp;#225;s, ve a hablar con {@linkcreature:63#1605} en el Taller de Creaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;No olvides el alkahest. Deber&amp;#237;as comprar alkahest de rango 3 antes de ir a verlo. Se puede encontrar con Mukhem, en el Callej&amp;#243;n Boreas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Dougal me dijo que esperara tu visita. &amp;#161;Ya huelo el alkahest desde aqu&amp;#237;; as&amp;#237; que podremos ponernos manos a la obra.&lt;BR&gt;&lt;BR&gt;{@gender:Pr&amp;#234;t/Pr&amp;#234;te} listo para aprender todo sobre el encanto de equipo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1605">
+        <Page social="0">Ah, eres la persona de la que hablaba {@creature:63#1160}. &amp;#191;No llevas &lt;B&gt;alkahest&lt;/b&gt; encima? Qu&amp;#233; fastidio.&lt;BR&gt;Necesito &lt;B&gt;alkahest&lt;/b&gt;, sin &amp;#233;l no puedo trabajar. Puedes comprarlo con los mercaderes del &amp;#193;gora. Para ello, acude a {@linkcreature:63#1103}. Adem&amp;#225;s, no es muy costoso.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Los nagas vigilan la galer&amp;#237;a norte en el segundo piso del templo.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:42#220#z&amp;#233;lotes nagas}, a los {@LinkCreature:42#230#templiers dagonites}, a los {@LinkCreature:42#320#soldats nagas}, a los {@LinkCreature:42#1010#z&amp;#233;lotes mekonaris} y a los {@LinkCreature:42#1020#saigneurs mekonaris}.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a la coordinadora Glasrinne.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="0">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

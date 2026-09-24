@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Los argons avanzan en oleadas desde {@Rgn:48005$$Forteresse de Valgurati} y est&amp;#225;n aplastando literalmente a nuestras tropas.&lt;BR&gt;&lt;BR&gt;Quisiera que te dirijas al lugar. Ve a ver a {@LinkCreature:248#3010#Orveras} e intenta ponerle trabas a estos argons.&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s eso nos d&amp;#233; la oportunidad de contraatacar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">Atacamos a estos malditos argons desde aqu&amp;#237;. Y luego observamos y descubrimos ciertas cosas.&lt;NEXTPAGEBUTTON&gt;"¿Qué has aprendido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Si eliminas a los {@LinkCreature:48#6#batteurs vulnaqs} o a los {@LinkCreature:48#400#transporteurs zolnajs}, los argons no podr&amp;#225;n remediar esta carencia por un tiempo.&lt;BR&gt;&lt;BR&gt;Su aptitud para enviarnos asesinos de manera constante es uno de sus puntos fuertes. Interrumpir este flujo parece ser una soluci&amp;#243;n muy pertinente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">&amp;#161;Ja! &amp;#161;Qu&amp;#233; bien se siente saber que lo que uno ha hecho ha servido para algo!&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; a hacer un informe a la Fortaleza de Zulfikar. &amp;#161;Larga vida al Shariar!</Page>
+    </Text>
+</QuestDialog>

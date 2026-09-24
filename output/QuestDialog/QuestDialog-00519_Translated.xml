@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Por primera vez en meses, tenemos la impresi&amp;#243;n de retomar el control de la situaci&amp;#243;n. Ahora es el momento de planear el contraataque.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; hacen todav&amp;#237;a aqu&amp;#237;? No tengo nada mejor, as&amp;#237; que servir&amp;#225;n... Tengo aqu&amp;#237; un documento que los pone bajo las &amp;#243;rdenes de {@LinkCreature:218#1009#Chenast}, quien los espera en la Arena de los Inspirados. &amp;#161;En marcha!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">&amp;#191;Los env&amp;#237;a Anaka? Mmh...&lt;BR&gt;&lt;BR&gt;Bueno, muy bien... Tengo trabajo para ustedes. Los {@LinkCreature:18#19#avant-gardes de Lok} y los {@LinkCreature:18#23#ma&amp;#238;tres de Lok} se est&amp;#225;n preparando para una especie de ritual.&lt;BR&gt;&lt;BR&gt;Det&amp;#233;nganlos antes de que lleven a cabo su empresa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1009">
+        <Page social="4">&amp;#161;Son... son... cabezas!.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vaya! Eso le va a encantar a Anaka. Le encanta decorar con cosas que pertenecen a los cultistas. Piensa que los intimida. Tal vez tenga raz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Como sea, dejen todo eso por aqu&amp;#237;. Gracias.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1009">
+        <Page social="0">Si siguen holgazaneando, van a tener tiempo de realizar su ritual. Tienen que ir a encargarse de los {@LinkCreature:18#21#fendeur de cr&amp;#226;ne} y de los {@LinkCreature:18#22#pr&amp;#234;tres} de Lok.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="4">Esos {@LinkCreature:13#300541#ramperocs} devoran las reliquias que encuentran.&lt;BR&gt;&lt;BR&gt;Cada vez que uno destruye una, Eria se pone a gritar. Por el bien de nuestros t&amp;#237;mpanos, &amp;#191;podr&amp;#237;as recuperarles algunos fragmentos de reliquia antes de que se pierdan para siempre?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1128">
+        <Page social="4">Eso deber&amp;#237;a bastar por ahora. Vi a Eria observ&amp;#225;ndote oculta tras un pilar mientras combat&amp;#237;as... &amp;#161;Creo que te admira much&amp;#237;simo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1128">
+        <Page social="0">Se va a necesitar m&amp;#225;s que promesas para calmar a esta mujer. Creo que Lian debi&amp;#243; taparse las orejas con cera para soportar los gritos de Eria.&lt;BR&gt;&lt;BR&gt;Por favor, &lt;PCNAME&gt;, te lo imploro. &amp;#161;Ayuda a un pobre soldado y encuentra una soluci&amp;#243;n a mi problema!</Page>
+    </Text>
+</QuestDialog>

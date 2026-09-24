@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="1" voiceTypeId="0">La cerveza estaba deliciosa.&lt;BR&gt;Pero resulta que los aldeanos se enteraron.&lt;BR&gt;Todos los que no pudieron probarla est&amp;#225;n decepcionados.&lt;BR&gt;&lt;BR&gt;Por eso Jaedon y yo queremos darles una sorpresa. &amp;#191;Quieres ayudarme una vez m&amp;#225;s?&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Gracias!&lt;BR&gt;Para poder satisfacer a tanta gente, de verdad necesitamos un pez muy grande.&lt;BR&gt;&lt;BR&gt;Pues bien, las aguas del Lac de Celsian albergan a un bicho impresionante que mide 3 metros.&lt;BR&gt;Es un salm&amp;#243;n de la regencia de escamas coloridas y brillantes.&lt;BR&gt;Deber&amp;#237;a bastar para alimentar a todos.&lt;BR&gt;&amp;#191;Podr&amp;#237;as capturarlo por m&amp;#237;?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Atrapaste al bicho impresionante del Lac de Celsian para que los aldeanos pudieran comer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">&amp;#161;Perfecto! A eso se le llama un pez gigante.&lt;BR&gt;&amp;#161;Gracias!&lt;BR&gt;Voy a reunir a los aldeanos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">&amp;#191;Has atrapado el salm&amp;#243;n de la regencia?&lt;BR&gt;Debes capturar a los bichos impresionantes en persona.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Tienes toda mi gratitud.&lt;BR&gt;Gracias a ti, todos los aldeanos pudieron comer juntos.&lt;BR&gt;Tambi&amp;#233;n tengo algo para ti, &lt;PCNAME&gt;.&lt;BR&gt;Y por supuesto, una recompensa de la federaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="4">Parlan me pidi&amp;#243; que lo ayudara en sus investigaciones, pero mucho me temo que ha perdido un poco la cabeza. Necesita ra&amp;#237;ces de ghilliedhus, &amp;#161;y es a M&amp;#205; a quien le pidi&amp;#243; que fuera a buscarlas!&lt;BR&gt;&lt;BR&gt;Apenas tengo fuerzas para arrancar malas hierbas en un jard&amp;#237;n, &amp;#191;y se supone que debo ir a combatir especies de &amp;#225;rboles ambulantes monstruosos? &amp;#191;Podr&amp;#237;as ir al norte del Valle de la Bestia a recuperar ra&amp;#237;ces de {@LinkCreature:3#3#ghilliedhus moussus}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#161;Me salvaste la vida, &lt;PCNAME&gt;&amp;nbsp;!&lt;BR&gt;&lt;BR&gt;Es exactamente lo que Parlan necesitaba. &amp;#191;Podr&amp;#237;as llev&amp;#225;rselo? Debo terminar mi estudio de la flora local.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1001">
+        <Page social="0">Parlan solo se interesa en las ra&amp;#237;ces de {@LinkCreature:3#3#ghilliedhus moussus}. No creo que podamos enga&amp;#241;arlo present&amp;#225;ndole otra cosa.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1009">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;&amp;nbsp;! Qu&amp;#233; bueno verte de nuevo. &amp;#191;Me trajiste ra&amp;#237;ces de ghilliedhus? &amp;#161;Perfecto!&lt;BR&gt;&lt;BR&gt;Las necesitaba para preparar mi elixir. Este lugar es peligroso, y uno no siempre tiene la suerte de cruzarse con un Priest o un Mystic capaz de auxiliar a las v&amp;#237;ctimas. &amp;#161;Un elixir capaz de solucionar este problema ser&amp;#237;a una bendici&amp;#243;n para la Valkyon Federation Headquarters!</Page>
+    </Text>
+</QuestDialog>

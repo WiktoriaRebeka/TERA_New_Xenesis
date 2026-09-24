@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="59" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1015">
+        <Page social="4">En tiempos de paz, condenar&amp;#237;amos este puente y construir&amp;#237;a uno nuevo. Este tipo de chapuza va a terminar con alguien ahogado, si sabes a lo que me refiero.&lt;BR&gt;&lt;BR&gt;Pero intenta explicarle eso a mis jefes. Hablando de eso...&lt;BR&gt;&lt;BR&gt;Los &lt;BR&gt; robaron el material que necesitaba para reforzar la estructura del puente... y probablemente lo hayan da&amp;#241;ado. &amp;#191;Podr&amp;#237;as ir a recuperar las {@LinkCreature:2#3#centaures}piezas del puente&lt;b&gt; antes de devolv&amp;#233;rselas a Niklas, el capataz del Campamento de la Vall&amp;#233;e Faevine? &amp;#201;l sabr&amp;#225; qu&amp;#233; hacer, y prefiero evitar hablar con Balter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1010">
+        <Page social="4">&amp;#191;C&amp;#243;mo se las arreglaron los centauros para robar eso? &amp;#191;Siravon segu&amp;#237;a so&amp;#241;ando despierto en vez de vigilar su equipo?&lt;BR&gt;&lt;BR&gt;En fin, a pregunta ret&amp;#243;rica, respuesta ret&amp;#243;rica: Siravon es un completo in&amp;#250;til.&lt;BR&gt;&lt;BR&gt;Bueno, supongo que tendr&amp;#233; que arreglar todo esto. Por cierto, &amp;#191;te he dicho todo lo que pienso de Siravon?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1010">
+        <Page social="0">&amp;#161;Los {@LinkCreature:2#3#centaures} y sus amigas las hadas est&amp;#225;n descontrolados! &amp;#161;Nunca lograremos reparar este puente a este ritmo!</Page>
+    </Text>
+</QuestDialog>

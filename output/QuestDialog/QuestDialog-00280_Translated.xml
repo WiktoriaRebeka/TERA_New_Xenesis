@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="4">&amp;#161;Maldito sea el tiempo! Una tormenta de lo m&amp;#225;s tonta pero implacable hundi&amp;#243; mi barco y dispers&amp;#243; mi carga.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos poder recuperar algunas de las cajas de armas que encallaron en la Plage de la Tortue dragon. &amp;#191;Podr&amp;#237;as ir a rescatar esos vestigios?&lt;BR&gt;&lt;BR&gt;Bueno... &quot;vestigios&quot; quiz&amp;#225;s sea un poco pretencioso para unas simples cajas de madera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">Extra&amp;#241;o el barco, pero al menos puedo vender su cargamento, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">No puedes perd&amp;#233;rtelas. Especies de ba&amp;#250;les llenos de armas... en la playa.</Page>
+    </Text>
+</QuestDialog>

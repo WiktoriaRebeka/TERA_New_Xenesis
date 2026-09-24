@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion te dio una informaci&amp;#243;n crucial: la manera de adentrarte en la Torre de &amp;#201;bano, la fortaleza de Thulsa. Pero para ello necesitabas conseguir una llave: una gema que pertenec&amp;#237;a a Killian, el dios del caos. Elion y Jelena te acompa&amp;#241;aron al Laberinto del Terror, la morada de Killian. All&amp;#237;, Elion se interpuso para protegerte de un hechizo lanzado contra ti... poniendo su vida en peligro...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">{@gender:Cher/Ch&amp;#232;re} &lt;PCNAME&gt;... parece que vamos a tener que luchar codo con codo una vez m&amp;#225;s. Thulsa y Killian despertaron a Kelsaik, pero impediste que tomaran el control de la criatura.&lt;BR&gt;&lt;BR&gt;Kelsaik no debe de estar muy lejos de Thulsa... Es preocupante, pero por otro lado, nos brinda una gran oportunidad. Jelena y yo sabemos d&amp;#243;nde se oculta Thulsa: est&amp;#225; escondido en el Valle de las Agujas, en Lorcada.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos hablar de todo esto en persona. Te ver&amp;#233; en el taller del herrero.&lt;BR&gt;&lt;BR&gt;Atentamente: Elion</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5002">
+        <Page social="4" voiceTypeId="0">&amp;#161;Cu&amp;#225;nto tiempo, &lt;PCNAME&gt;.&lt;BR&gt;Thulsa... Killian... y Kelsaik. Te has vuelto a meter en un asunto muy peliagudo.&lt;BR&gt;Estoy aqu&amp;#237; para ayudarte.&lt;BR&gt;&lt;BR&gt;La Torre de &amp;#201;bano...&lt;BR&gt;Esa es la torre que apareci&amp;#243; un buen d&amp;#237;a en el Valle de las Agujas, al norte de Shara. Estoy seguro de que Thulsa se encuentra all&amp;#237;. Pero Thulsa ha sellado la Torre de &amp;#201;bano.&lt;NEXTPAGEBUTTON&gt;"¿Y qué hacemos ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Necesitamos la gema incrustada en el B&amp;#226;ton de Killian. Sin ella, no podremos entrar en la Tour d'&amp;#233;b&amp;#232;ne. Si no eliminamos a Killian, tampoco podremos vencer a Thulsa y Kelsaik.&lt;BR&gt;&lt;BR&gt;&amp;#161;Adem&amp;#225;s, todav&amp;#237;a tengo cuentas pendientes con Thulsa! &lt;BR&gt;Ay&amp;#250;dame a eliminar a Killian y Thulsa.&lt;BR&gt;Killian se encuentra en el Labyrinthe de la terreur. &lt;BR&gt;Te llevar&amp;#233; all&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1105">
+        <Page social="1" voiceTypeId="0">Acabamos de romper el sello. &lt;BR&gt;Jelena ya se ha puesto en marcha. &lt;BR&gt;Deber&amp;#237;amos irnos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3008" prevId="4" villagerId="1019">
+        <Page social="1" voiceTypeId="0">Voy a traer de vuelta a &amp;#201;lion.&lt;BR&gt;Me disculpo por no poder ayudarte. &lt;BR&gt;Pero no puedo abandonar a &amp;#201;lion.&lt;NEXTPAGEBUTTON&gt;"Lo entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Lo vas a lograr. No me cabe duda. &lt;BR&gt;Te esperar&amp;#233; en Habere.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3008" prevId="5" villagerId="1500">
+        <Page social="1" voiceTypeId="0">(Esta frase es muy extra&amp;#241;a: &quot;Que aquel que haya encontrado este lugar encuentre el &amp;#233;xtasis en los gritos de dolor&quot;).</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3008" prevId="6" villagerId="1021">
+        <Page social="1" voiceTypeId="0">Has extra&amp;#237;do la gema del b&amp;#225;culo de Killian que da acceso a la Tour d'&amp;#201;b&amp;#232;ne.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1103">
+        <Page social="1" voiceTypeId="0">As&amp;#237; que lo lograste, &lt;PCNAME&gt;... &lt;BR&gt;&lt;BR&gt;&amp;#201;lion est&amp;#225; en estado cr&amp;#237;tico. Nuestros sanadores no saben si lograr&amp;#225; recuperarse. &lt;BR&gt;&lt;BR&gt;Tal vez sea un poco ego&amp;#237;sta, pero me gustar&amp;#237;a quedarme a su lado. Podr&amp;#237;a hacer algo por &amp;#233;l, tal vez. &lt;BR&gt;&lt;BR&gt;Me niego a abandonarlo...&lt;NEXTPAGEBUTTON&gt;"Lo entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Perd&amp;#243;neme, &lt;PCNAME&gt;. Ahora le corresponde a usted eliminar a Kelsaik.&lt;BR&gt;&lt;BR&gt;Creo en usted.&lt;BR&gt;Que la bendici&amp;#243;n de la diosa Kaia lo acompa&amp;#241;e.</Page>
+    </Text>
+</QuestDialog>

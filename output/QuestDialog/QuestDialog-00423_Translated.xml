@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="78" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0">Dulari y su equipo te han ense&amp;#241;ado a ejercer nuevas habilidades.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Seguramente ya te has dado cuenta de los peligros de esta isla. Los ghilliedhus, las estructuras que hay al sur, los problemas de... en fin, en resumen, si quieres sernos &amp;#250;til, tendr&amp;#225;s que aprender a sobrevivir.&lt;BR&gt;&lt;BR&gt;Hacer de esta isla un lugar seguro para los investigadores es nuestra m&amp;#225;xima prioridad. &lt;font color='#660000'&gt;Volis&lt;/font&gt; te ense&amp;#241;ar&amp;#225; a progresar en tu arte, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1024">
+        <Page social="4">Quienes tienen sed de conocimiento hacen bien en acudir a Volis, hijo de Karas. Cuando est&amp;#233;s listo{@g:/e} para aprender una nueva habilidad, el &amp;#237;cono de la barra de habilidades se actualizar&amp;#225;. Abre entonces tu &lt;font color='#660000'&gt;Ventana de habilidades (K)&lt;/font&gt; para seleccionar tu nuevo poder o visita a un maestro o instructor de la Federaci&amp;#243;n y selecciona &lt;font color='#660000'&gt;Aprender habilidades&lt;/font&gt;. &lt;BR&gt;&lt;BR&gt;Por ahora, un &lt;PCCLASS:lcase&gt; determinado debe concentrarse en &lt;font color='#660000'&gt;Golpe de metamorfosis I&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1024">
+        <Page social="4">Ya sabes c&amp;#243;mo aprender una nueva habilidad, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Toma a tus enemigos por sorpresa con el &quot;Golpe de metamorfosis&quot; y los esparcir&amp;#225;s a los cuatro vientos. Se trata de una habilidad principal de tu clase.&lt;BR&gt;&lt;BR&gt;La &lt;b&gt;r&amp;#233;g&amp;#233;n&amp;#233;ration de mana&lt;/b&gt; te provee MP y, por lo tanto, deber&amp;#237;as aprender a dominar bien esta habilidad.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1017">
+        <Page social="4">Has aprendido Golpe de metamorfosis, &amp;#191;pero sabes usarlo?&lt;BR&gt;&lt;BR&gt;Probablemente hayas notado los numerosos {@linkcreature:13#300921#noruks} que pueblan los alrededores. Elimina a unos cuantos dirigi&amp;#233;ndote hacia el sur y habla con Nivek, al pie de la colina.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1115">
+        <Page social="4">Mmm, estas pieles son... asquerosas, para ser honesto. Pero, ya que pareces tener cierto talento, &amp;#161;tal vez puedas ayudarnos con otras tareas. &amp;#161;Buen trabajo, recluta!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="213" villagerId="1115">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

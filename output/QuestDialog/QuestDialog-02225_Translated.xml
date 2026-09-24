@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Ayudaste al clan Consos a mantener el templo en buenas condiciones.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">El clan Consos te estar&amp;#225; muy agradecido si puedes ayudarnos a limpiar el templo.&lt;BR&gt;&lt;BR&gt;Usa el teletransporte para entrar al s&amp;#243;tano del templo y habla con Davor.&lt;NEXTPAGEBUTTON&gt;"Estaré encantado de ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Qu&amp;#233; bueno verte, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Los holgazanes son especialmente molestos en este momento. &amp;#191;Podr&amp;#237;as limpiar parte del desorden que hicieron en el s&amp;#243;tano del templo?&lt;BR&gt;&lt;BR&gt;Si se resisten, no dudes en usar el aut&amp;#243;mata PEST-B-GON 8000.&lt;NEXTPAGEBUTTON&gt;"Alguien tiene que encargarse de esto..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Un recipiente para la basura.&lt;NEXTPAGEBUTTON&gt;Depositar la basura.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">Un recipiente para la basura.&lt;NEXTPAGEBUTTON&gt;Depositar la basura.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="7000">
+        <Page social="4">Muchas gracias, &lt;PCNAME&gt;. Por favor, acepta este regalo como muestra de agradecimiento</Page>
+    </Text>
+</QuestDialog>

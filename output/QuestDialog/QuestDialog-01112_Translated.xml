@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Mu&amp;#233;strale estas plumas a {@LinkCreature:242#1034#Penucha}. &amp;#201;l deber&amp;#237;a poder determinar si en verdad pertenecen a un mekonari.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1034">
+        <Page social="5">S&amp;#237;, estas son plumas de mekonari. Pero no tienen nada de com&amp;#250;n. Son plumas marcadas de la punta del ala, de las que intercambian cuando hacen un juramento.&lt;BR&gt;&lt;BR&gt;Si encontraste estas plumas aqu&amp;#237;, quiz&amp;#225;s significa que los mekonaris le han jurado lealtad a alguien en este lugar, probablemente a los nagas que llevaban estas plumas.&lt;BR&gt;&lt;BR&gt;Las grandes preguntas que tendr&amp;#225;s que responder son... &amp;#191;a qui&amp;#233;n? y &amp;#191;por qu&amp;#233;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1006">
+        <Page social="5">As&amp;#237; que los mekonaris tambi&amp;#233;n est&amp;#225;n metidos en esto. Genial. Supongo que no vas a querer ir a matar a otros {@LinkCreature:42#1020#saigneurs mekonaris}... &amp;#191;Y a los {@LinkCreature:42#230#templiers dagonites}? Si encuentras pruebas de su alianza, vuelve a verme de inmediato.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1006">
+        <Page social="4">&amp;#191;Con que esta es la alianza escrita entre los nagas y los mekonaris? Es exactamente el tipo de prueba que esper&amp;#225;bamos encontrar. &amp;#161;Bien hecho, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Expl&amp;#237;cale a Darim, en el tercer piso, todo lo que hemos hablado aqu&amp;#237;. Ese Darim es muy astuto.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1006">
+        <Page social="0">&amp;#191;Encontraste lo que busc&amp;#225;bamos? Necesitamos pruebas de la alianza entre los nagas y los mekonaris.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1035">
+        <Page social="5">&amp;#191;Los mekonaris y los nagas? Esto va de mal en peor. Eso explicar&amp;#237;a por qu&amp;#233; los nagas est&amp;#225;n tan audaces &amp;#250;ltimamente.&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame pensar un minuto, voy a idear un plan.</Page>
+    </Text>
+</QuestDialog>

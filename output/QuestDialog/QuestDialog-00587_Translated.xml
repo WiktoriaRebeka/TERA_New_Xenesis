@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">Mand&amp;#233; un explorador a espiar a los fouaille-tripes r&amp;#244;deurs d'escarpement hace dos d&amp;#237;as. Desde entonces, ninguna noticia. Como no tengo otro explorador a la mano, cuento contigo para enviarte al lugar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Sal por la puerta oeste y busca a {@LinkCreature:221#1047#Hebbin}. Si est&amp;#225; viva, que te d&amp;#233; su informe. Si no, &amp;#161;esp&amp;#237;alos t&amp;#250; mismo y ven a traerme tus descubrimientos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">&amp;#191;El capit&amp;#225;n estaba preocupado? &amp;#161;Ah! De hecho, no pod&amp;#237;a moverme sin arriesgarme a que me descubrieran, eso es todo.&lt;BR&gt;&lt;BR&gt;Extra&amp;#241;amente, los triperos no hacen nada en especial. Todo est&amp;#225; extra&amp;#241;amente tranquilo.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">Paesyn intent&amp;#243; redimirse por la captura de Zolyn, pero termin&amp;#243; necesitando rescate &amp;#233;l mismo. Lo calmaste y luego lo ayudaste a llevar los suministros al puesto de avanzada de la Tempestad.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">Paesyn se adelant&amp;#243;. Esa bola de pelos desconcertada no paraba de repetir: &quot;Todo es mi culpa, todo es mi culpa.&quot;&lt;NEXTPAGEBUTTON&gt;"¿Por dónde se fue?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tom&amp;#243; sus llaves inglesas y se precipit&amp;#243; al valle. Al diablo con los dientes de sable. Tal vez se fue a proteger las carretas de suministros.&lt;BR&gt;&lt;BR&gt;Cuida de &amp;#233;l. Es un ingeniero excepcional, pero no est&amp;#225; hecho para el combate.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">&amp;#161;&lt;PCNAME&gt;&amp;nbsp;! Yo... yo quer&amp;#237;a salvarla. Quer&amp;#237;a proteger a Zolyn, pero fall&amp;#233;.&lt;BR&gt;&lt;BR&gt;Mi coraz&amp;#243;n est&amp;#225; lleno de tristeza. No soy un h&amp;#233;roe, solo un manitas de aparatos mec&amp;#225;nicos. Es mi culpa que la hayan capturado.&lt;NEXTPAGEBUTTON&gt;"No, eso no es verdad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Claro que lo es! Ella necesitaba a un h&amp;#233;roe, no a un amigo.&lt;BR&gt;&lt;BR&gt;Pero apuesto a que si nos ponemos a ello juntos, la encontraremos. T&amp;#250; eres fuerte{@g:/e} y yo soy valiente. Bueno, un poco.&lt;BR&gt;&lt;BR&gt;Pongamos estas carretas en marcha y vayamos a buscar a Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">(Hay varios componentes mec&amp;#225;nicos en el interior. Parece que encajar&amp;#237;an bien en una aeronave.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">Gracias por traernos los suministros. Nuestras aeronaves est&amp;#225;n tierra y estamos perdiendo terreno ante los Archidevans.&lt;BR&gt;&lt;BR&gt;Pero ahora estamos listos.</Page>
+    </Text>
+</QuestDialog>

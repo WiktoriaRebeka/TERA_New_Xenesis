@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">Tenemos la oportunidad de aprender m&amp;#225;s sobre los argons... otra burbuja y otra de estas {@Creature:45#7003#aiguilles} fueron descubiertas en el pantano, al noroeste. Ve a investigar de cerca y tr&amp;#225;eme fragmentos de aguja. Los comparar&amp;#233; con los dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Y si te cruzas con el jefe tuwangi argonomorfo, elim&amp;#237;nalo sin dudar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Gracias. &amp;#191;Todo sali&amp;#243; bien?/&lt;NEXTPAGEBUTTON&gt;"Un tuwangi habló... de una intrusión."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Una intrusi&amp;#243;n, y hablando de ti, es eso?&lt;BR&gt;&lt;BR&gt;Estas agujas son probablemente alg&amp;#250;n tipo de dispositivo de alarma. El tipo de tecnolog&amp;#237;a que servir&amp;#237;a mejor a los intereses de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Las agujas est&amp;#225;n bajo la protecci&amp;#243;n de los tuwangis. Espero que la muerte de su jefe sea suficiente para dispersar a los dem&amp;#225;s, de modo que tengamos el camino libre para realizar la investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">Necesito fragmentos de aguja de control provenientes del pantano, al noroeste.</Page>
+    </Text>
+</QuestDialog>

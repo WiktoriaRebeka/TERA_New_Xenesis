@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">&amp;#191;Tienes tiempo para ayudarme, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"¡Sí, tengo tiempo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ve a ver a {@LinkCreature:63#3002#Taratia} si quieres ganar algo de dinero extra hoy.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#191;Quieres ir a buscarme materiales de artesan&amp;#237;a? Veo que te mueres de ganas...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y dale mis saludos a {@linkcreature:63#3002#Taratia}.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;Extraer {@RawItem:206818} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y dale mis saludos a {@linkcreature:63#3002#Taratia}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;Extraer {@RawItem:206819} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y dale mis saludos a {@linkcreature:63#3002#Taratia}.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;Extraer {@RawItem:206820} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y dale mis saludos a {@linkcreature:63#3002#Taratia}.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;Extraer {@RawItem:206821} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y dale mis saludos a {@linkcreature:63#3002#Taratia}.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;&lt;BR&gt;Extraer {@RawItem:206822} no es nada f&amp;#225;cil, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">&lt;BR&gt;&amp;#161;Hiciste un trabajo excelente!&lt;BR&gt;&lt;BR&gt;Perdona que te haya encargado una tarea tan dif&amp;#237;cil.</Page>
+    </Text>
+</QuestDialog>

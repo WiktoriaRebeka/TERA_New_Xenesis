@@ -1,0 +1,87 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Has ayudado en la reconstrucci&amp;#243;n de las localidades de la {@Rgn:47001$$For&amp;#234;t de Tirkai} y has hecho avanzar las investigaciones sobre los argons de Yasring y del Mysterium en la {@Rgn:45001$$Forteresse de la servitude}.&lt;BR&gt;&lt;BR&gt;El investigador Ronalt y t&amp;#250; han ayudado a un mercader de insignias y observado la mutaci&amp;#243;n de la estructura argon en Kelba.&lt;BR&gt;&lt;BR&gt;Ronalt luego intent&amp;#243; preparar una poci&amp;#243;n de desargonificaci&amp;#243;n, pero fracas&amp;#243;. Yasring parti&amp;#243; para estudiar las Tres Torres.&lt;BR&gt;&lt;BR&gt;Al mismo tiempo, te enteraste de que se descubri&amp;#243; la ubicaci&amp;#243;n del n&amp;#250;cleo y, por lo tanto, regresaste a Allemantheia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Carta del Mysterium]&lt;BR&gt;&lt;BR&gt;Remitente: {@linkcreature:72#1111#Ryshan}&lt;BR&gt;&lt;BR&gt;Debo hablar de un asunto importante contigo. Ven al cuartel general del Mysterium en {@Rgn:72001$$Allemantheia} en cuanto tengas tiempo. Debo entregarte algo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate lo antes posible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="4" voiceTypeId="0">Malachai... No, Thulsa intercept&amp;#243; los resultados de las investigaciones. Est&amp;#225; apa&amp;#241;ado con los argons y enga&amp;#241;&amp;#243; al Mysterium.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de que el reino de los dioses fuera condenado, Thulsa, muy debilitado, intent&amp;#243; recuperar el poder de los dioses.&lt;BR&gt;&lt;BR&gt;Por suerte, los investigadores del norte de Shara pudieron hacerse con sus documentos de investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Desde entonces, la investigaci&amp;#243;n sobre los argons progresa a grandes pasos.&lt;NEXTPAGEBUTTON&gt;«¡Qué suerte!»&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Te acuerdas de la Mystique {@linkcreature:247#2002#Yasring}?&lt;BR&gt;&lt;BR&gt;Ciertamente no forma parte del Mysterium,&lt;BR&gt;pero nos es de gran ayuda para las investigaciones sobre los argons.&lt;BR&gt;&lt;BR&gt;Nos entreg&amp;#243; muestras de argon encontradas en la {@Rgn:45001$$Forteresse de la servitude}. Junto con una carta para ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="3" villagerId="1022">
+        <Page social="4" voiceTypeId="0">&amp;#191;Yasring?&lt;BR&gt;Vino a buscar algunos reactivos y luego volvi&amp;#243; a partir para observar una construcci&amp;#243;n argon. No est&amp;#225; muy lejos de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="4" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt;. &amp;#161;Recibiste mi carta!&lt;BR&gt;Gracias por tu amable ayuda.&lt;BR&gt;&lt;BR&gt;Me alegra mucho volver a verte. Los trabajos de purificaci&amp;#243;n tras la retirada de los argons avanzan con lentitud pero con paso firme.&lt;BR&gt;&lt;BR&gt;Sin embargo, el comportamiento de los argons es bastante extra&amp;#241;o.&lt;NEXTPAGEBUTTON&gt;"¿Todo va bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Por mi parte, s&amp;#237;, todo va bien. Me gustar&amp;#237;a que este lugar recuperara su antiguo esplendor. Ah, y he aprendido todo tipo de cosas sobre esta estructura argon.&lt;BR&gt;&lt;BR&gt;Como para despertar a Elin et y hacerla romper a llorar.&lt;BR&gt;&lt;BR&gt;Tom&amp;#233; algunas notas para {@linkcreature:245#2002#Mitiel}. &amp;#201;l ya ha estudiado bastante los vestigios del paso de los argons. &amp;#191;Podr&amp;#237;as ir a entregarle mis notas?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="5" villagerId="2002">
+        <Page social="4" voiceTypeId="0">Saludos. Me llamo {@linkcreature:245#2002#Mitiel}. El Mysterium me encomend&amp;#243; estudiar los rastros de los argons. &amp;#191;Necesitas algo?&lt;NEXTPAGEBUTTON&gt;"Yasring te envía esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Yasring...&lt;BR&gt;Entonces, estos edificios no son estructuras ordinarias.&lt;BR&gt;Te agradezco esta informaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos reforzar la vigilancia de las estructuras argon. Todav&amp;#237;a no sabemos para qu&amp;#233; sirven.&lt;BR&gt;&lt;BR&gt;Pero la situaci&amp;#243;n actual no es muy halag&amp;#252;e&amp;#241;a.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarnos antes de marcharte?&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ay&amp;#250;danos con nuestras investigaciones.&lt;BR&gt;Ve a hablar con el investigador {@linkcreature:245#2003#Ronalt}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="6" villagerId="2003">
+        <Page social="4" voiceTypeId="0">Mmm, tu cara no me suena de nada.&lt;BR&gt;Ah, &amp;#191;te env&amp;#237;a {@linkcreature:245#2002#Mitiel}? Por mucho que trabajemos codo con codo, todav&amp;#237;a no hemos descubierto gran cosa sobre los argons.&lt;BR&gt;&lt;BR&gt;Por desgracia, los comerciantes de insignias son m&amp;#225;s r&amp;#225;pidos que nosotros. Sin duda, ellos tambi&amp;#233;n buscan recuperar los fragmentos de los argons. Ve a hablar con {@linkcreature:245#2004#Kupan} para saber m&amp;#225;s.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="7" villagerId="2004">
+        <Page social="4" voiceTypeId="0">Exacto. &amp;#161;Los comerciantes de insignias pueden conseguirte de todo, desde nueces hasta sopa y lo que sea! &amp;#161;Definitivamente, tengo un hambre voraz!&lt;BR&gt;&lt;BR&gt;Espero una entrega de piezas de armadura, pero lleva mucho retraso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as vigilar la entrega en el punto de encuentro? Churimon probablemente la est&amp;#233; escoltando.&lt;BR&gt;Solo ir&amp;#233; a comer un bocado r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="2005">
+        <Page social="9" voiceTypeId="0">&amp;#191;Te env&amp;#237;a {@linkcreature:245#2004#Kupan}? &amp;#161;Estamos salvados! Nuestra rueda trasera se atasc&amp;#243; y, cuando vi monstruos, sal&amp;#237; corriendo a toda velocidad.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as echarle un vistazo a nuestro carro, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Aparentemente, algo se ha metido en la rueda.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="2012">
+        <Page social="0" voiceTypeId="0">(Churimon tiene raz&amp;#243;n. La rueda trasera est&amp;#225; atascada.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="2005">
+        <Page social="8" voiceTypeId="0">&amp;#161;Lo lograste! La entrega est&amp;#225; a salvo.&lt;BR&gt;Ve a informarle a {@linkcreaturecreature:245#2004#Kupan} de que su entrega est&amp;#225; en buenas manos.&lt;BR&gt;&lt;BR&gt;Dile que llegaremos pronto.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n me gustar&amp;#237;a invitarte a mi casa, en {@Rgn:45009$$Camp de la folie}. El lugar es un punto de referencia clave para el estudio de los argons.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" prevId="11" villagerId="2009">
+        <Page social="4" voiceTypeId="0">Agradezco de verdad tu ayuda con este asunto del carro. Est&amp;#225;bamos a punto de probar los fragmentos del comerciante de insignias. Puedes vernos hacerlo.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="245" prevId="12" villagerId="2011">
+        <Page social="9" voiceTypeId="0">&amp;#161;Oh, no! &amp;#161;Tenemos nueva informaci&amp;#243;n de los comerciantes! &amp;#161;Tienes que echarle un vistazo!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ven al &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=site de recherche&quot;&gt;sitio de investigaci&amp;#243;n&lt;/A&gt;&lt;/font&gt; con el investigador {@linkcreaturecreature:245#2009#Ronalt}. &amp;#161;El tiempo apremia!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="245" prevId="13" villagerId="2009">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233; est&amp;#225; pasando? Nunca hab&amp;#237;a visto a {@linkcreature:245#2011#Churimon} en un estado as&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Un nuevo sitio de investigaci&amp;#243;n, dices? Eso suena fascinante. Adel&amp;#225;ntate y te alcanzo en el &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=site de recherche&quot;&gt;sitio de investigaci&amp;#243;n&lt;/A&gt;&lt;/font&gt;. Tendr&amp;#233; que posponer las pruebas con los instrumentos de investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="245" prevId="14" villagerId="2010">
+        <Page social="10" voiceTypeId="0">&amp;#161;Esto es una cat&amp;#225;strofe! &amp;#191;Has podido hacer las mismas observaciones? &amp;#161;La estructura argon disidente engendra kelba argons!&lt;BR&gt;&lt;BR&gt;Si mis c&amp;#225;lculos son exactos, est&amp;#225; argonizando todo. &amp;#161;Absolutamente todo!&lt;BR&gt;&lt;BR&gt;Regresa al campamento y recoge algunas &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#813, -53203, -3631&amp;type=1&amp;name=plantes argonis&amp;#233;es&quot;&gt;plantas argonizadas&lt;/A&gt;&lt;/font&gt; en el camino. Tendremos que estudiar este fen&amp;#243;meno a fondo, o si no, todos acabaremos transformados en argons.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="245" prevId="15" villagerId="2009">
+        <Page social="10" voiceTypeId="0">&amp;#161;Tienes los ingredientes! Ahora, activa el aparato.&lt;BR&gt;&lt;BR&gt;Acabo de tener una revelaci&amp;#243;n... Si invertimos la composici&amp;#243;n, tal vez encontremos una cura contra la contaminaci&amp;#243;n argon.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="245" villagerId="2009">
+        <Page social="0">&amp;#161;Plantas argonizadas! &amp;#161;Necesito muestras de inmediato!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="245" prevId="16" villagerId="2009">
+        <Page social="4" voiceTypeId="0">La idea es girar las frecuencias argonom&amp;#243;rficas sobre s&amp;#237; mismas para que se disipen. En teor&amp;#237;a, al menos.&lt;BR&gt;&lt;BR&gt;No es tan complicado como parece.&lt;BR&gt;&lt;BR&gt;Y aqu&amp;#237; est&amp;#225; la poci&amp;#243;n. Prob&amp;#233;mosla en un tuwangi argonizado y veremos qu&amp;#233; pasa.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="18" villagerId="2028">
+        <Page social="1" voiceTypeId="0">(A diferencia de los dem&amp;#225;s argons, este no ataca de inmediato. &amp;#191;Estar&amp;#225; surtiendo efecto el remedio de {@linkcreaturecreature:245#2009#Ronalt}?)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="2009">
+        <Page social="4" voiceTypeId="0">&amp;#191;Qu&amp;#233;? &amp;#191;El argon simplemente muri&amp;#243;?&lt;BR&gt;Entonces, el experimento fracas&amp;#243;.&lt;BR&gt;&lt;BR&gt;Este no es exactamente el resultado esperado. Falta algo, pero &amp;#191;qu&amp;#233;? Lleva estas notas de investigaci&amp;#243;n a {@linkcreaturecreature:245#2002#Mitiel}. Quiz&amp;#225;s &amp;#233;l descubra el error.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="2002">
+        <Page social="4" voiceTypeId="0">Aunque los resultados no cumplan nuestras expectativas, {@linkcreaturecreature:245#2009#Ronalt} iba por buen camino.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as ir a hablar de todo esto con Yasring y Rancien, cerca de las Tres torres.&lt;BR&gt;&lt;BR&gt;Transmite tus preguntas y los resultados de las investigaciones de Ronalt a Rancien.&lt;NEXTPAGEBUTTON&gt;"¿Las Tres torres?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Nos ayuda mucho, pero es demasiado imprudente.&lt;BR&gt;&lt;BR&gt;La regi&amp;#243;n de Three Towers sigue ocupada por los argons y a&amp;#250;n no nos hemos arriesgado a ir ah&amp;#237;. Pero es verdad que el lugar es ideal para estudiar a los argons.&lt;BR&gt;&lt;BR&gt;Si te la cruzas, tr&amp;#225;ela de vuelta al sitio de investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="245" prevId="21" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Le has hecho un gran favor a los investigadores, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;(Yasring te susurra algo.)&lt;BR&gt;&lt;BR&gt;Los argons van y vienen con cargamentos. Estas torres esconden algo.&lt;BR&gt;&lt;BR&gt;Intent&amp;#233; investigar con la mayor discreci&amp;#243;n posible.&lt;BR&gt;&lt;BR&gt;No te preocupes por m&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¡Deberíamos volver. Es demasiado peligroso!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Espera, alguien se acerca!</Page>
+    </Text>
+    <Text id="23" huntingZoneId="245" prevId="22" villagerId="2021">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&amp;#161;Qu&amp;#233; bueno encontrarte!&lt;BR&gt;&lt;BR&gt;El Allemantheia Headquarters te manda llamar.&lt;BR&gt;&lt;BR&gt;Cuando fui a ver a los investigadores del Mysterium, me dijeron que hab&amp;#237;as tomado el camino de {@Rgn:46001$$Trois tours} para encontrar a Yasring.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="245" prevId="23" villagerId="2021">
+        <Page social="5" voiceTypeId="0">No tengo informaci&amp;#243;n, excepto que es urgente. Ve inmediatamente a Allemantheia y busca a la comandante Fraya.&lt;BR&gt;&lt;BR&gt;Yo me encargo de Yasring. Puedo llevarte directamente al cuartel general.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="245" prevId="23" villagerId="2021">
+        <Page social="5" voiceTypeId="0">Gracias. Perm&amp;#237;teme encargarme de la seguridad de Yasring.&lt;BR&gt;&lt;BR&gt;Y no olvides que cuentas con toda la gratitud de la Federaci&amp;#243;n Valkyon.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="72" prevId="23" villagerId="1103">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh, &lt;PCNAME&gt;! La petici&amp;#243;n dAllemantheia Headquarters ha llegado hasta el norte de Shara.&lt;BR&gt;&lt;BR&gt;Adelante. La comandante Fraya ya te est&amp;#225; esperando.</Page>
+    </Text>
+</QuestDialog>

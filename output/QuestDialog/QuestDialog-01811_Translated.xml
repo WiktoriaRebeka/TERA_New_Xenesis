@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="60" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal le pide a &lt;PCNAME&gt; que examine m&amp;#225;s de cerca al monstruoso p&amp;#225;jaro que ha estado causando problemas recientemente.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, tus haza&amp;#241;as siguen grabadas en nuestras memorias. Pero a&amp;#250;n debo pedirte una cosa m&amp;#225;s. Me gustar&amp;#237;a hablar de los detalles en persona. Ven a verme cuando llegues a Highwatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">Gracias por venir. &lt;BR&gt;Hay una misi&amp;#243;n para la cual tu ayuda ser&amp;#237;a indispensable. &amp;#218;ltimamente corre un rumor aterrorizador sobre un gigantesco p&amp;#225;jaro monstruoso.&lt;BR&gt;Por favor, ve a comprobar qu&amp;#233; hay detr&amp;#225;s de esos rumores.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4">Aqu&amp;#237; est&amp;#225;s, &lt;PCNAME&gt;.&lt;BR&gt; ... As&amp;#237; que los rumores sobre el p&amp;#225;jaro monstruoso eran ciertos. Te agradezco por tu excelente trabajo. Definitivamente fue muy agotador. Aqu&amp;#237; tienes una recompensa por completar esta misi&amp;#243;n. Estar&amp;#237;a encantado de que te sea &amp;#250;til.</Page>
+    </Text>
+</QuestDialog>

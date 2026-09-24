@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">Un buen n&amp;#250;mero de {@LinkCreature:13#300932#ghilliedhus cornus} se interponen entre ti y tu objetivo. Demu&amp;#233;strame lo que vales en combate para que sepa c&amp;#243;mo aprovechar tus talentos.&lt;BR&gt;&lt;BR&gt;Vigila sus extremidades... es mejor bloquear o esquivar cuando golpean hacia abajo. Si alguna vez te lesionas o tienes la HP muy baja, ven a descansar junto al fuego o acude a los cl&amp;#233;rigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">Las haza&amp;#241;as logradas hoy nos dan confianza en el futuro. Tus proezas refuerzan la moral de los soldados, &lt;PCNAME&gt;, pero surgen nuevas preguntas...</Page>
+    </Text>
+</QuestDialog>

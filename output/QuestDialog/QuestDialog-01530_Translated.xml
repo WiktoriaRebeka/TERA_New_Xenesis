@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">A menos que tengas un trozo de cuero eldritch enterrado en alguna parte, puedes olvidarte del asunto. No puedo hacer un sombrero de copa sin ese cuero y no se encuentra en cualquier sitio.&lt;NEXTPAGEBUTTON&gt;"Justo tengo uno."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">&amp;#161;Vaya, de verdad tienes uno?&lt;BR&gt;&lt;BR&gt;&amp;#161;Pues en ese caso! &amp;#191;Qu&amp;#233; tocado tan espectacular te ir&amp;#237;a mejor?&lt;NEXTPAGEBUTTON&gt;"Déjame ver tu surtido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Si necesitas cuero eldritch, no tienes suerte. Cr&amp;#233;eme, vende tu piel de sangre y tu piel bruta en el mercado para minimizar las p&amp;#233;rdidas.</Page>
+    </Text>
+</QuestDialog>

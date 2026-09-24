@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="4">Nuestros exploradores informaron sobre la presencia de un nuevo tipo de argons cerca de {@Rgn:49002}. Dicen que estas criaturas se alimentan de fragmentos de iteris... Lo s&amp;#233;, es bastante incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al lugar, mata a los rapaces suulvir y tr&amp;#225;eme los fragmentos que encuentres. Debemos determinar si los argons son capaces de alterar estos fragmentos a voluntad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1023">
+        <Page social="6">Es extra&amp;#241;o. Noto la diferencia, pero no logro explic&amp;#225;rmela. Bah... Mejor dejarle esto a nuestros amigos del Mysterium.&lt;BR&gt;&lt;BR&gt;Por ahora, estos fragmentos no les servir&amp;#225;n a los argons y con eso me basta. Bien hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1023">
+        <Page social="0">Los fragmentos de iteris juegan un papel decisivo en esta guerra, ya sea en el bando enemigo o en el nuestro. Mata a los rapaces y tr&amp;#225;eme al menos tres fragmentos para comparar.</Page>
+    </Text>
+</QuestDialog>

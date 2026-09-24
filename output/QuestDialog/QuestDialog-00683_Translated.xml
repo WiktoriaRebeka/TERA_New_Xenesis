@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="5">Escucha bien, por favor. &amp;#161;Esta no es una misi&amp;#243;n para principiantes! Descubr&amp;#237; una arena en el Village du Vent de Sable, donde los devoratripas obligan a sus prisioneros, esclavos e incluso a otros devoratripas a combatir contra monstruos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo peor es el {@LinkCreature:24#5001#Merkaratos}! &amp;#161;Vamos a matarlo y a privar a esa escoria de su pasatiempo favorito! Y, cuando digo &quot;nosotros&quot;, me refiero a &quot;t&amp;#250;&quot; y a quien puedas convencer para que te acompa&amp;#241;e. Aunque me encantar&amp;#237;a participar, tengo otra misi&amp;#243;n que cumplir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="5">&amp;#191;Quieres que tus compa&amp;#241;eros soldados sean capturados y obligados a pelear hasta la muerte? Ve a matar a ese Mekaratos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">No s&amp;#233; c&amp;#243;mo lo capturaron, &amp;#161;pero mientras le sigan dando presas, este {@LinkCreature:24#5001#Merkaratos} no ir&amp;#225; a ninguna parte!</Page>
+    </Text>
+</QuestDialog>

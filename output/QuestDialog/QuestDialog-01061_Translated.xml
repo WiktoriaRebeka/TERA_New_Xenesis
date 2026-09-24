@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">&amp;#161;Psst! Estoy observando al enemigo. Tambi&amp;#233;n debo guiar a los soldados perdidos del puesto de control al norte de aqu&amp;#237; hacia un lugar m&amp;#225;s seguro.&lt;BR&gt;&lt;BR&gt;El problema es que no puedo hacer ambas cosas a la vez. &amp;#191;Puedes ir a encontrarlos al puesto de control y decirles que ir&amp;#233; tan pronto como sea posible? Gracias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1015">
+        <Page social="4">Ah, al fin, un soldado de la Federaci&amp;#243;n. El equipo de rescate viene en camino, &amp;#191;verdad? Hazme un favor: av&amp;#237;sale a la prefecta Anelle en el puesto de observaci&amp;#243;n. Atrapa las plantas y sube derecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" prevId="3" villagerId="1002">
+        <Page social="4">Bueno, aunque no seas del equipo de rescate, es bueno saber que no tardar&amp;#225;. Un poco de esperanza siempre es bienvenida, &amp;#191;ves?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">He observado algo inquietante en el &lt;font color='#660000'&gt;Vall&amp;#233;e des Hurlements&lt;/font&gt;. Dos criaturas de la misma especie han luchado y el vencedor se ha devorado la carne del perdedor.&lt;BR&gt;&lt;BR&gt;Es un comportamiento muy at&amp;#237;pico y habr&amp;#237;a que investigarlo.&lt;NEXTPAGEBUTTON&gt;"¿Qué podemos hacer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nuestra magia podr&amp;#237;a ayudarnos a comprender este fen&amp;#243;meno. Caza algunos {@LinkCreature:21#4#orisk brutaux} y toma muestras.&lt;BR&gt;&lt;BR&gt;Luego tr&amp;#225;emelas e intentaremos comprender qu&amp;#233; puede explicar semejante comportamiento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">Espero que no haya sido demasiado duro. El desierto es tan vasto y peligroso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes las muestras? D&amp;#225;melas. &amp;#161;Y ahora retrocede! Podr&amp;#237;a ser peligroso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por los dioses! &amp;#161;El olor de esas muestras casi me abruma! Tengo que descansar, incre&amp;#237;ble. Puede que mi nariz nunca me lo perdone.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">S&amp;#233; que estas criaturas son repugnantes y apestan, pero sin estas muestras no puedo hacer nada. Absolutamente nada.</Page>
+    </Text>
+</QuestDialog>

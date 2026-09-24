@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Ay, ay, ay, gran problema. Necesito la ayuda de {@LinkCreature:218#1027#Takucha}, pero no puedo ir.&lt;BR&gt;&lt;BR&gt;Ve a verlo y dile que vas de mi parte. Si no, nada de charla ni una mano amiga.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Mmm... &amp;#191;Kunchara? Es un buen amigo. Lo ayudar&amp;#233;.&lt;BR&gt;&lt;BR&gt;La tribu se ha vuelto completamente loca. Es una historia de hechizos. No hay forma de deshacer sus efectos.&lt;BR&gt;&lt;BR&gt;Hay que matar al l&amp;#237;der, &lt;BR&gt;. A trabajar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1027">
+        <Page social="0">Es Tukarus. Lo recuerdo bien.&lt;BR&gt;&lt;BR&gt;Siempre ha tenido la cabeza muy dura. &amp;#161;JA, JA!&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vasela a Kunchara, &amp;#191;de acuerdo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1027">
+        <Page social="0">&amp;#191;Buscas el camino? {@LinkCreature:18#101#Tukarus} est&amp;#225; por ah&amp;#237;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="4" villagerId="1002">
+        <Page social="0">&amp;#191;La cabeza de Tukarus? &amp;#191;La tienes, eh...?&lt;BR&gt;&lt;BR&gt;&amp;#201;l sab&amp;#237;a la verdad, pero de ah&amp;#237; a pensar que Takucha te habr&amp;#237;a pedido que...&lt;NEXTPAGEBUTTON&gt;"¿Te sientes bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Oh... s&amp;#237;! Kunchara est&amp;#225; bien.&lt;BR&gt;&lt;BR&gt;Gracias por... ejem, por todo.</Page>
+    </Text>
+</QuestDialog>

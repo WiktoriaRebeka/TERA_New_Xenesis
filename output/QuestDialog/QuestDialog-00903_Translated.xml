@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="4">Barabok el Devastahielo ha jurado usar las esquirlas eldritch para reconstruir el imperio de los gigantes.&lt;BR&gt;&lt;BR&gt;Por supuesto, sabemos que est&amp;#225; loco, pero preferimos saber que est&amp;#225; muerto.&lt;BR&gt;&lt;BR&gt;Persigue a {@LinkCreature:34#5002#Barabok} y pon fin a sus delirios de grandeza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Los gigantes son enemigos formidables. Te has encargando bien de Barabok.&lt;BR&gt;&lt;BR&gt;Robar fragmentos en el hielo... Es triste imaginar que una raza que antes rivalizaba con los dioses haya ca&amp;#237;do tan bajo...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">A petici&amp;#243;n de Seir, &lt;PCNAME&gt; explor&amp;#243; Island of Dawn y los cambios observados all&amp;#237; lo impactaron. Adria nos hizo saber que la fuerza vital que emanaba del Arbol de los antiguos dioses se ha esfumado. La magia que proteg&amp;#237;a la isla se ha disipado, y los monstruos que la habitan se han vuelto salvajes y malvados. &lt;PCNAME&gt; decidi&amp;#243; participar en la cacer&amp;#237;a de monstruos para ayudar a Adria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="4">[Mensaje de Seir]&lt;BR&gt;&lt;BR&gt;Dada la urgencia, solo te dar&amp;#233; un r&amp;#225;pido resumen.&lt;BR&gt;&lt;BR&gt;En ausencia de los soldados de la Federation, ha ocurrido un grave evento en Island of Dawn.&lt;BR&gt;&lt;BR&gt;Me dirijo a Hautegarde para encontrarte all&amp;#237;. Ven a verme all&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">Menos mal que est&amp;#225;s aqu&amp;#237;.&lt;BR&gt;S&amp;#233; que est&amp;#225;s muy ocupado, pero no tuve otra opci&amp;#243;n que recurrir a ti.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as partir hacia Island of Dawn de inmediato?&lt;NEXTPAGEBUTTON&gt;"¿Cuál es mi misión?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Nos ha llegado una petici&amp;#243;n urgente de Adria.&lt;BR&gt;&lt;BR&gt;Debi&amp;#243; haber ocurrido un evento de gran gravedad en Island of Dawn.&lt;BR&gt;Por favor, re&amp;#250;nete con Adria, quien te dar&amp;#225; informaci&amp;#243;n detallada, y ay&amp;#250;dala.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8001">
+        <Page social="4">&amp;#191;Cu&amp;#225;ndo fue nuestra &amp;#250;ltima vez que nos vimos, &lt;PCNAME&gt;?&lt;BR&gt;Has cambiado mucho desde entonces.&lt;BR&gt;&lt;BR&gt;Sin embargo, tengo la impresi&amp;#243;n de que fue apenas ayer cuando viniste aqu&amp;#237; a liderar la expedici&amp;#243;n.&lt;BR&gt;Pero has madurado tanto que apenas te reconoc&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">El &amp;#193;rbol de los Dioses Antiguos est&amp;#225; muriendo, ya que la fuerza vital lo ha abandonado.&lt;BR&gt;&lt;BR&gt;Esto tambi&amp;#233;n ha debilitado la magia que proteg&amp;#237;a la isla. Los monstruos se est&amp;#225;n aprovechando de ello.&lt;BR&gt;&lt;BR&gt;Por favor, ay&amp;#250;danos a eliminar a los monstruos, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

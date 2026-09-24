@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1023">
+        <Page social="4">Nuestra jurisdicci&amp;#243;n incluye los Campos de Hielo, las Planicies de la Muerte G&amp;#233;lida y el Naufragio del Batia. Es un territorio inmenso y no somos suficientes.&lt;BR&gt;&lt;BR&gt;Preg&amp;#250;ntale a {@LinkCreature:231#1008$$Pedr} cu&amp;#225;ndo llegar&amp;#225; la flota que nos prometieron. Si lo hago yo mismo, corono el riesgo de arrancarle la cabeza. Bueno, si escucho una vez m&amp;#225;s las palabras &quot;inminentemente&quot;...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1008">
+        <Page social="4">Qu&amp;#233; alegr&amp;#237;a verte a ti y no a {@LinkCreature:231#1023$$Ghauth}. No es de los m&amp;#225;s pacientes, pero lo entiendo. Ha acumulado mucho estr&amp;#233;s.&lt;BR&gt;&lt;BR&gt;La flota de la Federaci&amp;#243;n llegar&amp;#225; inminentemente y entonces podr&amp;#225; relajarse. Dile que no se preocupe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1023">
+        <Page social="4">Podr&amp;#237;a matarlo, pero voy a contenerme y me conformar&amp;#233; con ensartarlo cuando nos quedemos sin raciones.&lt;BR&gt;&lt;BR&gt;Esta flota llegar&amp;#225; en el momento en que todos aqu&amp;#237; hayan sido devorados por monstruos sin piedad o congelados hasta la muerte.</Page>
+    </Text>
+</QuestDialog>

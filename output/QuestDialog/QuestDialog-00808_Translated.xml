@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="4">&amp;#161;Legar hasta aqu&amp;#237; no fue un problema, pero ahora no hay manera de avanzar ni un cent&amp;#237;metro!&lt;BR&gt;&lt;BR&gt;Tengo a mi cargo a obreros, materiales y herramientas destinados al proyecto de reconstrucci&amp;#243;n, pero los {@LinkCreature:31#1#marche-givre ossugons} y los {@LinkCreature:31#4#serviteurs squelettiques gel&amp;#233;s} me cortan el paso. Si tan solo un soldado de la Federaci&amp;#243;n...&lt;BR&gt;&lt;BR&gt;Oye... espera... &amp;#161;si t&amp;#250; eres justamente un soldado de la Federaci&amp;#243;n! &amp;#191;Qu&amp;#233; esperas? &amp;#161;Ve a deshacerte de estos no-muertos para que pueda volver al trabajo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">Bien hecho, camarada. &amp;#161;Podr&amp;#233; volver al tajo!</Page>
+    </Text>
+</QuestDialog>

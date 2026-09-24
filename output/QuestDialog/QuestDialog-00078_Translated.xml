@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="4">Los devans se creen due&amp;#241;os de este bosque. Supongo que era verdad antes de nuestra llegada, pero eso no significa que estemos dispuestos a ced&amp;#233;rselo.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, sus {@LinkCreature:3#300160#arcanistes} y los marchespores que han tomado como familiares se aferran a este lugar y no temen recurrir a la magia negra. Me gustar&amp;#237;a echar un vistazo a sus amuletos, para ver si tienen algo que ense&amp;#241;arnos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ir&amp;#237;as a buscarme algunos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1008">
+        <Page social="4">Eso deber&amp;#237;a funcionar a la perfecci&amp;#243;n. Ver&amp;#233; si hay alguna manera de usar estos objetos para contrarrestar su magia nigrom&amp;#225;ntica. Ser&amp;#237;a un gran paso adelante en la purificaci&amp;#243;n de los Bois de l'Oubli.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1008">
+        <Page social="0">Encontrar&amp;#225;s a tus objetivos en Deva Silva.</Page>
+    </Text>
+</QuestDialog>

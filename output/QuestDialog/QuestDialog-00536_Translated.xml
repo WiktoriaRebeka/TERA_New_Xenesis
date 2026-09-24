@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">Despu&amp;#233;s de todo lo que tuvimos que hacer para deshacernos de las hienas, aqu&amp;#237; nos enfrentamos a un nuevo problema: &amp;#161;los golems espantap&amp;#225;jaros!&lt;BR&gt;&lt;BR&gt;&amp;#161;Este lugar est&amp;#225; infestados de {@linkcreature:19#3003#golems moissonneurs faucheurs} y {@linkcreature:19#3001#golems moissonneurs berserks}! Su debilidad reside en su &lt;font color='#660000'&gt;n&amp;#250;cleo de cristal&lt;/font&gt;. Destr&amp;#250;yelo y el golem morder&amp;#225; el polvo de verdad.&lt;BR&gt;&lt;BR&gt;Por favor, aniquila a los golems y destruye su &lt;font color='#660000'&gt;n&amp;#250;cleo de cristal&lt;/font&gt;, luego tr&amp;#225;eme los restos. No puedo escoltar a los comerciantes hasta que tenga la certeza de que la amenaza de los golems espantap&amp;#225;jaros ha quedado atr&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Sin su &lt;font color='#660000'&gt;n&amp;#250;cleo de cristal&lt;/font&gt;, estos golems ya no espantar&amp;#225;n a nadie. Nos salvaste el pellejo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">Destruye a los {@linkcreature:19#3003#golems moissonneurs faucheurs} y {@linkcreature:19#3001#golems moissonneurs berserks} alrededor de la Granja lechera de Filton y recupera sus &lt;font color='#660000'&gt;n&amp;#250;cleos de cristal&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

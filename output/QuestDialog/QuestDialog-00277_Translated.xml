@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="4">&amp;#161;No pongas esa cara!&lt;BR&gt;&lt;BR&gt;Por aqu&amp;#237; todo el mundo est&amp;#225; deprimido. Hay que decir que, en cuanto a asignaciones ingratas, es dif&amp;#237;cil encontrar algo mejor. Estamos a kil&amp;#243;metros del frente argon y es dif&amp;#237;cil hacerse un nombre por aqu&amp;#237;. Pero hay que ver el lado positivo, &amp;#161;la regi&amp;#243;n es una aut&amp;#233;ntica mina de oro!&lt;BR&gt;&lt;BR&gt;El secreto es el caparaz&amp;#243;n de los {@LinkCreature:10#4#kamaras b&amp;#251;cherons}. Un conocido m&amp;#237;o en Castanica conoce a un tipo que se interesa mucho por estos caparazones. No s&amp;#233; qu&amp;#233; motiva su inter&amp;#233;s, pero mientras pague, me da igual.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1008">
+        <Page social="4">Este bien podr&amp;#237;a ser el comienzo de una colaboraci&amp;#243;n de lo m&amp;#225;s enriquecedora, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1008">
+        <Page social="0">Confirma que no eres al&amp;#233;rgico al oro, &amp;#191;verdad? &amp;#161;Muy bien, pues ve a desollar a esos {@LinkCreature:10#4#camaras b&amp;#251;cherons}!</Page>
+    </Text>
+</QuestDialog>

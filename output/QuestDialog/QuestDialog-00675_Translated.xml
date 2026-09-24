@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1007">
+        <Page social="5">No se puede escalar una duna sin tropezar con estos recolectores Gutripper. Tengo &amp;#243;rdenes de matarlos a la vista, pero es como intentar destruir un hormiguero aplastando hormiga por hormiga.&lt;BR&gt;&lt;BR&gt;Ya me cans&amp;#233; de este combate interminable, pero &amp;#191;qu&amp;#233; se le va a hacer&amp;nbsp;? Si te encuentras con {@LinkCreature:24#56#charognards du vent de sable}, hazme el favor de matarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1007">
+        <Page social="5">&amp;#161;No est&amp;#225; mal&amp;nbsp;! Si regresas a Tulufan, t&amp;#243;mate un trago a mi salud, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

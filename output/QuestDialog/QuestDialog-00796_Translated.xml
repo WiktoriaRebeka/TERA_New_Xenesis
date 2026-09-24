@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">Hay demasiados perezosos en el {@Rgn:30001$$Refuge de Balder} y nos est&amp;#225;n arruinando la vida. Es un hecho.&lt;BR&gt;&lt;BR&gt;Erradica a los perezosos {@LinkCreature:30#100#nerveux}, los {@LinkCreature:30#110#entailleurs} y los {@LinkCreature:30#120#alanguis}.&lt;BR&gt;&lt;BR&gt;Regresa con Raciba para recibir tu recompensa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1089">
+        <Page social="1">Eres la n&amp;#233;mesis de los perezosos, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Buen trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1089">
+        <Page social="0">En serio, &lt;PCCLASS:lcase&gt;. Son solo perezosos.</Page>
+    </Text>
+</QuestDialog>

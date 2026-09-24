@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0">Hablas de una &quot;abundancia de objetivos&quot;... Hemos intentado avanzar en los niveles inferiores, pero la Garde sanglante no se anda con median&amp;#237;as.&lt;BR&gt;&lt;BR&gt;En otras palabras, nos vendr&amp;#237;a bien una buena distracci&amp;#243;n en la &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:33#11#berserkers} y a los {@LinkCreature:33#61#faucheurs} de la Garde sanglante. Luego podremos avanzar correctamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1011">
+        <Page social="0">&amp;#161;Victoria para Valkyon! Preparar&amp;#233; a las tropas para la conquista de los pisos inferiores.</Page>
+    </Text>
+</QuestDialog>

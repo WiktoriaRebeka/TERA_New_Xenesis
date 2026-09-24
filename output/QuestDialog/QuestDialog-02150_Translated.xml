@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[B&amp;#250;squeda de la sabidur&amp;#237;a de Hyderad]&lt;BR&gt;&lt;BR&gt;Recupera otro ritmo de vida y aprende a disfrutar de la belleza del espect&amp;#225;culo que la naturaleza nos ofrece. Los miembros del Legado de Hyderad te invitan al {@Rgn:71001$$Bastion} pastoral. Para m&amp;#225;s informaci&amp;#243;n, contacta con {@LinkCreature:71#3001#Arisel}, del Legado de Hyderad.&lt;BR&gt;&lt;BR&gt;Podemos ense&amp;#241;arte otra forma de salvar al mundo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3001">
+        <Page social="4">Te hemos visto muy bien {@gender:observ&amp;#233;/observ&amp;#233;e}, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;El mundo est&amp;#225; roto. Por todas partes, la naturaleza agoniza.&lt;BR&gt;&lt;BR&gt;En todas partes... excepto aqu&amp;#237;. Los partidarios de Hyderad aprecian mucho esta singularidad. &amp;#191;Quieres formar parte de algo grandioso?</Page>
+    </Text>
+</QuestDialog>

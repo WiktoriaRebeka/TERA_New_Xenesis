@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0">Apostar&amp;#237;a a que tu piedra m&amp;#225;gica est&amp;#225; justo al lado de {@LinkCreature:11#5003#Orless}, el capit&amp;#225;n de los Red Lash Pirates.&lt;BR&gt;&lt;BR&gt;Pero no es del tipo que se deja vencer sin luchar. Dicho esto, tienes pinta de tener cierta experiencia en combate, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Baja las escaleras que est&amp;#225;n al norte y te topar&amp;#225;s con la cabina de Orless! &amp;#161;Dale una buena paliza y hazlo hablar!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Bueno, las notas del mapa est&amp;#225;n escritas en un lenguaje en c&amp;#243;digo, y en la escuela las matem&amp;#225;ticas nunca fueron mi fuerte.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale todo esto a Ilaria, en la Costa Destrozada. Ella es muy inteligente, por cierto muy guapa, y...&lt;BR&gt;&lt;BR&gt;Pero me desv&amp;#237;o del tema...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">{@LinkCreature:11#5003#Orless} es la clave de todo. &amp;#191;Quieres conocer el fondo de la cuesti&amp;#243;n?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="3" villagerId="1005">
+        <Page social="4">Que el destino te sonr&amp;#237;a, &lt;PCNAME&gt;. &amp;#191;Alguna noticia de la cueva?&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo? &amp;#191;Una psicolita? &amp;#191;Bombas? &amp;#161;Que los titanes nos protejan!&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame echar un vistazo a este mapa. Lo dibujaron unos piratas. Su c&amp;#243;digo no debe de ser muy complicado.&lt;NEXTPAGEBUTTON&gt;"Toma."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Ilaria murmura algo en su barba.)&lt;BR&gt;&lt;BR&gt;Los piratas rojos transportaron una piedra m&amp;#225;gica rage al fondeadero oscuro e intentaron transportarla.&lt;BR&gt;&lt;BR&gt;Cuando nuestras tropas destruyeron su barco, empezaron a buscar otro medio de transporte. &amp;#161;El texto afirma que lo intentaron por tierra!&lt;BR&gt;&lt;BR&gt;&amp;#161;Es imperativo que lo informe! Gracias por habernos proporcionado esta valiosa informaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

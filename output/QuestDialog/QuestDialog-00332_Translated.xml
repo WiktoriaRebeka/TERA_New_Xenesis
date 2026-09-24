@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">La buena noticia es que hay un equipo permanente abajo. Eso significa que todos los {@LinkCreature:11#1001#ma&amp;#238;tres d'&amp;#233;quipage} o {@LinkCreature:11#2006#pillards} de Red Lash habr&amp;#225;n visto pasar tu psicolito cuando fue guardada aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Los piratas no son muy habladores por naturaleza, ni siquiera durante los interrogatorios &quot;intensos&quot;. Todos tienen curiosos &quot;huecos en la memoria&quot;.&lt;BR&gt;&lt;BR&gt;Pero ve a golpear a unos cuantos. Quiz&amp;#225;s tengas suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">&amp;#191;Encontraste eso en los cuerpos? &amp;#191;Por qu&amp;#233; habr&amp;#237;an extra&amp;#237;do fragmentos de esta piedra antes de distribuirlos? A menos que...&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;Y si estos fragmentos sirvieran para proteger a quienes los portan de su poder?!&lt;BR&gt;&lt;BR&gt;Creo que vas a tener que buscar explicaciones en las altas esferas, &lt;BR&gt;... con Orless, el capit&amp;#225;n de los Red Lash Pirates.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Los {@LinkCreature:11#1001#ma&amp;#238;tres d'&amp;#233;quipage} y los {@LinkCreature:11#2006#pillards} de Red Lash seguramente tienen informaci&amp;#243;n relacionada con este psicolito... si no, no s&amp;#233; qui&amp;#233;n m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

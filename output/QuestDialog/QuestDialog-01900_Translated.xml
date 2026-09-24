@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Los argons est&amp;#225;n &amp;#237;ntimamente ligados a los planes de Thulsa.&lt;BR&gt;&lt;BR&gt;Tras haberlos matado, &lt;BR&gt;, tr&amp;#225;eme sus n&amp;#250;cleos. Sabremos qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Has hecho un muy buen trabajo. Thulsa es nuestro objetivo prioritario, pero no podemos permitirnos pasar por alto la amenaza argon por ello.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, te agradezco tus esfuerzos. Har&amp;#233; llegar estos n&amp;#250;cleos al Mysterium, que se encargar&amp;#225; de estudiarlos de cerca.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">Mata a los argons y tr&amp;#225;eme sus n&amp;#250;cleos.</Page>
+    </Text>
+</QuestDialog>

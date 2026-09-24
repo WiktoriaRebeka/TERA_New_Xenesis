@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="5">La Princesa Arin me ha encargado hierbas para fabricar pociones curativas para los soldados, &amp;#161;pero con todos esos osos alrededor del lago, me matar&amp;#225;n!&lt;BR&gt;&lt;BR&gt;Si pudieras eliminar a unos cuantos {@LinkCreature:23#1#ours dos-de-crin}, podr&amp;#237;a terminar mi tarea a salvo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ayudarme? &amp;#161;Despu&amp;#233;s de todo, es para tus compa&amp;#241;eros soldados!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1016">
+        <Page social="5">Ahora que esos osos est&amp;#225;n muertos o han huido, podr&amp;#233; entregar el pedido a tiempo. &amp;#161;Gracias por tu ayuda! &amp;#161;S&amp;#233; que no estaba exento de riesgos!</Page>
+    </Text>
+</QuestDialog>

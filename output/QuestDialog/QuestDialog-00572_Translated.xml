@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">Mi hermano es uno de los mineros que nunca regresaron. Esos monstruos... Probablemente los hayan matado a todos a estas alturas.&lt;BR&gt;&lt;BR&gt;En fin... Sigo guardando este pico como recuerdo suyo. Me gustar&amp;#237;a poder hacer llegar recuerdos as&amp;#237; a las familias de los dem&amp;#225;s mineros desaparecidos.&lt;BR&gt;&lt;BR&gt;Oye, si por casualidad te encuentras con los... restos de antiguos mineros, &amp;#191;podr&amp;#237;as recuperar sus efectos personales? Esos objetos seguramente llevar&amp;#237;an consuelo a las familias de los desaparecidos.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale todo lo que encuentres a Nemuro, en el Puesto Avanzado de las Tinieblas. &amp;#201;l se encargar&amp;#225; del resto.&lt;BR&gt;&lt;BR&gt;Significar&amp;#237;a mucho para nosotros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="2002">
+        <Page social="4">Es muy amable de tu parte, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Le entregar&amp;#233; estos objetos a las familias afligidas tan pronto como regrese a Chebika.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="2002">
+        <Page social="0">Tengo un horario apretado, &lt;PCCLASS:lcase&gt;. Si tienes cosas que enviar a Chebika, date prisa.</Page>
+    </Text>
+</QuestDialog>

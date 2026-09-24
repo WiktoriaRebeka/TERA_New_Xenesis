@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1014">
+        <Page social="4">Ya que est&amp;#225;s aqu&amp;#237;, &lt;PCNAME&gt;, deber&amp;#237;as intentar ser &amp;#250;til para algo.&lt;BR&gt;&lt;BR&gt;&amp;#161;En lo inmediato, podr&amp;#237;as ayudarnos a vengarnos de un crimen odioso!&lt;BR&gt;&lt;BR&gt;Ayer, los {@LinkCreature:11#2002#abordeurs du Fouet rouge} mataron a Canrohl. Lo desollaron como a un vulgar cerdo y lo torturaron durante horas. Una aut&amp;#233;ntica pesadilla.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y si vas a darles el mismo tratamiento? Un favor con favor se paga, como suelen decir...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1014">
+        <Page social="4">Creo que vas a perseguir sus pesadillas durante mucho tiempo, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

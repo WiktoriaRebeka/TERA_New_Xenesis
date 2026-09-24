@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s listo para la segunda fase de la misi&amp;#243;n? Se parece a la primera fase. Solo cambia el lugar.&lt;BR&gt;&lt;BR&gt;No lo olvides: no solo tus enemigos representan un desaf&amp;#237;o. Al final, lo que importa es superar los desaf&amp;#237;os. Buena suerte.&lt;NEXTPAGEBUTTON&gt;"Bien."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">&amp;#161;Has demostrado una valent&amp;#237;a igual en esta segunda fase! &lt;BR&gt;&lt;BR&gt;Con cada victoria, notar&amp;#225;s que tus habilidades siguen desarroll&amp;#225;ndose. Sin embargo, no te vuelvas demasiado orgulloso. El orgullo es el mayor enemigo del Guerrier.&lt;NEXTPAGEBUTTON&gt;"Entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="4">Despu&amp;#233;s de la tormenta, el clima no mejor&amp;#243;, al contrario. Ya sabes, la gente que te dice que es un &quot;herioso d&amp;#237;a&quot;... es sobre todo para mantener las apariencias. Combatir a los muertos vivientes es una cosa, y sostener una espada con las manos agrietadas es otra.&lt;BR&gt;&lt;BR&gt;Si todav&amp;#237;a tienes fuerzas para combatir, nos har&amp;#237;as un gran favor libr&amp;#225;ndonos de los {@LinkCreature:31#6#chargeurs givre-morts}. Tr&amp;#225;eme sus huesos como prueba del trabajo realizado y te recompensar&amp;#233;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1015">
+        <Page social="4">&amp;#161;Se nota que no te falta energ&amp;#237;a! &amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;A&amp;#250;n no hemos salido de esta, pero es un buen comienzo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1015">
+        <Page social="0">Es imposible trabajar mientras estos {@LinkCreature:31#6#chargeurs givre-morts} nos acosen.</Page>
+    </Text>
+</QuestDialog>

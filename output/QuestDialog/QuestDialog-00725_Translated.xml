@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="2001">
+        <Page social="4">&amp;#161;Eh! &amp;#161;Tengo un favor que pedirte!&lt;BR&gt;&lt;BR&gt;Hoy es el cumplea&amp;#241;os de mi hermano. Y... de hecho, tambi&amp;#233;n es el m&amp;#237;o. Nacimos en Pora Elinu y somos inseparables.&lt;NEXTPAGEBUTTON&gt;"Feliz cumpleaños."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Gracias! Este a&amp;#241;o, mi hermano {@LinkCreature:225#2002$$Shurin} se encarga de organizar la fiesta. Si te teletransporto hacia &amp;#233;l, &amp;#191;podr&amp;#237;as ver si todo va bien de su lado?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="2002">
+        <Page social="4">&amp;#191;De parte de {@LinkCreature:225#2001$$Maoran}? &amp;#161;Su impaciencia va a ser su perdici&amp;#243;n!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:225#2000$$Deirin} encarg&amp;#243; unos pasteles especiales en Popolion, pero no s&amp;#233; si llegar&amp;#225;n a tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as darte una vuelta por el Fortin de la Cath&amp;#233;drale para preguntarle a {@LinkCreature:225#2001$$Maoran}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="2000">
+        <Page social="4">&amp;#161;Ja! A veces son insoportables. S&amp;#237;, todo va bien. Guard&amp;#233; los pasteles en una caja en el Campement des Crois&amp;#233;s.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dile a {@LinkCreature:225#2001$$Maoran} que deje de preocuparse!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="4" villagerId="2001">
+        <Page social="4">&amp;#161;Je, je! &amp;#161;Pasteles para la fiesta de cumplea&amp;#241;os!&lt;BR&gt;&lt;BR&gt;&amp;#161;Cuando te canses de matar descendientes de Lok, ven a vernos! Estos pasteles est&amp;#225;n de muerte.&lt;BR&gt;&lt;BR&gt;Bueno... modo de hablar, por supuesto.</Page>
+    </Text>
+</QuestDialog>

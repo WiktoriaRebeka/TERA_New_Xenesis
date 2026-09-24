@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">&amp;#161;Cada vez que creo estar a punto de terminar, algo viene a arruinar mis planes&amp;nbsp;! Vaya donde vaya, me encuentro con {@LinkCreature:5#15#cullars affam&amp;#233;s} y {@LinkCreature:5#16#tentacullars}, y no son precisamente las criaturas m&amp;#225;s amigables.&lt;BR&gt;&lt;BR&gt;&amp;#191;Aceptar&amp;#237;as ir a hacer limpieza por m&amp;#237;&amp;nbsp;? Me facilitar&amp;#237;as considerablemente la tarea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">&amp;#191;Ya terminaste&amp;nbsp;? &amp;#161;Vaya, muchas gracias&amp;nbsp;! Ahora que estas criaturas ya no estorban, deber&amp;#237;a poder concluir r&amp;#225;pidamente mi estudio.&lt;BR&gt;&lt;BR&gt;Toma, qu&amp;#233;date con esto por tus molestias. Ackerly y yo te estamos extremadamente agradecidos.</Page>
+    </Text>
+</QuestDialog>

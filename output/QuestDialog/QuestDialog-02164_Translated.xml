@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Oye, tengo una pregunta para ti, &lt;PCNAME&gt;. &amp;#191;Crees que ser&amp;#237;a m&amp;#225;s doloroso ser eviscerado o que te corten los dedos de la mano izquierda uno tras otro? Por supuesto, la primera opci&amp;#243;n probablemente ser&amp;#237;a fatal, por eso la imagino menos dolorosa.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; la mano izquierda? Pens&amp;#233; que era obvio: &amp;#233;l es zurdo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as preguntarle a {@LinkCreature:63#3003#Elthienne} qu&amp;#233; opina al respecto?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#191;Qu&amp;#233;? &amp;#191;Te ha pedido eso? Esa mocosa va a matarme. En fin, supongo que no soy yo quien debe preocuparse por ahora. Su novio debi&amp;#243; de hacer algo grave esta vez.&lt;BR&gt;&lt;BR&gt;Aparte de eso, las Manos necesitan que alguien haga una peque&amp;#241;a cacer&amp;#237;a en el Roc del Basilic. &amp;#191;Est&amp;#225;s disponible?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Oh, ya est&amp;#225;s de vuelta! Quer&amp;#237;a decirte que he elegido la opci&amp;#243;n n&amp;#250;mero tres: la tortura de las risitas terronas.&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que te gustar&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Gracias, por cierto. Ve a ver a {@LinkCreature:63#3003#Elthienne}, ella te pagar&amp;#225;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Las Manos necesitan fabricar armas improvisadas. Para ello, necesitamos escamas de {@LinkCreature:21#1#basilic mat vicieux}. Son particularmente resistentes y afiladas.&lt;BR&gt;&lt;BR&gt;Ve a {@Rgn:21001#Roc du Basilic} y caza algunas para nosotros.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ooh, te ves bronceado, al parecer. Hay que decir que el clima en {@Rgn:21001#Roc du Basilic} es muy caluroso y muy seco. No soporto este lugar.&lt;BR&gt;&lt;BR&gt;Av&amp;#237;sale a {@LinkCreature:63#3003#Elthienne} que trajiste lo necesario.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Las Manos necesitan fabricar armas improvisadas. Para eso, necesitamos escamas de {@LinkCreature:21#2#basilic mat}. Son resistentes y filosas.&lt;BR&gt;&lt;BR&gt;Ve a {@Rgn:21001#Roc du Basilic} y caza algunas para nosotros.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Ya no pienso en &amp;#233;l para nada.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n? &amp;#161;Ese tipo, claro! &amp;#161;Ni siquiera puedo pronunciar su nombre, con lo imb&amp;#233;cil que es!&lt;BR&gt;&lt;BR&gt;Oh, tienes las escamas. &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;Av&amp;#237;sale a {@LinkCreature:63#3003#Elthienne}. Y si te dice que voy a volver a verlo &quot;con el rabo entre las piernas&quot; en un abrir y cerrar de ojos, no le creas. No sabe nada de amor.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Las Manos necesitan fabricar armas improvisadas. Para eso, necesitamos garras de {@LinkCreature:21#3#orisks vicieux}. Tienen varios cent&amp;#237;metros de grosor y son afiladas como navajas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a {@Rgn:21001#Roc du Basilic} y ten cuidado! No da&amp;#241;es las garras.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">&amp;#191;Qu&amp;#233;? Oh, hola &lt;PCNAME&gt;. No, no estaba llorando. Yo... estoy bien.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} debe de tener... bueno, ya sabes. D&amp;#233;jame en paz.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Las Manos necesitan fabricar armas improvisadas, as&amp;#237; que necesitamos garras de {@LinkCreature:21#4#orisks brutaux}. Son gruesas, resistentes y filosas. Perfectas para fabricar armas.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete hacia el {@Rgn:21001#Roc du Basilic} y apunta alto. No querr&amp;#225;s da&amp;#241;ar esas garras.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&amp;#161;Ah, maravilloso! Vamos a empezar a fabricar nuestras armas. Es incre&amp;#237;ble la cantidad de armas que se rompen. Y no tenemos los medios para comprar armas bonitas como la tuya. Las nuestras se rompen y se desgastan muy r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;En fin, eso significa que las usamos. Lo cual debe ser una buena noticia...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1100">
+        <Page social="4">Hay una planta medicinal que crece en los alrededores. Se llama tristherbe y tiene propiedades curativas excepcionales.&lt;BR&gt;&lt;BR&gt;Aparentemente, el problema es que es muy peligroso recolectarla. Pero tal vez no para &lt;PCNAME&gt;...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1100">
+        <Page social="4">Esto deber&amp;#237;a bastar para la infusi&amp;#243;n que necesitamos. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1100">
+        <Page social="0">No puedo hacer nada sin la tristherbe, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

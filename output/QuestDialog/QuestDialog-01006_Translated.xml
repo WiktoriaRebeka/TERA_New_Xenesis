@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="5">Esos malditos prions lograron expulsarnos de donde est&amp;#225;bamos. En el p&amp;#225;nico, dejamos todo atr&amp;#225;s. Y cuando digo todo, es todo. Nuestras herramientas est&amp;#225;n all&amp;#225; y nosotros estamos atrapados aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a recuperarlas antes de que estas bestias repugnantes lo destrocen todo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="6">&amp;#161;Las recuperaste! &amp;#161;Y est&amp;#225;n intactas! Me alegraste el d&amp;#237;a, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1024">
+        <Page social="0">Si se quedan demasiado tiempo abandonadas en el terreno, me temo que jam&amp;#225;s volveremos a ver nuestras herramientas de excavaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

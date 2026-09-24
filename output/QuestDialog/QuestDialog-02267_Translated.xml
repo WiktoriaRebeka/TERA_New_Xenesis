@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="743" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Lena, la delegada del Mysterium, desea encontrarse contigo en Allemantheia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="3001">
+        <Page social="0">Es un honor conocerte, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Me llamo Lena, delegada del Mysterium.&lt;BR&gt;&lt;BR&gt;El maestro Adonis me ha encomendado pedirte que cumplas una misi&amp;#243;n en nombre del Mysterium.</Page>
+    </Text>
+</QuestDialog>

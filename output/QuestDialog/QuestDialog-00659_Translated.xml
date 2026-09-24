@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="5">La For&amp;#234;t b&amp;#233;nie est&amp;#225; bajo la protecci&amp;#243;n de golems, &amp;#161;pero en vez de protegerla, la est&amp;#225;n destrozando!&lt;BR&gt;&lt;BR&gt;&amp;#161;Date prisa en ir y mata a los {@LinkCreature:23#14#teralithes mena&amp;#231;ants}!&lt;BR&gt;&lt;BR&gt;Toma las piedras de sello de sus cuerpos. Nuestros arcanos las necesitar&amp;#225;n m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">&amp;#161;Qu&amp;#233; l&amp;#225;stima por los teralitos! Son horriblemente caros de crear.&lt;BR&gt;&lt;BR&gt;En fin, la naturaleza est&amp;#225; por encima de todo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1007">
+        <Page social="0">No se trata solo de destruir los teralitos. Si los arcanos no recuperan las piedras, &amp;#161;nos costar&amp;#225; mucho m&amp;#225;s crear nuevas!&lt;BR&gt;&lt;BR&gt;&amp;#161;Necesitamos esas piedras!</Page>
+    </Text>
+</QuestDialog>

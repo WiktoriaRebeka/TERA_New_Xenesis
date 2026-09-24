@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">Parte hacia la {@Rgn:45001$$Forteresse de la Serviture} y habla con {@LinkCreature:245#3511#Volvur}, que se encuentra en el {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;Se ha topado con un problema en sus investigaciones y necesita la ayuda de alguien con experiencia comprobada: t&amp;#250;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">Las investigaciones que llevo a cabo se centran en la relaci&amp;#243;n entre los argons y las modificaciones esc&amp;#233;nicas que traen a nuestro mundo. Es mucho m&amp;#225;s fascinante de lo que imaginas.&lt;BR&gt;&lt;BR&gt;Voy a necesitar que recolectes muestras, especialmente de las cosas que intentar&amp;#225;n comerme...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">Oh, esto servir&amp;#225; a la perfecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Aprecio tu dedicaci&amp;#243;n, al igual que el Invalesco, te lo aseguro.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3511">
+        <Page social="0">Es incre&amp;#237;ble todo lo que se puede aprender estudiando el diente de una criatura. Me gustar&amp;#237;a interesarme en los {@LinkCreature:45#3004#r&amp;#244;deurs athakelas}.&lt;BR&gt;&lt;BR&gt;Sal a rastrearlos y tr&amp;#225;eme sus colmillos.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="7" villagerId="3511">
+        <Page social="4">Vaya, es tan fascinante como repugnante.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por fin! Nunca cre&amp;#237; que fuera a ser un camino de rosas.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3511">
+        <Page social="0">Los cambios biol&amp;#243;gicos observados en los {@LinkCreature:45#4002#tuwangis argonomorphes} me intrigan.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme muestras de su sangre para que pueda realizar un estudio comparativo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="9" villagerId="3511">
+        <Page social="4">Ah, s&amp;#237;. Mineral de argonita.&lt;BR&gt;&lt;BR&gt;Este material no es realmente de origen argon, por supuesto, pero su presencia ha afectado su composici&amp;#243;n de todos modos.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3511">
+        <Page social="0">Me gustar&amp;#237;a estudiar muestras de mineral de argonita. Es un mineral relativamente raro. El Invalesco cree que tiene relaci&amp;#243;n con el trabajo que realizan los argons en la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme un poco de este mineral, por favor.</Page>
+    </Text>
+</QuestDialog>

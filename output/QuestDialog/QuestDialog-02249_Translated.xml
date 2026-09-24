@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7003">
+        <Page social="0">Has espantado a las hienas de la granja de Filton.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7003">
+        <Page social="4">&amp;#161;Hola, &lt;PCNAME&gt;! Ten&amp;#237;a la esperanza de volver a verte.&lt;BR&gt;&lt;BR&gt;Las hienas han vuelto. &amp;#191;Puedo pedirte que las ahuyentes de nuevo?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7003">
+        <Page social="4">Eres verdaderamente impresionante{@g:/e}, &lt;PCNAME&gt;. &amp;#191;Est&amp;#225;s seguro{@g:/e} de que no quieres instalarte y trabajar en la granja?&lt;BR&gt;&lt;BR&gt;Bueno, qu&amp;#233; se le va a hacer. Acepta esta leche fresca como recompensa. &amp;#161;Nuestra puerta siempre estar&amp;#225; abierta para ti!&lt;NEXTPAGEBUTTON&gt;"¡No fue gran cosa!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

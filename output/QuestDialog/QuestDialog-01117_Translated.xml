@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">Bien, aqu&amp;#237; est&amp;#225; mi plan. Si hubiera menos {@LinkCreature:42#1100#enchanteresses nixes}, ser&amp;#237;a mucho m&amp;#225;s f&amp;#225;cil llegar a los l&amp;#237;deres de los nagas.&lt;BR&gt;&lt;BR&gt;No promet&amp;#237; un plan grandioso y complicado, &amp;#191;o s&amp;#237;? Conf&amp;#237;a en m&amp;#237;. Elimina a tantos como puedas, y tambi&amp;#233;n a los que protegen, ya que est&amp;#225;s en ello.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Gracias, &lt;PCNAME&gt;. S&amp;#233; que no debi&amp;#243; ser f&amp;#225;cil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">M&amp;#225;talos uno por uno, &lt;PCNAME&gt;. Lo que es malo para los {@LinkCreature:42#1100#enchanteresses nixes} es bueno para nosotros.</Page>
+    </Text>
+</QuestDialog>

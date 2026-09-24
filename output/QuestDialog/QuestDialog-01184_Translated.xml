@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Ya se puede ver c&amp;#243;mo la flora y la fauna locales se recuperan a pesar de estar ambas al borde de la extinci&amp;#243;n. Los cardos de eclipse tienen propiedades medicinales.&lt;NEXTPAGEBUTTON&gt;"¿Así que tienen cierta utilidad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">&amp;#191;Los cardos? Por supuesto, solo hay que prepararlos adecuadamente.&lt;BR&gt;&lt;BR&gt;Ve a cortar un ramo y ll&amp;#233;vaselo a Lenorele, de {@Rgn:47006$$Base de la Folie}... bueno, si piensas ir por la zona. Ella sabr&amp;#225; qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">Gracias. Permitir&amp;#225;n producir una poci&amp;#243;n contra los efectos de la contaminaci&amp;#243;n argona... Hace mucha falta...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1014">
+        <Page social="0">&amp;#191;Puedo ayudarte&amp;nbsp;?</Page>
+    </Text>
+</QuestDialog>

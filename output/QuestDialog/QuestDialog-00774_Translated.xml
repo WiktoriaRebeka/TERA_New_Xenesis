@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="1">Un decuri&amp;#243;n debe cumplir con los deberes de un decuri&amp;#243;n. T&amp;#250; no eres un decuri&amp;#243;n, pero ciertamente puedes ayudar.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:30#520#mandrills vilpattes} se han vuelto locos. No solo atacan a pac&amp;#237;ficos arque&amp;#243;logos, sino que tambi&amp;#233;n cometen un crimen imperdonable. &amp;#161;Est&amp;#225;n volteando las piedras!&lt;BR&gt;&lt;BR&gt;&amp;#161;Debemos cazarlos, o de lo pronto el {@Rgn:30008$$Temple de l'autorit&amp;#233;} se parecer&amp;#225; a los {@Rgn:30009$$Ruines du temple}!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">Un buen mandrill es un mandrill muerto.&lt;BR&gt;&lt;BR&gt;S&amp;#233; juzgar a la gente, and puedo decir por tu mirada que los {@LinkCreature:30#520#mandrills vilpattes} ya son cosa del pasado.</Page>
+    </Text>
+</QuestDialog>

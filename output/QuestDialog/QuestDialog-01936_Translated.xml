@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3001" prevId="0" villagerId="1112">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3001" prevId="0" villagerId="1112">
+        <Page social="0" voiceTypeId="0">Encuentras un plano sospechoso entre los libros ordenados en esos viejos estantes.&lt;BR&gt;&lt;BR&gt;(Tomas el plano y lo examinas.)&lt;BR&gt;&lt;BR&gt;Explica el funcionamiento de la piedra extra&amp;#241;a que se encuentra en el centro de la habitaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3001" prevId="2" villagerId="1114">
+        <Page social="0" voiceTypeId="0">Sigues las instrucciones del plano, pero no pasa nada. Pienso que deber&amp;#237;a informar de esto al tribuno.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1009">
+        <Page social="0" voiceTypeId="0">Hmm... aqu&amp;#237; hay informaci&amp;#243;n interesante. Ver&amp;#233; qu&amp;#233; puedo sacar de esto.&lt;BR&gt;&lt;BR&gt;Muchas gracias.</Page>
+    </Text>
+</QuestDialog>

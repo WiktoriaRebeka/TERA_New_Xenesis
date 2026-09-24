@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">Este alcohol no solo hace que los miembros de la Griffe noire sean m&amp;#225;s violentos, sino tambi&amp;#233;n m&amp;#225;s fuertes. Creo que los comerciantes besharans usan a los orkans de la tribu de la Griffe noire como armas contra la Federaci&amp;#243;n. Hay que advertir a Karba.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">&amp;#191;Han bebido una especie de alcohol para volverse m&amp;#225;s poderosos? &amp;#161;No merecen el t&amp;#237;tulo de guerreros! &amp;#161;Persigue a los {@LinkCreature:41#3004#&amp;#233;craseurs Griffe noire} y los {@LinkCreature:41#3005#enrag&amp;#233;s Griffe noire}, y recupera sus insignias de guerrero para que todas las tribus sepan que se han dejado usar por los comerciantes besharans!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1021">
+        <Page social="0">La muerte segu&amp;#237;a siendo un castigo demasiado blando. Cuando les muestre estas insignias a las otras tribus y les cuente sobre la deshonra de la tribu de la Griffe noire, sabr&amp;#225;n que es la verdad.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" villagerId="1021">
+        <Page social="0">La tribu de la Griffe noire no merece llevar insignias de guerrero. Ay&amp;#250;dame a deshonrarlos ante los ojos de todos los orkans.</Page>
+    </Text>
+</QuestDialog>

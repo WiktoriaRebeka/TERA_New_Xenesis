@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="4">Como si su ej&amp;#233;rcito no le bastara, Kaidun se uni&amp;#243; los servicios de los mercenarios de la tropa de merodeadores.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:32#9#tireurs d'&amp;#233;lite de la troupe des r&amp;#244;deurs} disponen de flechas malditas particularmente eficaces. Si pudi&amp;#233;ramos estudiarlas de cerca, seguramente aprender&amp;#237;amos a defendernos de ellas.&lt;BR&gt;&lt;BR&gt;Si llegas a matar arqueros, &amp;#191;puedo contar contigo para traerme sus flechas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">Es un buen trabajo. Debe haber una manera de neutralizar la maldici&amp;#243;n. La encontraremos...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1003">
+        <Page social="0">Las flechas de los {@LinkCreature:32#9#tireurs d'&amp;#233;lite de la troupe des r&amp;#244;deurs} del campamento de mercenarios tienen una maldici&amp;#243;n en particular.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme esas flechas.</Page>
+    </Text>
+</QuestDialog>

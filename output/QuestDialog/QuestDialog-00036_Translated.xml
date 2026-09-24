@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="4">Tenemos una cuota de producci&amp;#243;n de madera que cumplir, y en los &amp;#250;ltimos d&amp;#237;as no estamos avanzando.&lt;BR&gt;&lt;BR&gt;Lennert de Boquillon no quiere saber nada de excusas. Por un lado puede parecer despiadado, pero en cierto modo lo entiendo. A los soldados que luchan en el frente les da igual si tenemos excusas o no.&lt;BR&gt;&lt;BR&gt;Si no logramos que nuestros equipos vuelvan a trabajar...&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No pareces saber mucho de tala, pero de todos modos, un le&amp;#241;ador no sirve de nada si no puede acercarse a los &amp;#225;rboles.&lt;BR&gt;&lt;BR&gt;Entonces, en lugar de derribar &amp;#225;rboles, &amp;#191;qu&amp;#233; tal si vas a derribar algunos {@LinkCreature:2#3#centaures}?&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme mechones de sus crines y te pagar&amp;#233;. Si matas a los suficientes, tal vez capten el mensaje.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">Nunca hab&amp;#237;a visto a los centauros galopar tan r&amp;#225;pido. Terminar&amp;#225;n volviendo, pero les mandar&amp;#233; compa&amp;#241;&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Sea como sea, hoy hemos obtenido buenos resultados... y es gracias a ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1047">
+        <Page social="0">Mata a los {@LinkCreature:2#3#centaures}, &amp;#191;de acuerdo? &amp;#161;No es tan complicado!</Page>
+    </Text>
+</QuestDialog>

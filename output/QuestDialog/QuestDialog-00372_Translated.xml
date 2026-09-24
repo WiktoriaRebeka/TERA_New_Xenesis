@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Los instrumentos de medici&amp;#243;n de los investigadores registraron la presencia de una energ&amp;#237;a m&amp;#225;gica tenebrosa. Intrigado, Lian te propuso ir a investigar al Autel de Yurian, donde las manifestaciones de esta magia se sent&amp;#237;an con m&amp;#225;s fuerza.&lt;BR&gt;&lt;BR&gt;All&amp;#237; recuperaste el Azote del demonio, la espada de Elion. Eria, quien parece mantener una relaci&amp;#243;n particular con Lian, te confirm&amp;#243; que en efecto era la hoja del l&amp;#237;der de la expedici&amp;#243;n y que la corrupci&amp;#243;n que la manchaba era de origen demon&amp;#237;aco.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Nuestras investigaciones sobre las criaturas de la isla no han indicado nada en particular, pero las &amp;#250;ltimas muestras analizadas han puesto en evidencia la presencia de una energ&amp;#237;a m&amp;#225;gica desconocida.&lt;BR&gt;&lt;BR&gt;Ve a hablar de este descubrimiento con Eria. Es un poco terca, pero conoce bien su tema. Esperemos que eso la inspire.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">&amp;#191;Terca? &amp;#191;Dijo que soy terca? &amp;#161;Es el colmo de la hipocres&amp;#237;a! Pfff...&lt;BR&gt;&lt;BR&gt;En fin, har&amp;#233; un esfuerzo. Despu&amp;#233;s de todo, su hermano ha desaparecido... si es que no est&amp;#225; simplemente muerto.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes algo para m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Estas jarras contienen las últimas muestras."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Veamos eso un poco.&lt;BR&gt;&lt;BR&gt;&amp;#161;Fascinante!&lt;BR&gt;&lt;BR&gt;Esta magia no es de origen espiritual ni arcano. Y siento algo mal&amp;#233;fico en ella. Puedo rastrear su origen... algo hacia el oeste.&lt;BR&gt;&lt;BR&gt;Espera, esto es... el Autel de Yurian. De ah&amp;#237; proviene este flujo de energ&amp;#237;a. Ahora siento claramente su oscuridad.&lt;BR&gt;&lt;BR&gt;Espero que mis l&amp;#250;cidos comentarios ayuden al pobre Lian... quien es tan terco como yo, adem&amp;#225;s de ser un desastre emocional.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Entonces, &amp;#191;qu&amp;#233; pudiste averiguar de Eria?&lt;BR&gt;&lt;BR&gt;Mmm... as&amp;#237; que era eso. &amp;#191;El Autel de Yurian, dices? &amp;#191;Y no agreg&amp;#243; nada m&amp;#225;s?&lt;NEXTPAGEBUTTON&gt;"Ella... espera haberte sido útil."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Interesante. &amp;#191;Una energ&amp;#237;a oscura, eh?&lt;BR&gt;&lt;BR&gt;Nuestros exploradores llevan un tiempo vigilando a un grupo de orkan apostados al sur, pero es imposible que tengan nada que ver con esto.&lt;NEXTPAGEBUTTON&gt;"¿Y ahora qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Ahora? Es obvio: debemos investigar en {@LinkCreature:213#1036#Autel de Yurian}. Nos reuniremos all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Procura que los orkan no te sigan. Estamos aqu&amp;#237; para investigar, no para pelear.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1036">
+        <Page social="4">Mmm... esta espada me resulta muy familiar, pero algo anda mal con la energ&amp;#237;a que emana de ella.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vasela a Eria. Ella sabr&amp;#225; identificar la naturaleza de la corrupci&amp;#243;n que la mancha.&lt;BR&gt;&lt;BR&gt;El tiempo corre en nuestra contra, &lt;PCNAME&gt;. Date prisa.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1021">
+        <Page social="4">&amp;#191;Esta espada...?&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh, no! &amp;#161;Es la hoja de Elion... el Azote del demonio!&lt;BR&gt;&lt;BR&gt;&amp;#191;La descubriste cerca del altar? Pero &amp;#191;c&amp;#243;mo pudo una energ&amp;#237;a tan oscura impregnar esta arma de esta manera? Es incomprensible.&lt;BR&gt;&lt;BR&gt;Pero lo que m&amp;#225;s me preocupa es que Elion adoraba esta arma... Jam&amp;#225;s habr&amp;#237;a aceptado desprenderse de ella o abandonarla. mucho me temo que Lian tendr&amp;#225; que prepararse para una triste perspectiva.&lt;NEXTPAGEBUTTON&gt;"¿De verdad estaría muerto Elion?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#161;Esperemos que no! &amp;#161;Los dioses no lo tolerar&amp;#237;an!&lt;BR&gt;&lt;BR&gt;Basta de especulaciones... por ahora, todo lo que puedo decir es que esta hoja est&amp;#225; impregnada de una energ&amp;#237;a tenebrosa... demon&amp;#237;aca... y extremadamente poderosa. No pinta bien, , nada bien.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="4">Estamos totalmente rodeados. Hicimos todo lo posible para repeler a los {@LinkCreature:16#2204#molosses de Zuul cuirass&amp;#233;s}, pero nos superaron.&lt;BR&gt;&lt;BR&gt;Van tras el muchacho y no podemos hacer nada por &amp;#233;l. &amp;#191;Podr&amp;#237;a ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1020">
+        <Page social="4">&amp;#161;Oh, nos ha abierto un camino! &amp;#161;Muchas gracias!</Page>
+    </Text>
+</QuestDialog>

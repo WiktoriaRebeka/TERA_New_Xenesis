@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">No puedo ayudarte a salvarlos, as&amp;#237; que buscar&amp;#233; algunas pistas para remediar la cristalizaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Sabes que estudiar el ecosistema de Exodor es tan importante como liberar a los prisioneros, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;El estudio de la cristalizaci&amp;#243;n beneficia a todos los pueblos de Arborea.&lt;BR&gt;&lt;BR&gt;Por eso me gustar&amp;#237;a pedirte algunos favores.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">En primer lugar, me gustar&amp;#237;a analizar la c&amp;#225;psula mineral de los parfs. &lt;BR&gt;&lt;BR&gt;Las c&amp;#225;psulas minerales que pude recolectar en Arborea sol&amp;#237;an estar ya secas.&lt;BR&gt;&lt;BR&gt;Estas c&amp;#225;psulas tal vez me pongan en el camino hacia un remedio.&lt;BR&gt;Caza parfs y consigue sus c&amp;#225;psulas minerales.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">&amp;#161;Gracias, &lt;PCNAME&gt;! Tengo curiosidad por ver en qu&amp;#233; se diferencian las c&amp;#225;psulas minerales de los parfs de Exodor de las de Arborea.&lt;BR&gt;&lt;BR&gt;&amp;#161;Estudiar&amp;#233; esto r&amp;#225;pidamente y luego probablemente tendr&amp;#233; otro favor que pedirte, de acuerdo? &amp;#161;Gracias por esperar unos instantes!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Recolecta todas las c&amp;#225;psulas minerales necesarias. Si no tengo suficientes, no podr&amp;#233; hacer un an&amp;#225;lisis detallado.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="0">Lograste infiltrarte en la mansi&amp;#243;n gracias al plano de Jelena. Jelena desactiv&amp;#243; la alarma mientras t&amp;#250; eliminabas al duque Volperon y a la condesa Titania.&lt;BR&gt;&lt;BR&gt;Encontraste el generador de piedras m&amp;#225;gicas que sirve para fabricar Rage magic stones y lo hiciste explotar. Akia, la sacerdotisa cultista, jur&amp;#243; vengarse de ti, pero huy&amp;#243; despu&amp;#233;s de que eliminaste a Malgarios, a quien ella hab&amp;#237;a invocado.&lt;BR&gt;&lt;BR&gt;Desde entonces, una sincera amistad te une a Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Ha llegado la hora de entrar en la mansi&amp;#243;n. Haremos bien en separarnos. Hablemos de los detalles una vez dentro de la cueva. &amp;#191;Entendido?&lt;BR&gt;&lt;BR&gt;Te doy una bomba K desestabilizadora para situaciones de emergencia. Encuentra el generador de piedras m&amp;#225;gicas y destr&amp;#250;yelo. &lt;BR&gt;&lt;BR&gt;Si tienes problemas, usa la bomba. Por otro lado, esta es nuestra &amp;#250;ltima bomba, as&amp;#237; que &amp;#250;sala sabiamente. &lt;BR&gt;&lt;BR&gt;&amp;#191;Ves la cueva de ah&amp;#237;? Entra en ella. &lt;BR&gt;Que los dioses velen por ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3002" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&amp;#161;Shh! &amp;#161;Est&amp;#225;n arriba de estas escaleras!&lt;BR&gt;&lt;BR&gt;&amp;#191;Sientes ese cosquilleo en la nuca? Seguro que se debe a la magia de su aparato. &amp;#161;Vaya, qu&amp;#233; potente es! Debemos darnos prisa. Bien, &amp;#191;est&amp;#225;n todos en posici&amp;#243;n?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3002" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Bien, ahora sabemos lo que nos queda por hacer. Tomar&amp;#233; la iniciativa y me ocultar&amp;#233; adentro.&lt;BR&gt;&lt;BR&gt;Una vez dentro, ver&amp;#225;s un sendero que lleva al almac&amp;#233;n del piso superior. Encontr&amp;#233;monos all&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Hasta ahora!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3002" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Buen trabajo.&lt;BR&gt;El generador de piedras m&amp;#225;gicas se encuentra en la planta baja. En cambio, la puerta trasera est&amp;#225; barricada y es imposible usarla.&lt;BR&gt;&lt;BR&gt;Primero debes eliminar al duque y a la duquesa para abrir la puerta trasera.&lt;BR&gt;&lt;BR&gt;Adelante, entra, yo cubrir&amp;#233; tus espaldas. Al subir, te enfrentar&amp;#225;s a la {@linkcreature:3002#10#duchesse Tirania} y al {@linkcreature:3002#13#duc Volperon}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Elim&amp;#237;nalos y la puerta trasera se abrir&amp;#225;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="15" villagerId="4">
+        <Page social="0">&amp;#161;Rumbo a la puerta secreta!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4" voiceTypeId="0">&amp;#191;Ser&amp;#225; este el fin de la Mansi&amp;#243;n siniestra?&lt;BR&gt;&lt;BR&gt;Nos hemos librado del duque y de la duquesa, e incluso hemos destruido el generador de piedras m&amp;#225;gicas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y todo eso en un solo d&amp;#237;a de trabajo! &lt;BR&gt;&amp;#161;Has hecho un excelente trabajo ah&amp;#237; dentro!&lt;BR&gt;&lt;BR&gt;Por fin podr&amp;#233; sentarme a recuperar el aliento.</Page>
+    </Text>
+</QuestDialog>

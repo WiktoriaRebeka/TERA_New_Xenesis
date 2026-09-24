@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">El Campamento de los viajeros ha pedido ayuda. No puedo enviarles a uno de mis soldados, pero t&amp;#250; no est&amp;#225;s en mi lista, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Ve a brindarles tu apoyo. &amp;#161;Entra en acci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">Este inmundo lugar va a matarme, de eso estoy seguro.&lt;BR&gt;&lt;BR&gt;Por el N&amp;#250;cleo, extra&amp;#241;o las c&amp;#225;lidas arenas de mi hogar. Es peligroso dejar que este tipo de pensamientos nos distraigan de los peligros que enfrentamos.&lt;BR&gt;&lt;BR&gt;Ped&amp;#237; ayuda para que las cosas sean un poco menos arriesgadas. Ve a hablar con Kahuere. Tiene &amp;#243;rdenes para ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1004">
+        <Page social="4">&amp;#161;El fr&amp;#237;o vuelve cascarrabias a Lucael, pero este lugar no es tan terrible! Servimos a la Federaci&amp;#243;n y nos esforzamos por hacer del mundo un lugar mejor.&lt;BR&gt;&lt;BR&gt;Claro que ser&amp;#237;a mejor si no tuvi&amp;#233;ramos que luchar para sobrevivir, pero bueno, la vida no siempre es de color de rosa. Ni blanca. No como esta nieve que lo cubre todo.</Page>
+    </Text>
+</QuestDialog>

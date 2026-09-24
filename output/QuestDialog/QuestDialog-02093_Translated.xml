@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3510#Toray}, de {@Rgn:47007$$Station de recherche de la Destruction}, pidi&amp;#243; que le enviaran ayuda. No logra conseguir suficientes muestras para el estudio.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tus habilidades te convierten en la persona ideal para esta misi&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Vi una nidada de huevos de naga no muy lejos de aqu&amp;#237;, y creo que fueron puestos por nagas argonomorfos. &amp;#161;&amp;#191;Comprendes la importancia de este descubrimiento?!&lt;BR&gt;&lt;BR&gt;Desafortunadamente, sin pruebas, lo que digo es pura especulaci&amp;#243;n. Necesito muestras, pero sean argonomorfos o no, los nagas no se van a dejar vencer f&amp;#225;cilmente.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Oh, s&amp;#237;. Puedo distinguir diferencias en estos fragmentos.&lt;BR&gt;&lt;BR&gt;Mmm, qu&amp;#233; curioso. &amp;#191;C&amp;#243;mo habr&amp;#225;n hecho los argon?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Antes que nada, debo lograr comprender c&amp;#243;mo los argon son capaces de afectar a una raza cristalina como los wendigos.&lt;BR&gt;&lt;BR&gt;Mata a los wendigos contaminados que encuentres y tr&amp;#225;eme fragmentos. Es por ah&amp;#237; donde debemos empezar a buscar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">Fascinante. Siempre me hab&amp;#237;a preguntado qu&amp;#233; modificaciones f&amp;#237;sicas ocurren durante la transmutaci&amp;#243;n de los argonomorfos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es un paso adelante inestimable!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Las modificaciones que afectan a los nagas no solo se limitan a su piel.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a estudiar piel de naga que haya comenzado la transmutaci&amp;#243;n argonomorfa.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">&amp;#191;La yema de un huevo contaminado? Fascinante. Me pregunto si los padres transmiten los genes argon a sus cr&amp;#237;as...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">Me gustar&amp;#237;a estudiar un huevo de naga contaminado. Es la primera especie de argonomorfo que vemos procrear.&lt;BR&gt;&lt;BR&gt;Debemos anticiparnos a la amenaza que esto representa.</Page>
+    </Text>
+</QuestDialog>

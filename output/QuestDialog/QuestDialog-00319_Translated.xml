@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">Como {@LinkCreature:11#2003#sentinelles du Fouet rouge} vigila la zona permanentemente, nos es imposible circular libremente por la cueva.&lt;BR&gt;&lt;BR&gt;Si estas centinelas desaparecieran, podr&amp;#237;amos acceder f&amp;#225;cilmente a los pasillos principales de la cueva desde el muelle.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es tu turno, &lt;PCNAME&gt;. &amp;#161;Elimina a estas centinelas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1011">
+        <Page social="4">Ahora podremos aventurarnos dentro de la cueva. &amp;#161;Por la Federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1011">
+        <Page social="0">Ve a deshacerte de estos {@LinkCreature:11#2003#Sentinelles du Fouet rouge}. Este es el primer paso.</Page>
+    </Text>
+</QuestDialog>

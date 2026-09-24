@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="4" voiceTypeId="0">&amp;#191;Te diriges al laberinto? Ten cuidado, algunas estatuan son en realidad trampas.&lt;BR&gt;&lt;BR&gt;Estoy aqu&amp;#237; en nombre de Kanmur, mi... antiguo... comandante.&lt;BR&gt;&lt;BR&gt;Llevo varios d&amp;#237;as merodeando por la zona en busca del maldito perro que le cort&amp;#243; los cuernos a Kanmur. Se trata de un payaso loco llamado Aleister.&lt;NEXTPAGEBUTTON&gt;"Me acuerdo de él."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">&amp;#161;T&amp;#250;... t&amp;#250; eres &lt;PCNAME&gt;! S&amp;#237;, he o&amp;#237;do que estabas all&amp;#237; cuando Aleister vino a Kaiator.&lt;BR&gt;&lt;BR&gt;No encontrar&amp;#233; la paz hasta que le echemos mano a Aleister y los cuernos del general vuelven a su lugar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Gra... gracias.&lt;BR&gt;&lt;BR&gt;El cuerpo de un Aman est&amp;#225; incompleto sin sus cuernos.&lt;BR&gt;&lt;BR&gt;El general por fin puede descansar en paz.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1015">
+        <Page social="0">&amp;#191;Has encontrado a Aleister?&lt;BR&gt;&lt;BR&gt;Si lo encuentras, es tuyo. Si no, una vez que me recupere, &amp;#161;ir&amp;#233; a cazar a ese payaso para desollarlo!</Page>
+    </Text>
+</QuestDialog>

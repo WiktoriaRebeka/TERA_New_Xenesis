@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0">Los piratas naga robaron mi diario de investigaci&amp;#243;n. Contiene informaci&amp;#243;n relacionada con nuestras defensas, nuestras tropas, nuestras reservas... en fin, &amp;#161;debemos detenerlos antes de que mi diario les permita hacernos un da&amp;#241;o grave!&lt;BR&gt;&lt;BR&gt;Me har&amp;#237;as un gran favor yendo a cazar a los {@LinkCreature:31#17#pr&amp;#233;dateurs nagas de la temp&amp;#234;te} y a los {@LinkCreature:31#16#ravageurs nagas de la temp&amp;#234;te} para recuperar mi diario.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1011">
+        <Page social="4">Much&amp;#237;simas gracias. Podr&amp;#233; terminar mi informe. No hace falta informarle al comandante Fraya sobre esta peque&amp;#241;a... falta profesional, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1011">
+        <Page social="0">Hay que recuperar este diario de los naga.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">Jodoc opinaba que Dakanius seguramente se apresurar&amp;#237;a a tomar las medidas necesarias al enterarse de la derrota de la fuerza de asalto de los devans. Te pusiste en camino hacia el puesto de avanzada de Forgotten Woods para transmitirle esta advertencia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">La fuerza de asalto de los devans gozaba de la total confianza de &lt;font color='#660000'&gt;Dakanius&lt;/font&gt;,&lt;BR&gt; quien recientemente hered&amp;#243; el mando de los devans.&lt;BR&gt;&lt;BR&gt;Dakanius seguramente buscar&amp;#225; venganza.&lt;BR&gt;Debemos prepararnos para esa posibilidad.&lt;BR&gt;&lt;BR&gt;Ve a transmitirle este mensaje a Hendry, en el puesto de avanzada.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ve a la entrada del pueblo para preguntarle a Justarius c&amp;#243;mo llegar al puesto de avanzada.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Ya he o&amp;#237;do hablar de ti. Te lo explicar&amp;#233; todo.&lt;BR&gt;Quieres ir al puesto de avanzada, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Hendry me pidi&amp;#243; que le enviara algunos reclutas que acaban de terminar su entrenamiento. &amp;#191;Puedo confi&amp;#225;rtelos?&lt;BR&gt;&lt;BR&gt;La regi&amp;#243;n est&amp;#225; plagada de no-muertos, por lo que es demasiado peligrosa para que los principiantes se aventuren solos.&lt;NEXTPAGEBUTTON&gt;"Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No corres el riesgo de perderte.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esc&amp;#250;chame! &amp;#161;Escolta a &lt;PCNAME&gt; hasta el puesto de avanzada!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3" villagerId="5">
+        <Page social="0">No... no... nunca me he enfrentado a no-muertos... &amp;#161;pero har&amp;#233; lo mejor que pueda! &amp;#161;Ll&amp;#233;vate conmigo!&lt;BR&gt;&lt;BR&gt;(La voz del recluta tiembla.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Venir aqu&amp;#237; no es tarea f&amp;#225;cil, &amp;#191;verdad?&lt;BR&gt;&amp;#191;Y qu&amp;#233; piensas de ese recluta de ah&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

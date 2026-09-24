@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">Ya no recibimos suministros. Sin comida viene el agotamiento. Sin el agotamiento es imposible luchar contra los fouaille-tripes que vienen a robarnos la comida... &amp;#161;un c&amp;#237;rculo vicioso!&lt;BR&gt;&lt;BR&gt;Si tan solo pudieras traernos un poco de carne... Oye, &amp;#191;podr&amp;#237;as cazar algunos {@LinkCreature:6#1021#noruks marteleurs} antes de que muramos todos de hambre?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">Gracias. Va a ser una experiencia culinaria at&amp;#237;pica.&lt;BR&gt;&lt;BR&gt;Por lo general, no comemos noruks, pero a circunstancias excepcionales, medidas excepcionales.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1005">
+        <Page social="0">&amp;#191;Nos conseguiste esta carne? Lo s&amp;#233;, para llegar a comer noruk no hay que ser muy quisquilloso, pero en este momento los hombres se comer&amp;#237;an cualquier cosa.</Page>
+    </Text>
+</QuestDialog>

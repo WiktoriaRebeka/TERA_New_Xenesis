@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="5">Los tuwangis se aventuran sin cesar fuera de su reserva. Eso no nos causaba problemas, hasta que decidieron atacar a nuestros soldados.&lt;BR&gt;&lt;BR&gt;&amp;#161;No veo bien c&amp;#243;mo solucionar el problema! No puedo comunicarme con ellos, pero por otra parte, exterminarlos me parece una soluci&amp;#243;n... extrema. &amp;#161;Son seres vivos dotados de raz&amp;#243;n, despu&amp;#233;s de todo!&lt;NEXTPAGEBUTTON&gt;"Sin embargo, debe de existir una solución, ¿no?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Bueno, ahora que lo mencionas, es verdad que unos recolectores de hierbas me hablaron de una poci&amp;#243;n que le permitir&amp;#237;a a quien la beba comprender el lenguaje de los tuwangis.&lt;BR&gt;&lt;BR&gt;Si me dieron los ingredientes correctos, necesitar&amp;#233; {@LinkCreature:205#1023#s&amp;#232;ve d'herbe du bourbier} y {@LinkCreature:5#14#marchespores boueux}.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que no es agradable tener que meter las manos ah&amp;#237;, pero al menos no ser&amp;#225; muy dif&amp;#237;cil de encontrar. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1023">
+        <Page social="0">(Estas hierbas del cenagal se ven frescas. Es exactamente lo que necesitabas.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1002">
+        <Page social="5">Maldici&amp;#243;n. &amp;#161;Hab&amp;#237;a olvidado lo mal que puede oler esta cosa! &amp;#191;Y qu&amp;#233; quieren que haga con esto? Hmm.&lt;BR&gt;&lt;BR&gt;Bueno, si es para ayudar a Jaedon, d&amp;#225;melo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="1002">
+        <Page social="0">&amp;#191;Tienes lo que necesito?</Page>
+    </Text>
+</QuestDialog>

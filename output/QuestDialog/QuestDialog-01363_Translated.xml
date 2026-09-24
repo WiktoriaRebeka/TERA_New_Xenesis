@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="4">Los nigromantes mekonaris resucitan los cad&amp;#225;veres y los esp&amp;#237;ritus del campo de nieve.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ya te cruzaste con los no-muertos de la Plana de los Condenados? Es obra de los nigromantes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Extermina a estos sirvientes fan&amp;#225;ticos de la muerte y recupera sus aparatos de nigromancia. &amp;#161;Me gustar&amp;#237;a ver c&amp;#243;mo hacen su trabajo sucio sin sus herramientas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1047">
+        <Page social="4">&amp;#191;Me has tra&amp;#237;do estos aparatos de nigromancia?&lt;BR&gt;&lt;BR&gt;Se los har&amp;#233; llegar al Mysterium para su estudio.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1047">
+        <Page social="0">Eliminar a los nigromantes no bastar&amp;#225; para evitar el regreso de los muertos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Para Thulsa es m&amp;#225;s f&amp;#225;cil entrenar nuevos nigromantes que reemplazar sus aparatos de nigromancia!</Page>
+    </Text>
+</QuestDialog>

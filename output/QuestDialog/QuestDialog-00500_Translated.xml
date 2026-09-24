@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="5">&amp;#161;Estoy totalmente desbordado! As&amp;#237; que cuando hablo de &quot;m&amp;#237;&quot;, en realidad hablo sobre todo de &quot;ti&quot;.&lt;NEXTPAGEBUTTON&gt;"¿Cómo es eso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Ambos formamos parte de la Federaci&amp;#243;n, &amp;#191;verdad? &amp;#161;As&amp;#237; que mi trabajo tambi&amp;#233;n es el tuyo!&lt;BR&gt;&lt;BR&gt;As&amp;#237; es como funciona en el ej&amp;#233;rcito. No te rompas demasiado la cabeza pensando y ascender&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Mi misi&amp;#243;n consiste en romper la cadena de mando del culto, empezando por los {@LinkCreature:17#300442#gardes de Chute-c&amp;#233;leste}. Si eliminamos a algunos, junto con un lote de {@LinkCreature:17#300552#batteurs t&amp;#234;te de baril}, el enemigo tendr&amp;#225; que retirarse para reorganizar sus filas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Infiltrate en la granja, corta un par de gargantas y deja que act&amp;#250;e. Oh, y ya que est&amp;#225;s ah&amp;#237;, &amp;#161;tr&amp;#225;eme las armas de los enemigos ca&amp;#237;dos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1014">
+        <Page social="5">&amp;#161;Bien hecho! Como dir&amp;#237;a mi jefe: &quot;&amp;#161;Sin disciplina, un ej&amp;#233;rcito no es nada&quot;! Un gran sabio, ese Puran. &amp;#161;Te caer&amp;#237;a bien... sus consejos nos han salvado la vida m&amp;#225;s de una vez!&lt;BR&gt;&lt;BR&gt;Ahora bien, &amp;#191;qu&amp;#233; jugtareta podr&amp;#237;amos jugarle al enemigo?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1014">
+        <Page social="0">&amp;#191;Eres {@gender:bouch&amp;#233;/bouch&amp;#233;e}? &amp;#161;A trabajar!</Page>
+    </Text>
+</QuestDialog>

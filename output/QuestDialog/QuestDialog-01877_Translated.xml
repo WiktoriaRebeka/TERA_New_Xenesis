@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0">(Las letras inscritas en la superficie de la Tableta del recuerdo forman un revoltijo fragmentado. Parecen estar vinculadas a varios recuerdos.)&lt;BR&gt;&lt;BR&gt;[XX,..Devans vencidos..******]&lt;BR&gt;&lt;BR&gt;[&amp;#8230;...xxxxxx... Norte de Arun ... Continente perdido ...******]&lt;BR&gt;&lt;BR&gt;[ $%^&amp;..Expedici&amp;#243;n..@%$&amp;$^]&lt;BR&gt;&lt;BR&gt;[ $%^&amp;#$%$^&amp;]&lt;BR&gt;&lt;BR&gt;[[@%....Ej&amp;#233;rcito imperial..^$%#*%]&lt;BR&gt;&lt;BR&gt;[xx%^Pozo de Arun$%#*%]&lt;BR&gt;&lt;BR&gt;[&amp;#8230;*$Construcci&amp;#243;n#^Fortaleza de Raqnan(@##..]&lt;NEXTPAGEBUTTON&gt;Empiezas a reconstruir la tableta.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7003">
+        <Page social="4">Has regresado{@g:/e} sano{@g:/e} y salvo{@g:f/ve}, por supuesto.&lt;BR&gt;&amp;#191;Has hecho alg&amp;#250;n progreso en la reconstrucci&amp;#243;n de la Tableta del recuerdo?&lt;NEXTPAGEBUTTON&gt;"Esto es lo que pude descubrir..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Aha...&lt;BR&gt;Tus destinos parecen unidos por una animosidad particular, la de enemigos jurados. Ay&amp;#250;danos a completar la reconstrucci&amp;#243;n de la tableta, te lo ruego. Los Bakaras te lo agradecer&amp;#237;an enormemente.&lt;NEXTPAGEBUTTON&gt;"Lo haré con gusto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Much&amp;#237;simas gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un peque&amp;#241;o detalle de mi parte. Te ruego que lo aceptes.&lt;NEXTPAGEBUTTON&gt;Asientes con la cabeza.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

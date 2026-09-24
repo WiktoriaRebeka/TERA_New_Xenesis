@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="4">Los {@LinkCreature:20#30011100#hortators} ponen a trabajar a los esclavos aqu&amp;#237;, as&amp;#237; que si los eliminamos, el trabajo deber&amp;#237;a detenerse de inmediato.&lt;BR&gt;&lt;BR&gt;Cuando te hayas librado de ellos, dir&amp;#237;gete a la Estaci&amp;#243;n del relicario cerca de los Salones de las Sombras. Piden refuerzos.&lt;BR&gt;&lt;BR&gt;A menudo se tiene la sensaci&amp;#243;n de ir de aqu&amp;#237; para all&amp;#225; sin rumbo, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1004">
+        <Page social="0">&amp;#161;Por fin! &amp;#161;Da gusto saber que no nos han olvidado por completo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Espero que no esperaras descansar, porque no vas a tener tiempo!</Page>
+    </Text>
+</QuestDialog>

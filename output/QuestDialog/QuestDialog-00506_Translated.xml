@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Al menos ahora s&amp;#233; que puedo confiar en usted. Estoy seguro de que Licinza nos traicion&amp;#243;. Al denunciar a un esp&amp;#237;a, se le puede meter en prisi&amp;#243;n. &amp;#161;Pero al tenderle una trampa, podemos usarlo a nuestro favor! S&amp;#233; qu&amp;#233; hacer con Licinza, pero {@LinkCreature:17#205#Vilastasia}, la maestra esp&amp;#237;a del culto, va a entender lo que pas&amp;#243; con el registro.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que debemos matarla. &amp;#161;Eso es! Proteja el secreto y al esp&amp;#237;a... &amp;#191;Cree que est&amp;#225; a su altura?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">&amp;#161;Bien hecho, soldado! &amp;#161;Podremos enviar a sus saqueadores a donde nos plazca!&lt;BR&gt;&lt;BR&gt;Ganar una guerra es cuesti&amp;#243;n de estrategia y espionaje, y usted nos ha demostrado lo que vale en ambos campos, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

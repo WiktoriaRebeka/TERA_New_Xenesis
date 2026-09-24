@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="5">&amp;#161;Soldado! Necesito tu ayuda. El culto ataca nuestras caravanas y roba nuestra comida. Siempre es cuando la guardia est&amp;#225; con poco personal, y por m&amp;#225;s que cambiamos las rutas de suministro, sigue pasando. &amp;#191;Sabes a qu&amp;#233; huele eso?&lt;BR&gt;&lt;BR&gt;Huele a traici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Es el {@LinkCreature:17#201#Batteur Rotcarn} quien dirige los ataques. Ahora mismo est&amp;#225; reuniendo tropas en los campos, seguramente para una operaci&amp;#243;n. M&amp;#225;talo y reg&amp;#237;stralo. Pongamos fin a todo esto... &amp;#191;entendido?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1013">
+        <Page social="5">&amp;#161;Carambola! &amp;#161;Solo los oficiales tienen acceso a este tipo de registros! Si alguien lo hubiera robado, se habr&amp;#237;a reportado el incidente. Fue entregado, no robado... Y por uno de los nuestros... Qu&amp;#233; decepci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1013">
+        <Page social="0">&amp;#191;Rotcarn est&amp;#225; muerto? &amp;#191;Todav&amp;#237;a no? Entonces no me interesa.</Page>
+    </Text>
+</QuestDialog>

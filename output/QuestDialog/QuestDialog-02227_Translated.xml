@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Limpiaste la zona central del templo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Kodar necesita ayuda en el centro del templo.&lt;BR&gt;&lt;BR&gt;Por favor, entra al templo a trav&amp;#233;s del teletransporte y p&amp;#237;dele a Kodar que te diga qu&amp;#233; puedes hacer para ayudar.&lt;NEXTPAGEBUTTON&gt;"Es un honor querer ofrecerle mi ayuda."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Debo partir a cumplir una misi&amp;#243;n lejos de aqu&amp;#237;, pero s&amp;#233; que puedo contar contigo para cuidar el centro del templo. Hay que reemplazar el incienso del templo, quitarle el polvo a los espejos, la sabandija prolifera en el templo y las serpientes han vuelto. Por ahora, sin embargo, debemos concentrarnos en una sola y &amp;#250;nica cosa.&lt;NEXTPAGEBUTTON&gt;"Puedes contar conmigo para cuidar el templo en tu ausencia."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">&amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">&amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">&amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">&amp;#161;Fuiste enviado por nosotros por Balder!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta humilde recompensa como muestra de nuestra gratitud.</Page>
+    </Text>
+</QuestDialog>

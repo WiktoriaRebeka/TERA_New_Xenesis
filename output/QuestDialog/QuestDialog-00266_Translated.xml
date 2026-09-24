@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="4">&amp;#161;Tengo que irme a casa como sea! Me niego a seguir pudri&amp;#233;ndome aqu&amp;#237; ni un instante m&amp;#225;s. No aguanto m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Si te cruzas con {@LinkCreature:209#1011$$Jascus}, dile que voy a hacer las maletas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Me niego a terminar como aperitivo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#191;Cree que va a salir? Este pobre soldado ha enloquecido en este lugar. Ojal&amp;#225; fuera el primero.&lt;BR&gt;&lt;BR&gt;No podemos sacarlo, si es lo que espera. Puede huir hacia Castanica o el Port Coupe-gorge si le apetece, pero tendr&amp;#225; que apa&amp;#241;&amp;#225;rselas solo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1014">
+        <Page social="4">&amp;#191;Lo has encontrado? &amp;#191;No hay forma de salir? Ah... Y querr&amp;#225; que me trague eso...&lt;BR&gt;&lt;BR&gt;&amp;#161;Est&amp;#225; de su parte! &amp;#161;Con los gulas... Lo sab&amp;#237;a!&lt;BR&gt;&lt;BR&gt;&amp;#161;Si me encuentra, me entregar&amp;#225; al enemigo para librarse de m&amp;#237;! &amp;#161;Tengo que largarme!</Page>
+    </Text>
+</QuestDialog>

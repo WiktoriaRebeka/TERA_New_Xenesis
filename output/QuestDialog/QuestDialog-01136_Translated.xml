@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">Una especie de burbuja envuelve el pantano en el centro del valle. Debe de ser alg&amp;#250;n tipo de campo de fuerza argon. Creo que es generado por las {@Creature:45#7002#aiguilles trolniks} que se encuentran en su interior.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as traerme componentes extra&amp;#237;dos de estas agujas de control para estudiarlos? Para hacerlo, tendr&amp;#225;s que destruir las agujas en cuesti&amp;#243;n...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Esto deber&amp;#237;a bastar, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">&amp;#191;Tienes mis fragmentos de agujas?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="4">&amp;#161;Qu&amp;#233; plaga! Los aldeanos que participan en las labores de reconstrucci&amp;#243;n son atacados sin cesar por los {@LinkCreature:31#2#seigneurs des glaces ossugons} y los {@LinkCreature:31#5#serviteurs squelettiques de givre}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Adem&amp;#225;s, me hicieron saber que se quedaron sin ceniza: un ingrediente esencial para el cemento que usan!&lt;BR&gt;&lt;BR&gt;&amp;#161;Intenta matar dos p&amp;#225;jaros de un tiro!; mata a estos muertos vivientes y recupera sus huesos. Veremos si es posible utilizarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1009">
+        <Page social="4">Bien jugado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No es el tipo de ceniza que solemos usar, pero deber&amp;#237;a dar un cemento de lo m&amp;#225;s s&amp;#243;lido, sabiendo lo tenaces que son los muertos vivientes. &amp;#161;Ja, ja!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1009">
+        <Page social="0">Tendremos tiempo de hablar una vez que estos monstruos est&amp;#233;n muertos.</Page>
+    </Text>
+</QuestDialog>

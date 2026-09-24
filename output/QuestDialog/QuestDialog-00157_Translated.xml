@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="0">T&amp;#250; y Kamia han eliminado a los descendientes de Lok y a su comandante, lo que ha debilitado considerablemente a los devans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="4" voiceTypeId="0">Son demasiados, no lo lograremos solo{@g:/e}s.&lt;BR&gt;Necesitamos refuerzos del cuartel general...&lt;BR&gt;&lt;BR&gt;Pero si se enteran de la muerte de Dakanius antes de que lleguen los refuerzos, seguramente se esconder&amp;#225;n en otra parte.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; hacemos, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"¡Juntos podemos lograrlo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1048">
+        <Page social="4" voiceTypeId="0">Perfecto, me agradas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Enc&amp;#225;rgate entonces de eliminar a los devastadores de la resurrecci&amp;#243;n y a los hechiceros coraz&amp;#243;n de &amp;#233;bano, &lt;BR&gt;as&amp;#237; como al que parece ser su l&amp;#237;der!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1049">
+        <Page social="4" voiceTypeId="0">&amp;#191;Se te ha escapado alguien?&lt;BR&gt;Creo que casi los atrapamos a todos.&lt;BR&gt;&lt;BR&gt;Y aunque algunos hayan logrado huir, los hemos debilitado bastante al matar a su l&amp;#237;der.&lt;BR&gt;&lt;BR&gt;Much&amp;#237;simas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

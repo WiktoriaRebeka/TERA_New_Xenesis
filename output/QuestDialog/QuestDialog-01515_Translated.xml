@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="0">En tu calidad de miembro oficial de la Valkyon Federation, se te ha llamado{@g:/e} a unirte al cuartel general en Velika. El comandante Seir te dio la bienvenida{@g:/e} ah&amp;#237; y anunci&amp;#243; que ten&amp;#237;a grandes esperanzas puestas en ti. Pero el comandante Samael, quien lleva las riendas de las fuerzas armadas, no pareci&amp;#243; compartir su entusiasmo. Consideraba que tus haza&amp;#241;as no eran m&amp;#225;s que una sucesi&amp;#243;n de golpes de suerte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="4" voiceTypeId="0">&amp;#191;Necesitas nuevas casillas para tu inventario?&lt;BR&gt;Desafortunadamente, las pr&amp;#243;ximas ya no son gratuitas.&lt;BR&gt;&lt;BR&gt;Ah, &amp;#191;quieres unirte al Cuartel general de la Valkyon Federation? Lo encontrar&amp;#225;s por all&amp;#225;.&lt;BR&gt;&lt;BR&gt;Ve a ver a Uriela y dile que deseas hablar con el comandante.&lt;BR&gt;&lt;BR&gt;Y no dudes en volver a verme si deseas ampliar tu inventario.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">&amp;#191;De verdad eres &lt;PCNAME&gt;?&lt;br&gt;Dougal me cont&amp;#243; muchas cosas sobre ti. He o&amp;#237;do hablar de tus haza&amp;#241;as en Island of Dawn. La Valkyon Federation estaba impaciente por sumarte a sus filas.&lt;BR&gt;&lt;BR&gt;Actualmente recluta gente capaz como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Es la primera vez que vienes a una gran ciudad como esta?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">&amp;#191;C&amp;#243;mo? &amp;#191;De verdad jam&amp;#225;s hab&amp;#237;as o&amp;#237;do hablar de la Valkyon Federation? &amp;#191;Qu&amp;#233; no marcha bien contigo?&lt;BR&gt;Y el ataque de los argons en Shara, &amp;#191;te suena de algo? La Valkyon Federation est&amp;#225; compuesta por los pueblos honorables de Arborea que se aliaron contra los argons.&lt;BR&gt;&lt;BR&gt;Supongo que solo est&amp;#225;s teniendo un momento de distracci&amp;#243;n, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Es muy posible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Bueno, es verdad que al llegar a una ciudad as&amp;#237;, a uno le puede pasar que lo olvide todo por la emoci&amp;#243;n. Lo puedo entender.&lt;BR&gt;&lt;BR&gt;El comandante Seir te espera adentro.&lt;BR&gt;&lt;BR&gt;Ah, s&amp;#237;. Dougal me encarg&amp;#243; que te entregara algo al llegar al cuartel general.&lt;BR&gt;&lt;BR&gt;&amp;#191;D&amp;#243;nde lo habr&amp;#233; puesto?... &amp;#161;Espera un segundo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Eres muy modesto, &lt;PCNAME&gt;.&lt;BR&gt;Dougal ya me inform&amp;#243; de tus haza&amp;#241;as en Island of Dawn.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, &amp;#161;tambi&amp;#233;n encontraste rastros de &lt;font color='#0000FF'&gt;&amp;#201;lion&lt;/font&gt;, el h&amp;#233;roe de Valkyion reportado como desaparecido desde la guerra arg&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Gracias a ti, los soldados de la Valkyon Federation recuperan la esperanza en su lucha contra los argons.&lt;BR&gt;&lt;BR&gt;La federaci&amp;#243;n mueve cielo y tierra para encontrar a &amp;#201;lion, pero a&amp;#250;n no tenemos ninguna pista digna de ese nombre.&lt;NEXTPAGEBUTTON&gt;"Ah, ya entiendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">La modestia es una noble cualidad. Me alegra de antemano escuchar el relato de tus pr&amp;#243;ximas haza&amp;#241;as, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;El comandante Seir te espera adentro.&lt;BR&gt;&lt;BR&gt;Ah, s&amp;#237;. Dougal me encarg&amp;#243; que te entregara algo al llegar al cuartel general.&lt;BR&gt;&amp;#191;D&amp;#243;nde lo habr&amp;#233; puesto?... &amp;#161;Espera un segundo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Estoy impaciente por colaborar contigo en el seno de la federaci&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;El comandante Seir te espera adentro.&lt;BR&gt;&lt;BR&gt;Ah, s&amp;#237;. Dougal me encarg&amp;#243; que te entregara algo al llegar al cuartel general.&lt;BR&gt;Pero, &amp;#191;d&amp;#243;nde lo habr&amp;#233; puesto? &amp;#161;Espera un segundo!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="3" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Uf, me asust&amp;#233;.&lt;BR&gt;&lt;BR&gt;Hay tanta gente entrando y saliendo por aqu&amp;#237;... En fin, no es excusa.&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma! Dougal insist&amp;#237;a en que leyeras esto.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1310">
+        <Page social="4" voiceTypeId="0">&amp;#191;Te cruzas con la &amp;#233;lite de la Garnison de Velika y finges no reconocerme a m&amp;#237;, el prefecto de la unidad especial Bruke? &amp;#161;Aj&amp;#225;, sin duda eres el novato que desea unirse a la Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n Dougal, &amp;#191;no has escatimado esfuerzos por la federaci&amp;#243;n en Island of Dawn?&lt;BR&gt;Ya he escuchado m&amp;#225;s que suficiente.&lt;NEXTPAGEBUTTON&gt;"Que nuestra colaboración sea fructuosa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Bueno, ya veremos si puedo contar contigo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Jajaja! No pongas esa cara de funeral. &amp;#161;Estaba bromeando! Solo una peque&amp;#241;a broma. &lt;BR&gt;&amp;#191;Cu&amp;#225;nto ganas como mercenario itinerante?&lt;BR&gt;&lt;BR&gt;Vamos, me conmoviste y te dar&amp;#233; un peque&amp;#241;o consejo antes de que te alistes: no te vanaglories tanto de haber derrotado a unos pocos monstruos desafortunados en Island of Dawn.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; no faltan personas talentosas y si el general Samael no te elige para su unidad especial, es porque no tienes nada de especial. &lt;BR&gt;&amp;#161;Vamos! No hagas esperar a tus superiores.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Aparentemente, el camino no fue nada f&amp;#225;cil.&lt;BR&gt;Ahora te has unido oficialmente a la Initiative de l'avant-garde y a los miembros de la Garnison d'Arun.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="1102">
+        <Page social="4" voiceTypeId="0">S&amp;#233; que acabas de regresar de una lucha encarnizada, pero a partir de ahora, el trabajo no falta. Espero que hayas tenido tiempo de recuperar fuerzas.&lt;NEXTPAGEBUTTON&gt;"Absolutamente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">A partir de ahora, debes cumplir con tu deber y tus obligaciones como soldado de los defensores federados de Velika. &lt;BR&gt;&lt;BR&gt;En el futuro, le responder&amp;#225;s al general Samael, comandante de la guarnici&amp;#243;n de Velika. Dir&amp;#237;gete al comandante Samael, que est&amp;#225; aqu&amp;#237; a mi lado.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="1137">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;s enterado, no? La situaci&amp;#243;n de nuestra guarnici&amp;#243;n de Velika es muy precaria, pero tampoco aceptamos a cualquiera.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que b&amp;#225;jate de tu nube y comienza tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

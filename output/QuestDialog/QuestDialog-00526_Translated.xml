@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">No he tenido ninguna noticia de la base de investigaci&amp;#243;n. Solo s&amp;#233; que unas hienas segu&amp;#237;an a su l&amp;#237;der. Mata a las hienas y recupera sus corazones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">&amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Ahora podemos enviar a nuestro Herald.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">&amp;#191;Has visto a las hienas? Puedo enviar a mis hombres all&amp;#237; una vez que hayas matado a algunas hienas.</Page>
+    </Text>
+</QuestDialog>

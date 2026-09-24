@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, descubr&amp;#237; d&amp;#243;nde se encuentra la quinta gema. &lt;BR&gt;Ven a verme a Highwatch.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mirriva te hizo saber d&amp;#243;nde encontrar la quinta gema, la del fr&amp;#237;o.&lt;BR&gt;Ayudaste a Lora con su trabajo para que pudiera participar en la fiesta.&lt;BR&gt;&lt;BR&gt;Tras completar con &amp;#233;xito la misi&amp;#243;n de guardianes, recibiste la gema del fr&amp;#237;o.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Hola, &lt;PCNAME&gt;.&lt;BR&gt;&amp;#161;Encontr&amp;#233; la gema del fr&amp;#237;o!&lt;BR&gt;&lt;BR&gt;Se encuentra en la Plaine gel&amp;#233;e. La mensajera {@linkcreature:34#2005#Lora} est&amp;#225; al tanto.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Rocher de la d&amp;#233;solation usando este pergamino de teletransporte.&lt;BR&gt;Una vez all&amp;#237;, habla con Lora.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="34" prevId="3" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Bienvenida a la Plaine gel&amp;#233;e.&lt;BR&gt;&lt;BR&gt;La gema del fr&amp;#237;o est&amp;#225; aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eso dicen! A decir verdad, no estoy del todo segura...&lt;NEXTPAGEBUTTON&gt;"¿Cómo que no estás del todo segura?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bueno... En realidad...&lt;br&gt;&lt;br&gt;Cambiando de tema, &amp;#191;sabes cu&amp;#225;ndo ser&amp;#225; la fiesta en Velika?&lt;BR&gt;&lt;BR&gt;Pregunto por mera curiosidad, porque...&lt;BR&gt;&lt;BR&gt;...&lt;BR&gt;&lt;BR&gt;Pues... Me gustar&amp;#237;a ir.&lt;BR&gt;&lt;BR&gt;Ser&amp;#237;a mi primera vez. Siempre estoy abrumada de trabajo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes qu&amp;#233; habr&amp;#225; en el men&amp;#250;? &amp;#191;Habr&amp;#225; alguna obra de teatro?&lt;NEXTPAGEBUTTON&gt;"No lo sé realmente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aj&amp;#225;...&lt;BR&gt;&lt;BR&gt;As&amp;#237; que escucha, guardi&amp;#225;n. Esto es lo que te propongo: puedo conseguirte la gema del fr&amp;#237;o si me ayudas.&lt;BR&gt;&lt;BR&gt;Tengo demasiadas misiones por cumplir, lo que me impide aceptar la invitaci&amp;#243;n a la fiesta.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as hacer misiones de guardianes en mi lugar?&lt;NEXTPAGEBUTTON&gt;"Trato hecho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;De verdad?!?&lt;BR&gt;&amp;#161;Mil gracias!&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Solo tendr&amp;#225;s que obtener cuatro veces&lt;/font&gt; una recompensa de misi&amp;#243;n de guardianes.&lt;BR&gt;&lt;BR&gt;Reun&amp;#225;monos en Rocher de la d&amp;#233;solation una vez que hayas completado estas misiones.&lt;BR&gt;&lt;BR&gt;&amp;#161;Hasta luego, guardi&amp;#225;n!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="34" prevId="4" villagerId="2005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, est&amp;#225;s aqu&amp;#237;, guardi&amp;#225;n! Qu&amp;#233; gusto verte de nuevo.&lt;BR&gt;&lt;BR&gt;Me quitaste un gran peso de encima.&lt;BR&gt;Por fin podr&amp;#233; ir a la fiesta... *Tos* &amp;#161;Ejem, ejem!&lt;BR&gt;&lt;BR&gt;Parece que completaste las misiones de guardianes con celo.&lt;BR&gt;&amp;#161;Qu&amp;#233; nobleza!&lt;NEXTPAGEBUTTON&gt;"Gracias, pero... ¿encontraste la gema del frío?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Claro que s&amp;#237;!&lt;BR&gt;&lt;BR&gt;Siempre cumplo mis promesas.&lt;BR&gt;&lt;BR&gt;Ya me hab&amp;#237;a ocupado de la gema del fr&amp;#237;o durante las &amp;#243;rdenes de misi&amp;#243;n de la Federaci&amp;#243;n y la hab&amp;#237;a conseguido.&lt;BR&gt;&lt;BR&gt;Es tuya.&lt;BR&gt;&lt;BR&gt;Me pregunto c&amp;#243;mo se ver&amp;#225; cuando est&amp;#233; en la corona de la eternidad para Velik...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="34" prevId="5" villagerId="2005">
+        <Page social="0" voiceTypeId="0">&amp;#161;Guau! &amp;#161;La corona es realmente hermosa!&lt;BR&gt;&amp;#161;Es incre&amp;#237;ble la fuerza m&amp;#225;gica que emana!&lt;BR&gt;&lt;BR&gt;Incluso incompleta, ya es un regalo digno de Velik.&lt;BR&gt;&lt;BR&gt;&amp;#161;Te lo agradezco, guardi&amp;#225;n!&lt;BR&gt;Me preparar&amp;#233; para la fiesta.&lt;BR&gt;&lt;BR&gt;Espero que nos encontremos en la Sala de banquet.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#191;Todo sali&amp;#243; bien? &amp;#191;Obtuviste la gema del fr&amp;#237;o?&lt;NEXTPAGEBUTTON&gt;"Míralo tú mismo. Aquí tienes la corona de la eternidad trascendente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Oh, est&amp;#225; casi completa!&lt;br&gt;&lt;BR&gt;&amp;#161;Toma! En agradecimiento por el esfuerzo que hiciste.&lt;br&gt;Espero que esto te sea &amp;#250;til en tus aventuras.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; en cuanto sepa algo m&amp;#225;s sobre otra gema, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hasta pronto, guardi&amp;#225;n.</Page>
+    </Text>
+</QuestDialog>

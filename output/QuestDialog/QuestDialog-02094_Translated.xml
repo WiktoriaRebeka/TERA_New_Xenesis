@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3510#Surdan} ha pedido refuerzos en el campo. Naturalmente, pensamos en ti.&lt;BR&gt;&lt;BR&gt;Ve a la Base de la T&amp;#233;nacit&amp;#233; y s&amp;#233; &amp;#250;til.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="4">Oh, s&amp;#237;. Tenemos tantas cosas que estudiar y tan poco tiempo.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;as ayudarme mucho recolectando diferentes espec&amp;#237;menes para su estudio. No deber&amp;#237;a representar un gran desaf&amp;#237;o para un soldado de tu calibre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Ah, icor de sapo cornudo. Sorprendente.&lt;BR&gt;&lt;BR&gt;Percibo algunas diferencias intrigantes debido a una contaminaci&amp;#243;n argon, de eso no hay duda.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3510">
+        <Page social="0">El icor de los {@LinkCreature:45#2002#crapauds cornus argonomorphes} ser&amp;#225; una muestra excelente para estudiar.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Voy a proceder con an&amp;#225;lisis de sangre para determinar el origen de la contaminaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esperemos que esto d&amp;#233; alg&amp;#250;n resultado.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3510">
+        <Page social="0">La sangre contaminada de los {@linkcreature:45#2001#pestesangs argonomorphes} ser&amp;#237;a un tema de estudio excelente.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Tal vez logremos encontrar una relaci&amp;#243;n entre estas criaturas contaminadas. Gracias.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3510">
+        <Page social="0">Quisiera analizar las lentejas de agua que crecen cerca del h&amp;#225;bitat natural de los {@LinkCreature:45#2002#crapauds cornus argonomorphes}.&lt;BR&gt;&lt;BR&gt;Esto sin duda nos permitir&amp;#225; identificar los efectos de la transmutaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

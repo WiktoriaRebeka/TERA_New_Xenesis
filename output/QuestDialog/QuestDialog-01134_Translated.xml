@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1022">
+        <Page social="4">Unos guardianes de las runas nos impiden llegar a {@Rgn:45003$$Val du Faucheur}. Si logras cruzar sus filas para llegar a {@Rgn:45007$$Base de la R&amp;#233;sistance}, nos har&amp;#237;as un gran favor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1001">
+        <Page social="4">&amp;#191;Vienes de {@Rgn:45002$$Abords de la Tour}? Perfecto. Estoy seguro de que Rennie encontrar&amp;#225; algo en lo que ocuparte. Ella no descansa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1001">
+        <Page social="0">Gracias por librarnos de algunos guardianes de las runas. Odio esas cosas.</Page>
+    </Text>
+</QuestDialog>

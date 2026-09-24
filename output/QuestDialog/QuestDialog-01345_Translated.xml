@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Muhrak el Forgeron l&amp;#233;gendaire te pidi&amp;#243; materiales para renovar las existencias de su taller. Se los trajiste y &amp;#233;l se encarg&amp;#243; de crear un arma incre&amp;#237;ble: la Torche des dieux.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">P&amp;#225;sate por mi taller. &amp;#161;Necesito materiales!&lt;BR&gt;&lt;BR&gt;El herrero</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Ah, al fin llegas. &amp;#161;Te estaba esperando! &lt;BR&gt;&lt;BR&gt;Si tuvi&amp;#233;ramos una forja divina, no necesitar&amp;#237;amos estos materiales, &amp;#161;pero la fusi&amp;#243;n de las reliquias antiguas y la esencia del n&amp;#250;cleo requiere un calor intenso y agua pura para templar los materiales incandescentes!&lt;BR&gt;&lt;BR&gt;Gracias por conseguir m&amp;#233;dula de hielo, m&amp;#233;dula de fuego y fragmentos de glaciar. &lt;BR&gt;Encontrar&amp;#225;s todos estos objetos en el Vall&amp;#233;e des aiguilles.&lt;NEXTPAGEBUTTON&gt;"¿Dónde exactamente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">La m&amp;#233;dula de hielo y la m&amp;#233;dula de fuego son una especie de cristales generados en el n&amp;#250;cleo de los antiguos gigantes de hielo. &lt;BR&gt;&lt;BR&gt;El jefe sin duda es bastante viejo. Lo encontrar&amp;#225;s en Raseri Festning. &lt;BR&gt;&lt;BR&gt;Consigue fragmentos de glaciar bajo el puente que lleva a la Crique de Glacecroc. &amp;#161;Vamos, en marcha!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Bien. Con esto podr&amp;#233; fusionar las reliquias antiguas y la esencia del n&amp;#250;cleo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">&amp;#161;Necesito materiales!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1" voiceTypeId="0">&amp;#161;Por fin! Hemos logrado fusionar las reliquias antiguas y la esencia del n&amp;#250;cleo. &lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora podremos eliminar a Kelsaik! &lt;BR&gt;&lt;BR&gt;&amp;#161;Ve y dale su merecido! &lt;BR&gt;&lt;BR&gt;Habla con el ingeniero castanic en Habere antes de partir hacia la Tour d'&amp;#233;b&amp;#232;ne.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1" voiceTypeId="0">&amp;#191;Te manda Muhrak? &amp;#191;Quieres entrar en la Tour d'&amp;#233;b&amp;#232;ne?&lt;BR&gt;&lt;BR&gt;Hasta ahora, nadie ha conseguido entrar porque un poderoso veneno la protege.&lt;BR&gt;&lt;BR&gt;*tos* &amp;#161;Pero, a petici&amp;#243;n de Muhrak, he instalado aparatos por los alrededores para neutralizar el veneno! &lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que este se ha debilitado considerablemente!&lt;BR&gt;Y, sin embargo, ning&amp;#250;n humano ordinario ha entrado en estos lugares. Pero por lo que te conozco, soportar&amp;#225;s un poco de veneno.</Page>
+    </Text>
+</QuestDialog>

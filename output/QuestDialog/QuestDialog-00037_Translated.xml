@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1045">
+        <Page social="4">Mi padre era le&amp;#241;ador de profesi&amp;#243;n, pero tambi&amp;#233;n de coraz&amp;#243;n: adoraba la naturaleza. Cuando talaba &amp;#225;rboles, siempre iba a replantar una cantidad superior de semillas, explic&amp;#225;ndome que era fundamental devolverle a la naturaleza lo que nos hab&amp;#237;a ofrecido.&lt;BR&gt;&lt;BR&gt;Siempre insist&amp;#237;a en la importancia de comprender a las hadas y de vivir en armon&amp;#237;a con este pueblo, en un respeto mutuo por la naturaleza y el bosque... pero eso era... antes de que todo esto sucediera.&lt;NEXTPAGEBUTTON&gt;"¿Qué? ¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Mi padre manten&amp;#237;a una buena relaci&amp;#243;n con las hadas que viv&amp;#237;an cerca del bosque. Era especialmente cercano a un centauro llamado {@LinkCreature:2#203#Likhan}.&lt;BR&gt;&lt;BR&gt;Por lo que contaba mi padre, al principio pens&amp;#233; que los centauros eran criaturas sabias y benevolentes.&lt;BR&gt;&lt;BR&gt;Pero un d&amp;#237;a, mi padre no regres&amp;#243; de una de sus excursiones cuando hab&amp;#237;a ido a visitar a Likhan. Encontramos su cuerpo lleno de marcas de lanza y cubierto de hematomas dejados por cascos. Fue atroz.&lt;NEXTPAGEBUTTON&gt;"Yo soy {@g:désolé/désolée}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Fue asesinado con una lanzada de ese centauro. Lo s&amp;#233; porque encontr&amp;#233; un adorno de lanza &amp;#250;nico que {@LinkCreature:2#203#Likhan} llevaba consigo. &amp;#161;Nunca se lo perdonar&amp;#233;! Te lo suplico, &lt;PCNAME&gt;, &amp;#161;mata a esa bestia malvada y ven&amp;#237;a la muerte de mi padre!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1045">
+        <Page social="4">Oh, padre... s&amp;#233; que nos volveremos a encontrar alg&amp;#250;n d&amp;#237;a en el Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Que descanses en paz. Gracias, &lt;BR&gt;.</Page>
+    </Text>
+</QuestDialog>

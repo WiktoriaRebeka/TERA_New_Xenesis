@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Muy bien... tienes el alkahest, un arma que se puede encantar y un arma para sacrificar.&lt;BR&gt;&lt;BR&gt;A trabajar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Encantar un objeto permite mejorarlo, pero solo las piezas de equipo que se pueden encantar reciben este tratamiento.&lt;BR&gt;&lt;BR&gt;Un objeto puede alcanzar as&amp;#237; tres niveles de potencia distintos, pero hasta que t&amp;#250; mismo hayas ganado poder, conc&amp;#233;ntrate en el primero.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Cuando encantas un objeto, debes sacrificar otro del mismo tipo y nivel. Te he entregado un arma rara de nivel 5, dos armas normales y dos armas poco comunes.&lt;BR&gt;&lt;BR&gt;Primero, accede al men&amp;#250; de encantamiento presionando la tecla &quot;T&quot;. Haz clic derecho sobre el objeto que deseas encantar, seguido del objeto a sacrificar y el alkahest, antes de hacer clic en el bot&amp;#243;n Encantar.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado, cuanto m&amp;#225;s encantas un objeto, m&amp;#225;s dif&amp;#237;cil es volver a hacerlo. Si alguna vez fallas, vuelve a intentarlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">&amp;#191;Ya est&amp;#225;s? Bien...&lt;BR&gt;&lt;BR&gt;Cuanto m&amp;#225;s poderoso sea tu equipo, m&amp;#225;s dif&amp;#237;cil ser&amp;#225; encantarlo, pero el uso de material de mayor calidad puede facilitarte la tarea. Intenta encantar tu arma de nuevo usando el arma de calidad poco com&amp;#250;n.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1605">
+        <Page social="0">&amp;#161;Lo lograste! Bien hecho.&lt;BR&gt;&lt;BR&gt;No es necesario buscar alcanzar directamente el potencial m&amp;#225;ximo de tus objetos, pero tarde o temprano te ser&amp;#225; &amp;#250;til.&lt;BR&gt;&lt;BR&gt;Eres {@gender:un/une} {@gender:bon/bonne} {@gender:&amp;#233;tudiant/&amp;#233;tudiante}, &lt;PCNAME&gt;. Espero haberte sido de ayuda.</Page>
+    </Text>
+</QuestDialog>

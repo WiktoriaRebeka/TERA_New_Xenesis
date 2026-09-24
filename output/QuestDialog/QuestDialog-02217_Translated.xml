@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">Ahora te revelar&amp;#233; por qu&amp;#233; estoy aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Conoces la leyenda del Marais Vexatus?&lt;BR&gt;Afirma que un tibur&amp;#243;n dorado habita aqu&amp;#237;.&lt;BR&gt;Quiero capturarlo.&lt;NEXTPAGEBUTTON&gt;"Cuéntame más al respecto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Me pareces un pescador competente. &amp;#191;Quieres hacer una peque&amp;#241;a apuesta?&lt;BR&gt;El primero que capture al tibur&amp;#243;n dorado gana.&lt;BR&gt;Si pierdo, te doy todas mis insignias de pesca.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Gritmo quer&amp;#237;a atrapar a la bestia del Marais Vexatus. Te propuso una apuesta para ver cu&amp;#225;l de los dos la atrapaba primero. Ganaste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">&amp;#161;Genial! Entonces significa que fui demasiado lento. Pensar que eres capaz de atrapar semejante bestia... &amp;#161;Eres realmente h&amp;#225;bil, &lt;PCNAME&gt;!&lt;BR&gt;No me equivoqu&amp;#233;.&lt;BR&gt;Perd&amp;#237; y aqu&amp;#237; est&amp;#225; la recompensa prometida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Entonces, &amp;#191;c&amp;#243;mo va lo del tibur&amp;#243;n dorado? No olvides que solo puedes capturarlo t&amp;#250; mismo.</Page>
+    </Text>
+</QuestDialog>

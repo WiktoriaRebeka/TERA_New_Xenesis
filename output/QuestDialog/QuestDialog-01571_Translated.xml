@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="85" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">&amp;#161;Ha llegado el momento de realizar encantamientos para conseguir mayores bonificaciones! En tu ventana de encantamiento, puedes hacer encantamientos repetidos usando todos tus materiales haciendo clic en la funci&amp;#243;n de encantamiento autom&amp;#225;tico.&lt;BR&gt;&lt;BR&gt;Ten cuidado, sin embargo: el uso del encantamiento autom&amp;#225;tico emplea la cantidad &amp;#243;ptima y no el m&amp;#237;nimo requerido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="0">No es necesario buscar alcanzar el potencial m&amp;#225;ximo de tus objetos de inmediato. Pero tarde o temprano, te ser&amp;#225; &amp;#250;til. Ver&amp;#225;s que usar m&amp;#225;s materia prima al intentar conseguir mayores bonificaciones promete mejores resultados.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s {@gender:un/une} {@gender:bon/bonne} {@gender:&amp;#233;tudiant/&amp;#233;tudiante}, &lt;PCNAME&gt;. Espero haberte sido de ayuda.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Los nobles vampiros de la Citadelle du Tourment difunden su corrupci&amp;#243;n por toda la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Mata a los {@LinkCreature:33#3#nobles vampires}, los {@LinkCreature:33#53#nobles vampires maudites}, los {@LinkCreature:33#4#nobles vampires}, los {@LinkCreature:33#54#nobles vampires maudits}, los {@LinkCreature:33#5#bouffons maudits}, los {@LinkCreature:33#55#bouffons infernaux}, los {@LinkCreature:33#6#spectres malveillants} y los {@LinkCreature:33#7#d&amp;#233;fenseurs eldritch}.&lt;BR&gt;&lt;BR&gt;Una vez cumplida la misi&amp;#243;n, ve a presentar tu informe a la coordinadora Celion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">&amp;#161;La Federaci&amp;#243;n quiere entregarte esta recompensa! &amp;#161;Con nuestros agradecimientos a todos los miembros de la hermandad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

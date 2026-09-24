@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">S&amp;#233; que tienes mucho trabajo, &lt;PCCLASS:lcase&gt;, pero {@LinkCreature:76#1018} me pidi&amp;#243; que hablara contigo si ten&amp;#237;as un poco de tiempo para dedicarme.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#1036} parti&amp;#243; hacia Kaiator esta ma&amp;#241;ana. Admiro su perseverancia y quer&amp;#237;a agradecerte tu generosidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1018">
+        <Page social="6">Cuando {@LinkCreature:84#1222} lleg&amp;#243; por primera vez a {@Rgn:76001}, su ambici&amp;#243;n me impresion&amp;#243;. Si hubiera nacido en Castanica, sin duda se habr&amp;#237;a organizado un rito de paso espectacular en su honor.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as entregarle esta empu&amp;#241;adura de espada a {@LinkCreature:84#1222} como muestra de mi estima?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="3" villagerId="1222">
+        <Page social="6">Estoy terriblemente nervioso. Mi hushang empieza en una hora... Todos tendr&amp;#225;n los ojos puestos en m&amp;#237;. La mism&amp;#237;sima Kaia me ha dado su bendici&amp;#243;n. Me dijo que tengo un aspecto estupendo.&lt;BR&gt;&lt;BR&gt;No se puede tener m&amp;#225;s suerte que yo.&lt;NEXTPAGEBUTTON&gt;"En efecto, y mira esto..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">&amp;#191;Qu&amp;#233;? Es incre&amp;#237;ble... Voy a montarlo en mi espada. As&amp;#237;, nunca olvidar&amp;#233; a quienes me ayudaron a hacer de mi hushang un &amp;#233;xito.&lt;BR&gt;&lt;BR&gt;Muchas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

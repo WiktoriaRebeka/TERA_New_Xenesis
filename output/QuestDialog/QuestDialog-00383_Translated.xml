@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Por lo general, los noruks son criaturas d&amp;#243;ciles, pero la m&amp;#225;s m&amp;#237;nima fluctuaci&amp;#243;n de energ&amp;#237;a m&amp;#225;gica los saca de quicio.&lt;BR&gt;&lt;BR&gt;Necesito que vayas a cazar unos {@LinkCreature:13#300921#noruks} antes de llevar muestras de su pelaje a Nezire, en el puesto de vigilancia del norte.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#225;s con ello? Los noruks son un poco m&amp;#225;s duros que los ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1004">
+        <Page social="4">&amp;#161;Has hecho un buen trabajo, &lt;PCNAME&gt;! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1004">
+        <Page social="0">&amp;#161;Cuidado con la embestida de los noruks! &amp;#161;Es devastadora!</Page>
+    </Text>
+</QuestDialog>

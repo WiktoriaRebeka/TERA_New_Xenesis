@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">Lo que un gula no se come, lo convierte en su esclavo. Y, al cabo de un tiempo, &amp;#161;los esclavos se arrepienten de no haber pasado por la mesa del carnicero!&lt;BR&gt;&lt;BR&gt;Si matamos suficientes {@LinkCreature:8#2031#esclavagistes} y {@LinkCreature:8#2041#ma&amp;#238;tres gulas}, &amp;#161;derribaremos su red de esclavitud!&lt;BR&gt;&lt;BR&gt;El esfuerzo vale la pena, &amp;#191;no?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Bien jugado, &lt;PCNAME&gt;. Hay bastante crueldad en este mundo... no hace falta a&amp;#241;adirle la de los gulas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">&amp;#191;No te molesta la esclavitud? &amp;#191;Ni siquiera un poquito?</Page>
+    </Text>
+</QuestDialog>

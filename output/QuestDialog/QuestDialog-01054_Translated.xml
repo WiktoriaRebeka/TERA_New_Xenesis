@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Si la plaga se limitara a matar a la gente, ser&amp;#237;a una suerte dentro de nuestra desgracia. Pero en vez de eso, transforma a los supervivientes en monstruos. Tengo tanto miedo de que me termine pasando...&lt;BR&gt;&lt;BR&gt;Tengo una triste tarea que encomendarte, si aceptas la carga. Me gustar&amp;#237;a que fueras a abreviar el sufrimiento de los {@LinkCreature:40#28#espions selvaras}, los {@LinkCreature:40#15#travailleurs mutants} y los {@LinkCreature:40#30#trilames mutants}.&lt;BR&gt;&lt;BR&gt;No me gustar&amp;#237;a estar en su lugar, &amp;#191;a ti s&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Has demostrado misericordia, &lt;PCNAME&gt;. Nunca olvides eso.</Page>
+    </Text>
+</QuestDialog>

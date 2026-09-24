@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0">A pesar de sus denodados esfuerzos, los gulas segu&amp;#237;an arrebatando Humanos. Se enter&amp;#243; de que Hennika, la hermana de Detrian, era una de las v&amp;#237;ctimas de un secuestro. Pero Detrian se hab&amp;#237;a lanzado en su persecuci&amp;#243;n incluso antes de que tuviera la oportunidad de informarle. En el Mercado de esclavos, solo logr&amp;#243; liberar a Hennika. No quedaba nada de su hermano, salvo su espada, que recuper&amp;#243; y entreg&amp;#243; a Hennika como recuerdo. Ante la espada de Detrian, ella jur&amp;#243; unirse a la espada de Kaia y vengar a su hermano.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">&amp;#161;Ya es hora de ponerle fin a esto! &amp;#161;Los gulas se han vuelto completamente incontrolables! Deben haber excavado un Pasaje secreto en alguna parte.&lt;BR&gt;&lt;BR&gt;Debemos liberar a los rehenes. Tome esta orden de liberaci&amp;#243;n y encuentre a todas las personas de la lista. Lea atentamente la orden de liberaci&amp;#243;n antes de ir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Si busca a Detrian... Se enter&amp;#243; del secuestro de su hermana y parti&amp;#243; de inmediato. Sin duda busca encontrar a los rehenes. Si parte en su b&amp;#250;squeda, seguramente se cruce con Detrian.&lt;BR&gt;&lt;BR&gt;El Puesto Alfa de la Vanguardia se encuentra en el camino que lleva a las Catacumbas de las Cavernas hambrientas. Los exploradores ya est&amp;#225;n reuniendo informaci&amp;#243;n para liberar a las v&amp;#237;ctimas de los gulas. &amp;#161;Vaya a ver a Loxetrius para que le d&amp;#233; m&amp;#225;s informaci&amp;#243;n y luego libere a los rehenes!&lt;BR&gt;&lt;BR&gt;Tal vez incluso sepa algo sobre Detrian.&lt;BR&gt;&lt;BR&gt;Vamos, dese prisa. Ser&amp;#237;a una l&amp;#225;stima llegar demasiado tarde.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="5" voiceTypeId="0">&amp;#191;Se encarga usted de la liberaci&amp;#243;n? Cre&amp;#237; que esa era la misi&amp;#243;n de Detrian.&lt;BR&gt;&lt;BR&gt;(Le explica que Detrian se march&amp;#243; por iniciativa propia para liberar a su hermana Hennika.)&lt;BR&gt;&lt;BR&gt;&amp;#161;Su hermana! Karina jam&amp;#225;s le habr&amp;#237;a confiado una misi&amp;#243;n tan peligrosa a un novato como Detrian. Deber&amp;#237;a haberlo pensado. &amp;#161;Argh, debemos darnos prisa!&lt;BR&gt;&lt;BR&gt;El segundo piso de la Caverna del hambre alberga cocinas donde los Humanos terminan en las ollas de los cocineros gulas. &amp;#161;Registre esas habitaciones! &amp;#161;Por la gracia de Kaia! &amp;#161;Espero que no llegue demasiado tarde!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1031">
+        <Page social="5" voiceTypeId="0">(Estos cad&amp;#225;veres tienen marcas de mordiscos.)&lt;BR&gt;&lt;BR&gt;Los gulas tienen esto sobre la conciencia. Llevan muertos un buen tiempo. No son las v&amp;#237;ctimas de los secuestros recientes.&lt;BR&gt;&lt;BR&gt;Por all&amp;#237; hay m&amp;#225;s. No hay ni un solo sobreviviente por aqu&amp;#237;. Vuelva a presentar su informe a Loxetrius, en el Puesto Alfa de la Vanguardia.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1022">
+        <Page social="5" voiceTypeId="0">&amp;#191;No encontr&amp;#243; restos de las v&amp;#237;ctimas de los secuestros recientes? Entonces sin duda est&amp;#225;n en el tercer s&amp;#243;tano. Los gulas encierran all&amp;#237; a quienes a&amp;#250;n no planean devorar o vender.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n encontrar&amp;#225; all&amp;#237; el Puesto de la Vanguardia. La prefecta Rendia tal vez tenga m&amp;#225;s informaci&amp;#243;n sobre los desaparecidos. Vaya a verla.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Yo tambi&amp;#233;n creo que los rehenes est&amp;#225;n prisioneros en la mazmorra del tercer s&amp;#243;tano. Siga este camino para llegar a la zona que los gulas llaman la &quot;Caverna de las l&amp;#225;grimas&quot;. Encontrar&amp;#225; dos prisiones all&amp;#237;. Primero llegar&amp;#225; a la {@linkcreature:208#1024#premi&amp;#232;re prison}.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; custodiada por gulones anormales. Elim&amp;#237;nelos y examine las celdas. Tal vez pueda liberar a los rehenes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1024">
+        <Page social="5" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! *tos*&lt;BR&gt;&lt;BR&gt;(A Detrian le cuesta respirar.)&lt;BR&gt;&lt;BR&gt;No ten&amp;#237;a la menor oportunidad. &lt;PCNAME&gt;, no pude salvar a nadie. Encontr&amp;#233; a Hennika y a las dem&amp;#225;s v&amp;#237;ctimas de los secuestros, pero no pude hacer nada.&lt;BR&gt;&lt;BR&gt;Los {@linkcreature:8#4011#gulons anormaux} los trasladaron a la segunda prisi&amp;#243;n. Necesito un peque&amp;#241;o respiro... Se lo ruego, elim&amp;#237;nelos... y libere a mi hermana. Por favor, ay&amp;#250;deme.&lt;BR&gt;&lt;BR&gt;La &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7004#78829,63010,-3794&amp;type=1&amp;name=deuxi&amp;#232;me prison&quot;&gt;segunda prisi&amp;#243;n&lt;/A&gt;&lt;/font&gt; est&amp;#225; ubicada... ah&amp;#237;... Se lo ruego... salve... a mi her... hermana...&lt;NEXTPAGEBUTTON&gt;"¡Se lo prometo!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, cuento... con usted.&lt;BR&gt;&lt;BR&gt;Tengo que descansar un poco...&lt;BR&gt;&lt;BR&gt;Solo un momento...&lt;BR&gt;&lt;BR&gt;(Detrian exhala su &amp;#250;ltimo suspiro y su pulso se detiene. Sus ojos siguen abiertos, como si todav&amp;#237;a buscara a su hermana con la mirada.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1027">
+        <Page social="5" voiceTypeId="0">&amp;#161;Qu&amp;#233; feliz estoy de verle!&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; alegr&amp;#237;a! &amp;#161;Ya me ve&amp;#237;a terminando en un guiso! &amp;#191;Forma parte de la misma unidad que este joven soldado que nos encontr&amp;#243;? Ha luchado con tanta valent&amp;#237;a...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1028">
+        <Page social="5" voiceTypeId="0">&amp;#161;Gracias por salvarme la vida! &amp;#161;Muchas gracias!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="208" prevId="8" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Muchas gracias. Menos mal que no perdimos toda esperanza de ser liberados. &amp;#191;Qu&amp;#233; ha sido del joven que result&amp;#243; herido al intentar liberarnos?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="208" prevId="8" villagerId="1005">
+        <Page social="5" voiceTypeId="0">Gracias por rescatarnos. Hennika... qu&amp;#233; tragedia. El soldado que intent&amp;#243; rescatarnos era su hermano, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="208" prevId="8" villagerId="1026">
+        <Page social="5" voiceTypeId="0">Gracias por su valiosa ayuda. Cre&amp;#237;a de verdad que terminar&amp;#237;a en una sart&amp;#233;n de los gulas. &amp;#191;Qu&amp;#233; ha sido del joven que intent&amp;#243; liberarnos? &amp;#161;No, es imposible!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="208" prevId="9" villagerId="1025">
+        <Page social="5" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;, mi hermano, Detrian!&lt;BR&gt;&lt;BR&gt;(Le cuenta a Hennika que su hermano ha muerto.)&lt;BR&gt;&lt;BR&gt;&amp;#191;Mi hermano ha... muerto? Miente, &amp;#191;verdad? *snif*&lt;NEXTPAGEBUTTON&gt;"Sus últimos pensamientos fueron para usted..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">*snif* &amp;#161;&lt;PCNAME&gt;! &amp;#161;Venge a mi hermano! Ha luchado con tanta valent&amp;#237;a para arrebatarnos de las garras de los gulas...&lt;BR&gt;&lt;BR&gt;Ese vil inquisidor lo apu&amp;#241;al&amp;#243; cobardemente por la espalda. Rob&amp;#243; la espada de mi hermano.&lt;BR&gt;&lt;BR&gt;*snif* &amp;#161;Se lo ruego, vaya a recuperarla!&lt;BR&gt;&lt;BR&gt;&amp;#161;El inquisidor huy&amp;#243; hacia el norte! Elimine al &lt;PCNAME&gt; y tr&amp;#225;igame su espada.&lt;NEXTPAGEBUTTON&gt;"¡Se la traeré!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Ha jurado recuperar la espada de Detrian. Le ruega a Hennika que siga a los dem&amp;#225;s a un lugar seguro, en el Puesto de avanzada del vengador.)&lt;BR&gt;&lt;BR&gt;Muy bien. Prom&amp;#233;tamelo... la espada de mi hermano...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1030">
+        <Page social="5" voiceTypeId="0">(Le entrega la espada de Detrian a Hennika.)&lt;BR&gt;&lt;BR&gt;La espada de Detrian... &amp;#161;Se lo agradezco! Juro sobre esta espada que me unir&amp;#233; a la espada de Kaia, como Detrian. Seguir&amp;#233; su ejemplo y el suyo y salvar&amp;#233; Humanos. &amp;#161;Se lo juro!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="208" villagerId="1030">
+        <Page social="0">&amp;#161;Por favor, venga a mi hermano! &amp;#161;Elimina al vulgar inquisidor y tr&amp;#225;eme la espada de mi hermano!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="208" prevId="15" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Has liberado a las v&amp;#237;ctimas del secuestro. Te lo agradezco infinitamente. Pero hemos perdido a un buen soldado.&lt;BR&gt;&lt;BR&gt;(Karina se recata un momento.)&lt;BR&gt;&lt;BR&gt;Detrian ten&amp;#237;a un futuro radiante por delante. Rezo por la salvaci&amp;#243;n de su alma. Te agradezco por haber rescatado a los Humans y vengado a Detrian.</Page>
+    </Text>
+</QuestDialog>

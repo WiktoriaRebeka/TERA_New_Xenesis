@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Algo que t&amp;#250; {@gender:seul/seule} puedas hacer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Todas las m&amp;#225;quinas guardianas del refugio no se desactivaron como deb&amp;#237;an. {@LinkCreature:71#3007#Bakra} te lo va a explicar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Los guardianes ancestrales custodian el {@Rgn:30004$$Hall de la for&amp;#234;t}, el {@Rgn:30007$$Pavillon de Balder} y el {@Rgn:30009$$Ruines du temple}.&lt;BR&gt;&lt;BR&gt;Ciertamente es posible restaurar a un guardi&amp;#225;n destruido, pero mientras tanto, puedes acceder libremente. Destruye a los guardianes ancestrales.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Gracias, {@gender:valeureux/valeureuse} {@gender:h&amp;#233;ros/h&amp;#233;ro&amp;#239;ne}. &amp;#161;Si al menos atacaran a los perezosos, les tendr&amp;#237;a m&amp;#225;s clemencia!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="3007">
+        <Page social="4">No puedo podar mis vi&amp;#241;edos mientras este bruto pueda venir en cualquier momento a partirme en dos.&lt;BR&gt;&lt;BR&gt;Cuento con tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="3007">
+        <Page social="4">&amp;#191;Aniquilaste al {@linkcreature:30#3003#golem de laiton d&amp;#233;truit} cerca de los {@Rgn:30009$$Ruines du temple}?&lt;BR&gt;&lt;BR&gt;&amp;#161;Muy bien! As&amp;#237; que no tendremos que preocuparnos por los {@Rgn:30009$$Ruines du temple} por un tiempo. &amp;#161;Je, je!</Page>
+    </Text>
+</QuestDialog>

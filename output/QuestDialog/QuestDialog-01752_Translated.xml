@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt; inform&amp;#243; al Praetor Braga de que Verikam hab&amp;#237;a sido secuestrado y que las tablillas de los titanes estaban en manos de Lakan. &lt;BR&gt;A petici&amp;#243;n de Braga, Skald Omero compuso un poema para difundir la noticia, lo que conmocion&amp;#243; profundamente a todos los Barakas de Highwatch.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! &lt;BR&gt;Esto es lo que debes hacer por mi: ve a hablar con Braga, el praetor de la ciudad, y expl&amp;#237;cale que Verikam ha sido secuestrado y que las tablillas de los titanes han sido robadas. &lt;BR&gt;Me pondr&amp;#233; en contacto con el comandante Seir para pedirle refuerzos.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Ah, qu&amp;#233; d&amp;#237;a tan triste aquel en el que me entero de que Verikam ha sido secuestrado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; tonto fui por no quedarme al lado del Venerable!&lt;BR&gt;&lt;BR&gt;Si tan solo hubiera estado con &amp;#233;l...&lt;NEXTPAGEBUTTON&gt;"Estaba allí: no habrías podido hacer nada para salvarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Intenta reprimir sus emociones.) ... Absolutamente. &lt;BR&gt;&lt;BR&gt;Dado que las tablillas de los titanes han sido robadas, es imperativo advertir a todos los Barakas y hacerles comprender la magnitud del peligro.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a Agora y encontrar all&amp;#237; a Skald Omeros mientras yo me encargo de esta tarea? Cu&amp;#233;ntale lo sucedido y p&amp;#237;dele que difunda la informaci&amp;#243;n por todo Agora y sus alrededores.&lt;BR&gt;La noticia debe correr como la p&amp;#243;lvora. Sus poemas no tardar&amp;#225;n en poner al corriente a todos los Barakas del continente.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Ya... veo. Es un d&amp;#237;a tr&amp;#225;gico para todo Highwatch y debemos hacer todo lo posible para encontrar al Venerable sano y salvo.&lt;BR&gt;&lt;BR&gt;Me dirijo a los m&amp;#237;os y les pedir&amp;#233; que difundan la noticia.&lt;BR&gt;&lt;BR&gt;Por favor, informa al Praetor Braga de que le enviar&amp;#233; a todas las personas que se presenten.&lt;NEXTPAGEBUTTON&gt;"Muchas gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Gracias, &lt;PCNAME&gt;. He hecho algunos arreglos para reunir un balance de las fuerzas presentes aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Con la desaparici&amp;#243;n de dos de nuestras entidades culturales m&amp;#225;s importantes, me temo que Highwatch sea muy vulnerable.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n deber&amp;#237;as prepararte.&lt;NEXTPAGEBUTTON&gt;"Me voy a preparar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="4">Mientras te ocupabas de los destripadores, hice un peque&amp;#241;o reconocimiento a lo largo de las paredes del desfiladero.&lt;BR&gt;&lt;BR&gt;Avist&amp;#233; varios {@LinkCreature:24#19#d&amp;#233;formateurs eldritch} y {@LinkCreature:24#20#gardes noirs}. Su presencia no puede ser una coincidencia justo ahora que los destripadores avanzan. Vigilar&amp;#233; a los destripadores mientras t&amp;#250; los eliminas. Trae todo lo que encuentres. Veremos qu&amp;#233; podemos hacer con eso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="4">&amp;#191;Tampoco tienes idea? &amp;#161;Hum! S&amp;#233; que algo anormal est&amp;#225; pasando. Seguiremos estando atentos.&lt;BR&gt;&lt;BR&gt;Toma un descanso y no olvides hidratarte. &amp;#161;Si mueres, har&amp;#233; que te resuciten solo para poder patearte el trasero!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">&amp;#191;Est&amp;#225;s esperando una invitaci&amp;#243;n en papel de seda? &amp;#161;M&amp;#250;evete, soldado!</Page>
+    </Text>
+</QuestDialog>

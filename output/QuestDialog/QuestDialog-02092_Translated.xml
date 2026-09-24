@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3509}, de {@Rgn:47006$$Base de la Folie}, tiene un problema que lo... consume.&lt;BR&gt;&lt;BR&gt;Encu&amp;#233;ntralo e intenta ayudarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">&amp;#161;Ah, refuerzos! Es justo lo que esperaba.&lt;BR&gt;&lt;BR&gt;La presencia de mugatos y osos Tirkai alrededor de la base, adem&amp;#225;s de sus cong&amp;#233;neres argonomorfos, hace que cualquier misi&amp;#243;n de reconocimiento sea demasiado peligrosa.&lt;BR&gt;&lt;BR&gt;M&amp;#225;talos, empaquetalos y m&amp;#225;ndalos a Pora Elinu, o a quien quieras, pero ya no los quiero por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">Unos osos muertos hacen felices a los investigadores. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

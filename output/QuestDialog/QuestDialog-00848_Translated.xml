@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">&amp;#161;Quiz&amp;#225;s lo de las armas no funcion&amp;#243;, pero esta vez tengo el plan perfecto para ganarme el favor de Nashwa!&lt;BR&gt;&lt;BR&gt;Kaidun entrega Insignias de rango especiales a sus mejores oficiales. &amp;#161;Seguro que a Nashwa le encantan esas rarezas! &amp;#191;Podr&amp;#237;as conseguirme algunas de los {@LinkCreature:32#15#loyalistes sihrans}? Ir&amp;#237;a en persona, pero... ya demostraste que para ti es pan comido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">&amp;#161;Cuando le lleve esto, Nashwa caer&amp;#225; rendida a mis pies! &amp;#161;No tengo palabras para agradecerte, pero esta recompensa lo compensar&amp;#225;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">Si le llevo las Insignias de rango de los {@LinkCreature:32#15#loyalistes sihrans}, Nashwa ver&amp;#225; que pienso en ella, &amp;#191;no?</Page>
+    </Text>
+</QuestDialog>

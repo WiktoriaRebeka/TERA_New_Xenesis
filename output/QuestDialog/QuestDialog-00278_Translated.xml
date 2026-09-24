@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="4">Se dice que ver a un {@LinkCreature:10#7#mycanar vicieux} es de mal ag&amp;#252;ero.&lt;BR&gt;&lt;BR&gt;Sea fundada o no esa creencia, los Mycanars bloquean el camino hacia Castanica. Vamos a ense&amp;#241;arle a estos payasos qui&amp;#233;n manda por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Despeja el camino, &lt;PCNAME&gt;. Rompen filas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1112">
+        <Page social="4">&amp;#161;Buen trabajo, &lt;PCNAME&gt;! Tal vez podr&amp;#237;amos celebrarlo con un poco de flambewhisky.</Page>
+    </Text>
+</QuestDialog>

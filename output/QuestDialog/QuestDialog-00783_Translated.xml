@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">Los Conso han vivido durante siglos en el Refugio de Balder. Imperios han prosperado y declinado, pero nunca hemos abandonado este lugar.&lt;BR&gt;&lt;BR&gt;Tengo cierta noci&amp;#243;n de lo que pas&amp;#243; en el mundo exterior, pero mi conocimiento de lo que llamas &quot;eventos actuales&quot; es lamentablemente inadecuado.&lt;BR&gt;&lt;BR&gt;Recorre el mundo, &lt;BR&gt;, y escucha las historias. Luego ven a tra&amp;#233;rmelas, pero ante todo: escucha de verdad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1037">
+        <Page social="1">&amp;#191;Nandu quiere que le cuente la historia de los Poporis desde la muerte del dios Balder? &amp;#191;Tiene un mes que malgastar?&lt;BR&gt;&lt;BR&gt;Muy bien. Dile esto. La familia real elin nos ha guiado desde {@Rgn:68001$$Pora Elinu}. Rida, una de las princesas, estuvo en el Refugio de Balder hace poco, y tal vez Nandu la haya conocido.&lt;NEXTPAGEBUTTON&gt;"Dime más."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Bueno, la diosa Elinu nos ocult&amp;#243; a los ojos del mundo durante siglos, pero luego desapareci&amp;#243;. Deber&amp;#237;amos saberlo mejor que nadie: nadie puede aislarse como Elinu. Los Poporis y los Elins se unieron a la Federaci&amp;#243;n tan pronto como supimos que los argons estaban destruyendo el mundo adem&amp;#225;s de conquistarlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">La historia de los High Elves deber&amp;#237;a ser conocida, incluso por alguien tan recluso como Nandu.&lt;BR&gt;&lt;BR&gt;Pero tal vez busca tener el punto de vista de un High Elf culto en lugar de obtener relatos de gloria por o&amp;#237;das. Perfecto.&lt;NEXTPAGEBUTTON&gt;"Por favor, solo un resumen."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">La sociedad elfa prosperaba y era envidiada en todo el mundo, hasta que el accidente causado por la Flor de la vida, la fuente de todo el poder de Allemantheia, degener&amp;#243;.&lt;BR&gt;&lt;BR&gt;Solo el sacrificio de las mentes &amp;#233;lficas m&amp;#225;s grandes permiti&amp;#243; controlar de nuevo la magia en la forma de un artefacto viviente llamado el N&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Hoy en d&amp;#237;a los Elfos son una de las muchas razas de la Valkyon Federation, pero como siempre, lideran con el ejemplo. Mi pueblo corrige de forma suave y amable a nuestros hermanos menos refinados.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1034">
+        <Page social="1">Nandu sabe que los dioses a menudo luchan entre s&amp;#237;. Durante siglos, ha vivido en el lugar donde el m&amp;#225;s noble de los dioses, Balder, pereci&amp;#243; a manos de sus enemigos divinos.&lt;BR&gt;&lt;BR&gt;Tras la Guerra divina, los dioses supervivientes estaban a salvo. Hasta hace poco.&lt;BR&gt;&lt;BR&gt;Pero ahora... &amp;#191;Akasha? Muerta. &amp;#191;Killian? Muerto. &amp;#191;Thulsa? Muerto. Todos a manos de un solo mortal. &amp;#191;No es as&amp;#237;, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"No he actuado {@gender:seul/seule}."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">&amp;#191;Es modestia o prudencia?&lt;BR&gt;&lt;BR&gt;No hace falta que te nombres, pero puedes decirle a Nandu que todo el mundo, el Mysterium, la Federaci&amp;#243;n, los argons, los propios dioses vigilan al mortal que mat&amp;#243; a esos dioses.&lt;BR&gt;&lt;BR&gt;Me pregunto c&amp;#243;mo este mortal asesino de dioses soporta ser tan escrutado. Pero apuesto a que t&amp;#250; no te lo preguntas, &amp;#191;eh?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">Tres historias de tres narradores. Para m&amp;#237;, una lecci&amp;#243;n interesante sobre los eventos actuales.&lt;BR&gt;&lt;BR&gt;Y para ti, una interesante lecci&amp;#243;n de psicolog&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;"¿Y por qué?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Toma esto en cuenta, &lt;PCNAME&gt;: &amp;#191;estos narradores te ense&amp;#241;aron algo sobre la historia, o sin querer algo sobre s&amp;#237; mismos?</Page>
+    </Text>
+</QuestDialog>

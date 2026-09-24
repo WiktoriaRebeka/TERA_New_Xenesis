@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">Hay que entregar este registro a {@LinkCreature:241#1025$$Grunath}, en la Station de la Vall&amp;#233;e sauvage. Es el prefecto, deber&amp;#237;a saber qu&amp;#233; hacer con &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Arriesgaste tu vida por nosotros. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1025">
+        <Page social="4">Parece que los ladrones selvaras secuestran gente y se la venden a la Legi&amp;#243;n de Thulsa.&lt;BR&gt;&lt;BR&gt;A partir de ahora, debemos vigilar de cerca a esta legi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

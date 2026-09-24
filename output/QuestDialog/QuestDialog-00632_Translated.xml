@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">La Academia Eldritch dispone de un ingenioso sistema de seguridad que recurre a las criaturas locales. Hacemos que nos sean &amp;#250;tiles para algo, a cambio de lo cual las tratamos con las consideraciones que se les deben.&lt;BR&gt;&lt;BR&gt;Se supone que los espantap&amp;#225;jaros defienden los jardines, pero en lugar de eso, se han puesto a arrasarlo todo. Incluso nos atacan... &amp;#161;Despu&amp;#233;s de todo lo que hemos hecho por ellos!&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as llevar a cabo tu peque&amp;#241;a investigaci&amp;#243;n? Tal vez eso nos permita comprender qu&amp;#233; mosca les pic&amp;#243;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1051">
+        <Page social="0">(El espantap&amp;#225;jaros est&amp;#225; destruido.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1052">
+        <Page social="0">(Este espantap&amp;#225;jaros tambi&amp;#233;n est&amp;#225; destruido.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1053">
+        <Page social="0">(Otro espantap&amp;#225;jaros destruido.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1005">
+        <Page social="0">&amp;#191;Los espantap&amp;#225;jaros est&amp;#225;n todos fuera de servicio?&lt;BR&gt;&lt;BR&gt;Pff... &amp;#191;Y ahora qu&amp;#233; voy a hacer?&lt;BR&gt;&lt;BR&gt;En fin, gracias por tu ayuda. &amp;#161;Todo esto es muy fastidioso!</Page>
+    </Text>
+</QuestDialog>

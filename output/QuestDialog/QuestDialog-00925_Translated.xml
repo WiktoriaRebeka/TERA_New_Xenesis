@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="18">Thulsa tiene una fortaleza bien establecida en Gorge du Wyrm. &amp;#191;Y ahora los mekonaris se aparecen al norte? No me importa qu&amp;#233; vienen a hacer; tienen que desaparecer.&lt;BR&gt;&lt;BR&gt;A falta de informaci&amp;#243;n, envi&amp;#233; a Wilene en una misi&amp;#243;n de reconocimiento. Ve a ver c&amp;#243;mo est&amp;#225;, &amp;#191;quieres? Me temo que la hayan capturado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1011">
+        <Page social="15">La discreci&amp;#243;n no es tu fuerte, &amp;#191;me equivoco? Logr&amp;#233; evitar que me descubriera, pero pas&amp;#233; varios sustos.&lt;NEXTPAGEBUTTON&gt;"¿Descubriste algo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Los mekonaris hechizan a ciertos demonios de la regi&amp;#243;n para someterlos a su voluntad y aumentar su ferocidad natural. De hecho, eligen de las filas de la legi&amp;#243;n armas vivientes... que les roban en sus propias narices.&lt;BR&gt;&lt;BR&gt;Si los eliminamos, eso deber&amp;#237;a romper el hechizo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" prevId="3" villagerId="1011">
+        <Page social="8">&amp;#161;Eres m&amp;#225;s {@gender:fort/forte} de lo que pareces!&lt;BR&gt;&lt;BR&gt;Ramsleigh se aliviar&amp;#225; al saber que nos hemos librado de los mekonaris.&lt;BR&gt;&lt;BR&gt;Por favor, ve a informar de nuestra situaci&amp;#243;n a Tesran en Cr&amp;#234;te d&amp;#233;chiquet&amp;#233;e.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="235" prevId="4" villagerId="1015">
+        <Page social="15">&amp;#191;Sabes lo que est&amp;#225; pasando al norte?</Page>
+    </Text>
+</QuestDialog>

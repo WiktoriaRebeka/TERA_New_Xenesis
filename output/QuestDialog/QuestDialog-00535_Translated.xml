@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="4">&amp;#161;Las m&amp;#225;quinas se han vuelto locas! &amp;#161;Primero los espantap&amp;#225;jaros... y ahora los golems! Parece que han sido reprogramados.&lt;BR&gt;&lt;BR&gt;Si me traes unos &lt;font color='#660000'&gt;n&amp;#250;cleos de piedra&lt;/font&gt; de {@LinkCreature:19#2003#golems moissonneurs sauvages} y {@LinkCreature:19#2001#golems moissonneurs fous}, podr&amp;#233; decirte m&amp;#225;s. Estos componentes contienen el programa que los dirige. Si este ha sido modificado, lo veremos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1036">
+        <Page social="4">Ni la m&amp;#225;s m&amp;#237;nima instrucci&amp;#243;n. Ni el programa original, ni uno nuevo... est&amp;#225;n completamente v&amp;#237;rgenes.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo pueden funcionar sin un programa?&lt;BR&gt;&lt;BR&gt;M&amp;#225;s preguntas que respuestas, odio eso. De cualquier forma, gracias por tra&amp;#233;rmelos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1036">
+        <Page social="0">Si queremos llegar al fondo de este asunto, de verdad voy a necesitar esos n&amp;#250;cleos.</Page>
+    </Text>
+</QuestDialog>

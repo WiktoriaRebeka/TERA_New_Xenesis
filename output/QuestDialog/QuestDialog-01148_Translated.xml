@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#161;Mata a ese argon&amp;nbsp;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1008">
+        <Page social="4">&amp;#191;Te encontraste con un argon en los Campos celestiales&amp;nbsp;? &amp;#191;Crees que han vuelto&amp;nbsp;? Si es as&amp;#237;, tendremos suerte si nos dejan tiempo para evacuar.&lt;NEXTPAGEBUTTON&gt;"Solo había uno. Un formador."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;Un formador&amp;nbsp;? Deb&amp;#237;a estar ocup&amp;#225;ndose de las criaturas argonomorfas. A menos que haya venido a reconocer el terreno antes de una invasi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que redacte un informe lo antes posible.&lt;BR&gt;&lt;BR&gt;Mantente {@gender:vigilant/vigilante}, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

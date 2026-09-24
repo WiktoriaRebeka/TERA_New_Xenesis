@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Le hiciste saber a Seir que convenciste al comandante Tamur. El comandante Seir estaba encantado con ello y te indic&amp;#243; que el dirigible estaba listo para llevarte al norte de Arun con la vanguardia de Valkyon. Seir te suplic&amp;#243; que fueras a encontrarte con la vanguardia de Valkyon en el embarcadero, cerca de Velika. En el embarcadero, los preparativos para la expedici&amp;#243;n del acorazado celeste Intr&amp;#233;pido ya estaban en pleno apogeo. Le hiciste un favor a Tonas, un comerciante que conociste all&amp;#237;, y luego regresaste al embarcadero del acorazado celeste Intr&amp;#233;pido.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Carta de Dougal]&lt;BR&gt;&lt;BR&gt;Ahora formas parte de la Vanguardia de Valkyon. &lt;BR&gt;Sospechaba que Kaiator planeaba una gran ofensiva contra los argons, pero resulta que mis temores eran infundados. &lt;BR&gt;He o&amp;#237;do que Kaia te ha autorizado a viajar al Norte. &lt;BR&gt;La paz de Arborea depende del &amp;#233;xito de nuestra expedici&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Espero tu llegada.&lt;BR&gt;&lt;BR&gt;Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1507">
+        <Page social="4" voiceTypeId="0">No dudes en hacer todas las preguntas que te preocupen.&lt;BR&gt;&amp;#161;Siempre y cuando no me preguntes mi edad... je, je, je!&lt;NEXTPAGEBUTTON&gt;"Necesito un medio de transporte para viajar al norte de Arun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Un dirigible! &amp;#161;Es una m&amp;#225;quina voladora creada para surcar los aires gracias a un propulsor prodigioso! &lt;BR&gt;&lt;BR&gt;El acorazado celeste Intr&amp;#233;pido es incluso el primer dirigible capaz de acoger a toda una escuadra de exploraci&amp;#243;n. Fue creado para el viaje al norte de Arun... un lugar desconocido que el muro negro hac&amp;#237;a inaccesible hasta ahora. &lt;BR&gt;&lt;BR&gt;&amp;#191;No es extremadamente emocionante? &amp;#191;La primera aventura en un mundo desconocido?&lt;NEXTPAGEBUTTON&gt;"¿Y dónde se encuentra entonces el acorazado celeste Intrépido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;&amp;#191;Perd&amp;#243;n?! &amp;#161;&amp;#191;Quieres partir de inmediato?! &amp;#161;Primero quer&amp;#237;a pedirte un favor!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pff! &amp;#161;No te ofendas y ay&amp;#250;dame! &amp;#161;Adem&amp;#225;s, el acorazado celeste tarda en despejar!&lt;NEXTPAGEBUTTON&gt;"¿En qué te puedo ser útil?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Estamos organizando el suministro del acorazado celeste, pero nos hemos tropezado con algunos problemas.&lt;BR&gt;&lt;BR&gt;Hemo puede asignarte algunas tareas. Todo esto concierne a tu nueva misi&amp;#243;n. Basta de charla.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1242">
+        <Page social="4" voiceTypeId="0">&amp;#161;Qu&amp;#233; alegr&amp;#237;a verte! &amp;#161;Si no conseguimos cargar estas provisiones, perder&amp;#233; mi pelaje!&lt;BR&gt;&lt;BR&gt;El carro de suministros parti&amp;#243; antes de que pudi&amp;#233;ramos recuperar el aceite de flor de &amp;#225;mbar. Se consume lentamente y no echa humo, lo que lo convierte en el combustible ideal para los dirigibles.&lt;NEXTPAGEBUTTON&gt;"¿Cuánto necesitas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Muy poco!&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves esas ovejas? Les encanta comer flores de &amp;#225;mbar. Recoge unas cuantas y tr&amp;#225;emelas.&lt;BR&gt;&lt;BR&gt;Yo me encargar&amp;#233; del resto.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1242">
+        <Page social="4" voiceTypeId="0">Bien, bien. Eso deber&amp;#237;a bastar. Aplastamos todo esto...&lt;BR&gt;&lt;BR&gt;&amp;#161;Y listo! Una caja, tal como pidi&amp;#243; el intendente.&lt;BR&gt;&lt;BR&gt;Solo queda un peque&amp;#241;o paso.&lt;NEXTPAGEBUTTON&gt;"¿La entrega?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Exacto!&lt;BR&gt;&lt;BR&gt;Un comerciante llamado Tonas acaba de ponerse en marcha hacia la plataforma del dirigible. Pero su carro no avanza muy r&amp;#225;pido. Sin duda no tendr&amp;#225;s problemas para alcanzarlo.&lt;NEXTPAGEBUTTON&gt;"¿Eso es todo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nada que a&amp;#241;adir.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1242">
+        <Page social="0">A&amp;#250;n no es suficiente. Sigue recolectando flores de &amp;#225;mbar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1534">
+        <Page social="4" voiceTypeId="0">No lo vi venir. Sali&amp;#243; de la nada y choc&amp;#243; contra mi carro.&lt;BR&gt;&lt;BR&gt;Los caballos entraron en p&amp;#225;nico y rompieron sus arneses.&lt;NEXTPAGEBUTTON&gt;"Quizá pueda ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Tienes mi agradecimiento, pero el impacto rompi&amp;#243; los ejes. Primero necesito reparar el carro.&lt;BR&gt;&lt;BR&gt;El problema es que no tengo nada que me permita hacer una reparaci&amp;#243;n de emergencia.&lt;NEXTPAGEBUTTON&gt;"¿Y por lo tanto, necesitas madera?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;As&amp;#237; es! Esos ghilliedus y esos mycanars servir&amp;#225;n, pero no se dejar&amp;#225;n vencer f&amp;#225;cilmente.&lt;BR&gt;&lt;BR&gt;Necesito unas cuantas ramas bien s&amp;#243;lidas. Ve a ver qu&amp;#233; puedes hacer mientras busco mis herramientas.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1534">
+        <Page social="4" voiceTypeId="0">&amp;#191;Se han ido?&lt;NEXTPAGEBUTTON&gt;"¿Quién?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Esos malditos osos atacaron mi carreta! &amp;#161;Se comieron las provisiones, rompieron mi asiento y me hicieron mojar los pantalones antes de que los guardias los espantaran!&lt;BR&gt;&lt;BR&gt;Tengo que encontrar una manera de reemplazar la comida perdida.&lt;NEXTPAGEBUTTON&gt;"¿La carne de oso serviría?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Ja! &amp;#161;Efectivamente! &amp;#161;Que Velik te bendiga!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias, muchas gracias!&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme un poco de carne y yo me encargar&amp;#233; de reparar estos ejes.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Necesito al menos 5 ramas para poder terminar mis reparaciones. &amp;#191;Puedes traerme algunas m&amp;#225;s?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="1534">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;, eres {@gender:le/la}el{@g:/e} mejor!&lt;BR&gt;&lt;BR&gt;Voy a entregar este cargamento al muelle aeronaval y luego comprar&amp;#233; caballos nuevos.&lt;BR&gt;&lt;BR&gt;Muchas gracias. &amp;#161;Que Velik te gu&amp;#237;e en tu aventura!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="1534">
+        <Page social="0">El tiempo urge, soldado.</Page>
+    </Text>
+</QuestDialog>

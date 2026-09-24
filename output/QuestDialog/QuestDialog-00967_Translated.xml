@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">Superaste la prueba de Saleron y recolectaste los fragmentos de reliquia bajo la tutela de Torsten, en el lugar donde se esparcieron las reliquias antiguas. Para robar la &amp;#250;ltima reliquia de Killian, te aventuraste en la Mansi&amp;#243;n del Buf&amp;#243;n. Killian se burl&amp;#243; de ti antes de apoderarse de todas las reliquias. Sin embargo, su alegr&amp;#237;a dur&amp;#243; poco, ya que Thulsa le orden&amp;#243; regresar. Cuando Fraya, la comandante de Allemantheia, se enter&amp;#243; de que no hab&amp;#237;as logrado recuperar todos los fragmentos de reliquia, te entreg&amp;#243; la esencia del n&amp;#250;cleo. Te suplic&amp;#243; que eliminaras a Thulsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Necesitas el poder de los dioses para recolectar las reliquias antiguas. Me quedan algunos diminutos residuos del poder de los dioses, pero nunca ser&amp;#225;n suficientes.&lt;BR&gt;&lt;BR&gt;Mis fieles sirvientes, los dragones Striktryssir y Grigelt, comparten mi poder. Mi magia reside en el cuerno de Striktryssir y la ira de Grigelt. Recup&amp;#233;ralos ambos.&lt;BR&gt;&lt;BR&gt;Te enviar&amp;#233; a Torsten para que los use y fabrique llaves. Las llaves reaccionar&amp;#225;n ante las reliquias de los dioses antiguos para otorgarte su poder.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1100">
+        <Page social="1" voiceTypeId="0">El cuerno del drag&amp;#243;n es un s&amp;#237;mbolo de valor. &lt;BR&gt;Por lo tanto, decid&amp;#237; llamar a esta llave la llave del valor.&lt;BR&gt;&lt;BR&gt;La reliquia antigua se encuentra en la pir&amp;#225;mide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1100">
+        <Page social="0">&amp;#161;Ahora, demuestra tu fuerza... yendo a combatir a Striktryssir!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="3" villagerId="1110">
+        <Page social="1" voiceTypeId="0">(El fragmento de reliquia antigua resplandece.&lt;BR&gt;La llave absorbi&amp;#243; esta energ&amp;#237;a y se transform&amp;#243; en un fragmento de reliquia antigua.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="235" prevId="5" villagerId="1110">
+        <Page social="1" voiceTypeId="0">La ira del drag&amp;#243;n es un s&amp;#237;mbolo de paciencia. &lt;BR&gt;Por eso bautic&amp;#233; a este objeto como la llave de la tolerancia.&lt;BR&gt;&lt;BR&gt;La reliquia antigua se encuentra junto al altar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="235" villagerId="1110">
+        <Page social="0">&amp;#161;Que tu Rage iguale a la de Grigelt... m&amp;#225;talo!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="235" prevId="6" villagerId="1111">
+        <Page social="1" voiceTypeId="0">(El fragmento de reliquia antigua resplandece.&lt;BR&gt;La llave absorbi&amp;#243; esta energ&amp;#237;a y se transform&amp;#243; en un fragmento de reliquia antigua.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="235" prevId="8" villagerId="1110">
+        <Page social="1" voiceTypeId="0">La energ&amp;#237;a de la &amp;#250;ltima reliquia...&lt;BR&gt;Percibo su presencia en la Villa del dios del terror.&lt;BR&gt;&lt;BR&gt;Debes eliminarlo para recuperar la reliquia.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="236" prevId="9" villagerId="1110">
+        <Page social="1" voiceTypeId="0">La piedra m&amp;#225;gica te lleva a la Villa del dios del terror. &lt;BR&gt;&amp;#191;Est&amp;#225;s listo?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="518" prevId="10" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Qu&amp;#233; l&amp;#225;stima que no hayas conseguido la &amp;#250;ltima reliquia. &lt;BR&gt;Thulsa y Killian no son oponentes f&amp;#225;ciles. &lt;BR&gt;&lt;BR&gt;&amp;#8230;&lt;PCNAME&gt;.&lt;BR&gt;&amp;#191;Recuerdas este pendiente?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Aqu&amp;#237; est&amp;#225;...&lt;BR&gt;Kaidun me devolvi&amp;#243; este pendiente. &lt;BR&gt;&lt;BR&gt;Voy a transferirte el poder del n&amp;#250;cleo que se esconde en &amp;#233;l.&lt;BR&gt;Es el poder que brota de la flor vital que nuestro creador Karas nos transmiti&amp;#243;, por lo que tal vez pueda reemplazar la reliquia faltante.&lt;BR&gt;&lt;BR&gt;Debes sofocar imperativamente el complot de Thulsa y disipar el amargo rencor de Kaidun..&lt;NEXTPAGEBUTTON&gt;"Estoy listo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">A partir de ahora, cada segundo cuenta. Aqu&amp;#237; tienes un pergamino que te llevar&amp;#225; a Kaiator.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5009">
+        <Page social="4" voiceTypeId="0">Tres reliquias antiguas y la esencia del n&amp;#250;cleo...&lt;BR&gt;&lt;BR&gt;Las cuatro reliquias antiguas habr&amp;#237;an sido preferibles, pero el poder deber&amp;#237;a bastar. Excelente. Pero, &lt;PCNAME&gt;... Si tan solo no hubieran conquistado la forja divina...&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Los mortales no pueden usar las reliquias antiguas como les plazca. &lt;BR&gt;As&amp;#237; que le rogu&amp;#233; al herrero legendario que te fabricara un recept&amp;#225;culo de reliquias en la forja divina.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, el ej&amp;#233;rcito de Thulsa atac&amp;#243; la forja divina. No tengo informaci&amp;#243;n sobre el estado de Muhrak, el herrero legendario.&lt;BR&gt;&lt;BR&gt;Incluso si abandonamos la forja divina, debemos salvar al herrero legendario para que fabrique un recept&amp;#225;culo capaz de permitir la fusi&amp;#243;n de las reliquias antiguas con el poder de la esencia del n&amp;#250;cleo.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&amp;#191;Alguna noticia del herrero legendario?&lt;BR&gt;&lt;BR&gt;Justo nos prepar&amp;#225;bamos para mandarte llamar. &lt;BR&gt;Seg&amp;#250;n mi informaci&amp;#243;n, el Primus Gahreed de Lorcada protege a los t&amp;#233;cnicos que escaparon de la forja divina.&lt;NEXTPAGEBUTTON&gt;"¿Los técnicos que escaparon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Desafortunadamente, est&amp;#225; en coma.&lt;BR&gt;&lt;BR&gt;Debemos esperar a que despierte. Seguramente podr&amp;#225; decirnos qu&amp;#233; pas&amp;#243; en la forja y d&amp;#243;nde se encuentra actualmente el herrero legendario Muhrak.&lt;BR&gt;&lt;BR&gt;(Todo siempre se alborota de golpe... &amp;#161;Y ahora el Mysterium tambi&amp;#233;n se meti&amp;#243; en esto!)</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="0">Rhodos y &lt;PCNAME&gt; persiguieron a Dkurion hacia los t&amp;#250;neles ubicados bajo Trellum Consurgo. Los Scrutateurs de Hautegarde desmantelaron el sello archidevan para darles una oportunidad de supervivencia frente a la magia de Dkurion.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="821" prevId="0" villagerId="1001">
+        <Page social="4">&amp;#161;Date prisa! &amp;#161;No debemos dejar que Dkurion escape!&lt;NEXTPAGEBUTTON&gt;"¿A dónde fue?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lo vi huir hacia los subterr&amp;#225;neos.&lt;BR&gt;&lt;BR&gt;&amp;#161;No perdamos m&amp;#225;s tiempo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2125">
+        <Page social="4">&amp;#161;Vamos! &amp;#161;No hay tiempo que perder!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2130">
+        <Page social="4">Como la rata que nunca dej&amp;#243; de ser, Dkurion se precipita hacia un subterr&amp;#225;neo. &amp;#161;Eso le va muy bien!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2129">
+        <Page social="4">Hemos desmantelado el sello archidevan que confiscaron. Tenemos poco tiempo para probarlo, pero esto deber&amp;#237;a ayudarles en su combate contra Dkurion.&lt;BR&gt;&lt;BR&gt;Te lo ruego, salva al Venerable.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">Captur&amp;#233; a un bandido en el bosque hace poco. Llevaba un mapa consigo. Parece que los bandidos guardan nuestras mercanc&amp;#237;as cerca de los puntos marcados con un c&amp;#237;rculo. &amp;#161;Eso est&amp;#225; en la &lt;FONT COLOR='#660000'&gt;zona noreste de Piste sanglante&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;! Esta es nuestra oportunidad de recuperar nuestras pertenencias. &lt;PCNAME&gt;, te lo ruego, ay&amp;#250;danos.&lt;BR&gt;&lt;BR&gt;Si vas a la &lt;FONT COLOR='#660000'&gt;Piste sanglante&lt;/FONT&gt;, encontrar&amp;#225;s cofres robados por los bandidos. &amp;#161;Devu&amp;#233;lvenos nuestras mercanc&amp;#237;as!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1005">
+        <Page social="8">&amp;#161;Ah! &lt;PCNAME&gt;, tu ayuda definitivamente ha sido muy valiosa. Pensaba que jam&amp;#225;s recuperar&amp;#237;a lo que los bandidos devans me hab&amp;#237;an robado, pero has hecho un gran trabajo. &amp;#161;Los dioses te lo recompensar&amp;#225;n! En todo caso, &amp;#161;es todo lo que te deseo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1005">
+        <Page social="0">&amp;#191;Encontraste mis mercanc&amp;#237;as? &amp;#191;O acaso los devans te cayeron encima primero? Qu&amp;#233; alima&amp;#241;as tan detestables, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

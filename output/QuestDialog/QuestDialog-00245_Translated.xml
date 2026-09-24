@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="0">Ayudaste a Elion a derrotar a Samael, gan&amp;#225;ndote el reconocimiento de la Federaci&amp;#243;n y el de Velik. Esta &amp;#250;ltima tambi&amp;#233;n dijo que acababas de pasar una prueba, pero no dio m&amp;#225;s detalles al respecto.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Ahora he informado a Seir, el comandante de la federaci&amp;#243;n, sobre las diversas acciones de Samael y los descendientes de Lok.&lt;BR&gt;&lt;BR&gt;Los l&amp;#237;deres de la federaci&amp;#243;n ahora tambi&amp;#233;n saben que Samael comanda a los descendientes de Lok y representa una amenaza para Valkyon.&lt;BR&gt;&lt;BR&gt;Velika y la federaci&amp;#243;n han decidido infligir a Samael el castigo que se merece. Pero se est&amp;#225; ocultando en alguna parte.&lt;BR&gt;&lt;BR&gt;No debemos dejar que se escape. Dougal podr&amp;#225; darte m&amp;#225;s detalles sobre el lugar donde se esconde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1032">
+        <Page social="10" voiceTypeId="0">&lt;PCNAME&gt;... Cu&amp;#225;nto tiempo. No me lo puedo creer... Samael ha traicionado a la Federaci&amp;#243;n Valkyon. Ojal&amp;#225; pudiera negarlo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Disculpa! Basta de lamentaciones...&lt;BR&gt;Velika est&amp;#225; lista para tomar medidas contra Samael.&lt;BR&gt;Nos estamos preparando para un ataque.&lt;BR&gt;&lt;BR&gt;Por favor, elimina a &lt;PCNAME&gt; y &lt;BR&gt; que protegen el escondite en el Labyrinthe d'Azarel. Luego usa el {@linkcreature:209#1029#t&amp;#233;l&amp;#233;portail} para infiltrarte.{@linkcreature:9#2100#Kubai Vive-temp&amp;#234;te}&quot;&amp;#191;El teletransporte?&quot;{@linkcreature:9#2200#Ladek de la demi-lune sanglante}&lt;NEXTPAGEBUTTON&gt;"Le téléportail ?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">El general Samael... o m&amp;#225;s bien, Samael el traidor, ha instalado un {@linkcreature:209#1029#t&amp;#233;l&amp;#233;portail} para poder ir a su antojo al Labyrinthe d'Azarel desde su residencia en Velika.&lt;BR&gt;&lt;BR&gt;No debe escapar bajo ning&amp;#250;n concepto. Inmediatamente despu&amp;#233;s de tu infiltraci&amp;#243;n, nosotros tambi&amp;#233;n entraremos en la Residencia de Samael.&lt;BR&gt;&lt;BR&gt;Hasta pronto entonces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1029">
+        <Page social="0" voiceTypeId="0">(Este es el teleportal del que Dougal te habl&amp;#243;. Puedes usarlo para infiltrarte en la residencia de Samael.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="401" prevId="4" villagerId="1001">
+        <Page social="0" voiceTypeId="0">No nos esper&amp;#225;bamos esto...&lt;BR&gt;&lt;BR&gt;Samael es ahora un enemigo de la federaci&amp;#243;n y tendr&amp;#225; que pagar por sus cr&amp;#237;menes.&lt;BR&gt;&lt;BR&gt;Podemos empezar cuando todos est&amp;#233;n listos.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Cliquez sur "Allons-y&amp;#160;!", pour lancer l'&amp;#233;v&amp;#232;nement.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="401" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Buen trabajo, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Lo de Samael es un asunto muy triste. Antes era un soldado excepcional de la guerra argona. Pero &amp;#233;l tom&amp;#243; su decisi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;La muerte de Samael debi&amp;#243; sacudir bastante a los descendientes de Lok. Velika te debe mucho. Has salvado mi ciudad... y es muy probable que hasta te deba la vida.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="401" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">&amp;#161;Muchas gracias! &amp;#161;Sin tu ayuda y la de &amp;#201;lion, lo habr&amp;#237;amos perdido todo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n habr&amp;#237;a imaginado que Samael terminar&amp;#237;a as&amp;#237;? &lt;BR&gt;&lt;BR&gt;Anta&amp;#241;o era un h&amp;#233;roe...&lt;BR&gt;Todo esto es culpa m&amp;#237;a. &lt;BR&gt;&lt;BR&gt;Voy a ordenar a los exploradores que busquen a los descendientes de Lok y los aniquilen de una vez por todas.&lt;BR&gt;&lt;BR&gt;Debemos tomar una decisi&amp;#243;n importante. Pero para eso, tenemos que informar al consulado.</Page>
+    </Text>
+</QuestDialog>

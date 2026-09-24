@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">&amp;#191;Un sombrero de fiesta? Oh, s&amp;#237;, recuerdo haber hecho algunos, pero ya no los hago. &lt;BR&gt;&lt;BR&gt;Los materiales b&amp;#225;sicos son comunes: piel de tumba y fibras de luria. Pero la f&amp;#225;brica de algod&amp;#243;n de Chebikan se quem&amp;#243; y ya no se puede conseguir algod&amp;#243;n de Chebikan.&lt;NEXTPAGEBUTTON&gt;"Pero tengo esto..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">&amp;#191;Posee algod&amp;#243;n de Chebikan? &amp;#191;Y est&amp;#225; seguro de que quiere hacer un sombrero de fiesta? Como prefiera...&lt;BR&gt;&lt;BR&gt;En ese caso, supongo que solo debe decirme de qu&amp;#233; color lo quiere.&lt;NEXTPAGEBUTTON&gt;"A ver..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">La f&amp;#225;brica de algod&amp;#243;n de Chebikan se quem&amp;#243; y las existencias de las Manos de Velika se agotaron. Simplemente no puede conseguirlo y, aunque pudiera, &amp;#191;por qu&amp;#233; gastarlo para hacer un sombrero de fiesta?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te encontraste con &amp;#201;mun, el capit&amp;#225;n de los guardianes, quien te explic&amp;#243; que Anya y los dem&amp;#225;s ni&amp;#241;os estaban prisioneros en el &amp;#225;rbol.&lt;BR&gt;&lt;BR&gt;Emprendiste el camino hacia el C&amp;#339;ur du chagrin para ir a salvar a los ni&amp;#241;os y enfrentarte una vez m&amp;#225;s al Argon Predator. &lt;BR&gt;&lt;BR&gt;El Argon Predator era a&amp;#250;n m&amp;#225;s poderoso que antes. Ante tu angustia, Anya despert&amp;#243; de su estupor y enton&amp;#243; un canto para salvarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="829" prevId="1" villagerId="109">
+        <Page social="0" voiceTypeId="0">(Anya nunca abandonar&amp;#237;a a Zozo sin motivo. Algo grave se est&amp;#225; tramando.)&lt;NEXTPAGEBUTTON&gt;"¿Cuánto tiempo llevas aquí, Zozo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Zozo todav&amp;#237;a est&amp;#225; caliente. La mu&amp;#241;eca no debe de llevar aqu&amp;#237; mucho tiempo.)&lt;NEXTPAGEBUTTON&gt;"Anya no puede estar muy lejos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="829" prevId="3" villagerId="103">
+        <Page social="0" voiceTypeId="0">(Dominado por el dolor) &amp;#161;Uuuuh... Argh!&lt;BR&gt;&lt;BR&gt;Anya y los dem&amp;#225;s ni&amp;#241;os est&amp;#225;n prisioneros all&amp;#237; arriba, en el lugar donde se encuentra el C&amp;#339;ur du chagrin.&lt;BR&gt;Puede que a&amp;#250;n no sea demasiado tarde.&lt;BR&gt;&amp;#161;No te preocupes por m&amp;#237;! &amp;#161;Ve y salva a los ni&amp;#241;os!&lt;BR&gt;No olvides llevarte esto.&lt;NEXTPAGEBUTTON&gt;"Muchas gracias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="829" prevId="4" villagerId="104">
+        <Page social="0">Pero esto no es posible... Nos dimos tanta prisa y, al parecer, aun as&amp;#237; llegamos demasiado tarde. Los argons ya han conquistado el interior del &amp;#225;rbol. Y los ni&amp;#241;os...&lt;BR&gt;&lt;BR&gt;Debemos partir de inmediato para proteger el &amp;#225;rbol de Tiaran y a los ni&amp;#241;os. Ir&amp;#233; contigo.&lt;BR&gt;&lt;BR&gt;No te preocupes por &amp;#201;mun, los soldados que vienen atr&amp;#225;s se encargar&amp;#225;n de &amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"En marcha."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="829" prevId="5" villagerId="107">
+        <Page social="4" voiceTypeId="0">Lo siento, &lt;PCNAME&gt;. Parece que Anya intentaba protegerte, pero su &amp;#250;nica soluci&amp;#243;n para lograrlo era convertirse en una sola entidad con Tiaran. Si la despiertas, el &amp;#225;rbol del dolor morir&amp;#225; y arrastrar&amp;#225; a toda la isla en su ca&amp;#237;da.&lt;BR&gt;&lt;BR&gt;Comparto tu dolor... pero a&amp;#250;n tenemos mucho trabajo por hacer. Hay un traidor en las filas de la federaci&amp;#243;n. Y dado que t&amp;#250; y yo somos los &amp;#250;nicos que lo sabemos, debes venir conmigo.&lt;NEXTPAGEBUTTON&gt;"Ya nada me retiene aquí..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="194">
+        <Page social="4" voiceTypeId="0">&amp;#161;Gracias, &lt;PCNAME&gt;! &amp;#161;Tu bravura y tu rapidez de reacci&amp;#243;n han transformado una cat&amp;#225;strofe inminente en victoria!&lt;BR&gt;&lt;BR&gt;Y pensar que, esta misma ma&amp;#241;ana, te ofrec&amp;#237;as como voluntario para recolectar muestras de corteza... Creo que ahora comprendo lo que Anya... vio en ti. &amp;#161;Te espera un destino excepcional, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"Pero... no pude salvar a los niños..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#161;Esc&amp;#250;chame bien, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hiciste todo lo posible! &amp;#161;El pueblo sigue en pie! &amp;#161;El &amp;#225;rbol sigue en pie! &amp;#161;La isla entera sigue en pie! Todo eso, gracias a ti. &amp;#161;Y eso significa que, gracias a ti, todav&amp;#237;a hay esperanza para Anya!&lt;BR&gt;&lt;BR&gt;Por mucho que est&amp;#233; dormida... &amp;#161;sigue con vida! Y sin duda vivir&amp;#225; tanto tiempo como Tiaran siga con vida. Y eso se aplica a todos los ni&amp;#241;os. Y tal vez alg&amp;#250;n d&amp;#237;a, el Mysterium encuentre una forma de despertarlos a todos.&lt;NEXTPAGEBUTTON&gt;"Ojalá tengas razón."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

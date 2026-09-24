@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">Los {@LinkCreature:25#3021#primitifs de Lok} avivan la locura de los cultistas locales. &amp;#161;Debemos deshacernos de ellos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">Oye, te est&amp;#225;s luciendo mejor de lo que pensaba. Mira, los emblemas de estos fan&amp;#225;ticos est&amp;#225;n cargados de MP. Al analizarlo, tal vez descubramos c&amp;#243;mo terminaron bajo control mental. &amp;#161;Es un buen trabajo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">Sin una cantidad suficiente de emblemas, no puedo hacer nada.</Page>
+    </Text>
+</QuestDialog>

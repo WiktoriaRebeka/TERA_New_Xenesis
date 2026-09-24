@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Balder dej&amp;#243; numerosas reliquias aqu&amp;#237; tras su muerte. La mayor&amp;#237;a de ellas se pudren entre la maleza, pero algunas a&amp;#250;n funcionan.&lt;BR&gt;&lt;BR&gt;Por cierto, {@LinkCreature:230#3001#Semas} necesita ayuda con una de ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3001">
+        <Page social="4">Arisel no anda con rodeos, pero no le prestes atenci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Hay un dispositivo llamado {@WorkObject:95}, que est&amp;#225; en {@Rgn:30007$$Tour oubli&amp;#233;e} y ayuda a crecer a las plantas y a los ghilliedhus.&lt;BR&gt;&lt;BR&gt;Normalmente deber&amp;#237;a funcionar de manera autom&amp;#225;tica, pero este no es necesariamente el caso. Por favor, ve a reiniciarlo...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3001">
+        <Page social="4">Qu&amp;#233; lugar tan maravilloso.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; es donde Balder y Seren sol&amp;#237;an alejarse del mundo. Est&amp;#225;s exactamente donde les gustaba descansar.</Page>
+    </Text>
+</QuestDialog>

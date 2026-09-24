@@ -1,0 +1,99 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Los reclutas del Shariar esperan instrucciones en la {@Rgn:48002$$Citadelle de Khanovar}.&lt;BR&gt;&lt;BR&gt;Y te aseguro que hay mucho trabajo para convertirlos en verdaderos combatientes. &amp;#191;Aceptar&amp;#237;as ir all&amp;#237; para entrenarlos en persona?&lt;BR&gt;&lt;BR&gt;Una vez all&amp;#237;, {@LinkCreature:248#3003#Vikhonul} podr&amp;#225; contarte m&amp;#225;s. Te enviar&amp;#225; a los campos de entrenamiento. &amp;#161;Mu&amp;#233;strales a esos flojos c&amp;#243;mo se pelea!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">S&amp;#237;, {@LinkCreature:248#3029#Kahel} hab&amp;#237;a pedido a alguien que sepa lo que significa combatir.&lt;BR&gt;&lt;BR&gt;Has matado a Akasha y Killian... eso deber&amp;#237;a bastarle.&lt;BR&gt;&lt;BR&gt;Ve a hablar con el maestro de combate. Ha salido en busca de nuevos reclutas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="4">&amp;#161;Bah! Esos imb&amp;#233;ciles ni me prestan atenci&amp;#243;n, pero apuesto a que te escuchar&amp;#225;n a ti.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no les muestras el camino? Necesitan un mentor.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="3" villagerId="3021">
+        <Page social="4">&amp;#191;De qu&amp;#233; lado se pone esto?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="13" villagerId="3022">
+        <Page social="4">&amp;#191;Puedo conseguir una mejor armadura? &amp;#161;No quiero morir!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" prevId="14" villagerId="3023">
+        <Page social="4">&amp;#161;Yo soy el m&amp;#225;s fuerte!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="15" villagerId="3024">
+        <Page social="4">&amp;#161;Auxilio! &amp;#161;Quiero salir de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" prevId="16" villagerId="3025">
+        <Page social="4">Quiero que ese s&amp;#225;dico me deje en paz.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="17" villagerId="3026">
+        <Page social="4">Tengo el estomago hecho un nudo. &amp;#191;Es normal?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" prevId="18" villagerId="3027">
+        <Page social="4">No me rendir&amp;#233;. No despu&amp;#233;s de lo que los argons hicieron en mi hogar.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="19" villagerId="3028">
+        <Page social="4">No s&amp;#233; si tengo lo necesario...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="4">Sigue apoy&amp;#225;ndolos.&lt;BR&gt;&lt;BR&gt;He visto a algunos mirarte con atenci&amp;#243;n.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="23" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="24" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="25" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="26" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="27" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="28" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="29" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="30" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="31" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="4">Eso ser&amp;#225; todo por hoy, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si todos sobrevivir&amp;#225;n, pero lo que he visto me agrada.&lt;BR&gt;&lt;BR&gt;Rompen filas.</Page>
+    </Text>
+    <Text id="32" huntingZoneId="248" prevId="31" villagerId="3003">
+        <Page social="4">La misi&amp;#243;n m&amp;#225;s hermosa es entrenar a las nuevas generaciones de soldados.&lt;BR&gt;&lt;BR&gt;Solo quienes se han enfrentado a la atrocidad de la guerra saben lo que eso representa.</Page>
+    </Text>
+</QuestDialog>

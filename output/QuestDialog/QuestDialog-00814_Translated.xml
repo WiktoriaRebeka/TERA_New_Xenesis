@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Los piratas naga atacan regularmente la guarnici&amp;#243;n. &amp;#161;Por mucho que sepan que controlamos el lugar y que estamos armados, siempre terminan volviendo!&lt;BR&gt;&lt;BR&gt;Un buen golpe punitivo deber&amp;#237;a darles una lecci&amp;#243;n que no olviden. Elimina a unos cuantos {@LinkCreature:31#20#mortif&amp;#232;res nagas} y hazte con sus yelmos. Los usaremos para decorar la puerta. Ya veremos si eso les baja los humos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">Cuando pienso en la cara que pondr&amp;#225;n esos naga al ver estos yelmos, se me encoge el coraz&amp;#243;n. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">Entonces, &amp;#191;c&amp;#243;mo vas con esta historia de yelmos de {@LinkCreature:31#20#mortif&amp;#232;res nagas }?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">Algunas especies que ya no existen en ninguna otra parte han sobrevivido aqu&amp;#237;, en Balder's Refuge.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres hacerte cargo? Ve a hablar con {@LinkCreature:71#3018#Meiga}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">&amp;#161;Claro que puedes ayudarme!&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame ver c&amp;#243;mo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3003">
+        <Page social="4">&amp;#161;Es un placer verte, &lt;PCNAME&gt;! Nuestro estanque de cr&amp;#237;a est&amp;#225; lleno.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete hacia el norte siguiendo el arroyo y tr&amp;#225;eme a una de las cr&amp;#237;as.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="7">
+        <Page social="0">&amp;#161;K&amp;#244;a!&lt;BR&gt;&lt;BR&gt;&amp;#161;K&amp;#244;a!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="3024">
+        <Page social="4">El programa de cr&amp;#237;a de focas va de maravilla. Nos vendr&amp;#237;a muy bien alguien para contar a los reci&amp;#233;n nacidos.&lt;BR&gt;&lt;BR&gt;Si te apetece...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3033">
+        <Page social="4">&amp;#161;Aar! &amp;#161;Aar!&lt;BR&gt;&lt;BR&gt;&amp;#161;Aaar-aar!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="3034">
+        <Page social="4">&amp;#161;Aaar! &amp;#161;Aar!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3035">
+        <Page social="4">&amp;#161;Aaarr! &amp;#161;Aar-aar!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3003">
+        <Page social="4">&amp;#161;Oh, qu&amp;#233; gordo est&amp;#225; este!&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3024">
+        <Page social="4">&amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;Aaah, creo que hay oficios mucho menos agradables que nadar en un r&amp;#237;o para contar focas.</Page>
+    </Text>
+</QuestDialog>

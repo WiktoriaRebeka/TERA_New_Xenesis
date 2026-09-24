@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">Ciertos mutantes son soldados entrenados que antes pertenec&amp;#237;an a nuestras filas. Si decidieran organizarse, un ataque podr&amp;#237;a sernos fatal.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ir a cazar a los {@LinkCreature:40#23#aberrations gardiennes}, a los {@LinkCreature:40#19#polytypes mutants}, a los {@LinkCreature:40#20#polytypes fous} y a los {@LinkCreature:40#24#polytypes ali&amp;#233;n&amp;#233;s}? Y ya que est&amp;#225;s, trae todo lo que pueda permitir a sus familias identificarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1037">
+        <Page social="4">No deber&amp;#237;an haber muerto de esta manera, pero es un destino m&amp;#225;s envidiable que la vida que llevaban.&lt;BR&gt;&lt;BR&gt;Devolver&amp;#233; estos objetos a sus familias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1037">
+        <Page social="0">Esperamos que los {@LinkCreature:40#19#polytypes mutants} y los {@LinkCreature:40#23#aberrations gardiennes} no ataquen antes de que termines con ellos.</Page>
+    </Text>
+</QuestDialog>

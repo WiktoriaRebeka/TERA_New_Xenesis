@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="4" voiceTypeId="0">&amp;#191;Quieres llevarte a Thro? &lt;BR&gt;&lt;BR&gt;El oro que ganamos gracias a Thro representa el 68 % de los ingresos de los mercaderes de insignias. &lt;BR&gt;&lt;BR&gt;No podemos dejarlo marchar sin la menor compensaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"¿Qué puedo hacer por ti?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Saca su libreta y garabatea fren&amp;#233;ticamente todo tipo de cifras.) Esto deber&amp;#237;a compensar las p&amp;#233;rdidas a corto plazo y...&lt;BR&gt;&lt;BR&gt;Bien. Escolta nuestro carro de entrega hasta el puesto de Casidhe. Hemos hecho un trato que solo se llevar&amp;#225; a cabo si el carro de entrega llega a su destino antes del atardecer, con un cargamento valorado en 10 mil millones de piezas de oro.&lt;BR&gt;&lt;BR&gt;Pero, solo este a&amp;#241;o, los orkans ya han atacado nuestros carros 478 veces. La probabilidad de que los orkans destruyan este carro es del 98,7 %. Ayuda a Genwa a llevar el carro a buen puerto.&lt;BR&gt;&lt;BR&gt;Le dar&amp;#233; mi consentimiento por escrito a Genwa.&lt;BR&gt;Obtendr&amp;#225;s el documento tan pronto como el carro est&amp;#233; a salvo en el puesto de Casidhe.&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="510" villagerId="41">
+        <Page social="0">(Este carro rebosa bajo el peso de su cargamento. Enseguida comprendes que avanzar&amp;#225; con dificultad.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="2" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Aj&amp;#225;, con que eres t&amp;#250;, la escolta encargada de proteger el carro del que me habl&amp;#243; Duarong.&lt;BR&gt;Has hecho un buen trabajo.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes el consentimiento por escrito de Duarong. &lt;BR&gt;T&amp;#243;malo.&lt;NEXTPAGEBUTTON&gt;"Acepto con alegría el consentimiento por escrito de los mercaderes de insignias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

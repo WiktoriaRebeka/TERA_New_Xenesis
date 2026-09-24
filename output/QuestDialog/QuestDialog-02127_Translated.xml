@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3002#Sunkuvil} se encuentra en {@Rgn:50001$$Granarkus}, y tiene demasiados argons encima. &amp;#191;Te apetecer&amp;#237;a dar una vuelta por all&amp;#237;&amp;nbsp;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">Este campamento est&amp;#225; muy bien oculto, pero los argons han pasado muy cerca de aqu&amp;#237; en repetidas ocasiones en los &amp;#250;ltimos d&amp;#237;as.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que te alegrar&amp;#225; mucho deshacerte de ellos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#161;Nada mal!&lt;BR&gt;&lt;BR&gt;Quer&amp;#237;a encargarme de su situaci&amp;#243;n yo mismo, pero un maestro forestal debe saber compartir.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Gracias a ti, pudimos resolver el problema de la comida y de los lechos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pero no tenemos ninguna arma y eso me preocupa un poco. &amp;#191;Podr&amp;#237;as ayudarnos a conseguir armas?&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sin duda has visto a los naga de la mina de cristal oeste.&lt;BR&gt;&lt;BR&gt;Elim&amp;#237;nalos y r&amp;#243;bale sus armas para que luego podamos proteger este lugar como es debido.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">Has recuperado todas las armas. Ya me siento m&amp;#225;s tranquilo.&lt;BR&gt;&lt;BR&gt;Con estas armas, podremos repeler cualquier peligro potencial.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">Todav&amp;#237;a nos faltan armas. Tr&amp;#225;eme unas cuantas m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

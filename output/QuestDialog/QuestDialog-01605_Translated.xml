@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Distrajiste a los orkans en su territorio y venciste a los basiliscos, el arma secreta de Rahto. Tras enfrentarte a los orkans cerca de Pora &amp;#201;linu, informaste a &amp;#201;lin sobre tus descubrimientos en el territorio orkan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;El sendero detr&amp;#225;s de nosotros es la &amp;#250;nica ruta que lleva a Pora Elinu. Lo s&amp;#233;: est&amp;#225; en llamas, pero no tenemos muchas opciones. Usa tus notables cuchillas para llegar a Pora Elinu. &amp;#193;brete paso por el campamento orcan, localiza a la princesa Arin y encuentra la manera de ayudar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Bienvenida. Tienes a tus espaldas una larga y peligrosa caminata..&lt;BR&gt;&lt;BR&gt;A juzgar por lo que me dices, localizar a este capit&amp;#225;n orcan es de vital importancia. Consultar&amp;#233; con mis consejeros.&lt;BR&gt;&lt;BR&gt;Mientras tanto, te agradecer&amp;#237;a que ayudaras a Meilyn. Es nuestra &amp;#250;nica doctora y los innumerables heridos la tienen un poco abrumada.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1013">
+        <Page social="4" voiceTypeId="0">No pareces estar muy herida. &amp;#191;Qu&amp;#233; necesitas?&lt;BR&gt;&lt;BR&gt;Oh, &amp;#191;te env&amp;#237;a Arin? Perfecto, toda ayuda es bienvenida. Actualmente, Pora Elinu se ha convertido en un hospital improvisado para los heridos. Tantos heridos y muertos... Me entristece profundamente.&lt;BR&gt;&lt;BR&gt;Tengo mucho trabajo atendiendo a los heridos. &amp;#191;Podr&amp;#237;as traerme flores l&amp;#225;tigo de cad&amp;#225;ver?&lt;BR&gt;&lt;BR&gt;Lo s&amp;#233;, su nombre no inspira confianza, pero son un excelente remedio para los pacientes que han perdido mucha sangre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Gracias. Esto deber&amp;#237;a disminuir el sangrado y calmar su dolor durante unas horas.&lt;BR&gt;&lt;BR&gt;Tengo lo que necesito por ahora. La princesa Arin te espera afuera.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1013">
+        <Page social="0">&amp;#191;C&amp;#243;mo que no encontraste ninguna? Pero las flores l&amp;#225;tigo de cad&amp;#225;ver crecen como mala hierba. &amp;#161;Incluso veo algunas desde aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="5" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Bienvenido, &lt;PCNAME&gt;. Tenemos informaci&amp;#243;n sobre el tal Rahto.&lt;BR&gt;&lt;BR&gt;Ve a hablar con Koro, el capit&amp;#225;n de la guardia Koro, para enterarte. Te espera al otro lado del balc&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Y gracias por llevarle estas provisiones, tambi&amp;#233;n las est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1010">
+        <Page social="5" voiceTypeId="0">&amp;#161;Oh, provisiones valiosas! &amp;#161;Muchas gracias!&lt;BR&gt;&lt;BR&gt;Toma, deber&amp;#237;as conservar estas botas. Podr&amp;#237;an serte &amp;#250;tiles.</Page>
+    </Text>
+</QuestDialog>

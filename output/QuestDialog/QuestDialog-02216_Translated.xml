@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">&amp;#191;Qu&amp;#233; te trae por este olvidado sitio de pesca? &amp;#191;Acaso mi reputaci&amp;#243;n me precede?&lt;NEXTPAGEBUTTON&gt;"No estoy aquí por ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Ah, no seas tan t&amp;#237;mido, amigo!&lt;BR&gt;&amp;#191;Seguro que est&amp;#225;s aqu&amp;#237; para aprender a mi lado, el pescador legendario?&lt;BR&gt;Mmh... pero veo que llegas con las manos vac&amp;#237;as.&lt;BR&gt;As&amp;#237; que empieza por conseguirme un filete de pescado.&lt;BR&gt;Es la &amp;#250;nica manera de demostrarme que tienes las bases de cocina indispensables para un pescador.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Gritmo, del Marais Vexatus, te encomend&amp;#243; varias misiones para poner a prueba tus talentos de pesca.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">&amp;#161;Genial! El olor del filete de pescado salteado ya se me hace agua la boca.&lt;BR&gt;Admito que al menos dominas las nociones b&amp;#225;sicas de la cocina.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#191;Qu&amp;#233; tal si nos concentramos en la pesca propiamente dicha?&lt;BR&gt;En el Marais Vexatus, los cebos normales no te servir&amp;#225;n de nada. Los peces de aqu&amp;#237; son muy particulares.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">&amp;#191;Tienes el filete de pescado?&lt;BR&gt;Encontrar&amp;#225;s los ingredientes en la tienda de art&amp;#237;culos de pesca.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Si quieres atrapar un pez especial, dir&amp;#237;gete entonces a las Cavernes affam&amp;#233;es, detr&amp;#225;s de la cascada.&lt;BR&gt;En la c&amp;#225;mara, encontrar&amp;#225;s un esqueleto blanco como la nieve.&lt;BR&gt;&amp;#191;Podr&amp;#237;as examinarlo?&lt;BR&gt;Ah&amp;#237; se encuentra un cebo para un pez muy especial llamado pez lodoso.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9908">
+        <Page social="4" voiceTypeId="0">&amp;#161;Genial! Ahora, usa los fragmentos de esqueleto para pescar en el Site de p&amp;#234;che du Marais Vexatus.&lt;BR&gt;As&amp;#237; podr&amp;#225;s atrapar al pez lodoso.&lt;BR&gt;Tres peces lodosos deber&amp;#237;an ser suficientes.&lt;BR&gt;Si te quedas sin cebo, tendr&amp;#225;s que volver a la cueva. Aseg&amp;#250;rate de hacer todo bien.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9908">
+        <Page social="0">&amp;#191;Tienes los fragmentos de esqueleto? Explora bien las c&amp;#225;maras de las Cavernes affam&amp;#233;es.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" prevId="6" villagerId="9908">
+        <Page social="4" voiceTypeId="0">&amp;#161;Genial! Tan pronto como el pez lodoso sale del agua, se estropea y pierde su valor.&lt;BR&gt;Todo pescador que se respete debe atrapar al menos uno en su vida.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="61" villagerId="9908">
+        <Page social="0">&amp;#191;Atrapaste el pez lodoso? Si te quedas sin cebo, encontrar&amp;#225;s m&amp;#225;s en las cavernas.</Page>
+    </Text>
+</QuestDialog>

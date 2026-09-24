@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir, el comandante de la Valkyon Federation Headquarters, te ha pedido que compruebes el avance de los preparativos para el funeral de &amp;#201;lion, el h&amp;#233;roe de Arborea.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Te despediste de Jelena tras el entierro de &amp;#201;lion, antes de hacer los preparativos para regresar a Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Ah, has podido venir, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#201;lion ha superado innumerables peligros por la Valkyon Federation Headquarters.&lt;BR&gt;&lt;BR&gt;Como comandante de la Valkyon Federation Headquarters, me gustar&amp;#237;a ofrecerle un funeral a la altura de sus haza&amp;#241;as.&lt;BR&gt;&lt;BR&gt;Su familia se encarga de organizar la ceremonia. Ve a preguntarle a Sinoeta si los preparativos han terminado y luego ven a la plaza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1234">
+        <Page social="13" voiceTypeId="0">Acabamos de terminar los preparativos del entierro, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Con la muerte de &amp;#201;lion, nuestra familia acaba de perder a uno de sus miembros m&amp;#225;s queridos. *snif*</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="20004">
+        <Page social="4" voiceTypeId="0">&amp;#191;Est&amp;#225;n todos reunidos, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;(Asientes con la cabeza.)&lt;BR&gt;&lt;BR&gt;Nunca habr&amp;#237;a pensado que un d&amp;#237;a preparar&amp;#237;a el sepultura de &amp;#201;lion. No puedo imaginarme la Valkyon Federation Headquarters sin &amp;#233;l, pero aun as&amp;#237; debemos levantar la cabeza.&lt;BR&gt;&lt;BR&gt;V&amp;#225;monos.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="20004">
+        <Page social="4" voiceTypeId="0">&amp;#191;Has visto a Jelena?&lt;BR&gt;&lt;BR&gt;No la veo por ninguna parte. Para honrar dignamente la memoria de &amp;#201;lion, nuestro h&amp;#233;roe, hemos decidido erigirle una estatua de bronce en Velika.&lt;BR&gt;&lt;BR&gt;Me habr&amp;#237;a gustado que Jelena se encargara de ello, pero en su ausencia, &amp;#191;podr&amp;#237;as ayudarnos a instalar la estatua?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="20001">
+        <Page social="4" voiceTypeId="0">S&amp;#237;, estoy al tanto. Aqu&amp;#237; es donde planean instalar la estatua de &amp;#201;lion...&lt;BR&gt;&lt;BR&gt;No hice m&amp;#225;s que distraerlo. No consegu&amp;#237; salvarlo...&lt;BR&gt;&lt;BR&gt;Ac&amp;#233;rcate a la estatua de bronce y rinde un &amp;#250;ltimo homenaje a &amp;#201;lion. Te lo ruego.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="20002">
+        <Page social="4" voiceTypeId="0">Muchas gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ahora, los habitantes de Velika recordar&amp;#225;n siempre a Eli&amp;#243;n como un gran h&amp;#233;roe de la Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Y no olviden nunca que ahora es a&amp;#250;n m&amp;#225;s importante proteger Arborea de los Arkarps y vengar la muerte de Eli&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Si se cruzan con Jelena, h&amp;#225;gale saber que la necesitamos y esperamos su llegada.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="20003">
+        <Page social="4" voiceTypeId="0">As&amp;#237; que eso es lo que Seir te cont&amp;#243;.&lt;BR&gt;&lt;BR&gt;No lo s&amp;#233;, por desgracia. No s&amp;#233; qu&amp;#233; hacer para redimir mi responsabilidad en la muerte de Eli&amp;#243;n...&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a evaporarme en el acto.&lt;BR&gt;&lt;BR&gt;Gracias por venir a saber de m&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

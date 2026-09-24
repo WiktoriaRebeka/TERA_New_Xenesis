@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, tengo un favor que pedirte. &lt;BR&gt;Ven a verme a Highwatch.&lt;BR&gt;&lt;br&gt;Mirriva</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">La gran celebraci&amp;#243;n estaba por llevarse a cabo.&lt;BR&gt;Mirriva quer&amp;#237;a sorprender a la diosa Velik ofreci&amp;#233;ndole la corona de la eternidad.&lt;BR&gt;&lt;BR&gt;No escatimaste esfuerzos para encontrar la corona, pero hab&amp;#237;a perdido su brillo...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, bienvenida!&lt;BR&gt;&lt;BR&gt;Soy Mirriva, la organizadora del festival. &amp;#191;Podr&amp;#237;as hacerme un favor?&lt;br&gt;&lt;br&gt;&amp;#191;Sabes que pronto habr&amp;#225; una gran celebraci&amp;#243;n en Velika?&lt;BR&gt;Estoy abrumada porque ser&amp;#225; un evento muy grande.&lt;BR&gt;&lt;br&gt;De hecho, hasta la diosa Velik estar&amp;#225; presente.&lt;BR&gt;Por eso muevo cielo y tierra para que la fiesta salga perfecta.&lt;br&gt;&lt;br&gt;Sin embargo, olvid&amp;#233; preparar un regalo para la diosa Velik.&lt;NEXTPAGEBUTTON&gt;"¿Un regalo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">S&amp;#237;, quiero ofrecerle la &lt;b&gt;&lt;font color='#FF0000'&gt;couronne d'&amp;#233;ternit&amp;#233;&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Seg&amp;#250;n los textos antiguos, es un tesoro sagrado.&lt;BR&gt;La corona es conocida por su brillo extraordinario.&lt;br&gt;&lt;BR&gt;Nadie sabe d&amp;#243;nde encontrarla. Tras la guerra de los Argon, fue puesta a buen recaudo en la Raqnan Fortress. Desde entonces, ha desaparecido.&lt;NEXTPAGEBUTTON&gt;"¿Y cómo piensas hacerlo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Por suerte, Halran logr&amp;#243; descifrar una parte de las &lt;b&gt;&lt;font color='#FF0000'&gt;tablettes du souvenir&lt;/font&gt;&lt;/b&gt;. As&amp;#237; que podemos viajar al pasado de la Raqnan Fortress.&lt;BR&gt;&lt;BR&gt;Ya sabes a qu&amp;#233; me refiero, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;...&lt;br&gt;&lt;br&gt;Exacto.&lt;br&gt;&lt;BR&gt;Quisiera que viajaras en el tiempo usando las tablillas del recuerdo para recuperar la corona de la eternidad en la Raqnan Fortress.&lt;BR&gt;&lt;BR&gt;&amp;#191;Har&amp;#237;as eso por m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"De acuerdo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Gracias!&lt;br&gt;&lt;br&gt;&amp;#161;La corona de la eternidad es el regalo ideal para esta ocasi&amp;#243;n!&lt;br&gt;&lt;br&gt;&amp;#161;Cuento contigo!&lt;br&gt;&lt;BR&gt;[Ve a ver a {@linkcreature:183#7004#Murakan}, el guardi&amp;#225;n de las tablillas del recuerdo, e &lt;BR&gt;inmisc&amp;#250;yete en los &quot;recuerdos de la Raqnan Fortress&quot;].</Page>
+    </Text>
+    <Text id="4" huntingZoneId="469" prevId="3" villagerId="500">
+        <Page social="0" voiceTypeId="0">(Encontraste la brillante corona de la eternidad en el cofre de Myula.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="469" villagerId="500">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&amp;#191;Esa... esa es la corona de la eternidad?&lt;br&gt;&lt;BR&gt;&amp;#161;Est&amp;#225; completamente oxidada!&lt;NEXTPAGEBUTTON&gt;"Cuando la encontré, brillaba muchísimo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Da brillo todav&amp;#237;a...&lt;br&gt;&lt;BR&gt;Debemos pedirle consejo a Halran.&lt;BR&gt;Quiz&amp;#225;s &amp;#233;l sepa explicar este fen&amp;#243;meno.&lt;br&gt;&lt;BR&gt;Por favor, lleva la corona de la eternidad a {@linkcreature:183#1025#Halran}.&lt;br&gt;&lt;BR&gt;Llego en un momento.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1025">
+        <Page social="0" voiceTypeId="0">Es... Es...&lt;br&gt;&lt;BR&gt;Ah, ya s&amp;#233; cu&amp;#225;l es el problema.&lt;BR&gt;&lt;br&gt;Faltan las &lt;font color='#FF0000'&gt;&lt;b&gt;sept pierres pr&amp;#233;cieuses&lt;/b&gt;&lt;/font&gt; que le dan su fuerza a la corona.&lt;BR&gt;&lt;BR&gt;Creo que eso debi&amp;#243; pasar cuando regresaste al presente.&lt;NEXTPAGEBUTTON&gt;"¿Cómo puedes estar tan seguro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Lo s&amp;#233; porque poseo una de estas gemas, espec&amp;#237;ficamente la de la regeneraci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; est&amp;#225;. Intenta acoplarla a la corona de la eternidad.&lt;br&gt;&lt;BR&gt;Si eres tan poderoso, la gema de regeneraci&amp;#243;n encontrar&amp;#225; su lugar en la corona.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1025">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, ya empieza a brillar un poco!&lt;br&gt;&lt;BR&gt;La corona de la eternidad se fortalecer&amp;#225; con tu poder y adoptar&amp;#225; su verdadera forma.&lt;br&gt;&lt;br&gt;Sabes c&amp;#243;mo era la corona de la eternidad en el pasado, &amp;#191;verdad?&lt;BR&gt;Cada una de las siete gemas le da energ&amp;#237;a.&lt;br&gt;&lt;br&gt;Debes encontrarlas todas.&lt;NEXTPAGEBUTTON&gt;"¿Cómo lo hago?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Como te dije, necesitas las siete gemas. Pero si no aumentas tu poder, la corona no reaccionar&amp;#225; a las gemas.&lt;br&gt;&lt;BR&gt;Debes reunir todas las gemas y mejorar tus habilidades para que la corona de la eternidad recupere su forma original.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; m&amp;#225;s, lamentablemente...&lt;br&gt;&lt;BR&gt;&amp;#161;Que la sabidur&amp;#237;a de Oriyn te acompa&amp;#241;e, protector!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1031">
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt; &amp;#161;Te estaba esperando! &lt;BR&gt;&amp;#191;Qu&amp;#233; dijo Halran?&lt;NEXTPAGEBUTTON&gt;"Te lo contaré".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, &amp;#191;debes reunir las siete gemas y ganar fuerza para que la corona de la eternidad recupere su brillo?&lt;BR&gt;&lt;BR&gt;&amp;#161;Te ayudar&amp;#233; con eso!&lt;NEXTPAGEBUTTON&gt;"Gracias".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ahora estoy m&amp;#225;s tranquila.&lt;BR&gt;&amp;#161;Conf&amp;#237;o en ti!&lt;br&gt;&lt;br&gt;Aqu&amp;#237; tienes un peque&amp;#241;o detalle de mi parte.&lt;br&gt;&lt;br&gt;Estoy investigando d&amp;#243;nde se encuentran actualmente las gemas.&lt;br&gt;Hasta pronto, protector.</Page>
+    </Text>
+</QuestDialog>

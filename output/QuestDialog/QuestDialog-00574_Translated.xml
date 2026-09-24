@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">Quiero las armas de los {@LinkCreature:20#30114001#centurions ossugons} y de los {@LinkCreature:20#30031000#uhlans squelettiques}. Quiero poder estudiarlas para entender c&amp;#243;mo han podido resistir tantos a&amp;#241;os.&lt;BR&gt;&lt;BR&gt;De acuerdo, est&amp;#225;n oxidadas, pero siguen estando en una sola pieza.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo que descubrir por qu&amp;#233;. Tr&amp;#225;emelas! &amp;#161;Y haz lo que quieras con los esqueletos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Debes tener brazos ocultos para poder traer tanto a la vez.&lt;BR&gt;&lt;BR&gt;&amp;#161;En fin, gracias! &amp;#161;Las estudiar&amp;#233; de inmediato!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1014">
+        <Page social="0">&amp;#161;Quiero entender por qu&amp;#233; estas armas no se han partido! &amp;#161;Pero primero debes tra&amp;#233;rmelas!</Page>
+    </Text>
+</QuestDialog>

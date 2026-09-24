@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="5">Parece que vas hacia la Island of Mists. &amp;#161;Esos sucios esclavistas! Logr&amp;#233; escapar, pero se llevaron a mi hermano. &amp;#161;Tengo que salvarlo antes de que lo vendan en un mercado de esclavos! &amp;#161;Me gritaba que huyera incluso mientras se lo llevaban a la fuerza!&lt;NEXTPAGEBUTTON&gt;"¿A dónde se lo llevaron?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Se dirig&amp;#237;an hacia el este, hacia el mercado de Rain Prisons. No recuerdo nada m&amp;#225;s. Por favor, te lo ruego. Tr&amp;#225;eme de vuelta a mi hermano.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1012">
+        <Page social="4">&amp;#191;Qui&amp;#233;n eres? &amp;#191;Eres soldado? Por casualidad, &amp;#191;habr&amp;#225;s visto a mi hermano, Zebulon?&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225; vivo? Qu&amp;#233; alivio.&lt;BR&gt;&lt;BR&gt;Necesito una llave para salir de aqu&amp;#237;. As&amp;#237; que intenta robarle una llave a los {@LinkCreature:12#16#gardiens d'esclaves}. No s&amp;#233; cu&amp;#225;l ser&amp;#225; la correcta, as&amp;#237; que tr&amp;#225;eme varias.&lt;BR&gt;&lt;BR&gt;Me quedar&amp;#233; escondido aqu&amp;#237; mientras tanto. E intenta no hacerte matar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1012">
+        <Page social="4">&amp;#161;Por fin libre! &amp;#191;Podr&amp;#237;as ir a avisarle a nuestra madre que estamos a salvo?&lt;BR&gt;&lt;BR&gt;Un peque&amp;#241;o consejo: te ahorrar&amp;#225;s un discurso largo si le dices directamente a nuestra madre que prometimos no volver a trabajar nunca m&amp;#225;s para Dirken. &amp;#161;Creo que nos jug&amp;#243; una mala pasada!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1012">
+        <Page social="0">&amp;#161;R&amp;#225;pido, &lt;PCCLASS:lcase&gt;! &amp;#161;Si los esclavistas te atrapan, tambi&amp;#233;n te encerrar&amp;#225;n!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1023">
+        <Page social="4">&amp;#191;Est&amp;#225;n vivos? &amp;#191;Los dos? &amp;#161;Alabados sean los titanes!&lt;BR&gt;&lt;BR&gt;Pero mis hijos se van a enterar cuando regresen... &amp;#191;c&amp;#243;mo pudieron hacerme pasar por este sufrimiento de esta manera? &amp;#191;Y trabajar para alguien como Dirken? &amp;#191;Acaso no aprendieron nada de mis sermones?&lt;BR&gt;&lt;BR&gt;Si tan solo pudieran parecerse a ti, &lt;BR&gt;. No te vuelves como eres sin respeto por la autoridad parental.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1018">
+        <Page social="4">Has honrado la espada de Kaia con tus actos ejemplares. Tambi&amp;#233;n has santificado este lugar con tu absoluta devoci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Hoy, &lt;PCCLASS:lcase&gt;, debemos rendirte los honores que te corresponden.&lt;BR&gt;&lt;BR&gt;Buen viaje, &lt;PCNAME&gt;, siempre estar&amp;#225;s en tu casa entre los hombres del regimiento.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">&amp;#191;Sab&amp;#237;as que no se conoce ning&amp;#250;n ant&amp;#237;doto para la mordedura del {@LinkCreature:39#160#arachn&amp;#233;en croc effrayant}? Acabo de recibir la orden de tomar muestras de veneno: la Federaci&amp;#243;n quiere asignar a algunos investigadores a esta tarea.&lt;BR&gt;&lt;BR&gt;Conf&amp;#237;o en encargarte esta misi&amp;#243;n, as&amp;#237; que si te parece bien, tr&amp;#225;eme algunos colmillos. Deber&amp;#237;an estar llenos de veneno.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1015">
+        <Page social="4">Bien hecho. Se los enviar&amp;#233; inmediatamente a los eruditos de la Federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Es una victoria para todos nosotros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1015">
+        <Page social="0">Si nos muerde un {@LinkCreature:39#160#arachn&amp;#233;en croc effrayant}, morimos sin duda alguna.&lt;BR&gt;&lt;BR&gt;Ya no hay tiempo que perder.</Page>
+    </Text>
+</QuestDialog>

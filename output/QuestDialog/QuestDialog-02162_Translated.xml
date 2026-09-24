@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">&amp;#191;Te apetece lanzarte a la aventura?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} busca a alguien que pueda encargarse de una tarea un tanto desagradable sobre el terreno.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Utilizamos materiales de todas partes del mundo. Somos mercaderes, ya sabes, y todo obedece a la ley de la oferta y la demanda.&lt;BR&gt;&lt;BR&gt;Pero a veces tambi&amp;#233;n necesitamos objetos particulares, &amp;#250;tiles para protegernos de las numerosas fuentes de mal que nos rodean.&lt;BR&gt;&lt;BR&gt;Solo que nuestro grupo no es muy numeroso. No podemos estar en todas partes. Y ah&amp;#237; es donde entras t&amp;#250;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Cuerpos desmembrados! Me encanta.&lt;BR&gt;&lt;BR&gt;Y si hay alguien a quien le apasione esto a&amp;#250;n m&amp;#225;s que a m&amp;#237;, esa es {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:12#13#chevauche-griffus du Fouet rouge} en {@Rgn:12001#Ile des Brumes} y tr&amp;#225;eme dientes, garras y caparazones.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">&amp;#191;Qu&amp;#233; tal el viaje? He o&amp;#237;do que {@Rgn:12001#Ile des Brumes} es un hermoso destino en esta &amp;#233;poca del a&amp;#241;o.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} se encargar&amp;#225; de pagarte.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Ve a cazar {@LinkCreature:12#17#maraudeurs du Fouet rouge} en {@Rgn:12001#Ile des Brumes} y tr&amp;#225;eme dientes, garras y caparazones.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Sab&amp;#237;a que pod&amp;#237;a contar contigo.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">Gracias por tu paciencia, &lt;PCNAME&gt;.&lt;BR&gt;He podido estudiar las c&amp;#225;psulas minerales con m&amp;#225;s detalle.&lt;BR&gt;&lt;BR&gt;Como esperaba, la toxicidad de las c&amp;#225;psulas minerales de Exodor es notablemente superior a las de Arborea. As&amp;#237; que me he visto obligada a detenerme a mitad del an&amp;#225;lisis.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo pueden las dem&amp;#225;s criaturas sobrevivir en la misma regi&amp;#243;n que los parfs?&lt;NEXTPAGEBUTTON&gt;"Ni idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Si logramos averiguarlo, podr&amp;#233; dise&amp;#241;ar un remedio.&lt;BR&gt;&lt;BR&gt;Primero caza espincles y tr&amp;#225;eme sus u&amp;#241;as espinosas.&lt;BR&gt;&lt;BR&gt;Dado que los espincles usan principalmente sus u&amp;#241;as para conseguir comida, podr&amp;#237;an tener mucho que revelarnos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">Bien, con eso deber&amp;#237;a bastar. Analizar&amp;#233; las u&amp;#241;as.&lt;BR&gt;&lt;BR&gt;Espera un momento aqu&amp;#237;. Tengo otro favor que pedirte.&lt;BR&gt;&lt;BR&gt;Un poco m&amp;#225;s de paciencia, por favor. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Recolecta las u&amp;#241;as de espincle solicitadas. Necesito suficientes muestras, o no podr&amp;#233; hacer un an&amp;#225;lisis fiable.</Page>
+    </Text>
+</QuestDialog>

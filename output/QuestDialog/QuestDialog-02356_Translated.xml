@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">En la Base d'Exodor de la Valkyon Federation, el comandante Dougal quer&amp;#237;a hablar contigo sobre los Arkarps de la Zona central destruida.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que te uniste a &amp;#233;l en la Base d'Exodor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Por iniciativa propia, Jelena observ&amp;#243; a los Arkarps de Exodor e inform&amp;#243; sobre el avance del enemigo en la Zona central.&lt;BR&gt;&lt;BR&gt;Dougal te pidi&amp;#243; que fueras con Jelena y descubrieras qu&amp;#233; est&amp;#225;n tramando los enemigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="50000">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! Jelena nos inform&amp;#243; que, &amp;#250;ltimamente, los hauts dragons d'Arkarp est&amp;#225;n reuniendo a sus tropas en los barrios de Arkarp.&lt;BR&gt;&lt;BR&gt;Aunque el n&amp;#250;cleo est&amp;#233; destruido, su poder a&amp;#250;n es palpable. Tal vez est&amp;#233;n tramando algo.&lt;NEXTPAGEBUTTON&gt;"¿Dónde está Jelena?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Jelena vigila a los hauts dragons en Exodor.&lt;BR&gt;&lt;BR&gt;En su &amp;#250;ltimo mensaje, menciona sus observaciones en los barrios de Arkarp y nos pide que vayamos a buscar tu ayuda.&lt;BR&gt;&lt;BR&gt;Por favor, ve a encontrar a Jelena en los Quartiers des troupes d'Arkarp y descubre qu&amp;#233; est&amp;#225; pasando all&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2020" prevId="3" villagerId="10000">
+        <Page social="0" voiceTypeId="0">Te estaba esperando, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Al buscar a los comandantes de los hauts dragons, pude observar con precisi&amp;#243;n todos los movimientos sospechosos en Exodor.&lt;BR&gt;&lt;BR&gt;Y por supuesto, no se me ha escapado que los hauts dragons est&amp;#225;n empezando a reunirse aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Debemos descubrir sus intenciones.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme con esto?&lt;NEXTPAGEBUTTON&gt;"¡Por supuesto!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Muy bien!&lt;BR&gt;&lt;BR&gt;Entre los dos, lograremos descubrir sus planes y vengar a &amp;#201;lion.&lt;BR&gt;&lt;BR&gt;Con este objetivo, es imperativo identificar a la persona que mueve los hilos.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que elimina a los hauts dragons reunidos aqu&amp;#237; y tr&amp;#225;eme su misiva de &amp;#243;rdenes.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">Gracias por las numerosas misivas de &amp;#243;rdenes que ya has recuperado. Sin duda nos revelar&amp;#225;n lo que se est&amp;#225; tramando aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale las &amp;#243;rdenes a Dougal. Las examinar&amp;#225; y luego nos enviar&amp;#225; refuerzos. &amp;#161;Oh... oh no!&lt;NEXTPAGEBUTTON&gt;"¿Qué pasa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Los hauts dragons est&amp;#225;n levantando el campamento!&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; tras ellos mientras t&amp;#250; le llevas las &amp;#243;rdenes a Dougal.&lt;BR&gt;&lt;BR&gt;Ind&amp;#237;cale que planeo contactar a la base lo antes posible y luego ven a reunirte conmigo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">&amp;#161;Necesitamos sus misivas de &amp;#243;rdenes para enterarnos de lo que est&amp;#225;n tramando!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="0">&amp;#191;Jelena te pidi&amp;#243; que me entregaras estas misivas de &amp;#243;rdenes?!&lt;BR&gt;&lt;BR&gt;&amp;#161;En ese caso, me pondr&amp;#233; a trabajar de inmediato!&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, regresa con Jelena y mant&amp;#233;n a los hauts dragons vigilados.&lt;BR&gt;&lt;BR&gt;Te enviar&amp;#233; refuerzos en cuanto haya estudiado las &amp;#243;rdenes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20305">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;, ahora s&amp;#233; a d&amp;#243;nde se dirigen los hauts dragons!&lt;NEXTPAGEBUTTON&gt;"¿A dónde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;A la Forteresse de Berak!&lt;BR&gt;&lt;BR&gt;Kalligar, el comandante de los hauts dragons, sin duda planea restaurar la fortaleza.&lt;BR&gt;&lt;BR&gt;Jelena ya va pis&amp;#225;ndole los talones al comandante. Ve a ayudarla lo antes posible. Si se atreve a enfrentarlo sola...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="8" villagerId="10000">
+        <Page social="0" voiceTypeId="0">Durante tu ausencia, segu&amp;#237; a los hauts dragons hasta aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Los hauts dragons y sus secuaces siempre regresan por aqu&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"¿Y el sendero oculto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Sin duda conduce a uno de los comandantes.&lt;BR&gt;&lt;BR&gt;Ha estallado una lucha por el poder.&lt;NEXTPAGEBUTTON&gt;"¿Qué planeas hacer ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Seguir&amp;#233; el sendero para ver a d&amp;#243;nde conduce.&lt;BR&gt;&lt;BR&gt;Y si el comandante se atreve a interponerse en mi camino, vengar&amp;#233; a &amp;#201;lion.</Page>
+    </Text>
+</QuestDialog>

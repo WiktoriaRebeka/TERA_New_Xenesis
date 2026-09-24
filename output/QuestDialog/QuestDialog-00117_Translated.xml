@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">El Mysterium nos asegura que no sabe nada sobre los pilones ocultos en toda la Montagne Fyr. &amp;#191;Quiz&amp;#225;s ya ha tenido trato con el pyl&amp;#244;ne cruental?&lt;BR&gt;&lt;BR&gt;Cuando mi gente es incapaz de recordar una respuesta, debemos aprenderla de nuevo. De ah&amp;#237; esta investigaci&amp;#243;n...&lt;NEXTPAGEBUTTON&gt;"No tengo nada de sabio."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">La b&amp;#250;squeda de conocimientos no est&amp;#225; reservada a los sabios, &lt;PCNAME&gt;. Las interacciones pasadas con el pyl&amp;#244;ne cruental han demostrado que se trataba de magia de los shurians.&lt;BR&gt;&lt;BR&gt;Si su magia se invierte, entonces todos los pilones de la red de defensa ya no tendr&amp;#225;n ninguna utilidad.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y cu&amp;#225;l es el s&amp;#237;mbolo m&amp;#225;s poderoso de inversi&amp;#243;n? Un espejo... como los que transportan los {@LinkCreature:4#3041#asservisseuses d'esprit shurians} y sus {@LinkCreature:4#3042#serviteurs hellions}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">Ya est&amp;#225;, &amp;#161;el primer paso con vistas a...!&lt;BR&gt;&lt;BR&gt;&amp;#161;La inversi&amp;#243;n...! &amp;#161;completa...! &amp;#161;de la magia!&lt;BR&gt;&lt;BR&gt;Nuestros proyectos empiezan a tomar velocidad.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">Los {@LinkCreature:4#3041#soumetteurs d'esprit shurians} tienen los espejos necesarios para la inversi&amp;#243;n... completa... de la magia.</Page>
+    </Text>
+</QuestDialog>

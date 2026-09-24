@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">La Garde sanglante es la mejor tropa de &amp;#233;lite de Thulsa. Ella protege este lugar y, por lo tanto, representa una seria amenaza para la guarnici&amp;#243;n de la Federaci&amp;#243;n. Adem&amp;#225;s, parece que est&amp;#225; planeando algo en este momento.&lt;BR&gt;&lt;BR&gt;Encontrar&amp;#225;s {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorciers} y {@LinkCreature:33#70#arcanistes} de la Garde sanglante cerca de las Catacombes hurlantes y de la Prison de distorsion.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;enos toda la informaci&amp;#243;n disponible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">&amp;#191;Qu&amp;#233; has encontrado? Hmm... Tendremos que estudiar esto m&amp;#225;s a fondo, pero deber&amp;#237;amos poder entender as&amp;#237; c&amp;#243;mo el poder de Thulsa respalda a la Garde sanglante.&lt;BR&gt;&lt;BR&gt;&amp;#161;Antes de que me sumerja en ello, aqu&amp;#237; tienes tu recompensa!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">Encontrar&amp;#225;s {@LinkCreature:33#10#mages de la Garde sanglante}, {@LinkCreature:33#60#sorciers de la Garde sanglante} y {@LinkCreature:33#70#arcanistes de la Garde sanglante} de la Garde sanglante cerca de las Catacombes hurlantes y de la Prison de distorsion.</Page>
+    </Text>
+</QuestDialog>

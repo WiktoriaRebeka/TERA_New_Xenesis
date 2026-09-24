@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" voiceTypeId="0">Hola, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt; Ven a verme si has recibido mi correo. Un nuevo desaf&amp;#237;o te espera.&lt;BR&gt;&lt;BR&gt;-Coldren-&lt;NEXTPAGEBUTTON&gt;Aceptar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Me alegro de verte de nuevo. Te estaba esperando.&lt;BR&gt;&lt;BR&gt;De hecho, he estado esperando la llegada de todos aquellos a los que el destino ha tenido a bien aceptar como Warrior.&lt;NEXTPAGEBUTTON&gt;¿Mi llegada?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Como ya sabes, los Warriors han demostrado desde hace mucho tiempo y en numerosas ocasiones sus habilidades en el campo de batalla. Sin embargo, demasiado conservatismo no siempre es algo bueno.&lt;BR&gt;&lt;BR&gt;Nosotros, los Warriors, est&amp;#225;bamos tan seguros de nosotros mismos y &amp;#233;ramos tan orgullosos que nos volvimos perezosos. Por eso, hace poco tuvimos problemas y hasta nos pusieron un mote indigno..&lt;NEXTPAGEBUTTON&gt;Te escucho.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pero t&amp;#250; mismo eres un Warrior y sabes de lo que hablo. Para evitar repetir este error, queremos asumir un nuevo desaf&amp;#237;o.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te gustar&amp;#237;a participar y hacerte una reputaci&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;Sí, quiero.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Te he preparado una misi&amp;#243;n. Consta de cinco fases en las que tendr&amp;#225;s que enfrentarte a poderosos enemigos y vencerlos.&lt;BR&gt;&lt;BR&gt;Creo que eres capaz de lograrlo.&lt;BR&gt;&lt;BR&gt;Dime cu&amp;#225;ndo quieres empezar.&lt;NEXTPAGEBUTTON&gt;Vamos allá.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Es realmente impresionante. Nunca dud&amp;#233; de tus habilidades. Has dominado la primera parte de la misi&amp;#243;n y estoy convencido de que tambi&amp;#233;n sobrevivir&amp;#225;s a las siguientes fases.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">&amp;#191;El dientes de sable? Lo tuve de muy peque&amp;#241;o. Bueno, &amp;#161;por supuesto que ahora come m&amp;#225;s que cuando era beb&amp;#233;!&lt;BR&gt;&lt;BR&gt;Se atraganta como un gula... En fin, &amp;#161;no exactamente, pero tiene un gran apetito! &amp;#191;Adivina qu&amp;#233; es lo que m&amp;#225;s le gusta por encima de todo?&lt;NEXTPAGEBUTTON&gt;"¿La carne de gula?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Casi. Los caimanes.&lt;BR&gt;&lt;BR&gt;Y lo que prefiere es la cola de {@LinkCreature:472#2#assommeur ca&amp;#239;man azur}. Pero creo que los caimanes saben d&amp;#243;nde est&amp;#225;n todas mis trampas.&lt;BR&gt;&lt;BR&gt;Si vas al Labyrinthe d'Or, tal vez encuentres algunos porque los gulas los adoptan como mascotas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tr&amp;#225;eme sus colas! No querr&amp;#237;as un dientes de sable de mal humor por los alrededores, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">A mi gran beb&amp;#233; le va a gustar esto. De cualquier modo, despu&amp;#233;s de esto, ya no tendr&amp;#225; hambre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Nada supera un buen muslo de caim&amp;#225;n para abrir el apetito. Se lo suplico.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Los poporis desean comulgar con el esp&amp;#237;ritu de la diosa Seren, pero no entienden que una peregrinaci&amp;#243;n al {@Rgn:30014$$Lac de Seren} podr&amp;#237;a convertirse en un viaje sin retorno.&lt;BR&gt;&lt;BR&gt;Debemos encontrar a alguien que pueda escoltar a los peregrinos hasta el lago con total seguridad.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por ejemplo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="41">
+        <Page social="0">T&amp;#237;picos altos elfos paternalistas. &amp;#161;Podemos cuidar de nosotros mismos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Dile al centuri&amp;#243;n Orejas-puntiagudas que soy un veterano de la guerra argone y que s&amp;#233; cuidarme solo!&lt;BR&gt;&lt;BR&gt;Sin embargo, creo que, este, he perdido mi mapa. &amp;#191;Podr&amp;#237;as indicarme la direcci&amp;#243;n del {@Rgn:30014$$Lac de Seren}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Gracias, &lt;PCNAME&gt;. Es como si pudiera escuchar a la misma Seren susurr&amp;#225;ndome al o&amp;#237;do.</Page>
+    </Text>
+</QuestDialog>

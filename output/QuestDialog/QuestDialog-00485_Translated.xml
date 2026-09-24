@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">Debo investigar esta C&amp;#233;r&amp;#233;monie de b&amp;#233;n&amp;#233;diction, pero los vampires que me bloquean el paso son demasiados.&lt;BR&gt;&lt;BR&gt;Si pudieras librarme de los {@LinkCreature:16#2403#fantassins} y los {@LinkCreature:16#2404#r&amp;#233;tiaires} vampires del &lt;font color='#660000'&gt;Jardin du Manoir&lt;/font&gt;, me ser&amp;#237;as de gran ayuda.&lt;BR&gt;&lt;BR&gt;Cuando termines, ve a ver a Segodun; ya se encuentra en el jard&amp;#237;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">&amp;#161;Lograste llegar hasta aqu&amp;#237;... buen trabajo!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esto como agradecimiento.</Page>
+    </Text>
+</QuestDialog>

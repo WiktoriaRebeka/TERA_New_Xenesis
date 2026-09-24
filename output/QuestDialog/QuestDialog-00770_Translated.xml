@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="1">&amp;#161;Debes ayudarme, &lt;PCNAME&gt;! &amp;#161;Necesito que... que me envenenes!&lt;BR&gt;&lt;BR&gt;&amp;#161;Espera, no te vayas! Puedo explicarlo todo. Debo ser envenenado inmediatamente por un {@LinkCreature:30#140#tentacullar v&amp;#233;n&amp;#233;neux}.&lt;NEXTPAGEBUTTON&gt;"Pero ¿por qué diablos querrías hacer algo así?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Tengo un oscuro secreto, muy importante, que no puedo revelarle a nadie. Pero Alais y los matones del Mysterium me van a obligar a revel&amp;#225;rselo. Una dosis precisa de veneno de {@LinkCreature:30#140#tentacullar v&amp;#233;n&amp;#233;neux} act&amp;#250;a sobre el cerebro y provoca p&amp;#233;rdida de memoria. Prefiero ser amn&amp;#233;sico que estar muerto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1018">
+        <Page social="1">Muchas gracias, &lt;PCNAME&gt;. &amp;#161;D&amp;#225;melo ahora!&lt;NEXTPAGEBUTTON&gt;"Aquí tienes tu veneno."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">(Se traga la botella de veneno, luego abre y cierra la boca varias veces, cada vez m&amp;#225;s p&amp;#225;nico.)&lt;BR&gt;&lt;BR&gt;(Se&amp;#241;ala su boca, hace grandes gestos y luego apunta a otro minero.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1018">
+        <Page social="0">No revelar&amp;#233; este secreto aunque esos esbirros me torturen. Prefiero morir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1017">
+        <Page social="1">&amp;#191;Se lo ha bebido? Con raz&amp;#243;n ya no puede hablar.&lt;BR&gt;&lt;BR&gt;Su garganta se hinchar&amp;#225; hasta el punto de que le costar&amp;#225; respirar durante varios d&amp;#237;as. &amp;#191;Qu&amp;#233; ha pasado?&lt;NEXTPAGEBUTTON&gt;"Intentaba olvidar un gran secreto..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">&amp;#191;Ese cuento de viejas sobre el veneno de tentacullar? No olvidar&amp;#225; el pasado, pero tampoco podr&amp;#225; hablar de su preciado &quot;secret&quot;.&lt;BR&gt;&lt;BR&gt;Alguien debe advertir a {@LinkCreature:230#1065$$Libinienn}.&lt;BR&gt;&lt;BR&gt;Los mineros tienen una vieja costumbre llamada... &quot;&amp;#161;Un, dos, tres, el secreto me guardar&amp;#233;!&quot;, as&amp;#237; que ve a decirle a Libinienn c&amp;#243;mo envenenaste a uno de sus mineros.&lt;BR&gt;&lt;BR&gt;Y buena suerte, &lt;BR&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="1065">
+        <Page social="1">As&amp;#237; que le diste veneno de tentacullar. Y se lo bebi&amp;#243;.&lt;BR&gt;&lt;BR&gt;Yo... Yo... Me faltan las palabras.&lt;NEXTPAGEBUTTON&gt;"Intentaba ayudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Haces todo lo que te piden que hagas, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres saber cu&amp;#225;l es su &quot;gran&quot; secreto? Cogi&amp;#243; objetos encontrados en el sitio de excavaci&amp;#243;n y los ocult&amp;#243; para que los confederados del mercado negro los recogieran.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y retrasaste el interrogatorio que se merec&amp;#237;a con creces!&lt;NEXTPAGEBUTTON&gt;"Lo siento."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Bueno, eres {@gender:na&amp;#239;f/na&amp;#239;ve} pero honesto.&lt;BR&gt;&lt;BR&gt;Y pens&amp;#225;ndolo bien, probablemente lo castigaste con m&amp;#225;s dureza envenen&amp;#225;ndolo de lo que yo lo habr&amp;#237;a hecho.&lt;BR&gt;&lt;BR&gt;Cuando eres un minero itinerante, ser condenado a trabajos forzados no es realmente un castigo.</Page>
+    </Text>
+</QuestDialog>

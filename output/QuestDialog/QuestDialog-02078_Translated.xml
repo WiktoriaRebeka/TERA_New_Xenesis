@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">Kiecey pas&amp;#243; por aqu&amp;#237; hace poco. &lt;BR&gt;Por lo visto, unos granujas hicieron llorar a Anya.&lt;BR&gt;&lt;BR&gt;Al principio pens&amp;#233; que eran cosas de ni&amp;#241;os, pero aun as&amp;#237; me preocupa.&lt;BR&gt;&lt;BR&gt;T&amp;#250; y Anya son muy buenos amigos, &amp;#191;no? Ve a ver c&amp;#243;mo est&amp;#225;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ciertos ni&amp;#241;os muy particulares descienden de Tiaran, en Tiarania.&lt;BR&gt;&lt;BR&gt;Los ni&amp;#241;os de Tiaran se mostraron muy inquietos cuando los guardianes examinaron las ra&amp;#237;ces de Tiaran. Jerdan y Pilt hicieron llorar a Anya rob&amp;#225;ndole su mu&amp;#241;eca.&lt;BR&gt;&lt;BR&gt;Ve a buscar la mu&amp;#241;eca entre los arbustos, arr&amp;#233;glala y devu&amp;#233;lvesela a Anya, &lt;PCNAME&gt;. Eso deber&amp;#237;a devolverle la sonrisa. Y si tienes un poco de tiempo, juega con ella y su mu&amp;#241;eca, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="122">
+        <Page social="13" voiceTypeId="281">&amp;#161;Zozo ha desaparecido! &amp;#161;Me la robaron y ahora no la encuentro! &amp;#161;Es Niyum y su pandilla!&lt;BR&gt;&lt;BR&gt;&amp;#161;Eres un{@g:/e} adulto! &amp;#161;Obl&amp;#237;galos a devolv&amp;#233;rmela!&lt;NEXTPAGEBUTTON&gt;"No te preocupes, encontraré a Zozo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="118">
+        <Page social="4" voiceTypeId="0">&amp;#161;Yo no hice nada!&lt;BR&gt;&lt;BR&gt;Solo quer&amp;#237;a jugar con Zozo y, es verdad, la tom&amp;#233;... pero Peter y Jerdan me dijeron que solo los beb&amp;#233;s juegan con mu&amp;#241;ecas. As&amp;#237; que quise devolverle Zozo a Anya.&lt;BR&gt;&lt;BR&gt;Me dijeron que ellos mismos la devolver&amp;#237;an... &amp;#161;pero mintieron! &amp;#161;Se llevaron a Zozo y la arrojaron a los arbustos!&lt;NEXTPAGEBUTTON&gt;"Gracias por tu honestidad, Niyum."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="201">
+        <Page social="4" voiceTypeId="0">(La mu&amp;#241;eca de Anya ya no est&amp;#225; en muy buen estado tras haber sido arrojada a un arbusto espinoso. Algunas de sus costuras est&amp;#225;n desgarradas y su relleno sale por esos agujeros. Si Anya ve a Zozo en este estado, se le romper&amp;#225; el coraz&amp;#243;n.)&lt;NEXTPAGEBUTTON&gt;"Creo que tendré que arreglar a Zozo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="599" prevId="5" villagerId="119">
+        <Page social="4" voiceTypeId="0">&amp;#161;No quer&amp;#237;amos romper su mu&amp;#241;eca, te lo juro!&lt;BR&gt;&lt;BR&gt;Solo jugamos con ella y se cay&amp;#243; en el arbusto. &amp;#205;bamos a sacarla de ah&amp;#237;... pero nos olvidamos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; hacer tanto drama? &amp;#161;Es solo una mu&amp;#241;eca vieja!&lt;NEXTPAGEBUTTON&gt;"Hicieron llorar a Anya."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pero no lo hicimos a prop&amp;#243;sito. Lo siento, no pens&amp;#225;bamos que...&lt;BR&gt;&lt;BR&gt;&amp;#161;No le digas que fuimos nosotros, te lo suplico! &amp;#161;Anya es como nuestra hermana peque&amp;#241;a!&lt;BR&gt;&lt;BR&gt;Zozo est&amp;#225; en muy mal estado, &amp;#191;eh? Espera, mi mam&amp;#225; me dio una aguja e hilo. &amp;#191;Puedes tomarlos para arreglar a Zozo? &amp;#161;Tal vez puedas usar hierba pegajosa para rellenarla!&lt;NEXTPAGEBUTTON&gt;"Vale la pena intentarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="116">
+        <Page social="4" voiceTypeId="0">[And] &amp;#191;Es... es mi peque&amp;#241;a Zozo?&lt;BR&gt;&lt;BR&gt;&amp;#161;Zozo, me la has tra&amp;#237;do! &amp;#161;Gracias, &lt;PCNAME&gt;! &amp;#161;Eres alguien muy especial, aunque a&amp;#250;n no lo sepas! &amp;#161;Gracias, gracias, muchas gracias!&lt;NEXTPAGEBUTTON&gt;"¿Todo va mejor, Anya?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="282">&amp;#161;S&amp;#237;! &amp;#161;Mucho mejor! &amp;#161;Gracias! &amp;#161;Zozo tambi&amp;#233;n te da las gracias!&lt;BR&gt;&lt;BR&gt;&amp;#161;A {@g:/e} le gustar&amp;#237;a que fueras el invitado de honor de una peque&amp;#241;a merienda!&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma! &amp;#161;Si&amp;#233;ntate al lado de Zozo!&lt;NEXTPAGEBUTTON&gt;"De acuerdo, pero no puedo quedarme mucho tiempo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="599" villagerId="116">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="827" prevId="7" villagerId="100">
+        <Page social="4" voiceTypeId="0">Nos hemos quedado sin t&amp;#233;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ya es hora de volver? Prefiero jugar un poco m&amp;#225;s antes de tomar una siesta.&lt;NEXTPAGEBUTTON&gt;"Podemos volver a jugar mañana."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Lo prometes? &amp;#161;Porque esta noche es la &amp;#250;ltima vez que tengo que participar en el sue&amp;#241;o experimental... eso es lo todo lo que han dicho!&lt;BR&gt;&lt;BR&gt;Todo el mundo piensa que la Visi&amp;#243;n es algo muy especial, pero no me gusta dormir la siesta. &amp;#161;Solo quiero jugar!&lt;BR&gt;&lt;BR&gt;&amp;#191;Me lo prometes, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Te lo prometo, Anya."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

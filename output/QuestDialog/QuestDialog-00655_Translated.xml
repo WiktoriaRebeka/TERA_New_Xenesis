@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">Lider&amp;#233; una patrulla en la orilla sur del lago y vi a unos {@LinkCreature:23#11#bouffons malveillants} con ropas rid&amp;#237;culas que ayudaban a unos {@LinkCreature:23#12#mercenaires kobolds}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es una alianza que no podemos tolerar. Destr&amp;#250;yela!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">Combatir a los kobolds es una cosa, pero combatir a estos bufones es harina de otro costal. &amp;#161;Odio a estas porquer&amp;#237;as!&lt;BR&gt;&lt;BR&gt;Gracias. Muchos soldados habr&amp;#237;an perdido la vida si no hubieras solucionado el problema.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">Nuestros investigadores todav&amp;#237;a no est&amp;#225;n a salvo en {@Rgn:47002$$For&amp;#234;t de la gel&amp;#233;e blanche}. Me gustar&amp;#237;a que fueras a cazar {@LinkCreature:47#1001#grizzlys de Tirkai}. Y ya que est&amp;#225;s, reduce un poco las poblaciones de {@LinkCreature:47#4001#crois&amp;#233;s dagonites argonomorphes} y {@LinkCreature:47#2001#farfadets caprins argonomorphes}.&lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine}, de {@Rgn:47006$$Base de la Folie}, se encargar&amp;#225; de recompensarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Muchas gracias.&lt;BR&gt;&lt;BR&gt;Gracias a ti, todos estamos un poco m&amp;#225;s seguros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">Regresa una vez que hayas eliminado a {@LinkCreature:47#1001#grizzlys de Tirkai}, {@LinkCreature:47#4001#crois&amp;#233;s dagonites argonomorphes} y {@LinkCreature:47#2001#farfadets caprins argonomorphes} de {@Rgn:47002$$For&amp;#234;t de la gel&amp;#233;e blanche}.</Page>
+    </Text>
+</QuestDialog>

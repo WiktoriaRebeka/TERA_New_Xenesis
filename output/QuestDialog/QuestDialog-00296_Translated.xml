@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">Bien, creo que ahora tenemos toda su atenci&amp;#243;n, pero debemos seguir atac&amp;#225;ndolos.&lt;BR&gt;Mata a {@LinkCreature:10#23#Midirix}. Seg&amp;#250;n los nagas, sus escamas son tan duras como afilados son sus colmillos.&lt;BR&gt;&lt;BR&gt;Mu&amp;#233;strales que tu valor no tiene igual.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Midirix ya no est&amp;#225;... y nuestros amiguitos escamosos del templo deben empezar a sentir que las tornas han cambiado.</Page>
+    </Text>
+</QuestDialog>

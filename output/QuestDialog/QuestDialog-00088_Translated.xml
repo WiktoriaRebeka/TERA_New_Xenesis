@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="4">Perdimos contacto con nuestros primos de Crescentia. Los devans lograron cruzar nuestra l&amp;#237;nea defensiva en los campamentos y cortaron el camino, interrumpiendo cualquier tipo de comercio.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al este, cruza la caverna y habla con {@LinkCreature:203#1004#Neacal} en el Campamento de la Presa. Haz todo lo posible para tenderle una mano. Si haces por los habitantes de los Bois de l'Oubli siquiera la mitad de lo que hiciste por nosotros, ya ser&amp;#225;s de gran ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="6">&amp;#191;Vienes a unirte a nuestras fuerzas? Formidable.&lt;BR&gt;&lt;BR&gt;Los devans invadieron el bosque y establecieron varios campamentos all&amp;#237;. Antes se confinaban al per&amp;#237;metro de Deva Silva, pero &amp;#250;ltimamente se han vuelto m&amp;#225;s audaces.&lt;BR&gt;&lt;BR&gt;Son oponentes poderosos y astutos, pero con tu ayuda, terminaremos por repelerlos.</Page>
+    </Text>
+</QuestDialog>

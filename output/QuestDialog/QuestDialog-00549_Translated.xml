@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1033">
+        <Page social="4">Si te preguntas qu&amp;#233; hacen esos cad&amp;#225;veres ah&amp;#237;, es f&amp;#225;cil, fui yo quien mat&amp;#243; a esos tipos. Eran de la Confr&amp;#233;rie libre.&lt;NEXTPAGEBUTTON&gt;"¿La Confrérie libre?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">S&amp;#237;, &amp;#191;nunca has o&amp;#237;do hablar de ella? Estaba compuesta por granjeros que se hab&amp;#237;an federado para exigir a los mercaderes de Velika una subida de sus salarios. No s&amp;#233; qu&amp;#233; pas&amp;#243; despu&amp;#233;s... pero desde hace poco, han empezado a atacar a todo aquel que tiene la mala suerte de acercarse a ellos. Parece que han perdido completamente la cabeza.&lt;NEXTPAGEBUTTON&gt;"¿Alguien los estará manipulando?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Es posible.&lt;BR&gt;&lt;BR&gt;Tal vez obtengamos informaci&amp;#243;n examinando los cad&amp;#225;veres...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1025">
+        <Page social="4">(Este cuerpo est&amp;#225; muy mutilado.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="1026">
+        <Page social="4">(A esta persona le han cortado la garganta.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="1027">
+        <Page social="4">(Este cad&amp;#225;ver presenta una herida abierta en el pecho. Un objeto brillante llama tu atenci&amp;#243;n.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="3" villagerId="1033">
+        <Page social="4">&amp;#191;Encontraste esto dentro de uno de ellos? Me pregunto qu&amp;#233; podr&amp;#225; ser.&lt;BR&gt;&lt;BR&gt;Se lo entregar&amp;#233; al prefecto en cuanto sea posible.</Page>
+    </Text>
+</QuestDialog>

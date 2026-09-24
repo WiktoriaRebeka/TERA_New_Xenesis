@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">Has encontrado a los tuwangis ocultos y les has dado valor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">El abuelo tuwangi le teme a la rana grande. Se estaba escondiendo. Es la hora de la ceremonia. &amp;#161;Hay que encontrarlo!&lt;NEXTPAGEBUTTON&gt;¿Dónde crees que está?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">&amp;#161;Cu&amp;#225;ntos escondites! Pero el peque&amp;#241;o tuwangi no puede correr muy lejos.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un tambor. Encuentra su escondite y toca el tambor para hacer salir al tuwangi.&lt;NEXTPAGEBUTTON&gt;Te ayudaré.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Tuwangi temeroso.&lt;NEXTPAGEBUTTON&gt;Puedo ayudarte.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Tuwangi temeroso.&lt;NEXTPAGEBUTTON&gt;Puedo ayudarte.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Tuwangi temeroso.&lt;NEXTPAGEBUTTON&gt;Puedo ayudarte.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Tuwangi temeroso.&lt;NEXTPAGEBUTTON&gt;Puedo ayudarte.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="205" prevId="2" villagerId="2005">
+        <Page social="4">&amp;#191;Por qu&amp;#233; tanto fuego?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="205" prevId="8" villagerId="2006">
+        <Page social="4">&amp;#191;Es hora de sopa de drag&amp;#243;n?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="205" prevId="9" villagerId="2007">
+        <Page social="4">&amp;#191;No hay m&amp;#225;s tambores?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="205" prevId="10" villagerId="2008">
+        <Page social="4">Es dif&amp;#237;cil crecer.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="205" prevId="11" villagerId="2001">
+        <Page social="4">&amp;#161;El abuelo tuwangi ha vuelto! La ceremonia puede comenzar. Ser&amp;#225;s un buen tuwangi.</Page>
+    </Text>
+</QuestDialog>

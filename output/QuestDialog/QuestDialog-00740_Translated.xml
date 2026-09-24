@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1024">
+        <Page social="5">Cuando las fuerzas de Thulsa nos atacaron, algunos se escondieron, otros lucharon y muchos murieron. Pero {@Creature:227#1026$$Haruish}... uno de nuestros exploradores, aprovech&amp;#243; el caos reinante y vio la oportunidad de cruzar las l&amp;#237;neas enemigas.&lt;BR&gt;&lt;BR&gt;Desde entonces, no sabemos nada de &amp;#233;l. Me temo que le ha ocurrido una desgracia. &amp;#191;Podr&amp;#237;as ir a buscarlo?&lt;BR&gt;&lt;BR&gt;El Mysterium agradecer&amp;#237;a tu solicitud.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1026">
+        <Page social="5">(Aparentemente, su valor no fue suficiente para salvarle la vida.)&lt;NEXTPAGEBUTTON&gt;"Voy a tomar sus cosas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(Al registrarlo, te topas con una carta.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1024">
+        <Page social="5">Era un buen tipo. Ojal&amp;#225; hubiera tenido tiempo de conocerlo mejor.&lt;NEXTPAGEBUTTON&gt;"Debes hablar con los soldados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tienes raz&amp;#243;n, me encargar&amp;#233; de eso.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n har&amp;#233; llegar esta carta a su familia. Sus seres queridos lo apreciar&amp;#225;n.</Page>
+    </Text>
+</QuestDialog>

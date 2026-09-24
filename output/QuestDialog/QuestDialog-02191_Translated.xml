@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4">Queremos enviar los robots m&amp;#225;gicos que hemos desarrollado a nuestros investigadores que trabajan en varios lugares. Pero es un largo viaje, y los caminos a veces son peligrosos, as&amp;#237; que pensamos en ti.&lt;BR&gt;&lt;BR&gt;Te he preparado un controlador de invocaci&amp;#243;n de robot m&amp;#225;gico. Puedes usarlo para invocar un robot m&amp;#225;gico para cada investigador presente en el terreno. Y t&amp;#250; tambi&amp;#233;n puedes usarlo. Una peque&amp;#241;a prueba &quot;en situaci&amp;#243;n&quot; no hace da&amp;#241;o, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Klissa te dar&amp;#225; el controlador. &amp;#161;Divi&amp;#233;rtete con estos robots!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Espera, &amp;#191;necesitas el controlador?&lt;BR&gt;&lt;BR&gt;Lo siento, pero Fitae y Zerit lo tomaron prestado. No s&amp;#233; muy bien qu&amp;#233; quer&amp;#237;an hacer con &amp;#233;l, seguramente usarlo para una buena causa.&lt;BR&gt;&lt;BR&gt;En cualquier caso, est&amp;#225; en manos de uno de esos dos. &amp;#161;Tienes que ir a ped&amp;#237;rselo a ellos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">&amp;#191;El controlador de invocaci&amp;#243;n de robot m&amp;#225;gico? Por supuesto, aqu&amp;#237; lo tienes.&lt;BR&gt;&lt;BR&gt;&amp;#218;salo como cualquier otro objeto: abre tu inventario, coloca el cursor sobre el controlador y haz clic derecho.&lt;BR&gt;&lt;BR&gt;Tu destino: Veltor en el Refuge de Balder.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">&amp;#191;El controlador de invocaci&amp;#243;n de robot m&amp;#225;gico? Por supuesto, aqu&amp;#237; lo tienes.&lt;BR&gt;&lt;BR&gt;&amp;#218;salo como cualquier otro objeto: abre tu inventario, coloca el cursor sobre el controlador y haz clic derecho.&lt;BR&gt;&lt;BR&gt;Tu destino: Sindel en el Refuge de Balder.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1701">
+        <Page social="4">&amp;#191;Qu&amp;#233; te trae tan lejos de casa?&lt;BR&gt;&lt;BR&gt;&amp;#191;Un aparato de robot m&amp;#225;gico, eh? Espera un minuto.&lt;NEXTPAGEBUTTON&gt;"Aquí tienes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Parece que va a ser &amp;#250;til.&lt;BR&gt;&lt;BR&gt;Y entre nosotros, probablemente tambi&amp;#233;n sea divertido.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1702">
+        <Page social="4">Un aparato de robot m&amp;#225;gico... lo que se llegan a inventar.&lt;NEXTPAGEBUTTON&gt;"Contrólalo con esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Terminar&amp;#233; por comprender para qu&amp;#233; podr&amp;#237;a servir un robot m&amp;#225;gico por aqu&amp;#237;. En fin, uno siempre puede hacerse la misma pregunta sobre los colegas en Allemantheia...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" villagerId="1702">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

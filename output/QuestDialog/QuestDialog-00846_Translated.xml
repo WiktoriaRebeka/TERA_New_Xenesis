@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">El campamento de mercenarios recibe refuerzos con regularidad, pero ignoramos de d&amp;#243;nde vienen. Por m&amp;#225;s que los matemos, sus efectivos se renuevan sin cesar.&lt;BR&gt;&lt;BR&gt;Sin embargo, sin importar su n&amp;#250;mero, sin sus comandantes, los mercenarios no valen nada.&lt;BR&gt;&lt;BR&gt;Estamos en busca de informaci&amp;#243;n para identificar los lugares donde podr&amp;#237;an estar los campamentos de los comandantes. Aqu&amp;#237; tienes una lista de los sectores que podr&amp;#237;an ser revisados, pero necesitar&amp;#225;s el consentimiento de Uzair.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">Desear&amp;#237;a poder llevar a cabo el plan de Nashwa... Es una gran idea... pero los exploradores que envi&amp;#233; a esa zona no han regresado.&lt;BR&gt;&lt;BR&gt;Dicho esto, tal vez est&amp;#233; a tu alcance. Ve a buscar a {@LinkCreature:32#20#Baalark}, su comandante, y elim&amp;#237;nalo antes de que los mercenarios tomen otras iniciativas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1003">
+        <Page social="4">Ese bastardo obtuvo lo que se merec&amp;#237;a... Juro por el nombre de los soldados que mat&amp;#243; que har&amp;#233; colgar su cabeza para que los cuervos se deleiten con ella y los mercenarios aprendan la lecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Estas noticias van a hacer muy felices a algunos. Ya quiero anunciarle a Nashwa que su plan dio frutos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" villagerId="1003">
+        <Page social="0">El campamento de mercenarios se encuentra al norte. No hay tiempo que perder.</Page>
+    </Text>
+</QuestDialog>

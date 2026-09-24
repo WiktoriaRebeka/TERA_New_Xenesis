@@ -1,0 +1,44 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="4">Dicen que {@LinkCreature:62#1014$$Finn} quiere volver a la pirater&amp;#237;a. Debemos esforzarnos por impedirlo.&lt;BR&gt;&lt;BR&gt;Tengo una idea... Consigue un poco de grog y dale a su tripulaci&amp;#243;n la borrachera del siglo hasta que est&amp;#233;n incapacitados para volver al mar.&lt;BR&gt;&lt;BR&gt;Cr&amp;#233;eme, por el bien de todos, es mejor que Finn renuncie a sus planes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1015">
+        <Page social="4">&amp;#161;Ese tipo de ah&amp;#237;... {@LinkCreature:62#1014$$Finn}, me pidi&amp;#243; que me uniera a su tripulaci&amp;#243;n! Anta&amp;#241;o, ese sujeto era una leyenda.&lt;BR&gt;&lt;BR&gt;Oigan, &amp;#191;qu&amp;#233; es esto?&lt;NEXTPAGEBUTTON&gt;"Mi pequeño vicio... Pruébalo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Saben qu&amp;#233;? Ten&amp;#237;a unas ganas locas de mojar el gorguz desde ayer. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="1007">
+        <Page social="4">El otro d&amp;#237;a, {@LinkCreature:62#1014$$Finn} me propuso unirme a su tripulaci&amp;#243;n. Honestamente, lo dudaba, pero puso una buena suma de dinero sobre la mesa.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo se le puede decir que no a eso?&lt;NEXTPAGEBUTTON&gt;"¡Entonces, bebamos por tu carrera como pirata!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">La bebida es como el dinero: &amp;#161;jam&amp;#225;s he sabido decir que no!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="5" villagerId="1010">
+        <Page social="4">&amp;#161;Voy a formar parte de la tripulaci&amp;#243;n de {@LinkCreature:62#1014$$Finn}! &amp;#161;No quepo en m&amp;#237; de la emoci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Siempre quise convertirme en pirata, pero jam&amp;#225;s cre&amp;#237; que ver&amp;#237;a mi sue&amp;#241;o hecho realidad alg&amp;#250;n d&amp;#237;a!&lt;NEXTPAGEBUTTON&gt;"Pero dime: ¿siquiera sabes beber como un verdadero pirata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Qu&amp;#233;? Oh, pero yo nunca... Eh... &amp;#161;Quiero decir, claro que s&amp;#237;! &amp;#161;Dame eso, ya ver&amp;#225;s!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1009">
+        <Page social="4">No tengo tiempo para charlar. Demasiado trabajo. Debo resolver un mont&amp;#243;n de cosas antes de unirme a la tripulaci&amp;#243;n de {@LinkCreature:62#1014$$Finn}.&lt;NEXTPAGEBUTTON&gt;"Tómate un trago... Eso te relajara."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Todos estos preparativos me estresan. Muchas gracias.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="9" villagerId="1014">
+        <Page social="4">&amp;#191;C&amp;#243;mo que nada de pirater&amp;#237;a hoy?&lt;BR&gt;&lt;BR&gt;Tengo mi llave, un barco, una tripulaci&amp;#243;n... Lo &amp;#250;nico que me falta es un blanco.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me perd&amp;#237; de algo?&lt;NEXTPAGEBUTTON&gt;"Tu tripulación tiene unas copas de más."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#191;Qu&amp;#233;? &amp;#191;Es una broma? &amp;#161;Qu&amp;#233; bola de imb&amp;#233;ciles!&lt;BR&gt;&lt;BR&gt;Y pensar que tomaba el regreso de mi amuleto de la suerte como una se&amp;#241;al del destino. Decir que el tiempo era ideal para volver al mar. Definitivamente, la mala suerte me persigue.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="11" villagerId="1001">
+        <Page social="4">&amp;#161;Bien hecho! Es un gran alivio saber que Finn no va a volver a hacer de las suyas.&lt;BR&gt;&lt;BR&gt;Conociendo su lado supersticioso, esto deber&amp;#237;a desanimarlo por completo.</Page>
+    </Text>
+</QuestDialog>

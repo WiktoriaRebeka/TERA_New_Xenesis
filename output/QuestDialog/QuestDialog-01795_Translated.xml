@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">(Este documento parece en blanco, pero al sostenerlo con ambas manos, distingues una runa brillante. Al examinarlo, recuerdas haber visto a alguien en Highwatch con un dise&amp;#241;o similar en su armadura.) &lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Si aceptas esta misi&amp;#243;n, el documento ser&amp;#225; destruido.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">&amp;#161;Impresionante! &amp;#161;Has encontrado una runa de conocimiento! Los antiguos maestros artesanos aman las usaban para inmortalizar sus planos m&amp;#225;s destacados. Los herreros de mi familia han tenido cierto &amp;#233;xito traduciendo estas runas para usarlas en armas y armaduras modernas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me autorizas a examinar este documento m&amp;#225;s de cerca?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="9999">
+        <Page social="4">Como lo esperaba... has conseguido algo sumamente raro. Si tus habilidades est&amp;#225;n a la altura, pronto ser&amp;#225;s capaz de crear objetos prodigiosos.&lt;BR&gt;&lt;BR&gt;He traducido el documento para permitirte mejorar tu equipo. Me alegro de antemano por el resultado y espero combatir alg&amp;#250;n d&amp;#237;a a tu lado.</Page>
+    </Text>
+</QuestDialog>

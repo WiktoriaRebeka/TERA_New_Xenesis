@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Todas las profec&amp;#237;as antiguas y los dioses muertos desde hace mucho tiempo no servir&amp;#225;n de nada si los {@LinkCreature:30#510#mandrills patteffroi} siguen destruy&amp;#233;ndolo todo.&lt;BR&gt;&lt;BR&gt;Ya son responsables de los {@Rgn:30009$$Ruines du temple}, pero hay que evitar que sigan causando estragos para que los investigadores puedan continuar con su trabajo.&lt;BR&gt;&lt;BR&gt;Reduce su n&amp;#250;mero como t&amp;#250; solo sabes hacerlo y luego pres&amp;#233;ntate ante el decuri&amp;#243;n {@LinkCreature:230#1001$$Litherus}, responsable del {@Rgn:30008$$Temple de l'autorit&amp;#233;}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">Esos {@LinkCreature:30#510#mandrills patteffroi} empezaban a preocuparme y resolviste el problema antes de que pudiera mover un dedo. A esto lo llamo &quot;anticiparse&quot;.</Page>
+    </Text>
+</QuestDialog>

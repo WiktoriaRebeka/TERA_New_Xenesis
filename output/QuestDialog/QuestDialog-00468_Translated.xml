@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">&amp;#191;Desangrado? &amp;#191;Ha sido desangrado?&lt;BR&gt;&lt;BR&gt;Bueno, da la casualidad de que un grupo de soldados se dirige hacia all&amp;#237;. &amp;#218;nete a ellos en la Plana biscornue y presenta tu informe a {@LinkCreature:216#1012#Ludin}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">&amp;#191;Te env&amp;#237;a Paka? De acuerdo, bien. &amp;#191;Ves esa columna de enemigos de all&amp;#237;? Matan a todo lo que se les acerca, y ya no podemos acceder al pueblo.&lt;BR&gt;&lt;BR&gt;Haz todo lo posible para ayudarnos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Ya no puedo ignorar la peligrosidad de los basiliscos por m&amp;#225;s tiempo. Velika ordena que nadie entre, pero Chebika estar&amp;#225; amenazada mientras nadie vaya.&lt;BR&gt;&lt;BR&gt;Tienes autorizaci&amp;#243;n para adentrarte en el Valle de las Tumbas y matar {@LinkCreature:21#2#basilics mats} all&amp;#237;. Av&amp;#237;same cuando hayas terminado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">Los basiliscos son criaturas temibles. &amp;#161;Agradezco tu valor, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Chebika est&amp;#225; bajo la protecci&amp;#243;n de la Federaci&amp;#243;n. Tengo mis &amp;#243;rdenes, al igual que t&amp;#250;. Mata a los basiliscos.</Page>
+    </Text>
+</QuestDialog>

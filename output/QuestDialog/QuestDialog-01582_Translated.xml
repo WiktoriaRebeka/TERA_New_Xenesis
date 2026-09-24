@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Shoju Punhan perdi&amp;#243; toda su fortuna jugando contra el se&amp;#241;or de la ruleta. Pero no logra resistirse a la tentaci&amp;#243;n del juego y le pide una &amp;#250;ltima moneda de oro al guardi&amp;#225;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">En la Ruleta de Demoroth, te encuentras con un Human que parece ser un aldeano.&lt;BR&gt;Le preguntas qu&amp;#233; pas&amp;#243;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oye, t&amp;#250;! Ay&amp;#250;dame, por favor.&lt;BR&gt;Perd&amp;#237; toda mi fortuna apostando contra Demoroth.&lt;BR&gt;Al recuperar el juicio, me di cuenta de que hab&amp;#237;a perdido todo mi oro y que ya ni siquiera ten&amp;#237;a los medios para volver a casa.&lt;BR&gt;&lt;BR&gt;Una tarjeta dorada ser&amp;#237;a m&amp;#225;s que suficiente. &amp;#191;Aceptar&amp;#237;as ayudarme?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Muy bien... Con esto, podr&amp;#233; permitirme una &amp;#250;ltima partida...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">&amp;#161;Por favor! Te lo suplico. Tengo que encontrar la forma de volver a casa.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="466" prevId="3" villagerId="1078">
+        <Page social="4" voiceTypeId="0">&amp;#161;Gracias! Esta tarjeta servir&amp;#225;.&lt;BR&gt;&lt;BR&gt;Pero espera... &amp;#191;y si gano?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="466" villagerId="1078">
+        <Page social="0">Por favor, dame algo para volver a casa...</Page>
+    </Text>
+</QuestDialog>

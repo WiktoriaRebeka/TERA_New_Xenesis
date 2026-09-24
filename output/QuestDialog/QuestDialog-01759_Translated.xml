@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="0">&lt;PCNAME&gt; recopil&amp;#243; pistas sobre el asesino al hablar con los barakas sobrevivientes.&lt;BR&gt;Despu&amp;#233;s, &lt;PCNAME&gt; se cruz&amp;#243; con un soldado sospechoso que afirm&amp;#243; no haber o&amp;#237;do hablar de las palabras de Skald Omero, traicionando as&amp;#237; que en realidad era un miembro infiltrado del ej&amp;#233;rcito imperial archidevan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Estos soldados barakas formaban parte de una patrulla que desapareci&amp;#243;. Los guardias de Hautegarde la estaban buscando.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as informar a su capit&amp;#225;n de que hemos encontrado sus restos y que has purificado sus almas.&lt;NEXTPAGEBUTTON&gt;"Voy a ponerlo al corriente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Mis disculpas, &lt;PCNAME&gt;. Estoy un poco tenso y no te reconoc&amp;#237; al principio.{@g:/e}&lt;BR&gt;&lt;BR&gt;Estamos buscando a los miembros de una patrulla que desapareci&amp;#243; anoche. Encontramos a algunos, pero a&amp;#250;n faltan muchos por aparecer.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes alguna informaci&amp;#243;n sobre ellos?&lt;NEXTPAGEBUTTON&gt;"Los vi... asesinados en plena noche por los Archidevans."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Eso es lo que tem&amp;#237;a. Los Archidevans se han vuelto mucho m&amp;#225;s audaces desde el secuestro de Verikam.&lt;BR&gt;&lt;BR&gt;Hemos encontrado a algunos con vida, pero no est&amp;#225;n... del todo bien. Tal vez podr&amp;#237;as hablar con ellos. &amp;#191;Quiz&amp;#225;s te digan qu&amp;#233; pas&amp;#243; y c&amp;#243;mo los Archidevans lograron tomarles por sorpresa?&lt;BR&gt;&lt;BR&gt;Busca filtros de compostura en esas cajas m&amp;#233;dicas y, si encuentras alguno, d&amp;#225;selo a los sobrevivientes que encuentres. Eso deber&amp;#237;a aclararles las ideas.&lt;NEXTPAGEBUTTON&gt;"Yo me encargo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1028">
+        <Page social="4" voiceTypeId="0">(Entre las botellas rotas y los vendajes desgarrados, encuentras un frasco en el que est&amp;#225; escrito &quot;Compostura&quot;)&lt;NEXTPAGEBUTTON&gt;"Debe de ser esto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1026">
+        <Page social="0" voiceTypeId="0">&amp;#161;No, no... yo no! &amp;#161;Retrocede, al&amp;#233;jate de m&amp;#237;!&lt;NEXTPAGEBUTTON&gt;"Tranquilo, soldado. Toma, esto debería calmar tu sufrimiento."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#161;Naaan! &amp;#161;No! Yo... yo... &amp;#191;nos conocemos?&lt;BR&gt;&lt;BR&gt;Aaah, ya recuerdo...&lt;BR&gt;&lt;BR&gt;Est&amp;#225;bamos patrullando cuando de repente mis compa&amp;#241;eros empezaron a correr y a gritar. No s&amp;#233; c&amp;#243;mo empez&amp;#243;, &amp;#161;pero al poco rato a m&amp;#237; tambi&amp;#233;n me abati&amp;#243; un p&amp;#225;nico ciego! &amp;#161;Algo... nos persegu&amp;#237;a a una velocidad prodigiosa!&lt;BR&gt;&lt;BR&gt;Pero ahora el p&amp;#225;nico ha pasado, gracias. &amp;#191;Soy el &amp;#250;nico superviviente?&lt;NEXTPAGEBUTTON&gt;"Eso es lo que intento averiguar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1027">
+        <Page social="0" voiceTypeId="0">&amp;#161;Tengan piedad! &amp;#161;Piedad! Se los suplico, perdonen mi vida. O al menos, &amp;#161;acaben con ella r&amp;#225;pido!&lt;NEXTPAGEBUTTON&gt;"Tranquilo. Toma, esto debería ayudarte."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Qu&amp;#233;...? &amp;#191;Qu&amp;#233; ha pasado? &amp;#191;Ad&amp;#243;nde ha ido?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! &amp;#161;He visto lo que pas&amp;#243;! &amp;#161;Era uno de los nuestros!&lt;BR&gt;&lt;BR&gt;&amp;#161;Era algo disfrazado de soldado de Highwatch! Pens&amp;#233; que era un nuevo miembro de la patrulla. Pero una vez que estuvimos lo suficientemente lejos de las luces de la ciudad, &amp;#161;nos atac&amp;#243;! &amp;#161;Pero no era un simple disfraz! &amp;#161;&amp;#201;l... logr&amp;#243; sembrar un p&amp;#225;nico ciego en nuestras filas!&lt;BR&gt;&lt;BR&gt;Se los digo, &lt;PCNAME&gt;: algo se oculta entre nosotros, haci&amp;#233;ndose pasar por uno de los nuestros... &amp;#161;Encu&amp;#233;ntrenlo antes de que mueran m&amp;#225;s soldados!&lt;NEXTPAGEBUTTON&gt;"Te doy mi palabra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">Dije que este camino est&amp;#225; cerrado.&lt;BR&gt;&lt;BR&gt;Si no te vas de inmediato, te atar&amp;#233; y te dejar&amp;#233; al borde del camino para alimentar a las hienas.&lt;BR&gt;&lt;BR&gt;Pero &amp;#191;qui&amp;#233;n te crees que eres, escoria extranjera?&lt;NEXTPAGEBUTTON&gt;"Omeros me envía a entregarte un mensaje."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&amp;#191;Eh?&lt;BR&gt;&lt;BR&gt;Ah, s&amp;#237;... Omeros el... gran Scrutator. &amp;#191;Y cu&amp;#225;l es el mensaje?&lt;NEXTPAGEBUTTON&gt;"¡Vamos a saldar cuentas contigo, Archidevan!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1022">
+        <Page social="4" voiceTypeId="0">&amp;#191;Un Archidevan disfrazado de guardia de Highwatch?&lt;BR&gt;&lt;BR&gt;Una muy oscura noticia. Debo informar al Sagegarde: querr&amp;#225; asegurarse de que nuestras filas no vuelvan a ser infiltradas.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"¿Para qué están los amigos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

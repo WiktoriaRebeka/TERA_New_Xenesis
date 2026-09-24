@@ -1,0 +1,67 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Hola, &lt;PCNAME&gt;. Me llamo Braga y soy el capit&amp;#225;n de los guardianes de Highwatch.&lt;BR&gt;Tengo algo para ti. &amp;#191;Podr&amp;#237;as venir a visitarme lo antes posible a Highwatch? Te estar&amp;#233; esperando.&lt;BR&gt;&lt;BR&gt; Braga, capit&amp;#225;n de los guardianes</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Participaste en una fiesta a petici&amp;#243;n de Braga. Fue una celebraci&amp;#243;n suntuosa que no ten&amp;#237;a nada que envidiar a otros eventos. El aire estaba impregnado de un suave aroma a deliciosos manjares y el sonido de los bailarines y los fuegos artificiales resonaba a lo redor. Cuando el Comandante Seir subi&amp;#243; al podio para pronunciar un discurso, el ambiente lleg&amp;#243; a su punto &amp;#225;lgido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1014">
+        <Page social="0" voiceTypeId="0">Bienvenida, &lt;PCNAME&gt;.&lt;BR&gt;Te he mandado llamar debido a un asunto urgente de la Valkyon Federation. Pronto se organizar&amp;#225; una fiesta en Velika para celebrar la paz duradera.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes tu invitaci&amp;#243;n.&lt;BR&gt;Halran tambi&amp;#233;n ha recibido una.&lt;BR&gt;Aparentemente, una multitud de invitados se re&amp;#250;ne en este lugar hist&amp;#243;rico.&lt;BR&gt;&lt;BR&gt;La invitaci&amp;#243;n te teletransporta directamente a Velika. Utiliza esta invitaci&amp;#243;n si quieres participar en las festividades.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="506" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">Todav&amp;#237;a no es hora de festividades. &lt;BR&gt;Es imperativo que las fuerzas armadas que fueron enviadas a Elenea regresen a Velika. &amp;#161;De lo contrario, Velika y tal vez todo Arborea corren un gran peligro!&lt;BR&gt;&lt;BR&gt;Hay que informar al comandante Seir a toda costa, pero no tengo una invitaci&amp;#243;n...&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as entregarle esta carta a Seir? &amp;#161; cuento contigo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="506" prevId="4" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Hola. &amp;#191;Puedo ver tu invitaci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;Bienvenido, &lt;PCNAME&gt;. Es un honor recibirte aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;El comandante Seir te est&amp;#225; buscando.&lt;BR&gt;Dir&amp;#237;gete al Valkyon Federation Headquarters antes de disfrutar de los festejos de la fiesta.&lt;NEXTPAGEBUTTON&gt;"¿Puede acompañarme mi camarade?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Hablas del hombre de ah&amp;#237;?&lt;BR&gt;Lamentablemente, solo puedo dejar entrar a las personas que tienen una invitaci&amp;#243;n personal.&lt;BR&gt;La &amp;#250;nica excepci&amp;#243;n se hace para los hijos de los invitados.&lt;BR&gt;&lt;BR&gt;No puedes entrar al Sal&amp;#243;n de banquetes con un compa&amp;#241;ero, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y ahora, ve a ver al comandante Seir.&lt;BR&gt;&amp;#201;l te est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="506" villagerId="1003">
+        <Page social="0">Hola. &amp;#191;Puedo ver tu invitaci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;Bienvenido, &lt;PCNAME&gt;. Es un honor darte la bienvenida aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;El comandante Seir te est&amp;#225; buscando.&lt;BR&gt;Dir&amp;#237;gete al Valkyon Federation Headquarters antes de disfrutar de los festejos de la fiesta.&lt;NEXTPAGEBUTTON&gt;"¿Puede acompañarme mi compañero?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="506" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">Te estaba esperando, &lt;PCNAME&gt;. &lt;BR&gt;La destrucci&amp;#243;n del RK-9 en el hangar de Randun probablemente le dio el golpe de gracia a Lakan, el Pr&amp;#237;ncipe de los Infiernos. Como guardi&amp;#225;n, te estoy infinitamente agradecido por no retroceder ante ning&amp;#250;n peligro.&lt;BR&gt;&lt;BR&gt;Disfruta bien de estas festividades.&lt;BR&gt;&lt;BR&gt;&amp;#191;Elenea?&lt;BR&gt;Es verdad que enviamos tropas all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Berdash me confió esta carta."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&amp;#191;Berdash? Todav&amp;#237;a no he o&amp;#237;do ese nombre.&lt;BR&gt;&lt;BR&gt;&amp;#191;As&amp;#237; que afirma que Arborea corre un gran peligro?&lt;BR&gt;Hum, siempre ha habido gente que quer&amp;#237;a precipitar a los ciudadanos de a pie al caos.&lt;BR&gt;&lt;BR&gt;No puedo simplemente hacer o&amp;#237;dos sordos.&lt;BR&gt;Pero no puedo terminar de leer esto ahora, ya que tengo que dar un discurso.&lt;BR&gt;Me encargar&amp;#233; de ello m&amp;#225;s tarde.&lt;BR&gt;&lt;BR&gt;Hay un gu&amp;#237;a de la fiesta estacionado en la entrada del Valkyon Federation Headquarters.&lt;BR&gt;Y ahora, ve a disfrutar de las festividades.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="506" prevId="7" villagerId="2100">
+        <Page social="0" voiceTypeId="0">&amp;#161;Ah, eres t&amp;#250;, &lt;PCNAME&gt;!&lt;BR&gt;Disfruta de la fiesta.&lt;BR&gt;&lt;BR&gt;Descubrir&amp;#225;s muchas actividades all&amp;#237;: baile, comida, cajas de la fortuna, teatro y mucho m&amp;#225;s.&lt;BR&gt;Cuando lo hayas probado todo, te dar&amp;#233; un peque&amp;#241;o obsequio.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo mucha curiosidad por ver c&amp;#243;mo te manejas en la pista de baile, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="506" prevId="8" villagerId="5027">
+        <Page social="0" voiceTypeId="0">&amp;#161;De verdad tienes el ritmo en la sangre, &lt;PCNAME&gt;!&lt;BR&gt;Esta avalancha de movimiento probablemente te ha abierto el apetito.&lt;BR&gt;Se han preparado muchos manjares suculentos para los guardianes.&lt;BR&gt;&lt;BR&gt;Ve a ver al intendente de cocina.&lt;BR&gt;Tendr&amp;#225;s varios platos deliciosos para elegir.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Bienvenida, &lt;PCNAME&gt;. &lt;BR&gt;&amp;#191;Qu&amp;#233; te sirvo?&lt;BR&gt;&lt;BR&gt;Selecciona un plato.&lt;BR&gt;El cocinero que ves detr&amp;#225;s de m&amp;#237; preparar&amp;#225; el plato que hayas elegido.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">&amp;#161;Una excelente elecci&amp;#243;n!&lt;BR&gt;La barbacoa tradicional de Poporia se compone de carne de cerdo envuelta en hojas de palmera y braseada delicadamente sobre un horno de lava.&lt;BR&gt;&lt;BR&gt;Espera un momento mientras el cocinero te prepara la comida.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">La ensalada de chispas de Feral Valley se compone de hojas de ensalada verde frescas adornadas con flores de loto celestial y un aderezo picante.&lt;BR&gt;Espero que te guste.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Las alas l&amp;#250;gubres son pechugas de struthio salteadas en salsa especial y adornadas con un loto celestial.&lt;BR&gt;Esta carne se te derretir&amp;#225; en la boca.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">La barbacoa tradicional de Poporia est&amp;#225; lista.&lt;BR&gt;&amp;#161;Buen provecho!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">La ensalada de chispas de Feral Valley est&amp;#225; lista.&lt;BR&gt;&amp;#161;Buen provecho!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Las alas l&amp;#250;gubres est&amp;#225;n listas.&lt;BR&gt;&amp;#161;Buen provecho!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="506" prevId="16" villagerId="5030">
+        <Page social="0" voiceTypeId="0">&amp;#191;Estaba bueno, &lt;PCNAME&gt;? &lt;BR&gt;&amp;#191;Qu&amp;#233; tal si pasamos ahora al evento de las cajas de la fortuna? Carben te llevar&amp;#225; all&amp;#237;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="506" prevId="17" villagerId="5000">
+        <Page social="0" voiceTypeId="0">&amp;#161;Bienvenido, &lt;PCNAME&gt;!&lt;BR&gt;Prueba tu suerte, jaja.&lt;BR&gt;&lt;BR&gt;Hay una medalla escondida en una de las cuatro cajas. &amp;#161;Solo tienes una oportunidad!&lt;BR&gt;&lt;BR&gt;&amp;#161;A ver si tienes buena mano, &lt;PCNAME&gt;! &amp;#161;Jaja!</Page>
+    </Text>
+    <Text id="19" huntingZoneId="506" prevId="18" villagerId="5000">
+        <Page social="0" voiceTypeId="0">&amp;#161;La suerte te sonr&amp;#237;e, &lt;PCNAME&gt;!&lt;BR&gt;Aparentemente, ya has probado todo lo que la feria tiene para ofrecer.&lt;BR&gt;Ve a ver a Mirriva para conseguir un recuerdo.&lt;BR&gt;&lt;BR&gt;Ah, el comandante dar&amp;#225; su discurso pronto.&lt;BR&gt;&lt;BR&gt;&amp;#191;A qui&amp;#233;n se le ocurri&amp;#243; la brillante idea de presentar una obra de teatro despu&amp;#233;s del discurso?&lt;BR&gt;&amp;#191;No crees que la gente se aburrir&amp;#225; much&amp;#237;simo y se ir&amp;#225;?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="506" villagerId="5000">
+        <Page social="0">&amp;#161;Espera! Olvidaste la medalla en la caja. Aseg&amp;#250;rate de guardarla antes de que alguien te gane.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="506" prevId="19" villagerId="2100">
+        <Page social="0" voiceTypeId="0">&amp;#191;Te gust&amp;#243; la feria, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Participaste en todas las actividades.&lt;BR&gt;Aqu&amp;#237; tienes un recuerdo.&lt;BR&gt;&lt;BR&gt;El discurso del comandante Seir comenzar&amp;#225; pronto.&lt;BR&gt;Re&amp;#250;nete frente al escenario.&lt;BR&gt;Se presentar&amp;#225; una obra de teatro despu&amp;#233;s del discurso.</Page>
+    </Text>
+</QuestDialog>

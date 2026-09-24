@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="5">Por aqu&amp;#237;, soldado. Los cultistas se est&amp;#225;n reuniendo al norte con vistas a un ataque. Se trata de los {@LinkCreature:17#301220#elins mut&amp;#233;s}, los {@LinkCreature:17#300442#gardes de Chute-c&amp;#233;leste} y un mont&amp;#243;n de {@LinkCreature:17#300552#batteurs t&amp;#234;te de baril}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Creo que es hora de dar un golpe fuerte para poner fin a esta rebeli&amp;#243;n! &amp;#161;Extermina los!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1010">
+        <Page social="5">&amp;#161;Ja, ese Puran y sus estrategias! Un soldado de verdad pelea honestamente, contra otros soldados, cara a cara.&lt;BR&gt;&lt;BR&gt;&amp;#191;Hacer de merodeadores y matar a oficiales por sorpresa? &amp;#161;Son m&amp;#233;todos de cobarde!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1010">
+        <Page social="0">&amp;#161;Las tropas enemigas siguen reuni&amp;#233;ndose en el norte, soldado! &amp;#161;Ve y hazlos pedazos!</Page>
+    </Text>
+</QuestDialog>

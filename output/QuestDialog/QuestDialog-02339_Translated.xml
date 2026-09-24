@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Le avis&amp;#233; a Armande que es imperativo salvar a los aldeanos secuestrados.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bajo la influencia del poder de Killian, atacaste a Kalligar junto a Thro y te lanzaste en persecuci&amp;#243;n de Elion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="4" voiceTypeId="0">Es verdad. Los prisioneros est&amp;#225;n antes que nada. Es evidente que Elion fue en su rescate.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ponte en marcha con Thro para ir a ayudar a Elion y a los aldeanos.&lt;NEXTPAGEBUTTON&gt;"¿No vienes con nosotros?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Voy a seguir a Bashik y verificar la receta del remedio contra la cristalizaci&amp;#243;n. Luego, ir&amp;#233; a buscar algunos ingredientes.&lt;BR&gt;&lt;BR&gt;Conociendo todos los componentes del remedio, seremos muy &amp;#250;tiles para Arborea.&lt;BR&gt;&lt;BR&gt;Los alcanzo m&amp;#225;s tarde. Te lo ruego, salva a los aldeanos con Thro.&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n Bashik, los prisioneros se encuentran en la Mazmorra disciplinaria.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="140">
+        <Page social="7" voiceTypeId="0">&amp;#161;Gracias por venir, guardian!&lt;BR&gt;&lt;BR&gt;Elion ya pas&amp;#243; por aqu&amp;#237; y nos aconsej&amp;#243; esperar aqu&amp;#237;. Pero ignoraba cu&amp;#225;nto tiempo tendr&amp;#237;amos que esperar.&lt;BR&gt;&lt;BR&gt;Elion se dirigi&amp;#243; a la mazmorra del valle para salvar a los aldeanos. Ve a ayudar a Elion y a los &amp;#250;ltimos aldeanos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="141">
+        <Page social="4" voiceTypeId="0">Ah, eres t&amp;#250;, guardian.&lt;BR&gt;&lt;BR&gt;Este lugar es realmente repugnante.&lt;BR&gt;&lt;BR&gt;Los alaridos resuenan all&amp;#237; arriba desde hace un buen rato... Mantente alerta.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="142">
+        <Page social="4" voiceTypeId="0">Verte aqu&amp;#237; me tranquiliza.&lt;BR&gt;&lt;BR&gt;Elion se puso en marcha hacia el centro de interrogatorios. Un estr&amp;#233;pito ensordecedor acaba de resonar...&lt;BR&gt;&lt;BR&gt;Los altos dragones est&amp;#225;n en alerta.&lt;BR&gt;&lt;BR&gt;Ve a eliminarlos y a salvar a Elion y a los aldeanos que partieron hacia el centro de interrogatorios.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2102" prevId="6" villagerId="100">
+        <Page social="4" voiceTypeId="0">Gracias por darte tanta prisa, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hemos encontrado a todos los aldeanos secuestrados. Ahora debemos desaparecer lo antes posible.&lt;BR&gt;&lt;BR&gt;Voy a despejarnos el paso. Lleva a los aldeanos a un lugar seguro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Argh!&lt;NEXTPAGEBUTTON&gt;"¿Todo bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah... S&amp;#237;, todo va bien.&lt;BR&gt;&lt;BR&gt;Cuento contigo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2102" prevId="7" villagerId="110">
+        <Page social="4" voiceTypeId="0">Creo que le ha pasado algo a Elion.&lt;BR&gt;&lt;BR&gt;Debemos ayudarlo a toda costa. Los Riveran se encargar&amp;#225;n de los aldeanos.&lt;BR&gt;&lt;BR&gt;Dat&amp;#233;monos prisa, antes de que Elion desaparezca.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="150">
+        <Page social="4" voiceTypeId="0">&amp;#161;Un jard&amp;#237;n floral... en un lugar as&amp;#237;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Alguna vez has visto flores tan enormes? Probablemente tenga relaci&amp;#243;n con las mariposas gigantes.&lt;BR&gt;&lt;BR&gt;Pero cre&amp;#237;a que los parf y los parfon solo com&amp;#237;an animales cristalizados.&lt;BR&gt;&lt;BR&gt;Sea como fuere, este lugar no me inspira ninguna confianza...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="4">&amp;#191;Por qu&amp;#233; ensa&amp;#241;arse con los vampiros cuando podr&amp;#237;amos ir a molestar a los {@LinkCreature:16#2203#nains violents}, eh? Van tras todos los que tienen la desgracia de acercarse a Twisted Plains.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que la gente est&amp;#225; obsesionada con nuestro problema de vampiros, pero estos enanos tambi&amp;#233;n representan una amenaza seria para Popolion. Ve a darles una lecci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">Gracias, &lt;PCNAME&gt;. Puede que los aldeanos nunca se den cuenta de que est&amp;#225;n m&amp;#225;s seguros que antes, pero aprecio el trabajo que has hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1012">
+        <Page social="0">Si no enviamos ninguna fuerza para encargarnos de los enanos, entonces ya no tendremos que preocuparnos de si los vampiros vienen o no, porque entonces estaremos muertos.</Page>
+    </Text>
+</QuestDialog>

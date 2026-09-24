@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Muy bien, &quot;{@gender:h&amp;#233;ros/h&amp;#233;ro&amp;#239;ne} de Valkyon&quot;, veamos de lo que eres capaz.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y si te pidiera que me trajeras la cabeza de Tersa, el l&amp;#237;der de los nigromantes enemigos? &amp;#191;Est&amp;#225;s a la altura?&lt;NEXTPAGEBUTTON&gt;"Solo dime dónde encontrarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Estaba bromeando, pero tienes agallas, &lt;PCCLASS:lcase&gt;, eso me gusta. Bueno, ahora hablando m&amp;#225;s en serio, si t&amp;#250;...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233;? &amp;#161;No me mires as&amp;#237;!&lt;BR&gt;&lt;BR&gt;Bueno, est&amp;#225; bien, como quieras, ve a buscar a Tersa. Solo nos env&amp;#237;an un soldado, pues esto solo ser&amp;#225; una baja m&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">&amp;#191;De verdad es la cabeza de Tersa?&lt;BR&gt;&lt;BR&gt;&amp;#161;No puedo creer que hayas acabado con el l&amp;#237;der de los nigromantes!&lt;BR&gt;&lt;BR&gt;... Bueno, debo admitir que eres de los mejores &lt;PCCLASS:lcase&gt;s que he tenido la oportunidad de conocer. Aparentemente, {@gender:un/une} &lt;PCNAME&gt; podr&amp;#237;a valer tanto como una divisi&amp;#243;n entera de soldados de &amp;#233;lite de Kaiator.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1044">
+        <Page social="0">Si no tienes las agallas para ir a enfrentar a Tersa, regresa a Kaiator.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ded&amp;#237;cate a la artesan&amp;#237;a o encu&amp;#233;ntrate un trabajo tranquilo! &amp;#161;Me da igual cu&amp;#225;l!</Page>
+    </Text>
+</QuestDialog>

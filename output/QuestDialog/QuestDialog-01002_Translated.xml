@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1031">
+        <Page social="5">Tengo &amp;#243;rdenes de ir al Repaire du Tonnerre... Hay mucho trabajo por hacer, reliquias de gigantes que solo esperan por nosotros... En fin, suficiente para mantener ocupado a un arque&amp;#243;logo toda la vida.&lt;BR&gt;&lt;BR&gt;Lo s&amp;#233;... no estamos en el Repaire du Tonnerre. Unos prions nos persiguieron y ahora no hay forma de movernos de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tan solo de pensar en las reliquias que me esperan all&amp;#225;. &amp;#191;Podr&amp;#237;as ir a recuperar algunas para m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1031">
+        <Page social="6">Gracias, &lt;PCNAME&gt;. Gracias a ti, mi misi&amp;#243;n no habr&amp;#225; sido un fracaso total.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1031">
+        <Page social="0">No me tomes a mal, pero me temo que {@gender:revenu/revenue} del Repaire du Tonnerre no servir&amp;#225; de nada. Voy a necesitar m&amp;#225;s reliquias que esas.</Page>
+    </Text>
+</QuestDialog>

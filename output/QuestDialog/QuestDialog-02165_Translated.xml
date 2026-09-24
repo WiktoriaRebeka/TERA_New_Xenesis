@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Hueles raro. &amp;#191;D&amp;#243;nde has andado?&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh, no! &amp;#161;No eres t&amp;#250;, soy yo! &amp;#191;Ves eso en mi bota? Esti&amp;#233;rcol de ghillie. Debo haberlo pisado al ir a trabajar. No es la primera vez.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene trabajo para ti, si te interesa. Yo tengo que ir a lavar mi bota.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Llegas justo a tiempo. Las Manos necesitan materias primas que &quot;anduvieran sueltas&quot; por los alrededores de {@Rgn:23001#Lac des Larmes} por el momento.&lt;BR&gt;&lt;BR&gt;Tu misi&amp;#243;n, si decides aceptarla, es rastrear monstruos y traernos trofeos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">&amp;#161;Mira esto! Es m&amp;#225;s que suficiente para lo que queremos hacer con ello.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. Ve a ver a {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Las Manos necesitan armaduras de excelente calidad. El problema es que no tenemos los medios para pagarlas.&lt;BR&gt;&lt;BR&gt;Ve a {@Rgn:23001#Lac des Larmes} y confisca algunas a los {@LinkCreature:23#9#rejetons &amp;#224; crocs fondus}.&lt;BR&gt;&lt;BR&gt;Si eso es suficiente para proteger a una cr&amp;#237;a con colmillos, puede protegernos a nosotros. Sabremos c&amp;#243;mo transformar lo que traigas en accesorios &amp;#250;tiles.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">&amp;#161;Maravilloso! Eres realmente incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;Dile a {@LinkCreature:63#3003#Elthienne} que recomend&amp;#233; que te dieran una bonificaci&amp;#243;n (no es que me haga caso, pero uno nunca sabe).</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nos faltan armaduras. Al parecer, se desgastan r&amp;#225;pido cuando uno pelea contra ar&amp;#225;cnidos y triperos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as arranc&amp;#225;rselas a los cad&amp;#225;veres de {@LinkCreature:23#13#rejetons br&amp;#251;lants &amp;#224; crocs} cerca de {@Rgn:23001#Lac des Larmes}?{@LinkCreature:23#13#rejetons br&amp;#251;lants &amp;#224; crocs}{@Rgn:23001#Lac des Larmes}Claro que tendr&amp;#225;s que convertirlos en cad&amp;#225;veres t&amp;#250; mismo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">Ah, es exactamente lo que necesit&amp;#225;bamos. Dile a {@LinkCreature:63#3003#Elthienne} que me pongo a trabajar de inmediato.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Nos gustar&amp;#237;a que fueras a {@Rgn:23001#Lac des Larmes} para traernos el polvo generado por los {@LinkCreature:23#14#teralithes mena&amp;#231;ants}.&lt;BR&gt;&lt;BR&gt;Este polvo produce una arcilla rica y s&amp;#243;lida cuando se mezcla con agua y algunos ingredientes secretos.&lt;BR&gt;&lt;BR&gt;Puedo fabricar todo tipo de cosas con eso... desde cer&amp;#225;mica hasta objetos contundentes. Me defiendo bastante bien, por si no lo hab&amp;#237;as notado.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">Gracias, &lt;PCNAME&gt;. A veces me pregunto si las Manos de Velika son dignas de tus servicios.</Page>
+    </Text>
+</QuestDialog>

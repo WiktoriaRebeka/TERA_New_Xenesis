@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">Un comerciante de Frontera llamado Safna no respet&amp;#243; la cuarentena y se march&amp;#243; por la puerta norte.&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:75#1012#Junith}. Quiz&amp;#225; sepa a d&amp;#243;nde se dirige.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1012">
+        <Page social="4">&amp;#191;Safna? Ni me hables del tema. Le dije que est&amp;#225;bamos en cuarentena, pero me tir&amp;#243; al suelo y sali&amp;#243; huyendo. Lo persegu&amp;#237;, pero me llevaba demasiada ventaja. La &amp;#250;ltima vez que lo vi, se dirig&amp;#237;a hacia la Vall&amp;#233;e sauvage.&lt;BR&gt;&lt;BR&gt;Puedes buscarlo, pero seguro que solo encuentras huesos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1102">
+        <Page social="12">No voy a volver. Esa estafadora de la decuri&amp;#243;n Jeulile acept&amp;#243; recolectar hongos raros para m&amp;#237;, pero cuando su mensajero me los trajo, no eran los que hab&amp;#237;a pedido. &amp;#161;Eran venenosos!&lt;BR&gt;&lt;BR&gt;Se lo dije, pero respondi&amp;#243; que solo cumpl&amp;#237;a &amp;#243;rdenes.&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que ir&amp;#233; a la Vall&amp;#233;e sauvage a cantarle las cuarenta y a entregarle esta carta de reclamo!&lt;BR&gt;&lt;BR&gt;Desafortunadamente, esto es bastante peligroso...&lt;NEXTPAGEBUTTON&gt;"Iré a llevar esta carta por ti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">&amp;#191;De verdad? Bueno, si insistes... y pareces una persona de confianza.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dile que la plaga, las panteras o lo que sea no son nada comparado con lo que le espera si vuelve a jugar conmigo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1005">
+        <Page social="4">&amp;#191;Hongos venenosos? Alguien debi&amp;#243; cometer un error terrible. Y usted tuvo que meterse en este l&amp;#237;o... Lo siento mucho.</Page>
+    </Text>
+</QuestDialog>

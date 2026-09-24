@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">Orless siempre est&amp;#225; rodeado de un grupo de guardaespaldas bastante rudos. Son los {@LinkCreature:11#1011#quartiers-ma&amp;#238;tres}, los {@LinkCreature:11#2008#boucaniers} y los {@LinkCreature:11#4005#intendants} de los Redbeard.&lt;BR&gt;&lt;BR&gt;Empieza por eliminar a la guardia cercana de Orless. De paso, no habr&amp;#225; nadie para tomar el relevo cuando Orless muera.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme sus placas. Tengo una idea...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">Eso hace un buen pu&amp;#241;ado de placas. Se las dar&amp;#233; a mis muchachos... Siento que les va a alegrar el d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Bien hecho, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">Los {@LinkCreature:11#1011#ma&amp;#238;tres d'&amp;#233;quipage}, los {@LinkCreature:11#2008#boucaniers} y los {@LinkCreature:11#4005#intendants} de los Redbeard est&amp;#225;n encargados de proteger al capit&amp;#225;n. El mejor m&amp;#233;todo para &quot;enga&amp;#241;ar su vigilancia&quot; sigue siendo matarlos... simplemente.</Page>
+    </Text>
+</QuestDialog>

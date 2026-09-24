@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1604">
+        <Page social="0">Toma, agarra esto. Fabrica corazas de peletero y ven a entregarme el producto terminado.&lt;BR&gt;&lt;BR&gt;Si cumplen con los criterios de calidad exigidos, sabremos qu&amp;#233; hacer con ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1604">
+        <Page social="0">Bien... muy bien, de hecho. Es un trabajo de calidad, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Creo que puedes entregarlas. Ve a entreg&amp;#225;rselas al prefecto Paka en Popolion. Necesita todas las piezas de armadura que pueda conseguir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1604">
+        <Page social="0">Tienes el dise&amp;#241;o y los kits, habla con los vendedores de artesan&amp;#237;a si necesitas materiales adicionales.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="67" prevId="3" villagerId="1007">
+        <Page social="0">&amp;#161;Hermosa pieza de armadura! S&amp;#243;lida, flexible... excelente.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ey! &amp;#161;Podr&amp;#237;a despertar celos!</Page>
+    </Text>
+</QuestDialog>

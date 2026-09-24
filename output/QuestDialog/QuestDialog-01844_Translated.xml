@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="0">La transformaci&amp;#243;n de los khiriens en demokrons sacaba de quicio a Rhodos, por lo que decidi&amp;#243; seguir avanzando con sus tropas. A pesar del arma de asedio, el asalto se frustr&amp;#243; a la entrada de la Forteresse de Raqnan y se vio obligado a idear una nueva estrategia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="4">&amp;#161;Malditos archidevans!&lt;BR&gt;&lt;BR&gt;Tiene que haber una manera de salvar a los parthes. Si no es as&amp;#237;, tendremos que vadear la sangre de nuestros semejantes para poder vencer a nuestros enemigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">&amp;#161;Es verdad!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, tus magos deben ser tan fuertes como los Archidevans. &amp;#191;No podr&amp;#237;an encontrar una manera de anular su magia?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2141">
+        <Page social="4">Desafortunadamente, el proceso de transfiguraci&amp;#243;n es irreversible. Debemos encontrar una manera de modificar o impedir el vasallaje, pero es imposible salvar a quienes han sucumbido.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2110">
+        <Page social="4">Si no podemos salvarlos, entonces debemos vengarlos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ven, &lt;PCNAME&gt;! Elige un ca&amp;#241;&amp;#243;n de asedio y esc&amp;#243;rtalo hasta el tramo infernal.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos a lanzar el asalto a la fortaleza!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="7">
+        <Page social="0">(Un arma de asedio robusta. Vibra mientras espera a un operador.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="191" prevId="5" villagerId="2138">
+        <Page social="4">Antes de poder tomar su fortaleza por asalto, debemos exterminar sus ca&amp;#241;ones de asedio. &lt;BR&gt;&lt;BR&gt;Repara uno, toma los controles y dispara. Pero aseg&amp;#250;rate de apuntar alto. La grieta es m&amp;#225;s ancha de lo que parece.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="191" prevId="7" villagerId="1601">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="191" prevId="8" villagerId="2138">
+        <Page social="4">Desafortunadamente, no podemos disparar a los ca&amp;#241;ones ubicados en lo alto de la muralla.&lt;BR&gt;&lt;BR&gt;Ve a informarle a Rhodos. &amp;#201;l tendr&amp;#225; que tomar una decisi&amp;#243;n al respecto.</Page>
+    </Text>
+</QuestDialog>

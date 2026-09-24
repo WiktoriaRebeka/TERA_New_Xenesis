@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Soldado, mis camaradas y yo necesitamos ayuda, y tienes una pinta de &lt;PCCLASS:lcase&gt; de lo m&amp;#225;s competente.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; ganas con esto? Bueno, adem&amp;#225;s de permitirnos conocernos, Mains de Velika recompensa bien a quienes les prestan servicio.&lt;BR&gt;&lt;BR&gt;Si todo esto despierta tu inter&amp;#233;s, ve a hablar con {@LinkCreature:63#3003#Elthienne} por all&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Entonces, &amp;#191;hablaste con Taratia? Es persuasiva, &amp;#191;eh? &amp;#161;Por eso la conservamos! Es broma. De hecho no, esa es la verdadera raz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esc&amp;#250;chame, necesitamos desesperadamente un objeto, pero no una de esas nader&amp;#237;as para el beb&amp;#233; de tu hermana, &amp;#191;entiendes? Necesitamos a alguien sumamente talentoso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te sientes {@gender:concern&amp;#233;/concern&amp;#233;e}? Bien. Fabricas lo que necesito y tr&amp;#225;eme todo lo dem&amp;#225;s a Barian. A cambio de un pago, por supuesto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">&amp;#161;Magn&amp;#237;fico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} tiene algo peque&amp;#241;o para ti.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabricar 5 unidades de {@RawItem:206812} y tr&amp;#225;elas aqu&amp;#237;.&lt;BR&gt;&amp;#191;Prefieres apoyar a los mercenarios en lugar de a los herreros, {@RawItem:206812}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">&amp;#161;Magn&amp;#237;fico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} tiene algo peque&amp;#241;o para ti.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabricar 5 unidades de {@RawItem:206813} y tr&amp;#225;elas aqu&amp;#237;.&lt;BR&gt;&amp;#191;Prefieres apoyar a los mercenarios en lugar de a los herreros, {@RawItem:206813}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">&amp;#161;Magn&amp;#237;fico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} tiene algo peque&amp;#241;o para ti.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabricar 5 unidades de {@RawItem:206814} y tr&amp;#225;elas aqu&amp;#237;.&lt;BR&gt;&amp;#191;Prefieres apoyar a los mercenarios en lugar de a los herreros, {@RawItem:206814}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">&amp;#161;Magn&amp;#237;fico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@linkcreature:63#3002#Taratia} tiene algo peque&amp;#241;o para ti.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabricar 5 unidades de {@RawItem:206815} y tr&amp;#225;elas aqu&amp;#237;.&lt;BR&gt;&amp;#191;Prefieres apoyar a los mercenarios en lugar de a los herreros, {@RawItem:206815}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">&amp;#161;Gracias, &lt;PCNAME&gt;! Espero poder contar contigo la pr&amp;#243;xima vez. &lt;BR&gt;&lt;BR&gt;Ve a ver a {@linkcreature:63#3002#Taratia} y reclama tu recompensa.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Fabricar 5 unidades de {@RawItem:206816} y tr&amp;#225;elas aqu&amp;#237;.&lt;BR&gt;&amp;#191;Prefieres apoyar a los mercenarios en lugar de a los herreros, {@RawItem:206816}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">&amp;#161;Bienvenido, &lt;PCNAME&gt;!&lt;BR&gt;&amp;#161;Eres un fen&amp;#243;meno! &amp;#161;Has completado la misi&amp;#243;n con tanto &amp;#233;xito!&lt;BR&gt;No me lo esperaba. &amp;#161;Gracias!</Page>
+    </Text>
+</QuestDialog>

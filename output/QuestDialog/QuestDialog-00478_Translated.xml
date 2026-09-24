@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="4">Todo el mundo ha salido a exterminar vampiros, pero no creo que sea la mejor l&amp;#237;nea de acci&amp;#243;n. Pienso que podr&amp;#237;amos... curarlos... suponiendo que entendamos qu&amp;#233; les pasa.&lt;BR&gt;&lt;BR&gt;Hoy son m&amp;#225;s fuertes que nunca. Al examinar su sangre, tal vez logre entender por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Si pudiera ir a buscarme unas cuantas &lt;font color='#660000'&gt;muestras de sangre&lt;/font&gt;, podr&amp;#237;a ponerme a trabajar. Intente extraerlas de los {@LinkCreature:16#2301#demoiselles sanglantes}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1003">
+        <Page social="4">Esto... esto no es lo que esperaba. Ni siquiera puedo leer estos resultados. Sin embargo, puedo decir que esto no es producto de un cambio de dieta.&lt;BR&gt;&lt;BR&gt;Incluso creo que hay magia oscura detr&amp;#225;s de todo esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1003">
+        <Page social="0">&amp;#191;Trajo la sangre que necesito? D&amp;#233;mela si la tiene.</Page>
+    </Text>
+</QuestDialog>

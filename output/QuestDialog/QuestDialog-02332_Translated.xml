@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tras informar a Revenj sobre las atrocidades cometidas por Rogash y la amenaza que representa para los aldeanos, Elion te busc&amp;#243; antes de partir para rescatar a los aldeanos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elion levant&amp;#243; el campamento para buscar a los aldeanos secuestrados. Salvaste a Armande y exploraste la mina de cristal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="20304">
+        <Page social="4" voiceTypeId="0">La ayuda de Revenj y los Riverans... ha sido tan valiosa como inesperada.&lt;BR&gt;Parece evidente que nos volver&amp;#225;n a ser de gran utilidad.&lt;BR&gt;&lt;BR&gt;Si por m&amp;#237; fuera, no me apartar&amp;#237;a de tu lado, pero me preocupa lo que Rogash le est&amp;#225; haciendo a los habitantes de otra regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pienso ponerme en marcha en cuanto Revenj me d&amp;#233; m&amp;#225;s detalles.&lt;BR&gt;Ve a hablarle de este lugar a los compa&amp;#241;eros que esperan afuera con Jelena, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="20401">
+        <Page social="0">&amp;#191;Quieres partir sin &amp;#201;lion? Parece querer esperar informaci&amp;#243;n de parte de Revenj.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si sea buena idea dejarlo ir solo...&lt;NEXTPAGEBUTTON&gt;"¿Cuál es el problema?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, no es nada. Deber&amp;#237;amos apurarnos.&lt;BR&gt;&lt;BR&gt;La salida parece estar en esta direcci&amp;#243;n. Salgamos para intentar encontrar a Thro y Armande.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20402">
+        <Page social="0" voiceTypeId="0">&amp;#191;Qui&amp;#233;n dir&amp;#237;a que encontrar&amp;#237;a amigos en un lugar as&amp;#237;?&lt;BR&gt;&amp;#161;Y un naga, para colmo!&lt;NEXTPAGEBUTTON&gt;"Escucho algo a lo lejos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Yo tambi&amp;#233;n lo escuch&amp;#233;, &lt;PCNAME&gt;! No es una se&amp;#241;al ordinaria. Significa que hay un peligro acechando en alguna parte.&lt;NEXTPAGEBUTTON&gt;"¿Y qué más?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;Alguien est&amp;#225; en apuros! &amp;#191;De qu&amp;#233; direcci&amp;#243;n provienen esos ruidos?&lt;BR&gt;&lt;BR&gt;&amp;#161;S&amp;#237;gueme, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20201">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! &amp;#161;Jelena! Qu&amp;#233; suerte, ambos vieron la se&amp;#241;al. Los nagas son incre&amp;#237;blemente tercos.&lt;BR&gt;&lt;BR&gt;Es imposible deshacerse de ellos. Pero sab&amp;#237;a que me encontrar&amp;#237;an. Si no, habr&amp;#237;a terminado por encontrarlos yo.&lt;NEXTPAGEBUTTON&gt;"¿Qué pasó?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thro y Aurl encontraron un campamento en el que podemos ocultarnos con los aldeanos.&lt;BR&gt;&lt;BR&gt;Estaba explorando los alrededores cuando los nagas me vieron y me persiguieron. Al intentar despistarlos descubr&amp;#237; un lugar muy interesante por casualidad. S&amp;#237;gueme.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20201">
+        <Page social="4" voiceTypeId="0">Jelena regresa primero al campamento.&lt;BR&gt;&lt;BR&gt;Te guiar&amp;#233; hasta la mina de cristal.&lt;BR&gt;&lt;BR&gt;Date prisa, &lt;PCNAME&gt;, los nagas pueden estar esper&amp;#225;ndonos en cualquier parte.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" prevId="7" villagerId="20202">
+        <Page social="4" voiceTypeId="0">&amp;#161;&lt;PCNAME&gt;! Aqu&amp;#237; estamos.&lt;BR&gt;&lt;BR&gt;He visto a muchos nagas entrar aqu&amp;#237; para llevarse cristales.&lt;BR&gt;&lt;BR&gt;&amp;#191;No te da curiosidad saber por qu&amp;#233; los nagas recogen los cristales?&lt;BR&gt;&lt;BR&gt;Si me ayudas a examinar los cristales, sin duda podremos averiguar un poco m&amp;#225;s.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="20203">
+        <Page social="4" voiceTypeId="0">Mmm... este cristal azul se form&amp;#243; a partir de la secreci&amp;#243;n de parfes y parfones.&lt;BR&gt;&lt;BR&gt;Para ser m&amp;#225;s exactos, es un proceso similar al de la miel: el alimento es ingerido y luego regurgitado antes de cristalizarse finalmente.&lt;BR&gt;&lt;BR&gt;Por lo tanto, esta secreci&amp;#243;n es un producto digestivo de los parfes y parfones. &amp;#191;Pero qu&amp;#233; diablos pueden fabricar los nagas con estos cristales?&lt;BR&gt;&lt;BR&gt;&amp;#161;Me intriga!&lt;NEXTPAGEBUTTON&gt;"¿Qué planeas hacer ahora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Entiendo m&amp;#225;s o menos la relaci&amp;#243;n entre los parfones, los parfes y el proceso de regurgitaci&amp;#243;n de la miel.&lt;BR&gt;&lt;BR&gt;Pero realmente me gustar&amp;#237;a saber qu&amp;#233; hacen los nagas con estos cristales.&lt;BR&gt;&lt;BR&gt;Debemos averiguar a d&amp;#243;nde se los llevan.&lt;BR&gt;&lt;BR&gt;Pero tambi&amp;#233;n tenemos que encargarnos de los aldeanos. Primero debatamos con &amp;#201;lion qu&amp;#233; es lo prioritario.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" villagerId="20203">
+        <Page social="0">&amp;#161;No es suficiente! Debo examinar estos cristales en detalle. Resiste, ya casi llegamos.</Page>
+    </Text>
+</QuestDialog>

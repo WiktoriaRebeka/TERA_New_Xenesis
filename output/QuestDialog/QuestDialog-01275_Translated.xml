@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1035">
+        <Page social="0">Caza del devorador de hierro</Page>
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1035">
+        <Page social="4">Hice el viaje hasta Kanstria para buscar ayuda. Debo fabricarme un arma para mi hushang... un rito de iniciaci&amp;#243;n. Desafortunadamente, los argones llegaron al mismo tiempo que yo.&lt;NEXTPAGEBUTTON&gt;"¿Puedo ayudarte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Necesito fragmentos de iteris. Tengo una idea original en mente. La mayor&amp;#237;a de las armas de hushang son puramente ornamentales. La m&amp;#237;a debe ser diferente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1035">
+        <Page social="5">&amp;#161;Guau! Puedo sentir el poder que emana de este fragmento.&lt;BR&gt;&lt;BR&gt;Mi amiga {@LinkCreature:76#1022} sabe c&amp;#243;mo otorgarle a las armas las virtudes de los fragmentos de iteris. Voy a recurrir a sus servicios.&lt;BR&gt;&lt;BR&gt;Muchas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1035">
+        <Page social="0">&amp;#191;Lograste encontrar fragmentos?</Page>
+    </Text>
+</QuestDialog>

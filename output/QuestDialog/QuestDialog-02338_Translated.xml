@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fuiste a encontrar al miembro de los Riveran que est&amp;#225; junto a la plataforma del Pantano de Viridian para hallar un remedio para Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mientras buscabas los ingredientes para el remedio de Jelena, Bashik, un naga de los Riveran, te revel&amp;#243; que unos aldeanos secuestrados est&amp;#225;n prisioneros en un calabozo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="100">
+        <Page social="0" voiceTypeId="0">Te estaba esperando.&lt;BR&gt;Todo el mundo parece estar aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que ibas a buscar ingredientes para un remedio. Camino hacia el norte, encontrar&amp;#225;s a uno de mis camaradas.&lt;BR&gt;&lt;BR&gt;&amp;#201;l te ayudar&amp;#225; a conseguir los ingredientes.&lt;NEXTPAGEBUTTON&gt;"¿Has visto a mi camarada?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, no los he visto.&lt;BR&gt;&lt;BR&gt;Pero puede que tus camaradas hayan pasado por aqu&amp;#237; durante mi ausencia.&lt;BR&gt;&lt;BR&gt;Ten cuidado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="110">
+        <Page social="4" voiceTypeId="0">&amp;#161;Auxilio... s&amp;#225;lvame!&lt;BR&gt;T&amp;#250;, de ah&amp;#237;... Est&amp;#225;s con &amp;#233;l.&lt;NEXTPAGEBUTTON&gt;"No tengo intención de hacerte daño. ¿Por dónde se fue?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tom&amp;#243; el camino que sube por la colina.&lt;BR&gt;&lt;BR&gt;Tan... r&amp;#225;pido como el viento...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="120">
+        <Page social="0" voiceTypeId="0">Revenj dec&amp;#237;a la verdad.&lt;BR&gt;(&quot;&amp;#191;Has visto a mi camarada?&quot;)&lt;BR&gt;&amp;#191;Tu camarada? No, no lo he visto.&lt;BR&gt;Sin duda se fue en otra direcci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;La cicuta de Viridian y las colas de fiera son los componentes principales del remedio destinado a tu amiga.&lt;BR&gt;&lt;BR&gt;La cicuta de Viridian ralentiza el progreso de la enfermedad.&lt;BR&gt;Ve a buscar cicuta y env&amp;#237;asela a tu camarada para ganar un poco de tiempo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="127">
+        <Page social="0" voiceTypeId="0">Sin duda hay suficiente para salvar a tu amiga.&lt;BR&gt;&lt;BR&gt;Voy a llevarle la cicuta. Encontr&amp;#233;monos en el campamento.&lt;BR&gt;&lt;BR&gt;Sigue este camino hacia el este y ver&amp;#225;s un puesto abandonado.&lt;BR&gt;&lt;BR&gt;Elimina a las patrullas de opresores para que no localicen el campamento.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" villagerId="127">
+        <Page social="0">Necesito cicuta de Viridian.&lt;BR&gt;Ve r&amp;#225;pido a buscar un poco para salvar a tu camarada.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" prevId="6" villagerId="121">
+        <Page social="0" voiceTypeId="0">He enviado la cicuta de Viridian. Encontrar&amp;#225;s los dem&amp;#225;s ingredientes en el Valle de la brecha.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; mala suerte! Parece que un guardi&amp;#225;n naga nos ha estado persiguiendo. Ve a eliminarlo y luego dir&amp;#237;gete al Valle de la brecha.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="122">
+        <Page social="0" voiceTypeId="0">&amp;#191;No hay m&amp;#225;s rastreadores? &amp;#161;Solo nos faltan unas cuantas colas de fiera!&lt;BR&gt;&lt;BR&gt;Hay que cocinarlas con la cicuta de Viridian y el producto milagroso de Arkarp para obtener un remedio contra la cristalizaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Elimina a las fieras espantosas del Valle de la brecha para recuperar su cola.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ten cuidado! Son extremadamente esquivas y peligrosas.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">Perfecto. Sin duda no ha sido f&amp;#225;cil. Me impresionas.&lt;BR&gt;&lt;BR&gt;Voy a llevar los ingredientes al campamento.&lt;BR&gt;&lt;BR&gt;A prop&amp;#243;sito, &amp;#191;tienes algo que ver con los prisioneros de la meseta?&lt;NEXTPAGEBUTTON&gt;"Sí."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Eso es lo que pensaba.&lt;BR&gt;&lt;BR&gt;Si todav&amp;#237;a no han servido como conejillos de indias, probablemente est&amp;#233;n prisioneros en el Calabozo disciplinario. Deber&amp;#237;as darte prisa.&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que Rogash est&amp;#225; de muy mal humor &amp;#250;ltimamente.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">Eso no es suficiente para el remedio.&lt;BR&gt;&lt;BR&gt;Gracias por buscar m&amp;#225;s.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="10" villagerId="130">
+        <Page social="4" voiceTypeId="0">Aunque es imperativo salvar a los aldeanos, &amp;#161;el remedio contra la cristalizaci&amp;#243;n es igual de importante!&lt;BR&gt;&lt;BR&gt;Es un descubrimiento may&amp;#250;sculo. Muchos habitantes de Arborea esperan un tratamiento contra la cristalizaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Estoy muy preocupado.</Page>
+    </Text>
+</QuestDialog>

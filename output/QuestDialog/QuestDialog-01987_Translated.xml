@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="0">Himmul y Laaran, el magistrado de Tria, se esforzaban por descubrir las causas de la cristalizaci&amp;#243;n, as&amp;#237; como un ant&amp;#237;doto.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Si los revolucionarios dicen la verdad, debemos detener lo que est&amp;#225; causando este fen&amp;#243;meno: el polvo.&lt;BR&gt;&lt;BR&gt;Himmul opina lo mismo.&lt;BR&gt;Actualmente estamos estudiando de cerca el polvo anaranjado. &lt;BR&gt;Le ruego que ayude a Himmul con esta tarea. &lt;BR&gt;&lt;BR&gt;Vaya a buscar a Himmul.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">&amp;#161;Oh!&lt;BR&gt;Si viene a ayudarme en persona, tal vez encontremos una soluci&amp;#243;n m&amp;#225;s r&amp;#225;pido de lo previsto.&lt;BR&gt;&lt;BR&gt;El magistrado probablemente ya le haya explicado que actualmente estoy estudiando el polvo anaranjado que ha sido identificado como el origen de la epidemia de cristalizaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Haré todo lo posible."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Muchas gracias.&lt;BR&gt;&lt;BR&gt;Mjum...&lt;BR&gt;Deber&amp;#237;amos intentar destruir este polvo usando varios m&amp;#233;todos.&lt;BR&gt;&lt;BR&gt;Puedes extraer este polvo de los monstruos alrededor de Tria. Solo tienes que capturar a los monstruos y extraer el polvo de sus cuerpos.&lt;BR&gt;Luego tr&amp;#225;eme el polvo.&lt;BR&gt;&lt;BR&gt;Empieza por los unicornios sombr&amp;#237;os y los lobos le&amp;#241;osos pata de humo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Gracias. &lt;BR&gt;&lt;BR&gt;Primero realizar&amp;#233; algunos experimentos con este polvo. &lt;BR&gt;Pero esta cantidad de polvo tal vez no sea suficiente para obtener un resultado confiable. &lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;a conseguirme un poco m&amp;#225;s?&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Muchas gracias. &lt;BR&gt;&lt;BR&gt;Esta vez, me gustar&amp;#237;a pedirle que extraiga el polvo de los marchespores arcillosos de la Cresta Es&amp;#233;niana.&lt;BR&gt;Para una mayor eficacia, es mejor usar polvo de varios monstruos.&lt;BR&gt;&lt;BR&gt;&amp;#218;ltimamente, los marchespores tambi&amp;#233;n se han vuelto mucho m&amp;#225;s feroces, por lo que sin duda tambi&amp;#233;n est&amp;#225;n afectados por el polvo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Buen trabajo.&lt;BR&gt;Gracias a ti, he podido realizar varios experimentos con estos diferentes polvos.&lt;BR&gt;&lt;BR&gt;No nos andemos con rodeos: no he encontrado ning&amp;#250;n m&amp;#233;todo para detener la proliferaci&amp;#243;n del polvo. &lt;BR&gt;&lt;BR&gt;En cambio, puedo confirmar que los revolucionarios dec&amp;#237;an la verdad.&lt;BR&gt;&lt;BR&gt;Todas las criaturas que entran en contacto con este polvo sufren dolores atroces que se amplifican progresivamente hasta que pierden la cabeza y se enfurecen. &lt;BR&gt;&lt;BR&gt;El efecto es similar al de un veneno. No creo que un ant&amp;#237;doto pueda...&lt;NEXTPAGEBUTTON&gt;"¿De verdad no hay ninguna solución?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bueno, todav&amp;#237;a me quedan algunas pruebas por realizar, pero no s&amp;#233; cu&amp;#225;nto tiempo nos queda.&lt;BR&gt;&lt;BR&gt;Le ruego que tenga la amabilidad de transmitir los resultados de mis investigaciones al magistrado.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="5" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Es desesperante...&lt;BR&gt;&amp;#191;As&amp;#237; que todav&amp;#237;a no hay ning&amp;#250;n m&amp;#233;todo para detenerlo?&lt;BR&gt;Y mientras tanto, el polvo se sigue propagando cada vez m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; podemos hacer?&lt;BR&gt;&amp;#191;Cu&amp;#225;nto tiempo nos queda?&lt;NEXTPAGEBUTTON&gt;"¿Se encuentra bien?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, mil disculpas.&lt;BR&gt;Tengo que apresurarme a encontrar otra soluci&amp;#243;n.&lt;BR&gt;No puedo quedarme de brazos cruzados mientras tanta gente muere.&lt;BR&gt;&lt;BR&gt;Le agradezco que haya ayudado a Himmul en sus investigaciones.</Page>
+    </Text>
+</QuestDialog>

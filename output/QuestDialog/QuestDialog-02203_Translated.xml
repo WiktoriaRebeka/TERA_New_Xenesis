@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="609" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="0">Participa en el entrenamiento de la guardia principal.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="1" voiceTypeId="0">&amp;#191;Todav&amp;#237;a te sientes con toda la energ&amp;#237;a?&lt;BR&gt;&amp;#191;Qu&amp;#233; tal si participas en el entrenamiento de nuestra guardia principal,&lt;BR&gt;para calentar?&lt;BR&gt;&lt;BR&gt;Hasta te ganar&amp;#225;s una peque&amp;#241;a recompensa.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2024">
+        <Page social="1" voiceTypeId="0">&amp;#161;Sab&amp;#237;a que saldr&amp;#237;as adelante sin problemas!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; te parece?&lt;BR&gt;&amp;#161;El entrenamiento de nuestros soldados es mucho m&amp;#225;s exigente&lt;BR&gt;que el de los guardias de la puerta sur, eh! &amp;#161;Somos guerreros de verdad!&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes la recompensa prometida.&lt;NEXTPAGEBUTTON&gt;"Lo disfruté bastante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

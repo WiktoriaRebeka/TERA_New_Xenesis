@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="4">Mi {@gender:ami/amie}, me gustar&amp;#237;a estudiar el &amp;#225;rbol casian, pero el camino que lleva all&amp;#237; no es seguro. &amp;#191;Puedo contar con tus talentos de {@gender:combattant/combattante} para llegar a buen puerto?&lt;NEXTPAGEBUTTON&gt;"Por supuesto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Incre&amp;#237;ble... El lugar en cuesti&amp;#243;n se encuentra al noroeste. Av&amp;#237;same cuando est&amp;#233;s {@gender:pr&amp;#234;t/pr&amp;#234;te} para partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="49" villagerId="35">
+        <Page social="0">&amp;#191;Eres {@gender:pr&amp;#234;t/pr&amp;#234;te}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="2" villagerId="1001">
+        <Page social="6">Impresionante, &amp;#191;verdad? Oh, mira... Un peque&amp;#241;o santuario.&lt;BR&gt;&lt;BR&gt;Algo me dice que este peque&amp;#241;o paseo va a valer la pena.</Page>
+    </Text>
+</QuestDialog>

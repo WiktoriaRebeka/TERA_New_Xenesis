@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="4">Los amans tenemos nuestras propias tradiciones y pruebas rituales. Cada guerrero aman debe ganar el t&amp;#237;tulo de garadehielo cazando a una bestia mortal.&lt;BR&gt;&lt;BR&gt;Tuve la mala suerte de toparme con los {@LinkCreature:34#920#patriarches garde-givre}. No le temo a nada, pero no quiero morir tontamente.&lt;BR&gt;&lt;BR&gt;Si tuviera su garra, la prueba habr&amp;#237;a terminado y podr&amp;#237;amos combatir a los wendigos. &amp;#191;Aceptar&amp;#237;as ayudarme?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1011">
+        <Page social="4">Una garra de mugato. Tan simple, pero tan importante.&lt;BR&gt;&lt;BR&gt;Te estoy en deuda, &lt;PCNAME&gt;. Es una deuda de sangre. &amp;#161;A menos que prefieras un lech&amp;#243;n asado si nos reencontramos en Kaiator! &amp;#161;Ja, ja!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1011">
+        <Page social="0">No puedo mendigar. Va en contra de mi naturaleza. Kaia no aprueba eso.</Page>
+    </Text>
+</QuestDialog>

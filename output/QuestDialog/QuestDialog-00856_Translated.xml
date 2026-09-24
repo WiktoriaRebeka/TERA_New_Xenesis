@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">Un general no-muerto llamado {@LinkCreature:32#19$$Chimakur} est&amp;#225; terrorizando el {@Rgn:32006$$Veill&amp;#233;e insensible}.&lt;BR&gt;&lt;BR&gt;Lo llaman el verdugo supremo, lo cual es muy apropiado ya que ya ha matado a tres soldados experimentados de la F&amp;#233;d&amp;#233;ration.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices? &amp;#191;Tienes ganas de aceptar el desaf&amp;#237;o? En todo caso, lo espero. Este ejecutor no tardar&amp;#225; en venir a cosechar todas nuestras cabezas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Me equivoqu&amp;#233; contigo. Aqu&amp;#237; tienes algo peque&amp;#241;o por habernos salvado el pellejo.</Page>
+    </Text>
+</QuestDialog>

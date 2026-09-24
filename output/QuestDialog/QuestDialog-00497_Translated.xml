@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="5">(Es una caja de provisiones de la Federaci&amp;#243;n. Debe contener el equivalente a un mes de comida para un batall&amp;#243;n completo.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="5">&amp;#191;Qu&amp;#233; haces... oh, nuestras provisiones! &amp;#161;Las has encontrado! &lt;PCNAME&gt;, &amp;#161;nos salvas la vida!&lt;BR&gt;&lt;BR&gt;Lo sab&amp;#237;a... Sab&amp;#237;a que nuestras provisiones hab&amp;#237;an terminado en manos del Culto. Si encuentro al que firm&amp;#243; el recibo...</Page>
+    </Text>
+</QuestDialog>

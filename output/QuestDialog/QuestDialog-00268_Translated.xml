@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Un amigo m&amp;#237;o muri&amp;#243; en combate hace unos d&amp;#237;as. Para m&amp;#237; es una tragedia, pero la guerra contin&amp;#250;a y el deber nos llama. Tomarnos el tiempo de llorar a nuestros muertos es un lujo que no nos podemos permitir.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que me es imposible ir a avisar a su esposa, y est&amp;#225; condenada a vivir en la ignorancia.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que te pido mucho, pero &amp;#191;podr&amp;#237;as ir a avisar a {@LinkCreature:62#1023$$Wynne} por m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1023">
+        <Page social="4">Ya veo... &amp;#191;Y Tryphena no pod&amp;#237;a darme la noticia en persona? Agradezco su &quot;solicitud&quot;.&lt;BR&gt;&lt;BR&gt;En fin... No habr&amp;#237;a cambiado nada. Gracias... Y ahora, por favor... d&amp;#233;jame.</Page>
+    </Text>
+</QuestDialog>

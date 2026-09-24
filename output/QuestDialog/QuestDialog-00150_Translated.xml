@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Bueno, ahora tendremos que eliminar al {@LinkCreature:5#20#Raguga}. Eso deber&amp;#237;a tocar a muerto los planes expansionistas de los tuwangis.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tengo que lanzarme a un discurso moralizador para convencerte de que vayas, o con esto basta? A estas alturas, ya debes ser consciente de lo que est&amp;#225; en juego.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">&amp;#161;Por fin! &amp;#161;Eso deber&amp;#237;a poner fin al conflicto que nos enfrenta a los tuwangis! Tu ayuda ha sido inestimable. Muchas gracias desde el fondo del coraz&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">&amp;#191;Sigue vivo?&lt;BR&gt;&lt;BR&gt;Al final, no deber&amp;#237;a haberte ahorrado el &quot;discurso moralizador&quot;.</Page>
+    </Text>
+</QuestDialog>

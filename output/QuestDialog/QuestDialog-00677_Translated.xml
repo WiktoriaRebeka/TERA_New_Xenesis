@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="5">Entre los kumas y las patrullas, me faltan efectivos. &amp;#161;Y ahora me ordenan enviar refuerzos al Refuge de Marchesable! &amp;#161;Menos mal que est&amp;#225;s aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;Toma el camino hacia el oeste y pres&amp;#233;ntate ante {@LinkCreature:224#1009#Stadrian}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1009">
+        <Page social="5">&amp;#161;Ya era hora! &amp;#161;Los &amp;#250;ltimos refuerzos que recib&amp;#237; fueron tres bibliotecarios y un sastre, igual de &amp;#250;tiles vivos que muertos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero sabremos c&amp;#243;mo aprovechar tus talentos!</Page>
+    </Text>
+</QuestDialog>

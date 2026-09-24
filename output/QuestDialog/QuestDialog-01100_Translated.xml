@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="5">El Templo de Dagon requiere valor, pero creo que tienes suficiente.&lt;BR&gt;&lt;BR&gt;Ve a buscar provisiones con {@LinkCreature:75#1002#Dyanne} y ll&amp;#233;vaselas a {@LinkCreature:242#1008#Langbau} en el Campamento del Veneno.&lt;BR&gt;&lt;BR&gt;Y en el camino, elimina a tantos de estos malditos {@LinkCreature:42#510#molosses de Dagon} como puedas. Eso har&amp;#225; las cosas un poco m&amp;#225;s seguras para todos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1002">
+        <Page social="5">Est&amp;#225;s aqu&amp;#237; por las provisiones, entonces. No te preocupes por el pago, lim&amp;#237;tate a regresar con vida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1008">
+        <Page social="5">&amp;#161;Provisiones! Las necesit&amp;#225;bamos mucho. Los mensajeros no siempre logran pasar a los sabuesos. Comen bien.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; a repartir todo esto y te dejar&amp;#233; hacer tu trabajo. Los nagas han estado haciendo cosas extra&amp;#241;as &amp;#250;ltimamente. En fin, ya te enterar&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:230#3002#Ersilla} se ha quedado sin semillas, y todos necesitamos... t&amp;#233;. S&amp;#237;, t&amp;#233;.&lt;BR&gt;&lt;BR&gt;Si alguna vez pasas cerca de {@Rgn:30009$$Ruines du temple}, &amp;#191;podr&amp;#237;as echarnos una mano?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#161;Qu&amp;#233; bueno volver a verte!&lt;BR&gt;&lt;BR&gt;Aaah... &amp;#191;A qu&amp;#233; has venido por aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;¿"El té de Buran"?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&amp;#191;T&amp;#233;? Ah, s&amp;#237;... &amp;#161;el t&amp;#233;!&lt;BR&gt;&lt;BR&gt;Voy a necesitar semillas de campanilla y de primula.&lt;BR&gt;&lt;BR&gt;Las cultivamos para preparar un t&amp;#233; con propiedades... digamos... relajantes. Ve a buscarme eso, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3013">
+        <Page social="4">(El perfume de la flor es hipn&amp;#243;tico.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="3014">
+        <Page social="4">(El aroma que desprende esta flor te deja la mente en blanco.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="3015">
+        <Page social="4">(Esta flor huele a hierba reci&amp;#233;n cortada.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="3002">
+        <Page social="4">Muchas gracias. Mis reservas estaban bajo m&amp;#237;nimos.&lt;BR&gt;&lt;BR&gt;Ya podr&amp;#233; ponerme a trabajar.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3002">
+        <Page social="0">&amp;#191;Tienes mis semillas?&lt;BR&gt;&lt;BR&gt;&amp;#161;Sin mi t&amp;#233;, se me van a saltar los nervios!</Page>
+    </Text>
+</QuestDialog>

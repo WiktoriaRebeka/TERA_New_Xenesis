@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">Hemos encontrado rastros de los {@LinkCreature:16#2304#marmots sanguins} y de los {@LinkCreature:16#2303#bouffons vampires}... As&amp;#237; que no son los vampiros en s&amp;#237;. Otra fuerza est&amp;#225; actuando.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225; que encontrar m&amp;#225;s pistas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Esto no va nada bien. Bueno, o sea, ha hecho un buen trabajo, pero esta historia de las piedras demon&amp;#237;acas... &amp;#191;Ser&amp;#237;a ese el fondo del asunto? &amp;#191;Los demonios estar&amp;#237;an manipulando a los vampiros?&lt;BR&gt;&lt;BR&gt;Tendr&amp;#233; que profundizar en mis investigaciones, pero gracias por su ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">Si encuentras m&amp;#225;s pistas, tal vez pueda comprender un poco mejor lo que est&amp;#225; pasando.</Page>
+    </Text>
+</QuestDialog>

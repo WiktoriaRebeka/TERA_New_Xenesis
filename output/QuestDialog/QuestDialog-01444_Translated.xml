@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Las criaturas del Bosque oscuro se rebelaron contra la Federaci&amp;#243;n por una raz&amp;#243;n desconocida.&lt;BR&gt;&lt;BR&gt;Restaura el orden matando a los {@LinkCreature:56#16#hy&amp;#232;nes du Bois obscur}, los {@LinkCreature:56#17#phacoch&amp;#232;res d&amp;#233;fenses-rasoirs}, los {@LinkCreature:55#1#marchespores fous} y los {@LinkCreature:55#11#licornes &amp;#224; crini&amp;#232;re d'argent}.&lt;BR&gt;&lt;BR&gt;Una vez terminada la misi&amp;#243;n, pres&amp;#233;ntale tu informe a Belva, en la Guarnici&amp;#243;n del Bosque oscuro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">Te has ganado con creces el agradecimiento de la Federaci&amp;#243;n. &amp;#161;Tu clan es ejemplar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">Parece que todav&amp;#237;a no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

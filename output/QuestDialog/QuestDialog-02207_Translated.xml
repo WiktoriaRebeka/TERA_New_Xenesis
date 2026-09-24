@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Saludos. &amp;#191;Te tienta la pesca, &lt;PCNAME&gt;? Si quieres, puedo explicarte c&amp;#243;mo pescar.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jeremy Wayn, el director de la federaci&amp;#243;n de pesca, te ha invitado a descubrir los secretos de la pesca en el Site de p&amp;#234;che de Murica.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2060">
+        <Page social="4" voiceTypeId="0">Bienvenida. &amp;#191;Qu&amp;#233; dir&amp;#237;as de descubrir las alegr&amp;#237;as de la pesca por ti mismo?&lt;BR&gt;Las caras nuevas siempre son bienvenidas en nuestra federaci&amp;#243;n de pesca.&lt;NEXTPAGEBUTTON&gt;"Voy a intentarlo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Los sitios de pesca a&amp;#250;n no son numerosos, porque el siglo del caos guerrero provoc&amp;#243; la extinci&amp;#243;n de la mayor&amp;#237;a de las especies de peces.&lt;BR&gt;Pero la federaci&amp;#243;n se esfuerza por abrir regularmente nuevos sitios de pesca.&lt;BR&gt;&lt;BR&gt;&amp;#161;Si te tienta convertirte en un aficionado a la pesca, siempre ser&amp;#225;s bienvenido!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="4" voiceTypeId="0">&amp;#161;El sitio de pesca de Murica es ideal para los pescadores novatos!&lt;BR&gt;Las olas son clementes y el lugar es magn&amp;#237;fico.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ir?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="0" voiceTypeId="0">Dale mis saludos al responsable del Site de p&amp;#234;che de Murica de mi parte.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="9904">
+        <Page social="4" voiceTypeId="0">&amp;#191;Te env&amp;#237;a Jeremy?&lt;BR&gt;&amp;#161;En ese caso, te doy la bienvenida!&lt;BR&gt;Primero que nada, necesitas una ca&amp;#241;a de pescar y un cebo.&lt;BR&gt;&lt;BR&gt;Por esta vez, te proporcionar&amp;#233; ambas cosas.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&amp;#161;Dir&amp;#237;gete al sitio de pesca y prueba tu suerte!&lt;BR&gt;No olvides que siempre necesitas cebo.&lt;BR&gt;&lt;BR&gt;Empieza con uno de estos cangrejos: no tardar&amp;#225;n en morder el anzuelo.&lt;BR&gt;Si te quedas sin cebo, encontrar&amp;#225;s m&amp;#225;s en la tienda de art&amp;#237;culos de pesca.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="9904">
+        <Page social="1" voiceTypeId="0">&amp;#161;Es un gran rendimiento! &amp;#161;Parece que tienes un don para la pesca!&lt;NEXTPAGEBUTTON&gt;"Aquí está el cangrejo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Los peces se dividen en varios rangos, desde el 0 hasta el 10.&lt;BR&gt;Para atrapar los peces m&amp;#225;s dif&amp;#237;ciles, necesitas una mejor ca&amp;#241;a de pescar.&lt;BR&gt;Como recompensa, te doy algunas insignias de pesca.&lt;NEXTPAGEBUTTON&gt;"Entendido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Puedes usar tus insignias de pesca para comprar ca&amp;#241;as de pescar en las tiendas de la federaci&amp;#243;n de pesca como la m&amp;#237;a.&lt;BR&gt;O tambi&amp;#233;n puedes mejorar el rango de tu ca&amp;#241;a de pescar.&lt;BR&gt;&lt;BR&gt;Cuanto m&amp;#225;s alto sea su rango, mejores peces de calidad podr&amp;#225;s atrapar y m&amp;#225;s oro podr&amp;#225;s embolsar.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="9904">
+        <Page social="0">Atrapa un cangrejo en el Site de p&amp;#234;che de Murica.</Page>
+    </Text>
+</QuestDialog>

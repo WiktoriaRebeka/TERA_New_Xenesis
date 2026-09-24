@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">A los vampiros y a las brujas les encantan sus sombreros, tanto que no quieren que nadie m&amp;#225;s los fabrique.&lt;BR&gt;&lt;BR&gt;El gran problema es que se han encerrado con todos los rub&amp;#237;es fulminantes existentes. No hay ninguna posibilidad de conseguir uno de esos sombreros. Al menos no por ahora.&lt;NEXTPAGEBUTTON&gt;"Pero ya tengo un rubí fulminant... digo, un rubí fulminante...";&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">&amp;#191;Qu&amp;#233;? &amp;#191;Tienes uno? No me digas...&lt;BR&gt;&lt;BR&gt;Bueno, en ese caso, en recuerdo del pasado, puedo hac&amp;#233;rtelo. &amp;#191;En qu&amp;#233; estilo estabas pensando?&lt;NEXTPAGEBUTTON&gt;"¿Qué me propones?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Si lo &amp;#250;nico que te falta es un rub&amp;#237; fulminante, me temo que no tienes suerte: ya no se encuentran. Deber&amp;#237;as vender tu noracier y tu ombracier, y pasar de p&amp;#225;gina.</Page>
+    </Text>
+</QuestDialog>

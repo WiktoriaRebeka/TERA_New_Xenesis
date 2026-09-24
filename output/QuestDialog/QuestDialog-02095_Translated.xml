@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3509#Jehnsprin}, de la {@Rgn:45008$$Base de la Vaillance}, desea que le echemos una mano. Nuestras investigaciones son peligrosas, estoy de acuerdo, pero todo peligro debe controlarse lo mejor posible.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete all&amp;#237; y br&amp;#237;ndale tu ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Mi campo es la ciencia, no la guerra. Combatir a los argons no es lo m&amp;#237;o, as&amp;#237; que me gustar&amp;#237;a que me ayudaras. Consistir&amp;#237;a en matar cosas y hacer explotar otras.&lt;BR&gt;&lt;BR&gt;Genial, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;&amp;#191;Te tienta?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">&amp;#191;Aguantas bien el tipo, s&amp;#237;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Trabajar con un soldado de tu talla es un verdadero placer. Me haces la vida mucho m&amp;#225;s f&amp;#225;cil!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;Tengo tanto que hacer que mi cabeza est&amp;#225; a punto de explotar.&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme?&lt;NEXTPAGEBUTTON&gt;"Sí, está dentro de mis capacidades."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ve a llevarle este odre de agua y mira si puedes hacer que hable lo suficientemente claro como para encomendarte parte de sus tareas diarias. Parece que tuviera una papa en la boca, pero apuesto a que has escuchado cosas peores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">&amp;#161;T&amp;#250;! Te adoro. &amp;#191;A&amp;#250;n no te lo hab&amp;#237;a dicho, &lt;PCNAME&gt;? Te quiero con locura y... &amp;#191;Qu&amp;#233;? &amp;#191;Oh, ella? &amp;#161;Qu&amp;#233; tonta! &amp;#191;Me oyes, {@linkcreature:63#3003#Elthienne}?!&lt;BR&gt;&lt;BR&gt;&amp;#191;Eh? &amp;#191;Quieres ayudarme con esta cosa? Bueno, de acuerdo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Oh, me trajiste un {@RawItem:206818}.&lt;BR&gt;Excelente. Lo est&amp;#225;s haciendo muy bien.&lt;BR&gt;Dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te cost&amp;#243; mucho encontrar el {@RawItem:206818}? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Oh, me trajiste un {@RawItem:206819}.&lt;BR&gt;Excelente. Lo est&amp;#225;s haciendo muy bien.&lt;BR&gt;Dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te cost&amp;#243; mucho encontrar el {@RawItem:206819}? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Oh, me trajiste un {@RawItem:206820}.&lt;BR&gt;Excelente. Lo est&amp;#225;s haciendo muy bien.&lt;BR&gt;Dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te cost&amp;#243; mucho encontrar el {@RawItem:206820}? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Oh, me trajiste un {@RawItem:206821}.&lt;BR&gt;Excelente. Lo est&amp;#225;s haciendo muy bien.&lt;BR&gt;Dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te cost&amp;#243; mucho encontrar el {@RawItem:206821}? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Oh, me trajiste un {@RawItem:206822}.&lt;BR&gt;Excelente. Lo est&amp;#225;s haciendo muy bien.&lt;BR&gt;Dile a {@linkcreature:63#3002#Taratia} que recib&amp;#237; todo.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">&amp;#161;&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#191;Te cost&amp;#243; mucho encontrar el {@RawItem:206822}? &lt;BR&gt;&lt;BR&gt;Disculpa que te haya impuesto semejante tarea.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">&amp;#161;Bien jugado!&lt;BR&gt;&lt;BR&gt;Hasta la pr&amp;#243;xima.</Page>
+    </Text>
+</QuestDialog>

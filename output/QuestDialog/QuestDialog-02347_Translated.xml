@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Jelena estaba buscando a Thro en la entrada de la Sala de m&amp;#225;quinas. La ayudaste.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mientras intentabas destruir el n&amp;#250;cleo oscuro en la Salle des machines, Rukmia aument&amp;#243; su rendimiento para provocar una gran explosi&amp;#243;n. &amp;#201;lion se encarg&amp;#243; de contener la explosi&amp;#243;n y luego partiste hacia Velika con sus restos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="113">
+        <Page social="4" voiceTypeId="0">Lo siento. &amp;#201;lion est&amp;#225; aqu&amp;#237;, lo s&amp;#233;.&lt;BR&gt;&lt;BR&gt;En cuanto est&amp;#233;s listo, vayamos a la Salle des machines para salvar a &amp;#201;lion y detener a Exodor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2103" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">Como Thro ya mencion&amp;#243;, debemos destruir el dispositivo de control.&lt;BR&gt;&lt;BR&gt;Para ello, debemos subir al piso de arriba...&lt;BR&gt;Separ&amp;#233;monos para encontrar una forma de subir.&lt;BR&gt;&lt;BR&gt;Thro y yo buscaremos por la derecha.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2103" prevId="4" villagerId="101">
+        <Page social="4" voiceTypeId="0">Perfecto.&lt;BR&gt;&lt;BR&gt;La destrucci&amp;#243;n de este lugar y del dispositivo de control principal deber&amp;#237;a ser suficiente para detener a Exodor, &amp;#191;no?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2103" prevId="5" villagerId="110">
+        <Page social="4" voiceTypeId="0">Eres t&amp;#250;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Aaah... mi cabeza! Poco a poco voy recuperando la raz&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"¿Qué ha pasado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Disculpa. No recuerdo nada desde el combate contra los dragones superiores en el Mar&amp;#233;cage de Viridian.&lt;BR&gt;&lt;BR&gt;Cuando recobr&amp;#233; el conocimiento, de repente me encontraba aqu&amp;#237;. Qu&amp;#233; verg&amp;#252;enza tengo.&lt;BR&gt;&lt;BR&gt;&amp;#191;D&amp;#243;nde estamos?&lt;NEXTPAGEBUTTON&gt;"En la Salle des machines de Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">&amp;#161;&amp;#191;Esta es la Salle des machines de Exodor?!&lt;BR&gt;&lt;BR&gt;Si es as&amp;#237;, debemos destruir este lugar lo antes posible.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2103" prevId="6" villagerId="102">
+        <Page social="24" voiceTypeId="0">Tras la deflagraci&amp;#243;n, Jelena no logra dominar sus espasmos.&lt;BR&gt;&lt;BR&gt;(&quot;&amp;#191;Todo va bien?&quot;)&lt;BR&gt;&lt;BR&gt;Argh...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2103" prevId="7" villagerId="111">
+        <Page social="1" voiceTypeId="0">(&amp;#201;lion parece haber dado su &amp;#250;ltimo suspiro justo cuando proteg&amp;#237;a el n&amp;#250;cleo oscuro de la explosi&amp;#243;n.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2103" prevId="8" villagerId="120">
+        <Page social="4" voiceTypeId="0">&amp;#161;Buena idea! &amp;#161;Eso, ah&amp;#237;...!&lt;BR&gt;&lt;BR&gt;(Thro ha activado algo bruscamente.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="20005">
+        <Page social="4" voiceTypeId="0">Uf, todav&amp;#237;a seguimos con vida...&lt;BR&gt;&lt;BR&gt;Bueno, no todos, pero en fin...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="20007">
+        <Page social="4" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;Lo siento...&lt;BR&gt;&lt;BR&gt;Ahora...&lt;BR&gt;D&amp;#233;jame en paz...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="11" villagerId="1102">
+        <Page social="4" voiceTypeId="0">He o&amp;#237;do hablar de los acontecimientos en Exodor, &lt;PCNAME&gt;. Tambi&amp;#233;n s&amp;#233; que, sin el sacrificio de &amp;#201;lion, la explosi&amp;#243;n de la fortaleza habr&amp;#237;a afectado a todo Arborea.&lt;BR&gt;&lt;BR&gt;Pero qui&amp;#233;n iba a imaginar que &amp;#201;lion nos dejar&amp;#237;a tan pronto... Otra estrella de Arborea se acaba de apagar. Qu&amp;#233; inmensa pena.</Page>
+    </Text>
+</QuestDialog>

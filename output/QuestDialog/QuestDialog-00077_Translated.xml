@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">Alguien apoya a los devans. Alguien poderoso. Debemos detenerlos. Infiltrate en Deva Silva y mata a los {@LinkCreature:3#15#sorciers c&amp;#339;ur d'&amp;#233;b&amp;#232;ne} y a los {@LinkCreature:3#14#ravageurs de la r&amp;#233;surrection}, antes de traerme sus corazones negros de hielo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos a mostrarles lo que cuesta aliarse con los enemigos de la Federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1007">
+        <Page social="4">Gracias, &lt;PCNAME&gt;. Cualesquiera que fueran los malos tratos que estaban preparando, me alegra saber que ya es historia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1007">
+        <Page social="0">A nadie le gusta participar en este tipo de masacre, pero va en ello la supervivencia de Crescentia. No tenemos opci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>
