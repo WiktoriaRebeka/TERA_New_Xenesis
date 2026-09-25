@@ -1,21 +1,25 @@
 name: Translate TERA UserSkill
 
-# Tooltipy skilli. name= zostaje angielski (skrypt). Recznie z Actions.
+# Caly folder source/StrSheet_UserSkill. name= z tabeli EN (source_en), tooltip po hiszpansku.
 on:
   workflow_dispatch:
     inputs:
-      input_file:
-        description: "Sciezka do pliku XML, np. source/StrSheet_UserSkill/StrSheet_UserSkill-00000.xml"
+      input_path:
+        description: "Folder source/StrSheet_UserSkill albo jeden XML"
         required: true
-        default: "source/StrSheet_UserSkill/StrSheet_UserSkill-00000.xml"
-      batch_size:
-        description: "Ile tooltipow na jedno zapytanie (mniej = rzadsze limity)"
-        required: false
-        default: "20"
-      limit:
-        description: "Tylko pierwsze N linii (test). 0 = caly plik"
+        default: "source/StrSheet_UserSkill"
+      start:
+        description: "Pomin pierwsze N plikow"
         required: false
         default: "0"
+      count:
+        description: "Ile plikow. 0 = wszystkie"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych tooltipow na zapytanie Gemini"
+        required: false
+        default: "20"
 
 permissions:
   contents: write
@@ -45,18 +49,26 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python translate_userskill.py "${{ inputs.input_file }}" \
-            --batch-size "${{ inputs.batch_size }}" \
-            --limit "${{ inputs.limit }}"
+          python translate_userskill.py "${{ inputs.input_path }}" \
+            --output-dir output/StrSheet_UserSkill \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
 
       - name: Sprawdz jakosc
         if: always()
         continue-on-error: true
         run: |
-          NAME=$(basename "${{ inputs.input_file }}" .xml)
-          python check_userskill.py "output/${NAME}_Translated.xml" \
-            --source "${{ inputs.input_file }}" \
-            --report "output/${NAME}_raport.txt"
+          src="${{ inputs.input_path }}"
+          shopt -s nullglob
+          for f in output/StrSheet_UserSkill/*_Translated.xml; do
+            base=$(basename "$f" _Translated.xml)
+            if [ -d "$src" ]; then
+              python check_userskill.py "$f" --source "$src/${base}.xml"
+            else
+              python check_userskill.py "$f" --source "$src"
+            fi
+          done
 
       - name: Zapisz wynik do repozytorium
         if: always()
@@ -67,7 +79,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "Brak zmian do zapisania."
           else
-            git commit -m "Tlumaczenie UserSkill: ${{ inputs.input_file }}"
+            git commit -m "Tlumaczenie UserSkill pack start=${{ inputs.start }} count=${{ inputs.count }}"
             git pull --rebase
             git push
           fi

@@ -9,9 +9,9 @@ Install:
     pip install google-genai
 
 Usage:
-    python translate_tooltips.py source/TESTTEST_StrSheet_Item-00011.xml
-    python translate_tooltips.py source/file.xml --batch-size 40
-    python translate_tooltips.py source/file.xml --limit 300     # test run
+    python translate_tooltips.py source/StrSheet_Item
+    python translate_tooltips.py source/StrSheet_Item --start 0 --count 0
+    python translate_tooltips.py source/StrSheet_Item/StrSheet_Item-00000.xml
 """
 
 from __future__ import annotations
@@ -155,19 +155,26 @@ EXACT_REWRITE: dict[str, str] = {}
 EN_ITEM_DIR = Path(
     r"C:\Users\wikto\Desktop\TERA BAZA DANYCH\Output\Output\DataCenter_Final_EUR\StrSheet_Item"
 )
+EN_ITEM_TSV = Path(__file__).resolve().parent / "source_en" / "item_names.tsv"
 _ITEM_STRINGS: dict[str, str] | None = None
 
 
 def en_item_string(item_id: str) -> str | None:
-    """English item name from the EN dump, matched by id."""
+    """English item name from source_en/item_names.tsv (GitHub) or the local EN dump."""
     global _ITEM_STRINGS
     if _ITEM_STRINGS is None:
         found: dict[str, str] = {}
-        if EN_ITEM_DIR.is_dir():
+        if EN_ITEM_TSV.is_file():
+            for line in EN_ITEM_TSV.read_text(encoding="utf-8").splitlines()[1:]:
+                if "\t" not in line:
+                    continue
+                ident, name = line.split("\t", 1)
+                found[ident] = name
+        elif EN_ITEM_DIR.is_dir():
             for path in EN_ITEM_DIR.glob("StrSheet_Item-*.xml*"):
-                for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
-                    id_match = re.search(r'\bid="(\d+)"', line)
-                    name_match = re.search(r'\bstring="([^"]*)"', line)
+                for row in path.read_text(encoding="utf-8", errors="replace").splitlines():
+                    id_match = re.search(r'\bid="(\d+)"', row)
+                    name_match = re.search(r'\bstring="([^"]*)"', row)
                     if id_match and name_match:
                         found[id_match.group(1)] = name_match.group(1)
         _ITEM_STRINGS = found
@@ -943,8 +950,11 @@ def process_files(
     cache_path: Path,
     batch_size: int,
     ascii_safe: bool = True,
+    lock_item_names: bool = False,
 ) -> None:
     """Tlumaczy wiele plikow na jednym cache i jednym przebiegu Gemini."""
+    global LOCK_ITEM_STRINGS
+    LOCK_ITEM_STRINGS = lock_item_names
     if not input_paths:
         print("No XML files to translate.", flush=True)
         return
@@ -1008,16 +1018,34 @@ def process_files(
     print(f"  left untranslated    : {totals['left_original']}")
 
 
+def list_item_files(root: Path, start: int, count: int) -> list[Path]:
+    files = sorted(root.glob("StrSheet_Item-*.xml"))
+    if start < 0:
+        start = 0
+    files = files[start:]
+    if count > 0:
+        files = files[:count]
+    return files
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Translate TERA item toolTips from French to Spanish-only via Gemini."
     )
-    parser.add_argument("input_xml", help="Source StrSheet XML file")
+    parser.add_argument(
+        "input_xml",
+        help="Folder source/StrSheet_Item or one XML file",
+    )
     parser.add_argument(
         "-o",
         "--output",
         default=None,
-        help="Output XML path (default: output/<name>_Translated.xml)",
+        help="Output XML path when translating one file",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default="output/StrSheet_Item",
+        help="Folder for translated XML when input is a folder",
     )
     parser.add_argument(
         "--cache",
@@ -1030,6 +1058,8 @@ def parse_args() -> argparse.Namespace:
         default=BATCH_SIZE,
         help=f"Unique toolTips per Gemini request (default: {BATCH_SIZE})",
     )
+    parser.add_argument("--start", type=int, default=0, help="Skip first N files in a folder")
+    parser.add_argument("--count", type=int, default=0, help="How many files. 0 = all")
     parser.add_argument(
         "--no-ascii-entities",
         action="store_true",
@@ -1039,7 +1069,7 @@ def parse_args() -> argparse.Namespace:
         "--limit",
         type=int,
         default=0,
-        help="Only process the first N lines - useful for a cheap test run",
+        help="Only process the first N lines of a single file - cheap test",
     )
     return parser.parse_args()
 
@@ -1047,6 +1077,27 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     input_path = Path(args.input_xml).expanduser()
+    cache_path = Path(args.cache).expanduser()
+    batch_size = args.batch_size if args.batch_size > 0 else BATCH_SIZE
+    ascii_safe = not args.no_ascii_entities
+    limit = args.limit if args.limit > 0 else None
+
+    if input_path.is_dir():
+        files = list_item_files(input_path, args.start, args.count)
+        if not files:
+            print(f"No StrSheet_Item XML in {input_path}", file=sys.stderr)
+            return 1
+        print(f"Pack: {files[0].name} .. {files[-1].name} ({len(files)} files)", flush=True)
+        process_files(
+            files,
+            Path(args.output_dir).expanduser(),
+            cache_path,
+            batch_size,
+            ascii_safe,
+            lock_item_names=True,
+        )
+        return 0
+
     if not input_path.is_file():
         print(f"Input file not found: {input_path}", file=sys.stderr)
         return 1
@@ -1056,17 +1107,13 @@ def main() -> int:
     else:
         output_path = Path("output") / f"{input_path.stem}_Translated{input_path.suffix}"
 
-    cache_path = Path(args.cache).expanduser()
-    batch_size = args.batch_size if args.batch_size > 0 else BATCH_SIZE
-    limit = args.limit if args.limit > 0 else None
-
     process_file(
         input_path,
         output_path,
         cache_path,
         batch_size,
         limit,
-        not args.no_ascii_entities,
+        ascii_safe,
         lock_item_names=True,
     )
     return 0

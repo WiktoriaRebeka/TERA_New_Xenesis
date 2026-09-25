@@ -12,9 +12,9 @@ Install:
     pip install google-genai
 
 Usage:
-    python translate_userskill.py source/StrSheet_UserSkill-00001.xml
-    python translate_userskill.py source/StrSheet_UserSkill-00001.xml --batch-size 20
-    python translate_userskill.py source/StrSheet_UserSkill-00001.xml --limit 80
+    python translate_userskill.py source/StrSheet_UserSkill
+    python translate_userskill.py source/StrSheet_UserSkill --start 0 --count 0
+    python translate_userskill.py source/StrSheet_UserSkill/StrSheet_UserSkill-00000.xml
 """
 
 from __future__ import annotations
@@ -94,16 +94,34 @@ engine_vars = item.engine_vars
 looks_untranslated = item.looks_untranslated
 
 
+def list_skill_files(root: Path, start: int, count: int) -> list[Path]:
+    files = sorted(root.glob("StrSheet_UserSkill-*.xml"))
+    if start < 0:
+        start = 0
+    files = files[start:]
+    if count > 0:
+        files = files[:count]
+    return files
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Translate TERA UserSkill tooltips to bilingual EN/ES via Gemini."
+        description="Translate TERA UserSkill tooltips to Spanish-only via Gemini."
     )
-    parser.add_argument("input_xml", help="Source StrSheet_UserSkill XML file")
+    parser.add_argument(
+        "input_xml",
+        help="Folder source/StrSheet_UserSkill or one XML file",
+    )
     parser.add_argument(
         "-o",
         "--output",
         default=None,
-        help="Output XML path (default: output/<name>_Translated.xml)",
+        help="Output XML path when translating one file",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default="output/StrSheet_UserSkill",
+        help="Folder for translated XML when input is a folder",
     )
     parser.add_argument(
         "--cache",
@@ -116,6 +134,8 @@ def parse_args() -> argparse.Namespace:
         default=item.BATCH_SIZE,
         help=f"Unique tooltips per Gemini request (default: {item.BATCH_SIZE})",
     )
+    parser.add_argument("--start", type=int, default=0, help="Skip first N files in a folder")
+    parser.add_argument("--count", type=int, default=0, help="How many files. 0 = all")
     parser.add_argument(
         "--no-ascii-entities",
         action="store_true",
@@ -125,7 +145,7 @@ def parse_args() -> argparse.Namespace:
         "--limit",
         type=int,
         default=0,
-        help="Only process the first N lines - useful for a cheap test run",
+        help="Only process the first N lines of a single file - cheap test",
     )
     return parser.parse_args()
 
@@ -133,6 +153,23 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     input_path = Path(args.input_xml).expanduser()
+    cache_path = Path(args.cache).expanduser()
+    batch_size = args.batch_size if args.batch_size > 0 else item.BATCH_SIZE
+    ascii_safe = not args.no_ascii_entities
+    limit = args.limit if args.limit > 0 else None
+
+    if input_path.is_dir():
+        files = list_skill_files(input_path, args.start, args.count)
+        if not files:
+            print(f"No StrSheet_UserSkill XML in {input_path}", file=sys.stderr)
+            return 1
+        print(f"Pack: {files[0].name} .. {files[-1].name} ({len(files)} files)", flush=True)
+        output_dir = Path(args.output_dir).expanduser()
+        item.process_files(files, output_dir, cache_path, batch_size, ascii_safe)
+        for src in files:
+            apply_en_skill_names(output_dir / f"{src.stem}_Translated{src.suffix}")
+        return 0
+
     if not input_path.is_file():
         print(f"Input file not found: {input_path}", file=sys.stderr)
         return 1
@@ -142,17 +179,13 @@ def main() -> int:
     else:
         output_path = Path("output") / f"{input_path.stem}_Translated{input_path.suffix}"
 
-    cache_path = Path(args.cache).expanduser()
-    batch_size = args.batch_size if args.batch_size > 0 else item.BATCH_SIZE
-    limit = args.limit if args.limit > 0 else None
-
     item.process_file(
         input_path,
         output_path,
         cache_path,
         batch_size,
         limit,
-        not args.no_ascii_entities,
+        ascii_safe,
     )
     apply_en_skill_names(output_path)
     return 0
@@ -161,13 +194,26 @@ def main() -> int:
 EN_SKILL_DIR = Path(
     r"C:\Users\wikto\Desktop\TERA BAZA DANYCH\Output\Output\DataCenter_Final_EUR\StrSheet_UserSkill"
 )
+EN_SKILL_TSV = Path(__file__).resolve().parent / "source_en" / "skill_names.tsv"
+_SKILL_NAMES: dict[tuple[str, str, str, str], str] | None = None
 
 
-def apply_en_skill_names(path: Path) -> None:
-    """name= stays the English skill name, matched by id, class, gender and race."""
-    if not path.is_file() or not EN_SKILL_DIR.is_dir():
-        return
+def load_en_skill_names() -> dict[tuple[str, str, str, str], str]:
+    global _SKILL_NAMES
+    if _SKILL_NAMES is not None:
+        return _SKILL_NAMES
     names: dict[tuple[str, str, str, str], str] = {}
+    if EN_SKILL_TSV.is_file():
+        for line in EN_SKILL_TSV.read_text(encoding="utf-8").splitlines()[1:]:
+            parts = line.split("\t")
+            if len(parts) < 5:
+                continue
+            names[(parts[0], parts[1], parts[2], parts[3])] = parts[4]
+        _SKILL_NAMES = names
+        return names
+    if not EN_SKILL_DIR.is_dir():
+        _SKILL_NAMES = names
+        return names
     for sheet in EN_SKILL_DIR.glob("StrSheet_UserSkill-*.xml*"):
         for line in sheet.read_text(encoding="utf-8", errors="replace").splitlines():
             id_match = re.search(r'\bid="(\d+)"', line)
@@ -184,6 +230,18 @@ def apply_en_skill_names(path: Path) -> None:
                 race_match.group(1) if race_match else "",
             )
             names[key] = name_match.group(1)
+    _SKILL_NAMES = names
+    return names
+
+
+def apply_en_skill_names(path: Path) -> None:
+    """name= stays the English skill name, matched by id, class, gender and race."""
+    if not path.is_file():
+        return
+    names = load_en_skill_names()
+    if not names:
+        print("English skill name table missing - left French name=", flush=True)
+        return
     updated: list[str] = []
     replaced = 0
     for line in path.read_text(encoding="utf-8").splitlines(keepends=True):
