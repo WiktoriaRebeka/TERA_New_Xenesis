@@ -1,0 +1,80 @@
+name: Translate TERA StrSheet
+
+# Jedna akcja dla pozostalych arkuszy string=.
+# W input_path wpisz folder, np. source/StrSheet_Guild.
+# Nie uruchamiac dla Region, ZoneName, Creature, Abnormality
+# (zostaja po angielsku albo nie wchodza do paczki).
+# QuestDialog, VillagerDialog i EventDialog maja wlasny format <Page>.
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Folder source/StrSheet_... (np. source/StrSheet_Guild)"
+        required: true
+        default: "source/StrSheet_Guild"
+      start:
+        description: "Pomin pierwsze N plikow (0 = od poczatku)"
+        required: false
+        default: "0"
+      count:
+        description: "Ile plikow. 0 = wszystkie pozostale"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych stringow na zapytanie Gemini"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gemini
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz arkusz
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_strsheet.py "${{ inputs.input_path }}" \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: |
+          name=$(basename "${{ inputs.input_path }}")
+          python check_strsheet.py "output/${name}"
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie ${{ inputs.input_path }} start=${{ inputs.start }} count=${{ inputs.count }}"
+            git pull --rebase
+            git push
+          fi
