@@ -1,0 +1,176 @@
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
+    <String string="Tu gremio ha sido creado." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Tu gremio ha sido disuelto." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} se ha unido al gremio." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} ha abandonado el gremio." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} ha sido expulsado del gremio." readableId="SMT_GUILDLOG_BAN" />
+    <String string="Se ha a&amp;#241;adido el rango [{GroupName}]." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="Se ha eliminado el rango {GroupName}." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} ahora es el l&amp;#237;der del gremio." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} ahora tiene el rango {GroupName}." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="{UserName} ha establecido el impuesto de la zona." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="El nombre del gremio ya no es [{OldName}], ahora es [{NewName}]." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="[{UserName}] ha modificado el mensaje del gremio." readableId="SMT_GUILDLOG_CHANGE_ANNOUNCE" />
+    <String string="[{UserName}] ha modificado las opciones de reclutamiento del gremio." readableId="SMT_GUILDLOG_CHANGE_PROMOTION" />
+    <String string="[{UserName}] La recompensa de oro del gremio ha sido enviada por correo." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_INCENTIVE" />
+    <String string="[{UserName}] ha comprado [{Count}] unidades de [{ItemName}] con ([{GuildMoney}])." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_GUILD_STORE" />
+    <String string="Se te ha devuelto el impuesto de ([{GuildMoney}]) porque ganaste la Guerra de gremios." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_CITYWAR_REWARD" />
+    <String string="{UserName} ha erigido una base avanzada de gremio." readableId="SMT_GUILDLOG_BUILD_GUILD_TOWER" />
+    <String string="L&amp;#237;der de gremio" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Recluta" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] gana [{Point}] puntos de competici&amp;#243;n." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} punto(s)" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} punto(s)" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} punto(s)" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Guerra de gremios" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="&amp;#191;Iniciar una guerra de gremios contra el gremio {GuildName}?&#xA;La guerra de gremios durar&amp;#225; {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Guerra de gremios - Sin apuesta" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="El gremio atacante y el gremio defensor no pertenecen a la misma liga de Cruzada. No se pudo apostar Gloria para esta guerra de gremios. &amp;#191;Deseas continuar? (La guerra de gremios durar&amp;#225; &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;)." readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Declarar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Guerra de gremios en curso" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="&amp;#161;Victoria de [{Name}]!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="La guerra de gremios termin&amp;#243; en empate." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="[{Name}] se ha rendido." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="El gremio {Name} se ha rendido." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="El gremio {Name} ha cancelado." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
+    <String string="Confirmaci&amp;#243;n de rendici&amp;#243;n" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="&amp;#191;De verdad quieres rendirte?&#xA;La guerra de gremios contra [{Opponent}] terminar&amp;#225; y ser&amp;#225;n declarados ganadores." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Aceptar" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Maestro de gremio: {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Te queda poco tiempo." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} punto(s)" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Pacifista" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Listo para el combate" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Confirmar el cambio de estado del gremio" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="El estado del gremio cambi&amp;#243; de {OldState} a {NewState}. Los gremios con el estado {NewState} no pueden participar en batallas de GcG." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="El estado del gremio cambi&amp;#243; de {OldState} a {NewState}. Los gremios con el estado {NewState} pueden participar en batallas de GcG." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Cambiar" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Cancelar" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="&amp;#161;Tu gremio gan&amp;#243; {Battlechip} de Gloria gracias a su victoria!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="&amp;#161;Tu gremio perdi&amp;#243; {Battlechip} de Gloria debido a su derrota!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Tu gremio perdi&amp;#243; {Battlechip} de Gloria debido a un empate." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Tu gremio gan&amp;#243; {Battlechip} de Gloria porque {GuildName} se neg&amp;#243;." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Tu gremio perdi&amp;#243; {Battlechip} de Gloria por negarse a una batalla de GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Tu gremio perdi&amp;#243; {Battlechip} de Gloria por cancelar." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="La batalla de GcG contra {GuildName} fue cancelada debido a un problema en el sistema de GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="La batalla de GcG contra {GuildName} fue cancelada debido a Gloria insuficiente." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="La batalla de GcG fue cancelada porque la Gloria de {GuildName} es insuficiente." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="La temporada de Cruzadas ha terminado. Las batallas de GcG en curso han sido canceladas." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="&amp;#191;De verdad quieres apostar &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battelchip}&lt;/FONT&gt; de Gloria adicional y continuar la batalla de GcG contra {GuildName}?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Vas a perder {Battlechip} de Gloria si te rindes. &amp;#191;De verdad quieres rendirte?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Teletransportaci&amp;#243;n" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="&amp;#161;{UserName} est&amp;#225; bajo ataque! &amp;#191;Quieres teletransportarte{@g:/e} a su lado?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Detalles de la batalla GcG" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Tienes {GuildWarCount} batallas GcG para revisar. Haz clic en el bot&amp;#243;n de confirmaci&amp;#243;n para abrir la ventana de batallas GcG." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Pon tu Gloria en juego e inicia una batalla GcG contra otro gremio. No puedes apostar m&amp;#225;s del &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50 %&lt;/FONT&gt; de Gloria. No puedes iniciar una batalla GcG sin apostar Gloria o si el gremio rival no tiene suficiente Gloria." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Apuesta m&amp;#225;s Gloria y contin&amp;#250;a la batalla GcG. No puedes apostar m&amp;#225;s del &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50 %&lt;/FONT&gt; de tu apuesta inicial. Si el gremio rival tiene menos Gloria que el &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150 %&lt;/FONT&gt; de tu apuesta, solo puedes colocar la cantidad actual." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Se ha declarado una batalla GcG contra {Opponent}." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="&amp;#161;El gremio {Opponent} ha iniciado una batalla GcG contra tu gremio!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Tu gremio ha colocado apuestas de Gloria adicionales en su batalla GcG contra el gremio {Opponent}." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="El gremio {Opponent} ha colocado apuestas de Gloria adicionales." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="Pendiente" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Rechazar" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Rendirse" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Cancelar la batalla GcG" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Perder&amp;#225;s {Battlechip} de Gloria por rendirte. &amp;#191;De verdad quieres rendirte?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Tu gremio perder&amp;#225; {Battlechip} de Gloria si cancela. &amp;#191;De verdad quieres cancelar?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Tu gremio perder&amp;#225; {Battlechip} de Gloria si rechaza. &amp;#191;De verdad quieres rechazar?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Confirmar" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Iniciar una batalla GcG" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Apuestas adicionales" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Declarar" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Apuesta finalizada" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Informaci&amp;#243;n de batalla GcG" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Gloria" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Los gremios que re&amp;#250;nan entre &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt; y &lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; cuentas de jugadores activos con un personaje de nivel &lt;FONT SIZE='18' COLOR='#80E71C'&gt;65&lt;/FONT&gt; recibir&amp;#225;n &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; puntos de Gloria todos los mi&amp;#233;rcoles (si una cuenta re&amp;#250;ne varios personajes de nivel 65 en varios gremios diferentes, la Gloria se reparte entre ellos). Los gremios con Gloria pueden participar en batallas GcG, ya sea como gremio atacante o defensivo. La Gloria solo se puede apostar entre gremios de la misma liga de Cruzada (Cutthroat o Challenger)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="&lt;FONT COLOR='#80E71C'&gt;{SearchString}&lt;/FONT&gt;" readableId="SMT_GUILDINFO_PRTEXT_FONT" />
+    <String string="Iniciar una batalla GcG" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Selecciona Iniciar batalla GcG a continuaci&amp;#243;n y escribe el nombre del gremio al que deseas enfrentarte. (Tambi&amp;#233;n tienes la opci&amp;#243;n de hacer clic en un jugador rival y elegir entre las opciones mostradas, o seleccionar Iniciar GcG a trav&amp;#233;s de la opci&amp;#243;n de Gremio en la interfaz del servidor). Solo los miembros del gremio con permisos de gesti&amp;#243;n de GcG pueden iniciar una batalla GcG y apostar Gloria, tras lo cual ambos gremios entran en una fase de espera de 30 minutos. Cada gremio tiene la opci&amp;#243;n de rendirse a partir de una hora despu&amp;#233;s de haber comenzado los combates." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Ganar una batalla GcG" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="El primer gremio en conseguir &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; bajas en 20 horas gana. Si ninguno de los gremios consigue &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; bajas, gana el que tenga m&amp;#225;s. Si ambos gremios tienen el mismo n&amp;#250;mero de bajas o si su n&amp;#250;mero total es inferior a &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, la batalla GcG termina en empate." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Clasificaci&amp;#243;n" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="La Gloria obtenida en las batallas GcG de la liga Cutthroat se a&amp;#241;ade a la clasificaci&amp;#243;n de batallas GcG al final de cada temporada de Cruzada. Sin embargo, solo los gremios que hayan participado en m&amp;#225;s de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; batallas GcG en una misma temporada (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 semanas&lt;/FONT&gt;) son elegibles para esta clasificaci&amp;#243;n." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
+    <String string="Bienvenido." readableId="SMT_GUILDLOG_JOIN_GUILD" />
+    <String string="{Hour} hora(s) {Minute} minuto(s)" readableId="SMT_GUILDLOG_WANTED_WRITING_REMAIN_TIME" />
+    <String string="Seleccionar habilidad de gremio" readableId="SMT_POPUP_GUILD_SKILL_APPLY_TITLE" />
+    <String string="&amp;#191;Deseas seleccionar esta habilidad de gremio? Las habilidades de gremio seleccionadas no se pueden restablecer." readableId="SMT_POPUP_GUILD_SKILL_APPLY_MSG" />
+    <String string="S&amp;#237;" readableId="SMT_POPUP_GUILD_SKILL_APPLY_YES" />
+    <String string="No" readableId="SMT_POPUP_GUILD_SKILL_APPLY_NO" />
+    <String string="Nivel {Level}" readableId="SMT_GUILD_PERK_TOOLTIP_LEVEL" />
+    <String string="(Puntos de gremio necesarios: {GuildPoint})" readableId="SMT_GUILD_PERK_TOOLTIP_NEED_POINT" />
+    <String string="(Habilidad activa)" readableId="SMT_GUILD_PERK_TOOLTIP_NAME_ACTIVE" />
+    <String string="(Habilidad pasiva)" readableId="SMT_GUILD_PERK_TOOLTIP_NAME_PASSIVE" />
+    <String string="[Application]&lt;br&gt;El maestro de gremio puede usarlo con un clic derecho." readableId="SMT_GUILD_PERK_TOOLTIP_ACTIVE_HOWTOUSE" />
+    <String string="Desconectado" readableId="SMT_GUILD_OFFLINE" />
+    <String string="Oro de gremio" readableId="SMT_GUILD_MONEY_STORE_UI" />
+    <String string="Recompensa entregada" readableId="SMT_GUILD_MONEY_SUBSIDE_TITLE" />
+    <String string="Aceptar" readableId="SMT_GUILD_QUEST_BUTTON_ACCEPT" />
+    <String string="En curso" readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS" />
+    <String string="Completada" readableId="SMT_GUILD_QUEST_BUTTON_COMPLETE" />
+    <String string="Cancelar" readableId="SMT_GUILD_QUEST_BUTTON_CANCEL" />
+    <String string="No se puede cancelar" readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL" />
+    <String string="Completa la misi&amp;#243;n de gremio para obtener insignias de Valderion. La recompensa depende de la cantidad de insignias. Debes haberte unido a un gremio hace al menos una semana para poder aceptar las recompensas. &lt;FONT COLOR='#80E71C'&gt;Las insignias de Valderion se actualizan todos los domingos a las 00:00.&lt;/FONT&gt;" readableId="SMT_GUILD_QUEST_BUTTON_HELP_TOOLTIP" />
+    <String string="Puedes aceptar la misi&amp;#243;n si te has unido a un gremio y si las insignias de Valderion se han reiniciado por primera vez. Si la misi&amp;#243;n no se completa con &amp;#233;xito dentro del tiempo l&amp;#237;mite, fallar&amp;#225; autom&amp;#225;ticamente." readableId="SMT_GUILD_QUEST_BUTTON_CAN_ACCEPT_TOOLTIP" />
+    <String string="Solo puedes aceptar la misi&amp;#243;n de gremio despu&amp;#233;s de que se reinicien las insignias de Valderion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_AUTHORITY" />
+    <String string="Este gremio no es lo suficientemente grande como para aceptar esta misi&amp;#243;n." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_SIZE" />
+    <String string="Debes esperar a que se reinicien las insignias de Valderion antes de aceptar la recompensa." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_JOIN_PROGRESS" />
+    <String string="Has alcanzado el n&amp;#250;mero m&amp;#225;ximo semanal de insignias de Valderion y no puedes aceptar nuevas misiones de gremio." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_ALREADY_PROGRESS" />
+    <String string="Las misiones asignadas para el d&amp;#237;a ya se han completado." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_DAY_LIMIT" />
+    <String string="Ya has obtenido la cantidad m&amp;#225;xima de insignias de Valderion y ya no puedes aceptar nuevas misiones de gremio." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_QUEST_POINT_FULL" />
+    <String string="Esta misi&amp;#243;n de gremio ya est&amp;#225; en curso." readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS_TOOLTIP_MINE" />
+    <String string="Otro gremio ya ha seleccionado esta misi&amp;#243;n." readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS_TOOLTIP_OTHER" />
+    <String string="Una vez completada la misi&amp;#243;n, recibes una recompensa en forma de puntos de gremio u oro de gremio." readableId="SMT_GUILD_QUEST_BUTTON_COMPLETE_TOOLTIP" />
+    <String string="Solo los miembros de gremio pueden completar la misi&amp;#243;n de gremio tras la actualizaci&amp;#243;n de las insignias de Valderion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_COMPLETE_TOOLTIP_AUTHORITY" />
+    <String string="Solo el maestro de gremio y los miembros de gremio autorizados pueden cancelar una misi&amp;#243;n de gremio." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_TOOLTIP_AUTHORITY" />
+    <String string="Solo los miembros de gremio pueden cancelar la misi&amp;#243;n de gremio tras la actualizaci&amp;#243;n de las insignias de Vald&amp;#233;rion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_TOOLTIP_NEW_USER" />
+    <String string="Si se cancela, la misi&amp;#243;n resultar&amp;#225; en un fracaso." readableId="SMT_GUILD_QUEST_BUTTON_CANCEL_TOOLTIP" />
+    <String string="Imposible cancelar las misiones preseleccionadas." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_OCCUPY_TOOLTIP" />
+    <String string="L&amp;#237;mite de tiempo: {Time}" readableId="SMT_GUILD_QUEST_TIME_LIMIT" />
+    <String string="Tiempo restante: {Time}" readableId="SMT_GUILD_QUEST_TIME_REMAIN" />
+    <String string="Misi&amp;#243;n completada." readableId="SMT_GUILD_QUEST_TIME_COMPLETE" />
+    <String string="[Preselecci&amp;#243;n]" readableId="SMT_GUILD_SORT_TYPE_NAME_OCCUPY" />
+    <String string="[Caza]" readableId="SMT_GUILD_SORT_TYPE_NAME_HUNTING" />
+    <String string="[Campo de batalla]" readableId="SMT_GUILD_SORT_TYPE_NAME_BATTLEFIELD" />
+    <String string="[Recolecci&amp;#243;n]" readableId="SMT_GUILD_SORT_TYPE_NAME_COLLECT" />
+    <String string="[Urgencia]" readableId="SMT_GUILD_SORT_TYPE_NAME_URGENT" />
+    <String string="Oro de gremio requerido" readableId="SMT_GUILD_STORE_COIN_NEED" />
+    <String string="Oro de gremio pose&amp;#237;do" readableId="SMT_GUILD_STORE_COIN_HAVE" />
+    <String string="Velika ocupada" readableId="SMT_GUILD_RANKING_TOOLTIP_CITYWAR_WINNER" />
+    <String string="Velika ocupada (hasta el final de la pr&amp;#243;xima Guerra de gremio)" readableId="SMT_GUILD_INFO_TOOLTIP_CITYWAR_WINNER" />
+    <String string="Cancelar la misi&amp;#243;n de gremio" readableId="SMT_GUILD_QUEST_CANCEL_POPUP_TITLE" />
+    <String string="En caso de cancelaci&amp;#243;n de la misi&amp;#243;n de gremio, todos los componentes relacionados con la misi&amp;#243;n ser&amp;#225;n eliminados." readableId="SMT_GUILD_QUEST_CANCEL_POPUP_CONTEXT" />
+    <String string="S&amp;#237;" readableId="SMT_GUILD_POPUP_YES" />
+    <String string="No" readableId="SMT_GUILD_POPUP_NO" />
+    <String string="[{Name}], ya que has renunciado ante el gremio {GuildName1}, se ha pagado una indemnizaci&amp;#243;n por un monto de {GuildMoney}." readableId="SMT_GUILDLOG_WAR_SURRENDER" />
+    <String string="[{Name}], has declarado una batalla GcG contra el gremio [{GuildName1}]. Se han descontado los costos de declaraci&amp;#243;n de batalla GcG por un monto de {GuildMoney}." readableId="SMT_GUILDLOG_WAR_DECLARE" />
+    <String string="[{Name}], el gremio {GuildName1} ha iniciado una batalla GcG." readableId="SMT_GUILDLOG_WAR_BE_DECLARED" />
+    <String string="[{Name}], cancelaste la batalla GcG contra el gremio {GuildName1}." readableId="SMT_GUILDLOG_WAR_WITHDRAW" />
+    <String string="[{Name}], la batalla GcG iniciada contra el gremio {GuildName1} fue cancelada porque no hab&amp;#237;a suficiente oro de gremio disponible." readableId="SMT_GUILDLOG_WAR_WITHDRAW_NOMONEY" />
+    <String string="Cancelar declaraci&amp;#243;n" readableId="SMT_GUILDWAR_WITHDRAW_MSGBOX_TITLE" />
+    <String string="Si cancelas una declaraci&amp;#243;n, no podr&amp;#225;s hacer una nueva declaraci&amp;#243;n durante 24 horas.&#xA;&amp;#191;Deseas cancelar la declaraci&amp;#243;n de guerra?" readableId="SMT_GUILDWAR_WITHDRAW_MSGBOX_MESSAGE" />
+    <String string="Contraataque" readableId="SMT_GUILDWAR_DECLARE_MSGBOX_TITLE" />
+    <String string="Iniciar una batalla GcG requiere {GuildMoney} de oro de gremio.&#xA;&amp;#191;Quieres lanzar un contraataque contra el gremio {GuildName}?" readableId="SMT_GUILDWAR_DECLARE_MSGBOX_MESSAGE" />
+    <String string="Capitulaci&amp;#243;n" readableId="SMT_GUILDWAR_SURRENDER_MSGBOX_TITLE" />
+    <String string="Si optas por la capitulaci&amp;#243;n, debes restituir una parte de los gastos de guerra ocasionados al gremio &lt;FONT COLOR='#80E71C'&gt;{GuildName}&lt;/FONT&gt;.&#xA;&#xA;Monto a reembolsar: &lt;FONT COLOR='#80E71C'&gt;{GuildMoney}&lt;/FONT&gt; piezas de oro de gremio&#xA;&#xA;Si capitulas, ya no podr&amp;#225;s iniciar una batalla GcG contra el mismo gremio durante &lt;FONT COLOR='#80E71C'&gt;{ProtectionTime}&lt;/FONT&gt; horas. &amp;#191;De verdad deseas capitular?" readableId="SMT_GUILDWAR_SURRENDER_MSGBOX_MESSAGE" />
+    <String string="Capitulaci&amp;#243;n" readableId="SMT_GUILDWAR_SURRENDER_YES_MSGBOX_MESSAGE" />
+    <String string="Si capitulas, debes pagar &lt;FONT COLOR='#80E71C'&gt;{GuildMoney}&lt;/FONT&gt; al gremio &lt;FONT COLOR='#80E71C'&gt;{GuildName}&lt;/FONT&gt; para comprar un respiro de &lt;FONT COLOR='#80E71C'&gt;{ProtectionTime}&lt;/FONT&gt;.&#xA;&#xA;Un verdadero {RaceName} jam&amp;#225;s se da por vencido.&#xA;&amp;#191;De verdad deseas capitular?" readableId="SMT_GUILDWAR_SURRENDER_RARE_MSGBOX_MESSAGE" />
+    <String string="Tragar tu orgullo" readableId="SMT_GUILDWAR_SURRENDER_YES_RARE_MSGBOX_MESSAGE" />
+    <String string="Rechazar la capitulaci&amp;#243;n" readableId="SMT_GUILDWAR_SURRENDER_NO_RARE_MSGBOX_MESSAGE" />
+    <String string="Han transcurrido {Hour} horas y {Minute} minutos desde el inicio de los combates." readableId="SMT_GUILDWAR_DURATION" />
+    <String string="Gastos de guerra acumulados: &lt;FONT COLOR='#80E71C'&gt;{WarCost}&lt;/FONT&gt;&lt;br&gt;{WarType}A partir de la declaraci&amp;#243;n de guerra, se gasta un monto por hora de &lt;FONT COLOR='#80E71C'&gt;{MaintainCost}&lt;/FONT&gt; piezas de oro de gremio.&lt;br&gt;Hora de la declaraci&amp;#243;n: &lt;FONT COLOR='#80E71C'&gt;{StartTime}&lt;/FONT&gt;" readableId="SMT_GUILDWAR_WARCOST_TOOLTIP" />
+    <String string="Declaraci&amp;#243;n unilateral" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_ONE_SIDE" />
+    <String string="Contraataque" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_EACH_OTHER" />
+    <String string="Desaf&amp;#237;os superados los desaf&amp;#237;os semanales m&amp;#225;ximos" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_ONE_SIDE_PENALTY" />
+    <String string="Contraataque superados los desaf&amp;#237;os semanales m&amp;#225;ximos" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_EACH_OTHER_PENALTY" />
+    <String string="Batallas GcG en curso: {NumberOfGuildWar}" readableId="SMT_GUILDWAR_MINIMAP_ICON_MENU_1" />
+    <String string="Si superas el n&amp;#250;mero m&amp;#225;ximo de desaf&amp;#237;os semanales posibles, debes pagar una penalizaci&amp;#243;n.\n\nTras la conclusi&amp;#243;n de la batalla GcG, no recibes ninguna compensaci&amp;#243;n del gremio que lanz&amp;#243; el desaf&amp;#237;o.\n\nEl n&amp;#250;mero de desaf&amp;#237;os se reinicia una vez por semana, el {ResetDay} a las {ResettingHour}." readableId="SMT_GUILDWAR_WEEKLY_LIMIT_PENALTY_TOOLTIP" />
+    <String string="Si has superado el n&amp;#250;mero de desaf&amp;#237;os semanales, no recibes ninguna compensaci&amp;#243;n." readableId="SMT_GUILDWAR_WEEKLY_LIMIT_PENALTY_EXPLANATION" />
+    <String string="Recompensa de insignia de Vald&amp;#233;rion" readableId="SMT_GUILD_QUEST_REWARD_TITLE" />
+    <String string="Confirmar" readableId="SMT_GUILD_QUEST_REWARD_POPUP_OK" />
+</StrSheet_Guild>
