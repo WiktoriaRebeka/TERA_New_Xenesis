@@ -1,0 +1,36 @@
+<StrSheet_Masstige xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Masstige StrSheet_Masstige.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Masstige">
+    <String readableId="SMT_MASSTIGE_MAIN_TITLE">Armes de l'avatar</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_SECTION_TITLE">Armes disponibles</String>
+    <String readableId="SMT_MASSTIGE_CURRENT_SECTION_TITLE">Armes obtenues</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_ITEM_UNAVAILBLE">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_OPEN_ENCHANT_WINDOW">Enchanter</String>
+    <String readableId="SMT_MASSTIGE_MAXIMUM_ENCHANT_COUNT_REACHED">Entièrement enchanté</String>
+    <String readableId="SMT_MASSTIGE_EQUIP_OBTAINED_MASSTIGE_ITEM">Équiper</String>
+    <String readableId="SMT_MASSTIGE_CANT_REGIST_EQUIP">L'enchantement n'est possible qu'une fois l'objet retiré.</String>
+    <String readableId="SMT_MASSTIGE_RECEIVE_MASSTIGE_ITEM">Obtenir arme</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS">Collecter.</String>
+    <String readableId="SMT_MASSTIGE_NOT_DISCOVERED_YET">Pas encore découvert</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_LONG">Récupérer {TokenName}.</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_FINISHED_LONG">{TokenName} récupéré.</String>
+    <String readableId="SMT_MASSTIGE_GAUGE_TEXT">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TITLE">Armes avatar</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TEXT">Vous avez reçu {MasstigeName}.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_YES">Confirmer</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_NO">Annuler</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TITLE">Enchanter</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TEXT">L'enchantement est en cours. Veuillez réessayer ultérieurement.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_YES">Confirmer</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TITLE">Découverte d'arme avatar</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT">Vous avez découvert une arme avatar !</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT2">&lt;font color='{Color}'&gt; Collecter {TokenName} ({CurrentTokenNum}/{TargetTokenNum})&lt;/font&gt;&lt;br&gt;Consultez votre inventaire (I) pour en savoir plus.</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_NEEDLESSLY_TEXT2">&lt;font color='{Color}'&gt;Vous avez découvert {TokenName}, mais vous les avez déjà collectés.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TITLE">Arme avatar récupérée</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TEXT">Vous avez collecté toutes les reliques !\nOuvrez votre inventaire (I) pour obtenir une arme puissante.</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP">Reliques des dieux antiques&lt;br&gt;&lt;br&gt;Quand vous chassez un monstre d'un niveau donné, vous avez une certaine probabilité d'obtenir une relique. Récupérez toutes les reliques pour les échanger contre des armes avatars.&lt;br&gt;&lt;br&gt;Ces armes ont été récemment découvertes à Arborea. De violents combats ont sans doute entraîné des changements sur la surface terrestre. Ces reliques abritent une force prodigieuse.&lt;br&gt;Un archéologue anonyme</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGIONS">Où trouver les fragments de relique que vous cherchez&amp;nbsp;: &lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGION">- {HzName}</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGIONS">Zones contenant des reliques :&lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGION">{HzName}</String>
+    <String readableId="SMT_MASSTIGE_NO_MORE_TOKENS_EXIST">[Armes avatar complétées]&lt;br&gt;Vous avez récupéré toutes les reliques disponibles.&lt;br&gt;&lt;br&gt;Félicitations&amp;nbsp;!</String>
+    <String readableId="SMT_MASSTIGE_NO_OBTAINED_MASSTIGE_ITEM">[Qu'est-ce qu'une arme avatar ?]&lt;br&gt;&lt;br&gt;Collectez des reliques pour confectionner une arme.</String>
+</StrSheet_Masstige>

@@ -1,0 +1,828 @@
+<StrSheet_Achievement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Achievement StrSheet_Achievement.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Achievement">
+    <String id="1001001" string="Plongée profonde" />
+    <String id="1001002" string="A tué un BAM tout en portant un maillot de bain ou un autre costume premium." />
+    <String id="1001003" string="A tué un BAM tout en portant un maillot de bain ou un autre costume premium." />
+    <String id="1001004" string="Fédération Valkyon" />
+    <String id="1001800" string="A tué un BAM tout en portant un maillot de bain ou un autre costume premium." />
+    <String id="1002001" string="Danse au son de la musique de l'île" />
+    <String id="1002002" string="Vous avez dansé à Ostgarath en portant un maillot de bain ou un costume premium." />
+    <String id="1002003" string="Vous avez dansé à Ostgarath en portant un maillot de bain ou un costume premium." />
+    <String id="1002004" string="Fédération Valkyon" />
+    <String id="1002800" string="Vous avez dansé à Ostgarath en portant un maillot de bain ou un costume premium." />
+    <String id="1003001" string="{@g:Patineur artistique professionnel/Patineuse artistique professionnelle}" />
+    <String id="1003002" string="Vous avez dansé à Westonia en portant un maillot de bain ou un costume premium." />
+    <String id="1003003" string="Vous avez dansé à Westonia en portant un maillot de bain ou un costume premium." />
+    <String id="1003004" string="Fédération Valkyon" />
+    <String id="1003800" string="Vous avez dansé à Westonia en portant un maillot de bain ou un costume premium." />
+    <String id="1004001" string="La fête au village" />
+    <String id="1004002" string="Vous avez dansé à Val Tirkai en portant un maillot de bain ou un costume premium." />
+    <String id="1004003" string="Vous avez dansé à Val Tirkai en portant un maillot de bain ou un costume premium." />
+    <String id="1004004" string="Fédération Valkyon" />
+    <String id="1004800" string="Vous avez dansé à Val Tirkai en portant un maillot de bain ou un costume premium." />
+    <String id="1005001" string="Plif plouf" />
+    <String id="1005002" string="Vous vous êtes baigné pendant 10 secondes en portant un maillot de main ou autre costume premium." />
+    <String id="1005003" string="Vous vous êtes baigné pendant 10 secondes en portant un maillot de main ou autre costume premium." />
+    <String id="1005004" string="Fédération Valkyon" />
+    <String id="1005800" string="Vous vous êtes baigné pendant 10 secondes en portant un maillot de main ou autre costume premium." />
+    <String id="1006001" string="Chaleur d'été" />
+    <String id="1006002" string="Vous avez complété la liste d'exploits de l'été ci-dessous :" />
+    <String id="1006003" string="Vous avez complété la liste d'exploits de l'été ci-dessous :" />
+    <String id="1006004" string="Fédération Valkyon" />
+    <String id="1006501" string="Au soleil" />
+    <String id="1006800" string="Plongée profonde" />
+    <String id="1006801" string="Danse au son de la musique de l'île" />
+    <String id="1006802" string="{@g:Patineur/Patineuse} artistique {@g:professionnel/professionnelle}" />
+    <String id="1006803" string="La fête au village" />
+    <String id="1006804" string="Plif plouf" />
+    <String id="1007001" string="Dressage de dragon" />
+    <String id="1007002" string="Apprenez une des compétences d'équitation suivantes:" />
+    <String id="1007003" string="Apprenez une des compétences d'équitation suivantes:" />
+    <String id="1007004" string="Fédération Valkyon" />
+    <String id="1007501" string="Dompteu{@gender:r/se} de dragon" />
+    <String id="1007800" string="Compétence d'équitation: Flammécaille" />
+    <String id="1007801" string="Compétence d'équitation: Flammécaille mythique" />
+    <String id="1007802" string="Compétence d'équitation: Flammécaille fabuleux" />
+    <String id="1007803" string="Compétence d'équitation: Flammécaille légendaire" />
+    <String id="1007804" string="Compétence d'équitation: Flammécaille tout-puissant" />
+    <String id="1007805" string="Compétence d'équitation: Orécaille" />
+    <String id="1007806" string="Compétence d'équitation: Orécaille mythique" />
+    <String id="1007807" string="Compétence d'équitation: Orécaille fabuleux" />
+    <String id="1007808" string="Compétence d'équitation: Orécaille légendaire" />
+    <String id="1007809" string="Compétence d'équitation: Orécaille tout-puissant" />
+    <String id="1007810" string="Compétence d'équitation: Jadécaille" />
+    <String id="1007811" string="Compétence d'équitation: Jadécaille mythique" />
+    <String id="1007812" string="Compétence d'équitation: Jadécaille fabuleux" />
+    <String id="1007813" string="Compétence d'équitation: Jadécaille légendaire" />
+    <String id="1007814" string="Compétence d'équitation: Jadécaille tout-puissant" />
+    <String id="1007815" string="Compétence d'équitation: Onyxécaille" />
+    <String id="1007816" string="Compétence d'équitation: Onyxécaille mythique" />
+    <String id="1007817" string="Compétence d'équitation: Onyxécaille fabuleux" />
+    <String id="1007818" string="Compétence d'équitation: Onyxécaille légendaire" />
+    <String id="1007819" string="Compétence d'équitation: Onyxécaille tout-puissant" />
+    <String id="1007820" string="Compétence d'équitation: Argentécaille" />
+    <String id="1007821" string="Compétence d'équitation: Argentécaille mythique" />
+    <String id="1007822" string="Compétence d'équitation: Argentécaille fabuleux" />
+    <String id="1007823" string="Compétence d'équitation: Argentécaille légendaire" />
+    <String id="1007824" string="Compétence d'équitation: Argentécaille tout-puissant" />
+    <String id="1008001" string="Fureur du dragon" />
+    <String id="1008002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1008003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1008501" string="Gardien{@g:/ne} de la fureur du dragon" />
+    <String id="1009001" string="Colère du dragon des flammes" />
+    <String id="1009002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1009003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1009501" string="Chercheu{@gender:r/se} de flammes" />
+    <String id="1010001" string="Fortune du dragon d'or" />
+    <String id="1010002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1010003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1010501" string="Trésor du dragon" />
+    <String id="1011001" string="Sagesse du dragon de jade" />
+    <String id="1011002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1011003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1011501" string="Splendeur du jade" />
+    <String id="1012001" string="Ténèbres du dragon d'onyx" />
+    <String id="1012002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1012003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1012501" string="Cœur d'Onyx" />
+    <String id="1013001" string="Noblesse du dragon d'argent" />
+    <String id="1013002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1013003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1013501" string="Plume d'argent" />
+    <String id="1014001" string="Mythe du dragon" />
+    <String id="1014002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1014003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1014501" string="Chasseu{@gender:r/se} de dragon mythique" />
+    <String id="1015001" string="Fable du dragon" />
+    <String id="1015002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1015003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1015501" string="Souverain{@g:/e} fabuleu{@gender:x/se} des dragons" />
+    <String id="1016001" string="Légende du dragon" />
+    <String id="1016002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1016003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1016501" string="Maître{@g:/sse} légendaire des dragons" />
+    <String id="1017001" string="Toute-puissance du dragon" />
+    <String id="1017002" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1017003" string="Apprenez toutes les compétences d'équitation suivantes et montez en selle une fois par monture :" />
+    <String id="1017501" string="Prince{@g:/sse} tout{@g:/e}-puissant{@g:/e} des dragons" />
+    <String id="1100001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1100002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1100003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1100004" string="Fédération Valkyon" />
+    <String id="1100501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1100800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1101001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1101002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1101003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1101004" string="Fédération Valkyon" />
+    <String id="1101501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1101800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1102001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1102002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1102003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1102004" string="Fédération Valkyon" />
+    <String id="1102501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1102800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1103001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1103002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1103003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1103004" string="Fédération Valkyon" />
+    <String id="1103501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1103800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1104001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1104002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1104003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1104004" string="Fédération Valkyon" />
+    <String id="1104501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1104800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1105001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1105002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1105003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1105004" string="Fédération Valkyon" />
+    <String id="1105501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1105800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1106001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1106002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1106003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1106004" string="Fédération Valkyon" />
+    <String id="1106501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1106800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1107001" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1107002" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1107003" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1107004" string="Fédération Valkyon" />
+    <String id="1107501" string="Champion{@g:/ne} de la Bataille de la Gorge" />
+    <String id="1107800" string="Victoire lors du tournoi de champs de bataille de la Bataille de la Gorge." />
+    <String id="1108001" string="{@g:Champion/Championne} 2012 de la Bataille de la Gorge !" />
+    <String id="1108002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1108003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1108004" string="Fédération Valkyon" />
+    <String id="1108501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1108800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1109001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1109002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1109003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1109004" string="Fédération Valkyon" />
+    <String id="1109501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1109800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1110001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1110002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1110003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1110004" string="Fédération Valkyon" />
+    <String id="1110501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1110800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1111001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1111002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1111003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1111004" string="Fédération Valkyon" />
+    <String id="1111501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1111800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1112001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1112002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1112003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1112004" string="Fédération Valkyon" />
+    <String id="1112501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1112800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1113001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1113002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1113003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1113004" string="Fédération Valkyon" />
+    <String id="1113501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1113800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1114001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1114002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1114003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1114004" string="Fédération Valkyon" />
+    <String id="1114501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1114800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1115001" string="{@g:Champion/Championne} de la Bataille de la Gorge !" />
+    <String id="1115002" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1115003" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1115004" string="Fédération Valkyon" />
+    <String id="1115501" string="{@g:Champion/Championne} de la Bataille de la Gorge 2012" />
+    <String id="1115800" string="Remporté le tournoi de champs de bataille 2012 de la Bataille de la Gorge" />
+    <String id="1118001" string="Champion du tournoi de donjon de Velik" />
+    <String id="1118002" string="A vaincu sur tous les serveurs." />
+    <String id="1118003" string="A vaincu sur tous les serveurs." />
+    <String id="1118004" string="Fédération Valkyon" />
+    <String id="1118501" string="Champion du tournoi de donjon de Velik" />
+    <String id="1118800" string="A vaincu sur tous les serveurs." />
+    <String id="1119001" string="Le finaliste de Killian du tournoi de donjon de Velik" />
+    <String id="1119002" string="A vaincu sur Killian." />
+    <String id="1119003" string="A vaincu sur Killian." />
+    <String id="1119004" string="Fédération Valkyon" />
+    <String id="1119501" string="Fierté de Killian" />
+    <String id="1119800" string="A vaincu sur Killian." />
+    <String id="1120001" string="Le finaliste de Fraya du tournoi de donjon de Velik" />
+    <String id="1120002" string="A vaincu sur Fraya." />
+    <String id="1120003" string="A vaincu sur Fraya." />
+    <String id="1120004" string="Fédération Valkyon" />
+    <String id="1120501" string="Fierté de Fraya" />
+    <String id="1120800" string="A vaincu sur Fraya." />
+    <String id="1121001" string="Le finaliste d'Hasmina du tournoi de donjon de Velik" />
+    <String id="1121002" string="A vaincu sur Hasmina." />
+    <String id="1121003" string="A vaincu sur Hasmina." />
+    <String id="1121004" string="Fédération Valkyon" />
+    <String id="1121501" string="Fierté d'Hasmina" />
+    <String id="1121800" string="A vaincu sur Hasmina." />
+    <String id="1122001" string="Le finaliste d'Elinu du tournoi de donjon de Velik" />
+    <String id="1122002" string="A vaincu sur Elinu." />
+    <String id="1122003" string="A vaincu sur Elinu." />
+    <String id="1122004" string="Fédération Valkyon" />
+    <String id="1122501" string="Fierté d'Elinu" />
+    <String id="1122800" string="A vaincu sur Elinu." />
+    <String id="1123001" string="Le finaliste de Veritas du tournoi de donjon de Velik" />
+    <String id="1123002" string="A vaincu sur Veritas." />
+    <String id="1123003" string="A vaincu sur Veritas." />
+    <String id="1123004" string="Fédération Valkyon" />
+    <String id="1123501" string="Fierté de Veritas" />
+    <String id="1123800" string="A vaincu sur Veritas." />
+    <String id="1124001" string="Le finaliste d'Arcadia du tournoi de donjon de Velik" />
+    <String id="1124002" string="A vaincu sur Arcadia." />
+    <String id="1124003" string="A vaincu sur Arcadia." />
+    <String id="1124004" string="Fédération Valkyon" />
+    <String id="1124501" string="Fierté d'Arcadia" />
+    <String id="1124800" string="A vaincu sur Arcadia." />
+    <String id="1125001" string="Le finaliste de Kaidun du tournoi de donjon de Velik" />
+    <String id="1125002" string="A vaincu sur Kaidun." />
+    <String id="1125003" string="A vaincu sur Kaidun." />
+    <String id="1125004" string="Fédération Valkyon" />
+    <String id="1125501" string="Fierté de Kaidun" />
+    <String id="1125800" string="A vaincu sur Kaidun." />
+    <String id="1126001" string="Le finaliste de Zenobia du tournoi de donjon de Velik" />
+    <String id="1126002" string="A vaincu sur Zenobia." />
+    <String id="1126003" string="A vaincu sur Zenobia." />
+    <String id="1126004" string="Fédération Valkyon" />
+    <String id="1126501" string="Fierté de Zenobia" />
+    <String id="1126800" string="A vaincu sur Zenobia." />
+    <String id="1127001" string="Le finaliste d'Akasha du tournoi de donjon de Velik" />
+    <String id="1127002" string="A vaincu sur Akasha." />
+    <String id="1127003" string="A vaincu sur Akasha." />
+    <String id="1127004" string="Fédération Valkyon" />
+    <String id="1127501" string="Fierté d'Akasha" />
+    <String id="1127800" string="A vaincu sur Akasha." />
+    <String id="1128001" string="Le finaliste d'Icaruna du tournoi de donjon de Velik" />
+    <String id="1128002" string="A vaincu sur Icaruna." />
+    <String id="1128003" string="A vaincu sur Icaruna." />
+    <String id="1128004" string="Fédération Valkyon" />
+    <String id="1128501" string="Fierté d'Icaruna" />
+    <String id="1128800" string="A vaincu sur Icaruna." />
+    <String id="1300001" string="Maître Guerrier" />
+    <String id="1300002" string="Atteindre le niveau 60 avec un Guerrier." />
+    <String id="1300003" string="Atteindre le niveau 60 avec un Guerrier." />
+    <String id="1300004" string="Fédération Valkyon" />
+    <String id="1300800" string="Niveau 60" />
+    <String id="1301001" string="Maître Lancier" />
+    <String id="1301002" string="Atteindre le niveau 60 avec un Lancier." />
+    <String id="1301003" string="Atteindre le niveau 60 avec un Lancier." />
+    <String id="1301004" string="Fédération Valkyon" />
+    <String id="1301800" string="Niveau 60" />
+    <String id="1302001" string="Maître Pourfendeur" />
+    <String id="1302002" string="Atteindre le niveau 60 avec un Pourfendeur." />
+    <String id="1302003" string="Atteindre le niveau 60 avec un Pourfendeur." />
+    <String id="1302004" string="Fédération Valkyon" />
+    <String id="1302800" string="Niveau 60" />
+    <String id="1303001" string="Maître Berserker" />
+    <String id="1303002" string="Atteindre le niveau 60 avec un Berserker." />
+    <String id="1303003" string="Atteindre le niveau 60 avec un Berserker." />
+    <String id="1303004" string="Fédération Valkyon" />
+    <String id="1303800" string="Niveau 60" />
+    <String id="1304001" string="Maître Sorcier" />
+    <String id="1304002" string="Atteindre le niveau 60 avec un Sorcier." />
+    <String id="1304003" string="Atteindre le niveau 60 avec un Sorcier." />
+    <String id="1304004" string="Fédération Valkyon" />
+    <String id="1304800" string="Niveau 60" />
+    <String id="1305001" string="Maître Archer" />
+    <String id="1305002" string="Atteindre le niveau 60 avec un Archer." />
+    <String id="1305003" string="Atteindre le niveau 60 avec un Archer." />
+    <String id="1305004" string="Fédération Valkyon" />
+    <String id="1305800" string="Niveau 60" />
+    <String id="1306001" string="Maître Prêtre" />
+    <String id="1306002" string="Atteindre le niveau 60 avec un Prêtre." />
+    <String id="1306003" string="Atteindre le niveau 60 avec un Prêtre." />
+    <String id="1306004" string="Fédération Valkyon" />
+    <String id="1306800" string="Niveau 60" />
+    <String id="1307001" string="Maître Mystique" />
+    <String id="1307002" string="Atteindre le niveau 60 avec un Mystique." />
+    <String id="1307003" string="Atteindre le niveau 60 avec un Mystique." />
+    <String id="1307004" string="Fédération Valkyon" />
+    <String id="1307800" string="Niveau 60" />
+    <String id="1308001" string="Fin des vacances !" />
+    <String id="1308002" string="Un guerrier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1308003" string="Un guerrier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1308004" string="Fédération Valkyon" />
+    <String id="1308800" string="Niveau 58 et un mois de vacances." />
+    <String id="1309001" string="Fin des vacances !" />
+    <String id="1309002" string="Un lancier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1309003" string="Un lancier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1309004" string="Fédération Valkyon" />
+    <String id="1309800" string="Niveau 58 et un mois de vacances." />
+    <String id="1310001" string="Fin des vacances !" />
+    <String id="1310002" string="Un pourfendeur de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1310003" string="Un pourfendeur de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1310004" string="Fédération Valkyon" />
+    <String id="1310800" string="Niveau 58 et un mois de vacances." />
+    <String id="1311001" string="Fin des vacances !" />
+    <String id="1311002" string="Un berserker de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1311003" string="Un berserker de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1311004" string="Fédération Valkyon" />
+    <String id="1311800" string="Niveau 58 et un mois de vacances." />
+    <String id="1312001" string="Fin des vacances !" />
+    <String id="1312002" string="Un sorcier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1312003" string="Un sorcier de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1312004" string="Fédération Valkyon" />
+    <String id="1312800" string="Niveau 58 et un mois de vacances." />
+    <String id="1313001" string="Fin des vacances !" />
+    <String id="1313002" string="Un archer de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1313003" string="Un archer de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1313004" string="Fédération Valkyon" />
+    <String id="1313800" string="Niveau 58 et un mois de vacances." />
+    <String id="1314001" string="Fin des vacances !" />
+    <String id="1314002" string="Un prêtre de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1314003" string="Un prêtre de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1314004" string="Fédération Valkyon" />
+    <String id="1314800" string="Niveau 58 et un mois de vacances." />
+    <String id="1315001" string="Fin des vacances !" />
+    <String id="1315002" string="Un mystique de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1315003" string="Un mystique de niveau 58 (ou plus) ayant pris un mois de vacances." />
+    <String id="1315004" string="Fédération Valkyon" />
+    <String id="1315800" string="Niveau 58 et un mois de vacances." />
+    <String id="7000001" string="" />
+    <String id="7000002" string="" />
+    <String id="7000003" string="" />
+    <String id="7000004" string="" />
+    <String id="7000800" string="" />
+    <String id="7001001" string="" />
+    <String id="7001002" string="" />
+    <String id="7001003" string="" />
+    <String id="7001004" string="" />
+    <String id="7001800" string="" />
+    <String id="7002001" string="" />
+    <String id="7002002" string="" />
+    <String id="7002003" string="" />
+    <String id="7002004" string="" />
+    <String id="7002800" string="" />
+    <String id="7003001" string="" />
+    <String id="7003002" string="" />
+    <String id="7003003" string="" />
+    <String id="7003004" string="" />
+    <String id="7003800" string="" />
+    <String id="7004001" string="" />
+    <String id="7004002" string="" />
+    <String id="7004003" string="" />
+    <String id="7004004" string="" />
+    <String id="7004800" string="" />
+    <String id="7005001" string="" />
+    <String id="7005002" string="" />
+    <String id="7005003" string="" />
+    <String id="7005004" string="" />
+    <String id="7005800" string="" />
+    <String id="7006001" string="" />
+    <String id="7006002" string="" />
+    <String id="7006003" string="" />
+    <String id="7006004" string="" />
+    <String id="7006800" string="" />
+    <String id="7007001" string="" />
+    <String id="7007002" string="" />
+    <String id="7007003" string="" />
+    <String id="7007004" string="" />
+    <String id="7007800" string="" />
+    <String id="7008001" string="" />
+    <String id="7008002" string="" />
+    <String id="7008003" string="" />
+    <String id="7008004" string="" />
+    <String id="7008800" string="" />
+    <String id="7009001" string="" />
+    <String id="7009002" string="" />
+    <String id="7009003" string="" />
+    <String id="7009004" string="" />
+    <String id="7009800" string="" />
+    <String id="7010001" string="" />
+    <String id="7010002" string="" />
+    <String id="7010003" string="" />
+    <String id="7010004" string="" />
+    <String id="7010800" string="" />
+    <String id="7011001" string="Ténèbres reconquis" />
+    <String id="7011002" string="Éliminez 15 fois le Krakatox cauchemardesque dans l'Abcès." />
+    <String id="7011003" string="Éliminez 15 fois le Krakatox cauchemardesque dans l'Abcès." />
+    <String id="7011004" string="Initiative de l'avant-garde" />
+    <String id="7011501" string="Témoin de l'époque" />
+    <String id="7011800" string="Éliminez 15 fois le Krakatox cauchemardesque dans l'Abcès." />
+    <String id="520029001" string="" />
+    <String id="520029002" string="" />
+    <String id="520029003" string="" />
+    <String id="520029004" string="" />
+    <String id="520029501" string="" />
+    <String id="520029800" string="" />
+    <String id="520030001" string="Pour l'amour de TERA" />
+    <String id="520030002" string="Titre accordé aux lauréats des TERADEMY Awards." />
+    <String id="520030003" string="Titre accordé aux lauréats des TERADEMY Awards." />
+    <String id="520030004" string="Fédération Valkyon" />
+    <String id="520030501" string="Teradémicien" />
+    <String id="520030800" string="Titre accordé aux lauréats des TERADEMY Awards." />
+    <String id="520031001" string="Invité à l'anniversaire" />
+    <String id="520031002" string="Procurez-vous un bolide d'Élin en mai 2017 à l'occasion du 5è anniversaire de TERA." />
+    <String id="520031003" string="Procurez-vous un bolide d'Élin en mai 2017 à l'occasion du 5è anniversaire de TERA." />
+    <String id="520031004" string="Fédération Valkyon" />
+    <String id="520031501" string="Où est le gâteau ?" />
+    <String id="520031800" string="Invoquez un bolide d'Élin pour la première fois à l'occasion de l'anniversaire." />
+    <String id="520031801" string="" />
+    <String id="520032001" string="Gardienne lunaire" />
+    <String id="520032002" string="Votre Danselune a atteint le niveau 65 pendant l'évènement." />
+    <String id="520032003" string="Votre Danselune a atteint le niveau 65 pendant l'évènement." />
+    <String id="520032004" string="Fédération Valkyon" />
+    <String id="520032501" string="Gardienne lunaire" />
+    <String id="520032800" string="Votre Danselune a atteint le niveau 65 pendant l'évènement." />
+    <String id="520033001" string="Junior Detective" />
+    <String id="520033002" string="Obtain 1 Police Report during event" />
+    <String id="520033003" string="Obtain 1 Police Report during event" />
+    <String id="520033004" string="TERA Team" />
+    <String id="520033501" string="Junior Detective" />
+    <String id="520033800" string="Obtain 1 Police Report during event" />
+    <String id="520034001" string="Senior Detective" />
+    <String id="520034002" string="Obtain 10 Police Reports during event" />
+    <String id="520034003" string="Obtain 10 Police Reports during event" />
+    <String id="520034004" string="TERA Team" />
+    <String id="520034501" string="Senior Detective" />
+    <String id="520034800" string="Obtain 10 Police Reports during event" />
+    <String id="520035001" string="Master Detective" />
+    <String id="520035002" string="Obtain 50 Police Reports during event" />
+    <String id="520035003" string="Obtain 50 Police Reports during event" />
+    <String id="520035004" string="TERA Team" />
+    <String id="520035501" string="Master Detective" />
+    <String id="520035800" string="Obtain 50 Police Reports during event" />
+    <String id="520036001" string="Master Warrior" />
+    <String id="520036002" string="Server's first Warrior to reach level 65" />
+    <String id="520036003" string="Server's first Warrior to reach level 65" />
+    <String id="520036004" string="TERA Team" />
+    <String id="520036501" string="Master Warrior" />
+    <String id="520036800" string="Server's first Warrior to reach level 65" />
+    <String id="520037001" string="Master Slayer" />
+    <String id="520037002" string="Server's first Slayer to reach level 65" />
+    <String id="520037003" string="Server's first Slayer to reach level 65" />
+    <String id="520037004" string="TERA Team" />
+    <String id="520037501" string="Master Slayer" />
+    <String id="520037800" string="Server's first Slayer to reach level 65" />
+    <String id="520038001" string="Master Berserker" />
+    <String id="520038002" string="Server's first Berserker to reach level 65" />
+    <String id="520038003" string="Server's first Berserker to reach level 65" />
+    <String id="520038004" string="TERA Team" />
+    <String id="520038501" string="Master Berserker" />
+    <String id="520038800" string="Server's first Berserker to reach level 65" />
+    <String id="520039001" string="Master Archer" />
+    <String id="520039002" string="Server's first Archer to reach level 65" />
+    <String id="520039003" string="Server's first Archer to reach level 65" />
+    <String id="520039004" string="TERA Team" />
+    <String id="520039501" string="Master Archer" />
+    <String id="520039800" string="Server's first Archer to reach level 65" />
+    <String id="520040001" string="Master Elementalist" />
+    <String id="520040002" string="Server's first Elementalist to reach level 65" />
+    <String id="520040003" string="Server's first Elementalist to reach level 65" />
+    <String id="520040004" string="TERA Team" />
+    <String id="520040501" string="Master Elementalist" />
+    <String id="520040800" string="Server's first Elementalist to reach level 65" />
+    <String id="520041001" string="Master Priest" />
+    <String id="520041002" string="Server's first Priest to reach level 65" />
+    <String id="520041003" string="Server's first Priest to reach level 65" />
+    <String id="520041004" string="TERA Team" />
+    <String id="520041501" string="Master Priest" />
+    <String id="520041800" string="Server's first Priest to reach level 65" />
+    <String id="520042001" string="Master Lancer" />
+    <String id="520042002" string="Server's first Lancer to reach level 65" />
+    <String id="520042003" string="Server's first Lancer to reach level 65" />
+    <String id="520042004" string="TERA Team" />
+    <String id="520042501" string="Master Lancer" />
+    <String id="520042800" string="Server's first Lancer to reach level 65" />
+    <String id="520043001" string="Master Sorcerer" />
+    <String id="520043002" string="Server's first Sorcerer to reach level 65" />
+    <String id="520043003" string="Server's first Sorcerer to reach level 65" />
+    <String id="520043004" string="TERA Team" />
+    <String id="520043501" string="Master Sorcerer" />
+    <String id="520043800" string="Server's first Sorcerer to reach level 65" />
+    <String id="520044001" string="Master Soulless" />
+    <String id="520044002" string="Server's first Soulless to reach level 65" />
+    <String id="520044003" string="Server's first Soulless to reach level 65" />
+    <String id="520044004" string="TERA Team" />
+    <String id="520044501" string="Master Soulless" />
+    <String id="520044800" string="Server's first Soulless to reach level 65" />
+    <String id="520045001" string="Master Assassin" />
+    <String id="520045002" string="Server's first Assassin to reach level 65" />
+    <String id="520045003" string="Server's first Assassin to reach level 65" />
+    <String id="520045004" string="TERA Team" />
+    <String id="520045501" string="Master Assassin" />
+    <String id="520045800" string="Server's first Assassin to reach level 65" />
+    <String id="520046001" string="Master Engineer" />
+    <String id="520046002" string="Server's first Engineer to reach level 65" />
+    <String id="520046003" string="Server's first Engineer to reach level 65" />
+    <String id="520046004" string="TERA Team" />
+    <String id="520046501" string="Master Engineer" />
+    <String id="520046800" string="Server's first Engineer to reach level 65" />
+    <String id="520047001" string="Master Fighter" />
+    <String id="520047002" string="Server's first Fighter to reach level 65" />
+    <String id="520047003" string="Server's first Fighter to reach level 65" />
+    <String id="520047004" string="TERA Team" />
+    <String id="520047501" string="Master Fighter" />
+    <String id="520047800" string="Server's first Fighter to reach level 65" />
+    <String id="520048001" string="Beat the Rush" />
+    <String id="520048002" string="Founder's Pack Award" />
+    <String id="520048003" string="Founder's Pack Award" />
+    <String id="520048004" string="TERA Team" />
+    <String id="520048501" string="Founder" />
+    <String id="520048800" string="Founder's Pack Award" />
+    <String id="520049001" string="Le meilleur en son genre" />
+    <String id="520049002" string="Obtenir le meilleur rang parmi tous les joueurs de sa classe et sur l'ensemble des serveurs pour une saison de champs de bataille." />
+    <String id="520049003" string="Gravissez l'échelle des exploits !" />
+    <String id="520049004" string="Fédération Valkyon" />
+    <String id="520049501" string="Ravageur" />
+    <String id="520049800" string="Gravissez l'échelle des exploits !" />
+    <String id="520050001" string="Toute résistance est futile !" />
+    <String id="520050002" string="Obtenir le meilleur rang parmi tous les joueurs et sur l'ensemble des serveurs pour une saison de champs de bataille." />
+    <String id="520050003" string="Atteignez le sommet !" />
+    <String id="520050004" string="Fédération Valkyon" />
+    <String id="520050501" string="Seigneur de guerre" />
+    <String id="520050800" string="Atteignez le sommet !" />
+    <String id="520051001" string="Tremblez, mortels !" />
+    <String id="520051002" string="Obtenir le meilleur rang, sur l'ensemble des serveurs, pour 3 saisons de champs de bataille consécutives." />
+    <String id="520051003" string="Restez au sommet !" />
+    <String id="520051004" string="Fédération Valkyon" />
+    <String id="520051501" string="Dieu des combats" />
+    <String id="520051800" string="Restez au sommet !" />
+    <String id="520052001" string="Classique" />
+    <String id="520052002" string="Grand classique" />
+    <String id="520052003" string="Atteindre le niveau 60 sur le serveur classique." />
+    <String id="520052004" string="Une expérience à ne pas manquer !" />
+    <String id="520052005" string="Vagabond temporel" />
+    <String id="520052006" string="Voyage dans le temps" />
+    <String id="520052007" string="Passer au moins 3 heures sur le serveur classique au cours de 30 journées." />
+    <String id="520052008" string="Comment mesurer la durée d'un voyage dans le temps ?" />
+    <String id="520052009" string="Porte-bonheur" />
+    <String id="520052010" string="Porte-bonheur" />
+    <String id="520052011" string="Ceci s'obtient via le magasin d'écus classiques." />
+    <String id="520052012" string="Ceci s'obtient via le magasin d'écus classiques." />
+    <String id="520052013" string="Utiliser l'objet" />
+    <String id="520055001" string="C'est démentiel !" />
+    <String id="520055002" string="Terminez chacun des 6 donjons déments 10 fois durant l'été 2019." />
+    <String id="520055003" string="Les boss des donjons déments n'ont aucune chance contre vous !" />
+    <String id="520055004" string="Héros de la démesure" />
+    <String id="520056001" string="Triomphe estival" />
+    <String id="520056002" string="Terminez chacun des 4 donjons d'évènement 10 fois durant l'été 2019." />
+    <String id="520056003" string="Terminez tous les donjons d'évènement durant l'été 2019." />
+    <String id="520056004" string="Vainqueur éclatant" />
+    <String id="520057001" string="Cauchemar de Fulminar" />
+    <String id="520057002" string="Terminez l'Ascension bathyssale (dément) 77 fois durant l'été 2019." />
+    <String id="520057003" string="C'était un travail de longue haleine !" />
+    <String id="520057004" string="Cauchemar de Fulminar" />
+    <String id="520058001" string="Elindiana Jones" />
+    <String id="520058002" string="Unlocked by completing 8 solo dungeons and forging the complete relic." />
+    <String id="520058003" string="Forge an ancient relic!" />
+    <String id="520058004" string="TERA Team" />
+    <String id="520058501" string="Elindiana Jones" />
+    <String id="520058800" string="Unlocked by completing 8 solo dungeons and forging the complete relic." />
+    <String id="520059001" string="Tour des cauchemars" />
+    <String id="520059002" string="Terminez le Pic de l'effroi (dément) 50 fois durant l'été 2019." />
+    <String id="520059003" string="Même le souverain du Pic de l'effroi tremble devant vous !" />
+    <String id="520059004" string="Équipe TERA" />
+    <String id="520059501" string="Tour des cauchemars" />
+    <String id="520059800" string="Conquérant de Montori" />
+    <String id="520060001" string="Prince des merveilles" />
+    <String id="520060002" string="Maîtrisez Wonderholme (dément) 31 fois durant l'hiver 2019." />
+    <String id="520060003" string="Maîtrisez Wonderholme (dément) 31 fois." />
+    <String id="520060004" string="Équipe TERA" />
+    <String id="520060501" string="Prince des merveilles" />
+    <String id="520060800" string="Maîtrisez Wonderholme (dément) 31 fois." />
+    <String id="520061001" string="Héros tentaculaire" />
+    <String id="520061002" string="Maîtrisez l'Abcès (dément) 77 fois en mai 2020." />
+    <String id="520061003" string="Maîtrisez l'Abcès (dément) 77 fois." />
+    <String id="520061004" string="Équipe TERA" />
+    <String id="520061501" string="Rédempteur" />
+    <String id="520061800" string="Maîtrisez l'Abcès (dément) 77 fois." />
+    <String id="520062001" string="Omelette de la terreur" />
+    <String id="520062002" string="Terminez 20 fois le Nid de Nimistrix (dément) pour Pâques 2020." />
+    <String id="520062003" string="Vous avez terminé 20 fois le Nid de Nimistrix (dément)." />
+    <String id="520062501" string="Terreur de Nimistrix" />
+    <String id="520062800" string="Vous avez terminé 20 fois le Nid de Nimistrix (dément)." />
+    <String id="520064001" string="Maître des éléments" />
+    <String id="520064002" string="Participez à l'évènement noyau élémentaire à l'occasion du 8e anniversaire de TERA en mai 2020." />
+    <String id="520064003" string="Vous avez participé à l'évènement noyau élémentaire à l'occasion du 8e anniversaire de TERA en mai 2020." />
+    <String id="520064501" string="Maître des éléments" />
+    <String id="520064800" string="Vous avez participé à l'évènement noyau élémentaire à l'occasion du 8e anniversaire de TERA en mai 2020." />
+    <String id="520065001" string="[Event] A Rare Catch!" />
+    <String id="520065002" string="Unlocked by creating the Blue Head Shrimp." />
+    <String id="520065003" string="Create the Blue Head Shrimp." />
+    <String id="520065501" string="A Rare Catch" />
+    <String id="520065800" string="Create the Blue Head Shrimp." />
+    <String id="520066001" string="[Exploit] Popori Master" />
+    <String id="520066002" string="Vous obtenez ce titre en atteignant la 1re place 6 fois." />
+    <String id="520066003" string="Vous obtenez ce titre en atteignant la 1re place 6 fois." />
+    <String id="520066004" string="Équipe TERA" />
+    <String id="520066501" string="Popori Master" />
+    <String id="520066800" string="Vous obtenez ce titre en atteignant la 1re place 6 fois." />
+    <String id="520067001" string="[Exploit] Rewards Tier 1 à 4" />
+    <String id="520067002" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier entre 1 et 4." />
+    <String id="520067003" string="Votre Rewards Tier se situait entre 1 et 4." />
+    <String id="520067501" string="Voyageur d'argent" />
+    <String id="520067800" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier entre 1 et 4." />
+    <String id="520068001" string="[Exploit] Rewards Tier 5 à 8" />
+    <String id="520068002" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier entre 5 et 8." />
+    <String id="520068003" string="Votre Rewards Tier se situait entre 5 et 8." />
+    <String id="520068501" string="Voyageur d'or" />
+    <String id="520068800" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier entre 5 et 8." />
+    <String id="520069001" string="[Exploit] Rewards Tier 9" />
+    <String id="520069002" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier de 9." />
+    <String id="520069003" string="Votre Rewards Tier s'élevait à 9." />
+    <String id="520069501" string="Voyageur de platine" />
+    <String id="520069800" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier de 9." />
+    <String id="520070001" string="[Exploit] Rewards Tier 10" />
+    <String id="520070002" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier de 10." />
+    <String id="520070003" string="Votre Rewards Tier s'élevait à 10." />
+    <String id="520070501" string="Voyageur de diamant" />
+    <String id="520070800" string="Ceci est décerné aux joueurs de TERA NA dotés d'un Rewards Tier de 10." />
+    <String id="525000001" string="Lore Apprentice" />
+    <String id="525000002" string="Lore items A, B, C" />
+    <String id="525000003" string="Lore items A, B, C" />
+    <String id="525000004" string="TERA Team" />
+    <String id="525000501" string="Lore Apprentice" />
+    <String id="525000800" string="Lore items A, B, C" />
+    <String id="525001001" string="Lore Master" />
+    <String id="525001002" string="Lore items D, E, F" />
+    <String id="525001003" string="Lore items D, E, F" />
+    <String id="525001004" string="TERA Team" />
+    <String id="525001501" string="Lore Master" />
+    <String id="525001800" string="Lore items D, E, F" />
+    <String id="525002001" string="Lore GrandMaster" />
+    <String id="525002002" string="Lore items G, H, I, J" />
+    <String id="525002003" string="Lore items G, H, I, J" />
+    <String id="525002004" string="TERA Team" />
+    <String id="525002501" string="Lore GrandMaster" />
+    <String id="525002800" string="Lore items G, H, I, J" />
+    <String id="525003001" string="Lore Apprentice 2" />
+    <String id="525003002" string="Lore items A, B, C" />
+    <String id="525003003" string="Lore items A, B, C" />
+    <String id="525003004" string="TERA Team" />
+    <String id="525003501" string="Lore Apprentice" />
+    <String id="525003800" string="Lore items A, B, C" />
+    <String id="525004001" string="Lore Master 2" />
+    <String id="525004002" string="Lore items D, E, F" />
+    <String id="525004003" string="Lore items D, E, F" />
+    <String id="525004004" string="TERA Team" />
+    <String id="525004501" string="Lore Master" />
+    <String id="525004800" string="Lore items D, E, F" />
+    <String id="525005001" string="Lore GrandMaster 2" />
+    <String id="525005002" string="Lore items G, H, I, J" />
+    <String id="525005003" string="Lore items G, H, I, J" />
+    <String id="525005004" string="TERA Team" />
+    <String id="525005501" string="Lore GrandMaster" />
+    <String id="525005800" string="Lore items G, H, I, J" />
+    <String id="525006001" string="Dummy Achievement 1" />
+    <String id="525006002" string="Dummy 1" />
+    <String id="525006003" string="Dummy 1" />
+    <String id="525006004" string="TERA Team" />
+    <String id="525006501" string="Dummy 1" />
+    <String id="525006800" string="Dummy 1" />
+    <String id="525007001" string="Dummy Achievement 2" />
+    <String id="525007002" string="Dummy 2" />
+    <String id="525007003" string="Dummy 2" />
+    <String id="525007004" string="TERA Team" />
+    <String id="525007501" string="Dummy 2" />
+    <String id="525007800" string="Dummy 2" />
+    <String id="525008001" string="Dummy Achievement 3" />
+    <String id="525008002" string="Dummy 3" />
+    <String id="525008003" string="Dummy 3" />
+    <String id="525008004" string="TERA Team" />
+    <String id="525008501" string="Dummy 3" />
+    <String id="525008800" string="Dummy 3" />
+    <String id="525009001" string="Dummy Achievement 4" />
+    <String id="525009002" string="Dummy 4" />
+    <String id="525009003" string="Dummy 4" />
+    <String id="525009004" string="TERA Team" />
+    <String id="525009501" string="Dummy 4" />
+    <String id="525009800" string="Dummy 4" />
+    <String id="525010001" string="Dummy Achievement 5" />
+    <String id="525010002" string="Dummy 5" />
+    <String id="525010003" string="Dummy 5" />
+    <String id="525010004" string="TERA Team" />
+    <String id="525010501" string="Dummy 5" />
+    <String id="525010800" string="Dummy 5" />
+    <String id="525011001" string="Dummy Achievement 6" />
+    <String id="525011002" string="Dummy 6" />
+    <String id="525011003" string="Dummy 6" />
+    <String id="525011004" string="TERA Team" />
+    <String id="525011501" string="Dummy 6" />
+    <String id="525011800" string="Dummy 6" />
+    <String id="525012001" string="Dummy Achievement 7" />
+    <String id="525012002" string="Dummy 7" />
+    <String id="525012003" string="Dummy 7" />
+    <String id="525012004" string="TERA Team" />
+    <String id="525012501" string="Dummy 7" />
+    <String id="525012800" string="Dummy 7" />
+    <String id="525013001" string="Dummy Achievement 8" />
+    <String id="525013002" string="Dummy 8" />
+    <String id="525013003" string="Dummy 8" />
+    <String id="525013004" string="TERA Team" />
+    <String id="525013501" string="Dummy 8" />
+    <String id="525013800" string="Dummy 8" />
+    <String id="525014001" string="Dummy Achievement 9" />
+    <String id="525014002" string="Dummy 9" />
+    <String id="525014003" string="Dummy 9" />
+    <String id="525014004" string="TERA Team" />
+    <String id="525014501" string="Dummy 9" />
+    <String id="525014800" string="Dummy 9" />
+    <String id="525015001" string="Dummy Achievement 10" />
+    <String id="525015002" string="Dummy 10" />
+    <String id="525015003" string="Dummy 10" />
+    <String id="525015004" string="TERA Team" />
+    <String id="525015501" string="Dummy 10" />
+    <String id="525015800" string="Dummy 10" />
+    <String id="525016001" string="Dummy Achievement 11" />
+    <String id="525016002" string="Dummy 11" />
+    <String id="525016003" string="Dummy 11" />
+    <String id="525016004" string="TERA Team" />
+    <String id="525016501" string="Dummy 11" />
+    <String id="525016800" string="Dummy 11" />
+    <String id="525017001" string="Dummy Achievement 12" />
+    <String id="525017002" string="Dummy 12" />
+    <String id="525017003" string="Dummy 12" />
+    <String id="525017004" string="TERA Team" />
+    <String id="525017501" string="Dummy 12" />
+    <String id="525017800" string="Dummy 12" />
+    <String id="525018001" string="Dummy Achievement 13" />
+    <String id="525018002" string="Dummy 13" />
+    <String id="525018003" string="Dummy 13" />
+    <String id="525018004" string="TERA Team" />
+    <String id="525018501" string="Dummy 13" />
+    <String id="525018800" string="Dummy 13" />
+    <String id="525019001" string="Dummy Achievement 14" />
+    <String id="525019002" string="Dummy 14" />
+    <String id="525019003" string="Dummy 14" />
+    <String id="525019004" string="TERA Team" />
+    <String id="525019501" string="Dummy 14" />
+    <String id="525019800" string="Dummy 14" />
+    <String id="525020001" string="Dummy Achievement 15" />
+    <String id="525020002" string="Dummy 15" />
+    <String id="525020003" string="Dummy 15" />
+    <String id="525020004" string="TERA Team" />
+    <String id="525020501" string="Dummy 15" />
+    <String id="525020800" string="Dummy 15" />
+    <String id="525021001" string="Dummy Achievement 16" />
+    <String id="525021002" string="Dummy 16" />
+    <String id="525021003" string="Dummy 16" />
+    <String id="525021004" string="TERA Team" />
+    <String id="525021501" string="Dummy 16" />
+    <String id="525021800" string="Dummy 16" />
+    <String id="525022001" string="Dummy Achievement 17" />
+    <String id="525022002" string="Dummy 17" />
+    <String id="525022003" string="Dummy 17" />
+    <String id="525022004" string="TERA Team" />
+    <String id="525022501" string="Dummy 17" />
+    <String id="525022800" string="Dummy 17" />
+    <String id="525023001" string="Dummy Achievement 18" />
+    <String id="525023002" string="Dummy 18" />
+    <String id="525023003" string="Dummy 18" />
+    <String id="525023004" string="TERA Team" />
+    <String id="525023501" string="Dummy 18" />
+    <String id="525023800" string="Dummy 18" />
+    <String id="525024001" string="Dummy Achievement 19" />
+    <String id="525024002" string="Dummy 19" />
+    <String id="525024003" string="Dummy 19" />
+    <String id="525024004" string="TERA Team" />
+    <String id="525024501" string="Dummy 19" />
+    <String id="525024800" string="Dummy 19" />
+    <String id="525025001" string="Dummy Achievement 20" />
+    <String id="525025002" string="Dummy 20" />
+    <String id="525025003" string="Dummy 20" />
+    <String id="525025004" string="TERA Team" />
+    <String id="525025501" string="Dummy 20" />
+    <String id="525025800" string="Dummy 20" />
+    <String id="525026001" string="[Achievement] Giver of Life" />
+    <String id="525026002" string="You helped En Masse achieve its charity goal! You're a charitable champion!" />
+    <String id="525026003" string="Thank you so much for having a big heart! You helped En Masse achieve our goal of $5000 in charitable donations to help Extra Life - which means you're helping save lives! You truly are the Giver of Life." />
+    <String id="525026004" string="TERA Team" />
+    <String id="525026501" string="Giver of Life" />
+    <String id="525026800" string="Obtain 1 Police Report during event" />
+    <String id="525027001" string="[Achievement] Heart of Gold" />
+    <String id="525027002" string="You donated $35 to Extra Life! You're a charitable chum!" />
+    <String id="525027003" string="Thank you so much for having a Heart of Gold and donating to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your Heart of Gold will help someone in need." />
+    <String id="525027004" string="TERA Team" />
+    <String id="525027501" string="Heart of Gold" />
+    <String id="525027800" string="Obtain 1 Police Report during event" />
+    <String id="525028001" string="[Achievement] Extra Life QT" />
+    <String id="525028002" string="You donated $25 to Extra Life! You're a charitable chum!" />
+    <String id="525028003" string="Thank you so much for being an Extra Life QT and donating to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your donation will help someone in need." />
+    <String id="525028004" string="TERA Team" />
+    <String id="525028501" string="Extra Life QT" />
+    <String id="525028800" string="Obtain 1 Police Report during event" />
+    <String id="525029001" string="The Dragon Fanatic" />
+    <String id="525029002" string="Possess all of the Dragons" />
+    <String id="525029003" string="Possess all of the Dragons" />
+    <String id="525029004" string="TERA Team" />
+    <String id="525029501" string="Prince de l'ordre des dragons" />
+    <String id="525030001" string="Progression : ennemi juré de Vergos" />
+    <String id="525030002" string="Vous déverrouillez ceci en terminant au moins 5 fois la quatrième phase du Passage détruit du Royaume des dieux au cours de l'hiver 2020." />
+    <String id="525030003" string="Terminer 5 fois la phase 4 du Passage détruit du Royaume des dieux" />
+    <String id="525030501" string="Bourreau des dieux" />
+    <String id="525030800" string="Collectez 50 rapports de police pendant l'évènement." />
+    <String id="525031001" string="Progression : vagabond temporel" />
+    <String id="525031002" string="Vous déverrouillez ceci en terminant au moins 100 fois l'Espace-temps de Valona (difficile) au cours de l'hiver 2020." />
+    <String id="525031003" string="Terminer au moins 100 fois l'Espace-temps de Valona (difficile) au cours de l'hiver 2020." />
+    <String id="525031501" string="Seigneur du temps" />
+    <String id="525031800" string="Collectez 50 rapports de police pendant l'évènement." />
+</StrSheet_Achievement>

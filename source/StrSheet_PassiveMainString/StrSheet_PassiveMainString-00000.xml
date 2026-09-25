@@ -1,0 +1,21 @@
+<StrSheet_PassiveMainString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PassiveMainString StrSheet_PassiveMainString.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_PassiveMainString">
+    <StringGroup type="mainString">
+        <String id="1" name="common" string="{type}" />
+        <String id="2" name="me" string="{condition} {prob} {type}" />
+        <String id="3" name="attacked" string="{target} {condition} {prob} {type}" />
+        <String id="4" name="attack" string="{target} {condition} {prob} {type}" />
+        <String id="5" name="attackedExceptTarget" string="{condition} {prob} {type}" />
+        <String id="6" name="attackExceptTarget" string="{condition} {prob} {type}" />
+        <String id="7" name="addProb" string="{prob} {type}" />
+        <String id="8" name="attackedExceptCondition" string="{target} {prob} {type}" />
+        <String id="9" name="attackExceptCondition" string="{target} {prob} {type}" />
+        <String id="10" name="attacked2" string="{abnormal} : quand {target} subis des dégâts, avec une probabilité {type} de {prob}." />
+        <String id="11" name="attack2" string="{abnormal} : quand {target} est touché, avec une probabilité {type} de {prob}." />
+        <String id="12" name="attackedWithAbnormality" string="{abnormal} : {target} {condition} {prob} {type}" />
+        <String id="13" name="attackWithAbnormality" string="{abnormal} : {target} {condition} {prob} {type}" />
+        <String id="14" name="addProbWithAbnormality" string="{abnormal} : {prob} {type}" />
+        <String id="15" name="attackedExceptConditionWithAbnormality" string="{abnormal} : {target} {prob} {type}" />
+        <String id="16" name="attackExceptConditionWithAbnormality" string="{abnormal} : {target} {prob} {type}" />
+        <String id="17" name="attackWithCC" string="{target} {condition} {prob} {type}" />
+    </StringGroup>
+</StrSheet_PassiveMainString>

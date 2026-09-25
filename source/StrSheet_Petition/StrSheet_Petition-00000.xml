@@ -1,0 +1,85 @@
+<StrSheet_Petition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Petition StrSheet_Petition.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Petition">
+    <String id="0" string="Choisir une catégorie" />
+    <String id="100" string="L'équipe de support s'occupe de résoudre les problèmes que les joueurs pourraient rencontrer dans le jeu et n'arrivent pas à régler eux-mêmes. Nous envoyons les solutions sous formes de réponses à vos messages. Afin de permettre un traitement le plus rapide possible, merci de lire attentivement les instructions avant d'envoyer votre requête et veillez à bien remplir tous les champs obligatoires. Les requêtes sont traitées dans leur ordre d'arrivée, sauf en cas d'interruption grave du service. Nous vous demandons de bien vouloir faire preuve de patience, nous nous efforçons de traiter votre demande dans les plus brefs délais. Pour une assistance rapide, veuillez utiliser le site d'assistance client TERA : http://support.fr.tera.gameforge.com, où vous trouverez de nombreuses informations utiles." />
+    <String id="1" string="Connexion/Déplacement" />
+    <String id="101" string="Les problèmes de connexion et de déplacement sont notre priorité. Pour vous épargner une attente inutile lorsque votre personnage ne peut plus se déplacer, essayez d'utiliser un parchemin de téléportation ou la commande de déblocage dans le menu Système avant de soumettre une requête." />
+    <String id="10" string="Plantages/Erreurs de connexion" />
+    <String id="110" string="Certains problèmes externes peuvent causer des messages d'erreur ou des arrêts intempestifs. Vous pouvez résoudre ces problèmes en 1) lançant TERA après avoir fermé tous les autres programmes. 2) Installez ensuite la version la plus récente de DirectX (9.0c ou supérieure). 3) Enfin, mettez à jour les pilotes de votre carte son, votre carte graphique et votre carte mère intégrée, ainsi que votre système d'exploitation." />
+    <String id="1000" string="Nom du personnage" />
+    <String id="11" string="Personnages coincés" />
+    <String id="111" string="Si votre personnage est coincé ou tente de toujours atteindre le même endroit, vous pouvez la plupart du temps vous libérer grâce à un parchemin de téléportation ou via la commande de déblocage située dans le menu Système. Si cela ne résout pas le problème, n'hésitez pas à contacter un GM pour vous aider." />
+    <String id="2" string="Récupération" />
+    <String id="102" string="Nous n'autoriserons la récupération que dans le cas exceptionnel où nous serons en mesure de confirmer clairement au travers des registres de jeu qu'une erreur système a effacé le personnage ou l'objet. N.B. : les personnages perdus pendant le cours normal de l'installation du jeu sont particulièrement difficiles à récupérer." />
+    <String id="20" string="Remarque : nous n'approuverons qu'une récupération par compte tous les 3 mois. Toute demande supplémentaire sera refusée. Cependant, cette limitation ne s'applique pas si vous suspectez un vol de votre compte ou un accès frauduleux. Dans ce cas, prévenez-nous immédiatement !" />
+    <String id="120" string="Les personnages de niveau inférieur ou égal à 4 ne peuvent être récupérés en cas de suppression, vous devrez les créer de nouveau. Nous accordons un délai de 7 jours après suppression pendant lequel vous pouvez vous-même récupérer votre personnage. Un MJ peut vous aider à récupérer un personnage dans les 30 jours après suppression. Au-delà, la suppression est définitive. N.B. : sauf en cas de fraude ou de vol manifeste, nous n'approuverons qu'une récupération par compte tous les 3 mois. Toute demande supplémentaire sera refusée." />
+    <String id="1001" string="Nom du personnage effacé" />
+    <String id="1002" string="Date d'effacement" />
+    <String id="21" string="Récupération d'objet" />
+    <String id="121" string="Nous procéderons à la récupération d'un objet seulement si la perte de cet objet est due à une erreur système selon les registres de jeu. Nous ne récupérerons aucun objet perdu par erreur ou par négligence du joueur envers le règlement du jeu. N.B. : sauf cas de fraude ou de vol manifeste, nous n'autoriserons qu'une seule récupération par compte tous les 3 mois. Toute demande supplémentaire sera refusée." />
+    <String id="1003" string="Objet perdu" />
+    <String id="1004" string="Heure de la perte de l'objet" />
+    <String id="22" string="Autres récupérations" />
+    <String id="122" string="Si votre requête concerne autre chose que les objets et les personnages, veuillez nous expliquer votre problème de la manière la plus détaillée qui soit. Nous communiquer l'heure exacte de la perte améliore grandement nos chances de vous apporter une aide efficace. N.B. : en cas de fraude ou de vol manifeste, nous n'autoriserons qu'une seule récupération par compte tous les 3 mois. Toute demande supplémentaire sera refusée." />
+    <String id="1005" string="Heure de l'évènement" />
+    <String id="3" string="Requêtes liées au jeu" />
+    <String id="103" string="Avez-vous déjà entendu parler de TERAPEDIA, notre site rempli d'infos sur TERA ? Pensez donc à aller y jeter un œil avant de formuler une requête dans le jeu." />
+    <String id="30" string="Aide pour les quêtes" />
+    <String id="130" string="Appuyez sur la touche [L] pour ouvrir le journal de quêtes qui vous informe sur les quêtes et l'emplacement des PNJ. Si vous êtes bloqué{@g:/e} dans une quête, merci de tout d'abord consulter votre journal. Si vous souhaitez tout de même obtenir des renseignements sur une quête, écrivez son titre puis décrivez en détail la section dans laquelle vous rencontrez des difficultés." />
+    <String id="1006" string="Titre de la quête" />
+    <String id="31" string="Demandes diverses" />
+    <String id="131" string="Les MJ ne sont pas autorisés à divulguer des informations liées au jeu ou au scénario (y compris les formules et les données statistiques), en dehors de celles déjà accessibles publiquement sur notre site." />
+    <String id="4" string="Bugs" />
+    <String id="104" string="Lorsque vous signalez un bug, vous rendez un grand service à toute la communauté. Si vous rencontrez un bug pendant le jeu, décrivez-nous en détail le type d'anomalie et ce que vous étiez en train de faire au moment où le bug s'est produit. Ces informations sont nécessaires pour un traitement rapide des bugs." />
+    <String id="40" string="Bugs de PNJ" />
+    <String id="140" string="Si un PNJ n'apparaît pas au cours du jeu, ou si un cadavre ou un PNJ ne disparaît pas au moment voulu, notez l'emplacement du PNJ, son nom et l'heure de l'évènement. Nous pourrons ainsi résoudre ce problème rapidement et vous permettre de poursuivre le jeu normalement." />
+    <String id="1007" string="Nom du PNJ" />
+    <String id="1008" string="Emplacement du PNJ" />
+    <String id="1009" string="Heure de l'évènement" />
+    <String id="41" string="Bugs liés aux objets" />
+    <String id="141" string="Si vous rencontrez un souci lié à un objet au cours du jeu, notez le nom de l'objet et l'heure à laquelle le problème s'est produit. Nous pourrons ainsi le résoudre plus rapidement et vous permettre de poursuivre le jeu normalement." />
+    <String id="1010" string="Nom de l'objet" />
+    <String id="1011" string="Heure de l'évènement" />
+    <String id="42" string="Bugs d'instances ou de donjons" />
+    <String id="142" string="En cas de problèmes liés aux instances ou aux donjons, y compris le non-redémarrage de l'instance ou l'impossibilité d'entrer dans une instance, signalez le nom du donjon, l'heure de l'évènement et ce que vous étiez en train de faire au moment de la survenue du problème. Veuillez nous excuser pour la gêne occasionnée." />
+    <String id="1012" string="Nom du donjon" />
+    <String id="1013" string="Heure de l'évènement" />
+    <String id="43" string="Bugs divers" />
+    <String id="143" string="Si vous pensez avoir rencontré un bug non répertorié par les MJ, merci de nous le décrire en détail. Nous consultons ces rapports régulièrement afin de résoudre les problèmes au plus vite." />
+    <String id="1014" string="Heure de l'évènement" />
+    <String id="5" string="Mauvais comportements" />
+    <String id="105" string="Un joueur au mauvais comportement est quelqu'un qui essaye d'abuser de la confiance des autres joueurs, de leur faire faire des erreurs regrettables ou qui utilise un langage particulièrement vulgaire. Veuillez remplir tous les champs demandés lorsque vous signalez un tel joueur. Nous analysons les données du joueurs dans un tel cas, ce processus peut donc prendre du temps avant que nous ne puissions vous recontacter. Veuillez toutefois noter que nos MJ n'interviendront pas dans les querelles entre joueurs. Cette manière de procéder nous permet de garantir leur équité et leur impartialité." />
+    <String id="50" string="Programmes illégaux" />
+    <String id="150" string="Les programmes illégaux gâchent l'expérience de jeu de toute la communauté, c'est pourquoi nous interdisons formellement leur utilisation. Si vous repérez quelqu'un en train d'utiliser un programme illégal dans TERA, transmettez le nom du personnage et décrivez la situation afin de permettre à nos MJ d'identifier et de prendre les mesures nécessaires contre le coupable. Nous nous devons de rester justes, nous mènerons donc une enquête méticuleuse dans ce sens. Nous vous demandons également d'être patient, l'enquête peut durer plusieurs jours." />
+    <String id="1015" string="Nom du personnage" />
+    <String id="1016" string="Emplacement" />
+    <String id="1017" string="Heure" />
+    <String id="51" string="Fraude" />
+    <String id="151" string="Par fraude, nous entendons toute tentative d'obtenir des objets en manipulant les autres joueurs. Si vous êtes témoin d'une fraude, veuillez immédiatement nous faire part de l'heure de l'évènement et nous décrire la situation. Nous pourrons ainsi traiter la question conformément à notre politique de fonctionnement. Gardez à l'esprit que la négligence et l'avidité des joueurs sont les causes principales de nombreuses fraudes. Les objets perdus en cas de fraude ne sont pas récupérables. Soyez très prudent lorsque vous échangez des objets." />
+    <String id="1018" string="Nom du personnage offensant" />
+    <String id="1019" string="Objet perdu" />
+    <String id="1020" string="Heure de l'évènement" />
+    <String id="52" string="Langage injurieux" />
+    <String id="152" string="Si le langage injurieux ou déplacé d'un joueur vous incommode, signalez-le à un MJ. Nous traiterons le problème conformément à notre règlement. N.B. : si notre enquête révèle que les deux parties ont usé d'un langage vulgaire, toutes deux seront pénalisées. Ne répondez pas aux obscénités ! Signalez-les plutôt à un MJ." />
+    <String id="1021" string="Nom du personnage offensant" />
+    <String id="1022" string="Heure de l'évènement" />
+    <String id="53" string="Spam" />
+    <String id="153" string="Si un joueur vous envoie des messages indésirables ou à tendance publicitaire, signalez-le en indiquant l'heure de l'évènement et le nom du personnage. Le spam est formellement interdit ; nous examinerons les registres du jeu et prendrons les sanctions nécessaires conformément à notre politique de fonctionnement. Nous nous efforçons de toujours vous apporter un environnement de jeu plaisant." />
+    <String id="1023" string="Nom du personnage offensant" />
+    <String id="1024" string="Heure de l'évènement" />
+    <String id="54" string="Autres mauvais comportements" />
+    <String id="154" string="Nos MJ mènent une enquête minutieuse sur chaque mauvais comportement dénoncé, conformément à notre politique interne de fonctionnement. Veuillez toutefois noter que nos MJ n'interviendront pas dans les querelles entre joueurs. Cette manière de procéder nous permet de garantir leur équité et leur impartialité." />
+    <String id="1025" string="Nom du personnage offensant" />
+    <String id="1026" string="Heure de l'évènement" />
+    <String id="6" string="Suggestions" />
+    <String id="106" string="Vous avez une idée de génie ? Partagez-la sur les forums ! Un retour constructif est toujours bienvenu." />
+    <String id="60" string="Suggestions" />
+    <String id="160" string="Rappelez-vous que nous prenons toutes vos suggestions en considération, même celles que nous ne pourrons pas intégrer au jeu. Nous sommes très friands d'idées constructives !" />
+    <String id="7" string="Divers" />
+    <String id="107" string="Nos équipes sont à votre disposition sur le site de support en ligne et sur les forums. Quelle que soit votre question, nous nous attacherons toujours à vous apporter une réponse rapide et pertinente." />
+    <String id="70" string="Demandes diverses" />
+    <String id="170" string="Vous rencontrez un problème particulier ? Un bug énervant et difficile à expliquer ? Lancez une conversation en direct avec nos équipes d'assistance. Elles seront toujours là pour vous aider !" />
+    <String id="12" string="chaînes de caractères Japon" />
+    <String id="112" string="chaînes de caractères Japon" />
+    <String id="23" string="chaînes de caractères Japon" />
+    <String id="123" string="chaînes de caractères Japon" />
+</StrSheet_Petition>

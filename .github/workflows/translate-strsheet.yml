@@ -1,23 +1,21 @@
 name: Translate TERA StrSheet
 
-# Jedna akcja dla pozostalych arkuszy string=.
-# W input_path wpisz folder, np. source/StrSheet_Guild.
-# Nie uruchamiac dla Region, ZoneName, Creature, Abnormality
-# (zostaja po angielsku albo nie wchodza do paczki).
-# QuestDialog, VillagerDialog i EventDialog maja wlasny format <Page>.
+# Jedna akcja na WSZYSTKIE pozostale arkusze string= w source/.
+# Domyslnie input_path=all — nie trzeba odpalac karty po karcie ani XML po XML.
+# Region, ZoneName, Creature, Abnormality i arkusze z wlasnym Action sa pomijane.
 on:
   workflow_dispatch:
     inputs:
       input_path:
-        description: "Folder source/StrSheet_... (np. source/StrSheet_Guild)"
+        description: "all = caly pozostaly source/ naraz. Albo jeden folder, np. source/StrSheet_Achievement"
         required: true
-        default: "source/StrSheet_Guild"
+        default: "all"
       start:
-        description: "Pomin pierwsze N plikow (0 = od poczatku)"
+        description: "Gdy all: pomin pierwsze N folderow. Gdy jeden folder: pomin N plikow"
         required: false
         default: "0"
       count:
-        description: "Ile plikow. 0 = wszystkie pozostale"
+        description: "0 = wszystko. Gdy all: ile folderow w tym jobie"
         required: false
         default: "0"
       batch_size:
@@ -49,7 +47,7 @@ jobs:
       - name: Zainstaluj biblioteki
         run: pip install -r requirements.txt
 
-      - name: Przetlumacz arkusz
+      - name: Przetlumacz arkusze
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -62,8 +60,13 @@ jobs:
         if: always()
         continue-on-error: true
         run: |
-          name=$(basename "${{ inputs.input_path }}")
-          python check_strsheet.py "output/${name}"
+          path="${{ inputs.input_path }}"
+          if [ "$path" = "all" ] || [ "$path" = "source" ]; then
+            python check_strsheet.py output --all
+          else
+            name=$(basename "$path")
+            python check_strsheet.py "output/${name}"
+          fi
 
       - name: Zapisz wynik do repozytorium
         if: always()

@@ -1,0 +1,153 @@
+<StrSheet_VehicleSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill">
+    <String id="1101" name="Salve" templateId="2000" tooltip="Tire un projectile sur votre cible." huntingZoneId="48" />
+    <String id="1201" name="Descendre" templateId="2000" tooltip="Descendre de l'arme de siège." huntingZoneId="48" />
+    <String id="1101" name="Salve" templateId="2001" tooltip="Tire un projectile sur votre cible." huntingZoneId="48" />
+    <String id="1201" name="Descendre" templateId="2001" tooltip="Descendre de l'arme de siège." huntingZoneId="48" />
+    <String id="1101" name="Décollage" templateId="1001" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1201" name="Sauter" templateId="1001" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1102" name="Décollage" templateId="1002" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1202" name="Sauter" templateId="1002" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1103" name="Décollage" templateId="1003" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez pas utiliser cette compétence en vol." huntingZoneId="116" />
+    <String id="1203" name="Sauter" templateId="1003" tooltip="Sautez de l'aéronef." huntingZoneId="116" />
+    <String id="1101" name="Salve" templateId="4000" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1201" name="Descendre" templateId="4000" tooltip="Descendre de l'arme de siège." huntingZoneId="116" />
+    <String id="1301" name="Salve" templateId="4001" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1401" name="Descendre" templateId="4001" tooltip="Descendre de l'arme de siège." huntingZoneId="116" />
+    <String id="1501" name="Salve" templateId="4002" tooltip="Lancez un projectile" huntingZoneId="116" />
+    <String id="1503" name="Descendre" templateId="4002" tooltip="Descendez de l'arme de siège" huntingZoneId="116" />
+    <String id="1501" name="Salve" templateId="4003" tooltip="Lancez un projectile." huntingZoneId="116" />
+    <String id="1503" name="Descendre" templateId="4003" tooltip="Descendez de l'arme de siège" huntingZoneId="116" />
+    <String id="1102" name="Saut ventral" templateId="5000" tooltip="Bondissez sur les ennemis devant vous, en leur infligeant des dégâts énormes et en les ralentissant." huntingZoneId="117" />
+    <String id="1103" name="Fessée" templateId="5000" tooltip="Attaquez trois fois les ennemis puis continuez à leur infliger des dégâts pendant quelques secondes." huntingZoneId="117" />
+    <String id="1104" name="Colère noire" templateId="5000" tooltip="Tirez des boules d'énergie critique qui décrivent un arc devant vous et étourdissent les ennemis." huntingZoneId="117" />
+    <String id="1111" name="Rot retentissant" templateId="5000" tooltip="Cracher des flammes en arc vers l'avant, dont la puissance vous fait reculer." huntingZoneId="117" />
+    <String id="1212" name="Saut arrière" templateId="5000" tooltip="Vous permet de sauter en arrière et d'attaquer les ennemis dans un rayon prédéfini." huntingZoneId="117" />
+    <String id="1318" name="Poings fulgurants" templateId="5000" tooltip="Tirez des coups de roquette qui ralentissent les ennemis dans plusieurs directions." huntingZoneId="117" />
+    <String id="2201" name="Purification de Kumas" templateId="5000" tooltip="Éliminer tous les effets négatifs jetés sur les Kumas amis dans le rayon de la compétence." huntingZoneId="117" />
+    <String id="2202" name="Guérison de Kumas" templateId="5000" tooltip="Restaure les PV des autres Kumas à portée." huntingZoneId="117" />
+    <String id="1102" name="Saut ventral" templateId="6000" tooltip="Bondissez sur les ennemis devant vous, en leur infligeant des dégâts énormes et en les ralentissant." huntingZoneId="117" />
+    <String id="1104" name="Colère" templateId="6000" tooltip="Tirez deux boules d'énergie décrivant un petit arc vers l'avant qui étourdissent les ennemis." huntingZoneId="117" />
+    <String id="1106" name="Rot" templateId="6000" tooltip="Cracher des flammes en arc vers l'avant." huntingZoneId="117" />
+    <String id="1108" name="Coup circulaire à gauche" templateId="6000" tooltip="Asséner un coup à 360° dans le sens des aiguilles d'une montre." huntingZoneId="117" />
+    <String id="1109" name="Coup circulaire à droite" templateId="6000" tooltip="Asséner un coup à 360° dans le sens contraire aux aiguilles d'une montre." huntingZoneId="117" />
+    <String id="1212" name="Retraite" templateId="6000" tooltip="Retraite !" huntingZoneId="117" />
+    <String id="1311" name="Roulé ventral" templateId="6000" tooltip="Attaquez en roulant devant vous et en ralentissant les ennemis que vous écrasez." huntingZoneId="117" />
+    <String id="2201" name="Purification de Kumas" templateId="6000" tooltip="Éliminer tous les effets négatifs jetés sur les Kumas amis dans le rayon de la compétence." huntingZoneId="117" />
+    <String id="6010" name="Roulé arrière" templateId="6000" tooltip="Attaquez en roulant derrière vous et en ralentissant les ennemis que vous écrasez." huntingZoneId="117" />
+    <String id="1103" name="Fessée" templateId="7000" tooltip="Attaquez trois fois les ennemis puis continuez à leur infliger des dégâts pendant quelques secondes." huntingZoneId="117" />
+    <String id="1212" name="Retraite" templateId="7000" tooltip="Retraite !" huntingZoneId="117" />
+    <String id="1103" name="Trio de gifles" templateId="5000" tooltip="Vous attaquez 3 fois dans votre sens de déplacement.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3101" name="À pieds joints" templateId="5000" tooltip="Vous sautez sur place et déclenchez une puissante onde de choc au sol. Les bébés kumas adverses sont temporairement étourdis.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : très rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle du silence" templateId="5000" tooltip="Vous soufflez puissamment vers l'avant. Les bébés kumas touchés par le souffle subissent des dégâts et ne peuvent temporairement utiliser aucune compétence hormis leur attaque standard.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4110" name="Rayon de fureur" templateId="5000" tooltip="Le commandant kumas projette un rayon puissant vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : lente&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4170" name="Pluie de coups de fureur" templateId="5000" tooltip="Vous vous précipitez dans votre sens de déplacement et portez un total de 6 attaques.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4180" name="Saut ventral" templateId="5000" tooltip="Vous faites un grand bond en avant et infligez des dégâts en retombant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1103" name="Trio de gifles" templateId="5001" tooltip="Vous attaquez 3 fois dans votre sens de déplacement.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3101" name="À pieds joints" templateId="5001" tooltip="Vous sautez sur place et déclenchez une puissante onde de choc au sol. Les bébés kumas adverses sont temporairement étourdis.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : très rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle du silence" templateId="5001" tooltip="Vous soufflez puissamment vers l'avant. Les bébés kumas touchés par le souffle subissent des dégâts et ne peuvent temporairement utiliser aucune compétence hormis leur attaque standard.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4110" name="Rayon de fureur" templateId="5001" tooltip="Le commandant kumas projette un rayon puissant vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : lente&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4170" name="Pluie de coups de fureur" templateId="5001" tooltip="Vous vous précipitez dans votre sens de déplacement et portez un total de 6 attaques.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4180" name="Saut ventral" templateId="5001" tooltip="Vous faites un grand bond en avant et infligez des dégâts en retombant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1101" name="Attaque de base" templateId="6000" tooltip="Vous attaquez l'adversaire situé devant vous de vos deux mains.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle infantile" templateId="6000" tooltip="Vous soufflez vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4120" name="Fusée d'artifice" templateId="6000" tooltip="Décochez une fusée d'artifice sur la cible. &lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Puissance d'attaque : forte&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4130" name="Carreau d'énergie" templateId="6000" tooltip="Vous décochez un projectile d'énergie vers l'avant. Vous décochez un projectile d'énergie vers l'avant qui réduit la vitesse de déplacement des adversaires qu'il touche.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : faibles&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4140" name="Claquement des mains" templateId="6000" tooltip="Vous frappez dans vos mains et attaquez.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4150" name="Retraite" templateId="6000" tooltip="Vous faites rapidement marche arrière pour vous mettre hors de danger. Les attaques adverses ne vous infligent pas de dégâts pendant l'esquive.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : -&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4160" name="Roulé ventral" templateId="6000" tooltip="Vous attaquez en roulant vers l'avant. Les attaques adverses ne vous infligent pas de dégâts pendant la roulade.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : faibles&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1103" name="Trio de gifles" templateId="8000" tooltip="Vous attaquez 3 fois dans votre sens de déplacement.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3101" name="À pieds joints" templateId="8000" tooltip="Vous sautez sur place et déclenchez une puissante onde de choc au sol. Les bébés kumas adverses sont temporairement étourdis.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : très rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle du silence" templateId="8000" tooltip="Vous soufflez puissamment vers l'avant. Les bébés kumas touchés par le souffle subissent des dégâts et ne peuvent temporairement utiliser aucune compétence hormis leur attaque standard.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4110" name="Rayon de fureur" templateId="8000" tooltip="Le commandant kumas projette un rayon puissant vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : lente&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4170" name="Pluie de coups de fureur" templateId="8000" tooltip="Vous vous précipitez dans votre sens de déplacement et portez un total de 6 attaques.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4180" name="Saut ventral" templateId="8000" tooltip="Vous faites un grand bond en avant et infligez des dégâts en retombant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1103" name="Trio de gifles" templateId="8001" tooltip="Vous attaquez 3 fois dans votre sens de déplacement.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3101" name="À pieds joints" templateId="8001" tooltip="Vous sautez sur place et déclenchez une puissante onde de choc au sol. Les bébés kumas adverses sont temporairement étourdis.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : très rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle du silence" templateId="8001" tooltip="Vous soufflez puissamment vers l'avant. Les bébés kumas touchés par le souffle subissent des dégâts et ne peuvent temporairement utiliser aucune compétence hormis leur attaque standard.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4110" name="Rayon de fureur" templateId="8001" tooltip="Le commandant kumas projette un rayon puissant vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : lente&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4170" name="Pluie de coups de fureur" templateId="8001" tooltip="Vous vous précipitez dans votre sens de déplacement et portez un total de 6 attaques.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4180" name="Saut ventral" templateId="8001" tooltip="Vous faites un grand bond en avant et infligez des dégâts en retombant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1101" name="Attaque de base" templateId="9000" tooltip="Vous attaquez l'adversaire situé devant vous de vos deux mains.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="3110" name="Souffle infantile" templateId="9000" tooltip="Vous soufflez vers l'avant.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : normaux&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4120" name="Fusée d'artifice" templateId="9000" tooltip="Décochez une fusée d'artifice sur la cible. &lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Puissance d'attaque : forte&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4130" name="Carreau d'énergie" templateId="9000" tooltip="Vous décochez un projectile d'énergie vers l'avant. Vous décochez un projectile d'énergie vers l'avant qui réduit la vitesse de déplacement des adversaires qu'il touche.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : faibles&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4140" name="Claquement des mains" templateId="9000" tooltip="Vous frappez dans vos mains et attaquez.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : rapide&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : puissants&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4150" name="Retraite" templateId="9000" tooltip="Vous faites rapidement marche arrière pour vous mettre hors de danger. Les attaques adverses ne vous infligent pas de dégâts pendant l'esquive.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : -&lt;/font&gt;" huntingZoneId="118" />
+    <String id="4160" name="Roulé ventral" templateId="9000" tooltip="Vous attaquez en roulant vers l'avant. Les attaques adverses ne vous infligent pas de dégâts pendant la roulade.&lt;br&gt;&lt;font color = '#00A0FF'&gt;Vitesse d'incantation : normale&lt;/font&gt;&lt;br&gt;&lt;font color = '#00A0FF'&gt;Dégâts : faibles&lt;/font&gt;" huntingZoneId="118" />
+    <String id="1301" name="Salve" templateId="9005" tooltip="Tire un projectile sur votre cible." huntingZoneId="121" />
+    <String id="1501" name="Descendre" templateId="9005" tooltip="Descendre du canon." huntingZoneId="121" />
+    <String id="1301" name="Salve" templateId="9005" tooltip="Tire un projectile sur votre cible." huntingZoneId="122" />
+    <String id="1501" name="Descendre" templateId="9005" tooltip="Descendre du canon." huntingZoneId="122" />
+    <String id="1301" name="Salve" templateId="9005" tooltip="Tire un projectile sur votre cible." huntingZoneId="123" />
+    <String id="1501" name="Descendre" templateId="9005" tooltip="Descendre du canon." huntingZoneId="123" />
+    <String id="1101" name="Salve" templateId="1601" tooltip="Tirez un projectile sur votre cible." huntingZoneId="191" />
+    <String id="1201" name="Sauter" templateId="1601" tooltip="Descendre du canon." huntingZoneId="191" />
+    <String id="1101" name="Décollage" templateId="1604" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="191" />
+    <String id="1201" name="Sauter" templateId="1604" tooltip="Sautez de l'aéronef." huntingZoneId="191" />
+    <String id="1101" name="Décollage" templateId="1605" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="191" />
+    <String id="1201" name="Sauter" templateId="1605" tooltip="Sautez de l'aéronef." huntingZoneId="191" />
+    <String id="1101" name="Salve" templateId="2999" tooltip="Lancez une bombe à eau sur une cible." huntingZoneId="210" />
+    <String id="1201" name="Descendre" templateId="2999" tooltip="Descendez du canon pulvérisant." huntingZoneId="210" />
+    <String id="1101" name="Salve" templateId="3000" tooltip="Lancez une bombe à eau sur une cible." huntingZoneId="210" />
+    <String id="1201" name="Descendre" templateId="3000" tooltip="Quitte le canon pulvérisant." huntingZoneId="210" />
+    <String id="1101" name="Salve" templateId="4000" tooltip="Vous tirez des projectiles sur une cible.&lt;br&gt;&lt;font color = '#c21919'&gt;Un autre tank peut détruire le tank.&lt;/font&gt;" huntingZoneId="210" />
+    <String id="1201" name="Descendre" templateId="4000" tooltip="Sortez du tank." huntingZoneId="210" />
+    <String id="1101" name="Salve" templateId="8041" tooltip="Tire un projectile sur votre cible." huntingZoneId="425" />
+    <String id="1201" name="Descendre" templateId="8041" tooltip="Descendre du canon." huntingZoneId="425" />
+    <String id="1101" name="Salve" templateId="4000" tooltip="Tire un projectile sur votre cible." huntingZoneId="443" />
+    <String id="1201" name="Descendre" templateId="4000" tooltip="Quitter le canon." huntingZoneId="443" />
+    <String id="1201" name="Descendre" templateId="300" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" name="Salve de courges brutales" templateId="300" tooltip="[Temps de rechargement : 3 secondes]&lt;br&gt;Vous décochez des citrouilles dures comme la pierre sur la cible visée. &lt;br&gt;Les voleurs de sucre touchés perdent 4 % de leurs PV par seconde et engrangent jusqu'à 5 cumuls de fureur." huntingZoneId="447" />
+    <String id="2103" name="Salve de courges molles" templateId="300" tooltip="Vous canardez rapidement la cible visée avec des citrouilles légères." huntingZoneId="447" />
+    <String id="2105" name="Salve de courges étourdissantes" templateId="300" tooltip="[Temps de rechargement : 25 secondes]&lt;br&gt;Vous décochez une étendue de citrouilles étourdissantes en direction de la cible visée. &lt;br&gt;Les voleurs de sucres sont étourdis pendant 5 secondes et ne peuvent donc pas bouger." huntingZoneId="447" />
+    <String id="2107" name="Salve de courges glaciales" templateId="300" tooltip="[Temps de rechargement : 25 secondes]&lt;br&gt;Vous décochez, sur la cible visée, une étendue de citrouilles glaciales qui provoquent des ralentissements. &lt;br&gt;Les voleurs de sucre touchés sont glacés pendant 10 secondes et leur vitesse de déplacement diminue de 70 %." huntingZoneId="447" />
+    <String id="2109" name="Salve de courges ultimes" templateId="300" tooltip="[Temps de rechargement : 40 secondes]&lt;br&gt;Vous décochez, sur la cible visée, une vaste étendue de citrouilles ultimes qui neutralisent tous les adversaires." huntingZoneId="447" />
+    <String id="1201" name="Descendre" templateId="310" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" name="Citrouille de feu" templateId="310" tooltip="Tire un projectile sur votre cible." huntingZoneId="447" />
+    <String id="1201" name="Descendre" templateId="311" tooltip="Quitter le canon." huntingZoneId="447" />
+    <String id="2101" name="Citrouille de feu" templateId="311" tooltip="Tire un projectile sur votre cible." huntingZoneId="447" />
+    <String id="1101" name="Décollage" templateId="5000" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="450" />
+    <String id="1201" name="Sauter" templateId="5000" tooltip="Sautez de l'aéronef." huntingZoneId="450" />
+    <String id="1101" name="Salve" templateId="500" tooltip="Tire un projectile sur votre cible." huntingZoneId="453" />
+    <String id="1201" name="Descendre" templateId="500" tooltip="Quitter le canon." huntingZoneId="453" />
+    <String id="1101" name="Salve" templateId="501" tooltip="Tire un projectile sur votre cible." huntingZoneId="453" />
+    <String id="1201" name="Descendre" templateId="501" tooltip="Quitter le canon." huntingZoneId="453" />
+    <String id="1101" name="Tirer un boulet" templateId="4000" tooltip="Tire un boulet de canon sur l'endroit visé." huntingZoneId="643" />
+    <String id="1201" name="Descendre" templateId="4000" tooltip="Descendre du canon." huntingZoneId="643" />
+    <String id="1101" name="Salve" templateId="8041" tooltip="Tire un projectile sur votre cible." huntingZoneId="725" />
+    <String id="1201" name="Descendre" templateId="8041" tooltip="Descendre du canon." huntingZoneId="725" />
+    <String id="1101" name="Salve" templateId="4000" tooltip="Tire un projectile sur votre cible." huntingZoneId="743" />
+    <String id="1201" name="Descendre" templateId="4000" tooltip="Vous fait descendre du canon." huntingZoneId="743" />
+    <String id="1101" name="Décollage" templateId="5000" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5000" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5001" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5001" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5002" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5002" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5003" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5003" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5004" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5004" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5005" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5005" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5006" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5006" tooltip="Sautez de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5007" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5007" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5008" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5008" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Décollage" templateId="5009" tooltip="Préparez l'aéronef au décollage. Vous ne pouvez utiliser cette compétence en vol." huntingZoneId="750" />
+    <String id="1201" name="Sauter" templateId="5009" tooltip="Sautez hors de l'aéronef." huntingZoneId="750" />
+    <String id="1101" name="Salve" templateId="885158" tooltip="Tire un projectile sur votre cible." huntingZoneId="885" />
+    <String id="1201" name="Descendre" templateId="885158" tooltip="Descendre du canon." huntingZoneId="885" />
+    <String id="4120" name="Salve répétée" templateId="2003" tooltip="Vous décochez plusieurs flèches consécutives. L'effet est particulièrement efficace." huntingZoneId="950" />
+    <String id="4130" name="Décocher une flèche" templateId="2003" tooltip="Vous décochez une flèche devant vous. Si vous touchez 10 fois votre cible avec la flèche, vous pouvez utiliser la compétence [Salve répétée]." huntingZoneId="950" />
+    <String id="4160" name="Intervention rapide" templateId="2003" tooltip="Augmente votre vitesse de déplacement de manière explosive." huntingZoneId="950" />
+    <String id="4500" name="Descendre" templateId="2003" tooltip="Vous descendez de la catapulte." huntingZoneId="950" />
+    <String id="4120" name="Salve répétée" templateId="2005" tooltip="Vous décochez plusieurs flèches consécutives. L'effet est particulièrement efficace." huntingZoneId="950" />
+    <String id="4130" name="Décocher une flèche" templateId="2005" tooltip="Vous décochez une flèche devant vous. Si vous touchez 10 fois votre cible avec la flèche, vous pouvez utiliser la compétence [Salve répétée]." huntingZoneId="950" />
+    <String id="4160" name="Intervention rapide" templateId="2005" tooltip="Augmente votre vitesse de déplacement de manière explosive." huntingZoneId="950" />
+    <String id="4500" name="Descendre" templateId="2005" tooltip="Vous descendez de la catapulte." huntingZoneId="950" />
+    <String id="1101" name="Salve" templateId="3000007" tooltip="Tire un projectile sur votre cible." huntingZoneId="1023" />
+    <String id="1201" name="Descendre" templateId="3000007" tooltip="Descendre du canon." huntingZoneId="1023" />
+</StrSheet_VehicleSkill>

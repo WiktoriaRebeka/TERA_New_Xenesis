@@ -1,0 +1,320 @@
+<StrSheet_EquipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData StrSheet_EquipmentSetData.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData">
+    <String id="8001" string="Armes du mécène." />
+    <String id="8003" string="Plastron du mécène" />
+    <String id="8004" string="Gants du mécène." />
+    <String id="8005" string="Chaussures du mécène" />
+    <String id="8011" string="Armes du Dévastateur" />
+    <String id="8013" string="Plastron du Dévastateur" />
+    <String id="8014" string="Gants du Dévastateur" />
+    <String id="8015" string="Chaussures du Dévastateur" />
+    <String id="8021" string="Arme archétypique" />
+    <String id="8023" string="Plastron archétypique." />
+    <String id="8024" string="Gants archétypiques" />
+    <String id="8025" string="Chaussures archétypiques" />
+    <String id="8036" string="Boucle d'oreille écusson" />
+    <String id="8037" string="Boucle d'oreille écusson" />
+    <String id="8038" string="Anneau écusson" />
+    <String id="8039" string="Anneau écusson" />
+    <String id="8046" string="Boucle d'oreille persécutrice" />
+    <String id="8047" string="Boucle d'oreille persécutrice" />
+    <String id="8048" string="Anneau persécuteur" />
+    <String id="8049" string="Anneau persécuteur" />
+    <String id="8056" string="Boucle d'oreille de Melior" />
+    <String id="8057" string="Boucle d'oreille de Melior" />
+    <String id="8058" string="Anneau de Melior" />
+    <String id="8059" string="Anneau de Melior" />
+    <String id="8066" string="Boucle d'Oreille Tournesoleil" />
+    <String id="8067" string="Boucle d'oreille tournesoleil" />
+    <String id="8068" string="Anneau Tournesoleil" />
+    <String id="8069" string="Anneau Tournesoleil" />
+    <String id="8076" string="Boucle d'Oreille Tournemer" />
+    <String id="8077" string="Boucle d'Oreille Tournemer" />
+    <String id="8078" string="Anneau Tournemer" />
+    <String id="8079" string="Anneau Tournemer" />
+    <String id="8086" string="Boucle d'Oreille Tournesable" />
+    <String id="8087" string="Boucle d'Oreille Tournesable" />
+    <String id="8088" string="Anneau Tournesable" />
+    <String id="8089" string="Anneau Tournesable" />
+    <String id="8091" string="Armes providentielles" />
+    <String id="8093" string="Plastron providentiel" />
+    <String id="8094" string="Gants providentiels" />
+    <String id="8095" string="Chaussures providentielles" />
+    <String id="8101" string="Armes privilégiées" />
+    <String id="8103" string="Plastron privilégié" />
+    <String id="8104" string="Gants privilégiés" />
+    <String id="8105" string="Chaussures privilégiées" />
+    <String id="8111" string="Armes surdouées" />
+    <String id="8113" string="Plastron surdoué" />
+    <String id="8114" string="Gants surdoués" />
+    <String id="8115" string="Chaussures surdouées" />
+    <String id="8201" string="Arme de test" />
+    <String id="8202" string="Armure de test" />
+    <String id="8203" string="Gants de test" />
+    <String id="8204" string="Chaussures de test" />
+    <String id="8205" string="Ceinture de test" />
+    <String id="9001" string="Arme d'envergure" />
+    <String id="9003" string="Armure d'envergure" />
+    <String id="9004" string="Gants d'envergure" />
+    <String id="9005" string="Chaussures d'envergure" />
+    <String id="9011" string="Arme de la découverte" />
+    <String id="9013" string="Armure de la découverte" />
+    <String id="9014" string="Gants de la découverte" />
+    <String id="9015" string="Chaussures de la découverte" />
+    <String id="9021" string="Arme générationnelle" />
+    <String id="9023" string="Armure générationnelle" />
+    <String id="9024" string="Gants générationnels" />
+    <String id="9025" string="Chaussures générationnelles" />
+    <String id="9036" string="Boucle d'oreille de la mélodie forestière" />
+    <String id="9037" string="Boucle d'oreille de la mélodie forestière" />
+    <String id="9038" string="Anneau de la mélodie forestière" />
+    <String id="9039" string="Anneau de la mélodie forestière" />
+    <String id="9046" string="Boucle d'oreille de la mélodie de feu" />
+    <String id="9047" string="Boucle d'oreille de la mélodie de feu" />
+    <String id="9048" string="Anneau de la mélodie de feu" />
+    <String id="9049" string="Anneau de la mélodie de feu" />
+    <String id="9056" string="Boucle d'oreille de la mélodie du ruisseau" />
+    <String id="9057" string="Boucle d'oreille de la mélodie du ruisseau" />
+    <String id="9058" string="Anneau de la mélodie du ruisseau" />
+    <String id="9059" string="Anneau de la mélodie du ruisseau" />
+    <String id="9061" string="Arme polémique" />
+    <String id="9063" string="Armure polémique" />
+    <String id="9064" string="Gants polémiques" />
+    <String id="9065" string="Chaussures polémiques" />
+    <String id="9071" string="Arme de bravade" />
+    <String id="9073" string="Armure de bravade" />
+    <String id="9074" string="Gants de bravade" />
+    <String id="9075" string="Chaussures de bravade" />
+    <String id="9081" string="Arme renégate" />
+    <String id="9083" string="Armure renégate" />
+    <String id="9084" string="Gants renégats" />
+    <String id="9085" string="Chaussures renégates" />
+    <String id="9096" string="Boucle d'oreille du sage de sang" />
+    <String id="9097" string="Boucle d'oreille du sage de sang" />
+    <String id="9098" string="Anneau du sage de sang" />
+    <String id="9099" string="Anneau du sage de sang" />
+    <String id="9106" string="Boucle d'oreille du sage de glace" />
+    <String id="9107" string="Boucle d'oreille du sage de glace" />
+    <String id="9108" string="Anneau du sage de glace" />
+    <String id="9109" string="Anneau du sage de glace" />
+    <String id="9116" string="Boucle d'oreille du sage de mort" />
+    <String id="9117" string="Boucle d'oreille du sage de mort" />
+    <String id="9118" string="Anneau du sage de mort" />
+    <String id="9119" string="Boucle d'oreille du sage de mort" />
+    <String id="9121" string="Arme idonéale" />
+    <String id="9123" string="Armure idonéale" />
+    <String id="9124" string="Gants idonéaux" />
+    <String id="9125" string="Chaussures idonéales" />
+    <String id="10001" string="Arme courroucée" />
+    <String id="10003" string="Armure courroucée" />
+    <String id="10004" string="Gants courroucés" />
+    <String id="10005" string="Chaussures courroucées" />
+    <String id="10011" string="Arme de dissidence" />
+    <String id="10013" string="Armure de dissidence" />
+    <String id="10014" string="Gants de dissidence" />
+    <String id="10015" string="Chaussures de dissidence" />
+    <String id="10021" string="Arme lucide" />
+    <String id="10023" string="Armure lucide" />
+    <String id="10024" string="Gants lucides" />
+    <String id="10025" string="Chaussures lucides" />
+    <String id="10036" string="Boucle d'oreille du temps du courroux" />
+    <String id="10037" string="Boucle d'oreille du temps du courroux" />
+    <String id="10038" string="Anneau du temps du courroux" />
+    <String id="10039" string="Anneau du temps du courroux" />
+    <String id="10046" string="Boucle d'oreille du temps de fureur" />
+    <String id="10047" string="Boucle d'oreille du temps de fureur" />
+    <String id="10048" string="Anneau du temps de fureur" />
+    <String id="10049" string="Anneau du temps de fureur" />
+    <String id="10056" string="Boucle d'oreille du temps de force" />
+    <String id="10057" string="Boucle d'oreille du temps de force" />
+    <String id="10058" string="Anneau du temps de force" />
+    <String id="10059" string="Anneau du temps de force" />
+    <String id="10061" string="Arme d'incartade" />
+    <String id="10063" string="Armure d'incartade" />
+    <String id="10064" string="Gants d'incartade" />
+    <String id="10065" string="Chaussures d'incartade" />
+    <String id="10066" string="Boucle d'oreille du temps de vie" />
+    <String id="10067" string="Boucle d'oreille du temps de vie" />
+    <String id="10068" string="Anneau du temps de vie" />
+    <String id="10069" string="Anneau du temps de vie" />
+    <String id="10071" string="Arme crispée" />
+    <String id="10073" string="Armure crispée" />
+    <String id="10074" string="Gants crispés" />
+    <String id="10075" string="Chaussures crispées" />
+    <String id="10081" string="Arme fulminante" />
+    <String id="10083" string="Armure fulminante" />
+    <String id="10084" string="Gants fulminants" />
+    <String id="10085" string="Chaussures fulminantes" />
+    <String id="10091" string="Arme du conflit" />
+    <String id="10093" string="Armure du conflit" />
+    <String id="10094" string="Gants du conflit" />
+    <String id="10095" string="Chaussures du conflit" />
+    <String id="10096" string="Boucle d'oreille du conflit" />
+    <String id="10097" string="Boucle d'oreille du conflit" />
+    <String id="10098" string="Anneau du conflit" />
+    <String id="10099" string="Anneau du conflit" />
+    <String id="11001" string="" />
+    <String id="11003" string="" />
+    <String id="11004" string="" />
+    <String id="11005" string="" />
+    <String id="11011" string="Arme du Cuirassé" />
+    <String id="11013" string="Armure corporelle du Cuirassé" />
+    <String id="11014" string="Manches du Cuirassé" />
+    <String id="11015" string="Chaussures du Cuirassé" />
+    <String id="11021" string="Arme étoilée" />
+    <String id="11023" string="Armure étoilée" />
+    <String id="11024" string="Manches étoilées" />
+    <String id="11025" string="Chaussures étoilées" />
+    <String id="11036" string="Boucle d'oreille du Brigantin ou de la Frégate" />
+    <String id="11037" string="Boucle d'oreille du Brigantin ou de la Frégate" />
+    <String id="11038" string="Anneau du Brigantin ou de la Frégate" />
+    <String id="11039" string="Anneau du Brigantin ou de la Frégate" />
+    <String id="11046" string="Boucle d'oreille de la Vedette ou de la Corvette" />
+    <String id="11047" string="Boucle d'oreille de la Vedette ou de la Corvette" />
+    <String id="11048" string="Anneau de la Vedette ou de la Corvette" />
+    <String id="11049" string="Anneau de la Vedette ou de la Corvette" />
+    <String id="11056" string="Boucle d'oreille de la Galère ou du Galion" />
+    <String id="11057" string="Boucle d'oreille de la Galère ou du Galion" />
+    <String id="11058" string="Anneau de la Galère ou du Galion" />
+    <String id="11059" string="Anneau de la Galère ou du Galion" />
+    <String id="11066" string="Boucle d'oreille du Pinasse ou de la Flotte" />
+    <String id="11067" string="Boucle d'oreille du Pinasse ou de la Flotte" />
+    <String id="11068" string="Anneau du Pinasse ou de la Flotte" />
+    <String id="11069" string="Anneau du Pinasse ou de la Flotte" />
+    <String id="11070" string="Boucle d'oreilles tranchante du héros radieux" />
+    <String id="11071" string="Anneau tranchant du héros radieux" />
+    <String id="11072" string="Boucle d'oreilles puissante du héros radieux" />
+    <String id="11073" string="Anneau puissant du héros radieux" />
+    <String id="11075" string="Arme du héros radieux" />
+    <String id="11076" string="Armure du héros radieux" />
+    <String id="11077" string="Gants du héros radieux" />
+    <String id="11078" string="Chaussures du héros radieux" />
+    <String id="11116" string="Boucle d'oreilles tranchante des perles de sang" />
+    <String id="11117" string="Boucle d'oreilles tranchante des perles de sang" />
+    <String id="11118" string="Anneau tranchant des perles de sang" />
+    <String id="11119" string="Anneau tranchant des perles de sang" />
+    <String id="11126" string="Boucle d'oreilles puissante des perles de sang" />
+    <String id="11127" string="Boucle d'oreilles puissante des perles de sang" />
+    <String id="11128" string="Anneau puissant des perles de sang" />
+    <String id="11129" string="Anneau puissant des perles de sang" />
+    <String id="11131" string="Arme de Verno" />
+    <String id="11133" string="Armure de Verno" />
+    <String id="11134" string="Gants de Verno" />
+    <String id="11135" string="Chaussures de Verno" />
+    <String id="11141" string="Arme vindicative du Forgeron" />
+    <String id="11143" string="Armure vindicative du Forgeron" />
+    <String id="11144" string="Gants vindicatifs du Forgeron" />
+    <String id="11145" string="Chaussures vindicatives du Forgeron" />
+    <String id="11151" string="Arme de Lilitas" />
+    <String id="11153" string="Armure de Lilitas" />
+    <String id="11154" string="Gants de Lilitas" />
+    <String id="11155" string="Chaussures de Lilitas" />
+    <String id="11161" string="Arme attrayante du forgeron" />
+    <String id="11163" string="Armure attrayante du forgeron" />
+    <String id="11164" string="Gants attrayants du forgeron" />
+    <String id="11165" string="Chaussures attrayantes du forgeron" />
+    <String id="11171" string="Arme de Vergos" />
+    <String id="11173" string="Armure de Vergos" />
+    <String id="11174" string="Gants de Vergos" />
+    <String id="11175" string="Chaussures de Vergos" />
+    <String id="11185" string="Collier meurtrier de Lachelitas" />
+    <String id="11186" string="Boucle d'oreille meurtrière de Lachelitas" />
+    <String id="11187" string="Boucle d'oreille meurtrière de Lachelitas" />
+    <String id="11188" string="Anneau meurtrier de Lachelitas" />
+    <String id="11189" string="Anneau meurtrier de Lachelitas" />
+    <String id="11195" string="Collier puissant de Lachelitas" />
+    <String id="11196" string="Boucle d'oreille puissante de Lachelitas" />
+    <String id="11197" string="Boucle d'oreille puissante de Lachelitas" />
+    <String id="11198" string="Anneau puissant de Lachelitas" />
+    <String id="11199" string="Anneau puissant de Lachelitas" />
+    <String id="11200" string="Boucle d'oreille meurtrière du Guerrier impitoyable" />
+    <String id="11201" string="Anneau meurtrier du Guerrier impitoyable" />
+    <String id="11203" string="Collier meurtrier du Guerrier impitoyable" />
+    <String id="11211" string="Boucle d'oreille puissante du Guerrier impitoyable" />
+    <String id="11212" string="Anneau puissant du Guerrier impitoyable" />
+    <String id="11213" string="Collier puissant du Guerrier impitoyable" />
+    <String id="11221" string="Arme de Veldeg" />
+    <String id="11223" string="Armure de Veldeg" />
+    <String id="11224" string="Gants de Veldeg" />
+    <String id="11225" string="Chaussures de Veldeg" />
+    <String id="11231" string="Arme impitoyable du forgeron" />
+    <String id="11233" string="Armure impitoyable du forgeron" />
+    <String id="11234" string="Gants impitoyables du forgeron" />
+    <String id="11235" string="Chaussures impitoyables du forgeron" />
+    <String id="11241" string="Arme du dragon ténébreux" />
+    <String id="11243" string="Armure du dragon ténébreux" />
+    <String id="11244" string="Gants du dragon ténébreux" />
+    <String id="11245" string="Chaussures du dragon ténébreux" />
+    <String id="11255" string="Collier meurtrier de Lakan" />
+    <String id="11256" string="Boucle d'oreille meurtrière de Lakan" />
+    <String id="11257" string="Boucle d'oreille meurtrière de Lakan" />
+    <String id="11258" string="Anneau meurtrier de Lakan" />
+    <String id="11259" string="Anneau meurtrier de Lakan" />
+    <String id="11265" string="Collier puissant de Lakan" />
+    <String id="11266" string="Boucle d'oreille puissante de Lakan" />
+    <String id="11267" string="Boucle d'oreille puissante de Lakan" />
+    <String id="11268" string="Anneau puissant de Lakan" />
+    <String id="11269" string="Anneau puissant de Lakan" />
+    <String id="11270" string="Boucle d'oreille meurtrière du matador" />
+    <String id="11271" string="Anneau meurtrier du matador" />
+    <String id="11273" string="Collier meurtrier du matador" />
+    <String id="11281" string="Boucle d'oreille puissante du matador" />
+    <String id="11282" string="Anneau puissant du matador" />
+    <String id="11283" string="Collier puissant du matador" />
+    <String id="11284" string="[Amplification I] Ceinture de fureur criarde (serment héroïque)" />
+    <String id="11285" string="[Amplification I] Collier de vérité (transcendance)" />
+    <String id="11286" string="[Amplification I] Boucles d'oreilles d'éternité" />
+    <String id="11287" string="[Amplification I] Boucles d'oreilles d'éternité" />
+    <String id="11288" string="[Amplification I] Anneau d'immortalité (transcendance)" />
+    <String id="11289" string="[Amplification I] Anneau d'immortalité (transcendance)" />
+    <String id="11290" string="[Amplification I] Serre-tête d'honneur (transcendance)" />
+    <String id="11291" string="[Amplification II] Collier de transcendance" />
+    <String id="11292" string="[Amplification II] Boucles d'oreilles de transcendance" />
+    <String id="11293" string="[Amplification II] Boucles d'oreilles de transcendance" />
+    <String id="11294" string="[Amplification II] Anneau de transcendance" />
+    <String id="11295" string="[Amplification II] Anneau de transcendance" />
+    <String id="11296" string="Armure d'Immortalis" />
+    <String id="11297" string="Foulard d'Immortalis" />
+    <String id="80019" string="Ceinture du mécène" />
+    <String id="80119" string="Ceinture du Dévastateur" />
+    <String id="80610" string="Collier tournesoleil" />
+    <String id="80710" string="Collier tournemer" />
+    <String id="80810" string="Collier tournesable" />
+    <String id="80919" string="Ceinture providentielle" />
+    <String id="81019" string="Ceinture privilégiée" />
+    <String id="81119" string="Ceinture surdouée" />
+    <String id="90010" string="[Durée limitée] Arme d'envergure" />
+    <String id="90019" string="Ceinture d'envergure" />
+    <String id="90030" string="[Durée limitée] Armure d'envergure" />
+    <String id="90040" string="[Durée limitée] Gants d'envergure" />
+    <String id="90050" string="[Durée limitée] Chaussures d'envergure" />
+    <String id="90110" string="[Durée limitée] Arme de la découverte" />
+    <String id="90119" string="Ceinture de la découverte" />
+    <String id="90130" string="[Durée limitée] Armure de la découverte" />
+    <String id="90140" string="[Durée limitée] Gants de la découverte" />
+    <String id="90150" string="[Durée limitée] Chaussures de la découverte" />
+    <String id="90619" string="Ceinture polémique" />
+    <String id="90719" string="Ceinture de bravade" />
+    <String id="90819" string="Ceinture renégate" />
+    <String id="91219" string="Ceinture idonéale" />
+    <String id="100019" string="Ceinture courroucée" />
+    <String id="100119" string="Ceinture de dissidence" />
+    <String id="100219" string="Ceinture lucide" />
+    <String id="100619" string="Ceinture d'incartade" />
+    <String id="100719" string="Ceinture crispée" />
+    <String id="100819" string="Ceinture fulminante" />
+    <String id="100919" string="Ceinture du conflit" />
+    <String id="110019" string="Ceinture du conquérant" />
+    <String id="110119" string="Ceinture du Cuirassé" />
+    <String id="110219" string="Ceinture étoilée" />
+    <String id="110759" string="Ceinture du héros radieux" />
+    <String id="111319" string="Ceinture de Verno" />
+    <String id="111419" string="Ceinture vindicative du Forgeron" />
+    <String id="111519" string="Ceinture de Lilitas" />
+    <String id="111619" string="Ceinture attrayante du forgeron" />
+    <String id="111719" string="Ceinture de Vergos" />
+    <String id="112219" string="Ceinture de Veldeg" />
+    <String id="112319" string="Ceinture impitoyable du forgeron" />
+    <String id="112419" string="Ceinture du dragon ténébreux" />
+    <String id="900190" string="[Durée limitée] Ceinture d'envergure" />
+    <String id="901190" string="[Durée limitée] Ceinture de la découverte" />
+</StrSheet_EquipmentSetData>

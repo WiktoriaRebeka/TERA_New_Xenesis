@@ -1,0 +1,6 @@
+<StrSheet_GameStat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_GameStat StrSheet_GameStat.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_GameStat">
+    <String string="Latence : {ICON} {TIME} ms" readableId="SMT_GAMESTAT_PING" />
+    <String string="Vous êtes {@gender:connecté/connectée} depuis :" readableId="SMT_GAMESTAT_CURRENT_SESSION" />
+    <String string="Temps de jeu total pour ce personnage :" readableId="SMT_GAMESTAT_TOTAL_PLAYTIME" />
+    <String string="Heure du serveur :" readableId="SMT_GAMESTAT_SERVER_TIME" />
+</StrSheet_GameStat>

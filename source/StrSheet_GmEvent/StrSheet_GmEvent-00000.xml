@@ -1,0 +1,50 @@
+<StrSheet_GmEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_GmEvent StrSheet_GmEvent.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_GmEvent">
+    <String id="1" string="Roi du quiz OX de TERA" />
+    <String id="2" string="Récompense du quiz OX" />
+    <String id="3" string="Merci d'avoir participé au quiz OX. Acceptez ce cadeau !" />
+    <String id="4" string="Vous avez répondu correctement à la question spéciale du quiz OX ! Acceptez ce cadeau !" />
+    <String id="10" string="Vous avez donné {Value} bonnes réponses !" />
+    <String id="11" string="Vous avez répondu correctement à la question spéciale !" />
+    <String id="20" string="Jusqu'au lancement : {Time}" />
+    <String id="21" string="L'évènement est en cours !" />
+    <String id="22" string="La fin est proche\n({UserCount} places libres)" />
+    <String id="23" string="Terminé" />
+    <String id="24" string="Nombre de participations restantes : {Count} fois" />
+    <String id="25" string="Vous avez participé à tous les évènements." />
+    <String id="30" string="Le quiz OX s'est achevé !" />
+    <String id="31" string="Tous les participants à l'évènement reçoivent un cadeau." />
+    <String id="40" string="En cours" />
+    <String id="41" string="Fermé" />
+    <String id="42" string="Le nombre de participations a été dépassé" />
+    <String id="100" string="0" />
+    <String id="101" string="1" />
+    <String id="102" string="2" />
+    <String id="103" string="3" />
+    <String id="104" string="4" />
+    <String id="105" string="5" />
+    <String id="106" string="6" />
+    <String id="107" string="7" />
+    <String id="108" string="8" />
+    <String id="109" string="9" />
+    <String id="110" string="10" />
+    <String id="111" string="Question" />
+    <String id="112" string="Réponse" />
+    <String id="201" string="Salut ! Bienvenue dans l'arène de jeu OX." />
+    <String id="202" string="Le quiz OX va bientôt commencer." />
+    <String id="203" string="Vous disposez de 15 secondes pour répondre par O ou X." />
+    <String id="204" string="Les cadeaux sont distribués à la fin du jeu. Encore un peu de patience !" />
+    <String id="205" string="Si vous échouez, vous pouvez participer au tour de consolation. Continuez donc à jouer jusqu'à la fin !" />
+    <String id="206" string="Le jeu commence !" />
+    <String id="207" string="Vous devez vous trouvez dans la case." />
+    <String id="300" string="Votre réponse est incorrecte. Allez patienter sur la tribune principale." />
+    <String id="301" string="Cette question fait partie du tour de consolation !" />
+    <String id="302" string="À tous les perdants : vous avez 15 secondes pour choisir O ou X !" />
+    <String id="303" string="Bonne réponse !" />
+    <String id="304" string="Bonne réponse ! Vous allez être transporté dans l'arène !" />
+    <String id="400" string="Déplacez-vous vers la bonne réponse !" />
+    <String id="401" string="Choisissez votre réponse et cliquez sur le bouton &quot;confirmer&quot; !" />
+    <String id="1001" string="En ce moment, {AliveUser} joueurs sont de la partie !" />
+    <String id="2000" string="Total : {AllUser}\nJoueurs actuels : {AliveUser}\nParticipants au tour de consolation :{DeathUser}\nQuestions de quiz :{QuizCount}" />
+    <String id="2001" string="Aucun évènement disponible." />
+    <String id="10000" string="Quiz OX" />
+</StrSheet_GmEvent>

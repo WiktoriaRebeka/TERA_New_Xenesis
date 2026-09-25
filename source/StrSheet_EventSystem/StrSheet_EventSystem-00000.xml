@@ -1,0 +1,15 @@
+<StrSheet_EventSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EventSystem StrSheet_EventSystem.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EventSystem">
+    <String id="1" string="Évènement de donjon" />
+    <String id="2" string="Évènement de champ de bataille" />
+    <String id="3" string="Évènement de progression" />
+    <String id="4" string="Évènement de temps de jeu" />
+    <String id="5" string="Évènement de niveaux d'équipement" />
+    <String id="6" string="Évènement de monstres" />
+    <String id="101" string="Terminez {DungeonName} {TargetCount}x." />
+    <String id="102" string="Terminez {BattleFieldName} {TargetCount}x." />
+    <String id="103" string="Atteignez le niveau {TargetCount}." />
+    <String id="104" string="Jouez pendant {PlayTime}." />
+    <String id="105" string="Atteignez le niveau d'équipement {TargetCount}." />
+    <String id="106" string="Éliminez {TargetList} monstres dont la différence de niveau est inférieure à {TargetCount}." />
+    <String id="1001" string="Voir la récompense" />
+</StrSheet_EventSystem>

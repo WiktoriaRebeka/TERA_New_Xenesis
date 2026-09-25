@@ -1,0 +1,88 @@
+<StrSheet_SlashCommand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_SlashCommand StrSheet_SlashCommand.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_SlashCommand">
+    <Command id="16" name="saluer" alias="bonjour,salut,wave,hi,hello" />
+    <Command id="17" name="révérence" alias="reverence,bienvenue,poli,bow" />
+    <Command id="18" name="triste" alias="pleurer, sangloter" />
+    <Command id="19" name="heureux" alias="rire, lol" />
+    <Command id="20" name="victoire" alias="victory" />
+    <Command id="21" name="danser" alias="dance" />
+    <Command id="22" name="provoquer" alias="taunt" />
+    <Command id="23" name="applaudir" alias="clap" />
+    <Command id="24" name="supplier" alias="désolé,desole,sorry" />
+    <Command id="25" name="penser" alias="think" />
+    <Command id="26" name="aimer" alias="love" />
+    <Command id="27" name="charger" alias="attack" />
+    <Command id="28" name="montrer" alias="point" />
+    <Command id="29" name="rougir" alias="timide,shy" />
+    <Command id="30" name="colère" alias="colere,rage,angry" />
+    <Command id="38" name="s'asseoir" alias="sit" />
+    <Command id="39" name="selever" />
+    <Command id="101" name="Échanger" alias="échanger,commerce,trade" interactionMenuName="Commerce" />
+    <Command id="102" name="Voir profil" alias="voirprofil,profil,profile" />
+    <Command id="104" name="duel" alias="défi,defi" interactionMenuName="Duel" />
+    <Command id="105" name="capituler" alias="abandonner,serendre,yield" />
+    <Command id="107" name="position" alias="ping,location" />
+    <Command id="201" name="inviter" alias="inv,invite" interactionMenuName="Inviter dans le groupe" />
+    <Command id="202" name="Quitter" alias="laisser,drop" />
+    <Command id="203" name="Exclure" alias="expulser,kick" interactionMenuName="Exclure" />
+    <Command id="204" name="Dissoudre le groupe" />
+    <Command id="205" name="Promouvoir chef" alias="chef,promouvoir,leader" interactionMenuName="Promouvoir chef" />
+    <Command id="206" name="Rdg" alias="objectif,lfg" />
+    <Command id="207" name="Rejoindre groupe" alias="rejoindre,demandergroupe" />
+    <Command id="208" name="Inviter dans le raid" alias="inviterraid,invitertous,invall,invtous" interactionMenuName="Tous les inviter dans le raid" />
+    <Command id="209" name="Donner le droit d'inviter" alias="donnerdroitdinviter,assister" interactionMenuName="Donner le droit d'inviter" />
+    <Command id="210" name="Retirer le droit d'inviter" alias="retirerdroitdinviter,revoke" interactionMenuName="Retirer le droit d'inviter" />
+    <Command id="301" name="Quitter la guilde" alias="guildequitter,guquitter,gquit" />
+    <Command id="302" name="Exclure de la guilde" alias="guexclure,guildeexclure,gkick" />
+    <Command id="303" name="Promouvoir chef de guilde" alias="guchef,guildechef,gmaster" />
+    <Command id="304" name="Postuler à la guilde" alias="gupostuler,guildepostuler,gapply" />
+    <Command id="305" name="Dissoudre la guilde" alias="gudissoudre,guildedissoudre,gdisband" />
+    <Command id="307" name="Guildes du serveur" alias="guliste,guildeliste,glist" />
+    <Command id="308" name="Inviter dans la guilde" alias="guinviter,guildeinviter,ginvite" interactionMenuName="Inviter dans la guilde" />
+    <Command id="310" name="Postuler à la guilde" alias="gupostuler,guildepostuler,gapply" interactionMenuName="Postuler pour cette guilde" />
+    <Command id="313" name="Engager GcG" interactionMenuName="Engager une bataille GcG" />
+    <Command id="403" name="Aide" alias="h,help" />
+    <Command id="451" name="Rejoindre leur match à mort" alias="mamrejoindre,dmjoin" interactionMenuName="Rejoindre leur match à mort" />
+    <Command id="452" name="Inviter à un match à mort" alias="maminviter,dminvite" interactionMenuName="Inviter à un match à mort" />
+    <Command id="453" name="Exclure du match à mort" alias="mamexclure,dmkick" />
+    <Command id="454" name="Quitter le match à mort" alias="mamquitter,mamlaisser,dmleave" />
+    <Command id="501" name="Liste des amis" alias="amis,listeamis,social,friendlist" />
+    <Command id="502" name="Ajouter ami" alias="ami,ajouterami,friend" interactionMenuName="Ajouter comme ami" />
+    <Command id="504" name="Débloquer" interactionMenuName="Débloquer" />
+    <Command id="506" name="Supprimer l'ami" interactionMenuName="Supprimer l'ami" />
+    <Command id="507" name="Ajouter un groupe" interactionMenuName="Ajouter le groupe" />
+    <Command id="508" name="Modifier le groupe" interactionMenuName="Modifier le groupe" />
+    <Command id="509" name="Supprimer le Groupe" interactionMenuName="Supprimer le Groupe" />
+    <Command id="701" name="Enfermer" />
+    <Command id="702" name="Libérer" />
+    <Command id="801" name="Créer canal" alias="créer,creer,créercanal,creercanal,make" />
+    <Command id="802" name="Rejoindre canal" alias="crejoindre,rejoindrecanal,join" />
+    <Command id="803" name="Quitter le canal" alias="cquitter,quittercanal,leave" />
+    <Command id="806" name="Changer le mot de passe" alias="cmdp,motdepasse,mdp,password" />
+    <Command id="807" name="Exclure du canal" alias="cexclure,céjecter,cejecter,chatkick" />
+    <Command id="901" name="Temps de jeu" />
+    <Command id="902" name="?" alias="aidecanal,h,help" />
+    <Command id="903" name="Dbtime" />
+    <Command id="904" name="Heure du serveur" />
+    <Command id="1001" name="Suivre" alias="f,follow" interactionMenuName="Suivre" />
+    <Command id="1002" name="Chuchoter" interactionMenuName="Chuchoter" />
+    <Command id="1101" name="Réinitialiser" />
+    <Command id="1102" name="Ticket" />
+    <Command id="1103" name="Inspecter" alias="regarder,inspect" interactionMenuName="Examiner" />
+    <Command id="1104" name="Sélectionner" />
+    <Command id="1105" name="Comparer les exploits" alias="exploits,report" interactionMenuName="Comparer les exploits" />
+    <Command id="1201" name="Lancer les dés" alias="lancerdés,dés,roll" />
+    <Command id="2001" name="Voir les informations du joueur" alias="infos,infosjoueur,joueur,user" interactionMenuName="Voir les infos utilisateurs" />
+    <Command id="2002" name="Fermeture forcée du familier" alias="fermeturefamilier,fermerboutique,petforcequit" interactionMenuName="Abandon forcé du familier" />
+    <Command id="3001" name="Signaler joueur" alias="signalerjoueur,spam" interactionMenuName="Signaler le joueur" />
+    <Command id="3002" name="Signaler" interactionMenuName="Signaler" />
+    <Command id="3003" name="Bloquer" interactionMenuName="Bloquer" />
+    <Command id="3004" name="Support" alias="em, e" />
+    <Command id="3005" name="JdR" alias="em, e" />
+    <Command id="3006" name="Bug" />
+    <Command id="3007" name="Manette" alias="Invoquerami,invoquer" interactionMenuName="Invoquer ami" />
+    <Command id="3008" name="Invoquer ami" interactionMenuName="Invoquer ami" />
+    <Command id="3009" name="Tchat interdit" interactionMenuName="Tchat interdit" />
+    <Command id="3010" name="Permettre le tchat" interactionMenuName="Permettre le tchat" />
+    <Command id="3011" name="Regarder l'album de cartes" interactionMenuName="Regarder l'album de cartes" />
+    <Command id="3012" name="Classement d'utilisateur" interactionMenuName="Classement d'utilisateur" />
+</StrSheet_SlashCommand>

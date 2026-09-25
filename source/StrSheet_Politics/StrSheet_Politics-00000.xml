@@ -1,0 +1,76 @@
+<StrSheet_Politics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Politics StrSheet_Politics.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Politics">
+    <String id="1" string="Comité électoral de Valkyon" />
+    <String id="2" string="Guide des élections" />
+    <String id="3" string="Prenez les commandes ! Présentez-vous aux élections de Vanarch de la Fédération Valkyon. A vous les honneurs et le pouvoir. Chaque Vanarch gère une province : il définit les lois et met en place des taxes locales.&#xA;&#xA;Inscrivez-vous auprès du greffier des élections de n'importe quelle grande ville.&#xA;Eligibilité :&#xA;   Niveau {UserLevel} minimum.&#xA;   Maître d'une guilde d'un niveau supérieur à {GuildLevel} et comptant au moins {Count} membres.&#xA;Frais d'inscription :&#xA;   {Amount} récompenses de Catharnach.&#xA;   {Gold@money}.&#xA;&#xA;Bonne chance !" />
+    <String id="4" string="Pour votre vote en {ElectionContinent}" />
+    <String id="5" string="Résultats en {ElectionContinent}&#xA;Vote pour {UserName} de la guilde {GuildName}." />
+    <String id="6" string="Règles JcJ régionales" />
+    <String id="7" string="Appliquer les paramètres JcJ généraux" />
+    <String id="8" string="Pas de JcJ" />
+    <String id="10" string="Marchands locaux" />
+    <String id="20" string="Qualité du clerc local" />
+    <String id="30" string="Instructeurs locaux" />
+    <String id="40" string="Courtiers régionaux" />
+    <String id="31" string="Enregistré : {lordNumber}e compétition de Vanarch" />
+    <String id="32" string="Merci de votre inscription à la {lordNumber}e compétition du Vanarch. Bonne chance !&#xA;Détails&#xA;Continent : {ElectionContinent} &#xA;Type : {ContestType}&#xA;Régions préférées&#xA;1e région : {guardName1}&#xA;2e région : {guardName2}&#xA;3e région : {guardName3}&#xA;4e région : {guardName4}&#xA;5e région : {guardName5}&#xA;&#xA;Vous devez gagner le respect des autres joueurs pour l'emporter !" />
+    <String id="41" string="Résultats de l'élection vanarchiale : {ElectionContinent}" />
+    <String id="42" string="Félicitations ! Vous êtes le {lordNumber}{@ordinal:{lordNumber}} Vanarch de la région {guardName} !&#xA;Privilèges : vous gagnez de l'or sur les surplus de taxes et les membres de votre guilde obtiennent la possibilité de chevaucher des montures d'honneur.&#xA;Pouvoirs : vous pouvez modifier les taux d'imposition, changer les règles JcJ, assigner des PNJ spécialisés et faire des annonces régionales aux joueurs.&#xA;Procédure : gérez les lois et les taux d'imposition à l'aide de vos assistants présents dans la plupart des villes de la région." />
+    <String id="101" string="Fin du mandat de Vanarch" />
+    <String id="102" string="La Fédération vous remercie des services que vous lui avez rendus. Vous trouverez ci-joint le reste de vos excédents de taxes régionales." />
+    <String id="201" string="Hors-classement" />
+    <String id="301" string="Vote populaire" />
+    <String id="302" string="Compétition GcG" />
+    <String id="1001" string="Définir les taxes de service et de commerce" />
+    <String id="1002" string="Taxe sur les ventes d'articles généraux" />
+    <String id="1003" string="Taxe sur les ventes de cristaux" />
+    <String id="1004" string="Taxe sur les ventes de glyphes" />
+    <String id="1005" string="Taxe sur les ventes d'artisanat" />
+    <String id="1006" string="Taxe sur les ventes des magasins de spécialités" />
+    <String id="2001" string="Taxes sur les aménagements" />
+    <String id="2002" string="Taxe sur les vols" />
+    <String id="2003" string="Taxe d'apprentissage des compétences" />
+    <String id="2004" string="Taxe sur les téléportations" />
+    <String id="31300005" string="Aucun magasin de spécialités" />
+    <String id="31300006" string="Magasins de spécialités ouverts" />
+    <String id="31300007" string="Clercs de récupération" />
+    <String id="31300008" string="Clercs de récupération nobles" />
+    <String id="31300009" string="Aucun instructeur de compétences" />
+    <String id="31300010" string="Instructeurs de compétences offerts" />
+    <String id="31300011" string="Aucun courtier" />
+    <String id="31300012" string="Courtiers présents" />
+    <String id="10001" string="Autoriser le JcJ dans votre région." />
+    <String id="10002" string="Interdire le JcJ dans votre région." />
+    <String id="10003" string="Fermer les magasins de spécialités vendant des objets non disponibles dans les magasins normaux." />
+    <String id="10004" string="Ouvrir des magasins de spécialités vendant des objets non disponibles dans les magasins normaux." />
+    <String id="10005" string="Les clercs de récupération restaurent entièrement l'endurance du joueur." />
+    <String id="10006" string="Les clercs de récupération nobles restaurent entièrement l'endurance du joueur et lui octroient un bonus de vitesse." />
+    <String id="10007" string="Retirer les instructeurs de compétences de la région." />
+    <String id="10008" string="Proposer les instructeurs de compétences de la région." />
+    <String id="10009" string="Taxe sur les ventes des magasins d'articles généraux locaux." />
+    <String id="10010" string="Taxe sur les ventes des magasins de cristaux locaux." />
+    <String id="10011" string="Taxe sur les ventes des maîtres de glyphes locaux." />
+    <String id="10012" string="Taxe sur les ventes des magasins d'artisanat locaux." />
+    <String id="10013" string="Taxe régionale sur les vols en pégase." />
+    <String id="10014" string="Taxe régionale d'acquisition de nouvelles compétences." />
+    <String id="10015" string="Taxe régionale sur le voyage par téléportation." />
+    <String id="10016" string="{UserName} a changé la loi {PolicyName} de la région {GuardName} en {PolicyItemName}." />
+    <String id="10017" string="{UserName} a changé la loi {PolicyName} de la région {GuardName} en {PolicyItemName}." />
+    <String id="10018" string="La loi {PolicyName} de la région {GuardName} est redevenue {PolicyItemName}." />
+    <String id="10019" string="La région ne dispose d'aucun courtier" />
+    <String id="10020" string="La région dispose de courtiers" />
+    <String id="10021" string="Taxe sur les ventes des magasins de spécialités locaux." />
+    <String id="20001" string="Compétition GcG" />
+    <String id="20002" string="Vote populaire" />
+    <String id="20011" string="Inscription" />
+    <String id="20012" string="Compétition" />
+    <String id="20013" string="Règne" />
+    <String id="20021" string="Pendant les inscriptions, les maîtres de guilde peuvent se porter candidats au poste de Vanarch&lt;BR&gt;auprès des greffiers des élections et indiquer les régions de leur choix." />
+    <String id="20022" string="Les concurrents s'affrontent pour le contrôle d'une zone sur leur continent par le biais de votes ou&lt;BR&gt;de points GcG. Les compétitions se déroulent par continent. Les joueurs éligibles peuvent voter en&lt;BR&gt;cliquant sur l'icône de vote près de la boussole. Les concurrents réunissant le plus grand nombre&lt;BR&gt;de votes ou de points GcG l'emportent." />
+    <String id="20023" string="Si vous gagnez une élection, on vous attribue une région en fonction de votre classement.&lt;BR&gt;Vous aurez l'obligation de gérer la région honorablement. Grâce à des PNJ assistants,&lt;BR&gt;les Vanarchs définissent les lois et les taxes, et maintiennent l'ordre." />
+    <String id="20031" string="Étape actuelle : Inscription&lt;br&gt;Date de fin : {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Prochaine étape : compétition&lt;br&gt;Date de début : {NextStateStartTime}" />
+    <String id="20032" string="Étape actuelle : Compétition&lt;br&gt;Date de fin : {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Prochaine étape : Règne&lt;br&gt;Date de début : {NextStateStartTime}" />
+    <String id="20033" string="Étape actuelle : Règne&lt;br&gt;Date de fin : {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Prochaine étape : Inscription&lt;br&gt;Date de début : {NextStateStartTime}" />
+    <String id="20041" string="Aucun" />
+    <String id="30001" string="Aucun historique de Vanarch" />
+    <String id="30002" string="{lordNumber}{@ordinal:{lordNumber}} Vanarch de la région {guardName}" />
+</StrSheet_Politics>

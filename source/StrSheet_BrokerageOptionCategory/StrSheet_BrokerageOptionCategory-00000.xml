@@ -1,0 +1,21 @@
+<StrSheet_BrokerageOptionCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_BrokerageOptionCategory StrSheet_BrokerageOptionCategory.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_BrokerageOptionCategory">
+    <StringGroup type="type">
+        <String id="1001" string="Amplification physique accrue" />
+        <String id="1002" string="Amplification magique accrue" />
+        <String id="1003" string="Résistance physique accrue" />
+        <String id="1004" string="Résistance magique accrue" />
+        <String id="1005" string="Dégâts critiques physiques accrus" />
+        <String id="1006" string="Dégâts critiques magiques accrus" />
+        <String id="6" string="Facteur de coups critiques accru" />
+        <String id="1" string="PV maximums accrus" />
+        <String id="2" string="PM maximums accrus" />
+        <String id="52" string="Régénération de PM par seconde accrue" />
+        <String id="1007" string="Percée physique accrue" />
+        <String id="1008" string="Percée magique accrue" />
+        <String id="1009" string="Ignorer la résistance physique accru" />
+        <String id="1010" string="Ignorer la résistance magique accru" />
+    </StringGroup>
+    <StringGroup type="wildcard">
+        <String id="0" string="Tout" />
+    </StringGroup>
+</StrSheet_BrokerageOptionCategory>

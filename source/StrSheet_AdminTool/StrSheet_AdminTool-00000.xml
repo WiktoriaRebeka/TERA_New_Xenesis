@@ -1,0 +1,14 @@
+<StrSheet_AdminTool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AdminTool StrSheet_AdminTool.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_AdminTool">
+    <String string="Fermeture forcée" readableId="SMT_ADMINTOOL_DISCONNECT" />
+    <String string="Résurrection" readableId="SMT_ADMINTOOL_RESURRECT" />
+    <String string="Invocation" readableId="SMT_ADMINTOOL_CALL" />
+    <String string="Téléportation" readableId="SMT_ADMINTOOL_TELEPORT" />
+    <String string="Saisissez les coordonnées de téléportation [continentId] [x] [y] [z]." readableId="SMT_ADMINTOOL_WRITE_POSITION" />
+    <String string="Enregistrement de la position actuelle dans les favoris. Veuillez choisir un nom." readableId="SMT_ADMINTOOL_ADD_WRITE_BOOKMARKNAME" />
+    <String string="Enregistrement de favori" readableId="SMT_ADMINTOOL_ADD_BOOKMARK" />
+    <String string="Suppression de PNJ" readableId="SMT_ADMINTOOL_REMOVENPC" />
+    <String string="Suppression de favori" readableId="SMT_ADMINTOOL_REMOVE_BOOKMARK" />
+    <String string="Saisissez le nom du favori à supprimer puis confirmez." readableId="SMT_ADMINTOOL_WRITE_REMOVE_BOOKMARKNAME" />
+    <String string="Invisible" readableId="SMT_ADMINTOOL_TRANSPARENT" />
+    <String string="[MJ]" readableId="SMT_ADMINTOOL_GMTITLE" />
+</StrSheet_AdminTool>

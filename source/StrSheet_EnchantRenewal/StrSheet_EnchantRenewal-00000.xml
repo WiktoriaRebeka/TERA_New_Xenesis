@@ -1,0 +1,29 @@
+<StrSheet_EnchantRenewal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal StrSheet_EnchantRenewal.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal">
+    <String id="1" string="Chance de réussite de l'enchantement : &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="2" string="&lt;font color='#57bb35'&gt;(PEX d'équipement {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="3" string="{showOnDamageAvailable}Si l'enchantement échoue, l'équipement est susceptible d'être &lt;font color='#FF0000'&gt;endommagé&lt;/font&gt;." />
+    <String id="4" string="{showOnStepDownAvailable}Si l'enchantement échoue, le niveau d'enchantement &lt;font color='#FF0000'&gt;diminue&lt;/font&gt; et l'équipement est susceptible d'être &lt;font color='#FF0000'&gt;endommagé&lt;/font&gt;." />
+    <String id="28" string="L'enchantement d'équipement consomme des matériaux et de l'or." />
+    <String id="5" string="Chance de réussite de l'évolution : &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="6" string="&lt;font color='#57bb35'&gt;(PEX d'équipement {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="7" string="{showOnDamageAvailable}Si l'évolution échoue, l'équipement est susceptible d'être &lt;font color='#FF0000'&gt;endommagé&lt;/font&gt;." />
+    <String id="8" string="{showOnDestroyable}Si l'évolution échoue, l'équipement est susceptible d'être &lt;font color='#FF0000'&gt;endommagé&lt;/font&gt; ou &lt;font color='#FF0000'&gt;détruit&lt;/font&gt;." />
+    <String id="9" string="Chance de réussite de la réparation : &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="10" string="Une fois l'équipement endommagé réparé, il est possible de procéder à un enchantement/une évolution." />
+    <String id="11" string="&lt;font color='#57bb35'&gt;Chance de réussite des enchantements : {finalProb} %&lt;/font&gt;&lt;BR&gt;&lt;font color='#DBB006'&gt;(Le calcul des chances de réussite de l'enchantement se base sur les éléments suivants, où seules les trois premières décimales sont indiquées.)&lt;/font&gt;" />
+    <String id="13" string="- Valeur ajustée sur la base des PEX d'équipement : {enchantEquipExp} %" />
+    <String id="14" string="- Valeur ajustée sur la base des enchantements échoués : {enchantFailed} %&lt;BR&gt;&lt;BR&gt;&lt;font color='#57bb35'&gt;Que sont les PEX d'équipement ?&lt;/font&gt;&lt;BR&gt;- Terminez une requête de l'avant-garde pour obtenir cette statistique qui augmente la probabilité de réussite des enchantements et évolutions (seulement pour l'équipement de niveau 65).&lt;BR&gt;- Dès que les PEX d'équipement atteignent la valeur indiquée dans l'infobulle, la valeur de correction est maximisée et vous pouvez obtenir jusqu'à &lt;font color='#ff0000'&gt;{supExp}&lt;/font&gt; PEX d'équipement." />
+    <String id="15" string="&lt;BR&gt;" />
+    <String id="16" string="&lt;font color='#57bb35'&gt;Que sont les PEX d'équipement ?&lt;/font&gt;&lt;BR&gt;- Terminez une requête de l'avant-garde pour obtenir cette statistique qui augmente la probabilité de réussite des enchantements et évolutions (seulement pour l'équipement de niveau 65)." />
+    <String id="17" string="- Dès que les PEX d'équipement atteignent la valeur indiquée dans l'infobulle, la valeur de correction est maximisée et vous pouvez obtenir jusqu'à &lt;font color='#ff0000'&gt;{supExp}&lt;/font&gt; PEX d'équipement." />
+    <String id="18" string="&lt;font color='#57bb35'&gt;Chance de réussite de l'évolution : {finalProb} %&lt;/font&gt;" />
+    <String id="19" string="&lt;font color='#DBB006'&gt;(Les chances de réussite d'une évolution sont données par la combinaison des éléments suivants, où la valeur s'affiche uniquement jusqu'à la troisième décimale.)&lt;/font&gt;" />
+    <String id="20" string="- Valeur ajustée sur la base des évolutions échouées : {enchantFailed} %" />
+    <String id="21" string="- Valeur ajustée sur la base des effets d'évènements : {enchantEvent} %" />
+    <String id="22" string="- Valeur ajustée sur la base des effets : {enchantAbnormality} %" />
+    <String id="23" string="- Valeur ajustée sur la base du rang VIP : {enchantVipSystem} %" />
+    <String id="24" string="&lt;font color='#57bb35'&gt;Chance de réussite de la réparation : {finalProb} %&lt;/font&gt;" />
+    <String id="25" string="&lt;font color='#DBB006'&gt;(Le calcul des chances de réussite des réparations se base sur les éléments suivants, où seules les trois premières décimales sont indiquées.)&lt;/font&gt;" />
+    <String id="26" string="- Valeur ajustée sur la base des réparations échouées : {enchantFailed} %" />
+    <String id="27" string="&lt;font color='#57bb35'&gt;[Équipement endommagé]&lt;/font&gt;&lt;BR&gt;- Quand un enchantement/une évolution échoue, l'équipement a une certaine probabilité d'être endommagé.&lt;BR&gt;- Il est certes possible de continuer à utiliser l'équipement endommagé, mais plus de l'enchanter ou le faire évoluer.&lt;BR&gt;- Une nouvelle tentative d'enchantement/d'évolution n'est possible qu'après une réparation réussie." />
+</StrSheet_EnchantRenewal>
