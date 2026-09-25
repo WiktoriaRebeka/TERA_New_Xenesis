@@ -1,0 +1,176 @@
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
+    <String string="Votre guilde a été créée." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Votre guilde a été dissoute." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} a rejoint la guilde." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} a quitté la guilde." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} a été exclu(e) de la guilde." readableId="SMT_GUILDLOG_BAN" />
+    <String string="Le rang [{GroupName}] a été ajouté." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="Le rang {GroupName} a été supprimé." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} est désormais chef de la guilde." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} est désormais de rang {GroupName}." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="{UserName} a défini la taxe de la zone." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="Le nom de la guilde n'est plus [{OldName}] mais [{NewName}]." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="[{UserName}] a modifié le message de guilde." readableId="SMT_GUILDLOG_CHANGE_ANNOUNCE" />
+    <String string="[{UserName}] a modifié les options de recrutement de la guilde." readableId="SMT_GUILDLOG_CHANGE_PROMOTION" />
+    <String string="[{UserName}] La récompense en or de la guilde a été envoyée par voie postale." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_INCENTIVE" />
+    <String string="[{UserName}] a acheté [{Count}] unités de [{ItemName}] avec ([{GuildMoney}])." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_GUILD_STORE" />
+    <String string="L'impôt s'élevant à ([{GuildMoney}]) vous a été reversé car vous avez remporté la Guerre de guilde." readableId="SMT_GUILDLOG_CHANGE_GUILD_MONEY_BY_CITYWAR_REWARD" />
+    <String string="{UserName} a érigé une base avancée de guilde." readableId="SMT_GUILDLOG_BUILD_GUILD_TOWER" />
+    <String string="Chef de guilde" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Recrue" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] remporte [{Point}] points de compétition." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} point(s)" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Bataille GcG" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Lancer une bataille GcG contre la guilde {GuildName} ?&#xA;La bataille GcG durera {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Bataille GcG - aucun enjeu" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="La guilde assaillante et la guilde assaillie ne font pas partie de la même ligue de Croisade. Aucune Gloire n'a pu être mise en jeu pour cette bataille GcG. Souhaitez-vous continuer ? (La bataille GcG durera &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;)." readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Déclarer" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Bataille GcG en cours" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="Victoire de [{Name}] !" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="La bataille GcG s'est soldée par une égalité." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="[{Name}] a capitulé." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="La {Name} a abandonné." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="La {Name} a annulé." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
+    <String string="Confirmation de capitulation" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Souhaitez-vous vraiment capituler ?&#xA;La bataille GcG contre [{Opponent}] prendra fin et ils seront déclarés vainqueurs." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Maître de guilde : {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Vous n'avez plus beaucoup de temps." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} point(s)" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Pacifiste" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Paré au combat" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Confirmer la modification d'état de la guilde" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Passage de l'état de la guilde de {OldState} à {NewState}. Les guildes ayant le statut {NewState} ne peuvent pas participer aux batailles GcG." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Passage de l'état de la guilde de {OldState} à {NewState}. Les guildes ayant le statut {NewState} peuvent participer aux batailles GcG." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Changer" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Annuler" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Votre guilde a remporté {Battlechip} Gloire grâce à sa victoire !" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire à cause de sa défaite !" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire en raison d'un match nul." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Votre guilde a remporté {Battlechip} Gloire car {GuildName} a refusé." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire pour avoir refusé une bataille GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Votre guilde a perdu {Battlechip} Gloire pour avoir annulé." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="La bataille GcG contre {GuildName} a été annulée en raison d'un problème survenu dans le système de GcG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="La bataille GcG contre {GuildName} a été annulée en raison d'une Gloire insuffisante." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="La bataille GcG a été annulée car la Gloire de {GuildName} est insuffisante." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="La saison des Croisades est terminée. Les batailles GcG en cours sont annulées." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Voulez-vous vraiment mettre &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battelchip}&lt;/FONT&gt; Gloire supplémentaire en jeu et continuer la bataille GcG contre {GuildName} ?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Vous allez perdre {Battlechip} Gloire en abandonnant. Voulez-vous vraiment abandonner ?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Téléportation" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="{UserName} se fait attaquer ! Souhaitez-vous être téléporté{@g:/e} à ses côtés ?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Détails de la bataille GcG" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Vous avez {GuildWarCount} batailles GcG à examiner. Cliquez sur le bouton de confirmation pour ouvrir la fenêtre de batailles GcG." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Mettez votre Gloire en jeu et engagez une bataille GcG contre une autre guilde. Vous ne pouvez pas mettre plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50 %&lt;/FONT&gt; de Gloire en jeu. Vous ne pouvez pas engager une bataille GcG sans mettre de Gloire en jeu ou si la guilde adverse n'a pas suffisamment de Gloire." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Mettez un surplus de Gloire en jeu et continuez la bataille GcG. Vous ne pouvez pas mettre plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50 %&lt;/FONT&gt; de votre enjeu initial en jeu. Si la guilde la guilde adverse dispose d'une Gloire inférieure à &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150 %&lt;/FONT&gt; du montant de votre enjeu, vous ne pouvez placer que le montant actuel." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Une bataille GcG a été déclarée contre {Opponent}." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="La guilde {Opponent} a engagé une bataille GcG contre votre guilde !" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Votre guilde a placé des enjeux en Gloire supplémentaires dans sa bataille GcG contre la Guilde {Opponent}." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="La guilde {Opponent} a placé des enjeux en Gloire supplémentaires." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="En attente" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Refuser" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Capituler" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Annulation de la bataille GcG" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Vous allez perdre {Battlechip} Gloire pour avoir abandonné. Voulez-vous vraiment abandonner ?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Votre guilde perdra {Battlechip} Gloire en cas d'annulation. Voulez-vous vraiment annuler ?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Votre guilde perdra {Battlechip} Gloire en cas de refus. Voulez-vous vraiment refuser ?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Confirmer" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Annuler" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Engager une bataille GcG" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Enjeux supplémentaires" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Déclarer" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Enjeu terminé" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Informations sur la bataille GcG" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Gloire" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Les guildes qui réunissent entre &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt; et &lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; comptes de joueurs actifs avec un personnage de niveau &lt;FONT SIZE='18' COLOR='#80E71C'&gt;65&lt;/FONT&gt; reçoivent &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; points de Gloire tous les mercredis (si un compte rassemble plusieurs personnages de niveau 65 dans plusieurs guildes différentes, la Gloire est répartie entre celles-ci). Les guildes dotées de Gloire peuvent participer à des batailles GcG, soit en tant que guilde assaillante, soit en tant que guilde adverse. La Gloire ne peut être mise en jeu qu'entre les guildes de même ligue Croisade (Coupe-gorge ou Challenger)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="&lt;FONT COLOR='#80E71C'&gt;{SearchString}&lt;/FONT&gt;" readableId="SMT_GUILDINFO_PRTEXT_FONT" />
+    <String string="Engager une bataille GcG" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Sélectionnez Engager une bataille GcG ci-dessous, puis entrez le nom de la guilde que vous souhaitez affronter. (Vous avez également la possibilité de cliquer sur un joueur adverse et choisir parmi les options affichées ou encore choisir Engager GcG via l'option Guilde de l'interface du serveur.)  Seuls les membres de guilde habilités à la Gestion des GcG peuvent engager une bataille GcG et mettre de la Gloire en jeu, après quoi, les deux guildes entrent dans la phase d'attente de 30 minutes. Chaque guilde a la possibilité d'abandonner à compter d'une heure après le début des combats." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Remporter une bataille GcG" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="La première guilde à faire &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; victimes en 20 heures l'emporte. Si aucune des guildes ne fait &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; victimes, c'est celle qui en a fait le plus qui l'emporte. Si les deux guildes ont fait le même nombre de victimes ou si leur nombre total est inférieur à  &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, la bataille GcG se solde par un match nul." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Classement" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="La Gloire remportée grâce aux batailles GcG de la Ligue Coupe-gorge s'ajoute au classement de batailles GcG à la fin de chaque saison de Croisade). Cependant, seules les guildes ayant participé à plus de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; batailles GcG sur une même saison (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 semaines&lt;/FONT&gt;) sont éligibles pour ce classement." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
+    <String string="Bienvenue." readableId="SMT_GUILDLOG_JOIN_GUILD" />
+    <String string="{Hour} heure(s) {Minute} minute(s)" readableId="SMT_GUILDLOG_WANTED_WRITING_REMAIN_TIME" />
+    <String string="Sélectionner la compétence de guilde" readableId="SMT_POPUP_GUILD_SKILL_APPLY_TITLE" />
+    <String string="Souhaitez-vous sélectionner cette compétence de guilde ? Les compétences de guildes sélectionnées ne peuvent pas être réinitialisées." readableId="SMT_POPUP_GUILD_SKILL_APPLY_MSG" />
+    <String string="Oui" readableId="SMT_POPUP_GUILD_SKILL_APPLY_YES" />
+    <String string="Non" readableId="SMT_POPUP_GUILD_SKILL_APPLY_NO" />
+    <String string="Niveau {Level}" readableId="SMT_GUILD_PERK_TOOLTIP_LEVEL" />
+    <String string="(Points de guilde requis : {GuildPoint})" readableId="SMT_GUILD_PERK_TOOLTIP_NEED_POINT" />
+    <String string="(Compétence active)" readableId="SMT_GUILD_PERK_TOOLTIP_NAME_ACTIVE" />
+    <String string="(Compétence passive)" readableId="SMT_GUILD_PERK_TOOLTIP_NAME_PASSIVE" />
+    <String string="[Application]&lt;br&gt;Le maître de guilde peut s'en servir à l'aide d'un clic droit." readableId="SMT_GUILD_PERK_TOOLTIP_ACTIVE_HOWTOUSE" />
+    <String string="Hors ligne" readableId="SMT_GUILD_OFFLINE" />
+    <String string="Or de guilde" readableId="SMT_GUILD_MONEY_STORE_UI" />
+    <String string="Récompense versée" readableId="SMT_GUILD_MONEY_SUBSIDE_TITLE" />
+    <String string="Accepter" readableId="SMT_GUILD_QUEST_BUTTON_ACCEPT" />
+    <String string="En cours" readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS" />
+    <String string="Terminée" readableId="SMT_GUILD_QUEST_BUTTON_COMPLETE" />
+    <String string="Annuler" readableId="SMT_GUILD_QUEST_BUTTON_CANCEL" />
+    <String string="Annulation impossible" readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL" />
+    <String string="Menez la mission de guilde à bien et vous obtenez des insignes de Valdérion. La récompense dépend du nombre d'insignes. Vous devez avoir rejoint une guilde depuis au moins une semaine pour pouvoir accepter les récompenses. &lt;FONT COLOR='#80E71C'&gt;Les insignes de Valdérion sont mis à jour tous les dimanches à 0h00.&lt;/FONT&gt;" readableId="SMT_GUILD_QUEST_BUTTON_HELP_TOOLTIP" />
+    <String string="Vous pouvez accepter la mission si vous avez rejoint une guilde et si les insignes de Valdérion ont été réinitialisés pour la première fois. Si la mission n'est pas accomplie avec succès au cours du temps imparti, elle se solde automatiquement par un échec." readableId="SMT_GUILD_QUEST_BUTTON_CAN_ACCEPT_TOOLTIP" />
+    <String string="Vous ne pouvez accepter la mission de guilde qu'après la réinitialisation des insignes de Valdérion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_AUTHORITY" />
+    <String string="Cette guilde n'est pas assez grande pour accepter cette quête." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_SIZE" />
+    <String string="Vous devez attendre la réinitialisation des insignes de Valdérion avant d'accepter la récompense." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_JOIN_PROGRESS" />
+    <String string="Vous avez atteint le nombre maximum hebdomadaire d'insignes de Valdérion et ne pouvez donc pas accepter de nouvelles missions de guilde." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_ALREADY_PROGRESS" />
+    <String string="Les quêtes attribuées pour la journée ont déjà été accomplies." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_DAY_LIMIT" />
+    <String string="Vous avez déjà obtenu la quantité maximale d'insignes de Valdérion et ne pouvez donc plus accepter de nouvelles missions de guilde." readableId="SMT_GUILD_QUEST_BUTTON_CANT_ACCEPT_TOOLTIP_QUEST_POINT_FULL" />
+    <String string="Cette quête de guilde est déjà en cours." readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS_TOOLTIP_MINE" />
+    <String string="Une autre guilde a déjà sélectionné cette quête." readableId="SMT_GUILD_QUEST_BUTTON_PROGRESS_TOOLTIP_OTHER" />
+    <String string="Une fois la quête accomplie, vous recevez une récompense sous forme de points de guilde ou or de guilde." readableId="SMT_GUILD_QUEST_BUTTON_COMPLETE_TOOLTIP" />
+    <String string="Seuls les membres de guilde peuvent accomplir la mission de guilde suite à l'actualisation des insignes de Valdérion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_COMPLETE_TOOLTIP_AUTHORITY" />
+    <String string="Seuls le maître de guilde et les membres de guilde habilités peuvent annuler une quête de guilde." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_TOOLTIP_AUTHORITY" />
+    <String string="Seuls les membres de guilde peuvent annuler la mission de guilde suite à l'actualisation des insignes de Valdérion." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_TOOLTIP_NEW_USER" />
+    <String string="Si elle est annulée, la mission se solde par un échec." readableId="SMT_GUILD_QUEST_BUTTON_CANCEL_TOOLTIP" />
+    <String string="Impossible d'annuler les quêtes présélectionnées." readableId="SMT_GUILD_QUEST_BUTTON_CANT_CANCEL_OCCUPY_TOOLTIP" />
+    <String string="Limite de temps : {Time}" readableId="SMT_GUILD_QUEST_TIME_LIMIT" />
+    <String string="Temps restant : {Time}" readableId="SMT_GUILD_QUEST_TIME_REMAIN" />
+    <String string="Quête terminée." readableId="SMT_GUILD_QUEST_TIME_COMPLETE" />
+    <String string="[Présélection]" readableId="SMT_GUILD_SORT_TYPE_NAME_OCCUPY" />
+    <String string="[Chasse]" readableId="SMT_GUILD_SORT_TYPE_NAME_HUNTING" />
+    <String string="[Champ de bataille]" readableId="SMT_GUILD_SORT_TYPE_NAME_BATTLEFIELD" />
+    <String string="[Collecte]" readableId="SMT_GUILD_SORT_TYPE_NAME_COLLECT" />
+    <String string="[Urgence]" readableId="SMT_GUILD_SORT_TYPE_NAME_URGENT" />
+    <String string="Or de guilde requis" readableId="SMT_GUILD_STORE_COIN_NEED" />
+    <String string="Or de guilde possédé" readableId="SMT_GUILD_STORE_COIN_HAVE" />
+    <String string="Velika occupée" readableId="SMT_GUILD_RANKING_TOOLTIP_CITYWAR_WINNER" />
+    <String string="Velika occupée (jusqu'à la fin de la prochaine Guerre de guilde)" readableId="SMT_GUILD_INFO_TOOLTIP_CITYWAR_WINNER" />
+    <String string="Annuler la quête de guilde" readableId="SMT_GUILD_QUEST_CANCEL_POPUP_TITLE" />
+    <String string="En cas d'annulation de la mission de guilde, tous les composants ayant un rapport avec la mission sont supprimés." readableId="SMT_GUILD_QUEST_CANCEL_POPUP_CONTEXT" />
+    <String string="Oui" readableId="SMT_GUILD_POPUP_YES" />
+    <String string="Non" readableId="SMT_GUILD_POPUP_NO" />
+    <String string="[{Name}], puisque vous avez abdiqué devant la guilde {GuildName1}, des dédommagements d'un montant de {GuildMoney} ont été versés." readableId="SMT_GUILDLOG_WAR_SURRENDER" />
+    <String string="[{Name}], vous avez engagé une bataille GcG contre la guilde [{GuildName1}]. Les frais de déclaration de bataille GcG d'un montant de {GuildMoney} ont été prélevés." readableId="SMT_GUILDLOG_WAR_DECLARE" />
+    <String string="[{Name}], la guilde {GuildName1} a engagé une bataille GcG." readableId="SMT_GUILDLOG_WAR_BE_DECLARED" />
+    <String string="[{Name}], vous avez annulé la bataille GcG contre la guilde {GuildName1}." readableId="SMT_GUILDLOG_WAR_WITHDRAW" />
+    <String string="[{Name}], la bataille GcG engagée contre la guilde {GuildName1} a été annulée car l'or de guilde disponible ne suffisait pas." readableId="SMT_GUILDLOG_WAR_WITHDRAW_NOMONEY" />
+    <String string="Annuler la déclaration" readableId="SMT_GUILDWAR_WITHDRAW_MSGBOX_TITLE" />
+    <String string="Si vous annulez une déclaration, vous ne pouvez pas faire de nouvelle déclaration pendant 24 heures.&#xA;Souhaitez-vous annuler la déclaration de guerre ?" readableId="SMT_GUILDWAR_WITHDRAW_MSGBOX_MESSAGE" />
+    <String string="Contre-attaque" readableId="SMT_GUILDWAR_DECLARE_MSGBOX_TITLE" />
+    <String string="Engager une bataille GcG nécessite {GuildMoney} d'or de guilde.&#xA;Voulez-vous lancer une contre-attaque contre la guilde {GuildName} ?" readableId="SMT_GUILDWAR_DECLARE_MSGBOX_MESSAGE" />
+    <String string="Capitulation" readableId="SMT_GUILDWAR_SURRENDER_MSGBOX_TITLE" />
+    <String string="Si vous optez pour la capitulation, vous devez restituer une partie des dépenses de guerre occasionnées auprès de la guilde &lt;FONT COLOR='#80E71C'&gt;{GuildName}&lt;/FONT&gt;.&#xA;&#xA;Montant à rembourser : &lt;FONT COLOR='#80E71C'&gt;{GuildMoney}&lt;/FONT&gt; pièces d'or de guilde&#xA;&#xA;Si vous capitulez, vous ne pouvez plus engager de bataille GcG contre la même guilde pendant &lt;FONT COLOR='#80E71C'&gt;{ProtectionTime}&lt;/FONT&gt; heures. Souhaitez-vous vraiment capituler ?" readableId="SMT_GUILDWAR_SURRENDER_MSGBOX_MESSAGE" />
+    <String string="Capitulation" readableId="SMT_GUILDWAR_SURRENDER_YES_MSGBOX_MESSAGE" />
+    <String string="Si vous capitulez, vous devez verser &lt;FONT COLOR='#80E71C'&gt;{GuildMoney}&lt;/FONT&gt; à la guilde &lt;FONT COLOR='#80E71C'&gt;{GuildName}&lt;/FONT&gt; pour acheter un répit de &lt;FONT COLOR='#80E71C'&gt;{ProtectionTime}&lt;/FONT&gt;.&#xA;&#xA;Un vrai {RaceName} ne s'avoue jamais vaincu.&#xA;Souhaitez-vous vraiment capituler ?" readableId="SMT_GUILDWAR_SURRENDER_RARE_MSGBOX_MESSAGE" />
+    <String string="Ravaler votre orgueil" readableId="SMT_GUILDWAR_SURRENDER_YES_RARE_MSGBOX_MESSAGE" />
+    <String string="Refuser de capituler" readableId="SMT_GUILDWAR_SURRENDER_NO_RARE_MSGBOX_MESSAGE" />
+    <String string="{Hour} heures et {Minute} minutes se sont écoulées depuis le début des combats." readableId="SMT_GUILDWAR_DURATION" />
+    <String string="Dépenses de guerre accumulées : &lt;FONT COLOR='#80E71C'&gt;{WarCost}&lt;/FONT&gt;&lt;br&gt;{WarType}À compter de la déclaration de guerre, un montant horaire de &lt;FONT COLOR='#80E71C'&gt;{MaintainCost}&lt;/FONT&gt; pièces d'or de guilde est dépensé.&lt;br&gt;Horaire de la déclaration : &lt;FONT COLOR='#80E71C'&gt;{StartTime}&lt;/FONT&gt;" readableId="SMT_GUILDWAR_WARCOST_TOOLTIP" />
+    <String string="Déclaration unilatérale" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_ONE_SIDE" />
+    <String string="Contre-attaque" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_EACH_OTHER" />
+    <String string="Défis après défis hebdomadaires maximums" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_ONE_SIDE_PENALTY" />
+    <String string="Contre-attaque après défis hebdomadaires maximums" readableId="SMT_GUILDWAR_WARCOST_WAR_TYPE_EACH_OTHER_PENALTY" />
+    <String string="Batailles GcG en cours : {NumberOfGuildWar}" readableId="SMT_GUILDWAR_MINIMAP_ICON_MENU_1" />
+    <String string="Si vous dépassez le nombre maximum de défis hebdomadaires possibles, vous devez verser une pénalité.\n\nAprès conclusion de la bataille GcG, vous ne recevez aucun dédommagement de la guilde ayant lancé le défi.\n\nLe nombre de défis est réinitialisé une fois par semaine, le {ResetDay} à {ResettingHour}." readableId="SMT_GUILDWAR_WEEKLY_LIMIT_PENALTY_TOOLTIP" />
+    <String string="Si vous avez dépassé le nombre de défis hebdomadaire, vous ne recevez aucun dédommagement." readableId="SMT_GUILDWAR_WEEKLY_LIMIT_PENALTY_EXPLANATION" />
+    <String string="Récompense d'insigne de Valdérion" readableId="SMT_GUILD_QUEST_REWARD_TITLE" />
+    <String string="Confirmer" readableId="SMT_GUILD_QUEST_REWARD_POPUP_OK" />
+</StrSheet_Guild>
