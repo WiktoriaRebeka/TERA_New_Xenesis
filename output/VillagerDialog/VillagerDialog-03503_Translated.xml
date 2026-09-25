@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1100" huntingZoneId="204" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="204" endSocial="14" prevId="0" villagerId="1100">
+        <Page social="4">Han muerto soldados, masacrado a mineros y muy poca gente ha venido a ayudar. Todo gira siempre en torno al metal y la durignita. &amp;#191;T&amp;#250; no eres de esa clase de personas?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="204" endSocial="0" prevId="0" villagerId="1100">
+        <Page social="0">&amp;#191;Deseas teletransportarte ahora?&lt;&QUOT;SÍ.&QUOT;&gt;&lt;/TEXTBUTTON&gt;&lt;/&QUOT;SÍ.&QUOT;&gt;&lt;IR A MONTAGNE FYR&gt;&lt;/EVENTPAGEBUTTON&gt;&lt;/IR A MONTAGNE FYR&gt;</Page>
+    </Text>
+</VillagerDialog>
