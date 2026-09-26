@@ -1,0 +1,14 @@
+<StrSheet_AdminTool xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AdminTool StrSheet_AdminTool.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_AdminTool">
+    <String string="Cierre forzado" readableId="SMT_ADMINTOOL_DISCONNECT" />
+    <String string="Resurrecci&amp;#243;n" readableId="SMT_ADMINTOOL_RESURRECT" />
+    <String string="Invocaci&amp;#243;n" readableId="SMT_ADMINTOOL_CALL" />
+    <String string="Teletransporte" readableId="SMT_ADMINTOOL_TELEPORT" />
+    <String string="Ingresa las coordenadas de teletransporte [continentId] [x] [y] [z]." readableId="SMT_ADMINTOOL_WRITE_POSITION" />
+    <String string="Guardando la posici&amp;#243;n actual en favoritos. Por favor, elige un nombre." readableId="SMT_ADMINTOOL_ADD_WRITE_BOOKMARKNAME" />
+    <String string="Guardar favorito" readableId="SMT_ADMINTOOL_ADD_BOOKMARK" />
+    <String string="Eliminar PNJ" readableId="SMT_ADMINTOOL_REMOVENPC" />
+    <String string="Eliminar favorito" readableId="SMT_ADMINTOOL_REMOVE_BOOKMARK" />
+    <String string="Ingresa el nombre del favorito que deseas eliminar y luego confirma." readableId="SMT_ADMINTOOL_WRITE_REMOVE_BOOKMARKNAME" />
+    <String string="Invisible" readableId="SMT_ADMINTOOL_TRANSPARENT" />
+    <String string="[GM]" readableId="SMT_ADMINTOOL_GMTITLE" />
+</StrSheet_AdminTool>

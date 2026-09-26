@@ -1,0 +1,7 @@
+<StrSheet_InGameStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_InGameStore StrSheet_InGameStore.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_InGameStore">
+    <String readableId="SMT_IGS_PRICE_HANCOIN">&lt;font color='#FFFFFF'&gt; {PriceName} &lt;/font&gt; &lt;font color='#1EA7FF'&gt;&lt;img src='img://__Icon_Items.emeToken_small_Tex' vspace='-1'&gt;{Price}&lt;/font&gt;</String>
+    <String readableId="SMT_IGS_PRICE_TCAT">&lt;font color='#FFFFFF'&gt; {PriceName} &lt;/font&gt; &lt;font color='#FFC986'&gt; {Price@number} &lt;img src='img://__Icon_Items.tcatToken_small_Tex' vspace='-1'&gt;&lt;/font&gt;</String>
+    <String readableId="SMT_IGS_NORMALPRICE">&lt;font color='#ffffff'&gt;{PriceName} &lt;/font&gt;&lt;font color='#1EA7FF'&gt;&lt;img src='img://__Icon_Items.emeToken_small_Tex' vspace='-1'&gt;{Price}&lt;/font&gt;</String>
+    <String readableId="SMT_IGS_REDUCEDPRICE">&lt;font color='#ffffff'&gt;{PriceName} &lt;/font&gt;&lt;font color='#1EA7FF'&gt;&lt;img src='img://__Icon_Items.emeToken_small_Tex' vspace='-1'&gt;{Price}&lt;/font&gt;</String>
+    <String readableId="SMT_IGS_PRICE">&lt;font color='#1EA7FF'&gt;&lt;img src='img://__Icon_Items.emeToken_small_Tex' vspace='-1'&gt;{Price}&lt;/font&gt;</String>
+</StrSheet_InGameStore>

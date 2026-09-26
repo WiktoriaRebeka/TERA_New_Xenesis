@@ -1,0 +1,21 @@
+<StrSheet_BrokerageOptionCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_BrokerageOptionCategory StrSheet_BrokerageOptionCategory.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_BrokerageOptionCategory">
+    <StringGroup type="type">
+        <String id="1001" string="Aumento de amplificaci&amp;#243;n f&amp;#237;sica" />
+        <String id="1002" string="Aumento de amplificaci&amp;#243;n m&amp;#225;gica" />
+        <String id="1003" string="Aumento de resistencia f&amp;#237;sica" />
+        <String id="1004" string="Aumento de resistencia m&amp;#225;gica" />
+        <String id="1005" string="Aumento de da&amp;#241;o cr&amp;#237;tico f&amp;#237;sico" />
+        <String id="1006" string="Aumento de da&amp;#241;o cr&amp;#237;tico m&amp;#225;gico" />
+        <String id="6" string="Aumento del factor de golpe cr&amp;#237;tico" />
+        <String id="1" string="Aumento de HP m&amp;#225;ximo" />
+        <String id="2" string="Aumento de MP m&amp;#225;ximo" />
+        <String id="52" string="Aumento de regeneraci&amp;#243;n de MP por segundo" />
+        <String id="1007" string="Aumento de perforaci&amp;#243;n f&amp;#237;sica" />
+        <String id="1008" string="Aumento de perforaci&amp;#243;n m&amp;#225;gica" />
+        <String id="1009" string="Aumento de ignorar resistencia f&amp;#237;sica" />
+        <String id="1010" string="Aumento de ignorar resistencia m&amp;#225;gica" />
+    </StringGroup>
+    <StringGroup type="wildcard">
+        <String id="0" string="Todo" />
+    </StringGroup>
+</StrSheet_BrokerageOptionCategory>

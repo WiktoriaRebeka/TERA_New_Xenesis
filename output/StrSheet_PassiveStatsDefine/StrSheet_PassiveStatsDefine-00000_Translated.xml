@@ -1,0 +1,123 @@
+<StrSheet_PassiveStatsDefine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PassiveStatsDefine StrSheet_PassiveStatsDefine.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_PassiveStatsDefine">
+    <StringGroup type="type">
+        <String id="1" string="HP m&amp;#225;x." />
+        <String id="2" string="MP m&amp;#225;x." />
+        <String id="3" string="Poder" />
+        <String id="5" string="Velocidad de movimiento" />
+        <String id="6" string="Factor de golpe cr&amp;#237;tico" />
+        <String id="7" string="Factor de resistencia a golpes cr&amp;#237;ticos" />
+        <String id="17" string="Velocidad de movimiento en combate" />
+        <String id="18" string="Velocidad de movimiento fuera de combate" />
+        <String id="20" string="Tasa de agro de los monstruos" />
+        <String id="21" string="Regeneraci&amp;#243;n de MP por segundo" />
+        <String id="26" string="Determinaci&amp;#243;n m&amp;#225;x." />
+        <String id="47" string="Obtenci&amp;#243;n de EXP de destreza de habilidad" />
+        <String id="51" string="Regeneraci&amp;#243;n de HP por segundo" />
+        <String id="52" string="Regeneraci&amp;#243;n de MP por segundo" />
+        <String id="64" string="Habilidad de recolecci&amp;#243;n" />
+        <String id="65" string="Tiempo de recolecci&amp;#243;n" />
+        <String id="68" string="Consumo de tiempo de vuelo" />
+        <String id="102" string="Da&amp;#241;o recibido" />
+        <String id="106" string="Activaci&amp;#243;n" />
+        <String id="110" string="Valor de regeneraci&amp;#243;n de HP" />
+        <String id="113" string="Defensa en JcJ" />
+        <String id="116" string="Resistencia f&amp;#237;sica" />
+        <String id="117" string="Resistencia m&amp;#225;gica" />
+        <String id="152" string="Da&amp;#241;o recibido" />
+        <String id="164" string="Aumento de generaci&amp;#243;n de amenaza" />
+        <String id="176" string="Poder de ataque JcJ" />
+        <String id="189" string="Se activa al derrotar" />
+        <String id="206" string="Se activa al resucitar" />
+        <String id="207" string="Se activa al iniciar combate" />
+        <String id="224" string="Se activa al infligir un golpe cr&amp;#237;tico" />
+        <String id="249" string="Velocidad de movimiento de la montura" />
+        <String id="257" string="Tiempo de pesca autom&amp;#225;tica" />
+        <String id="258" string="Tiempo de espera antes de una picada" />
+        <String id="1001" string="Amplificaci&amp;#243;n f&amp;#237;sica" />
+        <String id="1002" string="Amplificaci&amp;#243;n m&amp;#225;gica" />
+        <String id="1003" string="Resistencia f&amp;#237;sica" />
+        <String id="1004" string="Resistencia m&amp;#225;gica" />
+        <String id="1005" string="Da&amp;#241;o cr&amp;#237;tico f&amp;#237;sico" />
+        <String id="1006" string="Da&amp;#241;o cr&amp;#237;tico m&amp;#225;gico" />
+        <String id="1101" string="Amplificaci&amp;#243;n f&amp;#237;sica" />
+        <String id="1102" string="Amplificaci&amp;#243;n m&amp;#225;gica" />
+        <String id="1103" string="Da&amp;#241;o cr&amp;#237;tico f&amp;#237;sico" />
+        <String id="1104" string="Da&amp;#241;o cr&amp;#237;tico m&amp;#225;gico" />
+    </StringGroup>
+    <StringGroup type="condition">
+        <String id="1" string="" />
+        <String id="2" string="Cuando el HP es inferior al {value}&amp;#160;%" />
+        <String id="3" string="A partir del nivel {value}" />
+        <String id="4" string="Nivel inferior a {value}" />
+        <String id="5" string="Defensa perfecta exitosa" />
+        <String id="6" string="Da&amp;#241;o infligido por monstruos en estado de Rage" />
+        <String id="7" string="Da&amp;#241;o infligido por monstruos" />
+        <String id="8" string="Tasa de agro m&amp;#225;xima" />
+        <String id="9" string="Da&amp;#241;o al empujar, aturdir o derribar" />
+        <String id="10" string="Da&amp;#241;o al estar aturdido" />
+        <String id="11" string="Da&amp;#241;o al estar derribado" />
+        <String id="12" string="Da&amp;#241;o durante un efecto especial" />
+        <String id="13" string="Da&amp;#241;o durante un efecto {abnormal}" />
+        <String id="14" string="" />
+        <String id="15" string="Da&amp;#241;o frontal" />
+        <String id="16" string="Da&amp;#241;o por la espalda" />
+        <String id="17" string="Da&amp;#241;o" />
+        <String id="18" string="Da&amp;#241;o recibido" />
+        <String id="19" string="Bloqueo exitoso" />
+        <String id="20" string="Al recibir un golpe cuando tu HP es inferior a {value} %" />
+        <String id="21" string="Da&amp;#241;o cr&amp;#237;tico" />
+        <String id="22" string="Al recibir un golpe cuando tu HP es superior a {value} %" />
+        <String id="23" string="Golpes propinados al empujar, aturdir o derribar" />
+        <String id="24" string="Golpe propinado durante el aturdimiento" />
+        <String id="25" string="Golpe propinado durante el derribo" />
+        <String id="26" string="Golpe propinado durante un efecto especial" />
+        <String id="27" string="Golpe propinado durante un efecto {abnormal}" />
+        <String id="28" string="Golpe propinado de frente" />
+        <String id="29" string="Golpe infligido por la espalda" />
+        <String id="30" string="Golpe infligido" />
+        <String id="31" string="Golpe infligido en pleno ataque" />
+        <String id="32" string="Golpe infligido por monstruos enfurecidos" />
+        <String id="33" string="Golpe infligido por monstruos" />
+        <String id="34" string="Al golpear a un objetivo con un HP de {value}&amp;#160;%" />
+        <String id="35" string="Al asestar un golpe cuando tu HP es inferior a {value}&amp;#160;%" />
+        <String id="36" string="Golpe infligido con el nivel de agro m&amp;#225;ximo" />
+        <String id="37" string="Golpe infligido cuando el HP es inferior a {value}&amp;#160;% debido a la sobrecarga" />
+        <String id="38" string="Golpe infligido por una habilidad de ataque cuerpo a cuerpo" />
+        <String id="39" string="Golpe infligido por una habilidad de ataque a distancia" />
+        <String id="40" string="Golpe cr&amp;#237;tico frontal" />
+        <String id="41" string="Golpe cr&amp;#237;tico por la espalda" />
+        <String id="42" string="Golpes cr&amp;#237;ticos al empujar, aturdir o derribar" />
+        <String id="43" string="Golpe infligido cuando el HP es superior a {value}&amp;#160;%" />
+        <String id="44" string="Al asestar un golpe cuando tu HP es superior a {value}&amp;#160;%" />
+        <String id="45" string="Golpe propinado durante un efecto {abnormal}" />
+        <String id="46" string="Golpe infligido desde una distancia de {value}&amp;#160;m" />
+        <String id="47" string="" />
+        <String id="48" string="&lt;font color = '#66bbff'&gt;Planta&lt;/font&gt;" />
+        <String id="49" string="&lt;font color = '#66bbff'&gt;Mineral&lt;/font&gt;" />
+        <String id="50" string="&lt;font color = '#66bbff'&gt;Insecto&lt;/font&gt;" />
+        <String id="51" string="&lt;font color = '#66bbff'&gt;Flujo&lt;/font&gt;" />
+    </StringGroup>
+    <StringGroup type="target">
+        <String id="1" string="" />
+        <String id="2" string="Un jugador recibe:" />
+        <String id="3" string="El monstruo recibe:" />
+        <String id="4" string="El monstruo peque&amp;#241;o recibe:" />
+        <String id="5" string="El monstruo mediano recibe:" />
+        <String id="6" string="El monstruo grande recibe:" />
+        <String id="7" string="" />
+        <String id="8" string="Cuando un jugador:" />
+        <String id="9" string="Cuando un monstruo:" />
+        <String id="10" string="Cuando un monstruo peque&amp;#241;o:" />
+        <String id="11" string="Cuando un monstruo mediano:" />
+        <String id="12" string="Cuando un monstruo grande:" />
+        <String id="13" string="Cuando el objetivo:" />
+        <String id="14" string="Cuando el jugador:" />
+        <String id="15" string="Cuando el monstruo:" />
+        <String id="16" string="Cuando el monstruo peque&amp;#241;o:" />
+        <String id="17" string="Cuando el monstruo mediano:" />
+        <String id="18" string="Cuando el monstruo grande:" />
+    </StringGroup>
+    <StringGroup type="prob">
+        <String id="1" string="Probabilidad de {probValue} %" />
+    </StringGroup>
+</StrSheet_PassiveStatsDefine>

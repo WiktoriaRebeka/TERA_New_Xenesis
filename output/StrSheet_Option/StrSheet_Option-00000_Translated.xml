@@ -1,0 +1,151 @@
+<StrSheet_Option xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Option StrSheet_Option.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Option">
+    <String string="Ventana" readableId="SMT_OPTION_WINDOW_MODE" />
+    <String string="Pantalla completa" readableId="SMT_OPTION_FULL_SCREEN_MODE" />
+    <String string="M&amp;#237;n" readableId="SMT_OPTION_MINIMUM" />
+    <String string="M&amp;#225;x" readableId="SMT_OPTION_MAXIMUM" />
+    <String string="Baja" readableId="SMT_OPTION_LOW_QUALITY" />
+    <String string="Alta" readableId="SMT_OPTION_HIGH_QUALITY" />
+    <String string="Alta" readableId="SMT_OPTION_HIGH" />
+    <String string="Intermedia" readableId="SMT_OPTION_NORMAL" />
+    <String string="Baja" readableId="SMT_OPTION_LOW" />
+    <String string="Desactivado" readableId="SMT_OPTION_OFF" />
+    <String string="Perfil" readableId="SMT_MENU_MYINFO" />
+    <String string="Habilidad" readableId="SMT_MENU_SKILLBOOK" />
+    <String string="Misi&amp;#243;n" readableId="SMT_MENU_QUEST_JOURNAL" />
+    <String string="Inventario" readableId="SMT_MENU_INVENTORY" />
+    <String string="Mapa" readableId="SMT_MENU_WORLD_MAP" />
+    <String string="Minimapa" readableId="SMT_MENU_OVERLAY_MAP" />
+    <String string="Mapa" readableId="SMT_MENU_MAP" />
+    <String string="Actividades" readableId="SMT_MENU_LIFE" />
+    <String string="Social" readableId="SMT_MENU_COMMUNITY" />
+    <String string="Tienda TERA" readableId="SMT_MENU_INGAMESTORE" />
+    <String string="Acceso a Internet" readableId="SMT_MENU_WEB_SERVICE" />
+    <String string="Tienda" readableId="SMT_MENU_STORE" />
+    <String string="Opciones" readableId="SMT_MENU_SYSTEM_OPTION" />
+    <String string="Desconexi&amp;#243;n" readableId="SMT_MENU_EXIT" />
+    <String string="Gremio" readableId="SMT_MENU_GUILD" />
+    <String string="Gremios" readableId="SMT_MENU_GUILD_LIST" />
+    <String string="Amigos" readableId="SMT_MENU_FRIEND_LIST" />
+    <String string="Teleportaci&amp;#243;n" readableId="SMT_MENU_TELEPORT" />
+    <String string="Canal" readableId="SMT_MENU_CHANNEL" />
+    <String string="Informaci&amp;#243;n del grupo de combate" readableId="SMT_MENU_BF_TEAM_INFO" />
+    <String string="Lista de grupos de combate" readableId="SMT_MENU_BF_TEAM_LIST" />
+    <String string="Informaci&amp;#243;n de campo de batalla" readableId="SMT_MENU_BF_ADMISSION" />
+    <String string="Seguimiento de pr&amp;#233;stamos" readableId="SMT_MENU_LOAN_LIST" />
+    <String string="Fabricar" readableId="SMT_MENU_ARTISAN" />
+    <String string="Extracci&amp;#243;n" readableId="SMT_MENU_EXTRACT" />
+    <String string="Desbloqueo" readableId="SMT_MENU_NEAR_TOWN" />
+    <String string="Controles" readableId="SMT_MENU_LEARN_KEY_USAGE" />
+    <String string="Registro de intercambios" readableId="SMT_MENU_TRADE_LOG" />
+    <String string="PEGI" readableId="SMT_MENU_DELIBERATION" />
+    <String string="Combate a muerte" readableId="SMT_MENU_GROUP_DUEL" />
+    <String string="Ayuda" readableId="SMT_MENU_HELP" />
+    <String string="Encantamiento" readableId="SMT_MENU_ENCHANT" />
+    <String string="Evoluci&amp;#243;n de equipo" readableId="SMT_MENU_EVOLUTION" />
+    <String string="Petici&amp;#243;n a un MJ" readableId="SMT_MENU_PETITION" />
+    <String string="Soporte" readableId="SMT_MENU_SUPPORT" />
+    <String string="CdG" readableId="SMT_MENU_PARTY_SEARCH" />
+    <String string="Postulantes al grupo" readableId="SMT_MENU_PARTY_APPLICANT" />
+    <String string="Reclamaci&amp;#243;n de objeto" readableId="SMT_MENU_COUPONBOX" />
+    <String string="Candidatos" readableId="SMT_MENU_SENATOR_CANDIDATE" />
+    <String string="Vanarchs" readableId="SMT_MENU_SENATOR_CONTINENT" />
+    <String string="Tabla de clasificaci&amp;#243;n de campo de batalla" readableId="SMT_MENU_BF_RANKING" />
+    <String string="Clasificaciones" readableId="SMT_MENU_RANKING" />
+    <String string="Gremios del servidor" readableId="SMT_MENU_GUILD_LIST_WINDOW" />
+    <String string="B&amp;#250;squeda de estancias" readableId="SMT_MENU_DUNGEON_MATCHING_WINDOW" />
+    <String string="Clasificaciones de las mazmorras" readableId="SMT_MENU_DUNGEON_RANKING" />
+    <String string="Sistema" readableId="SMT_MENU_ANNOUNCE" />
+    <String string="Evento" readableId="SMT_MENU_EVENT" />
+    <String string="Terapedia" readableId="SMT_MENU_TERAPEDIA" />
+    <String string="Suscripci&amp;#243;n" readableId="SMT_MENU_SETTLE" />
+    <String string="Servicios pr&amp;#233;mium" readableId="SMT_MENU_ADDEDSERVICE" />
+    <String string="Nuevos objetos" readableId="SMT_MENU_PREMIUMITEM" />
+    <String string="Mensaje de bienvenida" readableId="SMT_MENU_UPDATENOTIFICAION" />
+    <String string="Tienda de suministros" readableId="SMT_MENU_PET" />
+    <String string="Tela" readableId="SMT_MENU_WEBSERVICE" />
+    <String string="Tienda de tiquetes" readableId="SMT_MENU_TCATSTRORE" />
+    <String string="Sitio web de TERA" readableId="SMT_MENU_HOMEPAGES" />
+    <String string="Sitio de fans de TERA" readableId="SMT_MENU_FAN_HOMEPAGE" />
+    <String string="P&amp;#225;gina oficial" readableId="SMT_MENU_OFFICIAL_HOMEPAGE" />
+    <String string="Nota del GM" readableId="SMT_MENU_GM_NOTE" />
+    <String string="Hilo del evento" readableId="SMT_MENU_EVENT_CALENDER" />
+    <String string="Mensaje de bienvenida" readableId="SMT_MENU_PATCH_NOTE" />
+    <String string="Recomendaci&amp;#243;n de equipo" readableId="SMT_MENU_RECOMMEND_ITEM" />
+    <String string="Facebook de TERA" readableId="SMT_MENU_SOCIAL_MEDIA" />
+    <String string="Sitio web" readableId="SMT_MENU_HOMEPAGE" />
+    <String string="Gesti&amp;#243;n de banda" readableId="SMT_MENU_PARTYWINDOW_RAIDCONFIG" />
+    <String string="B&amp;#250;squeda de campos de batalla" readableId="SMT_MENU_BF_MATCHING_WINDOW" />
+    <String string="" readableId="SMT_MENU_SERVER_BOARD" />
+    <String string="Cruzada" readableId="SMT_MENU_GUILD_COMPETITION" />
+    <String string="Consejos de juego" readableId="SMT_MENU_GAMETIP_BOARD" />
+    <String string="B&amp;#250;squeda de grupo de evento" readableId="SMT_MENU_EVENTMATCHING" />
+    <String string="Preguntas frecuentes" readableId="SMT_MENU_FAQ" />
+    <String string="Encuesta" readableId="SMT_MENU_SURVEY" />
+    <String string="Reportar un problema" readableId="SMT_MENU_CUSTOMERSERVICE" />
+    <String string="Modificar" readableId="SMT_MENU_CUSTOMIZE_PARTS" />
+    <String string="Cambiar aspecto" readableId="SMT_MENU_CHANGE_ITEM_EXTERIOR" />
+    <String string="Restaurar apariencia" readableId="SMT_MENU_RESTORE_ITEM_EXTERIOR" />
+    <String string="Mascota de combate" readableId="SMT_MENU_EXTENDED_SERVANT" />
+    <String string="Reiniciar instancias" readableId="SMT_MENU_DUNGEON_RESET" />
+    <String string="Casa de subastas de oro difuso" readableId="SMT_MENU_EXCHANGE_COUNTER" />
+    <String string="Equipamiento" readableId="SMT_MENU_EQUIPMENT" />
+    <String string="Grupo" readableId="SMT_MENU_PARTY" />
+    <String string="Correo" readableId="SMT_MENU_POST" />
+    <String string="Buscar" readableId="SMT_MENU_TAG_MATCHING" />
+    <String string="Reclutar" readableId="SMT_MENU_TAG_RECRUIT" />
+    <String string="N" readableId="SMT_MENU_TAG_NEW" />
+    <String string="B&amp;#250;squeda de instancias" readableId="SMT_MENU_DUNGEON_MATCHING" />
+    <String string="B&amp;#250;squeda de campos de batalla" readableId="SMT_MENU_BF_MATCHING" />
+    <String string="Sistema" readableId="SMT_MENU_SYSTEM_MENU" />
+    <String string="Gremio" readableId="SMT_MENU_GUILDUNION" />
+    <String string="Clasificaci&amp;#243;n" readableId="SMT_MENU_LEADERBOARD" />
+    <String string="Lista de ayudantes" readableId="SMT_MENU_SERVANTEXSTORAGE" />
+    <String string="Formato de imagen" readableId="SMT_RR_ALL" />
+    <String string="16:9 ancho" readableId="SMT_RR_16_9" />
+    <String string="16:10 ancho" readableId="SMT_RR_16_10" />
+    <String string="4:3 est&amp;#225;ndar" readableId="SMT_RR_4_3" />
+    <String string="M&amp;#225;s" readableId="SMT_RR_ETC" />
+    <String string="Todos" readableId="SMT_CHARACTER_COUNT_NO_LIMIT" />
+    <String string="Hasta 50" readableId="SMT_CHARACTER_COUNT_LIMIT_50" />
+    <String string="Hasta 30" readableId="SMT_CHARACTER_COUNT_LIMIT_30" />
+    <String string="Hasta 20" readableId="SMT_CHARACTER_COUNT_LIMIT_20" />
+    <String string="Hasta 10" readableId="SMT_CHARACTER_COUNT_LIMIT_10" />
+    <String string="Desactivado" readableId="SMT_NPC_CONVERSATION_CAMERA_TYPE_NOCHANGE" />
+    <String string="Solo misiones" readableId="SMT_NPC_CONVERSATION_CAMERA_TYPE_MISSION" />
+    <String string="Todos los di&amp;#225;logos" readableId="SMT_NPC_CONVERSATION_CAMERA_TYPE_ALL" />
+    <String string="Desactivado" readableId="SMT_COLLECTION_CAMERA_TYPE_NOCHANGE" />
+    <String string="Acercar" readableId="SMT_COLLECTION_CAMERA_TYPE_CHANGE" />
+    <String string="Tienda de suministros" readableId="SMT_MENU_HOMUN" />
+    <String string="Logros" readableId="SMT_MENU_ACHIEVEMENT" />
+    <String string="Alianza" readableId="SMT_MENU_UNION" />
+    <String string="Gesto" readableId="SMT_MENU_SOCIALWINDOW" />
+    <String string="Solicitudes de vanguardia" readableId="SMT_MENU_PLAYGUIDE" />
+    <String string="Banco" readableId="SMT_WAREHOUSE_TITLE" />
+    <String string="Inventario personal" readableId="SMT_USER_WAREHOUSE_TITLE" />
+    <String string="Banco de gremio" readableId="SMT_GUILD_WAREHOUSE_TITLE" />
+    <String string="Probador" readableId="SMT_STYLE_SHOP" />
+    <String string="Transformar sombrero" readableId="SMT_ACCESSORY_TRANSFORMER" />
+    <String string="Armario de disfraces" readableId="SMT_USER_STYLE_WAREHOUSE_TITLE" />
+    <String string="Evento de conexi&amp;#243;n" readableId="SMT_MENU_PCBANG_ACC_TIME_EVENT" />
+    <String string="Evento de asistencia" readableId="SMT_MENU_ATTENDANCE_EVENT" />
+    <String string="Evento de cuestionario OX" readableId="SMT_MENU_OX_QUIZ_EVENT" />
+    <String string="Evento de personaje" readableId="SMT_MENU_CHARACTER_EVENT" />
+    <String string="Evento de jugadores que regresan" readableId="SMT_MENU_RETURN_USER_EVENT" />
+    <String string="Mi personaje" readableId="SMT_MENU_MY_CHARACTER" />
+    <String string="Grupo/gremio" readableId="SMT_MENU_PARTY_AND_GUILD" />
+    <String string="B&amp;#250;squeda r&amp;#225;pida" readableId="SMT_MENU_QUICK_MATCHING" />
+    <String string="Pr&amp;#233;mium" readableId="SMT_MENU_PREMIUM" />
+    <String string="Caf&amp;#233; internet de TERA" readableId="SMT_MENU_TERA_PCBANG_INVEN" />
+    <String string="VIP" readableId="SMT_MENU_TERA_VIP_INVEN" />
+    <String string="Frontera" readableId="SMT_MENU_FRONTIER" />
+    <String string="EXP" readableId="SMT_MENU_EP_SYSTEM" />
+    <String string="&amp;#193;lbum de cartas" readableId="SMT_MENU_COLLECTION_BOOK" />
+    <String string="Facebook" readableId="SMT_MENU_SNS_PROMOTION_FACEBOOK" />
+    <String string="Twitter" readableId="SMT_MENU_SNS_PROMOTION_TWITTER" />
+    <String string="VK" readableId="SMT_MENU_SNS_PROMOTION_VK" />
+    <String string="YouTube" readableId="SMT_MENU_SNS_PROMOTION_YOUTUBE" />
+    <String string="Runa" readableId="SMT_MENU_TBA_RUNE_WINDOW" />
+    <String string="Compra de tiques" readableId="SMT_TBA_WEB_STORE" />
+    <String string="Compra de h&amp;#233;roes de acci&amp;#243;n" readableId="SMT_TBA_PROMOTION" />
+    <String string="Informaci&amp;#243;n de usuario" readableId="SMT_MENU_TBA_USER_INFO" />
+</StrSheet_Option>

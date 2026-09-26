@@ -1,0 +1,103 @@
+<StrSheet_TBACommon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_TBACommon StrSheet_TBACommon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_TBACommon">
+    <String string="&amp;#191;Quieres gastar {Price} {CurrencyIcon} para comprar {ItemName}?" readableId="SMT_TBA_BUY_CONFIRM_MESSAGE" />
+    <String string="&amp;#161;La compra fall&amp;#243;!\nTe falta {Price} {CurrencyIcon} para poder comprar el objeto." readableId="SMT_TBA_SHORT_ON_CURRENCY_ERROR_MESSAGE" />
+    <String string="No tienes ning&amp;#250;n h&amp;#233;roe por el momento. &amp;#161;Compra un h&amp;#233;roe!" readableId="SMT_TBA_TRYING_TO_BUY_SKIN_OF_HERO_DIDNT_OWN_ERROR_MESSAGE" />
+    <String string="La compra fall&amp;#243;. Int&amp;#233;ntalo de nuevo." readableId="SMT_TBA_SERVER_DEINED_BUY" />
+    <String string="No puedes realizar compras durante el combate." readableId="SMT_TBA_CANNOT_BUY_IN_BATTLE_HERO_SELECT_SCENE" />
+    <String string="No puedes hacer compras durante la selecci&amp;#243;n de h&amp;#233;roes." readableId="SMT_TBA_CANNOT_BUY_IN_MAIN_HERO_SELECT_SCENE" />
+    <String string="A&amp;#250;n te falta {Amount} {TCatIcon}. &amp;#191;Quieres ir a comprarlos?" readableId="SMT_TBA_REDIRECT_TO_TCAT_WEB_SHOP" />
+    <String string="No tienes {HeroName} por el momento. &amp;#191;Deseas comprarlo ahora?" readableId="SMT_TBA_REDIRECT_TO_HERO_BUY_PAGE" />
+    <String string="Confirmar" readableId="SMT_TBA_POPUP_CONFIRM" />
+    <String string="Cancelar" readableId="SMT_TBA_POPUP_CANCEL" />
+    <String string="Fragmento" readableId="SMT_TBA_CURRENCY_FRAGMENT_NAME" />
+    <String string="T-Cat" readableId="SMT_TBA_CURRENCY_TCAT_NAME" />
+    <String string="Invocar" readableId="SMT_TBA_HEROPIECE_SYNTHESIZE" />
+    <String string="Vender" readableId="SMT_TBA_HEROPIECE_SELL" />
+    <String string="Vas a vender {PieceAmount} {ItemName} por {Price} {CurrencyIcon}. &amp;#191;Quieres continuar?" readableId="SMT_TBA_HEROPIECE_SELL_CONFIRM_MESSAGE" />
+    <String string="&amp;#161;La invocaci&amp;#243;n fue exitosa!" readableId="SMT_TBA_HEROPIECE_SYNTHESIZE_SUCCESS_TITLE" />
+    <String string="&amp;#161;{heroSkinName} invocado!" readableId="SMT_TBA_HEROPIECE_SYNTHESIZE_SUCCESS" />
+    <String string="La invocaci&amp;#243;n fall&amp;#243;." readableId="SMT_TBA_HEROPIECE_SYNTHESIZE_FAIL_TITLE" />
+    <String string="Mirar" readableId="SMT_TBA_GO_TO_SEE_OBTAINED_HERO_OR_SKIN" />
+    <String string="Formaci&amp;#243;n" readableId="RuneTemplateType01" />
+    <String string="Ataque" readableId="RuneTemplateType02" />
+    <String string="Defensa" readableId="RuneTemplateType03" />
+    <String string="Composici&amp;#243;n" readableId="RuneTemplateType04" />
+    <String string="Tank" readableId="HeroClassTypeTanker" />
+    <String string="Guerrero" readableId="HeroClassTypeWarrior" />
+    <String string="Asesino" readableId="HeroClassTypeAssassin" />
+    <String string="Combatiente a distancia" readableId="HeroClassTypeArcher" />
+    <String string="Hechicero" readableId="HeroClassTypeSorcerer" />
+    <String string="Soporte" readableId="HeroClassTypeSupporter" />
+    <String string="Libro de arena pr&amp;#233;mium" readableId="CombatItemTypeBattlePass" />
+    <String string="Libro de arena superpr&amp;#233;mium" readableId="CombatItemTypeSuperBattlePass" />
+    <String string="EXP de libro de arena" readableId="CombatItemTypeBPPoint" />
+    <String string="H&amp;#233;roe" readableId="CombatItemTypeHero" />
+    <String string="Apariencia de h&amp;#233;roe" readableId="CombatItemTypeHeroSkin" />
+    <String string="Runa" readableId="CombatItemTypeRune" />
+    <String string="Caja gacha" readableId="CombatItemTypeGacha" />
+    <String string="Cambiar el nombre de la p&amp;#225;gina r&amp;#250;nica" readableId="SMT_RUNE_PAGE_NAME_CHANGE_TITLE" />
+    <String string="&amp;#191;Quieres cambiar el nombre de {RunePageName}?" readableId="SMT_RUNE_PAGE_NAME_CHANGE_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_PAGE_NAME_CHANGE_BT_YES" />
+    <String string="Cancelar" readableId="SMT_RUNE_PAGE_NAME_CHANGE_BT_NO" />
+    <String string="Comprar la p&amp;#225;gina r&amp;#250;nica" readableId="SMT_RUNE_PAGE_BUY_TITLE" />
+    <String string="&amp;#191;Quieres comprar la p&amp;#225;gina r&amp;#250;nica por {Price} {CurrencyIcon}?" readableId="SMT_RUNE_PAGE_BUY_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_PAGE_BUY_BT_YES" />
+    <String string="Cancelar" readableId="SMT_RUNE_PAGE_BUY_BT_NO" />
+    <String string="Restablecer la p&amp;#225;gina r&amp;#250;nica" readableId="SMT_RUNE_PAGE_RESET_TITLE" />
+    <String string="&amp;#191;Quieres restablecer la p&amp;#225;gina r&amp;#250;nica?" readableId="SMT_RUNE_PAGE_RESET_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_PAGE_RESET_BT_YES" />
+    <String string="Cancelar" readableId="SMT_RUNE_PAGE_RESET_BT_NO" />
+    <String string="Ocurri&amp;#243; un error al insertar la runa." readableId="SMT_RUNE_EQUIP_ERROR_TITLE" />
+    <String string="No puedes insertar m&amp;#225;s runas de este tipo." readableId="SMT_RUNE_EQUIP_ERROR_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_EQUIP_ERROR_BT_YES" />
+    <String string="No se puede comprar la runa" readableId="SMT_RUNE_PAGE_CANNOT_BUY_TITLE" />
+    <String string="No tienes suficiente oro para comprar esta p&amp;#225;gina r&amp;#250;nica." readableId="SMT_RUNE_PAGE_CANNOT_BUY_BYCURRENCY_DESC" />
+    <String string="Ya no es posible comprar esta p&amp;#225;gina r&amp;#250;nica." readableId="SMT_RUNE_PAGE_CANNOT_BUY_BYMAXCOUNT_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_PAGE_CANNOT_BUY_YES" />
+    <String string="Advertencia" readableId="SMT_RUNE_EDIT_ERROR_TITLE" />
+    <String string="Hay contenido modific&amp;#225;ndose actualmente.&lt;br&gt;&amp;#191;Deseas omitir esto y continuar con la actividad actual?" readableId="SMT_RUNE_EDIT_ERROR_DESC" />
+    <String string="Confirmar" readableId="SMT_RUNE_EDIT_ERROR_BT_YES" />
+    <String string="Cancelar" readableId="SMT_RUNE_EDIT_ERROR_BT_NO" />
+    <String string="Tiempo restante" readableId="SMT_TBA_TIMER_TITLE" />
+    <String string="Modo de cazador de recompensas (normal)" readableId="SMT_TBA_GAMESELECT_MODE_BASIC_NORMAL" />
+    <String string="Modo de cazador de recompensas (liga)" readableId="SMT_TBA_GAMESELECT_MODE_BASIC_RANK" />
+    <String string="No obtuviste la recompensa del libreto de la arena. Int&amp;#233;ntalo de nuevo." readableId="SMT_TBA_BATTLEPASS_FAILED_TO_GET_REWARD" />
+    <String string="No obtuviste la recompensa de la misi&amp;#243;n. Int&amp;#233;ntalo de nuevo." readableId="SMT_TBA_BATTLEPASS_FAILED_TO_GET_MISSION_REWARD" />
+    <String string="&amp;#191;Deseas comprar un libreto de arena pr&amp;#233;mium?" readableId="SMT_TBA_BATTLEPASS_REDIRECT_TO_PASS_BUY_PAGE" />
+    <String string="&amp;#191;Deseas ir a la tienda de libretos de arena?" readableId="SMT_TBA_BATTLEPASS_REDIRECT_TO_BATTLEPASS_STORE" />
+    <String string="&amp;#191;Deseas ir a la p&amp;#225;gina de libretos de arena?" readableId="SMT_TBA_BATTLEPASS_REDIRECT_TO_BATTLEPASS_PAGE" />
+    <String string="Tienes {Amount} {GachaBoxItemName}. &amp;#191;Deseas continuar?" readableId="SMT_TBA_WILL_YOU_OPEN_GACHA" />
+    <String string="Ejecutar 1 vez" readableId="SMT_TBA_OPEN_ONE_BOX" />
+    <String string="Ejecutar todo (m&amp;#225;ximo {Count} unidades)" readableId="SMT_TBA_BULK_OPEN" />
+    <String string="H&amp;#233;roe" readableId="SMT_TBA_HERO_TAB_NAME" />
+    <String string="Objeto" readableId="SMT_TBA_ITEM_TAB_NAME" />
+    <String string="Pase de la arena" readableId="SMT_TBA_BATTLEPASS_TAB_NAME" />
+    <String string="M&amp;#225;s informaci&amp;#243;n" readableId="SMT_TBA_USERINFO_TAB_NAME" />
+    <String string="Tienda de runas" readableId="SMT_TBA_RUNE_STORE_SUBTAB_NAME" />
+    <String string="Fragmento heroico" readableId="SMT_TBA_HEROPIECE_SUBTAB_NAME" />
+    <String string="Bot&amp;#237;n" readableId="SMT_TBA_GACHA_SUBTAB_NAME" />
+    <String string="Tienda de pases de la arena" readableId="SMT_TBA_BATTLEPASS_STORE_SUBTAB_NAME" />
+    <String string="Tienda de tikats" readableId="SMT_TBA_TCAT_STORE_SUBTAB_NAME" />
+    <String string="En tu posesi&amp;#243;n" readableId="SMT_TBA_ITEM_ALREADY_OWNED" />
+    <String string="Comprar objeto" readableId="SMT_TBA_ITEM_BUY_CONFIRM_MESSAGE_TITLE" />
+    <String string="La compra fall&amp;#243;." readableId="SMT_TBA_ITEM_BUY_FAIL_MESSAGE_TITLE" />
+    <String string="Vender objeto" readableId="SMT_TBA_ITEM_SELL_CONFIRM_MESSAGE_TITLE" />
+    <String string="Transferencia" readableId="SMT_TBA_FOLLOW_LINK_TITLE" />
+    <String string="Consejo: Solo puedes conseguir y usar insignias de pase de la arena en la tienda de pases de la arena cuando hay una temporada en curso." readableId="SMT_TBA_BATTLEPASS_STORE_DESCRIPTION" />
+    <String string="Los pases de la arena solo son v&amp;#225;lidos para una temporada. Los pases de la arena pr&amp;#233;mium te ofrecen a&amp;#250;n m&amp;#225;s ventajas." readableId="SMT_TBA_BP_INTRODUCE" />
+    <String string="Consejo: Solo puedes comprar un pase de la arena pr&amp;#233;mium por temporada. Debes poseer un pase de la arena pr&amp;#233;mium para poder comprar tiques de EXP (pase de la arena). \nConsejo: Si posees un pase de la arena pr&amp;#233;mium, alcanzas el nivel de PA 4. El pase de la arena superpr&amp;#233;mium te impulsa al nivel de PA 45." readableId="SMT_TBA_TCAT_STORE_DESCRIPTION" />
+    <String string="La compra es imposible porque el pase de la arena ya alcanz&amp;#243; el nivel m&amp;#225;ximo." readableId="SMT_TBA_CANNOT_BUY_WITH_BATTLEPASS_MAX_LEVEL" />
+    <String string="Selecci&amp;#243;n de h&amp;#233;roe" readableId="SMT_TBA_LOBBY_HERO_SELECT_BUTTON" />
+    <String string="Listo" readableId="SMT_TBA_LOBBY_READY_COMPLETE_BUTTON" />
+    <String string="Acceso al pueblo" readableId="SMT_TBA_LOBBY_GO_TO_TOWN_BUTTON" />
+    <String string="Acceder al juego" readableId="SMT_TBA_LOBBY_ENTER_GAME_BUTTON" />
+    <String string="El juego no est&amp;#225; accesible." readableId="SMT_TBA_CANNOT_ENTER_LOBBY" />
+    <String string="Temporada actual" readableId="SMT_TBA_CURRENT_SEASON_RANK" />
+    <String string="Rango {seasonId}" readableId="SMT_TBA_SEASON_NAME_RANK_FORMAT" />
+    <String string="Partida normal" readableId="SMT_TBA_CURRENT_SEASON_NORMAL" />
+    <String string="Confirmar" readableId="SMT_TBA_NULL_USERINFO_POPUP_TITLE" />
+    <String string="Confirmar" readableId="SMT_TBA_NULL_USERINFO_POPUP_CONFIRM_BUTTON" />
+    <String string="La cuenta &lt;font color='#7ae77f'&gt;{userName}&lt;/font&gt; no existe." readableId="SMT_TBA_NULL_USERINFO_POPUP_DESCRIPTION" />
+    <String string="Nombre" readableId="SMT_TBA_CREATE_ACCOUNT_TITLE" />
+    <String string="Elige tu nombre para Battle Arena." readableId="SMT_TBA_CREATE_ACCOUNT_DESC" />
+</StrSheet_TBACommon>

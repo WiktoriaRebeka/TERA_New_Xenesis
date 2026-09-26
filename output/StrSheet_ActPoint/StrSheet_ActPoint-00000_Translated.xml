@@ -1,0 +1,7 @@
+<StrSheet_ActPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ActPoint StrSheet_ActPoint.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ActPoint">
+    <String desc="Ces points sont requis pour acc&#233;der &#224; des lieux sp&#233;ciaux, comme les donjons.&lt;br&gt;Ils se rechargent de {RecoveryRate} toutes les 3&#160;minutes." title="&lt;font size='20'&gt;Or du v&#233;cu {curPoint}/{maxPoint}&lt;/font&gt;" readableId="Main" />
+    <String desc="La quantit&#233; d'or maximale passe de {original} &#224; {new}." title="Effet premium" readableId="PremiumMaxPoint" showWhenDeactive="true" />
+    <String desc="Les points recharg&#233;s toutes les 3&#160;minutes passent de {original} &#224; {new}." title="" readableId="PremiumRecovery" showWhenDeactive="true" />
+    <String desc="{new}&#160;points suppl&#233;mentaires sont recharg&#233;s toutes les 3&#160;minutes." title="Effet&#160;: vitesse de rechargement accrue" readableId="RecoveryBonus" showWhenDeactive="false" />
+    <String desc="Vous ne consommez pas d'or du v&#233;cu." title="Effet&#160;: or du v&#233;cu in&#233;puisable" readableId="Infinite" showWhenDeactive="false" />
+</StrSheet_ActPoint>

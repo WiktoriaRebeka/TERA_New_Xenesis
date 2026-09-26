@@ -1,0 +1,29 @@
+<StrSheet_EnchantRenewal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal StrSheet_EnchantRenewal.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal">
+    <String id="1" string="Probabilidad de &amp;#233;xito de encantamiento: &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="2" string="&lt;font color='#57bb35'&gt;(EXP de equipo {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="3" string="{showOnDamageAvailable}Si el encantamiento falla, el equipo corre el riesgo de &lt;font color='#FF0000'&gt;da&amp;#241;arse&lt;/font&gt;." />
+    <String id="4" string="{showOnStepDownAvailable}Si el encantamiento falla, el nivel de encantamiento &lt;font color='#FF0000'&gt;disminuye&lt;/font&gt; y el equipo corre el riesgo de &lt;font color='#FF0000'&gt;da&amp;#241;arse&lt;/font&gt;." />
+    <String id="28" string="Encantar equipo consume materiales y oro." />
+    <String id="5" string="Probabilidad de &amp;#233;xito de evoluci&amp;#243;n: &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="6" string="&lt;font color='#57bb35'&gt;(EXP de equipo {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="7" string="{showOnDamageAvailable}Si la evoluci&amp;#243;n falla, el equipo corre el riesgo de &lt;font color='#FF0000'&gt;da&amp;#241;arse&lt;/font&gt;." />
+    <String id="8" string="{showOnDestroyable}Si la evoluci&amp;#243;n falla, el equipo corre el riesgo de &lt;font color='#FF0000'&gt;da&amp;#241;arse&lt;/font&gt; o &lt;font color='#FF0000'&gt;destruirse&lt;/font&gt;." />
+    <String id="9" string="Probabilidad de &amp;#233;xito de reparaci&amp;#243;n: &lt;font color='#57bb35'&gt;{finalProb} %&lt;/font&gt;" />
+    <String id="10" string="Una vez que el equipo da&amp;#241;ado ha sido reparado, se puede proceder con el encantamiento/evoluci&amp;#243;n." />
+    <String id="11" string="&lt;font color='#57bb35'&gt;Probabilidad de &amp;#233;xito de encantamiento: {finalProb} %&lt;/font&gt;&lt;BR&gt;&lt;font color='#DBB006'&gt;(El c&amp;#225;lculo de la probabilidad de &amp;#233;xito del encantamiento se basa en los siguientes factores y solo se muestran los primeros tres decimales.)&lt;/font&gt;" />
+    <String id="13" string="- Valor ajustado seg&amp;#250;n la EXP de equipo: {enchantEquipExp} %" />
+    <String id="14" string="- Valor ajustado seg&amp;#250;n los encantamientos fallidos: {enchantFailed} %&lt;BR&gt;&lt;BR&gt;&lt;font color='#57bb35'&gt;&amp;#191;Qu&amp;#233; es la EXP de equipo?&lt;/font&gt;&lt;BR&gt;- Completa una misi&amp;#243;n de la Vanguardia para obtener esta estad&amp;#237;stica que aumenta la probabilidad de &amp;#233;xito de encantamientos y evoluciones (solo para equipo de nivel 65).&lt;BR&gt;- Una vez que la EXP de equipo alcanza el valor indicado en la descripci&amp;#243;n emergente, el valor de correcci&amp;#243;n se maximiza y puedes obtener hasta {enchantFailed}&lt;BR&gt;&lt;BR&gt; EXP de equipo." />
+    <String id="15" string="&lt;BR&gt;" />
+    <String id="16" string="&lt;font color='#57bb35'&gt;&amp;#191;Qu&amp;#233; es la EXP de equipo?&lt;/font&gt;&lt;BR&gt;- Completa una misi&amp;#243;n de la Vanguardia para obtener esta estad&amp;#237;stica que aumenta la probabilidad de &amp;#233;xito de encantamientos y evoluciones (solo para equipo de nivel 65)." />
+    <String id="17" string="- Una vez que la EXP de equipo alcanza el valor indicado en la descripci&amp;#243;n emergente, el valor de correcci&amp;#243;n se maximiza y puedes obtener hasta &lt;font color='#ff0000'&gt;{supExp}&lt;/font&gt; EXP de equipo." />
+    <String id="18" string="&lt;font color='#57bb35'&gt;Probabilidad de &amp;#233;xito de evoluci&amp;#243;n: {finalProb} %&lt;/font&gt;" />
+    <String id="19" string="&lt;font color='#DBB006'&gt;(La probabilidad de &amp;#233;xito de evoluci&amp;#243;n se calcula mediante la combinaci&amp;#243;n de los siguientes factores y solo se muestran los primeros tres decimales.)&lt;/font&gt;" />
+    <String id="20" string="- Valor ajustado seg&amp;#250;n las evoluciones fallidas: {enchantFailed} %" />
+    <String id="21" string="- Valor ajustado seg&amp;#250;n los efectos de evento: {enchantEvent} %" />
+    <String id="22" string="- Valor ajustado seg&amp;#250;n los efectos: {enchantAbnormality}&amp;#160;%" />
+    <String id="23" string="- Valor ajustado seg&amp;#250;n el rango VIP: {enchantVipSystem}&amp;#160;%" />
+    <String id="24" string="&lt;font color='#57bb35'&gt;Probabilidad de &amp;#233;xito de reparaci&amp;#243;n: {finalProb}&amp;#160;%&lt;/font&gt;" />
+    <String id="25" string="&lt;font color='#DBB006'&gt;(El c&amp;#225;lculo de la probabilidad de &amp;#233;xito de la reparaci&amp;#243;n se basa en los siguientes elementos, mostrando &amp;#250;nicamente los primeros tres decimales.)&lt;/font&gt;" />
+    <String id="26" string="- Valor ajustado seg&amp;#250;n las reparaciones fallidas: {enchantFailed}&amp;#160;%" />
+    <String id="27" string="&lt;font color='#57bb35'&gt;[Equipo da&amp;#241;ado]&lt;/font&gt;&lt;BR&gt;- Cuando falla un encantamiento o evoluci&amp;#243;n, existe cierta probabilidad de que el equipo resulte da&amp;#241;ado.&lt;BR&gt;- Es posible seguir usando el equipo da&amp;#241;ado, pero ya no se puede encantar ni evolucionar.&lt;BR&gt;- Solo se podr&amp;#225; intentar de nuevo el encantamiento o evoluci&amp;#243;n tras una reparaci&amp;#243;n exitosa." />
+</StrSheet_EnchantRenewal>

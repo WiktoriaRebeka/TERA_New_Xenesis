@@ -1,0 +1,76 @@
+<StrSheet_Politics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Politics StrSheet_Politics.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Politics">
+    <String id="1" string="Comit&amp;#233; electoral de Valkyon" />
+    <String id="2" string="Gu&amp;#237;a de elecciones" />
+    <String id="3" string="&amp;#161;Toma el control! Post&amp;#250;late para las elecciones de Vanarch de la Federaci&amp;#243;n Valkyon. El honor y el poder son tuyos. Cada Vanarch administra una provincia: establece las leyes y aplica impuestos locales.&#xA;&#xA;Reg&amp;#237;strate con el secretario de elecciones en cualquier ciudad importante.&#xA;Elegibilidad:&#xA; Nivel {UserLevel} m&amp;#237;nimo.&#xA; Maestro de un gremio de nivel superior a {GuildLevel} y con al menos {Count} miembros.&#xA;Tarifa de inscripci&amp;#243;n:&#xA; {Amount} recompensas de Catharnach.&#xA; {Gold@money}.&#xA;&#xA;&amp;#161;Buena suerte!" />
+    <String id="4" string="Para tu voto en {ElectionContinent}" />
+    <String id="5" string="Resultados en {ElectionContinent}&#xA;Voto por {UserName} del gremio {GuildName}." />
+    <String id="6" string="Reglas JcJ regionales" />
+    <String id="7" string="Aplicar los par&amp;#225;metros JcJ generales" />
+    <String id="8" string="Sin JcJ" />
+    <String id="10" string="Comerciantes locales" />
+    <String id="20" string="Calidad del cl&amp;#233;rigo local" />
+    <String id="30" string="Instructores locales" />
+    <String id="40" string="Corredores regionales" />
+    <String id="31" string="Registrado: {lordNumber}&amp;#170; competencia de Vanarch" />
+    <String id="32" string="Gracias por inscribirte en la {lordNumber}&amp;#170; competencia de Vanarch. &amp;#161;Buena suerte!&#xA;Detalles&#xA;Continente: {ElectionContinent} &#xA;Tipo: {ContestType}&#xA;Regiones preferidas&#xA;1&amp;#170; regi&amp;#243;n: {guardName1}&#xA;2&amp;#170; regi&amp;#243;n: {guardName2}&#xA;3&amp;#170; regi&amp;#243;n: {guardName3}&#xA;4&amp;#170; regi&amp;#243;n: {guardName4}&#xA;5&amp;#170; regi&amp;#243;n: {guardName5}&#xA;&#xA;&amp;#161;Debes ganar el respeto de los dem&amp;#225;s jugadores para triunfar!" />
+    <String id="41" string="Resultados de la elecci&amp;#243;n de Vanarch: {ElectionContinent}" />
+    <String id="42" string="&amp;#161;Felicitaciones! &amp;#161;Eres el {lordNumber}{@ordinal:{lordNumber}} Vanarch de la regi&amp;#243;n {guardName}!&#xA;Privilegios: ganas oro de los excedentes de impuestos y los miembros de tu gremio obtienen la posibilidad de montar monturas de honor.&#xA;Poderes: puedes modificar las tasas de impuestos, cambiar las reglas JcJ, asignar PNJ especializados y hacer anuncios regionales a los jugadores.&#xA;Procedimiento: administra las leyes y las tasas de impuestos con la ayuda de tus asistentes presentes en la mayor&amp;#237;a de las ciudades de la regi&amp;#243;n." />
+    <String id="101" string="Fin del mandato de Vanarch" />
+    <String id="102" string="La Federaci&amp;#243;n te agradece por los servicios prestados. Adjunto encontrar&amp;#225;s el resto de tus excedentes de impuestos regionales." />
+    <String id="201" string="Fuera de clasificaci&amp;#243;n" />
+    <String id="301" string="Voto popular" />
+    <String id="302" string="GvG" />
+    <String id="1001" string="Establecer impuestos de servicio y comercio" />
+    <String id="1002" string="Impuesto de ventas de comerciantes generales" />
+    <String id="1003" string="Impuesto de ventas de Crystal" />
+    <String id="1004" string="Impuesto de ventas de glifos" />
+    <String id="1005" string="Impuesto de ventas de artesan&amp;#237;a" />
+    <String id="1006" string="Impuesto de ventas de tiendas de especialidades" />
+    <String id="2001" string="Impuestos de mejora" />
+    <String id="2002" string="Impuesto de vuelo" />
+    <String id="2003" string="Impuesto de aprendizaje de habilidades" />
+    <String id="2004" string="Impuesto de teletransporte" />
+    <String id="31300005" string="Sin tiendas de especialidades" />
+    <String id="31300006" string="Tiendas de especialidades abiertas" />
+    <String id="31300007" string="Cl&amp;#233;rigos de recuperaci&amp;#243;n" />
+    <String id="31300008" string="Cl&amp;#233;rigos de recuperaci&amp;#243;n nobles" />
+    <String id="31300009" string="Sin instructores de habilidades" />
+    <String id="31300010" string="Instructores de habilidades disponibles" />
+    <String id="31300011" string="Sin intermediario" />
+    <String id="31300012" string="Intermediarios presentes" />
+    <String id="10001" string="Permitir JcJ en tu regi&amp;#243;n." />
+    <String id="10002" string="Prohibir el JcJ en tu regi&amp;#243;n." />
+    <String id="10003" string="Cerrar las tiendas de especialidades que venden objetos no disponibles en las tiendas normales." />
+    <String id="10004" string="Abrir tiendas de especialidades que venden objetos no disponibles en las tiendas normales." />
+    <String id="10005" string="Los cl&amp;#233;rigos de recuperaci&amp;#243;n restauran por completo la resistencia del jugador." />
+    <String id="10006" string="Los cl&amp;#233;rigos de recuperaci&amp;#243;n nobles restauran por completo la resistencia del jugador y le otorgan un bono de velocidad." />
+    <String id="10007" string="Retirar a los instructores de habilidades de la regi&amp;#243;n." />
+    <String id="10008" string="Ofrecer a los instructores de habilidades de la regi&amp;#243;n." />
+    <String id="10009" string="Impuesto sobre las ventas de las tiendas de objetos generales locales." />
+    <String id="10010" string="Impuesto sobre las ventas de las tiendas de Crystal locales." />
+    <String id="10011" string="Impuesto sobre las ventas de los maestros de glifos locales." />
+    <String id="10012" string="Impuesto sobre las ventas de las tiendas de artesan&amp;#237;a locales." />
+    <String id="10013" string="Impuesto regional sobre los vuelos en pegaso." />
+    <String id="10014" string="Impuesto regional por la adquisici&amp;#243;n de nuevas habilidades." />
+    <String id="10015" string="Impuesto regional sobre los viajes por teletransporte." />
+    <String id="10016" string="{UserName} cambi&amp;#243; la ley {PolicyName} de la regi&amp;#243;n {GuardName} a {PolicyItemName}." />
+    <String id="10017" string="{UserName} cambi&amp;#243; la ley {PolicyName} de la regi&amp;#243;n {GuardName} a {PolicyItemName}." />
+    <String id="10018" string="La ley {PolicyName} de la regi&amp;#243;n {GuardName} volvi&amp;#243; a ser {PolicyItemName}." />
+    <String id="10019" string="La regi&amp;#243;n no cuenta con ning&amp;#250;n intermediario." />
+    <String id="10020" string="La regi&amp;#243;n cuenta con intermediarios." />
+    <String id="10021" string="Impuesto sobre las ventas de las tiendas de especialidades locales." />
+    <String id="20001" string="GvG" />
+    <String id="20002" string="Voto popular" />
+    <String id="20011" string="Inscripci&amp;#243;n" />
+    <String id="20012" string="Competici&amp;#243;n" />
+    <String id="20013" string="Reinado" />
+    <String id="20021" string="Durante las inscripciones, los maestros de gremio pueden postularse para el puesto de Vanarch&lt;BR&gt;con los secretarios electorales e indicar las regiones de su preferencia." />
+    <String id="20022" string="Los competidores se enfrentan por el control de una zona en su continente mediante votos o&lt;BR&gt;puntos GcG. Las competiciones se llevan a cabo por continente. Los jugadores elegibles pueden votar&lt;BR&gt;haciendo clic en el icono de voto cerca de la br&amp;#250;jula. Los competidores que re&amp;#250;nan la mayor cantidad&lt;BR&gt;de votos o puntos GcG resultan vencedores." />
+    <String id="20023" string="Si ganas una elecci&amp;#243;n, se te asigna una regi&amp;#243;n seg&amp;#250;n tu clasificaci&amp;#243;n.&lt;BR&gt;Tendr&amp;#225;s la obligaci&amp;#243;n de administrar la regi&amp;#243;n con honor. Mediante PNJ auxiliares,&lt;BR&gt;los Vanarchs establecen las leyes y los impuestos, y mantienen el orden." />
+    <String id="20031" string="Etapa actual: Inscripci&amp;#243;n&lt;br&gt;Fecha de finalizaci&amp;#243;n: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Siguiente etapa: competici&amp;#243;n&lt;br&gt;Fecha de inicio: {NextStateStartTime}" />
+    <String id="20032" string="Etapa actual: Competici&amp;#243;n&lt;br&gt;Fecha de finalizaci&amp;#243;n: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Siguiente etapa: Reinado&lt;br&gt;Fecha de inicio: {NextStateStartTime}" />
+    <String id="20033" string="Etapa actual: Reinado&lt;br&gt;Fecha de finalizaci&amp;#243;n: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Siguiente etapa: Inscripci&amp;#243;n&lt;br&gt;Fecha de inicio: {NextStateStartTime}" />
+    <String id="20041" string="Ninguno" />
+    <String id="30001" string="Sin historial de Vanarch" />
+    <String id="30002" string="{lordNumber}{@ordinal:{lordNumber}} Vanarch de la regi&amp;#243;n {guardName}" />
+</StrSheet_Politics>

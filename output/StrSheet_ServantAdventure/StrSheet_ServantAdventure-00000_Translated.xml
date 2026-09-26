@@ -1,0 +1,24 @@
+<StrSheet_ServantAdventure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ServantAdventure StrSheet_ServantAdventure.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ServantAdventure">
+    <String string="Cancelar la aventura" readableId="SAMT_CANCEL_ADVENTURE_POPUP_TITLE" />
+    <String string="&amp;#191;Quieres cancelar la aventura de {servantName} en la estancia {fieldName}?&lt;br&gt;No obtendr&amp;#225;s ning&amp;#250;n bot&amp;#237;n si la cancelas.&lt;br&gt;&amp;#191;Continuar?" readableId="SAMT_CANCEL_ADVENTURE_POPUP_CONTENT" />
+    <String string="S&amp;#237;" readableId="SAMT_CANCEL_ADVENTURE_POPUP_BUTTON_YES" />
+    <String string="No" readableId="SAMT_CANCEL_ADVENTURE_POPUP_BUTTON_NO" />
+    <String string="Comenzar aventura" readableId="SAMT_START_ADVENTURE_POPUP_TITLE" />
+    <String string="&amp;#191;Quieres enviar a {servantName} a la aventura en la estancia {fieldName}?&lt;br&gt;Duraci&amp;#243;n: {expectedAdventureTime}&lt;br&gt;&lt;font color = '#FF0000'&gt;Al comenzar la aventura, {servantName} consume un {energyRate} % de vitalidad.&lt;/font&gt;" readableId="SAMT_START_ADVENTURE_POPUP_CONTENT" />
+    <String string="{hour} h {minute} min" readableId="SAMT_START_ADVENTURE_POPUP_CONTENT_EXPECT_TIME_TOTAL" />
+    <String string="{minute} min" readableId="SAMT_START_ADVENTURE_POPUP_CONTENT_EXPECT_TIME_ONLY_MINUTE" />
+    <String string="Comenzar aventura" readableId="SAMT_START_ADVENTURE_POPUP_BUTTON_YES" />
+    <String string="Cancelar" readableId="SAMT_START_ADVENTURE_POPUP_BUTTON_NO" />
+    <String string="Reducir duraci&amp;#243;n" readableId="SAMT_ADVENTURE_TIME_REDUCE_POPUP_TITLE" />
+    <String string="Tiempo restante: {remainTime}" readableId="SAMT_ADVENTURE_TIME_REDUCE_POPUP_CONTENT" />
+    <String string="Confirmar" readableId="SAMT_ADVENTURE_TIME_REDUCE_POPUP_BUTTON_YES" />
+    <String string="Cancelar" readableId="SAMT_ADVENTURE_TIME_REDUCE_POPUP_BUTTON_NO" />
+    <String string="Aventura terminada" readableId="SAMT_ADVENTURE_REWARD_POPUP_TITLE" />
+    <String string="&amp;#161;El viaje ha sido apasionante!" readableId="SAMT_ADVENTURE_LOW_REWARD_POPUP_CONTENT" />
+    <String string="&amp;#161;Jam&amp;#225;s hab&amp;#237;a vivido una expedici&amp;#243;n tan emocionante!" readableId="SAMT_ADVENTURE_MID_REWARD_POPUP_CONTENT" />
+    <String string="&amp;#161;Eso s&amp;#237; que es una aventura!" readableId="SAMT_ADVENTURE_HIGH_REWARD_POPUP_CONTENT" />
+    <String string="&amp;#161;Qu&amp;#233; experiencia tan fabulosa!" readableId="SAMT_ADVENTURE_CRITICAL_REWARD_POPUP_CONTENT" />
+    <String string="&lt;font color = '#2478FF'&gt;[Campos de recolecci&amp;#243;n]&lt;/font&gt;&lt;br&gt;Todos los compa&amp;#241;eros pueden ir de aventura a este lugar, pero las mascotas no. Cada campo contiene bienes de recolecci&amp;#243;n aleatorios.&lt;br&gt;&lt;br&gt;&lt;font color = '#2478FF'&gt;[Dungeon]&lt;/font&gt;&lt;br&gt;Un compa&amp;#241;ero debe haber alcanzado un nivel determinado para poder ir de aventura y conseguir varias recompensas.&lt;br&gt;El compa&amp;#241;ero tiene una baja probabilidad de obtener recompensas de mazmorra.&lt;br&gt;&lt;br&gt;&lt;font color = '#2478FF'&gt;[Informaci&amp;#243;n]&lt;/font&gt;&lt;br&gt;La probabilidad del viaje de aventura aumenta seg&amp;#250;n el nivel de afecto.&lt;br&gt;No puedes &lt;font color = '#FF0000'&gt;invocar, cambiar de lugar o evolucionar&lt;/font&gt; a un compa&amp;#241;ero que est&amp;#233; en plena aventura.&lt;br&gt;" readableId="SAMT_ADVENTURE_TOOLTIP_GUIDE_TEXT" />
+    <String string="&lt;font color = '#2f8bd4'&gt;{fieldName}&lt;/font&gt;	&lt;font color = '#FFFFFF'&gt;&lt;font color = '#41FF3A'&gt;Superior&lt;/font&gt;: a partir del nivel {uncommonMinLevel}&lt;br&gt;&lt;font color = '#2478FF'&gt;Rare&lt;/font&gt;: a partir del nivel {rareMinLevel}&lt;br&gt;&lt;font color = '#FFBB00'&gt;Legendario&lt;/font&gt;: a partir del nivel {legendMinLevel}&lt;br&gt;&lt;font color = '#00BFFF'&gt;Vitalidad&lt;/font&gt;: a partir de {energyRate} %&lt;/font&gt;&lt;br&gt; &lt;font color='#41FF3A'&gt;Condiciones requeridas para la aventura&lt;/font&gt;" readableId="SAMT_ADVENTURE_FIELD_TOOLTIP" />
+    <String string="&lt;font color = '#4FC9DE'&gt;&lt;font&gt;Recompensa de aventura&lt;/font&gt;&lt;/font&gt;\nSi la aventura tiene &amp;#233;xito, tienes cierta probabilidad de obtener la recompensa anterior.&lt;br&gt;\n{rewardItemList}" readableId="SAMT_ADVENTURE_FIELD_REWARD_ITEM_TOOLTIP" />
+</StrSheet_ServantAdventure>

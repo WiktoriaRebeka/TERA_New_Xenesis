@@ -1,0 +1,85 @@
+<StrSheet_Petition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Petition StrSheet_Petition.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Petition">
+    <String id="0" string="Elegir una categor&amp;#237;a" />
+    <String id="100" string="El equipo de soporte se encarga de resolver los problemas que los jugadores puedan encontrar en el juego y no logren solucionar por s&amp;#237; mismos. Enviamos las soluciones en forma de respuestas a tus mensajes. Para permitir un procesamiento lo m&amp;#225;s r&amp;#225;pido posible, lee atentamente las instrucciones antes de enviar tu solicitud y aseg&amp;#250;rate de rellenar todos los campos obligatorios. Las solicitudes se procesan en orden de llegada, excepto en caso de una interrupci&amp;#243;n grave del servicio. Te pedimos que tengas paciencia, nos esforzamos por procesar tu solicitud lo antes posible. Para obtener asistencia r&amp;#225;pida, utiliza el sitio de soporte al cliente de TERA: http://support.fr.tera.gameforge.com, donde encontrar&amp;#225;s mucha informaci&amp;#243;n &amp;#250;til." />
+    <String id="1" string="Conexi&amp;#243;n/Desplazamiento" />
+    <String id="101" string="Los problemas de conexi&amp;#243;n y desplazamiento son nuestra prioridad. Para evitarte una espera innecesaria cuando tu personaje ya no pueda moverse, intenta usar un pergamino de teletransporte o el comando de desbloqueo en el men&amp;#250; Sistema antes de enviar una solicitud." />
+    <String id="10" string="Cierres inesperados/Errores de conexi&amp;#243;n" />
+    <String id="110" string="Ciertos problemas externos pueden causar mensajes de error o cierres inesperados. Puedes resolver estos problemas 1) ejecutando TERA despu&amp;#233;s de cerrar todos los dem&amp;#225;s programas. 2) Instalando la versi&amp;#243;n m&amp;#225;s reciente de DirectX (9.0c o superior). 3) Por &amp;#250;ltimo, actualizando los controladores de tu tarjeta de sonido, tarjeta gr&amp;#225;fica y placa madre integrada, as&amp;#237; como tu sistema operativo." />
+    <String id="1000" string="Nombre del personaje" />
+    <String id="11" string="Personajes atascados" />
+    <String id="111" string="Si tu personaje est&amp;#225; atascado o intenta llegar siempre al mismo lugar, la mayor&amp;#237;a de las veces puedes liberarte usando un pergamino de teletransporte o mediante el comando de desbloqueo ubicado en el men&amp;#250; Sistema. Si esto no resuelve el problema, no dudes en contactar a un GM para que te ayude." />
+    <String id="2" string="Recuperaci&amp;#243;n" />
+    <String id="102" string="Solo autorizaremos la recuperaci&amp;#243;n en el caso excepcional de que podamos confirmar claramente a trav&amp;#233;s de los registros del juego que un error del sistema borr&amp;#243; al personaje o al objeto. Nota: los personajes perdidos durante el curso normal de la instalaci&amp;#243;n del juego son particularmente dif&amp;#237;ciles de recuperar." />
+    <String id="20" string="Nota: solo aprobaremos una recuperaci&amp;#243;n por cuenta cada 3 meses. Cualquier solicitud adicional ser&amp;#225; rechazada. Sin embargo, esta limitaci&amp;#243;n no se aplica si sospechas un robo de tu cuenta o un acceso fraudulento. &amp;#161;En este caso, av&amp;#237;sanos de inmediato!" />
+    <String id="120" string="Los personajes de nivel 4 o inferior no se pueden recuperar en caso de eliminaci&amp;#243;n, tendr&amp;#225;s que crearlos de nuevo. Concedemos un plazo de 7 d&amp;#237;as tras la eliminaci&amp;#243;n durante el cual puedes recuperar tu personaje t&amp;#250; mismo. Un GM puede ayudarte a recuperar un personaje dentro de los 30 d&amp;#237;as posteriores a su eliminaci&amp;#243;n. Pasado ese tiempo, la eliminaci&amp;#243;n es definitiva. Nota: excepto en caso de fraude o robo manifiesto, solo aprobaremos una recuperaci&amp;#243;n por cuenta cada 3 meses. Cualquier solicitud adicional ser&amp;#225; rechazada." />
+    <String id="1001" string="Nombre del personaje eliminado" />
+    <String id="1002" string="Fecha de eliminaci&amp;#243;n" />
+    <String id="21" string="Recuperaci&amp;#243;n de objetos" />
+    <String id="121" string="Procederemos a la recuperaci&amp;#243;n de un objeto solo si la p&amp;#233;rdida de este se debe a un error del sistema seg&amp;#250;n los registros del juego. No recuperaremos ning&amp;#250;n objeto perdido por error o por negligencia del jugador hacia las reglas del juego. Nota: excepto en caso de fraude o robo manifiesto, solo autorizaremos una recuperaci&amp;#243;n por cuenta cada 3 meses. Cualquier solicitud adicional ser&amp;#225; rechazada." />
+    <String id="1003" string="Objeto perdido" />
+    <String id="1004" string="Hora de la p&amp;#233;rdida del objeto" />
+    <String id="22" string="Otras recuperaciones" />
+    <String id="122" string="Si tu solicitud se refiere a algo que no sean objetos y personajes, expl&amp;#237;canos tu problema con el mayor detalle posible. Proporcionarnos la hora exacta de la p&amp;#233;rdida mejora enormemente nuestras posibilidades de brindarte ayuda eficaz. Nota: en caso de fraude o robo manifiesto, solo autorizaremos una recuperaci&amp;#243;n por cuenta cada 3 meses. Cualquier solicitud adicional ser&amp;#225; rechazada." />
+    <String id="1005" string="Hora del evento" />
+    <String id="3" string="Solicitudes relacionadas con el juego" />
+    <String id="103" string="&amp;#191;Has o&amp;#237;do hablar alguna vez de TERAPEDIA, nuestro sitio web lleno de informaci&amp;#243;n sobre TERA? &amp;#161;No olvides echarle un vistazo antes de enviar una solicitud dentro del juego!" />
+    <String id="30" string="Ayuda para misiones" />
+    <String id="130" string="Presiona la tecla [L] para abrir el diario de misiones, que te informa sobre las misiones y la ubicaci&amp;#243;n de los PNJ. Si te atascas{@g:/e} en una misi&amp;#243;n, consulta primero tu diario. Si aun as&amp;#237; deseas obtener informaci&amp;#243;n sobre una misi&amp;#243;n, escribe su t&amp;#237;tulo y describe en detalle la secci&amp;#243;n en la que tienes dificultades." />
+    <String id="1006" string="T&amp;#237;tulo de la misi&amp;#243;n" />
+    <String id="31" string="Solicitudes diversas" />
+    <String id="131" string="Los subjefes o Game Masters no tienen autorizaci&amp;#243;n para revelar informaci&amp;#243;n relacionada con el juego o la historia (incluyendo f&amp;#243;rmulas y datos estad&amp;#237;sticos), aparte de la que ya est&amp;#225; accesible p&amp;#250;blicamente en nuestro sitio." />
+    <String id="4" string="Bugs" />
+    <String id="104" string="Cuando reportas un bug, le haces un gran favor a toda la comunidad. Si encuentras un bug durante el juego, descr&amp;#237;benos en detalle el tipo de anomal&amp;#237;a y lo que estabas haciendo en el momento en que ocurri&amp;#243; el bug. Esta informaci&amp;#243;n es necesaria para procesar los bugs r&amp;#225;pidamente." />
+    <String id="40" string="Bugs de PNJ" />
+    <String id="140" string="Si un PNJ no aparece durante el juego, o si un cad&amp;#225;ver o un PNJ no desaparece en el momento previsto, anota la ubicaci&amp;#243;n del PNJ, su nombre y la hora del evento. Esto nos permitir&amp;#225; resolver este problema r&amp;#225;pidamente y permitirte continuar el juego normalmente." />
+    <String id="1007" string="Nombre del PNJ" />
+    <String id="1008" string="Ubicaci&amp;#243;n del PNJ" />
+    <String id="1009" string="Hora del evento" />
+    <String id="41" string="Bugs relacionados con objetos" />
+    <String id="141" string="Si encuentras un problema relacionado con un objeto durante el juego, anota el nombre del objeto y la hora en que ocurri&amp;#243; el problema. Esto nos permitir&amp;#225; resolverlo m&amp;#225;s r&amp;#225;pidamente y permitirte continuar el juego normalmente." />
+    <String id="1010" string="Nombre del objeto" />
+    <String id="1011" string="Hora del evento" />
+    <String id="42" string="Bugs de estancias o calabozos" />
+    <String id="142" string="En caso de problemas relacionados con estancias o calabozos, incluido el fallo al reiniciarse la estancia o la imposibilidad de entrar en una estancia, informa el nombre del calabozo, la hora del evento y lo que estabas haciendo en el momento en que ocurri&amp;#243; el problema. Disculpa las molestias ocasionadas." />
+    <String id="1012" string="Nombre de la mazmorra" />
+    <String id="1013" string="Hora del evento" />
+    <String id="43" string="Otros errores" />
+    <String id="143" string="Si crees que has encontrado un error que no est&amp;#225; en la lista de los Game Masters, descr&amp;#237;belo en detalle. Revisamos estos informes regularmente para resolver los problemas lo antes posible." />
+    <String id="1014" string="Hora del evento" />
+    <String id="5" string="Mala conducta" />
+    <String id="105" string="Un jugador con mala conducta es alguien que intenta abusar de la confianza de otros jugadores, hacerlos cometer errores lamentables o que utiliza un lenguaje particularmente vulgar. Por favor, completa todos los campos requeridos cuando reportes a dicho jugador. En tales casos analizamos los datos del jugador, por lo que este proceso puede tomar un tiempo antes de que podamos volver a contactarte. Ten en cuenta que nuestros Game Masters no intervendr&amp;#225;n en disputas entre jugadores. Este procedimiento nos permite garantizar su equidad e imparcialidad." />
+    <String id="50" string="Programas ilegales" />
+    <String id="150" string="Los programas ilegales arruinan la experiencia de juego de toda la comunidad, por lo que prohibimos estrictamente su uso. Si ves a alguien usando un programa ilegal en TERA, proporciona el nombre del personaje y describe la situaci&amp;#243;n para permitir que nuestros Game Masters identifiquen y tomen las medidas necesarias contra el culpable. Debemos ser justos, por lo que realizaremos una investigaci&amp;#243;n meticulosa al respecto. Tambi&amp;#233;n te pedimos paciencia, ya que la investigaci&amp;#243;n puede durar varios d&amp;#237;as." />
+    <String id="1015" string="Nombre del personaje" />
+    <String id="1016" string="Ubicaci&amp;#243;n" />
+    <String id="1017" string="Hora" />
+    <String id="51" string="Fraude" />
+    <String id="151" string="Por fraude entendemos cualquier intento de obtener objetos manipulando a otros jugadores. Si eres testigo de un fraude, inf&amp;#243;rmanos de inmediato sobre la hora del evento y descr&amp;#237;benos la situaci&amp;#243;n. As&amp;#237; podremos tratar el asunto de acuerdo con nuestra pol&amp;#237;tica de operaciones. Ten en cuenta que la negligencia y la avaricia de los jugadores son las causas principales de muchos fraudes. Los objetos perdidos por fraude no se pueden recuperar. Ten mucho cuidado al intercambiar objetos." />
+    <String id="1018" string="Nombre del personaje ofensivo" />
+    <String id="1019" string="Objeto perdido" />
+    <String id="1020" string="Hora del evento" />
+    <String id="52" string="Lenguaje injurioso" />
+    <String id="152" string="Si te molesta el lenguaje injurioso o inapropiado de un jugador, rep&amp;#243;rtalo a un Game Master. Manejaremos el problema de acuerdo con nuestras normas. Nota: si nuestra investigaci&amp;#243;n revela que ambas partes usaron un lenguaje vulgar, ambas ser&amp;#225;n penalizadas. &amp;#161;No respondas a las obscenidades! En su lugar, rep&amp;#243;rtalas a un Game Master." />
+    <String id="1021" string="Nombre del personaje ofensivo" />
+    <String id="1022" string="Hora del evento" />
+    <String id="53" string="Spam" />
+    <String id="153" string="Si un jugador te env&amp;#237;a mensajes no deseados o con fines publicitarios, rep&amp;#243;rtalo indicando la hora del evento y el nombre del personaje. El spam est&amp;#225; estrictamente prohibido; revisaremos los registros del juego y tomaremos las medidas necesarias de acuerdo con nuestra pol&amp;#237;tica de operaciones. Nos esforzamos por brindarte siempre un entorno de juego agradable." />
+    <String id="1023" string="Nombre del personaje ofensivo" />
+    <String id="1024" string="Hora del evento" />
+    <String id="54" string="Otra mala conducta" />
+    <String id="154" string="Nuestros Game Masters investigan minuciosamente cada denuncia de mala conducta, de acuerdo con nuestra pol&amp;#237;tica operativa interna. Sin embargo, ten en cuenta que nuestros Game Masters no intervendr&amp;#225;n en disputas entre jugadores. Este procedimiento nos permite garantizar su equidad e imparcialidad." />
+    <String id="1025" string="Nombre del personaje ofensivo" />
+    <String id="1026" string="Hora del evento" />
+    <String id="6" string="Sugerencias" />
+    <String id="106" string="&amp;#191;Tienes una idea brillante? &amp;#161;Comp&amp;#225;rtela en los foros! Los comentarios constructivos siempre son bienvenidos." />
+    <String id="60" string="Sugerencias" />
+    <String id="160" string="&amp;#161;Recuerda que tomamos todas tus sugerencias en consideraci&amp;#243;n, incluso aquellas que no podamos integrar al juego! &amp;#161;Nos encantan las ideas constructivas!" />
+    <String id="7" string="Varios" />
+    <String id="107" string="Nuestros equipos est&amp;#225;n a tu disposici&amp;#243;n en el sitio de soporte en l&amp;#237;nea y en los foros. Sin importar cu&amp;#225;l sea tu pregunta, siempre nos esforzaremos por darte una respuesta r&amp;#225;pida y pertinente." />
+    <String id="70" string="Solicitudes diversas" />
+    <String id="170" string="&amp;#191;Tienes alg&amp;#250;n problema en particular? &amp;#191;Un error molesto y dif&amp;#237;cil de explicar? Inicia una conversaci&amp;#243;n en vivo con nuestros equipos de asistencia. &amp;#161;Siempre estar&amp;#225;n ah&amp;#237; para ayudarte!" />
+    <String id="12" string="cadenas de caracteres de Jap&amp;#243;n" />
+    <String id="112" string="cadenas de caracteres de Jap&amp;#243;n" />
+    <String id="23" string="cadenas de caracteres de Jap&amp;#243;n" />
+    <String id="123" string="cadenas de caracteres de Jap&amp;#243;n" />
+</StrSheet_Petition>
