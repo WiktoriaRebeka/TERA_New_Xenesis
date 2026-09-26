@@ -1,7 +1,7 @@
 <StrSheet_ChatChannelName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName StrSheet_ChatChannelName.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ChatChannelName">
     <Channel id="CHATTYPE_NORMAL" name="Dire" shortcuts="s,g&#233;n&#233;ral" />
     <Channel id="CHATTYPE_PARTY" name="Groupe" shortcuts="p, groupe" />
-    <Channel id="CHATTYPE_GUILD" name="Guilde" shortcuts="g,guilde" />
+    <Channel id="CHATTYPE_GUILD" name="Gremio" shortcuts="g,guilde" />
     <Channel id="CHATTYPE_GUARD" name="Zone" shortcuts="a,zone" />
     <Channel id="CHATTYPE_BARGAIN" name="&#201;change" shortcuts="t,&#233;change" />
     <Channel id="CHATTYPE_TEAM" name="Equipe" shortcuts="b, &#233;quipe" />
@@ -20,7 +20,7 @@
     <Channel id="CHATTYPE_PARTY_SEARCH" name="Rdg" shortcuts="u, rdg" />
     <Channel id="CHATTYPE_PARTY_NOTICE" name="Notification" shortcuts="n,alerte" />
     <Channel id="CHATTYPE_COMMAND" name="Alerte d'&#233;quipe" shortcuts="d" />
-    <Channel id="CHATTYPE_ADMIN_NOTICE" name="Syst&#232;me" shortcuts="" />
+    <Channel id="CHATTYPE_ADMIN_NOTICE" name="Sistema" shortcuts="" />
     <Channel id="CHATTYPE_RAID_NOTICE" name="Annonce du meneur du raid" shortcuts="n,alerte" />
     <Channel id="CHATTYPE_GENERAL" name="General" shortcuts="c" />
     <Channel id="CHATTYPE_SOCIAL" name="Emote" shortcuts="" />
@@ -28,23 +28,23 @@
     <Channel id="CHATTYPE_SKILL" name="Salutations" shortcuts="" />
     <Channel id="CHATTYPE_MY_ATTACK" name="Attaques" />
     <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" name="Coups critiques" />
-    <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="D&#233;g&#226;ts de chute" />
-    <Channel id="CHATTYPE_MY_DAMAGE_SMALL" name="D&#233;g&#226;ts inflig&#233;s par les sbires" />
-    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" name="D&#233;g&#226;ts critiques inflig&#233;s par les sbires" />
-    <Channel id="CHATTYPE_MY_DAMAGE" name="D&#233;g&#226;ts inflig&#233;s par les monstres" />
-    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" name="D&#233;g&#226;ts critiques inflig&#233;s par les monstres" />
-    <Channel id="CHATTYPE_MY_DAMAGE_LARGE" name="D&#233;g&#226;ts inflig&#233;s par les boss" />
-    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" name="D&#233;g&#226;ts critiques inflig&#233;s par les boss" />
+    <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="Da&amp;#241;o por ca&amp;#237;da" />
+    <Channel id="CHATTYPE_MY_DAMAGE_SMALL" name="Da&amp;#241;o infligido por los esbirros" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_SMALL" name="Da&amp;#241;o cr&amp;#237;tico infligido por los esbirros" />
+    <Channel id="CHATTYPE_MY_DAMAGE" name="Da&amp;#241;o infligido por los monstruos" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE" name="Da&amp;#241;o cr&amp;#237;tico infligido por los monstruos" />
+    <Channel id="CHATTYPE_MY_DAMAGE_LARGE" name="Da&amp;#241;o infligido por los jefes" />
+    <Channel id="CHATTYPE_MY_CRITICAL_DAMAGE_LARGE" name="Da&amp;#241;o cr&amp;#237;tico infligido por los jefes" />
     <Channel id="CHATTYPE_INFO" name="Alertes" />
     <Channel id="CHATTYPE_WORLD_INFO" name="Alertes globales" />
     <Channel id="CHATTYPE_ERROR_INFO" name="Notifications" />
     <Channel id="CHATTYPE_PARTY_INFO" name="Alertes de groupe" />
-    <Channel id="CHATTYPE_GUILD_INFO" name="Alertes de guilde" />
+    <Channel id="CHATTYPE_GUILD_INFO" name="Alertas de gremio" />
     <Channel id="CHATTYPE_TEAM_INFO" name="Alertes d'&#233;quipe" />
     <Channel id="CHATTYPE_INTERACTION_INFO" name="Alertes d'interface" />
     <Channel id="CHATTYPE_WARNING" name="Avertissements" />
     <Channel id="CHATTYPE_GET_ITEM" name="Objets obtenus" />
-    <Channel id="CHATTYPE_GET_EXP" name="PEX re&#231;us" />
+    <Channel id="CHATTYPE_GET_EXP" name="EXP obtenida" />
     <Channel id="CHATTYPE_GET_MONEY" name="Or obtenu" />
     <Channel id="CHATTYPE_MEGAPHONE" name="M&#233;gaphone" shortcuts="m, m&#233;gaphone" />
     <Channel id="CHATTYPE_GUILD_PROMOTION" name="Promotion des guildes" shortcuts="q,ad,advert,advertise,promo" />
@@ -63,10 +63,10 @@
             <Command id="6" name="/exclure [C#] [Personnage] (exclure un joueur du canal.)" />
         </CommandCategory>
         <CommandCategory name="Groupe">
-            <Command id="1" name="/inviter [Personnage] (inviter un personnage dans votre groupe.)" />
+            <Command id="1" name="/inviter [Personnage] (invitar a un personaje a tu grupo.)" />
             <Command id="2" name="/laisser (quitter le groupe.)" />
             <Command id="3" name="/chef [MembreDuGroupe] (faire de quelqu'un le chef de groupe.)" />
-            <Command id="4" name="/exclure [MembreDuGroupe] (exclure un personnage de votre groupe.)" />
+            <Command id="4" name="/exclure [MembreDuGroupe] (expulsar a un personaje de tu grupo.)" />
         </CommandCategory>
         <CommandCategory name="RdG">
             <Command id="1" name="/RdG [cible de RdG]" />
@@ -86,10 +86,10 @@
             <Command id="12" name="/charger" />
             <Command id="13" name="/d&#233;signer" />
             <Command id="14" name="/timide" />
-            <Command id="15" name="/col&#232;re" />
+            <Command id="15" name="/col&amp;#232;re" />
             <Command id="16" name="/S'asseoir" />
         </CommandCategory>
-        <CommandCategory name="Match &#224; mort">
+        <CommandCategory name="Combate a muerte">
             <Command id="1" name="/invitermam [personnage]" />
             <Command id="2" name="/rejoindremam [chef]" />
             <Command id="3" name="/excluremam [personnage]" />

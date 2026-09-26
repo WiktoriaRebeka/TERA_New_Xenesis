@@ -13,7 +13,7 @@
     <Command id="27" name="charger" alias="attack" />
     <Command id="28" name="montrer" alias="point" />
     <Command id="29" name="rougir" alias="timide,shy" />
-    <Command id="30" name="col&#232;re" alias="colere,rage,angry" />
+    <Command id="30" name="Rage" alias="colere,rage,angry" />
     <Command id="38" name="s'asseoir" alias="sit" />
     <Command id="39" name="selever" />
     <Command id="101" name="&#201;changer" alias="&#233;changer,commerce,trade" interactionMenuName="Commerce" />
@@ -31,20 +31,20 @@
     <Command id="208" name="Inviter dans le raid" alias="inviterraid,invitertous,invall,invtous" interactionMenuName="Tous les inviter dans le raid" />
     <Command id="209" name="Donner le droit d'inviter" alias="donnerdroitdinviter,assister" interactionMenuName="Donner le droit d'inviter" />
     <Command id="210" name="Retirer le droit d'inviter" alias="retirerdroitdinviter,revoke" interactionMenuName="Retirer le droit d'inviter" />
-    <Command id="301" name="Quitter la guilde" alias="guildequitter,guquitter,gquit" />
-    <Command id="302" name="Exclure de la guilde" alias="guexclure,guildeexclure,gkick" />
-    <Command id="303" name="Promouvoir chef de guilde" alias="guchef,guildechef,gmaster" />
-    <Command id="304" name="Postuler &#224; la guilde" alias="gupostuler,guildepostuler,gapply" />
-    <Command id="305" name="Dissoudre la guilde" alias="gudissoudre,guildedissoudre,gdisband" />
+    <Command id="301" name="Salir del gremio" alias="guildequitter,guquitter,gquit" />
+    <Command id="302" name="Expulsar del gremio" alias="guexclure,guildeexclure,gkick" />
+    <Command id="303" name="Promover a l&amp;#237;der de gremio" alias="guchef,guildechef,gmaster" />
+    <Command id="304" name="Postularse al gremio" alias="gupostuler,guildepostuler,gapply" />
+    <Command id="305" name="Disolver el gremio" alias="gudissoudre,guildedissoudre,gdisband" />
     <Command id="307" name="Guildes du serveur" alias="guliste,guildeliste,glist" />
-    <Command id="308" name="Inviter dans la guilde" alias="guinviter,guildeinviter,ginvite" interactionMenuName="Inviter dans la guilde" />
-    <Command id="310" name="Postuler &#224; la guilde" alias="gupostuler,guildepostuler,gapply" interactionMenuName="Postuler pour cette guilde" />
+    <Command id="308" name="Invitar al gremio" alias="guinviter,guildeinviter,ginvite" interactionMenuName="Inviter dans la guilde" />
+    <Command id="310" name="Postularse al gremio" alias="gupostuler,guildepostuler,gapply" interactionMenuName="Postuler pour cette guilde" />
     <Command id="313" name="Engager GcG" interactionMenuName="Engager une bataille GcG" />
     <Command id="403" name="Aide" alias="h,help" />
-    <Command id="451" name="Rejoindre leur match &#224; mort" alias="mamrejoindre,dmjoin" interactionMenuName="Rejoindre leur match &#224; mort" />
-    <Command id="452" name="Inviter &#224; un match &#224; mort" alias="maminviter,dminvite" interactionMenuName="Inviter &#224; un match &#224; mort" />
-    <Command id="453" name="Exclure du match &#224; mort" alias="mamexclure,dmkick" />
-    <Command id="454" name="Quitter le match &#224; mort" alias="mamquitter,mamlaisser,dmleave" />
+    <Command id="451" name="Unirse a su duelo a muerte" alias="mamrejoindre,dmjoin" interactionMenuName="Rejoindre leur match &#224; mort" />
+    <Command id="452" name="Invitar a un duelo a muerte" alias="maminviter,dminvite" interactionMenuName="Inviter &#224; un match &#224; mort" />
+    <Command id="453" name="Expulsar del duelo a muerte" alias="mamexclure,dmkick" />
+    <Command id="454" name="Salir del duelo a muerte" alias="mamquitter,mamlaisser,dmleave" />
     <Command id="501" name="Liste des amis" alias="amis,listeamis,social,friendlist" />
     <Command id="502" name="Ajouter ami" alias="ami,ajouterami,friend" interactionMenuName="Ajouter comme ami" />
     <Command id="504" name="D&#233;bloquer" interactionMenuName="D&#233;bloquer" />
