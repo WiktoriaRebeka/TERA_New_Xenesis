@@ -33,7 +33,6 @@ SKIP = {
     "StrSheet_NpcLoc",
     "StrSheet_NpcLocManual",
     "StrSheet_WorkObjectLoc",
-    "StrSheet_EventDialog",
 }
 
 # Already have a dedicated GitHub Action.
@@ -47,6 +46,7 @@ OWN_ACTION = {
     "StrSheet_Tutorial",
     "StrSheet_SystemMessage",
     "StrSheet_Passivity",
+    "StrSheet_EventDialog",
 }
 
 BLOCKED = SKIP | OWN_ACTION
@@ -117,8 +117,8 @@ def run_one(
     file_count: int,
 ) -> int:
     name = folder.name
-    if name in BLOCKED:
-        print(f"{name} skipped (own Action or stays English).", flush=True)
+    if name in SKIP:
+        print(f"{name} skipped (stays English / not shipped).", flush=True)
         return 0
     output_dir = Path(args.output_dir or f"output/{name}")
     slug = re.sub(r"[^A-Za-z0-9]+", "", name).lower()
@@ -161,8 +161,8 @@ def main() -> int:
                 rc = result
         return rc
 
-    if name in BLOCKED:
-        print(f"{name} stays English or has its own Action.", file=sys.stderr)
+    if name in SKIP:
+        print(f"{name} stays English or is not shipped.", file=sys.stderr)
         return 1
     input_path = Path(raw)
     if not input_path.exists():
