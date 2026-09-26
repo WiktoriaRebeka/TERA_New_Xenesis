@@ -26,7 +26,7 @@ import time
 from pathlib import Path
 
 from google import genai
-from google.genai import types, errors
+from google.genai import types
 # Model potrafi urwac placeholder (__TAG0) albo wymyslic wlasny (__COLOR_END__).
 ORPHAN_TAG_RE = re.compile(r"__TAG\d+(?:__)?|__[A-Z][A-Z0-9_]{2,}__")
 PLACEHOLDER_STRIP_RE = re.compile(r"__TAG\d+__")
@@ -561,17 +561,24 @@ def build_client() -> genai.Client:
 
 
 def build_config() -> types.GenerateContentConfig:
-    return types.GenerateContentConfig(
-        system_instruction=SYSTEM_PROMPT,
-        temperature=0.0,
-        response_mime_type="application/json",
-        safety_settings=[
+    kwargs: dict = {
+        "system_instruction": SYSTEM_PROMPT,
+        "temperature": 0.0,
+        "response_mime_type": "application/json",
+        "safety_settings": [
             types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
             types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
             types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="BLOCK_NONE"),
             types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="BLOCK_NONE"),
         ],
-    )
+    }
+    # Newer google-genai turns on automatic function calling for
+    # Models.generate_content. That yields empty/truncated JSON ("[")
+    # and json.loads dies with "Expecting value: line 1 column 2".
+    afc = getattr(types, "AutomaticFunctionCallingConfig", None)
+    if afc is not None:
+        kwargs["automatic_function_calling"] = afc(disable=True)
+    return types.GenerateContentConfig(**kwargs)
 
 
 def build_user_prompt(texts: list[str]) -> str:
@@ -589,7 +596,12 @@ def parse_translation_array(raw: str, expected: int) -> list[str]:
     if text.startswith("```"):
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
-    data = json.loads(text, strict=False)
+    if not text:
+        raise RuntimeError("Gemini JSON empty")
+    try:
+        data = json.loads(text, strict=False)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Gemini JSON parse failed ({exc}): {text[:180]!r}") from exc
     if isinstance(data, dict):
         for key in ("translations", "results", "items"):
             if key in data:
@@ -601,8 +613,14 @@ def parse_translation_array(raw: str, expected: int) -> list[str]:
     return [str(item) for item in data]
 
 
+class DailyQuotaExceeded(RuntimeError):
+    """Free-tier daily request cap. Sleeping 60s will not reset it."""
+
+
 def is_rate_limit_error(exc: Exception) -> bool:
-    if isinstance(exc, errors.ClientError) and getattr(exc, "code", None) == 429:
+    if is_daily_quota_error(exc):
+        return False
+    if getattr(exc, "code", None) == 429:
         return True
     text = str(exc).lower()
     return any(
@@ -613,7 +631,50 @@ def is_rate_limit_error(exc: Exception) -> bool:
             "resource_exhausted",
             "too many requests",
             "rate limit",
-            "quota",
+        )
+    )
+
+
+def is_daily_quota_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return any(
+        token in text
+        for token in (
+            "generaterequestsperday",
+            "generate_content_free_tier_requests",
+            "perdayperprojectpermodel",
+        )
+    )
+
+
+def is_truncated_json_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return any(
+        token in text
+        for token in (
+            "json parse failed",
+            "json empty",
+            "json size mismatch",
+            "expecting value",
+            "unterminated",
+            "returned no text",
+            "blocked or empty",
+        )
+    )
+
+
+def is_capacity_error(exc: Exception) -> bool:
+    code = getattr(exc, "code", None)
+    if code in (500, 502, 503, 504):
+        return True
+    text = str(exc).lower()
+    return bool(re.search(r"\b50[0234]\b", text)) or any(
+        token in text
+        for token in (
+            "unavailable",
+            "high demand",
+            "overloaded",
+            "internal server error",
         )
     )
 
@@ -627,9 +688,34 @@ def rate_limit_wait_seconds(exc: Exception, attempt: int) -> int:
 
 def extract_response_text(response: object) -> str:
     text = getattr(response, "text", None)
-    if text:
+    if text and str(text).strip():
         return str(text)
+    parts: list[str] = []
+    for candidate in getattr(response, "candidates", None) or []:
+        content = getattr(candidate, "content", None)
+        for part in getattr(content, "parts", None) or []:
+            piece = getattr(part, "text", None)
+            if piece:
+                parts.append(str(piece))
+    joined = "".join(parts).strip()
+    if joined:
+        return joined
     raise RuntimeError(f"Gemini returned no text (blocked or empty): {response!r}")
+
+
+def generate_json(client: genai.Client, prompt: str):
+    """Chat.send_message, not Models.generate_content (AFC eats JSON there)."""
+    config = build_config()
+    chats = getattr(client, "chats", None)
+    create = getattr(chats, "create", None) if chats is not None else None
+    if create is not None:
+        chat = create(model=GEMINI_MODEL, config=config)
+        return chat.send_message(prompt)
+    return client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config=config,
+    )
 
 
 def translate_batch_with_retry(
@@ -641,18 +727,27 @@ def translate_batch_with_retry(
     prompt = build_user_prompt(texts)
     for attempt in range(1, retries + 1):
         try:
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=build_config(),
-            )
+            response = generate_json(client, prompt)
             return parse_translation_array(extract_response_text(response), len(texts))
         except Exception as exc:  # noqa: BLE001 - network/API failures are expected
             last_error = exc
+            if is_daily_quota_error(exc):
+                raise DailyQuotaExceeded(str(exc)) from exc
+            # Oversized JSON: split in translate_chunk instead of retrying
+            # the same too-big batch six times.
+            if is_truncated_json_error(exc) and len(texts) > 1:
+                raise
             if is_rate_limit_error(exc):
                 wait = rate_limit_wait_seconds(exc, attempt)
                 print(
                     f"    Gemini rate/quota limit on attempt {attempt}/{retries}; "
+                    f"sleeping {wait}s",
+                    flush=True,
+                )
+            elif is_capacity_error(exc):
+                wait = min(20 * attempt, 120)
+                print(
+                    f"    Gemini 5xx on attempt {attempt}/{retries}; "
                     f"sleeping {wait}s",
                     flush=True,
                 )
@@ -695,10 +790,18 @@ def translate_chunk(
 
     try:
         translated = translate_batch_with_retry(client, prepared_texts)
+    except DailyQuotaExceeded:
+        raise
     except Exception as exc:  # noqa: BLE001
+        if is_daily_quota_error(exc):
+            raise DailyQuotaExceeded(str(exc)) from exc
         if len(originals) == 1:
             print(f"  WARNING: giving up on one string ({exc})", flush=True)
             return {}
+        # Split only when JSON is truncated/too big. Other errors already
+        # retried; splitting them just repeats the same call.
+        if not is_truncated_json_error(exc):
+            raise
         mid = len(originals) // 2
         print(
             f"  batch of {len(originals)} failed ({exc}); "
@@ -755,9 +858,7 @@ def repair_one(client: genai.Client, original: str, bad_candidate: str) -> str |
     )
     for attempt in range(1, 4):
         try:
-            response = client.models.generate_content(
-                model=GEMINI_MODEL, contents=prompt, config=build_config()
-            )
+            response = generate_json(client, prompt)
             fixed = parse_translation_array(extract_response_text(response), 1)[0]
             candidate = restore_keep_english(
                 original, finalize_translation(fixed, tags)
@@ -767,6 +868,8 @@ def repair_one(client: genai.Client, original: str, bad_candidate: str) -> str |
             bad_candidate = candidate
             problems = describe_problems(original, candidate)
         except Exception as exc:  # noqa: BLE001
+            if is_daily_quota_error(exc):
+                raise DailyQuotaExceeded(str(exc)) from exc
             if is_rate_limit_error(exc):
                 wait = rate_limit_wait_seconds(exc, attempt)
                 print(
@@ -807,7 +910,16 @@ def fill_cache_in_batches(
         start = batch_index * batch_size
         chunk = unique_originals[start : start + batch_size]
         print(f"  batch {batch_index + 1}/{batch_count} ({len(chunk)} strings)", flush=True)
-        new_entries = translate_chunk(client, chunk, rejected)
+        try:
+            new_entries = translate_chunk(client, chunk, rejected)
+        except DailyQuotaExceeded:
+            save_cache(cache_path, cache)
+            print(
+                "STOP: dzienny limit Gemini (500 requestow free-tier) wyczerpany. "
+                "Cache zapisany. Odpal ten sam Action jutro.",
+                flush=True,
+            )
+            raise
         cache.update(new_entries)
         translated_count += len(new_entries)
         save_cache(cache_path, cache)
@@ -918,11 +1030,16 @@ def process_file(
         print(f"  purged {purged} broken cache entries - they will be retranslated", flush=True)
 
     unique_originals = collect_unique_uncached(lines, cache)
+    quota_hit = False
     if unique_originals:
         client = build_client()
-        new_translations = fill_cache_in_batches(
-            unique_originals, client, cache, cache_path, batch_size
-        )
+        try:
+            new_translations = fill_cache_in_batches(
+                unique_originals, client, cache, cache_path, batch_size
+            )
+        except DailyQuotaExceeded:
+            quota_hit = True
+            new_translations = 0
     else:
         new_translations = 0
         print("All non-empty toolTips are already in the cache.", flush=True)
@@ -942,6 +1059,8 @@ def process_file(
     print(f"  empty toolTip skipped: {stats['empty']}")
     print(f"  lines without toolTip: {stats['no_tooltip']}")
     print(f"  left untranslated    : {stats['left_original']}")
+    if quota_hit:
+        raise SystemExit(0)
 
 
 def process_files(
@@ -982,11 +1101,16 @@ def process_files(
         f"Folder: {len(loaded)} files, {len(unique)} unique strings missing from cache",
         flush=True,
     )
+    quota_hit = False
     if unique:
         client = build_client()
-        new_translations = fill_cache_in_batches(
-            unique, client, cache, cache_path, batch_size
-        )
+        try:
+            new_translations = fill_cache_in_batches(
+                unique, client, cache, cache_path, batch_size
+            )
+        except DailyQuotaExceeded:
+            quota_hit = True
+            new_translations = 0
     else:
         new_translations = 0
         print("All non-empty strings are already in the cache.", flush=True)
@@ -1016,6 +1140,8 @@ def process_files(
     print(f"  already bilingual    : {totals['already_bilingual']}")
     print(f"  empty skipped        : {totals['empty']}")
     print(f"  left untranslated    : {totals['left_original']}")
+    if quota_hit:
+        raise SystemExit(0)
 
 
 def list_item_files(root: Path, start: int, count: int) -> list[Path]:

@@ -1,0 +1,75 @@
+name: Translate TERA Extra
+
+# Tooltip / msg / desc / historie kart — pola ktorych StrSheet all nie bral
+# (tam tylko string=). Nazwy itemow, skilli, miejsc i potworow zostaja po angielsku.
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "all = wszystkie leftover extra-attr. Albo source/StrSheet_Card"
+        required: true
+        default: "all"
+      start:
+        description: "Gdy all: pomin pierwsze N folderow"
+        required: false
+        default: "0"
+      count:
+        description: "0 = wszystko. Gdy all: ile folderow"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych stringow na zapytanie Gemini"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gemini
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz extra-attr
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_extra.py "${{ inputs.input_path }}" \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: python check_extra.py output --all
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie extra-attr ${{ inputs.input_path }} start=${{ inputs.start }} count=${{ inputs.count }}"
+            git pull --rebase
+            git push
+          fi
