@@ -1,0 +1,70 @@
+name: Translate TERA MovieScript
+
+# Napisy cutscenek: timing z FR (source/MovieScript), tekst z EN gdy ta sama liczba linii.
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Folder FR MovieScript (timing)"
+        required: true
+        default: "source/MovieScript"
+      en_path:
+        description: "Folder EN MovieScript (tekst gdy line count sie zgadza)"
+        required: true
+        default: "source_en/MovieScript"
+      limit:
+        description: "Tylko pierwsze N plikow (0 = wszystkie)"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych napisow na zapytanie Gemini"
+        required: false
+        default: "40"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gemini
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz MovieScript
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_moviescript.py "${{ inputs.input_path }}" \
+            --en-dir "${{ inputs.en_path }}" \
+            --output-dir output/MovieScript \
+            --limit "${{ inputs.limit }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/MovieScript cache/moviescript_translation_cache.json || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie MovieScript cutscene subtitles limit=${{ inputs.limit }}"
+            git pull --rebase
+            git push
+          fi
