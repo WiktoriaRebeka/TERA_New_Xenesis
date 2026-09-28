@@ -1,0 +1,48 @@
+name: Restore EN proper names + world Unicode
+
+# Bez Gemini. Przywraca nazwy mobow z EN (po ID questa) i dekoduje
+# &#NNN; -> Unicode w WorkObject/UI/NPC/BuyMenu (inaczej # = kolor w TERA).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: restore-en-proper-names
+  cancel-in-progress: false
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore EN creature names (quest output)
+        run: python restore_en_proper_names.py --ci
+
+      - name: Unicode world/UI labels (WorkObject, UI, NPC, BuyMenu)
+        run: python fix_world_unicode.py --root output
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache/en_creature_names.txt cache/en_quest_by_id.tsv \
+            restore_en_proper_names.py fix_world_unicode.py || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Restore EN creature names + Unicode world labels"
+            git pull --rebase
+            git push
+          fi
