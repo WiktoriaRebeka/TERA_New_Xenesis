@@ -45,18 +45,18 @@ REPLACEMENT = "\ufffd"
 MOJIBAKE = re.compile(
     r"(?:Ã.|Â.|â€™|â€œ|â€|ðŸ|Ã¡|Ã©|Ã­|Ã³|Ãº|Ã±|Â¿|Â¡)"
 )
-# Spanish animal calques that often hide EN creature names in objectives
+# Spanish calques that often hide EN creature names (not EN words like Vulcans).
 CALQUE_HINTS = re.compile(
     r"\b(?:"
     r"jabal[ií](?:es)?|jabalíes|"
     r"depredador(?:es)?|"
     r"revolucionari[oa]s?|"
-    r"vulcano?s?|volcanes|"
-    r"sabueso?s?|"
+    r"vulcanos?|volcanes|"
+    r"sabuesos?|"
     r"ladr[oó]n(?:es)?|"
-    r"guerrero?s?|"
+    r"guerreros?|"
     r"explorador(?:es)?|"
-    r"bandido?s?|"
+    r"bandidos?|"
     r"saqueador(?:es)?"
     r")\b",
     re.I,

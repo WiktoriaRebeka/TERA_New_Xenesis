@@ -1,0 +1,57 @@
+name: Full pack audit (FR + encoding)
+
+# Skanuje CAŁY folder packa linijka po linijce (wszystkie XML).
+# NIE tłumaczy i NIE poprawia — tylko raport TSV.
+#
+# Lokalnie (LIVE SE na Pulpicie):
+#   python audit_full_pack.py --root "C:/Users/wikto/Desktop/FRA TRANSLATED DATABASE/DataCenter_Final_SE"
+#
+# Na GitHubie: skanuje repo output/ (to co jest w git).
+# LIVE DataCenter_Final_SE NIE jest w repo — pełny skan SE = lokalnie albo self-hosted.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: audit-full-pack
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pełny audyt output/
+        run: python audit_full_pack.py --ci
+        continue-on-error: true
+
+      - name: Pokaż summary
+        if: always()
+        run: |
+          if [ -f cache/audit_summary.txt ]; then
+            cat cache/audit_summary.txt
+          else
+            echo "Brak summary"
+          fi
+
+      - name: Upload raportów
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-full-pack
+          path: |
+            cache/audit_fr.tsv
+            cache/audit_encoding.tsv
+            cache/audit_summary.txt
+          if-no-files-found: warn
