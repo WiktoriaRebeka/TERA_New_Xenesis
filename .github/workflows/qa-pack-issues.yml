@@ -1,0 +1,40 @@
+name: QA pack issues (report only)
+
+# Jeden skan — NIE tłumaczy i NIE poprawia packa.
+# Szuka: (1) krzaków / &# w UI-world, (2) podejrzanych nazw własnych w Quest.
+# Artefakty: cache/qa_encoding_garble.tsv + cache/qa_quest_proper_names.tsv
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: qa-pack-issues
+  cancel-in-progress: false
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Skan QA (output/ tylko raport)
+        run: python qa_pack_issues.py --ci
+
+      - name: Upload raportów TSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: qa-pack-issues
+          path: |
+            cache/qa_encoding_garble.tsv
+            cache/qa_quest_proper_names.tsv
+          if-no-files-found: warn
