@@ -1,0 +1,83 @@
+name: Fix leftover French in output/
+
+# Bez Gemini. Czyści FR w output/ (miejsca/moby EN, frazy ES).
+# Potem restore EN creature names + audit. Commituje wynik.
+# Odpalaj ponownie aż Full pack audit = 0 FR.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fix-output-fr
+  cancel-in-progress: false
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Usuń leftover FR w output/
+        run: python fix_output_fr.py --ci
+
+      - name: Restore EN creature names (quest)
+        run: python restore_en_proper_names.py --ci
+        continue-on-error: true
+
+      - name: Unicode world/UI (jeśli skrypt jest)
+        run: |
+          if [ -f fix_world_unicode.py ]; then
+            python fix_world_unicode.py --root output
+          else
+            echo "fix_world_unicode.py brak — skip"
+          fi
+        continue-on-error: true
+
+      - name: Audyt po fixie
+        run: python audit_full_pack.py --ci
+        continue-on-error: true
+
+      - name: Pokaż summary
+        if: always()
+        run: |
+          if [ -f cache/audit_summary.txt ]; then
+            cat cache/audit_summary.txt
+          else
+            echo "Brak summary"
+          fi
+
+      - name: Upload raportów
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fix-output-fr-audit
+          path: |
+            cache/audit_fr.tsv
+            cache/audit_encoding.tsv
+            cache/audit_summary.txt
+          if-no-files-found: warn
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ cache/audit_fr.tsv cache/audit_encoding.tsv cache/audit_summary.txt \
+            fix_output_fr.py || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Fix leftover French in output/ (EN proper names kept)"
+            git pull --rebase
+            git push
+          fi
