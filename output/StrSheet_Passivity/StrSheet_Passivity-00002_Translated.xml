@@ -4921,7 +4921,7 @@
     <String id="220026" name="&amp;#201;quipement_armure_chaussures_PV maximums&amp;#160;1" tooltip="Tu HP m&#225;ximo aumenta en $value." />
     <String id="220030" name="&amp;#201;quipement_armure_torse_d&amp;#233;g&amp;#226;ts r&amp;#233;duits face aux attaques" tooltip="El da&#241;o recibido disminuye en $value." />
     <String id="220031" name="&amp;#201;quipement_armure_torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts subis en cas d'attaque frontale" tooltip="El da&#241;o de ataques frontales disminuye en $value." />
-    <String id="220032" name="&amp;#201;quipement_armure_torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts face aux monstres enrag&amp;#233;s" tooltip="El da&#241;o recibido de monstruos enojados se reduce en $value." />
+    <String id="220032" name="&amp;#201;quipement_armure_torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts face aux monstres enojados" tooltip="El da&#241;o recibido de monstruos enojados se reduce en $value." />
     <String id="220033" name="&amp;#201;quipement_armure_torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par le monstre le plus agressif &amp;#224; votre &amp;#233;gard" tooltip="El da&#241;o recibido del monstruo m&#225;s agresivo hacia ti disminuye en $value." />
     <String id="220034" name="&amp;#201;quipement_armure_torse_augmentation des PV maximums" tooltip="Tu HP m&#225;ximo aumenta en $value." />
     <String id="220040" name="&amp;#201;quipement_armure_gants_puissance" tooltip="El poder aumenta en $value." />
@@ -4957,8 +4957,8 @@
     <String id="221303" name="Reduce el da&amp;#241;o recibido en JcJ." tooltip="Aumenta la defensa en JcJ en $value." />
     <String id="230100" name="Aumenta el da&amp;#241;o infligido en JcJ" tooltip="Aumenta el ataque en JcJ en $value." />
     <String id="240100" name="Reduce el da&amp;#241;o recibido en JcJ." tooltip="Aumenta la defensa en JcJ en $value." />
-    <String id="310200" name="Aumenta el da&amp;#241;o contra monstruos enrag&amp;#233;s." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
-    <String id="310203" name="Aumenta el da&amp;#241;o contra monstruos enrag&amp;#233;s." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="310200" name="Aumenta el da&amp;#241;o contra monstruos enojados." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="310203" name="Aumenta el da&amp;#241;o contra monstruos enojados." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="310300" name="Aumenta el da&amp;#241;o contra jefes." tooltip="Aumenta el da&#241;o en $value al atacar a jefes." />
     <String id="310303" name="Aumenta el da&amp;#241;o contra jefes." tooltip="Aumenta el da&#241;o en $value al atacar a jefes." />
     <String id="310400" name="Aumenta el da&amp;#241;o contra monstruos." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos." />
@@ -5048,7 +5048,7 @@
     <String id="313208" name="T3_Berserker - R&amp;#233;duit le temps de recharge de Destin in&amp;#233;luctable" tooltip="Reduce el tiempo de recarga de Inescapable Doom en $value." />
     <String id="313209" name="T3_Berserker - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Destin in&amp;#233;luctable" tooltip="Restaura $value MP cada vez que Inescapable Doom golpea a su objetivo." />
     <String id="313300" name="T3_Pourfendeur - Augmente les d&amp;#233;g&amp;#226;ts de la comp&amp;#233;tence Frappe verticale" tooltip="Aumenta el da&#241;o de Vertical Slash en $value." />
-    <String id="313301" name="T3_Pourfendeur - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Coup renversant" tooltip="Restaura $value MP cada vez que Knockdown Strike golpea a su objetivo." />
+    <String id="313301" name="T3_Pourfendeur - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Overhand Strike" tooltip="Restaura $value MP cada vez que Knockdown Strike golpea a su objetivo." />
     <String id="313302" name="T3_Pourfendeur - Augmente les d&amp;#233;g&amp;#226;ts de la comp&amp;#233;tence Tourbillon" tooltip="Aumenta el da&#241;o de Whirlwind en $value." />
     <String id="313303" name="T3_Pourfendeur - R&amp;#233;duit le temps de recharge de Roulade" tooltip="Reduce el tiempo de recarga de Evasion en $value." />
     <String id="313304" name="T3_Pourfendeur - R&amp;#233;duit le temps de recharge d'Attaque sournoise" tooltip="Reduce el tiempo de recarga de Backstab en $value." />
@@ -5075,7 +5075,7 @@
     <String id="313505" name="T3_Archer - R&amp;#233;duit le temps de recharge de Pi&amp;#232;ge &amp;#233;tourdissant" tooltip="Reduce el tiempo de recarga de Stun Trap en $value." />
     <String id="313506" name="T3_Archer - Augmente la dur&amp;#233;e de l'effet de Combat rapproch&amp;#233;" tooltip="Aumenta la duraci&#243;n del efecto de Close Quarters en 10%." />
     <String id="313507" name="T3_Archer - Augmente la dur&amp;#233;e de l'effet de Fl&amp;#232;che empoisonn&amp;#233;e" tooltip="Aumenta la duraci&#243;n del efecto de Poison Arrow en 35%." />
-    <String id="313508" name="T3_Archer - R&amp;#233;duit le temps de recharge de Trait de rupture" tooltip="Reduce el tiempo de recarga de Snipe en $value." />
+    <String id="313508" name="T3_Archer - R&amp;#233;duit le temps de recharge de Breakaway Bolt" tooltip="Reduce el tiempo de recarga de Snipe en $value." />
     <String id="313509" name="T3_Archer - Restaure les PM en cas de coup port&amp;#233; avec Marque de Velik" tooltip="Restaura $value MP cada vez que Velik's Mark golpea a su objetivo." />
     <String id="313600" name="T3_Mystique - R&amp;#233;duit le temps de recharge de T&amp;#233;l&amp;#233;portation" tooltip="Reduce el tiempo de recarga de Teleport Portal en $value." />
     <String id="313601" name="T3_Mystique - Restaure les PM en cas de coup port&amp;#233; avec Col&amp;#232;re du titan" tooltip="Cada invocaci&#243;n de Titan's Wrath restaura 150 MP." />
@@ -5481,7 +5481,7 @@
     <String id="350208" name="T3_Berserker - R&amp;#233;duit le temps de recharge de Destin in&amp;#233;luctable" tooltip="Reduce el tiempo de recarga de Inescapable Doom en $value." />
     <String id="350209" name="T3_Berserker - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Destin in&amp;#233;luctable" tooltip="Restaura $value MP cada vez que Inescapable Doom golpea a su objetivo." />
     <String id="350300" name="T3_Pourfendeur - Augmente les d&amp;#233;g&amp;#226;ts de la comp&amp;#233;tence Frappe verticale" tooltip="Aumenta el da&#241;o de Vertical Slash en $value." />
-    <String id="350301" name="T3_Pourfendeur - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Coup renversant" tooltip="Restaura $value MP cada vez que Knockdown Strike golpea a su objetivo." />
+    <String id="350301" name="T3_Pourfendeur - Restaure les PM suite &amp;#224; un coup port&amp;#233; avec Overhand Strike" tooltip="Restaura $value MP cada vez que Knockdown Strike golpea a su objetivo." />
     <String id="350302" name="T3_Pourfendeur - Augmente les d&amp;#233;g&amp;#226;ts de la comp&amp;#233;tence Tourbillon" tooltip="Aumenta el da&#241;o de Whirlwind en $value." />
     <String id="350303" name="T3_Pourfendeur - R&amp;#233;duit le temps de recharge de Roulade" tooltip="Reduce el tiempo de recarga de Evasion en $value." />
     <String id="350304" name="T3_Pourfendeur - R&amp;#233;duit le temps de recharge d'Attaque sournoise" tooltip="Reduce el tiempo de recarga de Backstab en $value." />
@@ -5508,7 +5508,7 @@
     <String id="350505" name="T3_Archer - R&amp;#233;duit le temps de recharge de Pi&amp;#232;ge &amp;#233;tourdissant" tooltip="Reduce el tiempo de recarga de Stun Trap en $value." />
     <String id="350506" name="T3_Archer - Augmente la dur&amp;#233;e de Combat rapproch&amp;#233;" tooltip="Aumenta la duraci&#243;n del efecto de Combate rapproch&#233; en un 5%." />
     <String id="350507" name="T3_Archer - Augmente la dur&amp;#233;e de Fl&amp;#232;che empoisonn&amp;#233;e" tooltip="Aumenta la duraci&#243;n del efecto de Fl&#232;che empoisonn&#233;e en un 17%." />
-    <String id="350508" name="T3_Archer - R&amp;#233;duit le temps de recharge de Trait de rupture" tooltip="Reduce el tiempo de recarga de Snipe en $value." />
+    <String id="350508" name="T3_Archer - R&amp;#233;duit le temps de recharge de Breakaway Bolt" tooltip="Reduce el tiempo de recarga de Snipe en $value." />
     <String id="350509" name="T3_Archer - Restaure les PM sur un coup port&amp;#233; avec Marque de Velik" tooltip="Restaura $value MP cada vez que Velik's Mark golpea a su objetivo." />
     <String id="350600" name="T3_Mystique - R&amp;#233;duit le temps de recharge de T&amp;#233;l&amp;#233;portation" tooltip="Reduce el tiempo de recarga de Teleport Portal en $value." />
     <String id="350601" name="T3_Mystique - Restaure les PM en cas de coup port&amp;#233; avec Col&amp;#232;re du titan" tooltip="Cada lanzamiento de Col&#232;re du titan restaura 75 MP." />
@@ -5545,7 +5545,7 @@
     <String id="350902" name="T3_Artilleuse_Salve de dispersion d&amp;#233;g&amp;#226;ts de comp&amp;#233;tence accrus" tooltip="Aumenta el da&#241;o de la habilidad Salve de dispersion de $value." />
     <String id="350903" name="T3_Artilleuse_Salve de dispersion r&amp;#233;g&amp;#233;n&amp;#232;re des PM en cas de cible touch&amp;#233;e" tooltip="Restaura $value MP cuando Salve de dispersion impacta en un objetivo." />
     <String id="350904" name="T3_Artilleuse_&amp;#192; bout portant temps de recharge r&amp;#233;duit" tooltip="Reduce el tiempo de recarga de A bout portant de $value." />
-    <String id="350905" name="T3_Artilleuse_Tire en rafale co&amp;#251;t en Volont&amp;#233; r&amp;#233;duit" tooltip="Reduce el costo de Volont&#233; de Tir en rafale en 5." />
+    <String id="350905" name="T3_Artilleuse_Tire en rafale co&amp;#251;t en Willpower r&amp;#233;duit" tooltip="Reduce el costo de Volont&#233; de Tir en rafale en 5." />
     <String id="350906" name="T3_Artilleuse_Barrage arcanique d&amp;#233;g&amp;#226;ts accrus" tooltip="Aumenta el da&#241;o de la habilidad Barrage arcanique de $value." />
     <String id="350907" name="T3_Artilleuse_Saut de roquette temps de recharge r&amp;#233;duit" tooltip="Reduce el tiempo de recarga de Saut de roquette de $value." />
     <String id="350908" name="T3_Artilleuse_Bombe lob&amp;#233;e dur&amp;#233;e d'anomalie accrue" tooltip="Aumenta la duraci&#243;n de Bombe lob&#233;e un 20 %." />
@@ -5594,7 +5594,7 @@
     <String id="360011" name="&amp;#201;quipement_Armure_Al&amp;#233;atoire_T3_Augmentation des d&amp;#233;g&amp;#226;ts de comp&amp;#233;tence" tooltip="Ninja: aumenta el da&#241;o de la habilidad Taille triangulaire de $value." />
     <String id="360012" name="T3_Lancier&amp;#160;: augmentation des d&amp;#233;g&amp;#226;ts de la comp&amp;#233;tence Attaque bondissante" tooltip="El da&#241;o de la habilidad Piqu&#233; lunaire (Danselune) aumenta en $value." />
     <String id="400000" name="Arme_relique_infobulle d'options&amp;#160;: facteur de coups critiques" tooltip="El factor de golpe cr&#237;tico aumenta al atacar a un monstruo del nivel requerido." />
-    <String id="410000" name="Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires sur les monstres enrag&amp;#233;s" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="410000" name="Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires sur les monstres enojados" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="410010" name="Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires des d&amp;#233;g&amp;#226;ts sur tous" tooltip="Inflige $value de da&#241;o adicional al atacar." />
     <String id="410020" name="Arme_R&amp;#233;duction du temps de rechargement" tooltip="Reduce el tiempo de recarga de $value." />
     <String id="410030" name="Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires des d&amp;#233;g&amp;#226;ts sur le plus fort taux d'agression" tooltip="Infliges $value puntos de da&#241;o adicional al monstruo que muestre m&#225;s agresividad hacia ti." />
@@ -5617,7 +5617,7 @@
     <String id="420020" name="Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts de renversement" tooltip="Reduce $value el da&#241;o de ataque mientras est&#225;s derribado." />
     <String id="420021" name="Torse_D&amp;#233;g&amp;#226;ts r&amp;#233;duits des attaques ennemies en &amp;#233;tant renvers&amp;#233; (2e semestre 2015, torse)" tooltip="Reduce $value el da&#241;o recibido al estar derribado." />
     <String id="420030" name="Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts subis en cas d'attaque frontale" tooltip="Reduce $value el da&#241;o recibido por ataques frontales." />
-    <String id="420040" name="Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part de monstres enrag&amp;#233;s" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="420040" name="Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part de monstres enojados" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
     <String id="420050" name="Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par les monstres aupr&amp;#232;s desquels votre agressivit&amp;#233; est la plus &amp;#233;lev&amp;#233;e" tooltip="Reduce en $value el da&#241;o recibido del monstruo que tiene m&#225;s agresividad hacia ti." />
     <String id="420060" name="Torse_R&amp;#233;cup&amp;#233;ration de PV suppl&amp;#233;mentaire" tooltip="Las habilidades de curaci&#243;n que recibes aumentan en $value." />
     <String id="420070" name="Torse_R&amp;#233;cup&amp;#233;ration de PV suppl&amp;#233;mentaire pendant 5 secondes" tooltip="Tus HP m&#225;ximos se regeneran un 1,2 % cada 5 segundos." />
@@ -6330,7 +6330,7 @@
     <String id="485508" name="[Opci&amp;#243;n de equipo aleatorio] El HP m&amp;#225;ximo aumenta" tooltip="&lt;font color = '#FFBB00'&gt;El HP m&#225;ximo aumenta en $value&lt;/font&gt;." />
     <String id="485509" name="[Opci&amp;#243;n de equipo aleatorio] El HP m&amp;#225;ximo aumenta" tooltip="&lt;font color = '#FFBB00'&gt;El HP m&#225;ximo aumenta en $value&lt;/font&gt;." />
     <String id="485510" name="[Opci&amp;#243;n de equipo aleatorio] El HP m&amp;#225;ximo aumenta" tooltip="&lt;font color = '#FFBB00'&gt;El HP m&#225;ximo aumenta en $value&lt;/font&gt;." />
-    <String id="510000" name="[Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts lorsque vous attaquez des monstres enrag&amp;#233;s" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="510000" name="[Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts lorsque vous attaquez des monstres enojados" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="510010" name="[Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts lorsque vous attaquez" tooltip="Aumenta el da&#241;o de $value al atacar." />
     <String id="510012" name="[Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaire en cas d'attaque sur toutes les cibles (r&amp;#233;serv&amp;#233; &amp;#224; l'&amp;#233;quipement &amp;#233;toil&amp;#233;)" tooltip="Aumenta el da&#241;o de $value al atacar." />
     <String id="510013" name="[Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaire en attaquant toutes cibles (juillet 2017 apr&amp;#232;s am&amp;#233;lioration de la structure de farming de l'&amp;#233;quipement)" tooltip="El da&#241;o aumenta en $value al atacar." />
@@ -6390,8 +6390,8 @@
     <String id="520010" name="[Corrig&amp;#233;] Torse_r&amp;#233;cup&amp;#233;ration imm&amp;#233;diate de PV lors d'une attaque" tooltip="Restaura inmediatamente $value de tu HP total cuando la habilidad golpea a su objetivo." />
     <String id="520020" name="[Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts d'attaques subies en &amp;#233;tant renvers&amp;#233;" tooltip="Reduce $value el da&#241;o de ataque mientras est&#225;s derribado." />
     <String id="520030" name="[Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts subis lors d'attaques frontales" tooltip="Reduce $value el da&#241;o recibido por ataques frontales." />
-    <String id="520040" name="[Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part de monstres enrag&amp;#233;s" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
-    <String id="520041" name="[Corrig&amp;#233;] Torse_D&amp;#233;g&amp;#226;ts r&amp;#233;duits face aux monstres enrag&amp;#233;s (juillet 2017 apr&amp;#232;s am&amp;#233;lioration de la structure de farming de l'&amp;#233;quipement)" tooltip="El da&#241;o recibido de monstruos enojados se reduce en $value." />
+    <String id="520040" name="[Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part de monstres enojados" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="520041" name="[Corrig&amp;#233;] Torse_D&amp;#233;g&amp;#226;ts r&amp;#233;duits face aux monstres enojados (juillet 2017 apr&amp;#232;s am&amp;#233;lioration de la structure de farming de l'&amp;#233;quipement)" tooltip="El da&#241;o recibido de monstruos enojados se reduce en $value." />
     <String id="520042" name="[Corrig&amp;#233;] Torse_R&amp;#233;duit les d&amp;#233;g&amp;#226;ts subis face aux monstres" tooltip="Reduce el da&#241;o recibido por los monstruos de $value." />
     <String id="520050" name="[Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part du plus fort taux d'agressivit&amp;#233;" tooltip="Reduce en $value el da&#241;o recibido del monstruo que tiene m&#225;s agresividad hacia ti." />
     <String id="520060" name="[Corrig&amp;#233;] Torse_gu&amp;#233;rit d'avantage de PV" tooltip="Las habilidades de curaci&#243;n que recibes aumentan en $value." />
@@ -7535,7 +7535,7 @@
     <String id="1221100" name="Reduce el da&amp;#241;o recibido por la espalda en JcJ." tooltip="Augmenta la defensa en JcJ contra ataques por la espalda en $value." />
     <String id="1221200" name="Reduce el da&amp;#241;o recibido en JcJ al estar derribado." tooltip="Aumenta la defensa en JcJ en $value al estar derribado." />
     <String id="1221300" name="Aumenta las estad&amp;#237;sticas de resistencia" tooltip="Aumenta la probabilidad de resistir derribos y aturdimientos en $value." />
-    <String id="1310200" name="Aumenta el da&amp;#241;o contra monstruos enrag&amp;#233;s." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="1310200" name="Aumenta el da&amp;#241;o contra monstruos enojados." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="1310300" name="Aumenta el da&amp;#241;o contra jefes." tooltip="Aumenta el da&#241;o en $value al atacar a jefes." />
     <String id="1310400" name="Aumenta el da&amp;#241;o contra monstruos." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos." />
     <String id="1310500" name="Aumenta el da&amp;#241;o contra esbirros." tooltip="Aumenta el da&#241;o en $value al atacar a s&#250;bditos." />
@@ -7581,7 +7581,7 @@
     <String id="1325400" name="Reflejo de da&amp;#241;o" tooltip="Refleja el 16,6% del da&#241;o recibido al atacante." />
     <String id="1325500" name="Aumento de curaci&amp;#243;n" tooltip="La efectividad de las habilidades de curaci&#243;n que recibes aumenta en $value." />
     <String id="1326100" name="Aumenta las estad&amp;#237;sticas de resistencia" tooltip="Aumenta la probabilidad de resistir derribos y aturdimientos en $value." />
-    <String id="1410000" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Arme_plus de d&amp;#233;g&amp;#226;ts inflig&amp;#233;s aux monstres enrag&amp;#233;s" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="1410000" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Arme_plus de d&amp;#233;g&amp;#226;ts inflig&amp;#233;s aux monstres enojados" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="1410010" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Arme_plus de d&amp;#233;g&amp;#226;ts &amp;#224; tous" tooltip="Aumenta el da&#241;o de $value al atacar." />
     <String id="1410020" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Arme_r&amp;#233;duction du temps de recharge des comp&amp;#233;tences" tooltip="Reduce el tiempo de recarga de las habilidades de $value." />
     <String id="1410030" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Arme_plus de d&amp;#233;g&amp;#226;ts au plus fort taux d'agression" tooltip="Aumenta un $value el da&#241;o infligido al objetivo que tenga m&#225;s agro hacia ti." />
@@ -7636,7 +7636,7 @@
     <String id="1420020" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts quand renvers&amp;#233;" tooltip="Reduce en $value el da&#241;o de ataque mientras est&#225;s derribado{@g:/e}." />
     <String id="1420021" name="[De ma&amp;#238;tre][Al&amp;#233;atoire] Torse_R&amp;#233;duit les d&amp;#233;g&amp;#226;ts des attaques ennemies en &amp;#233;tant renvers&amp;#233; (Torse apr&amp;#232;s le d&amp;#233;but 2015)" tooltip="Reduce en $value el da&#241;o de ataque mientras est&#225;s derribado{@g:/e}." />
     <String id="1420030" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts subis en cas d'attaque frontale" tooltip="Reduce $value el da&#241;o recibido por ataques frontales." />
-    <String id="1420040" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par les monstres enrag&amp;#233;s" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="1420040" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par les monstres enojados" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
     <String id="1420050" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par le plus fort taux d'agression" tooltip="Reduce en $value el da&#241;o del monstruo m&#225;s agresivo hacia ti." />
     <String id="1420060" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;cup&amp;#233;ration suppl&amp;#233;mentaire de PV" tooltip="Las habilidades de curaci&#243;n que recibes aumentan en $value." />
     <String id="1420070" name="[De ma&amp;#238;tre] [Al&amp;#233;atoire] Torse_r&amp;#233;cup&amp;#233;ration de PV suppl&amp;#233;mentaire toutes les 5 secondes" tooltip="Regenera un 1,2% del HP total cada 5 segundos." />
@@ -7682,8 +7682,8 @@
     <String id="1424091" name="[De ma&amp;#238;tre +11] [Corrig&amp;#233;] Chaussures_augmentation de la constitution" tooltip="Aumenta la constituci&#243;n en $value." />
     <String id="1424092" name="[De ma&amp;#238;tre +12] [Corrig&amp;#233;] Chaussures_augmentation de la constitution" tooltip="Aumenta la constituci&#243;n en $value." />
     <String id="1424093" name="[Haut rang] Manches du serment h&amp;#233;ro&amp;#239;que_D&amp;#233;g&amp;#226;ts r&amp;#233;duits en cas de coup port&amp;#233; par les griffes massues de Bahaar (octobre 2018)" tooltip="&lt;font color = '#c83dff'&gt;[Amplification]&lt;/font&gt; Si los garrotes de Bahaar te alcanzan mientras est&#225;s en combate, recibes un 20% menos de da&#241;o." />
-    <String id="1510000" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts inflig&amp;#233;s aux monstres enrag&amp;#233;s" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
-    <String id="1510001" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires en attaquant des monstres enrag&amp;#233;s (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Reduce el da&#241;o recibido de monstruos enrag&#233;s en $value." />
+    <String id="1510000" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts inflig&amp;#233;s aux monstres enojados" tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="1510001" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires en attaquant des monstres enojados (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Reduce el da&#241;o recibido de monstruos enrag&#233;s en $value." />
     <String id="1510010" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Arme_plus de d&amp;#233;g&amp;#226;ts lorsque vous attaquez" tooltip="Aumenta el da&#241;o de $value al atacar." />
     <String id="1510011" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires en attaquant tous types de cibles (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Aumenta el da&#241;o de $value al atacar." />
     <String id="1510012" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Arme_D&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaire en cas d'attaque sur toutes les cibles (r&amp;#233;serv&amp;#233; &amp;#224; l'&amp;#233;quipement &amp;#233;toil&amp;#233;)" tooltip="Aumenta el da&#241;o de $value al atacar." />
@@ -7730,8 +7730,8 @@
     <String id="1520020" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts subis en &amp;#233;tant renvers&amp;#233;" tooltip="Reduce en $value el da&#241;o de ataque mientras est&#225;s derribado{@g:/e}." />
     <String id="1520030" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part d'attaques frontales" tooltip="Reduce $value el da&#241;o recibido por ataques frontales." />
     <String id="1520031" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts face aux attaques frontales (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Reduce $value el da&#241;o recibido por ataques frontales." />
-    <String id="1520040" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par les monstres enrag&amp;#233;s" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
-    <String id="1520041" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts face aux monstres enrag&amp;#233;s (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="1520040" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts inflig&amp;#233;s par les monstres enojados" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
+    <String id="1520041" name="[De ma&amp;#238;tre][Corrig&amp;#233;] Torse_R&amp;#233;duction des d&amp;#233;g&amp;#226;ts face aux monstres enojados (R&amp;#233;serv&amp;#233; aux cybercaf&amp;#233;s)" tooltip="Reduce en $value el da&#241;o infligido por los monstruos enojados." />
     <String id="1520042" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_R&amp;#233;duit les d&amp;#233;g&amp;#226;ts subis face aux monstres" tooltip="Reduce el da&#241;o recibido por los monstruos de $value." />
     <String id="1520050" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_r&amp;#233;duction des d&amp;#233;g&amp;#226;ts de la part du plus fort taux d'agression" tooltip="Reduce en $value el da&#241;o del monstruo m&#225;s agresivo hacia ti." />
     <String id="1520060" name="[De ma&amp;#238;tre] [Corrig&amp;#233;] Torse_PV suppl&amp;#233;mentaires en cas de gu&amp;#233;rison" tooltip="Las habilidades de curaci&#243;n que recibes aumentan en $value." />
@@ -7900,7 +7900,7 @@
     <String id="1524569" name="[De ma&amp;#238;tre] [Correction accrue] Chaussures_Augmente la puissance (Forgeron vindicatif)" tooltip="Aumenta el poder en $value." />
     <String id="1524570" name="[De ma&amp;#238;tre] [Correction accrue] Chaussures_Augmente la r&amp;#233;sistance aux coups critiques (Forgeron vindicatif)" tooltip="Aumenta la resistencia al golpe cr&#237;tico en $value." />
     <String id="1524571" name="[De ma&amp;#238;tre] [Correction accrue] Chaussures_Augmente la puissance (forgeron vindicatif)" tooltip="El poder aumenta en $value." />
-    <String id="2310200" name="Aumenta el da&amp;#241;o contra monstruos enrag&amp;#233;s." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
+    <String id="2310200" name="Aumenta el da&amp;#241;o contra monstruos enojados." tooltip="Aumenta el da&#241;o en $value al atacar a monstruos enrag&#233;s." />
     <String id="2310300" name="Aumenta el da&amp;#241;o contra jefes." tooltip="Aumenta el da&#241;o en $value al atacar a jefes." />
     <String id="2310400" name="Aumenta el da&amp;#241;o contra monstruos." tooltip="Aumenta el da&#241;o de $value al atacar a monstruos." />
     <String id="2310500" name="Aumenta el da&amp;#241;o contra esbirros." tooltip="Aumenta el da&#241;o en $value al atacar a esbirros." />
@@ -8513,7 +8513,7 @@
     <String id="4999975" name="1. Arme mythique_Option Berserker_Plus de PV80&amp;#160;: plus de d&amp;#233;g&amp;#226;ts_autre nom" tooltip="&lt;font color = '#c83dff'&gt;[Kaia's Fury]&lt;/font&gt;$BREsto inflige 5% de da&#241;o adicional cuando tu HP est&#225; por encima del 80%.$BREste efecto solo se activa frente a monstruos.$BRDurante el Rage, la activaci&#243;n tambi&#233;n ocurre si tu HP est&#225; por debajo del 80%.$BR" />
     <String id="4999976" name="1re arme mythique_option de Berserker&amp;#160;: explosion de rage_PV sous 80&amp;#160;%&amp;#160;: 5&amp;#160;% de d&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires" />
     <String id="4999977" name="1re arme mythique_options de tank_monstre enrag&amp;#233;_taux d'agression_Bourrask" tooltip="&lt;font color = '#c83dff'&gt;[Kaia's Will]&lt;/font&gt;$BRLos ataques contra monstruos enojados infligen 5% m&#225;s de da&#241;o.$BREl aumento de generaci&#243;n de aggro aumenta en $value.$BREl efecto de aumento de generaci&#243;n de aggro no se aplica si has activado la delicadeza para Increasing Rage (Irregularity).$BR" />
-    <String id="4999978" name="(Invisible) 1re arme mythique_d&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires sur les monstres enrag&amp;#233;s" />
+    <String id="4999978" name="(Invisible) 1re arme mythique_d&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires sur les monstres enojados" />
     <String id="4999979" name="1re arme mythique_options de tank_monstre enrag&amp;#233;_taux d'agression_Lancier" tooltip="&lt;font color = '#c83dff'&gt;[Kaia's Will]&lt;/font&gt;$BRLos ataques contra monstruos enojados infligen 5% m&#225;s de da&#241;o.$BREl aumento de generaci&#243;n de aggro aumenta en $value.$BR" />
     <String id="4999980" name="1re arme mythique_options de soigneur_sous 40&amp;#160;PV&amp;#160;: 20&amp;#160;points de soins suppl&amp;#233;mentaires" tooltip="&lt;font color = '#c83dff'&gt;[Kaia's Will]&lt;/font&gt;$BRLos ataques contra monstruos enojados infligen 5% m&#225;s de da&#241;o.$BRLa regeneraci&#243;n de HP aumenta en $value cuando aliados con menos del 40% de HP activan habilidades de regeneraci&#243;n.$BR" />
     <String id="4999981" name="1re arme mythique_options de combattant_au-del&amp;#224; de 80&amp;#160;PV&amp;#160;: d&amp;#233;g&amp;#226;ts accrus" tooltip="&lt;font color = '#c83dff'&gt;[Kaia's Fury]&lt;/font&gt;$BRInflige 5% m&#225;s de da&#241;o cuando tu HP est&#225; por encima del 80%.$BREste efecto solo se activa contra monstruos.$BR" />
@@ -8525,7 +8525,7 @@
     <String id="4999987" name="[Corrig&amp;#233;] Bottes_5&amp;#160;% de d&amp;#233;g&amp;#226;ts suppl&amp;#233;mentaires en attaquant des monstres" tooltip="Infliges $value m&#225;s de da&#241;o al atacar monstruos." />
     <String id="4999988" name="[Corrig&amp;#233;] Arme_taux d'agression accru de 30&amp;#160;% en cas d'attaque de monstres" tooltip="Atraes $value m&#225;s de agresividad al atacar monstruos." />
     <String id="4999989" name="[Corrig&amp;#233;] Arme_le temps de rechargement diminue de 23,6&amp;#160;%" tooltip="El tiempo de reutilizaci&#243;n disminuye en $value." />
-    <String id="4999990" name="[Corrig&amp;#233;] Arme_d&amp;#233;g&amp;#226;ts accrus sur les monstres enrag&amp;#233;s" tooltip="Infliges $value m&#225;s de da&#241;o al atacar monstruos enojados." />
+    <String id="4999990" name="[Corrig&amp;#233;] Arme_d&amp;#233;g&amp;#226;ts accrus sur les monstres enojados" tooltip="Infliges $value m&#225;s de da&#241;o al atacar monstruos enojados." />
     <String id="4999991" name="[Corrig&amp;#233;] Arme_insigne d'Arkarp_R&amp;#233;duction de la r&amp;#233;sistance aux coups critiques de la cible" tooltip="&lt;font color = '#FFBB00'&gt;[Arkarp's Badge]&lt;/font&gt;: un ataque tiene cierta probabilidad de debilitar al objetivo." />
     <String id="4999992" name="[Corregido] Factor de golpe cr&amp;#237;tico aumentado para cinturones" tooltip="El factor de golpe cr&#237;tico aumenta en $value." />
     <String id="4999993" name="[Corregido] HP aumentado para cinturones" tooltip="Tu HP m&#225;ximo aumenta en $value." />
